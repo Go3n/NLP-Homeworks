@@ -1,0 +1,83 @@
+Desviació_de_Torelló/NP a/SP la/DA carretera/NC de/SP Manlleu/NP a/SP el/DA límit/NC amb/SP Girona/NP ./FF ;/FF BV-5222/ZZ C.V._de_Manlleu/NP a/SP Folgueroles/NP ,/FF per/SP Roda/NP i/CC Tavèrnoles/NP ;/FF BV-5224/ZZ Ctra._de_Manlleu/NP a/SP el/DA límit/NC de/SP la/DA província/NC de/SP Girona/NP ,/FF per/SP Sant_Pere_de_Torelló/NP ;/FF BV-5225/ZZ C.V._de_Torelló/NP a/SP la/DA ctra./NC de/SP Barna/NP ./FF a/SP Ribes_per_les_Masies_de_Voltregà/NP i/CC per/SP el/DA pont/NC sobre/SP el/DA riu/NC Ter/NP ;/FF BV-5226/ZZ C.V./NP de/SP la/DA ctra./NC de/SP Barna/NP a/SP Ribes/NP a/SP Orís/NP a/SP l'/DA estació/NC de/SP el/DA F.C._de_el_Nord/NP i/CC C.V._de_Torelló/NP a/SP l'/DA estació/NC ;/FF BV-5227/ZZ C.V._de_Sant_Quirze_de_Besora/NP a/SP el/DA límit/NC de/SP la/DA província/NC en_direcció_a/SP Vidrà/NP ;/FF BV-5228/ZZ C.V._de_Sant_Vicenç_de_Torelló/NP a/SP la/DA ctra./NC de/SP Manlleu/NP a/SP el/DA límit/NC amb/SP Girona_per_Sant_Pere_de_Torelló/NP ;/FF BV-5229/ZZ C.V._de_Sant_Vicenç_de_Torelló/NP a/SP la/DA Colònia_Vilaseca/NP ;/FF BV-5251/ZZ C.V._de_el_Hostal_de_la_Fullaca/NP a/SP el/DA límit/NC amb/SP Girona/NP ;/FF BV-5303/ZZ Carretera_de_Collsuspina/NP a/SP el/DA límit/NC de/SP la/DA província/NC de/SP Girona/NP ,/FF en_direcció_a/SP Viladrau/NP ;/FF BV-5305/ZZ C.V._de_Taradell/NP a/SP l'/DA Estació_de_Balenyà/NP ;/FF BV-5306/ZZ C.V./NP de/SP l'/DA estació/NC de/SP Mont-rodon-Taradell/NP a/SP la/DA carretera/NC d'/SP Arbúcies/NP a/SP Vic/NP i/CC de/SP Taradell/NP a/SP la/DA N-152/ZZ ;/FF BV-5307/ZZ Branc/NP a/SP el/DA Montseny/NP ;/FF BV-6001/ZZ C.V._de_Malgrat/NP a/SP Blanes/NP (/FF per/SP variant/NC )/FF ;/FF BV-6002/ZZ Branc/NP a/SP Palafolls_de_el_C.V._de_Malgrat/NP a/SP Blanes/NP ;/FF C-xx/NP ./FF
+C-16z/ZZ ;/FF C-37z/ZZ ;/FF C-xxx/NP ./FF
+C-153/ZZ ;/FF C-154/ZZ ;/FF C-243b/ZZ ;/FF C-243c/ZZ ;/FF C-243cant/ZZ ;/FF C-244/ZZ ;/FF C-245/ZZ ;/FF C-246/ZZ ;/FF C-246a/ZZ ;/FF C-670/ZZ ;/FF C-xxxx/NP ./FF
+C-1410z/ZZ ;/FF C-1411a/ZZ ;/FF C-1411ar/ZZ ;/FF C-1411b/ZZ ;/FF C-1411z/ZZ ;/FF C-1413a/ZZ ;/FF C-1413b/ZZ ;/FF C-1415a/ZZ ;/FF C-1415b/ZZ ;/FF C-1415c/ZZ ;/FF N-xxx/NP ./FF
+N-141a/ZZ ;/FF N-141b/ZZ ;/FF N-141d/ZZ Accés_Est/NP a/SP Vic/NP ;/FF N-141g/ZZ ;/FF N-IIz/NP ;/FF Girona/NP ./FF
+Lleida/NP ./FF
+Tarragona/NP ./FF
+N-xxx/NP ./FF
+N-230b/ZZ De/NP la/DA C-43/ZZ a/SP la/DA T-333/ZZ ;/FF N-230c/ZZ De/NP la/DA C-43/ZZ a/SP el/DA límit/NC comarcal/AQ de/SP la/DA Ribera_d'_Ebre/NP ;/FF T-xxx/NP ./FF
+T-201/ZZ De_Santa_Coloma_de_Queralt/NP a/SP Esblada/NP ;/FF T-202/ZZ D'_Altafulla/NP a/SP la/DA Riera_de_Gaià/NP ;/FF T-203/ZZ De/NP la/DA TP-2031/ZZ a/SP la/DA Riera_de_el_Gaià_per_el_Catllar/NP ;/FF T-210/ZZ De/NP la/DA N-340/ZZ a/SP la/DA Pobla_de_Montornés/NP ;/FF T-211/ZZ De_la_Pobla_de_Montornés/NP a/SP la/DA Nou/AQ de/SP Gaià/NP ;/FF T-222/ZZ De_Passanant/NP a/SP la/DA T-233/ZZ ;/FF T-223/ZZ De_Vallmoll/NP a/SP La_Secuita/NP ;/FF T-231/ZZ TP-2311a/ZZ Barberà_de_la_Conca/NP ;/FF T-234/ZZ de/SP el/DA límit/AQ província/NC de/SP Lleida/NP a/SP Passanant/NP ;/FF T-242/ZZ De/NP la/DA C-241d/ZZ a/SP Barberà_de_la_Conca/NP ;/FF T-244/ZZ de/SP el/DA Pla_de_Manlleu/NP a/SP Ranxos_de_Bonany/NP ;/FF T-301/ZZ De_Tortosa/NP a/SP Benifallet/NP ;/FF T-302/ZZ De_Benifallet/NP a/SP la/DA C-12/ZZ ;/FF T-310/ZZ De/NP la/DA T-318/ZZ a/SP Pratdip/NP ;/FF T-310z/ZZ Antiga/NP T-310/ZZ ;/FF T-311/ZZ De_Pratdip/NP a/SP la/DA C-44/ZZ ;/FF T-312/ZZ De/NP la/DA T-310/ZZ a/SP Montbrió_de_el_Camp/NP ;/FF T-313/ZZ De_Montbrió_de_el_Camp/NP a/SP la/DA N-420/ZZ ;/FF T-314/ZZ de/SP el/DA Parc_Samà/NP a/SP Reus/NP ;/FF T-319/ZZ Accessos/NP a/SP Port_Aventura/NP ;/FF T-320/ZZ De_Montbrió_de_el_Camp/NP a/SP l'/DA Estació_de_Botarell/NP ;/FF T-321/ZZ De/NP la/DA T-310z/ZZ a/SP Vilanova_d'_Escornalbou/NP ;/FF T-324/ZZ de/SP el/DA límit/NC Comarca_de_la_Terra_Alta/NP a/SP Mòra_d'_Ebre_per_Miravet/NP ;/FF T-341/ZZ De_Tortosa/NP a/SP Roquetes/NP ;/FF T-342/ZZ De_Roquetes/NP a/SP els/DA Reguers/NP ;/FF T-343/ZZ De_Duesaigües/NP a/SP l'/DA Argentera/NP ;/FF T-361/ZZ De_Prat_de_Comte/NP a/SP l'/DA antiga/AQ estació/NC de/SP ferrocarril/NC ;/FF T-700/ZZ de/SP el/DA Monestir_de_Poblet/NP a/SP la/DA TV-7005/ZZ ;/FF T-702/ZZ De_La_Bisbal_de_Falset/NP a/SP la/DA Palma_d'_Ebre/NP ;/FF T-703/ZZ De/NP la/DA C-233/ZZ a/SP La_Palma_d'_Ebre/NP ;/FF T-704/ZZ De/NP la/DA N-420/ZZ a/SP la/DA TV-7041/ZZ ;/FF T-711/ZZ De_Gratallops/NP a/SP Torroja_de_el_Priorat/NP ;/FF T-712/ZZ De_Gratallops/NP a/SP el/DA Lloar/NP ;/FF T-721/ZZ De/NP la/DA C-422/ZZ a/SP la/DA Pobla_de_Mafumet/NP ;/FF T-722/ZZ De_La_Pobla_de_Mafumet/NP a/SP la/DA C-37/ZZ ;/FF T-723/ZZ De_Batea/NP a/SP el/DA límit/NC de/SP la/DA província/NC de/SP Saragossa/NP ;/FF T-730/ZZ De/NP la/DA T-714/ZZ a/SP el/DA Molar/NP ;/FF T-731/ZZ De_Garcia/NP a/SP el/DA Molar/NP ;/FF T-732/ZZ de/SP el/DA Molar/NP a/SP el/DA Lloar/NP ;/FF T-733/ZZ D'_Ascó/NP a/SP La_Fatarella/NP ;/FF T-734/ZZ De/NP la/DA N-420/ZZ a/SP el/DA Molar/NP ;/FF T-740/ZZ De_Falset/NP a/SP Porrera/NP ;/FF T-750/ZZ De/NP la/DA N-240/ZZ a/SP La_Pobla_de_Mafumet/NP ;/FF T-751/ZZ De_La_Masó/NP a/SP Vallmoll/NP ;/FF T-xxxx/NP ./FF
+T-1025/ZZ De_Santa_Bàrbara/NP a/SP Mas_de_Barberans/NP ;/FF T-2237/ZZ De_Vinebre/NP a/SP La_Palma_d'_Ebre/NP ;/FF T-3136/ZZ De_Botarell/NP a/SP la/DA N-420/ZZ ;/FF T-3225/ZZ De_Cornudella_de_Montsant/NP a/SP Siurana/NP ;/FF T-3231/ZZ D'_Almoster/NP a/SP La_Selva_de_el_Camp/NP ;/FF TP-xxxx/NP ./FF
+TP-2003/ZZ Branc/NP a/SP Vila-rodona/NP ./FF ;/FF TP-2031/ZZ De_Tarragona/NP a/SP la/DA C-51/ZZ ./FF
+TP-2031a/ZZ Travessera_de_Sant_Pere/NP i/CC Sant_Pau/NP (/FF Tarragona/NP )/FF ./FF
+TP-2036/ZZ De_Puigpelat/NP a/SP Alió/NP ./FF
+TP-2039/ZZ De_El_Catllar/NP a/SP la/DA N-340/ZZ ./FF
+TP-2044/ZZ De_El_Vendrell/NP a/SP Sant_Vicenç_de_Calders/NP ./FF ;/FF TP-2045/ZZ De_Masllorenç/NP a/SP la/DA C-51/ZZ ./FF
+TP-2115a/ZZ Tram_L'_Arboç/NP ./FF
+TP-2124a/ZZ Travessera_de_L'_Arboç/NP ./FF
+TP-2235/ZZ De_Els_Pallaresos/NP a/SP Sant_Salvador/NP ./FF
+TP-2311/ZZ Accés/NP a/SP El_Pla_de_Santa_Maria/NP ./FF
+TP-2402/ZZ De_La_Bisbal_de_el_Penedès/NP a/SP la/DA C-51/ZZ ./FF
+TP-2442/ZZ De_Sant_Jaume_de_els_Domenys/NP a/SP El_Pla_de_Manlleu/NP ./FF
+TP-3211/ZZ De_Riudecanyes/NP a/SP el/DA Castell_d'_Escornalbou/NP ./FF
+TP-3311a/ZZ De/NP la/DA T-1025/ZZ a/SP la/DA TP-3311/ZZ ./FF
+TP-7049/ZZ De_Reus/NP a/SP Castellvell_de_el_Camp/NP ./FF
+TP-7101/ZZ De_Falset/NP a/SP Bellmunt_de_el_Priorat/NP ./FF
+TP-7225/ZZ De_Reus/NP a/SP El_Morell/NP ./FF
+TP-7401/ZZ De_Porrera/NP a/SP la/DA N-420/ZZ ./FF
+TP-7402/ZZ De_Porrera/NP a/SP La_Venta_de_el_Pubill/NP (/FF Cornudella_de_Montsant/NP )/FF ./FF ;/FF TP-7403/ZZ De_Porrera/NP a/SP Torroja_de_el_Priorat/NP ./FF
+TV-xxxx/NP ./FF
+TV-2001/ZZ De_Figuerola_de_el_Camp/NP a/SP El_Pla_de_Santa_Maria/NP ./FF
+TV-2005/ZZ De_L'_Albà/NP a/SP la/DA TP-2002/ZZ ./FF
+TV-2006/ZZ D'_Aiguamúrcia/NP a/SP Santes_Creus/NP ./FF
+TV-2011/ZZ De_Pontils/NP a/SP el/DA límit/NC de/SP la/DA província/NC ./FF
+TV-2012/ZZ Branc/NP a/SP Sant_Magí_de_Brufaganya/NP ./FF ;/FF TV-2013/ZZ Branc/NP a/SP Viladeperdius/NP ./FF
+TV-2014/ZZ De_Biure_de_Gaià/NP a/SP la/DA C-241d/ZZ ./FF
+TV-2015/ZZ De_Vallespinosa/NP a/SP la/DA C-241d/ZZ ./FF ;/FF TV-2021/ZZ De_Vespella/NP a/SP La/NP Nou/AQ de/SP Gaià/NP ./FF
+TV-2032/ZZ De_Vilabella/NP a/SP L'_Argilaga/NP ./FF ;/FF TV-2033/ZZ Branc/NP a/SP Renau/NP ./FF ;/FF TV-2034/ZZ De_Valls/NP a/SP Vilabella/NP ./FF
+TV-2035/ZZ De_Nulles/NP a/SP Valls/NP ./FF
+TV-2038/ZZ Accès/NP a/SP la/DA Platja_Llarga_de_Tarragona/NP des_de/SP la/DA N-340/ZZ ./FF ;/FF TV-2041/ZZ De/NP la/DA N-340/ZZ a/SP la/DA TV-2042/ZZ per/SP Roda_de_Barà/NP i/CC Bonastre/NP ./FF ;/FF TV-2042/ZZ De/NP la/DA C-51/ZZ a/SP la/DA T-204/ZZ per/SP Masarbonès/NP i/CC Masllorenç/NP ./FF
+TV-2043/ZZ D'_Albinyana/NP a/SP la/DA C-51/ZZ ./FF
+TV-2048/ZZ De/NP la/DA TP-2044/ZZ a/SP el/DA Barri_Baix_de_Sant_Vicenç/NP ./FF
+TV-2121/ZZ de/SP el/DA Barri_de_la_Carronya/NP (/FF Sant_Jaume_de_els_Domenys/NP )/FF a/SP la/DA T-212/ZZ ./FF
+TV-2122/ZZ De_Papiolet/NP a/SP Banyeres_de_el_Penedès_per_Sant_Jaume_de_els_Domenys/NP ./FF ;/FF TV-2126/ZZ De_Bellvei/NP a/SP C-31/ZZ ./FF
+TV-2127/ZZ de/SP el/DA Vendrell/NP a/SP Sant_Salvador/NP ./FF
+TV-2128/ZZ Branc/NP a/SP Santa_Oliva/NP ./FF
+TV-2141/ZZ De_Selmellà/NP a/SP el/DA Pont_d'_Armentera/NP ./FF
+TV-2142/ZZ de/SP el/DA Pont_d'_Armentera/NP a/SP el/DA Barri_de_Les_Ordes/NP ./FF
+TV-2212/ZZ D'_Aguiló/NP a/SP la/DA C-241e/ZZ ./FF
+TV-2231/ZZ De_l'_Argilaga/NP a/SP la/DA N-240/ZZ per/SP la/DA Secuita/NP i/CC Perafort/NP ./FF ;/FF TV-2232/ZZ De/NP la/DA N-240/ZZ a/SP la/DA TV-2231/ZZ per/SP els/DA Garidells/NP ./FF ;/FF TV-2233/ZZ De_les_Gunyoles/NP a/SP la/DA N-240/ZZ ./FF ;/FF TV-2234/ZZ Branc/NP a/SP Vistabella/NP ./FF
+TV-2236/ZZ De_Perafort/NP a/SP la/DA TP-2031/ZZ per/SP els/DA Pallaresos/NP ./FF ;/FF TV-2241/ZZ De_Rauric/NP a/SP el/DA límit/NC de/SP la/DA província/NC ./FF
+TV-2242/ZZ Branc/NP a/SP Montargull/NP ./FF
+TV-2243/ZZ De_la_Cirera/NP a/SP la/DA T-224/ZZ ./FF
+TV-2244/ZZ De_Conesa/NP a/SP la/DA T-224/ZZ per/SP Savallà_de_el_Comtat/NP ./FF ;/FF TV-2245/ZZ D'_Albió/NP a/SP la/DA T-224/ZZ ./FF
+TV-2301/ZZ De_Conesa/NP a/SP les/DA Piles/NP ./FF
+TV-2331/ZZ De_Rocafort_de_Queralt/NP a/SP la/DA T-233/ZZ ./FF
+TV-2333/ZZ De_Montbrió_de_la_Marca/NP a/SP la/DA C-241d/ZZ ./FF
+TV-2334/ZZ De_Vallverd/NP a/SP la/DA C-241d/ZZ ./FF
+TV-2336/ZZ De_l'_Espluga_de_Francolí/NP a/SP la/DA T-233/ZZ per/SP Blancafort/NP i/CC Solivella/NP ./FF ;/FF TV-2337/ZZ De_Blancafort/NP a/SP la/DA C-14/ZZ ./FF
+TV-2338/ZZ De_Blancafort/NP a/SP el/DA límit/NC de/SP la/DA província/NC ./FF
+TV-2401/ZZ De_la_Bisbal_de_el_Penedès/NP a/SP la/DA C-51/ZZ per/SP la/DA Joncosa_de_Montmell/NP ./FF
+TV-2421/ZZ De_Montblanc/NP a/SP Prenafeta/NP ./FF
+TV-2441/ZZ De_Santes_Creus/NP a/SP Pontons/NP ./FF ;/FF TV-2443/ZZ De_Vila-rodona/NP a/SP Aiguaviva/NP ./FF ;/FF TV-2444/ZZ De/NP la/DA C-51/ZZ a/SP Canferrer/NP ./FF ;/FF TV-2444b/ZZ Branc/NP a/SP Mas/NP d'/SP en/SP Bosch/NP ./FF
+TV-3002/ZZ De_Capçanes/NP a/SP Marçà/NP ./FF
+TV-3002a/ZZ Accés/NP a/SP Marçà/NP ./FF
+TV-3021/ZZ De_Rasquera/NP a/SP Cardó/NP ./FF ;/FF TV-3022a/ZZ Accés/NP a/SP Rasquera/NP ./FF ;/FF TV-3023/ZZ De_Miravet/NP a/SP la/DA C-12/ZZ ./FF
+TV-3025/ZZ De/NP l'/DA estació/NC de/SP l'/DA Ametlla_de_Mar/NP a/SP la/DA N-340a/ZZ ./FF ;/FF TV-3032/ZZ De_la_Serra_d'_Almos/NP a/SP la/DA N-420/ZZ per/SP Darmós/NP ./FF
+TV-3103/ZZ De_Riudoms/NP a/SP Vinyols/NP i/CC els/DA Arcs/NP ./FF
+TV-3111/ZZ De_Llaberia/NP a/SP la/DA T-311/ZZ ./FF
+TV-3131/ZZ De/NP l'/DA estació/NC de/SP Riudecanyes-Botarell/NP a/SP Riudecanyes/NP ./FF
+TV-3145/ZZ De/NP la/DA T-11/ZZ a/SP l'/DA estació/NC de/SP la/DA Canonja/NP ./FF ;/FF TV-3146/ZZ De_Tarragona/NP a/SP el/DA Far_de_Salou/NP ./FF
+TV-3147/ZZ De_Cambrils/NP a/SP Salou/NP ./FF ;/FF TV-3148/ZZ De_la_Pineda/NP a/SP Vila-seca/NP ./FF
+TV-3223/ZZ De_la_Torre_de_Fontaubella/NP a/SP Pradell/NP ./FF ;/FF TV-3301/ZZ De_Bot/NP a/SP Prat_de_Comte/NP ./FF
+TV-3313/ZZ D'_Ulldecona/NP a/SP la/DA Galera_per_Godall/NP ./FF ;/FF TV-3314/ZZ De_la_Galera/NP a/SP la/DA TV-3319/ZZ per/SP la/DA Miliana/NP ./FF ;/FF TV-3315/ZZ Branc/NP a/SP la/DA Miliana/NP ./FF ;/FF TV-3317/ZZ De/NP la/DA T-331/ZZ a/SP Freginals/NP ./FF ;/FF TV-3321a/ZZ Travessera_d'_Alcanar/NP ;/FF TV-3341/ZZ D'_Horta_de_Sant_Joan/NP a/SP el/DA límit/NC de/SP la/DA província/NC ./FF ;/FF TV-3344/ZZ De/NP la/DA N-420/ZZ a/SP Caseres/NP ./FF ;/FF TV-3401/ZZ De_l'_Ampolla/NP a/SP Deltebre/NP ./FF
+TV-3404/ZZ De_Sant_Jaume_d'_Enveja/NP a/SP el/DA TV-3405/ZZ ./FF ;/FF TV-3405/ZZ De/NP la/DA TV-3403/ZZ a/SP els/DA Muntells/NP ./FF ;/FF TV-3406/ZZ De/NP la/DA TV-3408/ZZ a/SP la/DA TV-3405/ZZ ./FF
+TV-3408/ZZ D'_Amposta/NP a/SP la/DA TV-3406/ZZ ;/FF TV-3409/ZZ De_Camarles/NP a/SP Deltebre/NP ./FF ;/FF TV-3421/ZZ De_la_Sénia/NP a/SP Roquetes/NP ./FF
+TV-3422/ZZ D'_Alfara_de_Carles/NP a/SP els/DA Reguers/NP ./FF
+TV-3443/ZZ D'_Amposta/NP a/SP Vinallop/NP ./FF
+TV-3451/ZZ De_Deltebre/NP a/SP el/DA Port_de_el_Fangar/NP ./FF ;/FF TV-3454a/ZZ Camí/NP de/SP servei/NC ./FF ;/FF TV-3541/ZZ De_Paüls/NP a/SP Xerta/NP ./FF
+TV-7001/ZZ De/NP la/DA N-240/ZZ a/SP l'/DA Espluga_de_Francolí/NP ./FF
+TV-7002/ZZ De_Vimbodí/NP a/SP Poblet/NP ./FF ;/FF TV-7003/ZZ De_Vimbodí/NP a/SP la/DA T-700/ZZ ./FF
+TV-7004a/ZZ Accés/NP a/SP Vimbodí/NP i/CC a/SP Vallclara/NP ;/FF TV-7004b/ZZ Branc/NP antic/AQ pas/NC a/SP nivell/NC F.C./NP ;/FF TV-7007/ZZ De_Poblet/NP a/SP l'/DA Espluga_de_Francolí/NP ./FF
+TV

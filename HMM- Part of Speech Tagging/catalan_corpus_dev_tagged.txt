@@ -80,4 +80,89 @@ TV-3451/ZZ De_Deltebre/NP a/SP el/DA Port_de_el_Fangar/NP ./FF ;/FF TV-3454a/ZZ 
 TV-7001/ZZ De/NP la/DA N-240/ZZ a/SP l'/DA Espluga_de_Francolí/NP ./FF
 TV-7002/ZZ De_Vimbodí/NP a/SP Poblet/NP ./FF ;/FF TV-7003/ZZ De_Vimbodí/NP a/SP la/DA T-700/ZZ ./FF
 TV-7004a/ZZ Accés/NP a/SP Vimbodí/NP i/CC a/SP Vallclara/NP ;/FF TV-7004b/ZZ Branc/NP antic/AQ pas/NC a/SP nivell/NC F.C./NP ;/FF TV-7007/ZZ De_Poblet/NP a/SP l'/DA Espluga_de_Francolí/NP ./FF
-TV
+TV-7012/ZZ D'_Arbolí/NP a/SP la/DA C-242/ZZ ./FF ;/FF TV-7021/ZZ De_la_Morera_de_Montsant/NP a/SP Cornudella_de_Montsant/NP ./FF ;/FF TV-7022/ZZ Accés/NP a/SP Escaladei/NP des_de/SP la/DA T-702/ZZ ./FF ;/FF TV-7023/ZZ Accés/NP a/SP la/DA Bisbal_de_Falset/NP ./FF ;/FF TV-7041b/ZZ Branc/NP d'/SP accés/NC a/SP Capafonts/NP ;/FF TV-7042/ZZ De_Rojals/NP a/SP Montblanc/NP ./FF ;/FF TV-7044/ZZ De_la_Riba/NP a/SP Farena/NP ./FF
+TV-7045/ZZ De_Mont-ral/NP a/SP la/DA T-704/ZZ per/SP el/DA Bosquet/NP i/CC l'/DA Aixàbega/NP ./FF
+TV-7045b/ZZ Branc/NP d'/SP accés/NC a/SP Mont-ral/NP ;/FF TV-7045c/ZZ Branc/NP d'/SP accés/NC a/SP el/DA Bosquet/NP ;/FF TV-7045d/ZZ Branc/NP d'/SP accés/NC a/SP l'/DA Aixàbega/NP ;/FF TV-7046/ZZ De_l'_Albiol/NP a/SP la/DA C-14/ZZ ./FF ;/FF TV-7046b/ZZ Branc/NP a/SP les/DA Masíes_Catalanes/NP ;/FF TV-7048/ZZ De_Castellvell_de_el_Camp/NP a/SP Almoster/NP ./FF
+TV-7091/ZZ Accés/NP a/SP la/DA Febró/NP des_de/SP la/DA T-704/ZZ ./FF
+TV-7092/ZZ De/NP la/DA T-704/ZZ a/SP la/DA TV-7012/ZZ per/SP el/DA campament/RG de/SP els/DA Castillejos/NP ./FF
+TV-7093/ZZ De/NP la/DA T-704/ZZ a/SP la/DA Mussara/NP ./FF ;/FF TV-7111/ZZ De_la_Vilella_Alta/NP a/SP la/DA T-702/ZZ ./FF ;/FF TV-7221/ZZ D'_Alcover/NP a/SP el/DA Milà/NP ./FF
+TV-7222/ZZ D'_Alcover/NP a/SP Vilallonga_de_el_Camp/NP ./FF ;/FF TV-7223/ZZ De_la_Selva_de_el_Camp/NP a/SP Vilallonga_de_el_Camp/NP ./FF
+TV-7231a/ZZ Travessera_de_Gandesa/NP ./FF ;/FF TV-7232/ZZ De_Vilalba_de_els_Arcs/NP a/SP Batea/NP ./FF ;/FF TV-7331/ZZ De_la_Fatarella/NP a/SP les/DA Camposines/NP ./FF ;/FF TV-7331a/ZZ Accés/NP a/SP la/DA Fatarella/NP ./FF
+TV-7333/ZZ De_la_Fatarella/NP a/SP Vilalba_de_els_Arcs/NP ./FF
+TV-7341/ZZ de/SP el/DA Masroig/NP a/SP la/DA N-420/ZZ ./FF
+TV-7411/ZZ De_Riba-roja_d'_Ebre/NP a/SP la/DA Pobla_de_Massaluca/NP ./FF
+TV-7421/ZZ De_Picamoixons/NP a/SP la/DA C-37/ZZ ./FF ;/FF TV-7501/ZZ De/NP la/DA N-240/ZZ a/SP Puigdelfí/NP ./FF
+Vegeu/VM també/RG ./FF
+Llista/NC d'/SP autopistes/NC i/CC autovies/NC de/SP Catalunya_Enllaços/NP externs/AQ ./FF
+Codificació/NP de/SP carreteres/NC (/FF Generalitat_de_Catalunya/NP )/FF ;/FF La/NP classificació/NC de/SP les/DA carreteres/NC per/SP el/DA nou/AQ codi/NC (/FF Generalitat_de_Catalunya/NP )/FF ;/FF
+El/DA déu/NC (/FF o/CC deessa/NC )/FF de/SP la/DA mort/NC és/VS una/DI divinitat/NC que/PR personifica/VM la/DA mort/NC a/SP diverses/DI cultures/NC ./FF
+Sovint/RG forma/NC parella/AQ amb/SP una/DI divinitat/NC major/AQ ,/FF creadora/AQ de/SP el/DA món/NC ./FF
+Llista/NC de/SP els/DA déus/NC de/SP la/DA mort/NC ./FF
+Mitologies/NC africanes/AQ :/FF Abassi/NP ,/FF Ala/NP ,/FF Azrail/NP ,/FF Chuku/NP ./FF
+Mitologia/NC asteca/AQ :/FF Mictlantecuhtli/NP ;/FF Mitologia/NP babilònica/AQ :/FF Ereshkigal/NP ,/FF Nergal/NP ;/FF Mitologia/NP budista/AQ :/FF Yama/NP ;/FF Mitologia/NP cananea/AQ :/FF Mot/NP ;/FF Mitologia/NP celta/AQ :/FF Morrigan/NP ;/FF Mitologia/NP egípcia/AQ :/FF Anubis/NP ,/FF Osiris/NP ;/FF Mitologia/NP finesa/AQ :/FF Tuoni/NP ;/FF Mitologia/NP grega/AQ :/FF Thanatos/NP ,/FF Hades/NP ./FF
+Mitologia/NC igbo/AQ :/FF Ogbunabali/NP ;/FF Mitologia/NP japonesa/AQ :/FF Enma/NP (/FF probablement/RG una/DI transliteració/NC de/SP Yama/NP )/FF ;/FF Mitologia/NP maia/AQ :/FF Ah/II Puch/NP ;/FF Mitologia/NP maori/AQ :/FF Hine-nui-te-p/NP ./FF ;/FF Mitologia/NP nòrdica/AQ :/FF Freya/NP ,/FF Odín/NP ;/FF Mitologia/NP romana/AQ :/FF Plutó/NP ;/FF
+Noriko_Shitaya/NP (/FF ,/FF Shitaya_Noriko/NP ,/FF va/VA neixer/VM el/DA 22_d'_abril_de_1986/WW a/SP Chiba/NP ,/FF Japó/NP )/FF és/VS una/DI Seiy/NP que/PR treballa/VM per/SP 81/ZZ Produce/NP ./FF
+Doblatges/NP fets/NC ./FF
+L'/DA ordre/NC d'/SP aquesta/DD llista/NC és/VS personatge/NC i/CC sèrie/NC ./FF
+Anime/VM Hanzo_de_Mirmo/NP !/FF ;/FF Hijiri_de_Ah/NP !/FF
+My_Goddess/NP ;/FF Ururu_Tsumugiya_de_Bleach/NP ;/FF Sakura_Mat_de_Fate/NP //FF stay/NC nigth/NC ;/FF Himeko_Kurusugawa_de_Kannazuki/NP no/RN Miko/NP ;/FF Himiko_de_Kyoshiro/NP to/NC Towa/NP no/RN Sora/NP ;/FF Himeka_Kujyou_de_Kamichama_Karin/NP ;/FF Raika_Naruo_de_Maburaho/NP ;/FF Katsura_de_Maria-sama/NP ga/VM Miteru/NP ;/FF Sister_Mimi_de_Mermaid_Melody_Pichi_Pichi_Pitch/NP ;/FF Saori_Kawai_de_Buso_Renkin/NP ;/FF Moegi_de_Naruto/NP ;/FF Trill_de_Rockman/NP ./FF
+EXE_Beast/NP ;/FF Maika_Himekawa_de_Shugo_Chara/NP !/FF ;/FF Kotoko_de_Tsubasa_Chronicle/NP ;/FF Kyouko_de_Venus_Versus_Virus/NP ;/FF Colin_Jones_de_Victorian_Romance_Emma/NP ;/FF OVA_Kasumi_Tomine_de_Alien_Nine/NP ;/FF Videojocs_Maria_de_Final_Fantasy_II/NP (/FF PlayStation/NP 2/ZZ )/FF ;/FF You_Tanaka/NP de/SP Ever17/ZZ ;/FF Rydia_de_Final_Fantasy_IV/NP (/FF Nintendo_DS/NP )/FF ;/FF Altres_Aparicions/NP ./FF
+Radio/VM RADIO_Kannazuki/NP (/FF RADIO/VM ,/FF RADIO_Kannazuki/NP ?/FF )/FF ;/FF RADIO_Ky/NP shir/RG (/FF RADIO/VM ,/FF RADIO_Ky/NP shir/RG ?/FF )/FF (/FF actualment/RG )/FF ;/FF
+Ko¨ice/NP (/FF en/SP alemany/NC Kaschau/NP ,/FF en/SP hongarès/NC Kassa/NP ,/FF en/SP llatí/NC Cassovia/NP )/FF és/VS una/DI ciutat/NC d'/SP Eslovàquia/NP ./FF
+Compta/VM amb/SP uns/DI 235.000/ZZ habitants/NC (/FF 2005/ZZ )/FF ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP la/DA ciutat/NC ;/FF
+Made/NP of/NC Bricks/NP és/VS el/DA primer/AO àlbum/NC de/SP la/DA cantautora/NC britànica/AQ Kate_Nash/NP ,/FF llançat/NC a/SP el/DA mercat/NC el/DA 6_d'_Agost_de_2007/WW a/SP Fiction_Records/NP ./FF
+Va/VA ser/VS a/SP el/DA número/NC 1/ZZ de/SP les/DA llistes/NC de/SP el/DA Regne_Unit/NP ./FF
+Pistes/NP ./FF
+"/FF Play/NP "/FF -/FF 1:11/ZZ ;/FF "/FF Foundations/NP "/FF -/FF 4:05/ZZ ;/FF "/FF Mouthwash/NP "/FF -/FF 5:01/ZZ ;/FF "/FF Dickhead/NP "/FF -/FF 3:42/ZZ ;/FF "/FF Birds/NP "/FF -/FF 4:25/ZZ ;/FF "/FF We_Get_On/NP "/FF -/FF 4:34/ZZ ;/FF "/FF Mariella/NP "/FF -/FF 4:15/ZZ ;/FF "/FF Shit_Song/NP "/FF -/FF 3:05/ZZ ;/FF "/FF Pumpkin_Soup/NP "/FF -/FF 2:59/ZZ ;/FF "/FF Skeleton_Song/NP "/FF -/FF 5:07/ZZ ;/FF "/FF Nicest_Thing/NP "/FF -/FF 4:05/ZZ ;/FF "/FF Merry_Happy/NP //FF Little_Red/NP "/FF -/FF 13:10/ZZ ;/FF Pista_Adicional_de_el_Regne_Unit/NP ./FF
+"/FF A/SP Is_For_Asthma/NP "/FF -/FF 2:37/ZZ ;/FF Referències/NP ./FF
+El/DA fartet/NC (/FF Aphanius/NP iberus/NC )/FF o/CC peix/NC de/SP sequiol/NC ,/FF és/VS un/DI petit/AQ peix/NC teleosti/NC d'/SP aigua/NC dolça/AQ ,/FF ciprinodontiforme/NC ,/FF de/SP la/DA família/NC de/SP els/DA ciprinodòntids/NC que/PR viu/VM a/SP les/DA llacunes/NC litorals/AQ de/SP la/DA costa/NC mediterrania/NC ibèrica/AQ i/CC que/PR està/VM amenaçat/VM d'/SP extinció/NC ./FF
+Morfologia/NP ./FF
+Mida/NC petita/AQ (/FF no/RN depassa/VM els/DA 4,5_cm/ZZ de/SP longitud/NC )/FF ./FF ;/FF El/NP cos/NC ,/FF curt/AQ i/CC rabassut/AQ ,/FF és/VS recobert/VM d'/SP escates/NC cicloides/AQ i/CC de/SP coloració/NC gris/AQ terrosa/AQ ./FF
+El/DA cap/NC és/VS força/RG gros/AQ i/CC la/DA boca/NC petita/AQ ,/FF protràctil/AQ i/CC orientada/VM cap/NC a/SP dalt/NC ,/FF amb/SP les/DA mandíbules/NC proveïdes/VM de/SP dents/NC tricúspides/AQ ./FF ;/FF Les/NP aletes/NC són/VS arrodonides/NC ,/FF especialment/RG la/DA caudal/AQ ./FF
+L'/DA aleta/NC dorsal/AQ s'/P0 insereix/VM cap/NC a_la_meitat_de/SP el/DA cos/NC ./FF ;/FF El/NP dimorfisme/NC sexual/AQ és/VS permanent/AQ :/FF els/DA mascles/NC tenen/VM la/DA meitat/NC posterior/AQ de/SP el/DA cos/NC i/CC l'/DA aleta/NC caudal/AQ travessades/NC per/SP 12/ZZ franges/NC argentines/AQ ,/FF que/PR esdevenen/VM més/RG blavoses/AQ a/SP l'/DA època/NC de/SP reproducció/NC ./FF
+Les/DA femelles/NC són/VS mes/NC grans/AQ que/CS els/DA mascles/NC :/FF tenen/VM els/DA flancs/NC pigallats/AQ de/SP punts/NC i/CC taques/NC negres/AQ irregulars/AQ ,/FF que/PR tendeixen/VM a/SP formar/VM línies/NC verticals/AQ curtes/AQ ./FF ;/FF Reproducció/NP ./FF
+És/VS una/DI espècie/NC ovípara/AQ ./FF
+Es/P0 reprodueix/VM poc/RG abans/RG de/SP complir/VM el/DA primer/AO any/NC de/SP vida/NC ./FF
+El/DA període/NC de/SP reproducció/NC s/NC estén/VM de/SP maig/WW a/SP agost/WW ./FF
+a/SP el/DA llarg/AQ d'/SP aquest/DD període/NC ,/FF les/DA femelles/NC fan/VM postes/NC fraccionades/VM ./FF
+Les/DA postes/NC són/VS formades/VM per/SP grups/NC de/SP 10/ZZ a/SP 15/ZZ ous/NC minúsculs/AQ (/FF d/NC aproximadament/RG 1,2_mm/ZZ de/SP diàmetre/NC )/FF que/PR queden/VM adherits/VM entre/SP els/DA macròfits/NC ./FF
+Durant/SP la/DA posta/NC ,/FF el/DA mascle/NC fricciona/VM la/DA zona/NC anal/AQ de/SP la/DA femella/NC per/SP a/SP exercir/VM una/DI lleugera/AQ pressió/NC i/CC d/RG afavorir/VM així/RG la/DA sortida/NC de/SP els/DA ous/NC ./FF
+Els/DA alevins/NC es/P0 mouen/VM per/SP la/DA superfície/NC ./FF
+Alimentació/NP ./FF
+El/DA fartet/NC es/P0 nodreix/VM principalment/RG de/SP petits/NC crustacis/AQ ,/FF poliquets/NC ,/FF mol·luscs/NC i/CC d'/SP altres/DI invertebrats/NC ,/FF si_bé/CS també/RG pot/VM ingerir/VM alguns/DI elements/NC vegetals/AQ (/FF com/CS algues/NC i/CC macròfits/NC )/FF i/CC detrits/NC ./FF
+Hàbitat/NP ./FF
+Habita/VM a/SP les/DA salines/NC ,/FF els/DA aiguamolls/NC ,/FF les/DA llacunes/NC litorals/AQ i/CC els/DA canals/NC de/SP desguàs/NC de/SP les/DA zones/NC costaneres/AQ ,/FF així/RG com/CS a/SP les/DA desembocadures/NC de/SP rius/NC ,/FF sèquies/NC i/CC conreus/NC d'/SP arròs/NC ./FF
+És/VS un/DI peix/NC força/RG eurihalí/AQ i/CC euriterm/AQ ,/FF capaç/AQ de/SP colonitzar/VM des_de/SP les/DA aigües/NC hipersalines/AQ fins/SP a/SP les/DA dolces/AQ ,/FF i/CC àdhuc/RG de/SP viure/VM en/SP ambients/NC de/SP temperatura/NC elevada/VM ./FF
+Distribució/NC geogràfica/AQ ./FF
+El/DA fartet/NC colonitza/VM la/DA regió/NC mediterrànea/NC ibèrica/AQ ,/FF si_bé/CS també/RG ha/VA estat/VS citat/VM a/SP la/DA costa/NC d'/SP Algèria/NP ./FF
+A/SP Catalunya/NP ,/FF es/P0 troba/VM a/SP els/DA Aiguamolls_de_l'_Empordà/NP ,/FF a/SP el/DA Delta_de_el_Llobregat/NP (/FF recentment/RG reintroduït/VM )/FF ,/FF en/SP alguns/DI indrets/NC puntuals/AQ de/SP la/DA Costa_Daurada/NP i/CC a/SP el/DA Delta_de_l'_Ebre/NP ,/FF on/PR actualment/RG viu/VM la/DA població/NC més/RG nombrosa/AQ de/SP fartet/NC ./FF
+Costums/NP ./FF
+És/VS capaç/AQ de/SP suportar/VM un/DI ample/AQ rang/NC de/SP temperatura/NC i/CC salinitat/NC (/FF fins/RG a/SP un/DI 50_%/ZZ )/FF ./FF
+Pot/VM assolir/VM els/DA dos/ZZ anys/NC de/SP vida/NC ,/FF però/CC la/DA gran/AQ majoria/NC d/AQ exemplars/NC no/RN depassa/VM l'/DA any/NC ./FF
+Conservació/NP ./FF
+Els/DA principals/AQ problemes/NC de/SP conservació/NC de/SP el/DA fartet/NC són/VS molt/RG similars/AQ a/SP els/DA de/SP el/DA samaruc/NC :/FF la/DA pèrdua/NC i/CC el/DA deteriorament/NC de/SP el/DA seu/PX hàbitat/NC ,/FF i/CC la/DA interacció/NC amb/SP la/DA gambúsia/NC ,/FF un/DI petit/AQ peix/NC d'/SP origen/NC nord-americà/AQ molt/RG agressiu/AQ que/PR viu/VM a/SP els/DA mateixos/DI habitats/VM i/CC hi/PP competeix/VM ,/FF desplaçant/VM -lo/PP ,/FF la/DA qual/DR cosa/NC posa/VM en/SP perill/NC les/DA escasses/AQ poblacions/NC existents/AQ de/SP fartet/NC ./FF
+L'/DA any/NC 1996/ZZ ,/FF es/P0 va/VA aprovar/VM el/DA programa/NC LIFE_de_la_UE/NP anomenat/VM "/FF Conservación/NP de/SP especies/VM prioritarias/NC en/SP humedales/NC mediterráneos/AQ "/FF ./FF
+Aquest/DD programa/NC ,/FF coordinat/NC per/SP el/DA Departament_de_Medi_Ambient_de_la_Generalitat_de_Catalunya/NP ,/FF es/P0 desenvoluparà/VM fins/SP a/SP el/DA 2001/ZZ i/CC té/VM previstes/VM diferents/DI actuacions/NC d'/SP estudi/NC ,/FF protecció/NC i/CC gestió/NC de/SP el/DA fartet/NC ,/FF realitzades/VM per/SP el/DA Departament_de_Biologia_Animal/NP (/FF Vertebrats/NP )/FF de/SP la/DA Universitat_de_Barcelona/NP ./FF
+El/DA Parc_Natural_de_el_Delta_de_l'_Ebre/NP realitza/VM un/DI pla/NC de/SP reproducció/NC d'/SP aquesta/DD espècie/NC per/SP a/SP mantenir/VM -ne/PP estocs/NC en/SP captivitat/NC i/CC alliberar/VM -los/PP a/SP el/DA medi/NC natural/AQ ./FF
+Bibliografia/NP ./FF
+Llorente/NP ,/FF Gustavo/NP :/FF Els/DA vertebrats/NC de/SP les/DA zones/NC humides/AQ de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col·lecció_Conèixer_La_Natura/NP ,/FF núm/NC ./FF 6/ZZ ,/FF plana/NC 41/ZZ ./FF
+Desembre_del_1988/WW ,/FF Barcelona/NP ./FF
+ISBN/NP 8473063546/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+El/DA fartet/NC a/SP l'/DA Enciclopèdia_Catalana/NP ./FF ;/FF Alimentació/NP i/CC reproducció/NC d'/SP aquesta/DD espècie/NC ./FF ;/FF Distribució/NP geogràfica/AQ i/CC informació/NC diversa/AQ sobre/SP el/DA fartet/NC ./FF ;/FF El/NP fartet/NC a/SP la/DA regió/NC de/SP Múrcia/NP ./FF ;/FF Àmplia/NP informació/NC sobre/SP aquest/DD peix/NC ./FF ;/FF Descripció/NP de/SP el/DA fartet/NC ./FF ;/FF El/NP fartet/NC a/SP la/DA IUCN/NP ./FF ;/FF El/NP fartet/NC a/SP l'/DA Animal_Diversity_Web/NP ./FF ;/FF Taxonomia/NP d'/SP aquesta/DD espècie/NC ./FF ;/FF
+Apocalyptica/NP és/VS un/DI grup/NC de/SP Cello_Rock/NP format/NC a/SP Hèlsinki/NP ,/FF Finlàndia/NP el/DA 1992/ZZ per/SP quatre/ZZ violoncel·listes/NC graduats/NC a/SP l'/DA acadèmia/NC Sibelius/NP de/SP música/NC clàssica/AQ ./FF
+Són/VS coneguts/NC per/SP tocar/VM cançons/NC de/SP Heavy_Metal/NP amb/SP violoncels/NC ./FF
+Components/NP ./FF
+Actuals/NP ./FF
+Eicca_Toppinen/NP -/FF cello/NC (/FF 1992/ZZ )/FF ;/FF Paavo_Lötjönen/NP -/FF cello/NC (/FF 1992/ZZ )/FF ;/FF Perttu_Kivilaakso/NP -/FF cello/NC (/FF 1999/ZZ )/FF ;/FF Mikko_Sirén/NP -/FF Bateria/NP (/FF 2005/ZZ )/FF ;/FF Anteriors/NP ./FF
+Antero_Manninen/NP -/FF cello/NC (/FF 1992-1999/ZZ )/FF Actualment/NP participa/VM en/SP alguns/DI concerts/NC ./FF
+Max_Lilja/NP -/FF cello/NC (/FF 1992-2002/ZZ )/FF Actualment/NP es/P0 membre/VM de/SP el/DA grup/NC filandés/VM Hevein/NP ;/FF Història/NP ./FF
+Principis/NP ./FF
+Apocalyptica/NP es/P0 va/VA formar/VM el/DA 1992/ZZ a/SP l'/DA acadèmia/NC de/SP música/NC clàssica/AQ Sibelius_d'_Hèlsinki/NP a/SP Finlàndia/NP quan/CS diversos/DI amics/NC feien/VM covers/NC de/SP els/DA seus/PX grups/NC preferits/VM només/RG per/SP diversió/NC ,/FF però/CC amb/SP la/DA diferència/NC que/PR les/PP tocaven/VM amb/SP els/DA seus/PX cellos/NC ./FF
+a/SP el/DA principi/NC sol/AQ tocaven/VM en/SP festes/NC ,/FF campaments/NC i/CC davant/SP els/DA seus/PX amics/NC però/CC després/RG van/VA començar/VM a/SP tocar/VM en/SP clubs/NC ./FF
+a/SP el/DA desembre_de_1995/WW després/RG de/SP tocar/VM "/FF Màster/NC of/NC Puppets/NP "/FF i/CC "/FF Creeping_Death/NP "/FF a/SP el/DA Heavy_Metal_Club_Theatre/NP ,/FF Kari_Hynninen/NP ,/FF un/DI representant/NC de/SP Zen_Garden/NP ,/FF els/PP va/VA convidar/VM a/SP gravar/VM un/DI àlbum/NC ./FF
+Com/CS la/DA majoria/NC de/SP els/DA seus/PX covers/NC eren/VS de/SP Metallica/NP van/VA decidir/VM gravar/VM l'/DA àlbum/NC exclusivament/RG amb/SP cançons/NC d'/SP ells/PP ./FF
+Així/RG ,/FF el/DA 1996/ZZ sota/SP el/DA nom/NC d'/SP Apocalyptica/NP 

@@ -233,4 +233,86 @@ El/DA Best/NP of/NC Windows_Entertainment_Pack/NP (/FF BOWEP/NP )/FF fou/VS una/
 Llistat/NC de/SP jocs/NC ./FF
 Chip/NP 's/P0 Challenge/NP ;/FF Dr._Black_Jack/NP ;/FF FreeCell/NP ;/FF Golf/NP (/FF joc/NC de/SP cartes/NC )/FF ;/FF JezzBall/NP ;/FF Pipe_Dream/NP (/FF per/SP LucasArts/NP )/FF ;/FF Rodent/NP 's/P0 Revenge/NP ;/FF SkiFree/NP ;/FF Taipei/NP ;/FF TetraVex/NP ;/FF Tetris/NP (/FF versió/NC Windows/NP )/FF ;/FF TriPeaks/NP (/FF joc/NC de/SP cartes/NC )/FF ;/FF Tut/NP 's/PP Tomb/NP (/FF joc/NC de/SP cartes/NC )/FF ;/FF Versió_per_la_Game_Boy_Color/NP ./FF
 L'/DA any/NC 2001/ZZ es/P0 va/VA presenta/VM el/DA Microsoft/NP :/FF The_Best/NP of/NC Entertainment_Pack/NP per/SP a/SP Game_Boy_Color/NP ./FF
-Aquest/DD paquet/NC tenia/VM 7/ZZ jocs/NC ,/FF de/SP els/DA quals/PR 3/ZZ no/RN s'/P0 havie
+Aquest/DD paquet/NC tenia/VM 7/ZZ jocs/NC ,/FF de/SP els/DA quals/PR 3/ZZ no/RN s'/P0 havien/VA afegit/VM a/SP la/DA versió/NC per/SP Windows/NP però/CC que/PR es/P0 podien/VM trobar/VM en/SP altres/DI volums/NC de/SP els/DA Microsoft_Entertainment_Pack/NP ./FF
+Jocs/NP que/PR s'/P0 incloïen/VM :/FF Tut/NP 's/P0 Tomb/NP ;/FF TriPeaks/NP ;/FF FreeCell/NP ;/FF Tic-Tac-Tics/NP */FF ;/FF Minesweeper/NP */FF ;/FF Life_Genesis/NP */FF ;/FF SkiFree/NP ;/FF */FF No/NP s'/P0 incloïen/VM a/SP la/DA versió/NC original/AQ de/SP el/DA Best/NP of/NC Windows_Entertainment_Pack/NP ./FF
+Vegeu/VM també/RG ./FF
+Microsoft_Home/NP ;/FF Microsoft_Entertainment_Pack/NP ;/FF Microsoft_Arcade/NP ;/FF Enllaços/NP externs/AQ ./FF
+;/FF Microsoft/NP :/FF The_Best/NP of/NC Entertainment_Pack/NP per/SP a/SP Game_Boy_Color/NP ;/FF
+Quan/CS el/DA Dr._Zamenhof/NP ,/FF el/DA creador/NC de/SP l'/DA esperanto/NC ,/FF va/VA descriure/VM la/DA pronúncia/NC de/SP la/DA llengua/NC ,/FF utilitzà/VM la/DA frase/NC "/FF una/DI lletra/NC ,/FF un/DI so/NC "/FF ./FF
+Zamenhof/NP suggerí/VM la/DA pronúncia/NC italiana/AQ com/CS la/DA correcta/AQ ./FF
+A/SP continuacó/NC es/P0 mostra/VM la/DA correspondència/NC entre/SP les/DA lletres/NC de/SP l'/DA alfabet/NC de/SP l'/DA esperanto/NC i/CC l'/DA Alfabet/NP fonètic/AQ internacional/AQ ./FF
+Este/NP llistat/NC és/VS bastant/RG similar/AQ a/SP el/DA conjunt/NC de/SP fonemes/NC de/SP què/PT consta/VM l'/DA idioma/NC polonés/VM ,/FF però/CC es/P0 pareix/VM molt/RG més/RG a/SP l'/DA idioma/NC bielorús/AQ ./FF
+Les/DA principals/AQ innovacions/NC respecte/NC de/SP el/DA bielorús/NC són/VS :/FF L'/DA eliminació/NC de/SP la/DA palatització/NC en/SP esperanto/NC ,/FF encara/RG que/CS sí/RG estava/VM present/AQ en/SP el/DA proto-esperanto/NC (/FF nacjes/NC ,/FF ara/RG nacioj/RG "/FF nacions/NC "/FF ;/FF familje/RG ,/FF ara/RG familio/NC "/FF família/NC "/FF )/FF i/CC ,/FF de/SP manera/NC discutible/AQ ,/FF encara/RG sobreviu/VM en/SP alguns/DI sufixos/NC com-njo/AQ i/CC -/FF jo/PP ,/FF i/CC en/SP la/DA interjecció/NC tju/VM !/FF ;/FF ;/FF L'/NP absència/NC de/SP l'/DA africat/VM ,/FF encara/RG que/PR roman/VM en/SP algunes/DI paraules/NC ,/FF com/CS ara/RG edzo/AQ "/FF marit/NC //FF espós/NC "/FF ./FF ;/FF En/NP bielorús/AQ ,/FF les/DA lletres/NC ,/FF l/NC representen/VM (/FF fonèticament/RG )/FF ,/FF i/CC i/CC ,/FF y/NC representen/VM (/FF fonèticament/RG )/FF ,/FF per/SP la/DA qual/DR cosa/NC es/P0 compten/VM entre/SP les/DA que/PR s'/P0 ha/VA eliminat/VM la/DA palatització/NC ./FF
+També/RG es/P0 pot/VM discutir/VM si/CS les/DA sèries/NC kv/NC ,/FF gv/NC són/VS fonemes/NC ,/FF que/PR representen/VM els/DA fonemes/NC //FF k/NC ,/FF g/NC //FF de/SP les/DA seves/PX fonts/NC germàniques/AQ i/CC llatines/AQ ./FF
+Accentuació/NP i/CC prosòdia/NC ./FF
+En/SP cada/DI paraula/NC ,/FF l'/DA accent/NC recau/VM sempre/RG en/SP la/DA penúltima/AO síl·laba/NC ,/FF on/PR cada/DI vocal/NC està/VM en/SP una/DI síl·laba/NC :/FF familio/NC mi/NC ./FF li/PP ./FF o/CC "/FF família/NC "/FF ./FF
+Quan/CS les/DA vocals/NC -/FF a/SP o/CC -/FF o/CC s'/P0 ometen/VM (/FF generalment/RG per/SP raons/NC poètiques/AQ )/FF ,/FF no/RN afecta/VM la/DA situació/NC de/SP la/DA síl·laba/NC accentuada/VM :/FF famili/NC li/PP ./FF
+En/SP este/NC cas/NC s'/P0 utilitza/VM un/DI apòstrof/NC per/SP marcar/VM l'/DA elisió/NC ;/FF est/NC ús/NC es/P0 reserva/VM per/SP a/SP la/DA poesia/NC ./FF
+En/SP els/DA casos/NC en/SP els/DA quals/PR cal/VM explicitar/VM un/DI accent/NC ,/FF com/CS per_exemple/RG amb/SP noms/NC propis/AQ ,/FF Zamenhof/NP usava/VM un/DI accent/NC ortogràfic/AQ ./FF
+El/DA millor/AQ exemple/NC és/VS el/DA de/SP el/DA mateix/DI Zamenhof/NP :/FF Zámenhof/NP ./FF
+No/RN hi/PP ha/VA norma/NC sobre/SP quina/DT paraula/NC monosil·làbica/AQ ha/VA de/SP rebre/VM l'/DA accent/NC en/SP una/DI oració/NC formada/VM per/SP diverses/DI d'/SP elles/PP ./FF
+Bibliografia/NP ./FF
+Butler/NP ,/FF Montagu_C./NP 1965/1971/ZZ ./FF
+Step/NP by/RG Step/NP in/VM Esperanto/NP ./FF
+ELNA_ISBN/NP 0939785013/ZZ ;/FF Kalocsay/NP ,/FF Kálman/NP i/CC Gaston_Waringhien/NP ./FF 1980/ZZ ./FF
+Plena_Analiza_Gramatiko_de_Esperanto/NP ./FF ;/FF Wells/NP ,/FF John/NP ./FF 1989/ZZ Lingvistikaj/NP aspektoj/AQ de/SP Esperanto/NP (/FF "/FF Aspectes/NC lingüístics/AQ de/SP l'/DA Esperanto/NP "/FF )/FF ./FF
+Segona/AO edició/NC ./FF
+Rotterdam/NP :/FF Universala_Esperanto-Asocio/NP ./FF ;/FF Wennergren/NP ,/FF Bertilo/NP ./FF (/FF 1990/ZZ )/FF 2005/ZZ ,/FF 14/ZZ edició/NC ./FF
+Plena_Manlibro_de_Esperanta_Gramatiko/NP (/FF PMEG/NP )/FF ./FF
+Lloc/NP web/NC amb/SP text/NC PDF/NP ;/FF Zamenhof/NP ,/FF Ludwik/NP ./FF 1905/ZZ ./FF '/FF Fundamento_de_Esperanto/NP '/FF ./FF versió/NC HTML_de_la_Akademio_de_Esperanto/NP ;/FF
+SkiFree/NP es/P0 un/DI joc/NC d'/SP ordinador/NC creat/VM per/SP Chris_Pirih/NP l'/DA any/NC 1991/ZZ ./FF
+L'/DA objectiu/NC de/SP el/DA joc/NC era/VS esquiar/VM i/CC esquivar/VM els/DA obstacles/NC ./FF
+Història/NP ./FF
+Pirih/NP ,/FF que/PR llavors/RG treballava/VM com/CS a/SP programador/NC de/SP Microsoft/NP ,/FF va/VA crear/VM SkiFree/NP en/SP llenguatge/NC C/NP a/SP el/DA seu/PX ordinador/NC personal/AQ per/SP entretenir/VM -se/P0 i/CC per/SP aprendre/VM ;/FF el/DA creador/NC afirma/VM que/CS havia/VA decidit/VM d'/SP aprendre/VM a/SP programar/VM en/SP Windows/NP (/FF concretament/RG la/DA versió/NC 3.0/ZZ i/CC va/VA començar/VM creant/VM un/DI programa/NC d'/SP esquí/NC ;/FF el/DA joc/NC eventualment/RG va/VA cridar/VM l'/DA atenció/NC de/SP l'/DA equip/NC de/SP programació/NC de/SP el/DA Microsoft_Entertainment_Pack/NP (/FF ell/PP diu/VM que/CS estava/VM jugant/VM amb/SP el/DA joc/NC en/SP hores/NC de/SP treball/NC )/FF el/DA qual/PR va/VA decidir/VM d'/SP afegir/VM -lo/PP ./FF
+Pirih/NP va/VA decidir/VM anomenar/VM -lo/PP WinSki/NP però/CC els/DA encarregats/NC de/SP el/DA màrqueting/NC van/VA decidir/VM que/CS l'/PP anomenés/VM SkiFree/NP (/FF ell/PP comenta/VM que/CS no/RN hi/PP estava/VM d'/SP acord/NC ,/FF Microsoft/NP va/VA llicenciar/VM -lo/PP sota/SP la/DA seva/PX marca/NC i/CC li/PP va/VA pagar/VM amb/SP 100/ZZ accions/NC de/SP MSFT/NP )/FF ./FF
+SkiFree/NP va/VA ser/VS pensat/VM per/SP un/DI equip/NC amb/SP processador/NC 386/ZZ i/CC targeta/NC gràfica/AQ VGA/NP degut/VM a/SP les/DA limitacions/NC tècniques/AQ que/PR en/SP aquella/DD època/NC hi/PP havia/VA ./FF
+L'/DA última/AO versió/NC de/SP 16_bit/ZZ va/VA ser/VS la/DA 1.03/ZZ ,/FF que/PR va/VA ser/VS compilada/VM l'/DA abril_del_2005/WW ./FF
+a/SP el/DA 1993/ZZ va/VA iniciar/VM -se/P0 la/DA versió/NC 2/ZZ de/SP el/DA joc/NC ,/FF que/PR tindria/VM unes/DI lleis/NC físiques/AQ més/RG reals/AQ ,/FF opció/NC multijugador/NC ,/FF joc/NC en/SP xarxa/NC ,/FF contrincants/NC dirigits/VM per/SP la/DA AI/NP i/CC so/NC ./FF
+Ja/RG tenia/VM feta/NC la/DA meitat/NC de/SP totes/DI aquestes/DD novetats/NC però/CC en/SP el/DA tema/NC de/SP les/DA lleis/NC físiques/AQ va/VA ser/VS tant/RG estricte/AQ a/SP el/DA punt/NC que/CS el/DA joc/NC era/VS "/FF injugable/AQ "/FF ./FF
+a/SP el/DA mateix/DI temps/NC ,/FF va/VA perdre/VM el/DA codi/NC font/NC de/SP el/DA joc/NC original/AQ ,/FF i/CC a/SP sobre/SP va/VA dirigir/VM la/DA seva/PX atenció/NC a/SP d'/SP altres/DI programes/NC ,/FF amb/SP el/DA qual/PR la/DA versió/NC 1.0/ZZ va/VA quedar/VM -se/P0 fins/SP l'/DA abril_del_2005/WW ./FF
+La/DA nova/AQ versió/NC 1.03/ZZ suporta/VM mode/NC real/AQ de/SP 32_bit/ZZ ,/FF amb/SP el/DA qual/PR pot/VM iniciar/VM -se/P0 en/SP equips/NC amb/SP Windows_XP/NP ;/FF té/VM un/DI baix/AQ consum/NC de/SP CPU/NP (/FF d/NC '/FF 1_%/ZZ en_comptes_de/SP el/DA 100_%/ZZ )/FF ./FF
+El/DA mateix/DI any/NC ,/FF però/CC en/SP octubre/WW ,/FF presentà/VM la/DA versió/NC 1.04/ZZ ,/FF que/PR resolia/VM alguns/DI errors/NC gràfics/AQ ./FF
+El/DA joc/NC ./FF
+a/SP el/DA principi/NC de/SP el/DA joc/NC ,/FF l'/DA usuari/NC pot/VM elegir/VM entre/SP 4/ZZ opcions/NC :/FF Free-style/NP :/FF L'/DA objectiu/NC es/P0 anar/VM fent/VM punts/NC amb/SP "/FF style/AQ points/NC "/FF fent/VM voltes/NC a/SP l'/DA aire/NC ,/FF saltant/VM sobre/SP saltadors/NC ,/FF etc./FF Slalon/NP :/FF L'/DA objectiu/NC es/P0 completar/VM l'/DA eslàlom/NC amb/SP el/DA menor/AQ temps/NC possible/AQ ./FF
+Tree_Slalon/NP :/FF Semblant/NP a/SP l'/DA anterior/AQ ,/FF però/CC amb/SP arbres/NC ./FF
+No/RN entres/VM en/SP cap/NC de/SP les/DA 3/ZZ opcions/NC anteriors/AQ i/CC senzillament/RG ,/FF esquies/VM lliurement/RG ./FF
+L'/DA abominable_home_de_les_neus/NC ./FF
+Un/DI cop/NC el/DA jugador/NC ha/VA completat/VM la/DA seva/PX cursa/NC ,/FF el/DA joc/NC no/RN s'/P0 acaba/VM de_cop_i_volta/RG ;/FF es/P0 més/RG ,/FF el/DA jugador/NC segueix/VM esquiant/VM fins/SP que/PR es/P0 troba/VM amb/SP un/DI "/FF abominable_home_de_les_neus/NC "/FF ,/FF que/CS el/PP persegueix/VM i/CC intenta/VM menjar/VM -se/P0 a/SP l'/DA esquiador/NC ./FF
+A/SP partir/VM d'/SP aquest/DD punt/NC ,/FF l'/DA esquiador/NC pot/VM seguir/VM esquiant/VM a/SP no/RN ser/VS que/CS el/DA monstre/NC l'/PP enxampi/VM ./FF
+Aquest/DD apareix/VM a/SP la/DA marca/NC 2.000_m/ZZ i/CC persegueix/VM a/SP el/DA jugador/NC costa/VM avall/RG ./FF
+Passats/NP 20-30_m/ZZ ,/FF un/DI altre/DI monstre/NC s'/P0 uneix/VM en/SP la/DA persecució/NC però/CC direcció/NC amunt/RG ;/FF un/DI traçat/NC angulós/AQ en/SP mode/NC "/FF ràpid/AQ "/FF evita/VM a/SP ambos/NC ,/FF però/CC desprès/VM la/DA distància/NC comença/VM a/SP comptar/VM de/SP -2000_m/ZZ ./FF
+El/DA joc/NC fa/VM bucles/NC a/SP si/CS mateix/PI ,/FF i/CC qualsevol/DI qui/PR esquii/VM fora_de/SP la/DA pista/NC atreu/VM a/SP el/DA monstre/NC ;/FF si/CS el/DA jugador/NC torna/VM a/SP el/DA "/FF marc/NC invisible/AQ "/FF ,/FF el/DA monstre/NC es/P0 para/VM ./FF
+Es/P0 possible/AQ d'/SP escapar/VM de/SP el/DA Monstre/NP de/SP les/DA neus/NC recorrent/VM uns/DI altres/DI 2.000m/ZZ de/SP el/DA punt/NC a_on/RG inicia/VM la/DA persecució/NC el/DA monstre/NC ,/FF creant/VM un/DI bucle/NC i/CC iniciant/VM des_de/SP el/DA principi/NC ./FF
+Un/DI altre/PI monstre/NC de/SP la/DA neu/NC apareix/VM quan/CS el/DA jugador/NC travessa/VM 125_m/ZZ direcció/NC avall/RG des_de/SP el/DA inici/NC o/CC 500_m/ZZ de/SP l'/DA esquerra/NC o/CC dreta/NC ./FF
+Ous/NP de/SP pasqua/NC ./FF
+a/SP el/DA llarg/AQ de/SP el/DA joc/NC hi/PP ha/VA arbres/NC que/PR els/PP apareixen/VM una/DI mena/NC de/SP peus/NC i/CC es/P0 poden/VM moure/VM ./FF
+Si/CS el/DA jugador/NC es/P0 mou/VM cap/NC a/SP dalt/NC ,/FF per_exemple/RG ,/FF es/P0 pot/VM veure/VM ./FF
+Pots/NP encendre/VM un/DI arbre/NC mort/VM quan/CS el/DA jugador/NC salta/VM per/SP sobre/SP d'/SP ell/PP ./FF
+Quan/CS salta/VM un/DI obstacle/NC ,/FF si/CS tornes/VM a/SP fer/VM clic/NC farà/VM una/DI volta/NC a/SP l'/DA aire/NC ./FF
+Si/CS el/DA jugador/NC esquia/VM cap/NC a/SP el/DA costat/NC d'/SP un/DI gos/NC ,/FF aquest/PD lladra/VM i/CC s'/P0 asseu/VM ./FF
+Normalment/RG aquest/PD deixa/VM un/DI toll/NC verdós/AQ a/SP la/DA neu/NC que/PR es/P0 fa/VM visible/AQ quan/CS el/DA gos/NC torna/VM a/SP caminar/VM ./FF
+En/SP la/DA modalitat/NC Free-style/NP pots/VM guanyar/VM molts/DI punts/NC fent/VM accidents/NC ;/FF per/SP això/PD has/VA de/SP clicar/VM força/RG cops/VM el/DA botó/NC de/SP el/DA ratolí/NC ./FF
+Fent/VM el/DA salt/NC ,/FF mou/VM les/DA tecles/NC esquerra-dreta/AQ ./FF
+Si/CS el/DA jugador/NC cau/VM de_costat/RG ,/FF aquest/DD es/P0 quedarà/VM quiet/AQ a/SP la/DA neu/NC desprès/VM de/SP el/DA salt/NC ./FF
+El/DA superjump/NC ./FF
+Si/CS fas/VM un/DI salt/NC ,/FF i/CC llavors/RG tornes/NC a/SP fer/VM un/DI altre/DI salt/NC ,/FF faràs/VM el/DA superjump/NC ./FF
+Això/PD es/P0 cert/AQ si/CS estàs/VM en/SP el/DA mode/NC ràpid/AQ (/FF tecla/NC "/FF f/NC "/FF per/SP activar/VM -lo/PP )/FF ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP web/NC oficial/AQ de/SP el/DA joc/NC ;/FF
+En/SP esperanto/NC els/DA correlatius/NC tenen/VM una/DI estructura/NC lògica/AQ interna/AQ ,/FF de_manera_que/CS la/DA relació/NC entre/SP paraules/NC de/SP el/DA mateix/DI tipus/NC ,/FF com/CS ara/RG :/FF sempre/RG ,/FF mai/RG i/CC llavors/RG ;/FF és/VS la/DA mateixa/DI que/CS hi/PP ha/VA entre/SP :/FF tots/DI ,/FF cap/NC i/CC aquell/DD ;/FF Observeu/NP la/DA taula/NC completa/AQ amb/SP la/DA traducció/NC a/SP el/DA català/NC :/FF Taula/NC de/SP correlatius/NC esperanto-rus/AQ ./FF
+Esta/NP taula/NC té/VM una/DI similitud/NC molt/RG alta/AQ amb/SP l'/DA equivalent/NC en/SP rus/NC :/FF Usos/NC incorrectes/AQ de/SP correlatius/NC ./FF
+En/SP alguns/DI casos/NC ,/FF i/CC extralimitant/VM -se/P0 de/SP el/DA Fonament_de_l'_Esperanto/NP ,/FF s'/P0 utilitzen/VM fórmules/NC com/CS alies/VM (/FF compost/NC per/SP ali/NC -/FF i/CC -/FF ies/NC ,/FF que/PR significa/VM ,/FF "/FF d'/SP una/DI altra/DI manera/NC "/FF o/CC "/FF alié/RG "/FF )/FF ./FF
+Tanmateix/RG es/P0 considera/VM incorrecte/AQ ./FF
+Resultats_de_la_Fórmula/NP 1/ZZ a/SP la/DA temporada/NC de/SP l'/DA any/NC 2000/ZZ ./FF
+És/VS la/DA temporada/NC núm/NC ./FF 51/ZZ de/SP la/DA historia/VM de/SP el/DA Campionat/NP de/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Sistema/NP de/SP puntuació/NC ./FF
+Es/P0 disputen/VM un/DI total/NC de/SP disset/ZZ (/FF 17/ZZ )/FF curses/NC ./FF
+S/NP adjudiquen/VM punts/NC a/SP els/DA sis/NC primers/AO llocs/NC (/FF 10/ZZ ,/FF 6/ZZ ,/FF 4/ZZ ,/FF 3/ZZ ,/FF 2/ZZ i/CC 1/ZZ )/FF i/CC es/P0 tenen_en_compte/VM tots/DI els/DA resultats/NC ./FF
+També/RG es/P0 comptabilitzen/VM els/DA punts/NC per/SP el/DA Campionat/NP de/SP el/DA món/NC de/SP constructors/NC ./FF
+No/RN es/P0 donen/VM punts/NC per/SP la/DA volta/NC més/RG ràpida/AQ ./FF
+Curses/NP ./FF
+Posició/NP final/NC de/SP el/DA Campionat/NP de/SP constructors/NC de/SP el/DA 2000/ZZ ./FF
+Clasificació/NP de/SP el/DA mundial/AQ de/SP pilots/NC de/SP el/DA 2000/ZZ ./FF
+(/FF )/FF
+Estats/NC sobirans/AQ ./FF
+A._Principat_d'_Albània/NP (/FF fins/RG a/SP el/DA setembre/WW )/FF ;/FF ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Asir_Emirat_d'_Asir/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF Imperi_Austrohongarès/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Regne_de_Dinamarca/NP ;/FF ;/FF E._República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_França/NP ;/FF G._Grècia_Regne_de_Grècia/NP ;/FF República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF República_d'_Hondures/NP ;/FF I._Regne_d'_Itàlia/NP ;/FF J._Japó/NP -/FF Imperi_de_el_Japó/NP ;/FF L._República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF Regne_de_M

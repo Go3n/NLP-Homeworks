@@ -424,4 +424,84 @@ Llanos/NP i/CC Yáñez/NP van/VA abandonar/VM València/NP abans/RG de/SP 1520/Z
 En/SP 1531/ZZ se/P0 sap/VM que/CS estava/VM en/SP Conca/NP pintant/VM diversos/DI retaules/NC ,/FF notícia/NC que/PR és/VS l'/DA última/AO conservada/VM sobre/SP aquest/DD pintor/NC ./FF
 Així/RG ,/FF doncs/RG ,/FF poden/VM establir/VM -se/P0 tres/VM períodes/NC o/CC fases/NC en/SP Yáñez/NP :/FF una/DI italiana/AQ ,/FF a/SP qui/PR se/P0 li/PP atribueix/VM Els_Sants_Ermitans_de_el_Museu_Brera_de_Milà/NP ,/FF una/DI valenciana/NC ,/FF la/DA més/RG important/AQ ,/FF i/CC una/DI de/SP Conca/NP ,/FF final/AQ ./FF
 Obra/NC ./FF
-Les/DA seues/PX composicions/NC es/P0 caracteritzen/VM per/SP els/DA estilemes/NC leonardescs/NC (/FF sfumato/NC ,/FF dolçor/NC de/SP els/DA rostres/NC i/CC gestos/NC )/FF ,/FF la
+Les/DA seues/PX composicions/NC es/P0 caracteritzen/VM per/SP els/DA estilemes/NC leonardescs/NC (/FF sfumato/NC ,/FF dolçor/NC de/SP els/DA rostres/NC i/CC gestos/NC )/FF ,/FF la/DA claredat/NC formal/AQ i/CC l'/DA amplitud/NC escenogràfica/AQ de/SP els/DA fons/NC ,/FF la/DA profunditat/NC de/SP les/DA figures/NC ,/FF que/PR es/P0 presenten/VM en/SP actitud/NC serena/AQ i/CC reposada/VM ,/FF i/CC l'/DA hàbil/AQ conjugació/NC d'/SP arquitectura/NC monumental/AQ i/CC personatges/NC d'/SP una/DI forma/NC més/RG caracteritzada/VM que/CS Llanos/NP ;/FF presta/VM atenció/NC especial/AQ a/SP les/DA qualitats/NC de/SP robes/NC i/CC objectes/NC ,/FF fet/NC que/PR representa/VM una/DI resta/NC de/SP la/DA tradició/NC flamenca/AQ habitual/AQ en/SP l'/DA escola/NC espanyola/AQ ./FF
+Entre/SP les/DA seues/PX obres/NC destaquen/VM Santa_Caterina_d'_Alexandria/NP i/CC Sant_Damià/NP i/CC Santa_Anna/NP amb/SP la/DA Mare_de_Déu/NP i/CC el/DA Xiquet/NP ambdós/PI en/SP el/DA Museu_de_el_Prado/NP ,/FF i/CC Els_Sants_Ermitans/NP (/FF Milà/NP )/FF ./FF
+a/SP el/DA Museu_de_Belles_Arts_de_València/NP ,/FF a/SP més/RG de/SP La_Resurrecció/NP ,/FF hi/PP ha/VA cinc/ZZ tauletes/NC de/SP tema/NC religiós/AQ ;/FF a/SP el/DA museu/NC de/SP l/NC església/NC de/SP el/DA Patriarca/NP ,/FF L'_Anunciació/NP ,/FF a/SP l'/DA església/NC de/SP Sant_Nicolau_de_València_Santa_Anna/NP ,/FF la/DA Mare_de_Déu/NP i/CC el/DA Xiquet/NP dormit/VM ./FF
+A/SP Aiora/NP (/FF Vall_de_Cofrents/NP )/FF :/FF La/DA Mare_de_Déu/NP ,/FF Déu_Pare/NP ,/FF L'_Angel_de_l'_Anunciació/NP i/CC Sant_Onofre/NP ./FF
+En/SP la/DA Col·lecció_March/NP (/FF Palma_de_Mallorca/NP )/FF :/FF Juí_Final/NP ./FF
+A/SP la/DA col·legiata/NC de/SP Xàtiva/NP (/FF Costera/NP )/FF :/FF Juí_Final/NP (/FF cremat/NC en/SP 1936/ZZ )/FF ./FF
+a/SP el/DA seu/PX període/NC de/SP Conca/NP corresponen/VM els/DA retaules/NC de/SP La_Crucifixió/NP ,/FF Epifania/NP ,/FF La_Pietat/NP i/CC L'/NP adoració/NC de/SP els/DA pastors/NC en/SP la/DA catedral/NC ./FF
+En/SP el/DA Museu_de_el_Prado_Santa_Anna/NP amb/SP la/DA Mare_de_Déu/NP ,/FF el/DA Xiquet/NP i/CC Sant_Joan_Baptista/NP ./FF
+La/DA Sagrada_Família/NP està/VM en/SP la/DA Col·lecció_Grether/NP en/SP Buenos_Aires/NP (/FF Argentina/NP )/FF ./FF
+Crist/NP entre/SP Sant_Pere/NP i/CC Sant_Joan_Evangelista/NP en/SP la/DA Col·lecció_Cremer_de_Dortmund/NP (/FF Alemanya/NP )/FF ./FF
+Enlaces/NP externos/NC ./FF
+58/ZZ obres/NC de/SP Yáñez_de_la_Almedina/NP ;/FF article/NC en/SP l'/DA enciclopèdia/NC GER/NP ;/FF
+Hernando/NP o/CC Fernando/NP de/SP los/NC Llanos/NP ,/FF (/FF actiu/AQ el/DA primer/AO terç/NC de/SP el/DA segle_XVI/WW )/FF fou/VS un/DI pintor/NC valencià/AQ de/SP el/DA Renaixement/NP ./FF
+El/DA seu/PX cognom/NC pareix/VM indicar/VM que/CS va/VA nàixer/VM a/SP Santa_Maria/NP de/SP los/NC Llanos/NP (/FF província/NC de/SP Conca/NP )/FF ,/FF però/CC podria/VM ser/VS de/SP la/DA d/NC Albacete/NP ./FF
+Va/VA anar/VM a/SP Florència/NP ,/FF on/PR es/P0 documenta/VM la/DA seua/PX estada/NC com/CS a/SP deixeble/NC de/SP Leonardo/NP da/VM Vinci/NP en/SP 1505/ZZ ./FF
+Leonardo/NP va/VA formar/VM la/DA base/NC de/SP el/DA seu/PX estil/NC ,/FF composició/NC i/CC tipus/NC ;/FF també/RG s'/P0 adverteixen/VM altres/DI influències/NC pròpiament/RG florentines/AQ ,/FF concretament/RG de/SP Domenico_Ghirlandaio/NP ./FF
+La/DA seua/PX pintura/NC es/P0 caracteritza/VM per/SP la/DA pesantor/NC de/SP els/DA cossos/NC i/CC l/NC ús/VM de/SP pocs/DI colors/NC ./FF
+Va/VA treballar/VM principalment/RG a/SP València/NP en_col·laboració_amb/SP Fernando_Yáñez_de_la_Almedina/NP ,/FF un/DI altre/DI pintor/NC leonardesc/AQ ,/FF i/CC junts/AQ van/VA introduir/VM en/SP terres/NC valencianes/AQ el/DA Renaixement/NP pictòric/AQ de/SP Leonardo/NP ./FF
+En/SP 1506/ZZ van/VA pintar/VM el/DA retaule/NC de/SP els/DA Sant_Cosme/NP i/CC Sant_Damià/NP per/SP a/SP la/DA catedral/NC de/SP València/NP i/CC en/SP 1507/ZZ van/VA començar/VM a/SP pintar/VM les/DA portes/NC de/SP el/DA retaule/NC major/AQ ;/FF hi/PP ha/VA rebuts/NC de/SP pagaments/NC fins/SP a/SP 1510/ZZ ./FF
+Va/VA haver/VA de/SP romandre/VM alguns/DI anys/NC encara/RG a/SP València/NP treballant/VM només/RG o/CC en_col·laboració_amb/SP el/DA seu/PX company/NC ./FF
+Des_de/SP 1516/ZZ està/VM documentat/VM a/SP Múrcia/NP ,/FF on/PR va/VA pintar/VM la/DA taula/NC de/SP els/DA Esposoris_de_la_Mare_de_Déu/NP (/FF catedral/NC de/SP Múrcia/NP )/FF ./FF
+També/RG treballà/VM a/SP l/NC església/NC de/SP Montserrat/NP d/AQ Oriola/NP (/FF Baix_Segura/NP )/FF ./FF
+No/RN hi/PP ha/VA documentació/NC posterior/AQ a/SP 1520/ZZ ./FF
+Ewerthon_Henrique_de_Souza/NP és/VS un/DI futbolista/NC nascut/VM el/DA 10_de_juny_de_1981/WW a/SP la/DA ciutat/NC de/SP Sao_Paulo/NP ,/FF a/SP Brasil/NP ./FF
+Juga/VM en/SP el/DA Real_Zaragoza/NP en/SP la/DA posició/NC de/SP davanter/NC ./FF
+Història/NP ./FF
+Ewerthon/NP va/VA començar/VM la/DA seva/PX carrera/NC futbolística/AQ en/SP el/DA Corinthians/NP brasiler/AQ l'/DA any/NC 1999/ZZ ./FF
+Va/VA estar/VM en/SP aquell/DD club/NC dues/ZZ temporades/NC ,/FF fins/SP que/PR el/PP va/VA fitxar/VM el/DA Borussia_Dortmund_d'_Alemanya/NP ./FF
+Des_de/SP 2001/ZZ fins/NC a/SP 2005_ha/ZZ estat/VM inflant/VM -se/P0 a/SP marcar/VM gols/NC en/SP la/DA 1/ZZ ./FF
+Bundesliga/NP ,/FF arribant/VM a/SP guanyar/VM una/DI lliga/NC el/DA 2002/ZZ i/CC essent/VS finalista/NC de/SP la/DA Copa_de_la_UEFA/NP en/SP la/DA mateixa/DI temporada/NC ./FF
+La/DA temporada/NC 2005/ZZ -/FF 2006/ZZ ,/FF fitxa/NC per/SP el/DA Real_Zaragoza/NP ,/FF on/PR forma/VM un/DI duet/NC letal/AQ en/SP atac/NC juntament/RG amb/SP Diego_Milito/NP ./FF
+Amb/SP el/DA club/NC aragonès/AQ va/VA consiguir/VM el/DA 2006/ZZ quedar/VM finalista/NC de/SP la/DA Copa_de_el_Rei/NP ,/FF que/PR van/VA perdre/VM a/SP la/DA final/NC davant/SP l'/DA Espanyol/NP per/SP 4/ZZ -/FF 1/ZZ ./FF
+El/DA juliol_de_2007/WW Ewerthon/NP arriba/VM a/SP el/DA VfB_Stuttgart/NP cedit/VM per/SP un/DI any/NC ./FF
+No/RN obstant/VM això/PD ,/FF el/DA gener_de_2008/WW el/DA préstec/NC finalitza/VM de/SP manera/NC prematura/AQ i/CC el/DA jugador/NC arriba/VM a/SP el/DA Reial_Club_Deportiu_Espanyol/NP de/SP nou/AQ cedit/VM fins/SP a_final/RG de/SP temporada/NC ./FF
+Palmarès/NP ./FF
+DHT/NP ,/FF acrònim/NC anglès/AQ de/SP Distributed_Hash_Tables/NP (/FF Taules_de_Hash_Distribuïdes/NP )/FF és/VS un/DI sistema/NC descentralitzat/VM dissenyat/VM per/SP oferir/VM serveis/NC i/CC operacions/NC de/SP recerca/NC en/SP xarxes/NC telemàtiques/AQ de/SP computadors/NC ./FF
+La/DA idea/NC fonamental/AQ de/SP les/DA DHT/NP es/P0 la/DA creació/NC d/AQ una/DI taula/NC de/SP hash/NC i/CC emmagatzemar/VM -la/PP de/SP forma/NC distribuïda/VM ./FF
+Una/DI taula/NC de/SP hash/NC és/VS una/DI estructura/NC que/PR mapeja/VM claus/NC amb/SP valors/NC ,/FF es/P0 a/SP dir/VM és/VS un/DI llistat/NC de/SP relacions/NC (/FF o/CC parelles/NC )/FF entre/SP dos/ZZ cadenes/NC de/SP caràcters/NC genèriques/AQ ./FF
+Aquesta/DD idea/NC va/VA ser/VS formulada/VM en/SP una/DI primera/AO aproximació/NC per/SP C.G._Plaxton/NP ./FF
+Les/DA DHT/NP són/VS habitualment/RG utilitzades/VM en/SP xarxes/NC P2P/ZZ estructurades/VM ,/FF tal_i_com/CS és/VS la/DA xarxa/NC Kademlia/NP ./FF
+Capes/NP overlay/NC ./FF
+Les/DA DHT/NP s'/P0 utilitzen/VM per/SP obtenir/VM un/DI alt/AQ grau/NC d/AQ eficiència/NC en/SP l/NC enrutament/RG de/SP les/DA xarxes/NC P2P/ZZ estructurades/VM ./FF
+Amb/SP l'/DA utilització/NC de/SP les/DA DHT/NP en/SP xarxes/NC P2P/ZZ aconseguim/VM crear/VM capes/NC overlay/AQ ./FF
+La/DA capa/NC overlay/AQ és/VS una/DI xarxa/NC lògica/AQ d/NC alt/AQ nivell/NC construïda/VM sobre/SP una/DI altre/DI xarxa/NC ja/RG existent/AQ ./FF
+Els/DA nodes/NC que/PR formen/VM aquesta/DD capa/NC estan/VM units/VM entre/SP ells/PP mitjançant/SP enllaços/NC lògics/AQ o/CC virtuals/AQ ,/FF que/PR s'/P0 anomenen/VM camins/NC ./FF
+És/VS habitual/AQ que/CS aquests/DD camins/NC estiguin/VM formats/NC per/SP diversos/DI enllaços/NC físics/AQ en/SP les/DA capes/NC inferiors/AQ ./FF
+Les/DA capes/NC overlay/RG no/RN tenen/VM control/NC sobre/SP la/DA forma/NC en/SP què/PR s/NC enruten/VM els/DA paquets/NC en/SP les/DA capes/NC inferiors/AQ ,/FF sols/RG pot/VM determinar/VM en/SP la/DA capa/NC overlay/AQ ,/FF la/DA seqüència/NC de/SP els/DA nodes/NC que/PR faran/VM possible/AQ una/DI certa/DI enrutació/NC ./FF
+Inclús/RG ,/FF en/SP molts/DI models/NC utilitzats/VM per/SP estudiar/VM la/DA commutació/NC de/SP paquets/NC en/SP les/DA xarxes/NC de/SP les/DA capes/NC inferiors/AQ ,/FF es/P0 considera/VM que/CS el/DA tràfic/NC es/P0 basa/VM en/SP missatges/NC broadcast/NC ./FF
+Tot_i_així/RG ,/FF les/DA xarxes/NC overlay/RG han/VA sigut/VM proposades/VM com/CS a/SP possible/AQ camí/NC per/SP a/SP millorar/VM l/NC enrutament/RG d/AQ Internet/NP ,/FF inclús/RG per/SP a/SP complir/VM requisits/NC de/SP qualitat/NC de/SP servei/NC ./FF
+Utilitzant/VM capes/NC overlay/RG no/RN requerim/VM enrutar/VM els/DA missatges/NC adjuntant/VM les/DA direccions/NC IP/NP de/SP els/DA nodes/NC involucrats/VM ,/FF sinó/CC que/PR podem/VM enrutar/VM missatges/NC utilitzant/VM les/DA adreces/NC lògiques/AQ indicades/VM per/SP la/DA taula/NC de/SP hash/NC distribuïda/VM ./FF
+Espai/NP de/SP claus/NC ./FF
+Una/DI DHT/NP genera/VM un/DI cert/AQ espai/NC de/SP claus/NC virtual/AQ ./FF
+Quan/CS parlem/VM d/AQ espai/NC ho/PP fem/VM en/SP el/DA sentit/NC algebraic/AQ de/SP l/NC expressió/NC ,/FF i/CC quan/CS ens/PP referim/VM a/SP claus/NC estem/VM parlant/VM de/SP la/DA part/NC de/SP el/DA nom/NC en/SP les/DA parelles/AQ nom/NC //FF valor/NC de/SP les/DA taules/NC de/SP hash/NC ./FF
+L/NP espai/NC pot/VM ser/VS el/DA de/SP les/DA cadenes/NC de/SP caràcters/NC de/SP m-bits/NC d/AQ extensió/NC ./FF
+A/SP continuació/NC i/CC utilitzant/VM un/DI cert/AQ esquema/NC ,/FF es/P0 particiona/VM la/DA totalitat/NC de/SP l/NC espai/NC en/SP parts/NC iguales/VM ,/FF per/SP atorgar/VM cada/DI una/DI d/NC aquestes/DD parts/NC a/SP un/DI de/SP els/DA nodes/NC que/PR formen/VM la/DA xarxa/NC ./FF
+D/NP aquesta/DD forma/NC cada/DI node/NC es/P0 farà_càrrec/VM de/SP les/DA claus/NC que/PR caiguin/VM dins/RG de/SP la/DA seva/PX partició/NC o/CC parcel·la/NC ,/FF i/CC per/SP tant/RG coneixerà/VM i/CC emmagatzemarà/VM els/DA valors/NC d/AQ aquestes/DD claus/NC ./FF
+La/DA forma/NC que/PR pren/VM l/NC espai/VM generat/VM per/SP la/DA DHT/NP i/CC l/NC esquema/NC utilitzat/VM per/SP a/SP particionar/VM -lo/PP depèn/VM de/SP cada/DI una/PI de/SP les/DA xarxes/NC estructurades/VM ./FF
+Xarxes/NP P2P/ZZ de/SP compartició/NC de/SP fitxers/NC ./FF
+Les/DA xarxes/NC que/PR més/RG freqüentment/RG implementen/VM una/DI DHT/NP són/VS les/DA que/PR tenen/VM com/CS a/SP objectiu/NC la/DA compartició/NC de/SP fitxers/NC ./FF
+En/SP aquestes/DD xarxes/NC ,/FF les/DA parelles/AQ clau/NC //FF valor/NC que/PR formen/VM la/DA taula/NC de/SP hash/NC tenen/VM un/DI concepte/NC concret/AQ ./FF
+Solem/VM veure/VM el/DA valor/NC com/CS a/SP un/DI fitxer/NC i/CC la/DA clau/NC com/CS a/SP resultat/NC de/SP l/NC aplicació/NC d/AQ una/DI certa/DI funció/NC hash/NC sobre/SP el/DA valor/NC esmentat/VM ./FF
+La/DA funció/NC hash/NC utilitzada/VM en/SP la/DA majoria/NC de/SP casos/NC és/VS la/DA SHA/NP 1/ZZ ./FF
+En_realitat/RG aquesta/DD taula/NC de/SP hash/NC no/RN existeix/VM en/SP cap/DI moment/NC com/CS a/SP un/DI únic/AQ llistat/NC ,/FF sinó/CC que/CS en/SP tot/DI moment/NC es/P0 dividida/VM de_forma_que/CS cada/DI un/PI de/SP els/DA nodes/NC emmagatzemin/VM una/DI porció/NC d/AQ aquesta/DD taula/NC ./FF
+Gràcies_a/SP aquest/DD sistema/NC distribuït/VM ,/FF qualsevol/DI node/NC que/PR participi/VM en/SP la/DA DHT/NP pot/VM recuperar/VM eficientment/RG el/DA valor/NC associat/NC a/SP una/DI certa/DI clau/NC ./FF
+Les/DA DHT/NP suposen/VM que/CS els/DA nodes/NC coneixen/VM una/DI clau/NC i/CC busquen/VM el/DA valor/NC associat/NC ./FF
+Els/DA processos/NC d/AQ emmagatzement/NC i/CC recerca/NC dins/SP d/NC una/DI DHT/NP ,/FF en/SP el/DA cas/NC de/SP considerar/VM un/DI sistema/NC de/SP compartició/NC de/SP fitxers/NC ,/FF succeirien/VM de/SP la/DA següent/AQ forma/NC ./FF
+Per/SP emmagatzemar/VM un/DI fitxer/NC dins/SP la/DA xarxa/NC ,/FF primer/RG es/P0 calcularia/VM el/DA hash/NC de/SP el/DA fitxer/NC en/SP qüestió/NC ,/FF obtenint/VM una/DI cadena/NC de/SP caràcter/NC de/SP m-bits/NC d/AQ extensió/NC ./FF
+Aquesta/DD cadena/NC seria/VS la/DA clau/NC ,/FF i/CC el/DA fitxer/NC complet/AQ seria/VS el/DA valor/NC ./FF
+A/SP continuació/NC s/NC enviaria/VM un/DI missatge/NC a/SP la/DA xarxa/NC per_tal_que/CS el/DA node/NC responsable/AQ de/SP la/DA clau/NC obtinguda/VM ,/FF rebi/VM el/DA valor/NC de/SP el/DA fitxer/NC i/CC pugi/VM emmagatzemar/VM la/DA parella/AQ clau/NC //FF valor/NC (/FF o/CC dit/VM d/RG altre/DI forma/NC ,/FF hash/NC //FF fitxer/NC )/FF ./FF
+Llavors/RG qualsevol/DI node/NC dins/SP la/DA xarxa/NC pot/VM conèixer/VM el/DA valor/NC de/SP la/DA clau/NC ,/FF enviant/VM el/DA hash/NC de/SP el/DA fitxer/NC a/SP el/DA node/NC responsable/AQ d/AQ aquesta/DD parella/NC ./FF
+Pablo_Javier_Zabaleta/NP (/FF nascut/VM a/SP Buenos_Aires/NP ,/FF Argentina/NP el/DA 16_de_gener_del_1985/WW )/FF és/VS un/DI futbolista/NC argentí/AQ que/PR juga/VM de/SP defensa/NC a/SP el/DA Manchester_City/NP ./FF
+Té/VM la/DA nacionalitat/NC argentina/AQ i/CC espanyola/AQ ./FF
+Palmarès/NP ./FF
+El/DA Formatge/NP blau/AQ és/VS una/DI classe/NC de/SP formatges/NC ,/FF que/PR té/VM com/CS a/SP característica/NC fonamental/AQ la/DA presència/NC de/SP floridures/NC ,/FF generalment/RG de/SP el/DA gènere/NC Penicillium/NP ,/FF que/PR li/PP proporcionen/VM tons/NC blavosos/AQ o/CC verdosos/AQ ./FF
+De/SP llet/NC de/SP vaca/NC ,/FF d'/SP ovella/NC i/CC //FF o/CC de/SP cabra/NC ,/FF els/DA formatges/NC blaus/AQ es/P0 curen/VM en/SP indrets/NC amb/SP temperatures/NC i/CC humitats/NC (/FF de/SP l'/DA ordre/NC de/SP el/DA 90_%/ZZ )/FF regulades/VM ,/FF per_tal_de/SP garantir/VM la/DA proliferació/NC de/SP les/DA floridures/NC ./FF
+Tradicionalment/RG ,/FF això/PD ha/VA estat/VM possible/AQ en/SP coves/NC ./FF
+per/SP el/DA que/PR fa/VM a/SP el/DA gust/NC ,/FF tots/DI ells/PP tenen/VM un/DI gust/NC fort/AQ ,/FF i/CC tendeixen/VM a/SP ser/VS picants/AQ i/CC una/DI mica/NC salats/NC ./FF
+L'/DA olor/NC també/RG sol/VM ser/VS forta/AQ ./FF
+Els/DA formatges/NC blaus/AQ més/RG famosos/AQ són/VS el/DA roquefort/AQ occità/NC ,/FF el/DA Gorgonzola/NP llombard/AQ ,/FF l'/DA Stilton/NP anglès/AQ ,/FF i/CC el/DA Cabrales/NP asturià/AQ ,/FF tots/DI ells/PP amb/SP Denominació_d'_Origen_Protegida/NP ./FF
+Tipus/NP (/FF Selecció/NP )/FF ./FF
+Adelost/NP ;/FF Amablu/NP ;/FF Aura/NP cheese/NC ;/FF Australian_Blue_Vein/NP ;/FF Bavar

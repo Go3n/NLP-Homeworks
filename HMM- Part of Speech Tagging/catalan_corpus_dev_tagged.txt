@@ -315,4 +315,113 @@ Posició/NP final/NC de/SP el/DA Campionat/NP de/SP constructors/NC de/SP el/DA 
 Clasificació/NP de/SP el/DA mundial/AQ de/SP pilots/NC de/SP el/DA 2000/ZZ ./FF
 (/FF )/FF
 Estats/NC sobirans/AQ ./FF
-A._Principat_d'_Albània/NP (/FF fins/RG a/SP el/DA setembre/WW )/FF ;/FF ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Asir_Emirat_d'_Asir/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF Imperi_Austrohongarès/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Regne_de_Dinamarca/NP ;/FF ;/FF E._República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_França/NP ;/FF G._Grècia_Regne_de_Grècia/NP ;/FF República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF República_d'_Hondures/NP ;/FF I._Regne_d'_Itàlia/NP ;/FF J._Japó/NP -/FF Imperi_de_el_Japó/NP ;/FF L._República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF Regne_de_M
+A._Principat_d'_Albània/NP (/FF fins/RG a/SP el/DA setembre/WW )/FF ;/FF ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Asir_Emirat_d'_Asir/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF Imperi_Austrohongarès/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Regne_de_Dinamarca/NP ;/FF ;/FF E._República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_França/NP ;/FF G._Grècia_Regne_de_Grècia/NP ;/FF República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF República_d'_Hondures/NP ;/FF I._Regne_d'_Itàlia/NP ;/FF J._Japó/NP -/FF Imperi_de_el_Japó/NP ;/FF L._República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF Regne_de_Montenegro/NP ;/FF N._República_de_Nicaragua/NP ;/FF Regne_de_Noruega/NP ;/FF -/FF Domini_de_Nova_Zelanda/NP ;/FF O._Imperi_Otomà/NP ;/FF P._Regne_de_els_Països_Baixos/NP ;/FF República_de_el_Panamà/NP ;/FF República_de_el_Paraguai/NP ;/FF Pèrsia_Imperi_Persa/NP ;/FF República_Peruana/NP ;/FF República_Portuguesa/NP ;/FF R._Regne_Unit_Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda/NP ;/FF Regne_de_Romania/NP ;/FF ;/FF S._República_de_el_Salvador/NP ;/FF Sereníssima_República_de_San_Marino/NP ;/FF Regne_de_Sèrbia/NP ;/FF -/FF Regne_de_Siam/NP ;/FF Sud-àfrica_Unió_de_Sud-àfrica/NP ;/FF Regne_de_Suècia/NP ;/FF Confederació/NP suïssa/NC ;/FF T._Domini_de_Terranova/NP ;/FF U._República_Occidental_de_l'_Uruguai/NP ;/FF V._Estats_Units_de_Veneçuela/NP ;/FF X._República_de_Xile/NP ;/FF (/FF fins/RG a/SP el/DA 12_de_desembre/WW )/FF ;/FF Xina_Imperi_de_la_Xina/NP (/FF des_de/SP el/DA 12_de_desembre/WW )/FF ;/FF Estats/NP que/PR proclamen/VM la/DA sobirania/NC ./FF
+Armènia_Occidental_Administració_de_l'_Armènia_Occidental/NP (/FF des_de/SP el/DA 28_de_maig/WW )/FF ;/FF Tibet/NP ;/FF
+Cliff_Griffith/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 6_de_febrer_del_1916/WW a/SP Nineveh/NP ,/FF Indiana/NP ./FF
+Griffith/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1950-1952/ZZ ,/FF 1956/ZZ i/CC 1961/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP tots/DI aquests/DD anys/NC ./FF
+Cliff_Griffith/NP va/VA morir/VM el/DA 23_de_gener_del_1996/WW a/SP Rochester/NP ,/FF Indiana/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Cliff_Griffith/NP va/VA participar/VM a/SP 3/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1951/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 3/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 0/ZZ ;/FF
+Bob_Sweikert/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 20_de_maig_del_1926/WW a/SP Los_Angeles/NP ,/FF Califòrnia/NP ./FF
+Sweikert/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1952-1956/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP tots/DI aquests/DD anys/NC i/CC que/PR va/VA guanyar/VM a/SP l'/DA edició/NC de/SP 1955/ZZ ./FF
+Bob_Sweikert/NP va/VA morir/VM el/DA 17_de_juny_del_1956/WW disputant/VM una/DI cursa/NC a/SP Salem/NP ,/FF Indiana/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Bob_Sweikert/NP va/VA participar/VM a/SP 5/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1952/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 5/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 1/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 8/ZZ ;/FF
+Sant_Cugat/NP o/CC Sant_Cucufat/NP ,/FF fou/VS un/DI màrtir/NC que/PR va/VA morir/VM a/SP el/DA lloc/NC d'/SP Octavià/NP que/PR es/P0 correspon/VM amb/SP l'/DA actual/AQ Monestir_de_Sant_Cugat/NP ./FF
+Segons/SP un/DI document/NC de/SP el/DA segle_V/WW de/SP el/DA poeta/NC Aureli_Prudenci/NP ,/FF Martirologi_Jeronimià/NP ,/FF que/PR anomena/VM els/DA sants/NC seguint/VM els/DA dies/NC de/SP l'/DA any/NC ,/FF cita/VM el/DA màrtir/NC Sant_Cugat/NP ./FF
+Segons/SP la/DA tradició/NC ,/FF entre/SP fiable/AQ i/CC pietosa/AQ ,/FF havia/VA nascut/VM a/SP el/DA nord/NC de/SP l'/DA Àfrica/NP ,/FF a/SP la/DA ciutat/NC de/SP Scil·li/NP prop/RG de/SP Cartago/NP ,/FF on/PR és/VS històricament/RG cert/AQ que/PR hi/PP havia/VA abans/RG de/SP el/DA segle_IV/WW una/DI gran/AQ vitalitat/NC cristiana/AQ ./FF
+A/SP finals/NC de/SP el/DA segle_III/WW va/VA venir/VM en_companyia_de/SP Sant_Feliu/NP ,/FF amic/NC ,/FF germà/NC o/CC familiar/AQ seu/PX ,/FF el/DA qual/PR es/P0 va/VA adreçar/VM a/SP Girona/NP on/PR també/RG sofrí/VM martiri/NC ./FF
+Fou/VS perseguit/VM per/SP el/DA governador/NC romà/AQ en/SP temps/NC de/SP Dioclecià/NP per/SP causa/NC de/SP la/DA seva/PX fe/NC ,/FF patint/VM tota/DI mena/NC de/SP turments/NC i/CC tots/DI els/DA suportà/VM ./FF
+Fou/VS fet/NC presoner/AQ a/SP un/DI lloc/NC proper/AQ a/SP Barcelona/NP a/SP 8_milles/ZZ romanes/AQ de/SP el/DA camí/NC de/SP Barcino/NP a/SP Egara/NP (/FF Terrassa/NP )/FF ./FF
+Finalment/RG fou/VS degollat/NC a/SP l'/DA any/NC 304/ZZ i/CC dues/ZZ cristianes/NC provinents/AQ d'/SP Iluro/NP (/FF Mataró/NP )/FF ,/FF Juliana/NP i/CC Semproniana/NP ,/FF varen/VM enterrar/VM el/DA seu/PX cos/NC i/CC per/SP això/PD elles/PP també/RG varen/VM morir/VM màrtirs/NC ./FF
+a/SP el/DA mig/NC de/SP l'/DA actual/AQ claustre/NC de/SP el/DA monestir/NC hi/PP hagué/VA una/DI església/NC paleocristiana/AQ amb/SP un/DI monument/NC funerari/AQ adossat/VM que/CS hom/PI data/NC a/SP el/DA segle_IV/WW ./FF
+Quan/CS aquí/RG s'/P0 aplegà/VM la/DA primera/AO comunitat/NC benedictina/NC (/FF segle_IX/WW )/FF el/DA monestir/NC es/P0 dedicà/VM a/SP Sant_Cugat/NP seguint/VM el/DA culte/NC preexistent/AQ ./FF
+a/SP el/DA segle_VIII/WW sant/AQ Fulrad/NP s'/P0 emportà/VM una/DI relíquia/NC de/SP Sant_Cugat/NP per/SP el/DA seu/PX Monestir_de_París/NP dedicat/VM a/SP Saint_Denis/NP i/CC quan/CS es/P0 construí/VM la/DA immensa/AQ basílica/NC gòtica/AQ ,/FF les/DA relíquies/NC de/SP Sant_Cugat/NP ocuparen/VM un/DI lloc/NC d'/SP honor/NC a/SP l'/DA absis/NC a/SP la/DA dreta/NC de/SP el/DA titular/NC que/PR encara/RG avui/RG resplendeix/VM ./FF
+Les/DA despulles/NC de/SP el/DA màrtir/NC que/CS el/DA monestir/NC guardava/VM en/SP una/DI arqueta/NC amb/SP relleus/NC explicant/VM la/DA vida/NC de/SP sant/NC Cugat/NP es/P0 van/VA traslladar/VM a/SP la/DA parròquia/NC de/SP Sant_Cugat_de_el_Rec/NP (/FF o/CC de/SP el/DA Forn/NP )/FF de/SP Barcelona/NP per/SP garantir/VM -ne/PP la/DA seguretat/NC per/SP la/DA desamortització/NC de/SP el/DA 1835/ZZ ./FF
+A/SP l'/DA any/NC 1950/ZZ ,/FF Sant_Cugat_de_el_Vallès/NP va/VA fer/VM la/DA recepció/NC solemne/AQ d'/SP una/DI petita/AQ relíquia/NC procedent/AQ de/SP l'/DA arqueta/NC ./FF
+Avui/RG l'/DA arqueta/NC és/VS dipositada/VM a/SP la/DA cripta/NC de/SP la/DA basílica/NC de/SP Santa_Maria_de_el_Mar/NP ./FF
+Parròquies/NP i/CC capelles/NC a/SP l'/DA àrea/NC catalana/AQ ./FF
+Sant_Cugat_de_el_Vallès/NP ./FF
+Vallès_Occidental/NP ./FF
+Sant_Cugat_de_el_Rec/NP ,/FF de/SP el/DA Forn/NP o/CC de/SP el/DA Camí/NP (/FF 1023/ZZ )/FF ./FF
+Barcelonès/NP ./FF
+Sant_Cugat_de_Rifà/NP (/FF 1098/ZZ )/FF ./FF
+Vallès_Oriental/NP ./FF
+Sant_Cugat_de_Sesgarrigues/NP (/FF 1075/ZZ )/FF ./FF
+Penedès/NP ./FF
+Sant_Cugat_de_Moja/NP (/FF 1098/ZZ )/FF ./FF
+Penedès/NP ./FF
+Sant_Cugat_d'_Almussarra/NP (/FF 1143/ZZ )/FF ./FF
+Penedès/NP ./FF
+Sant_Cugat_de_Traià/NP (/FF 974/ZZ )/FF ./FF
+Maresme/NP ./FF
+Sant_Cugat_de_Gavadons/NP (/FF 1279/ZZ )/FF ./FF
+Osona/NP ./FF
+Sant_Cugat_de_Boquers/NP (/FF 1356/ZZ )/FF ./FF
+Osona/NP ./FF
+Sant_Cugat_de_el_Racó/NP (/FF 927/ZZ )/FF ./FF
+Bages/NP ./FF
+Sant_Cugat_d'_Ivorra/NP (/FF 1055/ZZ )/FF ./FF
+Segarra/NP ./FF
+Sant_Cugat_Desfar/NP o/CC de/SP Vall_Venera/NP (/FF 1489/ZZ )/FF ./FF
+Baix_Empordà/NP ./FF
+Sant_Cugat_d'_Albons/NP (/FF 1274/ZZ )/FF ./FF
+Baix_Empordà/NP ./FF
+Sant_Cugat_de_Ravós_de_Terri/NP (/FF 1317/ZZ )/FF ./FF
+Gironès/NP ./FF
+Sant_Cugat_de_Fornells_de_la_Selva/NP (/FF 1032/ZZ )/FF ./FF
+Gironès/NP ./FF
+Sant_Cugat_de_Salt/NP (/FF 1078/ZZ )/FF ./FF
+Gironès/NP ./FF
+Sant_Cugat_de_Queixans/NP (/FF 1271/ZZ )/FF ./FF
+Cerdanya/NP ./FF
+Sant_Cugat_de_Servo_Baboso/NP (/FF 1010/ZZ )/FF ./FF
+Urgell/NP ./FF
+Sant_Cugat_d'_Escaró/NP (/FF 981/ZZ )/FF ./FF
+Conflent/NP ./FF
+Sant_Cugat_de_Queixàs/NP (/FF 1021/ZZ )/FF ./FF
+Rosselló/NP ./FF
+Saint_Couat/NP du/VM Razès/NP (/FF s._XIII/WW )/FF ./FF
+Rasès/NP ./FF
+Saint_Couat_d'_Alet/NP (/FF s._XI/WW )/FF ./FF
+Rasès/NP ./FF
+Saint_Couat_d'_Aude/NP (/FF 1118/ZZ )/FF ./FF
+Aude/NP ./FF
+Saint_Cucufat_de_Lauza/NP (/FF 1118/ZZ )/FF ./FF
+Aude/NP ./FF
+Saint_Cucufat_de_Flexus/NP (/FF 814/ZZ )/FF ./FF
+Aude/NP ./FF
+Saint_Cucuphat_de_Prats/NP (/FF 1334/ZZ )/FF ./FF
+Fenolleda/NP ./FF
+Saint_Cophan/NP ./FF
+Gascunya/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP de/SP la/DA parròquies/NC de/SP Sant_Pere_d'_Octavià/NP ;/FF
+L'/DA Estadi_de_Murrayfield/NP és/VS un/DI recinte/NC esportiu/AQ dedicat/VM a/SP el/DA rugbi/NC ./FF
+Es/P0 troba/VM localitzat/VM a/SP Edimburg/NP ,/FF compte/NC amb/SP una/DI capacitat/NC de/SP 67.500/ZZ espectadors/NC ./FF
+És/VS la/DA seu/NC de/SP la/DA Unió_Escocesa_de_Rugby/NP i/CC un/DI símbol/NC dintre/RG de/SP el/DA món/NC de/SP el/DA rugby/NC ./FF
+La/DA Selecció/NP escocesa/AQ de/SP rugby/NC juga/VM en/SP aquest/DD estadi/NC des_de/SP la/DA seva/PX inauguració/NC ,/FF el/DA 21_de_març_de_1925/WW disputant/VM un/DI encontre/NC contra/SP la/DA selecció/NC d'/SP Anglaterra/NP ./FF
+Aquest/DD any/NC que/PR obté/VM per/SP primera/AO vegada/NC en/SP la/DA seva/PX història/NC el/DA Gran_Slam/NP de/SP el/DA Cinc/ZZ Nacions/NP ./FF
+A/SP l/NC Estadi_Murrayfield/NP s/NC han/VA disputat/VM a/SP més/RG de/SP partits/NC de/SP rugby/NC ,/FF competicions/NC de/SP futbol/NC ,/FF futbol_americà/NC i/CC recitals/NC d'/SP importants/AQ grups/NC musicals/AQ ,/FF com/CS per_exemple/RG U2/ZZ i/CC els/DA Red_Hot_Chili_Peppers/NP ./FF
+Durant/SP el/DA 2005/ZZ va/VA ser/VS seu/NC d'/SP un/DI de/SP els/DA concerts/NC de/SP el/DA Live/NP 8/ZZ amb/SP The_Corrs/NP ,/FF Travis/NP i/CC Texas/NP entre/SP d'/SP altres/PI ./FF
+Enllaços/NC externs/AQ ./FF
+Murrayfield_Experience/NP ;/FF Histoire/NP du/VM Murrayfield/NP scottishrugby/NC ./FF org/NC ;/FF Le_Murrayfield/NP ;/FF rugbyworldcup/NC ./FF com/CS ;/FF visitscotland/AQ ./FF com/CS ;/FF coupedumonde2007.net/ZZ ;/FF stadiumguide/NC ./FF com/CS ;/FF
+Hernando/NP o/CC Fernando_Yáñez_de_la_Almedina/NP (/FF Almedina/NP ,/FF Ciudad_Real/NP ,/FF cap/NC a/SP el/DA 1489/ZZ -/FF València/NP ,/FF 1536/ZZ )/FF ,/FF fou/VS un/DI pintor/NC valencià/AQ de/SP el/DA Renaixement/NP ./FF
+Biografia/NP ./FF
+Encara/RG de/SP jove/NC degué/VM anar/VM a/SP Itàlia/NP ,/FF com/CS indica/VM l'/DA indubtable/AQ italianisme/NC de/SP el/DA seu/PX estil/NC ,/FF que/PR denota/VM una/DI marcada/NC influència/NC de/SP el/DA sfumato/NC de/SP Leonardo/NP da/VM Vinci/NP i/CC altres/DI influències/NC florentines/AQ ,/FF així/RG com/CS de/SP els/DA cercles/NC venecians/AQ de/SP Giorgione_de_Castelfranco/NP ;/FF en/SP dos/ZZ documents/NC de/SP 1505/ZZ sobre/SP la/DA pintura/NC de/SP La/NP batalla/NC d'/SP Anghiari/NP de/SP da/VM Vinci/NP i/CC els/DA seus/PX deixebles/NC a/SP el/DA palau/NC Vecchio_de_Florència/NP se/P0 cita/VM a/SP un/DI Ferrando_Spagnolo/NP ,/FF pittore/RG ,/FF la/DA qual/DR cosa/NC potser/RG correspon/VM a/SP Yáñez/NP o/CC més/RG probablement/RG a/SP Hernando/NP de/SP los/NC Llanos/NP ./FF
+A/SP la/DA seua/PX tornada/NC a/SP Espanya/NP es/P0 va/VA establir/VM a/SP València/NP ,/FF on/PR apareix/VM documentat/VM per/SP primera/AO vegada/NC en/SP 1506/ZZ ,/FF data/NC en/SP què/PR va/VA pintar/VM el/DA retaule/NC de/SP Sant_Cosme/NP i/CC Sant_Damià/NP per/SP a/SP la/DA catedral/NC de/SP València/NP ,/FF cremat/NC quasi/RG enterament/RG en/SP 1936/ZZ ;/FF allí/RG va/VA trobar/VM un/DI mercat/NC per/SP a/SP la/DA seua/PX pintura/NC i/CC va/VA treballar/VM ininterrompudament/RG fins/SP a/SP 1526/ZZ col·laborant/VM amb/SP el/DA citat/VM Hernando/NP de/SP los/NC Llanos/NP ;/FF tots/DI dos/ZZ firmaven/VM Hernando/NP o/CC Fernando/NP ,/FF fet/NC que/PR va/VA generar/VM la/DA confusió/NC de/SP creure/VM que/CS eren/VS un/DI mateix/DI pintor/NC ;/FF van/VA treballar/VM en/SP les/DA portes/NC de/SP el/DA retaule/NC major/AQ de/SP la/DA catedral/NC de/SP València/NP entre/SP 1507/ZZ i/CC 1510/ZZ ,/FF conjunt/NC important/AQ perquè/CS representa/VM l'/DA establiment/NC de/SP el/DA model/NC leonardesc/AQ en/SP terres/NC valencianes/AQ ;/FF si_bé/CS aquests/DD dos/ZZ pintors/NC són/VS acusadament/RG leonardescs/NC i/CC renaixentistes/AQ ,/FF la/DA imitació/NC de/SP Leonardo_per_Llanos/NP és/VS més/RG literal/AQ i/CC Yáñez/NP posseeix/VM un/DI estil/NC amb/SP més/RG recursos/NC ;/FF Yáñez/NP va/VA fer/VM algun/DI treball/NC a/SP Barcelona/NP en/SP 1515/ZZ ,/FF però/CC quasi/RG tota/DI la/DA seua/PX obra/NC conservada/VM correspon/VM a/SP el/DA període/NC de/SP València/NP ,/FF on/PR va/VA pintar/VM peces/NC com/CS L'/NP abraç/VM davant/RG de/SP la/DA Porta_Daurada/NP ,/FF L'/NP adoració/NC de/SP els/DA pastors/NC i/CC La/NP dormició/NC de/SP la/DA Mare_de_Déu/NP ,/FF totes/PI en/SP les/DA portes/NC de/SP el/DA retaule/NC major/AQ de/SP la/DA catedral/NC ./FF
+Llanos/NP i/CC Yáñez/NP van/VA abandonar/VM València/NP abans/RG de/SP 1520/ZZ ,/FF dirigint/VM -se/PP l/NC un/DI a/SP Múrcia/NP i/CC l'/DA altre/PI a/SP Conca/NP ./FF
+En/SP 1531/ZZ se/P0 sap/VM que/CS estava/VM en/SP Conca/NP pintant/VM diversos/DI retaules/NC ,/FF notícia/NC que/PR és/VS l'/DA última/AO conservada/VM sobre/SP aquest/DD pintor/NC ./FF
+Així/RG ,/FF doncs/RG ,/FF poden/VM establir/VM -se/P0 tres/VM períodes/NC o/CC fases/NC en/SP Yáñez/NP :/FF una/DI italiana/AQ ,/FF a/SP qui/PR se/P0 li/PP atribueix/VM Els_Sants_Ermitans_de_el_Museu_Brera_de_Milà/NP ,/FF una/DI valenciana/NC ,/FF la/DA més/RG important/AQ ,/FF i/CC una/DI de/SP Conca/NP ,/FF final/AQ ./FF
+Obra/NC ./FF
+Les/DA seues/PX composicions/NC es/P0 caracteritzen/VM per/SP els/DA estilemes/NC leonardescs/NC (/FF sfumato/NC ,/FF dolçor/NC de/SP els/DA rostres/NC i/CC gestos/NC )/FF ,/FF la

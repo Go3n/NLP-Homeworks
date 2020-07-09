@@ -504,4 +504,75 @@ per/SP el/DA que/PR fa/VM a/SP el/DA gust/NC ,/FF tots/DI ells/PP tenen/VM un/DI
 L'/DA olor/NC també/RG sol/VM ser/VS forta/AQ ./FF
 Els/DA formatges/NC blaus/AQ més/RG famosos/AQ són/VS el/DA roquefort/AQ occità/NC ,/FF el/DA Gorgonzola/NP llombard/AQ ,/FF l'/DA Stilton/NP anglès/AQ ,/FF i/CC el/DA Cabrales/NP asturià/AQ ,/FF tots/DI ells/PP amb/SP Denominació_d'_Origen_Protegida/NP ./FF
 Tipus/NP (/FF Selecció/NP )/FF ./FF
-Adelost/NP ;/FF Amablu/NP ;/FF Aura/NP cheese/NC ;/FF Australian_Blue_Vein/NP ;/FF Bavar
+Adelost/NP ;/FF Amablu/NP ;/FF Aura/NP cheese/NC ;/FF Australian_Blue_Vein/NP ;/FF Bavarian/NP blue/RG o/CC Bavaria/NP blu/VM ;/FF Beenleigh_Blue/NP ;/FF Bergader/NP ;/FF Bergere_Bleue/NP ;/FF Bleu_Bénédictin/NP ;/FF Bleu_d'_Auvergne/NP ;/FF Bleu_de_Basque/NP ;/FF Bleu_de_Bresse/NP ;/FF Bleu_de_Gex/NP ;/FF Bleu_de_Laqueuille/NP ;/FF Bleu/NP des/SP Causses/NP ;/FF Bleu_de_Septmoncel/NP ;/FF Bleu/NP du/VM Haut-Jura/NP ;/FF Bleu/NP du/VM Vercors-Sassenage/NP ;/FF Blue_Castello/NP ;/FF Blue_Cheshire/NP ;/FF Blue_Rathgore/NP ;/FF Blue_Wensleydale/NP ;/FF Buttermilk_Blue/NP ;/FF Buxton_Blue/NP cheese/NC ;/FF Cabrales/NP ;/FF Cambozola/NP ;/FF Cashel_Blue/NP cheese/NC ;/FF Cheshire/NP cheese/NC ;/FF Ciel_de_Charlevoix/NP ;/FF Danablu/NP ;/FF Devon_Blue/NP ;/FF Dolcelatte/NP ;/FF Dorset_Blue_Vinney/NP cheese/NC ;/FF Dunsyre_Blue/NP ;/FF Edelpilz/NP ;/FF Exmoor_Blue/NP cheese/NC ;/FF Fourme_d'_Ambert/NP ;/FF Fourme_de_Haute_Loire/NP ;/FF Fourme_de_Montbrison/NP ;/FF Gammelost/NP ;/FF Gippsland_Blue/NP ;/FF Gorgonzola/NP ;/FF Harbourne_Blue/NP ;/FF Jubilee_Blue/NP ;/FF Lanark_Blue/NP ;/FF La_Peral/NP ;/FF Lymeswold/NP cheese/NC ;/FF Maytag_Blue/NP cheese/NC ;/FF Meredith_Blue/NP ;/FF Monje_Picón/NP ;/FF Montagnolo/NP ;/FF Mycella/NP ;/FF Olivet_Bleu/NP ;/FF Oxford_Blue/NP ;/FF Oxley_Traditional_Blue/NP ;/FF Picón_Bejes-Tresviso/NP ;/FF Roaring_Forties_Blue/NP ;/FF Rochebaron/NP ;/FF Roquefort/NP ;/FF Saga/NP cheese/NC ;/FF Shropshire_Blue/NP cheese/NC ;/FF Saint_Agur_Blue/NP ;/FF St._Pete/NP 's/P0 Select/NP ;/FF Stilton/NP ;/FF Valdeón/NP ;/FF Waimata_Farmhouse_Blue/NP ;/FF Westminster_Blue/NP ;/FF Yorkshire_Blue/NP ;/FF Vegeu/NP també/RG ./FF
+Formatges/NP ;/FF Enllaços/NP externs/AQ ./FF
+Què/PT fa/VM blau/AQ un/DI formatge/NC ?/FF (/FF en/SP anglès/NC )/FF ;/FF Articles/NP graguïts/VM sobre/SP formatge/NC blau/AQ i/CC altres/DI tipus/NC de/SP formatges/NC (/FF en/SP anglès/NC )/FF ;/FF
+Química/AQ :/FF foc/NC ,/FF combustió/NC de/SP el/DA materials/NC ;/FF Mitologia/NP :/FF foc/NC (/FF element/NC )/FF ,/FF percebut/VM com/CS una/DI substància/NC pura/AQ i/CC homogènia/AQ que/PR constituïa/VM un/DI de/SP els/DA elements/NC primordials/AQ de/SP la/DA natura/NC ./FF
+Espectacle/NP :/FF Vegeu/VM Focs/NP artificials/AQ per/SP a/SP espectacles/NC amb/SP pòlvora/NC i/CC petards/NC ./FF
+Geografia/NP :/FF Vegeu/VM Focs/NP per/SP a/SP la/DA unitat/NC de/SP recompte/NC de/SP població/NC ./FF
+Biogeoquímica/NP :/FF Vegeu/VM focs_follets/NC per/SP a/SP les/DA emanacions/NC de/SP gasos/NC inflamables/AQ ./FF
+Ecologia/NP :/FF Vegeu/VM foc/NC forestal/AQ ./FF
+Arquitectura/NP :/FF Vegeu/VM llar/NC de/SP foc/NC ./FF
+Arma/NC :/FF Vegeu/VM foc/NC grec/AQ ./FF
+Blasonament/NP :/FF Vegeu/VM foc/NC d'/SP or/NC ./FF
+Karol/NP wierczewski/RG (/FF anomenat/VM Walter/NP o/CC General_Walter/NP )/FF (/FF Varsòvia/NP ,/FF Polònia/NP ,/FF 22_de_febrer_del_1897/WW -/FF Jab/NP onki/AQ ,/FF Baligród/NP ,/FF Polònia/NP ,/FF 28_de_març_del_1947/WW )/FF fou/VS un/DI oficial/AQ militar/NC a/SP la/DA Rússia/NP bolxevic/AQ i/CC més/RG tard/VM general/AQ a/SP el/DA servei/NC de/SP la/DA Unió_Soviètica/NP ,/FF de/SP la/DA Segona_República/NP espanyola/AQ i/CC de/SP el/DA govern/NC polonès/AQ immediatament/RG posterior/AQ a/SP la/DA II_Guerra_Mundial/NP ./FF
+El/DA 1936/ZZ ,/FF sota/SP el/DA nom/NC de/SP General_Walter/NP ,/FF marxà/VM a/SP Espanya/NP per/SP a/SP combatre/VM l'/DA alçament/NC militar/AQ que/PR havia/VA desencadenat/VM la/DA Guerra_Civil/NP espanyola/AQ ./FF
+Aviat/RG es/P0 guanyà/VM la/DA reputació/NC com/CS a/SP comandament/NC militar/AQ competent/AQ a/SP el/DA capdavant/RG de/SP la/DA XIV_Brigada_Internacional/NP i/CC després/RG de/SP la/DA 35ª/ZZ Divisió/NP republicana/AQ ./FF
+En/SP el/DA terreny/NC de/SP les/DA anècdotes/NC produïdes/VM durant/SP la/DA seva/PX estada/NC a/SP Espanya/NP ,/FF destaca/VM el/DA fet/NC de/SP què/PT la/DA fotògrafa/NC d'/SP origen/NC polonès/AQ Gerda_Taro/NP (/FF companya/NC de/SP Robert_Capa/NP )/FF ,/FF perdé/VM la/DA vida/NC quan/PR pujà/VM a/SP l'/DA estrep/NC de/SP el/DA seu/PX cotxe/NC i/CC un/DI tanc/NC republicà/AQ els/PP embastí/VM per/SP accident/NC ,/FF durant/SP el/DA caos/NC de/SP la/DA retirada/NC de/SP la/DA batalla/NC de/SP Brunete/NP ,/FF el/DA 26_de_juliol_del_1937/WW ./FF
+I/CC Brought_You_My_Bullets/NP ,/FF You_Brought_Me_Your_Love/NP és/VS el/DA primer/AO disc/NC de/SP el/DA grup/NC de/SP Nova_Jersey/NP ,/FF My_Chemical_Romance/NP ,/FF llançat/NC el/DA 23_de_juliol_de_2002/WW ./FF
+Les/DA cançons/NC en/SP el/DA disc/NC expliquen/VM la/DA història/NC de/SP els/DA (/FF "/FF Demolition/NP lovers/NC "/FF )/FF ,/FF dos/ZZ criminals/NC que/PR cometen/VM diversos/DI assesinats/VM i/CC crims/NC junts/AQ ,/FF i/CC que/CS ,/FF a/SP el/DA final/NC ,/FF es/P0 cremen/VM en/SP un/DI desert/NC ./FF
+La/DA història/NC de/SP els/DA amants/NC continua/VM en/SP el/DA seu/PX segon/AO disc/NC Three_Cheers/NP for/NC Sweet_Revenge/NP ./FF
+La/DA banda/NC va/VA guanyar/VM -se/PP molts/DI fans/NC de/SP el/DA món/NC underground/AQ peòo/NC no/RN van/VA poder/VM aspirar/VM a/SP mercatss/AQ grans/AQ fins/SP el/DA llançament/NC de/SP el/DA seu/PX segon/AO àlbum/NC ,/FF que/PR fou/VS llançat/VM dos/ZZ anys/NC més/RG tard/RG ./FF
+A_causa_de/SP què/PR el/DA nom/NC de/SP el/DA àlbum/NC es/P0 excesivament/RG llarg/AQ ,/FF els/DA fans/NC l'/PP abrevien/VM frecuentement/RG com/CS "/FF Bullets/NP "/FF ./FF
+El/DA disc/NC fou/VS produït/VM per/SP Geoff_Rickly/NP ,/FF el/DA cantant/NC de/SP la/DA banda/NC Thursday/NP ,/FF que/PR traballava/VM a/SP Eyeball_Records/NP ./FF
+Cançons/NP ./FF
+"/FF Romance/NP "/FF -/FF 1:04/ZZ ;/FF "/FF Honey/NP ,/FF This_Mirror_Isn/NP 't/P0 Big_Enough/NP for/NC the/AQ two/AQ of/NC us/P0 "/FF 3:53/ZZ ;/FF "/FF Vampires/NP will/NC never/NC hurt/AQ you/AQ "/FF 5:28/ZZ ;/FF "/FF Drowning/NP lessons/NC "/FF 4:25/ZZ ;/FF "/FF Our/NP lady/NC of/NC sorrows/AQ "/FF 2:07/ZZ ;/FF "/FF Headfirst/NP for/NC halos/NC "/FF 3:30/ZZ ;/FF "/FF Skylines/NP and/AQ turnstiles/NC "/FF 3:25/ZZ ;/FF "/FF Early_Sunsets_Over_Monroeville/NP "/FF 5:07/ZZ ;/FF "/FF This/NP is/NC the/AQ best/AQ day/RG ever/NC "/FF 2:14/ZZ ;/FF "/FF Cubicles/NP "/FF 3:53/ZZ ;/FF "/FF Demolition/NP lovers/NC "/FF 6:06/ZZ ;/FF Senzills/NP ./FF
+Honey/NP ,/FF this/AQ mirror/NC isn/AQ 't/P0 big/NC enough/NC for/NC the/RG two/AQ of/NC us/P0 -/FF 2002/ZZ ;/FF Vampires/NP will/NC never/NC hurt/AQ you/AQ -/FF 2002/ZZ ;/FF Headfirst/NP for/NC halos/NC -/FF 2004/ZZ ;/FF Our/NP lady/NC of/NC sorrows/AQ -/FF 2004/ZZ ;/FF Crèdits/NP ./FF
+Gerard_Way/NP -/FF Cantant/NC principal/AQ ;/FF Ray_Toro/NP -/FF Guitarra/NC principal/AQ ,/FF guitarra/NC rítmica/AQ ;/FF Mikey_Way/NP -/FF Baix_Elèctric/NP ;/FF Matt_Pelissier/NP -/FF Bateria/NP ;/FF Frank_Iero/NP -/FF Guitarra/NC rítmica/AQ (/FF en/SP cançons/NC 2/ZZ i/CC 8/ZZ )/FF ;/FF
+El/DA Fußball-Club_Sankt_Pauli/NP von/VM 1910/ZZ és/VS un/DI club/NC poliesportiu/AQ d'/SP Alemanya/NP situat/VM en/SP el/DA districte/NC Sankt_Pauli_d'_Hamburg/NP ./FF
+Encara/RG que/CS és/VS especialment/RG conegut/VM per/SP el/DA seu/PX equip/NC de/SP futbol/NC ,/FF el/DA club/NC té/VM també/RG seccions/NC de/SP rugbi/NC ,/FF futbol_americà/NC ,/FF beisbol/NC ,/FF bitlles/NC ,/FF escacs/NC ,/FF ciclisme/NC ,/FF handbol/NC i/CC tennis_de_taula/NC ./FF
+El/DA 2007/ZZ el/DA St._Pauli/NP va/VA assolir/VM l'/DA ascens/NC a/SP la/DA 2/ZZ ./FF
+Bundesliga/NP després/RG d'/SP acabar/VM 1r/AO en/SP la/DA Regionalliga_Nord/NP ./FF
+Història/NP ./FF
+Primers/AO anys/NC ./FF
+El/DA club/NC es/P0 va/VA fundar/VM el/DA 1899/ZZ com/CS un/DI grup/NC informal/AQ d'/SP entusiastes/NC de/SP el/DA futbol/NC dintre/RG de/SP la/DA Hamburg-St/NP ./FF
+Pauli_Turn-Verein/NP 1862/ZZ ./FF
+Aquest/DD equip/NC no/RN va/VA jugar/VM el/DA seu/PX primer/AO partit/NC fins/SP a/SP 1907/ZZ ./FF
+Oficialment/RG establert/VM el/DA 15_de_maig_de_1910/WW ,/FF el/DA club/NC va/VA jugar/VM com/CS a/SP "/FF St_Pauli_TV/NP "/FF en/SP la/DA Kreisliga_Groß-Hamburg/NP (/FF Alsterkreis/NP )/FF fins/SP a/SP el/DA 1924/ZZ quan/PR es/P0 va/VA formar/VM per/SP una/DI altra/DI banda/NC un/DI equip/NC de/SP futbol/NC anomenat/VM FC_St._Pauli/NP ./FF
+L'/DA equip/NC va/VA jugar/VM com/CS un/DI amateur/NC fins/SP a/SP la/DA creació/NC de/SP el/DA primer/AO equip/NC en/SP 1934/ZZ en/SP el/DA límit/NC de/SP la/DA Gauliga_Nordmark/NP ,/FF sent/VM un/DI de/SP els/DA setze/ZZ equips/NC creats/VM en/SP la/DA reorganització/NC de/SP el/DA futbol/NC alemany/AQ que/PR va/VA ocorreguda/VM durant/SP el/DA Tercer_Reich/NP ./FF
+Immediatament/RG van/VA ser/VS relegats/VM ,/FF però/CC van/VA tornar/VM a/SP ser/VS protagonistes/NC el/DA 1936/ZZ ./FF
+Relegat/VM altra/DI vegada/NC el/DA 1940/ZZ ,/FF el/DA St_Pauli/NP reapareixeria/VM en/SP l'/DA Hamburg_Gauliga/NP el/DA 1942/ZZ ,/FF on/PR jugaria/VM fins/SP a/SP el/DA final/NC de/SP la/DA Segona_Guerra_Mundial/NP ./FF
+El/DA futbol/NC de/SP la/DA postguerra/NC ./FF
+Després/RG de/SP la/DA guerra/NC ,/FF el/DA club/NC va/VA tornar/VM a/SP jugar/VM en/SP la/DA Oberliga_Nord/NP el/DA 1947/ZZ ./FF
+Una/DI gran/AQ participació/NC en/SP la/DA temporada/NC 1947-48/ZZ ,/FF en/SP la/DA qual/PR va/VA finalitzar/VM en/SP el/DA 2º/ZZ lloc/NC ,/FF va/VA dur/VM a/SP el/DA St_Pauli/NP a/SP la/DA seva/PX primera/AO participació/NC important/AQ en/SP el/DA Campionat_Nacional/NP ./FF
+L'/DA equip/NC va/VA avançar/VM fins/SP a/SP les/DA semifinals/NC on/PR van/VA ser/VS eliminats/VM a/SP el/DA caure/VM per/SP 2/ZZ a/SP 3/ZZ davant/SP els/DA eventuals/AQ campions/NC ,/FF el/DA 1/ZZ ./FF
+FC_Nürnberg/NP ./FF
+El/DA club/NC va/VA seguir/VM jugant/VM bé/RG durant/SP els/DA primers/AO anys/NC 50/ZZ ,/FF però/CC era/VS incapaç/AQ d'/SP arribar/VM a/SP a/SP rivals/NC com/CS el/DA Hamburg_SV/NP ,/FF acabant/VM en/SP el/DA segon/AO lloc/NC en/SP cinc/ZZ de/SP les/DA set/NC següents/AQ temporades/NC i/CC sortint/VM en/SP les/DA primeres/AO rondes/NC en/SP cadascuna/PI de/SP les/DA seves/PX aparicions/NC en/SP el/DA Campionat_Nacional/NP des_de/SP 1949/ZZ a/SP 1951/ZZ ./FF
+En/SP l'/DA última/AO meitat/NC de/SP la/DA dècada/NC i/CC a/SP principis/NC de/SP els/DA anys/NC 60/ZZ ,/FF el/DA St._Pauli/NP va/VA vèncer/VM a/SP rivals/NC com/CS el/DA Werder_Bremen/NP i/CC el/DA VfL_Osnabrück/NP ,/FF però/CC era/VS incapaç/AQ de/SP superar/VM el/DA quart/AO lloc/NC ./FF
+La/DA lluita/NC per/SP la/DA promoció/NC a/SP la/DA Bundesliga/NP ./FF
+El/DA 1963/ZZ ,/FF la/DA Bundesliga/NP ,/FF la/DA nova/AQ lliga/NC professional/AQ de/SP primera/AO divisió/NC d'/SP Alemanya_Occidental/NP ,/FF va/VA ser/VS formada/VM ./FF
+Equips/NP com/CS l'/DA Hamburg/NP ,/FF el/DA Werder_Bremen/NP o/CC l'/DA Eintracht_Braunschweig/NP es/P0 van/VA unir/VM a/SP la/DA lliga/NC després/RG d'/SP acabar/VM en/SP els/DA primers/AO llocs/NC de/SP la/DA Oberliga_Nord/NP ,/FF mentre_que/CC el/DA St._Pauli/NP es/P0 va/VA situar/VM a/SP la/DA segona/AO divisió/NC (/FF Regionalliga_Nord/NP )/FF ./FF
+L'/DA èxit/NC de/SP la/DA Bundesliga/NP i/CC el/DA creixement/NC de/SP el/DA futbol/NC professional/AQ a/SP Alemanya_Occidental/NP va/VA conduir/VM a/SP la/DA formació/NC de/SP la/DA 2/ZZ ./FF
+Bundesliga/NP el/DA 1974/ZZ ./FF
+El/DA St._Pauli/NP formava_part/VM de/SP la/DA nova/AQ lliga/NC i/CC el/DA 1977/ZZ finalment/RG va/VA ascendir/VM a/SP la/DA primera/AO divisió/NC de/SP la/DA Bundesliga/NP en_virtut_de/SP el/DA seu/PX primer/AO lloc/NC ./FF
+L'/DA equip/NC ,/FF però/CC ,/FF va/VA descendir/VM la/DA temporada/NC següent/AQ ./FF
+La/DA tornada/NC de/SP el/DA club/NC a/SP la/DA 2/ZZ ./FF
+Bundesliga/NP va/VA ser/VS també/RG efímera/AQ ./FF
+Prop/RG de/SP la/DA fallida/NC de/SP 1979/ZZ se/P0 li/PP va/VA negar/VM la/DA llicència/NC per/SP a/SP la/DA temporada/NC següent/AQ i/CC van/VA ser/VS enviats/VM a/SP la/DA Oberliga_Nord/NP (/FF III_Divisió/NP )/FF ./FF
+L'/DA empenta/NC esportiva/AQ de/SP 1981/ZZ i/CC 1983/ZZ no/RN va/VA ser/VS acompanyada/VM per/SP una/DI bona/AQ salut/NC financera/AQ ./FF
+El/DA 1984/ZZ ,/FF el/DA club/NC va/VA recuperar/VM la/DA categoria/NC a/SP la/DA 2/ZZ ./FF
+Bundesliga/NP per/SP davant/RG de/SP la/DA secció/NC amateur/AQ de/SP el/DA Werder_Bremen/NP que/PR en_realitat/RG havia/VA acabat/VM dos/ZZ punts/NC per/SP davant/RG de/SP el/DA St._Pauli/NP ,/FF però/CC no/RN podien/VM jugar/VM la/DA promoció/NC ./FF
+St._Pauli/NP i/CC el/DA fenomen/NC Kult/NP ./FF
+Eren/VS mitjans/NC de/SP els/DA anys/NC 1980/ZZ quan/CS el/DA St._Pauli/NP va/VA començar/VM la/DA transició/NC d'/SP un/DI club/NC tradicional/AQ en/SP un/DI club/NC de/SP culte/NC ./FF
+El/DA club/NC va/VA canviar/VM la/DA ubicació/NC de/SP els/DA seus/PX terrenys/NC per/SP uns/DI en/SP el/DA moll/NC de/SP St._Pauli/NP ,/FF prop/RG d'/SP Hamburg_Reeperbahn/NP ./FF
+El/DA centre/NC de/SP la/DA vida/NC nocturna/AQ de/SP la/DA ciutat/NC i/CC el/DA seu/PX barri_xinès/NC estaven/VM aquí/RG ./FF
+De/SP manera/NC espontània/AQ van/VA sorgir/VM les/DA ideologies/NC comunistes/AQ i/CC socialistes/NC per/SP els/DA quals/PR s'/P0 inclina/VM el/DA club/NC i/CC l'/DA atmosfera/NC de/SP els/DA seus/PX partits/NC ./FF
+Els/DA seguidors/NC van/VA adoptar/VM el/DA crani/NC amb/SP ossos/NC creuats/VM com/CS el/DA seu/PX propi/AQ emblema/NC no/RN oficial/AQ ./FF
+El/DA St._Pauli/NP va/VA ser/VS el/DA primer/AO equip/NC d'/SP Alemanya/NP a/SP prohibir/VM oficialment/RG la/DA dreta/NC política/AQ i/CC activitats/NC nacionalistes/AQ en/SP una/DI època/NC que/PR el/DA feixisme/NC inspirava/VM vandalisme/NC en/SP el/DA futbol/NC ./FF
+En/SP 1981/ZZ ,/FF l'/DA equip/NC tenia/VM una/DI mitjana/NC de/SP només/RG 1.600/ZZ espectadors/NC :/FF abans/RG de/SP finals/NC de/SP els/DA anys/NC 90/ZZ aquesta/DD mitjana/NC va/VA augmentar/VM a/SP 20.000/ZZ espectadors/NC per/SP partit/NC ./FF
+El/DA St._Pauli/NP va/VA començar/VM un/DI període/NC de/SP pujades/NC i/CC baixades/NC que/PR el/PP van/VA fer/VM ascendir/VM i/CC descendir/VM de/SP la/DA Bundesliga/NP diverses/DI vegades/NC durant/SP una_dotzena/ZZ d'/SP anys/NC ./FF
+Van/VA tornar/VM a/SP la/DA Bundesliga/NP el/DA 1988/ZZ per/SP estar/VM -s/P0 'hi/PP tres/VM anys/NC ,/FF més/RG tard/RG va/VA estar/VM dues/ZZ temporades/NC a/SP segona/AO ,/FF el/DA 1995/ZZ ./FF
+En/SP el/DA nou/AQ mil·lenni/NC ./FF
+La/DA seva/PX temporada/NC més/RG recent/AQ en/SP la/DA Bundesliga/NP va/VA ser/VS la/DA 2001-02/ZZ ./FF
+Aquesta/DD aventura/NC gairebé/RG va/VA dur/VM a/SP la/DA fallida/NC a/SP el/DA club/NC que/PR va/VA haver/VA de/SP portar_a_terme/VM iniciatives/NC anomenades/NC "/FF Retteraktion/NP "/FF per/SP a/SP liquidar/VM el/DA seu/PX deute/NC ./FF
+Es/P0 van/VA imprimir/VM samarretes/NC amb/SP la/DA imatge/NC de/SP el/DA club/NC envoltada/VM per/SP la/DA paraula/NC "/FF Retter/NP "/FF (/FF salvador/NC )/FF i/CC se/P0

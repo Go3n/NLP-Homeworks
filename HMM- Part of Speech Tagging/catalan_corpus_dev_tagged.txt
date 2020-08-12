@@ -854,4 +854,85 @@ La/DA seva/PX segona/AO esposa/NC fou/VS la/DA model/NC Nathalie_Dyszkiewicz/NP 
 Manté/VM cases/NC a/SP París/NP ,/FF Malàisia/NP i/CC Los_Angeles/NP ./FF
 Reno/NP és/VS gran/AQ fan/VM d'/SP Elvis_Presley/NP i/CC pot/VM imitar/VM -ne/PP la/DA seva/PX veu/NC ./FF
 Usà/VM la/DA seva/PX capacitat/NC per/SP a/SP imitar/VM en/SP una/DI escena/NC de/SP Godzilla/NP ,/FF quan/CS el/DA guió/NC necessitava/VM que/CS el/DA seu/PX personatge/NC es/P0 fes/VM passar/VM per/SP estatunidenc/AQ ./FF
-Filmografía/N
+Filmografía/NP ./FF
+Pel·lícules/NP i/CC televisió/NC ./FF
+Altra/DI filmografiaDe/NC més/RG recent/AQ a/SP més/RG antic/AQ ./FF
+2001/ZZ -/FF Dos/ZZ colgados/AQ en/SP Chicago/NP (/FF Los/NP visitantes/NC cruzan/VM el/DA charco/NC )/FF ;/FF 1998/ZZ -/FF The_Time/NP ;/FF 1997/ZZ -/FF Roseanna/NP 's/P0 Grave/NP ./FF ;/FF 1993/ZZ -/FF Els/DA visitants/NC no/RN nasqueren/VM ahir/RG ./FF ;/FF 1987/ZZ -/FF Monsieur_Benjamin/NP (/FF TV/NP )/FF ;/FF 1986/ZZ -/FF Pour/NP venger/NC Pépère/NP (/FF TV/NP )/FF ;/FF 1986/ZZ -/FF I/CC Love_You/NP ;/FF 1986/ZZ -/FF Zone/NP rouge/NC ;/FF 1985/ZZ -/FF Estrictament/RG Personal/NP ./FF ;/FF 1985/ZZ -/FF Un/DI homme/NC comblé/RG (/FF TV/NP )/FF ;/FF 1984/ZZ -/FF Alea/NP ;/FF 1984/ZZ -/FF Et/PP demain/VM viendra/NC le/AQ jour/NC (/FF TV/NP )/FF ;/FF 1984/ZZ -/FF Nuestra/NP historia/VM ;/FF 1983/ZZ -/FF Ballade/NP sanglante/NC ;/FF 1983/ZZ -/FF Signes/NC extérieurs/AQ de/SP richesse/NC ;/FF 1983/ZZ -/FF Quelques/NP hommes/NC de/SP bonne/NC volonté/VM (/FF sèrie/NC de/SP TV/NP )/FF ./FF ;/FF 1981/ZZ -/FF L'/DA Avant/NP dernier/AQ ./FF ;/FF 1980/ZZ -/FF Les/DA Bidasses/NP aux/VM grandes/NC manoeuvres/AQ ./FF ;/FF 1980/ZZ -/FF Voulez-vous/NP un/DI bébé/RG Nobel/NP ?/FF ./FF ;/FF 1979/ZZ -/FF Clair/NP de/SP femme/VM ./FF
+1979/ZZ -/FF L'/DA Hypothèse/NP du/VM tableau/NC volé/RG ./FF
+Musicals/NP ./FF
+Cats/NP ;/FF Enllaços/NP externs/AQ ./FF
+;/FF Página/NP de/SP fans/NC de/SP Jean_Reno/NP ;/FF Página/NP de/SP fans/NC de/SP Jean_Reno/NP ;/FF
+La/DA Unió_Esportiva_Fraga/NP és/VS un/DI club/NC de/SP futbol/NC aragonès/AQ de/SP la/DA ciutat/NC de/SP Fraga/NP ,/FF Baix_Cinca/NP ,/FF a/SP la/DA Franja_de_Ponent/NP ./FF
+Va/VA ser/VS fundat/VM el/DA 1927/ZZ i/CC juga/VM a/SP la/DA Tercera/NP divisió/NC ./FF
+Uniforme/NP ./FF
+Uniforme/NC titular/AQ :/FF Samarreta_Vermella/NP ,/FF pantalons/NC blaus/AQ ,/FF mitjons/NC blaus/AQ ./FF
+Estadi/NP ./FF
+L'/DA estacada/NC ,/FF amb/SP capacitat/NC per/SP a/SP 4000/ZZ persones/NC ./FF
+Dades/NC de/SP el/DA club/NC ./FF
+Temporades/NP a/SP 2ª/ZZ B/NP :/FF 4/ZZ ;/FF Temporades/NP a/SP 3ª/ZZ :/FF 21/ZZ ;/FF Millor/NP lloc/NC a/SP la/DA liga/VM :/FF 10è/ZZ ;/FF Pitjor/NP lloc/NC a/SP la/DA liga/VM :/FF 18è/ZZ ;/FF Palmarès/NP ./FF
+Tornejos/NC estatals/AQ ./FF
+Lliga/NP 3a/ZZ divisió/NC (/FF 4/ZZ )/FF :/FF 1990/91/ZZ ,/FF 1999/00/ZZ ,/FF 2001/02/ZZ i/CC 2002/03/ZZ ;/FF
+Fuji_Golf/NP es/P0 un/DI joc/NC que/PR va/VA ser/VS programat/VM per/SP Chiki_Nagai/NP quan/PR treballava/VM per/SP ANK_Software_Co._Ltd/NP ;/FF va/VA ser/VS presentat/VM juntament/RG amb/SP el/DA Microsoft_Entertainment_Pack/NP de/SP l'/DA any/NC 1991/ZZ ;/FF es/P0 un/DI de/SP els/DA primers/AO jocs/NC de/SP golf/NC creats/VM per/SP a/SP Windows/NP ./FF
+Informació/NC general/AQ ./FF
+Es/P0 tracta/VM d'/SP un/DI joc/NC de/SP golf/NC a_on/RG l'/DA objecte/NC es/P0 jugar/VM un/DI round/NC (/FF 18/ZZ forats/NC )/FF en/SP el/DA menor/AQ nombre/NC de/SP cops/NC possible/AQ ./FF
+Factors/NP com/CS el/DA vent/NC son/VM generats/VM automàticament/RG ,/FF i/CC a/SP part/NC ,/FF competim/VM contra/SP diferents/DI jugadors/NC controlats/VM per/SP l'/DA AI_de_el_PC/NP ;/FF concretament/RG ,/FF 40/ZZ ./FF
+La/DA mecànica/NC de/SP el/DA joc/NC es/P0 la/DA següent/AQ :/FF podem/VM elegir/VM entre/SP 13/ZZ pals/NC ;/FF depenent/VM de/SP la/DA distància/NC de/SP el/DA forat/NC ,/FF l'/DA ordinador/NC ens/PP assignarà/VM un/DI pal/NC ./FF
+Per/SP colpejar/VM la/DA bola/NC ,/FF clic/NC a/SP el/DA ratolí/NC a_on/RG diu/VM "/FF Backswing/NP "/FF i/CC graduem/VM la/DA potència/NC de/SP el/DA cop/NC ;/FF si/CS esta/NC pròxima/AQ a/SP la/DA màxima/AQ potència/NC ,/FF el/DA botó/NC passa/VM a/SP dir/VM "/FF Hit_Ball/NP "/FF ./FF
+En/SP funció/NC de/SP el/DA teu/PX nivell/NC d'/SP encert/NC ,/FF l'/DA ordinador/NC anirà/VM donant/VM comentaris/NC positius/AQ o/CC negatius/AQ ./FF
+Fuji_Golf/NP es/P0 un/DI joc/NC complicat/VM de/SP guanyar/VM -/FF no/RN importa/VM que/CS tan/RG baix/RG puguis/VM puntuar/VM ,/FF perquè/CS sempre/RG l'/DA ordinador/NC puntuarà/VM més/RG baix/AQ -/FF ./FF
+Tot_i_així/RG ,/FF el/DA record/NC es/P0 -15/ZZ i/CC l'/DA ordinador/NC no/RN sempre/RG l'/DA aconsegueix/VM ./FF
+Per/SP tant/RG ,/FF depenent/VM de/SP les/DA habilitats/NC de/SP el/DA jugador/NC ,/FF guanyar/VM pot/VM ser/VS possible/AQ ./FF
+També/RG ,/FF existeixen/VM alguns/DI trucs/NC per/SP aquest/DD joc/NC com/CS :/FF Abans/RG de/SP fer/VM el/DA swing/NC ,/FF escriu/VM Fujiwallop/NP i/CC pegarà/VM un/DI "/FF super/VM drive/NC "/FF ./FF
+Enllaços/NC externs/AQ ./FF
+Informació/NP de/SP el/DA joc/NC a/SP Answers/NP ./FF com/CS ;/FF Trucs/NP per/SP el/DA joc/NC ;/FF Actual/NP pàgina/NC de/SP ANK_Software/NP ;/FF
+Classificació/NC general/AQ ./FF
+Llegenda/NP :/FF J-partits/NP jugats/NC ,/FF G-guanyats/NP ,/FF E-empatats/NP ,/FF P-perduts/NP ,/FF GF-gols/NP a/SP favor/NC ,/FF GC-gols/NP en/SP contra/SP ,/FF DG-diferència/NP de/SP gols/NC ,/FF PTS-punts_Promoció/NP ./FF
+Resultats/NC finals/AQ ./FF
+Campió/NP :/FF València_CF/NP ./FF
+Descensos/NP :/FF Deportivo_de_La_Coruña/NP ,/FF CD_Castellón/NP i/CC Real_Murcia/NP ./FF
+Ascensos/NP :/FF CD_Alcoià/NP ,/FF Nàstic_de_Tarragona/NP i/CC Real_Sociedad/NP ./FF
+Màxim/AQ golejador/NC :/FF Zarra/NP (/FF Athletic_de_Bilbao/NP )/FF ./FF
+Porter/NP menys/RG golejat/VM :/FF Lezama/NP (/FF Athletic_de_Bilbao/NP )/FF ./FF
+Màxims/AQ golejadors/NC ./FF
+Porter/NP menys/RG golejat/VM ./FF
+Duilia/NP fou/VS una/DI llei/NC aprovada/VM el/DA 449/ZZ aC/NC per/SP plebiscit/NC ,/FF instat/VM per/SP el/DA tribú/NC de/SP la/DA plebs/NC Marc_Duili/NP el/DA 304/ZZ de/SP la/DA fR/NC ./FF (/FF 449/ZZ aC/NC )/FF ,/FF sent/VS cònsols/NC Luci_Valeri_Poplícola/NP i/CC Marc_Horaci_Barbat/NP ,/FF que/PR establia/VM "/FF qui/PR plebem/VM sine/AQ tribunis/NC reliquisset/AQ ,/FF quique/RG magistratum/NC sine/AQ provocatione/AQ creasset/RG ,/FF tergo/VM ac/NC capite/AQ puniretur/NC "/FF (/FF Tit_Livi/NP ,/FF iii/AQ ./FF 55/ZZ ./FF )/FF ./FF
+Fou/VS coneguda/VM generalment/RG com/CS Duilia/NP de/SP magistratibus/NC i/CC Horatia/NP de/SP provocatione/NC ./FF
+Ordenava/VM condemnar/VM a/SP flagel·lació/NC i/CC pena/NC de/SP mort/NC a/SP aquell/PD que/PR deixes/VM a/SP la/DA plebs/NC sense/SP els/DA seus/PX tribuns/AQ i/CC a/SP el/DA que/PR establís/VM un/DI magistrat/NC inapel·lable/AQ ./FF
+Duilia/NP maenia/VM de/SP unciario/NC foenore/AQ fou/VS una/DI llei/NC de/SP l'/DA antiga/AQ Roma/NP ,/FF establerta/VM el/DA 357/ZZ aC/NC proposada/VM per/SP els/DA tribuns/AQ de/SP la/DA plebs/NC Marc_Duili/NP i/CC Luci_Meni/NP (/FF Liv/NP ./FF ii/AQ ./FF 16/ZZ ,/FF 19/ZZ ./FF )/FF ,/FF sota/SP els/DA cònsols/NC Gai_Marci_Rutil/NP i/CC Gneu_Manli_Capitolí_Imperiós/NP el/DA 396/ZZ de/SP la/DA fR/NC (/FF 357/ZZ aC/NC )/FF ./FF
+Aquesta/DD llei/NC va/VA establir/VM el/DA interès/NC de/SP el/DA diner/NC en/SP el/DA un_per_cent/ZZ cosa/NC que/PR va/VA agradar/VM força/RG a/SP els/DA plebeus/NC ./FF
+Flaminia/NP o/CC Flaminia/NP agraria/VM fou/VS una/DI llei/NC de/SP l'/DA antiga/AQ Roma/NP ,/FF de/SP el/DA grup/NC de/SP les/DA lleis/NC agràries/AQ ,/FF establerta/VM per/SP el/DA tribu/NC de/SP la/DA plebs/NC Gai_Flamini/NP el/DA 232/ZZ aC/NC segons/SP Polibi/NP i/CC el/DA 228/ZZ aC/NC segons/SP Ciceró/NP ,/FF amb/SP Marc_Emili_Lèpid/NP i/CC Marc_Publici_Mal·leol/NP com/CS a/SP cònsols/NC ./FF
+Tenia/VM per/SP objectiu/NC atreure/VM el/DA favor/NC de/SP la/DA plebs/NC i/CC repartia/VM entre/SP els/DA soldats/NC les/DA terres/NC de/SP la/DA regió/NC de/SP el/DA Picè/NP en/SP la/DA zona/NC que/PR després/RG fou/VS coneguda/VM per/SP Marca_d'_Ancona/NP ,/FF terres/NC que/PR abans/RG pertanyeren/VM a/SP el/DA poble/NC de/SP els/DA sènons/NC ./FF
+Aquesta/DD llei/NC va/VA provocar/VM la/DA guerra/NC amb/SP els/DA gals/NC ./FF
+Nota/NP ./FF
+Eloy_Fernández_Clemente/NP (/FF Andorra/NP ,/FF província/NC de/SP Terol/NP ,/FF 1942/ZZ )/FF és/VS un/DI economista/NC i/CC historiador/NC aragonès/AQ ./FF
+És/VS Catedràtic_d'_Història_Econòmica/NP en/SP la/DA Facultat_de_Ciències_Econòmiques/NP i/CC Empresarials_de_la_Universitat_de_Saragossa/NP ,/FF de/SP la/DA qual/PR ha/VA estat/VS degà/NC en/SP 1996-1999/ZZ ./FF
+Fou/VS fundador/AQ i/CC director/NC de/SP la/DA revista/NC Andalán/NP (/FF 1972-1977/ZZ i/CC 1982-1987/ZZ )/FF ,/FF i/CC també/RG dirigí/VM la/DA Gran_Enciclopedia_Aragonesa/NP (/FF 1978-1982/ZZ )/FF ./FF
+Formà_part/VM de/SP el/DA nucli/NC fundador/AQ de/SP el/DA Partit_Socialista_Aragonès/NP (/FF PSA/NP )/FF ./FF
+Ha/VA publicat/VM articles/NC a/SP les/DA revistes/NC Cuadernos/NP para/VM el/DA Diálogo/NP ,/FF Historia/NP 16/ZZ i/CC Rolde/NP ./FF
+El/DA 2002/ZZ va/VA ingressar/VM en/SP la/DA Reial_Acadèmia_de_Ciències_Morals/NP i/CC Polítiques/NP ./FF
+És/VS president/NC de/SP la/DA Fundación_Gaspar_Torrente/NP para/VM la/DA investigación/NC y/NC desarrollo/NC de/SP el/DA aragonesismo/NC ,/FF que/PR ha/VA tornat/VM a/SP editar/VM El_Ebro/NP ./FF
+Revista/NC aragonesista/AQ de/SP pensamiento/NC ./FF
+Obres/NC ./FF
+La/DA Ilustración_Aragonesa/NP (/FF 1969/ZZ )/FF ;/FF Aragón/NP contemporáneo/NC 1833-1936/ZZ (/FF 1975/ZZ )/FF ;/FF Estudios/NP sobre/SP Joaquín_Costa/NP (/FF 1989/ZZ )/FF ;/FF Ulises/NP en/SP el/DA siglo/NC XX/NP ./FF
+Crisis/NP y/NC modernización/NC en/SP Grecia/NP ,/FF 1900-1930/ZZ (/FF 1995/ZZ )/FF ;/FF Portugal/NP en/SP los/NC años/AQ veinte/NC ./FF
+Los/NP orígenes/RG de/SP el/DA Estado_Novo/NP (/FF 1996/ZZ )/FF ./FF
+Gente_de_Orden/NP ./FF
+Aragón/NP durante/NC la/DA dictadura/NC de/SP Primo_de_Rivera/NP (/FF 1923-1930/ZZ )/FF (/FF 1997/ZZ )/FF ;/FF Un/DI siglo/NC de/SP obras/NC hidráulicas/NC en/SP España/NP :/FF de/SP la/DA utopía/NC de/SP Joaquín_Costa/NP a/SP la/DA intervención/NC de/SP el/DA Estado/NP (/FF 2000/ZZ )/FF ;/FF
+El/DA testament/NC (/FF de/SP el/DA llatí/AQ testatio/NC mentis/VM ,/FF que/PR significa/VM "/FF testimoniatge/NC de/SP la/DA voluntat/NC "/FF )/FF és/VS l'/DA acte/NC jurídic/AQ per/SP el/DA qual/PR una/DI persona/NC disposa/VM per/SP a/SP després/RG de/SP la/DA seva/PX mort/NC de/SP tots/DI els/DA seus/PX bens/NC o/CC de/SP part/NC d'/SP ells/PP ./FF
+Quan/CS una/DI persona/NC mor/VM sense/SP deixar/VM testament/RG es/P0 diu/VM que/CS ha/VA mort/VM abintestato/NC o/CC intestada/AQ ./FF
+Si_bé/CS generalment/RG el/DA testament/RG és/VS un/DI acte/NC jurídic/AQ en/SP el/DA qual/PR es/P0 fa/VM una/DI disposició/NC de/SP béns/NC ,/FF cal/VM reconèixer/VM que/PR existeixen/VM declaracions/NC de/SP voluntat/NC que/PR no/RN consisteixen/VM en/SP això/PD i/CC que/PR poden/VM ser/VS matèria/NC d'/SP un/DI testament/NC ./FF
+"/FF El/DA testament/RG és/VS un/DI acte/NC més_o_menys/RG solemne/AQ ,/FF que/CS una/DI persona/NC disposa/VM de/SP el/DA tot/PI o/CC per/SP una/DI banda/NC de/SP els/DA seus/PX béns/NC perquè/CS tingui/VM ple/NC efecte/NC després/RG de/SP els/DA seus/PX dies/NC ,/FF conservant/VM la/DA facultat/NC de/SP revocar/VM les/DA disposicions/NC contingudes/VM en/SP ell/PP ,/FF mentre/CS viva/AQ ./FF "/FF El/DA patrimoni/NC comprèn/VM tots/DI els/DA béns/NC ,/FF drets/NC i/CC obligacions/NC d'/SP una/DI persona/NC ,/FF que/PR no/RN s'/P0 extingeixin/VM per/SP la/DA seva/PX mort/NC ./FF
+El/DA testador/NC pot/VM disposar/VM de/SP els/DA seus/PX béns/NC per/SP herència/NC ,/FF a/SP títol/NC universal/AQ ;/FF o/CC per/SP llegat/NC ,/FF a/SP títol/NC particular/AQ ./FF
+Poden/VM testar/VM tots/DI aquells/PD que/PR tenen/VM capacitat/NC d'/SP obrar/VM i/CC la/DA llei/NC no/RN els/PP hi/PP prohibeixi/VM expressament/RG ./FF
+Tipus/NP de/SP testaments/NC ./FF
+Testament/RG ordinari/AQ o/CC pagànic/AQ ./FF ;/FF Testament/NP hològraf/AQ :/FF és/VS l'/DA escrit/NC completament/RG ,/FF datat/VM i/CC signat/VM de/SP la/DA mà/NC de/SP el/DA testador/NC ./FF
+Solen/VM exigir/VM -se/P0 certes/DI formalitats/NC com/CS l'/DA absència/NC de/SP ratllades/NC a/SP el/DA llarg/AQ de/SP tot/DI el/DA text/NC per/SP a/SP salvaguardar/VM la/DA seva/PX integritat/NC ./FF ;/FF Testament/NP obert/VM o/CC públic/NC :/FF és/VS el/DA que/PR elabora/VM el/DA notari/NC després/RG d'/SP haver/VA entrat/VM en/SP coneixement/NC de/SP la/DA voluntat/NC de/SP el/DA testador/NC ./FF ;/FF Testament/NP tancat/NC o/CC secret/NC :/FF és/VS el/DA que/PR s'/P0 escriu/VM per/SP el/DA testador/NC o/CC una/DI altra/DI persona/NC de/SP la/DA seva/PX confiança/NC i/CC es/P0 presenta/VM tancat/VM a/SP el/DA notari/NC amb/SP un/DI cert/AQ nombre/NC de/SP testimonis/NC ./FF ;/FF Testament/NP especial/AQ o/CC privilegiat/NC ;/FF Testament/NP en_ocasió_de/SP calamitat/NC pública/AQ ./FF ;/FF Testament/NP marítim/AQ o/CC aeronàutic/AQ ./FF ;/FF Testament/NP militar/AQ o/CC assimilat/VM :/FF és/VS el/DA qual/PR fan/VM les/DA persones/NC que/PR gaudeixen/VM de/SP el/DA fur/NC militar/AQ ,/FF manifestant/VM la/DA seva/PX última/AO voluntat/NC ,/FF sense/SP subjecció/NC a/SP les/DA formalitats/NC de/SP el/DA testament/RG ordinari/AQ ./FF ;/FF
+El/DA Hintersee/NP és/VS un/DI llac/NC de/SP l'/DA Alta_Baviera/NP de/SP 16_km2/ZZ situat/VM a/SP el/DA municipi/NC de/SP Ramsau/NP bei/NC Berchtesgaden/NP ,/FF a/SP el/DA districte/NC de/SP Berchtesgadener_Land/NP ./FF
+a/SP el/DA costat/NC de/SP el/DA llac/NC hi/PP ha/VA un/DI petit/AQ nucli/NC d'/SP uns/DI 100/ZZ habitants/NC que/PR rep/VM el/DA mateix/DI nom/NC que/PR el/DA llac/NC ./FF
+La/DA seva/PX formació/NC és/VS posterior/AQ a/SP les/DA glaciacions/NC i/CC deguda/VM a/SP un/DI despreniment/NC procedent/AQ de/SP els/DA Reiter_Alm/NP i/CC de/SP els/DA Hochkalter/NP que/PR va/VA formar/VM una/DI presa/NC natural/AQ ./FF
+El/DA llac/NC té/VM un/DI petit/AQ emissari/NC que/PR l'/PP uneix/VM a/SP el/DA riu/NC Ramsauer_Ache/NP ./FF
+El/DA llac/NC i/CC els/DA paisatges/NC que/PR l'/PP envolten/VM són/VS un/DI atractiu/NC turístic/AQ molt/RG important/AQ i/CC des/SP d'/SP antic/AQ han/VA estat/VS visitats/VM per/SP importants/AQ pintors/NC ,/FF com/CS Carl_Rottmann/NP ,/FF i/CC han/VA estat/VS utilitzats/VM a/SP moltes/DI pel·lícules/NC ./FF
+Hi/PP ha/VA una/DI embarcació/NC amb/SP motor/NC elèctric/AQ que/PR permet/VM travessar/VM el/DA llac/NC ,/FF també/RG es/P0 poden/VM llogar/VM embarcacions/NC a/SP pedals/NC ./FF
+Flavia_Agraria/NP fou/VS una/DI proposta/NC de/SP llei/NC de/SP l'/DA antiga/AQ Roma/NP ,/FF de/SP el/DA grup/NC de/SP les/DA lleis/NC agràries/AQ ,/FF presentada/VM l'/DA any/NC 60/ZZ aC/NC ,/FF i/CC que/PR determinava/VM la/DA distribució/NC de/SP terres/NC en_favor_de/SP els/DA soldats/NC veterans/AQ de/SP Gneu_Pompeu_Magne/NP ./FF
+Eren/VS cònsols/NC Luci_Afrani/NP i/CC Quint_Cecili_Metel_Celer/NP ./FF
+Fou/VS proposada/VM per/SP el/DA tribú/NC Luci_Flavi/NP que/PR va/VA haver/VA d'/SP empresonar/VM a/SP el/DA cònsol/NC Quint_Cecili_Metel_Celer/NP per/SP superar/VM l'/DA oposició/NC d'/SP aquest/DD cònsol/NC a/SP la/DA llei/NC (/FF Cic/NP ./FF ad/SP Att./NP i/CC ./FF 18/ZZ ,/FF 19/ZZ ;/FF 

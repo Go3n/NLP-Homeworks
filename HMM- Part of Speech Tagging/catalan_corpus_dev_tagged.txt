@@ -1079,4 +1079,102 @@ Polistrat/NP (/FF Polystratus/NP )/FF fou/VS un/DI poeta/NC epigramàtic/AQ grec
 Va/VA viure/VM uns/DI setanta/ZZ o/CC vuitanta/ZZ anys/NC abans/RG que/CS Meleagre/NP i/CC probablement/RG poc/RG després/RG de/SP el/DA 146/ZZ aC/NC ./FF
 Esteve_Bizantí/NP esmenta/VM a/SP un/DI Polistrat_de_Letòpolis/NP ,/FF però/CC no/RN se/P0 sap/VM si/CS és/VS el/DA mateix/DI personatge/NC ./FF
 Actually/NP és/VS el/DA segon/AO disc/NC de/SP el/DA grup/NC anglès/AQ de/SP pop/NC electrònic/AQ Pet_Shop_Boys/NP ,/FF i/CC fou/VS publicat/VM a/SP el/DA mes_de_setembre_de_1987/WW ./FF
-Les/DA lletres/NC d/AQ '/FF "/FF Actually/NP "/FF parlen/VM ,/FF en/SP alguns/DI casos/NC ,/FF sobre/SP polít
+Les/DA lletres/NC d/AQ '/FF "/FF Actually/NP "/FF parlen/VM ,/FF en/SP alguns/DI casos/NC ,/FF sobre/SP política/NC :/FF "/FF Shopping/NP "/FF i/CC "/FF King/NP 's/P0 Cross/NP "/FF són/VS ferotges/AQ crítiques/NC contra/SP el/DA règim/NC de/SP Margaret_Thatcher/NP ;/FF "/FF It/NP couldn/NC 't/P0 happen/VM here/RG "/FF comenta/VM l'/DA aparició/NC de/SP la/DA SIDA/NP i/CC els/DA seus/PX efectes/NC ,/FF mentre/CS d'/SP altres/DI temes/NC com/CS "/FF Rent/NP "/FF (/FF número/NC 8/ZZ )/FF ,/FF "/FF Heart/NP "/FF (/FF el/DA seu/PX tercer/AO número/NC 1/ZZ britànic/NC )/FF o/CC "/FF What/NP have/VM I/NP done/VM to/NC deserve/AQ this/AQ "/FF analitzen/VM les/DA relacions/NC de/SP parella/NC des_de/SP diferents/DI perspectives/NC ./FF "/FF It/NP 's/P0 a/SP sin/VM "/FF mereix/VM una/DI menció/NC especial/AQ :/FF amb/SP una/DI producció/NC espectacular/AQ (/FF que/PR inclou/VM samples/NC de/SP misses/NC i/CC Neil_Tennant/NP recitant/VM el/DA credo/NC )/FF i/CC un/DI text/NC amarg/AQ on/PR Tennant/NP critica/VM la/DA seva/PX formació/NC catòlica/AQ ,/FF "/FF It/NP 's/P0 a/SP sin/VM "/FF fou/VS el/DA primer/AO senzill/AQ extret/NC dActually/AQ i/CC arribà/VM a/SP el/DA número/NC 1/ZZ ./FF
+L'/DA àlbum/NC compta/VM amb/SP col·laboradors/NC de/SP luxe/NC :/FF Bobby_Orlando/NP va/VA escriure/VM amb/SP els/DA Pet_Shop_Boys/NP el/DA tema/NC que/PR obre/VM el/DA disc/NC ,/FF "/FF One/NP more/VM chance/NC "/FF ;/FF Dusty_Springfield/NP cantà/VM a/SP duet/NC amb/SP Neil_Tennant/NP a/SP "/FF What/NP have/VM I/NP done/VM to/NC deserve/AQ this/AQ "/FF ,/FF el/DA segon/NC senzill/AQ ,/FF que/PR arribà/VM a/SP el/DA número/NC 2/ZZ britànic/NC ./FF
+A/SP més/RG ,/FF el/DA compositor/NC Ennio_Morricone/NP va/VA col·laborar/VM en/SP la/DA composició/NC de/SP el/DA tema/NC "/FF It/NP couldn/NC 't/P0 happen/VM here/RG "/FF ,/FF que/PR també/RG inclou/VM arranjaments/NC de/SP corda/NC de/SP el/DA compositor/NC italià/AQ Angelo_Badalamenti/NP ./FF
+En/SP termes/NC de/SP producció/NC ,/FF Stephen_Hague/NP repetí/VM la/DA feina/NC realitzada/VM a/SP Please/NP ,/FF però/CC en/SP aquesta/DD ocasió/NC compartí/VM la/DA tasca/NC amb/SP d'/SP altres/DI productors/NC ,/FF com/CS Julian_Mendelssohn/NP ,/FF Shep_Pettibone/NP ,/FF Andy_Richards/NP ,/FF David_Jacob/NP o/CC els/DA mateixos/DI Pet_Shop_Boys/NP ./FF
+Durant/SP el/DA període/NC de/SP promoció/NC de/SP el/DA disc/NC ,/FF els/DA PSB/NP rodaren/VM una/DI pel·lícula/NC anomenada/NC "/FF It/NP couldn/NC 't/P0 happen/VM here/RG "/FF ;/FF els/DA vídeos/NC de/SP els/DA temes/NC "/FF One/NP more/VM chance/NC "/FF i/CC "/FF Always/NP on/PR my/RG mind/AQ "/FF (/FF que/PR ,/FF tot/RG i/CC no/RN figurar/VM a/SP el/DA llistat/NC de/SP l'/DA àlbum/NC ,/FF fou/VS enregistrat/VM també/RG en/SP aquesta/DD època/NC )/FF inclouen/VM imatges/NC de/SP la/DA pel·lícula/NC ./FF
+"/FF Actually/NP "/FF fou/VS reeditat/VM a/SP l'/DA any/NC 2001/ZZ en/SP format/NC doble/AQ ,/FF juntament/RG amb/SP un/DI nou/AQ CD/NP amb/SP cares/NC B/NP i/CC versions/NC alternatives/AQ de/SP els/DA seus/PX temes/NC ./FF
+Aquest/DD segon/NC CD/NP va/VA rebre/VM el/DA títol/NC de/SP "/FF Further/NP listening/NC 1987-1988/ZZ "/FF ./FF
+Temes/NP ./FF
+CDP7/ZZ 46972/ZZ 2/ZZ ./FF
+One/NP more/VM chance/NC (/FF Tennant/NP //FF Lowe/NP //FF Orlando/NP )/FF -/FF 5,30/ZZ ;/FF What/NP have/VM I/NP done/VM to/NC deserve/NC this/AQ ?/FF (/FF Lowe/NP //FF Tennant/NP //FF Willis/NP )/FF -/FF 4,18/ZZ ;/FF Shopping/NP -/FF 3,37/ZZ ;/FF Rent/NP -/FF 5,08/ZZ ;/FF Hit/NP music/NC -/FF 4,44/ZZ ;/FF It/NP couldn/NC 't/P0 happen/VM here/RG (/FF Lowe/NP //FF Morricone/NP //FF Tennant/NP )/FF -/FF 5,20/ZZ ;/FF It/NP 's/P0 a/SP sin/VM -/FF 4,59/ZZ ;/FF I/NP want/VM to/NC wake/AQ up/II -/FF 5,08/ZZ ;/FF Heart/NP -/FF 3,58/ZZ ;/FF King/NP 's/P0 Cross/NP -/FF 5,10/ZZ ;/FF Temes/NP escrits/NC per/SP Neil_Tennant/NP i/CC Chris_Lowe/NP ,/FF menys/RG on/CS s'/P0 especifiqui/VM una/DI altra/DI cosa/NC ./FF
+Further_Listening/NP 1987-1988/ZZ ./FF
+I/CC want/VM to/NC wake/AQ up/II (/FF Breakdown/NP mix/NC )/FF -/FF 6,00/ZZ ;/FF Heart/NP (/FF Shep_Pettibone/NP version/NC )/FF -/FF 4,12/ZZ ;/FF You/NP know/NC where/RG you/VM went/AQ wrong/NC -/FF 5,51/ZZ ;/FF One/NP more/VM chance/NC (/FF seven-inch/NC mix/NC )/FF -/FF 3,49/ZZ ;/FF It/NP 's/P0 a/SP sin/VM (/FF Disco/NP mix/NC )/FF -/FF 7,41/ZZ ;/FF What/NP have/VM I/NP done/VM to/NC deserve/NC this/AQ ?/FF (/FF Extended/NP mix/NC )/FF -/FF 6,50/ZZ ;/FF Heart/NP (/FF Disco/NP mix/NC )/FF -/FF 8,39/ZZ ;/FF A/NP new/NC life/NC -/FF 4,56/ZZ ;/FF Always/NP on/PR my/RG mind/AQ (/FF Demo/NP version/NC )/FF -/FF 4,04/ZZ ;/FF Rent/NP (/FF 7/ZZ "/FF mix/NC )/FF -/FF 3,36/ZZ ;/FF I/NP want/VM a/SP dog/NC -/FF 4,59/ZZ ;/FF Always/NP on/PR my/RG mind/AQ (/FF Extended/NP dance/NC mix/NC )/FF -/FF 8,13/ZZ ;/FF Do_I/NP have/VM to/NC ?/FF -/FF 5,16/ZZ ;/FF Always/NP on/PR my/RG mind/AQ (/FF Dub/NP mix/NC )/FF -/FF 2,04/ZZ ;/FF Senzills/NP ./FF
+It/NP 's/P0 a/SP sin/VM (/FF 15_de_juny_de_1987/WW )/FF ;/FF What/NP have/VM I/NP done/VM to/NC deserve/NC this/AQ ?/FF (/FF 10_d'_agost_de_1987/WW )/FF ;/FF Rent/NP (/FF 12_d'_octubre_de_1987/WW )/FF ;/FF Heart/NP (/FF 21_de_març_de_1988/WW )/FF ;/FF Dades/NP generals/AQ ./FF
+Pet_Shop_Boys/NP :/FF Neil_Tennant/NP i/CC Chris_Lowe/NP ./FF
+Programació_de_Fairlight/NP i/CC de/SP teclats/NC :/FF Andy_Richards/NP ,/FF Blue_Weaver/NP ,/FF Gary_Maugham/NP ,/FF Adrien_Cook/NP ,/FF J.J._Jeczalik/NP ./FF
+Enregistrat/VM a/SP els/DA estudis/NC Sarm_West/NP i/CC Advision/NP (/FF Londres/NP )/FF ./FF
+Dades/NC per/SP cançó/NC ./FF
+1/ZZ ./FF "/FF One/NP more/VM chance/NC "/FF ./FF
+Producció/NP :/FF Julian_Mendelssohn/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Julian_Mendelssohn/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP //FF Orbob_Music/NP ./FF
+2/ZZ ./FF "/FF What/NP have/VM I/NP done/VM to/NC deserve/NC this/AQ ?/FF "/FF ./FF
+Producció/NP :/FF Stephen_Hague/NP ./FF
+Enginyer/NP de/SP so/NC :/FF David_Jacob/NP ./FF
+Mescles/NP :/FF Julian_Mendelssohn/NP ./FF
+Col·laboració/NP vocal/AQ de/SP Dusty_Springfield/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP //FF MCA_Music_Ltd./NP 3/ZZ ./FF "/FF Shopping/NP "/FF ./FF
+Producció/NP :/FF Julian_Mendelssohn/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Julian_Mendelssohn/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 4/ZZ ./FF "/FF Rent/NP "/FF ./FF
+Producció/NP :/FF Julian_Mendelssohn/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Julian_Mendelssohn/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 5/ZZ ./FF "/FF Hit/NP music/VM "/FF ./FF
+Producció/NP :/FF Julian_Mendelssohn/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Julian_Mendelssohn/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 6/ZZ ./FF "/FF It/NP couldn/NC 't/P0 happen/VM here/RG "/FF ./FF
+Producció/NP :/FF Pet_Shop_Boys/NP i/CC David_Jacob/NP ./FF
+Enginyer/NP de/SP so/NC :/FF David_Jacob/NP ./FF
+Arranjaments/NC orquestrals/AQ :/FF Angelo_Badalamenti/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP //FF General_Music_Ltd./NP 7/ZZ ./FF "/FF It/NP 's/P0 a/SP sin/VM "/FF ./FF
+Producció/NP :/FF Julian_Mendelssohn/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Julian_Mendelssohn/NP ./FF
+Mesclat/VM per/SP Stephen_Hague/NP ./FF
+Enginyer/NP de/SP mescles/NC :/FF David_Jacob/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 8/ZZ ./FF "/FF I/CC want/VM to/NC wake/AQ up/II "/FF ./FF
+Producció/NP :/FF Pet_Shop_Boys/NP i/CC Shep_Pettibone/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Dave_Meegan/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 9/ZZ ./FF "/FF Heart/NP "/FF ./FF
+Producció/NP :/FF Andy_Richards/NP i/CC Pet_Shop_Boys/NP ./FF
+Enginyer/NP de/SP so/NC :/FF Tony_Philips/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd./NP 10/ZZ ./FF "/FF King/NP 's/P0 Cross/NP "/FF ./FF
+Produït/VM per/SP Stephen_Hague/NP ./FF
+Enginyer/NP de/SP so/NC :/FF David_Jacob/NP ./FF
+Publicat/VM per/SP Cage_Music/NP Ltd./10/ZZ Music_Ltd._Enllaços/NP externs/AQ ./FF
+Niederbayern/NP o/CC Baixa_Baviera/NP és/VS una/PI de/SP les/DA set/NC Regierungsbezirk/NP (/FF regions/NC administrativo-governamentals/AQ )/FF que/PR formen/VM el/DA land/AQ de/SP l'/DA Estat_Lliure_de_Baviera/NP (/FF Freistaat_Bayern/NP )/FF ./FF
+El/DA terme/NC Niederbayern/NP va/VA aparèixer/VM ves/NC el/DA 1255/ZZ com/CS una/DI divisió/NC bavaresa/AQ ,/FF originàriament/RG abastava/VM un/DI territori/NC més/RG estens/VM ./FF
+Situació/NC geogràfica/AQ ./FF
+La/DA regió/NC es/P0 troba/VM situada/VM a/SP l'/DA est/NC de/SP l'/DA estat/NC ,/FF limita/VM per/SP el/DA nord/NC amb/SP l'/DA Alt_Palatinat/NP ,/FF per/SP el/DA nordest/NC amb/SP Bohèmia/NP ,/FF per/SP el/DA sud-est/NC amb/SP l'/DA Alta_Àustria/NP i/CC per/SP el/DA sud-oest/NC amb/SP Oberbayern/NP ./FF
+Divisió/NC territorial/AQ ./FF
+La/DA regierungsbezirk/NC de/SP Niederbayern/NP és/VS formada/VM per/SP tres/ZZ districtes/NC urbans/AQ (/FF kreisfreie/NC Städte/NP )/FF i/CC 9/ZZ districtes/NC rurals/AQ (/FF Landkreise/NP )/FF :/FF Districtes/NC urbans/AQ ./FF
+Landshut/NP ;/FF Passau/NP ;/FF Straubing/NP ;/FF Districtes/NP rurals/AQ ./FF
+Districte_de_Deggendorf/NP ;/FF Districte_de_Dingolfing-Landau/NP ;/FF Districte_de_Freyung-Grafenau/NP ;/FF Districte_de_Kelheim/NP ;/FF Districte_de_Landshut/NP ;/FF Districte_de_Passau/NP ;/FF Districte_de_Regen/NP ;/FF Districte_de_Rottal-Inn/NP ;/FF Districte_de_Straubing-Bogen/NP ;/FF Ciutats/NP més/RG importants/AQ ./FF
+Història/NP ./FF
+El/DA terme/NC Niederbayern/NP va/VA aparèixer/VM ves/NC el/DA 1255/ZZ com/CS una/DI divisió/NC bavaresa/AQ ,/FF originàriament/RG abastava/VM un/DI territori/NC més/RG estens/VM ./FF
+La/DA constitució/NC bavaresa/AQ de/SP el/DA 1808/ZZ dividia/VM el/DA regne/NC de/SP Baviera/NP ,/FF format/VM el/DA 1806/ZZ ,/FF en/SP districtes/NC (/FF Kreise/NP )/FF de/SP manera/NC uniforme/AQ ./FF
+Els/DA districtes/NC eren/VS el/DA nivell/NC intermedi/AQ de/SP l'/DA administració/NC i/CC pretenien/VM ser/VS un/DI sistema/NC racional/AQ d'/SP organització/NC ,/FF sense/SP cap/DI relació/NC amb/SP les/DA organitzacions/NC precedents/AQ de/SP el/DA territori/NC ./FF
+D'/SP acord/NC amb/SP el/DA model/NC francès/AQ ,/FF els/DA districtes/NC van/VA rebre/VM un/DI nom/NC segons/SP el/DA seu/PX riu/NC principal/AQ ./FF
+A_mesura_que/CS van/VA anar/VM canviant/VM els/DA límits/NC de/SP Baviera/NP ,/FF els/DA districtes/NC es/P0 van/VA anar/VM adaptant/VM a/SP les/DA noves/AQ situacions/NC ./FF
+Valle_de_Villaverde/NP és/VS un/DI municipi/NC de/SP la/DA comunitat/NC autònoma/AQ de/SP Cantàbria/NP ./FF
+Com/CS a/SP enclavament/NC càntabre/AQ en/SP el/DA País_Basc/NP limita/VM amb/SP els/DA municipis/NC biscaïns/AQ de/SP Carranza/NP ,/FF Arcentales/NP i/CC Trucíos/NP ./FF
+Amb/SP posterioritat/NC a/SP la/DA divisió/NC territorial/AQ d'/SP Espanya/NP de/SP 1833/ZZ el/DA municipi/NC seria/VS conegut/VM com/CS a/SP Villaverde_de_Trucíos/NP ./FF
+El/DA 28_de_gener_de_2005/WW l'/DA ajuntament/NC va/VA acordar/VM recuperar/VM el/DA seu/PX nom/NC històric/AQ de/SP Valle_de_Villaverde/NP amb/SP la/DA finalitat/NC d'/SP evitar/VM permanents/AQ confusions/NC amb/SP el/DA veí/NC municipi/NC basc/AQ de/SP Trucíos/NP ./FF
+Aquesta/DD vall/NC va/VA ser/VS comprada/VM el/DA 13_de_desembre_de_1440/WW per/SP Pedro_Fernández_de_Velasco/NP ,/FF Condestable_de_Castella/NP ,/FF la/DA família/NC de/SP el/DA qual/PR ja/RG posseïa/VM altres/DI territoris/NC de/SP la/DA Valle_de_el_Asón/NP ,/FF alienant/VM -se/P0 de/SP la/DA Senyoria_d'_Avellaneda/NP ,/FF el/DA que/PR va/VA fer/VM fet/VM i/CC fet/VM passar/VM a/SP pertànyer/VM a/SP la/DA província/NC de/SP Santander/NP i/CC finalment/RG a/SP Cantàbria/NP ./FF
+de/SP el/DA patrimoni/NC històric/AQ artístic/AQ de/SP el/DA municipi/NC sobresurt/VM l'/DA església/NC de/SP Santa_María/NP ,/FF en/SP ruïnes/NC a_causa_de/SP les/DA batalles/NC carlistas/NC de/SP 1875/ZZ que/PR es/P0 van/VA produir/VM en/SP la/DA zona/NC i/CC a/SP el/DA paulatí/NC abandó/NC posterior/AQ ./FF
+En/SP el/DA sud/NC de/SP el/DA municipi/NC està/VM situat/VM el/DA naixement/NC de/SP el/DA Riu_Agüera/NP ,/FF que/CS el/DA seu/PX barri/NC compte/NC amb/SP altituds/NC de/SP més/RG de/SP 400_metres/ZZ ./FF
+El/DA municipi/NC és/VS travessat/VM d'/SP oest/NC a/SP aquest/DD per/SP la/DA línia/NC de/SP ferrocarril/NC Santander-Bilbao/NP de/SP la/DA companyia/NC FEVE/NP ./FF
+Localitats/NP ./FF
+La/DA Altura/NP ./FF
+El/DA Campo/NP ./FF
+La/DA Capitana/NP ./FF
+Los_Hoyos/NP ./FF
+La/DA Iglesia/NP ./FF
+Laiseca/NP ./FF
+La/DA Matanza/NP (/FF Capital/NC )/FF ./FF
+Mollinedo/NP ./FF
+Palacio/NP ./FF
+Villanueva/NP ./FF
+Administració/NP ./FF
+De_la_mateixa_manera/RG que/CS el/DA Comtat_de_Treviño/NP ,/FF aquest/DD territori/NC és/VS reclamat/VM per/SP els/DA partits/NC bascos/AQ com/CS a/SP propi/AQ ,/FF encara/RG que/CS el/DA president/NC de/SP la/DA comunitat/NC autònoma/AQ de/SP Cantàbria/NP ,/FF Miguel_Ángel_Revilla/NP ,/FF ja/RG ha/VA mostrat/VM la/DA seva/PX total/AQ oposició/NC a/SP cedir/VM -lo/PP ./FF
+El/DA municipi/NC està/VM governat/VM actualment/RG en/SP majoria/NC absoluta/AQ per/SP el/DA Partit_Regionalista_de_Cantàbria/NP ./FF
+A/SP principis/NC de/SP els/DA anys/NC 90/ZZ l'/DA actual/AQ corporació/NC de/SP el/DA PRC/NP (/FF en/SP aquell/DD moment/NC agrupació/NC independent/AQ )/FF i/CC els/DA regidors/NC de/SP el/DA PSC-PSOE/NP va/VA demanar/VM públicament/RG pertànyer/VM a/SP el/DA País_Basc/NP ,/FF arribant/VM a/SP sol·licitar/VM l'/DA actual/AQ alcalde/NC (/FF Pedro_Luis_María_Llaguno/NP )/FF audiència/NC amb/SP el/DA rei/NC per/SP a/SP tractar/VM el/DA tema/NC ./FF
+Després/RG d'/SP això/PD Cantàbria/NP va/VA realitzar/VM una/DI inversió/NC milionària/AQ a/SP Villaverde/NP que/PR fins/RG a/SP el/DA moment/NC ha/VA aconseguit/VM resoldre/VM el/DA tema/NC de/SP la/DA pertinença/NC o/CC no/RN pertinença/NC a/SP el/DA País_Basc/NP ./FF
+Les/DA següents/AQ taules/NC mostren/VM els/DA resultats/NC de/SP les/DA eleccions/NC municipals/AQ celebrades/VM el/DA 2003/ZZ i/CC 2007/ZZ ./FF ./FF
+Referències/NP ./FF
+La/DA mussola/NC mediterrània/AQ (/FF Mustelus/NP punctulatus/NC )/FF és/VS una/DI espècie/NC de/SP tauró/NC d'/SP interès/NC comercial/AQ ,/FF que/PR es/P0 presenta/VM a/SP la/DA llotja/NC barrejada/NC amb/SP altres/DI espècies/NC de/SP mussoles/NC ./FF
+La/DA seua/PX carn/NC és/VS bona/AQ ./FF
+Descripció/NP ./FF
+Cos/NP allargat/VM i/CC cap/NC curt/AQ ./FF
+M

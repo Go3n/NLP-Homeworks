@@ -1177,4 +1177,73 @@ La/DA mussola/NC mediterrània/AQ (/FF Mustelus/NP punctulatus/NC )/FF és/VS un
 La/DA seua/PX carn/NC és/VS bona/AQ ./FF
 Descripció/NP ./FF
 Cos/NP allargat/VM i/CC cap/NC curt/AQ ./FF
-M
+Musell/NC cònic/AQ ./FF
+Dents/NP petites/AQ ,/FF romes/AQ i/CC disposades/VM en/SP mosaic/NC ./FF ;/FF Té/NP cinc/ZZ parells/NC de/SP fenedures/NC branquials/AQ ,/FF la/DA darrera/AO per/SP sobre/SP de/SP l'/DA aleta/NC pectoral/AQ ./FF ;/FF Sense/NP membrana/NC nictitant/AQ ./FF ;/FF La/NP primera/AO aleta/NC dorsal/AQ és/VS de/SP mida/NC semblant/AQ a/SP la/DA segona/AO ./FF ;/FF Origen/NP de/SP la/DA primera/AO aleta/NC dorsal/AQ ,/FF per/SP davant/RG de/SP l'/DA angle/NC lliure/AQ intern/NC de/SP l'/DA aleta/NC pectoral/AQ ./FF ;/FF Color/NP gris/AQ uniforme/NC ,/FF alguns_cops/RG amb/SP taques/NC marrons/AQ fosques/AQ ./FF ;/FF El/NP marge/NC posterior/AQ de/SP les/DA dues/ZZ aletes/NC dorsals/AQ ,/FF amb/SP una/DI vorada/NC fosca/AQ ./FF ;/FF Arriba/NP a/SP fer/VM més/RG de/SP 95_cm/ZZ de/SP longitud/NC total/AQ ./FF ;/FF El/NP mascle/NC madura/AQ entre/SP els/DA 50/ZZ i/CC 55_cm/ZZ ,/FF i/CC la/DA femella/NC sobre/SP els/DA 60/ZZ cm./NC Hàbitat/NP ./FF
+Viu/VM a/SP els/DA fons/NC de/SP la/DA plataforma/NC continental/AQ ,/FF entre/SP els/DA 60/ZZ i/CC 80_m/ZZ ./FF
+Més/RG activa/AQ a/SP la/DA nit/NC ./FF
+Alimentació/NP ./FF
+Menja/VM crustacis/AQ com/CS la/DA galera/NC i/CC el/DA cranc/NC llanut/AQ ,/FF calamars/NC i/CC diversos/DI tipus/NC de/SP clupèids/NC ./FF
+Reproducció/NP ./FF
+És/VS vivípara/AQ placentària/AQ ./FF
+La/DA femella/NC ,/FF després/RG d'/SP un/DI període/NC de/SP gestació/NC d'/SP un/DI any/NC ,/FF pareix/VM en/SP primavera/NC de/SP 8/ZZ a/SP 16/ZZ cries/NC ,/FF que/PR faran/VM de/SP 31/ZZ a/SP 39_cm/ZZ de/SP longitud/NC total/AQ ./FF
+Presumiblement/RG maduren/VM sexualment/RG a/SP el/DA cap/NC d'/SP un/ZZ o/CC dos/ZZ anys/NC de/SP vida/NC ./FF
+Referències/NP ./FF
+Barrull/NP ,/FF Joan/NP i/CC Mate/NP ,/FF Isabel/NP :/FF Els/DA taurons/NC de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col/NP ./FF
+Conèixer/VM la/DA natura/NC ,/FF núm/NC ./FF 14/ZZ ./FF
+Barcelona/NP ,/FF març_del_1996/WW ./FF
+ISBN/NP 84-7306-920-X/ZZ ./FF
+Plana/NP 113/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Àmplia/NP informació/NC sobre/SP aquest/DD tauró/NC ./FF ;/FF
+El/DA Setge_de_Tarragona/NP de/SP 1644/ZZ fou/VS un/PI de/SP els/DA episodis/NC de/SP la/DA Guerra_de_els_Segadors_Antecedents/NP ./FF
+Poc/RG després/RG de/SP la/DA revolta/NC que/PR va/VA suposar/VM el/DA Corpus_de_Sang/NP ,/FF l'/DA exèrcit/NC de/SP Felip_IV_d'_Espanyava/NP ocupar/VM Tortosa/NP i/CC Tarragona/NP ,/FF il/AQ 17_de_gener_de_1641/WW ,/FF davant/SP l/NC alarmant/AQ penetració/NC de/SP l'/DA exèrcit/NC castellà/AQ ,/FF Pau_Claris/NP a/SP el/DA capdavant/RG de/SP la/DA Generalitat_de_Catalunya/NP ,/FF proclamà/VM la/DA República_Catalana/NP acordant/AQ una/DI aliança/NC política/AQ i/CC militar/AQ amb/SP França/NP ,/FF posant/VM Catalunya/NP sota/SP l'/DA obediència/NC de/SP Lluís_XIII_de_França/NP ./FF
+Pocs/DI dies/NC després/RG ,/FF amb/SP l'/DA ajuda/NC de/SP l'/DA exèrcit/NC francès/AQ ,/FF la/DA Generalitat/NP obtingué/VM una/DI important/AQ victòria/NC militar/AQ en/SP la/DA batalla/NC de/SP Montjuïc/NP de/SP el/DA 26_de_gener_de_1641/WW ,/FF i/CC les/DA tropes/NC castellanes/AQ es/P0 retiraven/VM a/SP Tarragona/NP ,/FF on/PR foren/VS assetjades/VM per/SP l'/DA estol/NC francès/AQ d'/SP Henri_d'_Escoubleau_de_Sourdis/NP i/CC les/DA tropes/NC de/SP terra/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP fins/SP que/PR els/DA espanyols/NC van/VA bastir/VM un/DI estol/NC comandat/VM per/SP García_Álvarez_de_Toledo/NP y/NC Mendoza/NP que/PR va/VA aconseguir/VM lliurar/VM provisions/NC a/SP la/DA ciutat/NC i/CC fer/VM fugir/VM l'/DA estol/NC francès/AQ a/SP el/DA Rosselló/NP ./FF
+Una/DI columna/NC castellana/AQ de/SP 4.500/ZZ homes/NC va/VA sortir/VM de/SP Tarragona/NP el/DA 23_de_març_de_1642/WW per/SP socòrrer/VM el/DA Rosselló/NP ,/FF que/PR havia/VA quedat/VM aïllat/VM a/SP el/DA nord/NC ,/FF però/CC foren/VS derrotades/VM a/SP mig/AQ camí/NC i/CC Cotlliure/NP va/VA caure/VM el/DA mes_d'_abril/WW ./FF
+El/DA maig/WW ,/FF els/DA espanyols/NC retiren/VM els/DA terços/NC que/PR estaven/VM a/SP Roses/NP amb/SP un/DI estol/NC de/SP 78/ZZ naus/NC ,/FF de_manera_que/CS el/DA Rosselló/NP va/VA caure/VM completament/RG en/SP mans/NC francocatalanes/AQ ,/FF i/CC els/DA objectius/NC de/SP Richelieu/NP i/CC Lluís_XIII_de_França/NP de/SP controlar/VM els/DA comtats/NC nordcatalans/AQ quedaven/VM satisfets/VM ,/FF i/CC pertant/AQ es/P0 van/VA donar/VM per/SP acabades/VM les/DA operacions/NC principals/AQ ./FF
+A/SP més/RG ,/FF el/DA 4_de_desembre_de_1642/WW ,/FF moriria/VM Richelieu/NP ,/FF i/CC el/DA 14_de_maig_de_1643/WW ,/FF Lluís_XIII/NP ,/FF a/SP qui/PR va/VA succeïr/VM el/DA seu/PX fill/NC Lluís_XIV/NP ,/FF conegut/VM com/CS el/DA rei/NC sol/AQ ,/FF fins/SP el/DA 1652/ZZ ,/FF començant/VM una/DI època/NC de/SP molta/DI agitació/NC a/SP França/NP que/PR va/VA permetre/VM a/SP els/DA espanyols/NC recuperar/VM progressivament/RG territori/NC a/SP el/DA Principat/NP ./FF
+El/DA setge/NC ./FF
+Caiguda_Lleida/NP en/SP mans/NC castellanes/AQ ,/FF Philippe_de_La_Mothe-Houdancourt/NP va/VA atacar/VM Tarragona/NP amb/SP tropes/NC catalanes/AQ i/CC franceses/AQ ,/FF que/PR van/VA atacar/VM el/DA moll/NC entre/SP el/DA 23/ZZ i/CC el/DA 28_d'_agost/WW ,/FF sent/VM rebutjats/VM per/SP els/DA espanyols/NC ./FF
+Conseqüències/NP ./FF
+La/DA caiguda/NC de/SP Lleida/NP va/VA provocar/VM la/DA substitució/NC de/SP Philippe_de_La_Mothe-Houdancourt_per_Henri_de_Lorraine-Harcourt/NP després/RG de/SP el/DA seu/PX fracàs/NC en/SP intentar/VM recuperar/VM Tarragona/NP ,/FF i/CC la/DA captura/NC castellana/AQ de/SP Balaguer/NP el/DA setembre/WW i/CC Agramunt/NP l'/DA octubre/WW ./FF
+Tret/SP de/SP la/DA conquesta/NC de/SP Roses/NP ,/FF la/DA frontera/NC quedaria/VM estabilitzada/VM durant/SP molt/RG temps/NC ,/FF fins/SP les/DA campanyes/NC espanyoles/AQ que/PR van/VA culminar/VM amb/SP el/DA Setge_de_Barcelona/NP ./FF
+Referències/NP ./FF
+L'/DA Heptarquia/NP anglosaxona/AQ (/FF de/SP el/DA grec/NC hepta/AQ ,/FF "/FF set/NC "/FF ,/FF i/CC arkhia/VM ,/FF "/FF poder/VM ,/FF autoritat/NC "/FF )/FF és/VS el/DA nom/NC donat/VM a/SP el/DA període/NC de/SP la/DA història/NC britànica/AQ ,/FF comprès/VM entre/SP els/DA anys/NC 475/ZZ i/CC 827/ZZ ,/FF caracteritzat/VM per/SP l'/DA existència/NC d'/SP un/DI conjunt/NC de/SP set/ZZ regnes/NC establerts/VM per/SP els/DA pobles/NC angles/AQ ,/FF saxons/NC i/CC juts/NC que/PR des_de/SP el/DA Segle_V/WW van/VA envair/VM la/DA part/NC meridional/AQ de/SP l'/DA illa/NC de/SP la/DA Gran_Bretanya/NP ,/FF quan/CS ja/RG feia/VM gairebé/RG 70/ZZ anys/NC que/PR aquest/DD territori/NC havia/VA estat/VS abandonat/VM per/SP les/DA legions/NC romanes/AQ ./FF
+Els/DA anglosaxons/NC van/VA anomenar/VM a/SP els/DA territoris/NC conquistats/VM Angleland/NP ,/FF és/VS a/SP dir/VM ,/FF "/FF Terra/NC de/SP els/DA angles/NC "/FF ,/FF d'/SP on/PR deriva/VM el/DA nom/NC d'/SP Anglaterra/NP (/FF England/NP en/SP anglès/NC )/FF ./FF
+Regnes/NP ./FF
+Els/DA set/ZZ regnes/NC eren/VS Kent/NP ,/FF Sussex/NP ,/FF Wessex/NP ,/FF Essex/NP ,/FF Northumbria/NP ,/FF Ànglia_Oriental/NP i/CC Mercia/NP ./FF
+Aquests/DD regnes/NC es/P0 van/VA unir/VM o/CC van/VA lluitar/VM entre/SP si/CS alternativament/RG ,/FF i/CC de/SP vegades/NC el/DA monarca/NC d'/SP un/PI d'/SP ells/PP legitimava/VM la/DA seva/PX hegemonia/NC sobre/SP els/DA altres/DI adjudicant/VM -se/PP el/DA títol/NC de/SP Bretwalda/NP ,/FF o/CC rei/NC de/SP els/DA britànics/NC ./FF
+Poc/RG després/RG de/SP començar/VM a/SP sofrir/VM invasions/NC de/SP els/DA víkings/NC a/SP la/DA fi/NC de/SP el/DA segle_VIII/WW ,/FF el/DA conjunt/NC d'/SP aquests/DD territoris/NC es/P0 va/VA integrar/VM a/SP el/DA regne/NC d'/SP Anglaterra/NP l'/DA any/NC 827/ZZ de/SP la/DA mà/NC de/SP les/DA conquestes/NC de/SP Egbert_de_Wessex/NP ./FF
+Històra/NP de/SP el/DA concepte/NC ./FF
+El/DA concepte/NC d/AQ '/FF "/FF Heptarquía/NP anglosaxona/AQ "/FF va/VA ser/VS encunyat/VM a/SP el/DA segle_XII/WW ,/FF per/SP l'/DA historiador/NC anglès/AQ Henry/NP of/NC Huntingdon/NP ,/FF i/CC s'/P0 usa/VM de/SP forma/NC habitual/AQ des_de/SP el/DA segle_XVI/WW ./FF
+El/DA terme/NC es/P0 considera/VM imprecís/AQ en/SP l'/DA actualitat/NC ,/FF ja_que/CS en_realitat/RG hi/PP havia/VA més/RG de/SP set/ZZ regnes/NC en/SP aquell/DD període/NC històric/AQ ,/FF a/SP més/RG de/SP què/PT alguns/DI Estats/NP de/SP l'/DA època/NC ,/FF menys/RG coneguts/NC i/CC amb/SP una/DI categoria/NC inferior/AQ a/SP la/DA de/SP regne/NC ,/FF van/VA jugar/VM un/DI paper/NC tant/RG o/CC més/RG important/AQ que/CS alguns/PI de/SP els/DA integrants/AQ de/SP l'/DA Heptarquia/NP ./FF
+El/DA Comtat_de_Treviño/NP és/VS un/DI municipi/NC pertanyent/AQ a/SP la/DA província/NC de/SP Burgos/NP ,/FF a/SP Castella-Lleó/NP ,/FF (/FF Espanya/VM )/FF ./FF
+Context/NC geogràfic/AQ ./FF
+Forma/NC amb/SP el/DA municipi/NC de/SP La_Puebla_de_Arganzón/NP ,/FF l'/DA Enclavament_de_Treviño/NP ./FF
+Evolució/NC administrativa/AQ ./FF
+El/DA municipi/NC pertany/VM a/SP el/DA ,/FF a/SP la/DA comarca/NC de/SP el/DA Ebro/NP de/SP la/DA província/NC de/SP Burgos/NP ,/FF Espanya/NP ./FF
+A/SP la/DA fi/NC de/SP el/DA segle_XVIII/WW formava_part/VM de/SP el/DA partit/NC de/SP Miranda_de_Ebro/NP i/CC estava/VM format/NC per/SP la/DA vila/NC de/SP Treviño/NP i/CC les/DA seves/PX quatre/ZZ quadrilles/NC :/FF Cuadrilla_de_Abajo/NP ./FF
+Cuadrilla_de_Río_Somoayuda/NP ./FF
+Cuadrilla_de_Val_de_Lauri/NP ./FF
+Cuadrilla_de_Val_de_Tobera/NP ./FF
+Com/CS a/SP pobles/NC sols/RG figuraven/VM les/DA viles/NC d'/SP Añastro/NP ,/FF Pariza/NP i/CC Saseta/NP ,/FF que/PR van/VA formar/VM municipis/NC independents/AQ a/SP el/DA final/NC de/SP l'/DA Antic_Règim/NP ./FF
+Entre/SP el/DA Cens/NP de/SP 1857/ZZ i/CC l'/DA anterior/AQ ,/FF creix/VM el/DA terme/NC de/SP el/DA municipi/NC perquè/CS incorpora/VM Pariza/NP i/CC Saseta/NP ./FF
+Entre/SP el/DA Cens/NP de/SP 1930/ZZ i/CC l'/DA anterior/AQ ,/FF creix/VM el/DA terme/NC de/SP el/DA municipi/NC perquè/CS incorpora/VM Añastro/NP ./FF
+Història/NP ./FF
+En/SP la/DA pedania/NC de/SP Laño/NP encara/RG es/P0 poden/VM veure/VM les/DA coves/NC artificials/AQ que/PR van/VA ser/VS habitades/VM per/SP ermitans/NC fa/VM més/RG de/SP mil_cinc-cents/ZZ anys/NC ./FF
+El/DA conjunt/NC de/SP Las_Gobas/NP conserva/VM gravats/NC de/SP figures/NC d'/SP animals/NC i/CC inscripcions/NC ./FF
+La/DA fundació/NC oficial/AQ de/SP Treviño/NP es/P0 va/VA realitzar/VM en/SP 1161/ZZ per/SP el/DA rei/NC de/SP Navarra_Sancho_VI_el_Savi/NP ,/FF encara/RG que/CS el/DA 1200/ZZ passa/NC a/SP poder/VM de/SP Castella/NP després/RG de/SP la/DA victòria/NC que/CS el/DA rei/NC castellà/AQ Alfons_VIII/NP va/VA obtenir/VM en/SP la/DA guerra/NC que/PR va/VA mantenir/VM contra/SP el/DA rei/NC navarrès/AQ ,/FF sent/VM des/SP d'/SP aquest/DD moment/NC el/DA Comtat_de_Treviño/NP una/DI part/NC més/RG de/SP Castella/NP fins/SP a/SP l'/DA actualitat/NC ./FF
+A/SP l'/DA estar/VM en/SP un/DI encreuament/NC de/SP camins/NC durant/SP l'/DA Edat_Mitjana/NP ,/FF es/P0 va/VA desenvolupar/VM una/DI aljama/NC jueva/AQ pròspera/AQ ./FF
+Sáseta/NP és/VS una/PI de/SP els/DA llogarets/NC que/PR abans/RG es/P0 va/VA desenvolupar/VM ,/FF a/SP l'/DA estar/VM en/SP l'/DA entrada/NC de/SP el/DA "/FF Camí_de_el_Vi/NP i/CC el/DA Peix/NP "/FF (/FF Camí/NC ral/AQ que/PR comunicava/VM les/DA valls/NC de/SP l'/DA Ebre/NP amb/SP la/DA costa/NC cantàbrica/AQ )/FF en/SP el/DA Comtat/NP ./FF
+El/DA 8_d'_abril_de_1366/WW ,/FF Enric_II_de_Trastámara/NP va/VA concedir/VM Pedro_Manrique/NP ,/FF com/CS a/SP pagament/NC a/SP els/DA serveis/NC prestats/VM ,/FF la/DA vila/NC de/SP Treviño_de_Uda/NP amb/SP totes/DI les/DA seves/PX llogarets/NC i/CC termes/NC ,/FF per/SP el/DA que/PR la/DA comarca/NC passa/VM de/SP ser/VS zona/NC de/SP realengo/NC a/SP zona/NC de/SP senyoria/NC ./FF
+Un/DI besnét/NC de/SP Pedro/NP ,/FF Diego_Gómez_Manrique/NP ,/FF va/VA rebre/VM de/SP el/DA rei/NC Joan_II_de_Castella/NP el/DA 1453/ZZ el/DA títol/NC de/SP Comte_de_Treviño/NP ./FF
+Un/DI fill/NC d'/SP aquest/PD ,/FF Pedro_Manrique_de_Lara/NP ,/FF va/VA rebre/VM de/SP els/DA Reis_Catòlics/NP el/DA títol/NC de/SP Duc_de_Nájera/NP (/FF títol/NC que/PR avui/RG dia/NC detenen/VM )/FF ./FF
+En/SP el/DA segle_XVI/WW els/DA Comtes_de_Treviño/NP ,/FF que/PR eren/VS ja/RG des_de/SP 1483/ZZ Ducs_de_Nájera/NP ,/FF van/VA construir/VM el/DA seu/PX palau/NC ,/FF avui/RG dia/NC ajuntament/NC de/SP la/DA Vila/NP ./FF
+Demografia/NP ./FF
+1987/ZZ :/FF 1.109/ZZ habitants/NC 1991/ZZ :/FF 1.035/ZZ habitants/NC 1995/ZZ :/FF 910/ZZ habitants/NC 1999/ZZ :/FF 915/ZZ habitants/NC 2003/ZZ :/FF 1.127/ZZ habitants/NC 2005/ZZ :/FF 1.345/ZZ habitants/NC Política/NP ./FF
+Les/DA eleccions/NC municipals/AQ de/SP 2007/ZZ van/VA donar/VM ,/FF en/SP el/DA municipi/NC de/SP Comtat_de_Treviño/NP ,/FF cinc/ZZ regidors/NC a/SP el/DA Partit_Popular/NP ,/FF quatre/ZZ regidors/NC a/SP la/DA Agrupació_Electoral_Independent_de_el_Comtat_de_Treviño/NP ,/FF un/PI per/SP a/SP el/DA PSOE/NP i/CC altre/PI per/SP a/SP ANV/NP ./FF
+Pedanies/NP ./FF
+Per/SP escassesa/NC de/SP veïnat/NC i/CC de/SP béns/NC ,/FF que/PR impedia/VM el/DA normal/AQ desenvolupament/NC de/SP les/DA seves/PX funcions/NC ,/FF en/SP 1974/ZZ es/P0 formalitzen/VM expedients/NC de/SP dissolució/NC de/SP les/DA Juntes_Veïnals_d'_Ajarte/NP ,/FF Araico/NP ,/FF Ascarza/NP ,/FF Burgueta/NP ,/FF Dordoniz/NP ,/FF Grandival/NP ,/FF Meana/NP ,/FF Mesanza/NP ,/FF Moscador/NP ,/FF Pedruzo/NP ,/FF Samiano/NP ,/FF San_Martín_de_Galvarín/NP ,/FF San_Vicentejo/NP ,/FF Saseta/NP i/CC Zurbitu/NP ./FF
+Per/SP aquella/DD època/NC la/DA despoblació/NC de/SP Treviño/NP estava/VM a/SP el/DA punt/NC àlgid/AQ ,/FF amb/SP Vitòria/NP com/CS a/SP fagocitador/NC de/SP el/DA veïnat/NC ,/FF i/CC un/DI darrere/NC un/DI altre/PI els/DA pobles/NC de/SP el/DA disputat/VM enclavament/NC burgalès/AQ van/VA anar/VM caient/VM ,/FF convertint/VM -se/P0 en/SP simples/AQ agregats/NC de/SP l'/DA ajuntament/NC trevinyès/AQ ./FF
+Aguillo/NP ;/FF Albaina/NP ;/FF Añastro/NP ;/FF Argote/NP ;/FF Arrieta/NP (/FF Burgos/NP )/FF ;/FF Bajauri/NP ;/FF Busto_de_Treviño/NP ;/FF Cucho/NP ;/FF Doroño/NP ;/FF Franco/NP ;/FF Fuidio/NP ;/FF Golernio/NP ;/FF Imiruri/NP ;/FF Laño/NP ;/FF Marauri/NP ;/FF Muergas/NP ;/FF Obécuri/NP ;/FF Ocilla/NP y/NC Ladrera/NP ;/FF Ozana/NP ;/FF Pangua/NP ;/FF Pariza/NP ;/FF San_Martín_de_Zar/NP ;/FF Saraso/NP ;/FF Taravero/NP ;/FF Torre/NP ;/FF Treviño/NP ;/FF Uzquiano/NP ;/FF Villanueva_Tobera/NP ;/FF Pobles_de_el_Comtat/NP que/CS no/RN son/VM pedanies/NC ./FF
+Ajarte/NP ;/FF Araico/NP ;/FF Arana/NP ;/FF Armentia/NP ;/FF Ascarza/NP ;/FF Burgueta/NP ;/FF Caricedo/NP ;/FF Dor

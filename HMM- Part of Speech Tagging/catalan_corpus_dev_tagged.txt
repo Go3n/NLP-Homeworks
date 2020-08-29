@@ -1378,4 +1378,101 @@ En/SP algunes/PI de/SP les/DA espècies/NC ,/FF se/P0 sap/VM que/CS almenys/RG l
 Observacions/NP paleobiogeogràfiques/AQ suggereixen/VM que/CS el/DA ritme/NC evolutiu/AQ de/SP el/DA gen/NC mitocondrial/AQ 12S/ZZ rRNA/NC és/VS d/AQ '/FF 1-1,63_%/ZZ cada/DI milió/NC d'/SP anys/NC per/SP l'/DA última/AO dotzena/NC de/SP milions/NC d'/SP anys/NC en/SP el/DA gènere/NC actual/AQ ,/FF i/CC s'/P0 ha/VA demostrat/VM que/CS el/DA ritme/NC d'/SP evolució/NC de/SP l'/DA ADNnt/NP varia/VM de/SP manera/NC significativa/AQ fins_i_tot/RG entre/SP diferents/DI poblacions/NC de/SP T./NP hermanni/NC ;/FF això/PD limita/VM l'/DA elecció/NC de/SP les/DA seqüències/NC per/SP la/DA sistemàtica/NC molecular/AQ i/CC fa/VM que/CS l'/DA ús/NC de/SP rellotges/NC moleculars/AQ sigui/VS qüestionable/AQ ./FF
 Generalment/RG ,/FF es/P0 considera/VM que/CS el/DA gènere/NC conté/VM aquestes/DD cinc/ZZ espècies/NC :/FF Testudo/NP horsfieldii/NC ;/FF Testudo/NP hermanni/NC ;/FF Testudo/NP graeca/NC ;/FF Testudo/NP graeca/AQ graeca/NC ;/FF Testudo/NP graeca/NC ibera/AQ ;/FF Testudo/NP graeca/AQ zarudnyi/VM ;/FF Testudo/NP kleinmanni/NC ;/FF Testudo/NP marginata/NC ;/FF Les/NP dues/ZZ primeres/AO són/VS llinatges/NC més/RG distints/AQ i/CC primitius/AQ que/CS les/DA tres/ZZ últimes/AO ,/FF que/PR tenen/VM una/DI relació/NC estreta/NC ./FF
 S'/P0 argumentà/VM que/CS T./NP horsfieldii/RG pertanyia/VM a/SP un/DI gènere/NC nou/AQ (/FF Agrionemys/NP )/FF a_causa_de/SP la/DA forma/NC de/SP la/DA seva/PX closca/NC i/CC el/DA seu/PX plastró/NC ,/FF i/CC aquesta/DD distinció/NC té/VM el/DA suport/NC d'/SP anàlisis/NC de/SP seqüències/NC d'/SP ADN/NP ./FF
-De/SP manera/NC similar/AQ ,/FF s'/P0 ha/VA proposat/VM un/DI gènere/NC separat/VM ,/FF Eurotestudo/NP ,/FF per/SP les/DA T./NP hermanni/NC ;/FF aquests/DD tres/ZZ llinatges/NC ja/RG eren/VS distints/AQ a/SP el/DA Miocè/NP superior/AQ ,/FF com/CS ho/PP demostra/VM el/DA regi
+De/SP manera/NC similar/AQ ,/FF s'/P0 ha/VA proposat/VM un/DI gènere/NC separat/VM ,/FF Eurotestudo/NP ,/FF per/SP les/DA T./NP hermanni/NC ;/FF aquests/DD tres/ZZ llinatges/NC ja/RG eren/VS distints/AQ a/SP el/DA Miocè/NP superior/AQ ,/FF com/CS ho/PP demostra/VM el/DA registre/NC fòssil/AQ ./FF
+S'/P0 ha/VA de/SP veure/VM si/CS aquestes/DD distincions/NC acabaran/VM sent/VS acceptades/VM ./FF
+S'/P0 ha/VA proposat/VM el/DA gènere/NC Chersus/NP per/SP unir/VM les/DA tortugues/NC egípcies/AQ i/CC marginades/NC ,/FF que/PR tenen/VM certes/AQ similars/AQ en/SP les/DA seqüències/NC d'/SP ADN/NP ,/FF però/CC la/DA difusió/NC de/SP cadascuna/PI estan/VM (/FF i/CC sembla/VM que/CS sempre/RG han/VA estat/VS )/FF separades/VM per/SP el/DA seu/PX parent/NC més/RG proper/AQ ,/FF T./NP graeca/AQ ,/FF i/CC el/DA mar/NC obert/VM ,/FF de_manera_que/CS la/DA discrepància/NC biogeogràfica/AQ s'/P0 explicaria/VM millor/AQ per/SP una/DI distribució/NC convergent/AQ de/SP els/DA haplotips/NC D'/NP altra/DI banda/NC ,/FF la/DA tortuga/NC grega/AQ és/VS una/DI espècie/NC estesa/NC i/CC altament/RG variada/NC ./FF
+Dins/RG d'/SP aquesta/DD i/CC altres/DI espècies/NC ,/FF s'/P0 ha/VA descrit/VM un/DI gran/AQ nombre/NC de/SP subespècies/NC ,/FF però/CC no/RN totes/DI són/VS generalment/RG acceptades/VM ,/FF i/CC algunes/PI (/FF com/CS la/DA T./NP kleinmanni/NC o/CC la/DA tortuga/NC marginada/NC nan/NC )/FF són/VS actualment/RG considerades/VM un/DI morf/NC local/AQ ./FF
+Algunes/PI ,/FF com/CS la/DA Testudo/NP graeca/AQ nabeulensis/NC ,/FF fins_i_tot/RG foren/VS classificades/VM dins/SP un/DI gènere/NC separat/VM ,/FF Furculachelys/NP ,/FF però/CC això/PD no/RN concorda/VM amb/SP estudis/NC més/RG recents/AQ ./FF
+Tanmateix/RG ,/FF és/VS probable/AQ que/CS les/DA tortugues/NC gregues/AQ siguin/VS separades/VM en/SP dues/ZZ o/CC més/RG espècies/NC en/SP el/DA futur/NC pròxim/AQ ./FF
+Referències/NP ./FF
+El/DA monestir/NC de/SP Sanahin/NP està/VM situat/VM a/SP el/DA nord/NC d'/SP Armènia/NP ,/FF a/SP la/DA província/NC de/SP Lori/NP ,/FF dins/RG de/SP el/DA terme/NC d'/SP Alaverdi/NP ,/FF en/SP una/DI altiplà/NC elevat/VM sobre/SP la/DA ciutat/NC i/CC el/DA riu/NC ,/FF que/PR es/P0 troben/VM a/SP el/DA fons/NC de/SP la/DA vall/NC ./FF
+a/SP el/DA seu/PX voltant/NC s/NC aixeca/VM el/DA poble/NC de/SP Sanahin/NP ./FF
+El/DA lloc/NC va/VA ser/VS declarat/VM Patrimoni_de_la_Humanitat/NP el/DA 1996/ZZ ,/FF junt/AQ amb/SP el/DA proper/AQ monestir/NC d'/SP Haghpat/NP ./FF
+És/VS possible/AQ que/CS Sanahin/NP s'/P0 aixequés/VM sobre/SP un/DI temple/NC pre-cristià/NC ,/FF també/RG hi/PP ha/VA referències/NC a/SP esglésies/NC molt/RG anteriors/AQ ,/FF fins_i_tot/RG de/SP el/DA segle_IV/WW o/CC V._El/NP monestir/NC fou/VS fundat/VM el/DA 966/ZZ ,/FF sota/SP la/DA dinastia/NC de/SP els/DA bagràtides/NC ./FF
+Va/VA tenir/VM una/DI importància/NC capital/NC en/SP la/DA cultura/NC ,/FF s/NC hi/PP ensenyava/VM humanitats/NC ,/FF medicina/NC i/CC altres/DI ciències/NC ,/FF hi/PP havia/VA un/DI escriptori/NC d'/SP on/PR van/VA sortir/VM llibres/NC ,/FF molts/PI d'/SP ells/PP il·lustrats/NC amb/SP miniatures/NC ./FF
+Es/P0 tracta/VM de/SP diversos/DI edificis/NC aixecats/VM en/SP èpoques/NC diverses/AQ :/FF l/NC església/NC d'/SP Astvatsatsin/NP (/FF la/DA Mare_de_Déu/NP )/FF ,/FF d'/SP Amenaprkitch/NP (/FF el/DA Salvador/NP )/FF ,/FF els/DA seus/PX atris/NC (/FF els/DA gavits/NC )/FF ,/FF la/DA capella/NC de/SP Sant_Gregori/NP ,/FF una/DI acadèmia/NC ,/FF una/DI biblioteca/NC i/CC el/DA campanar/NC ./FF
+Església_de_la_Mare_de_Déu/NP ./FF
+El/DA conjunt/NC monàstic/AQ està/VM centrat/VM per/SP l'/DA església/NC de/SP la/DA Mare_de_Déu/NP ,/FF començada/VM cap/DI el/DA 930/ZZ i/CC acabada/VM deu/ZZ anys/NC més/RG tard/RG ./FF
+És/VS anterior/AQ ,/FF per/SP tant/RG ,/FF a/SP la/DA fundació/NC de/SP el/DA monestir/NC ./FF
+Té/VM una/DI nau/NC ,/FF amb/SP creuer/NC i/CC quatre/ZZ capelles/NC annexes/AQ ,/FF característiques/NC de/SP l'/DA arquitectura/NC armènia/AQ ./FF
+a/SP el/DA timpà/NC de/SP la/DA capella/NC de/SP l/NC esquerra/AQ hi/PP ha/VA una/DI maqueta/NC de/SP pedra/NC de/SP l'/DA edifici/NC ./FF
+La/DA cúpula/NC sobre/SP tambor/NC és/VS posterior/AQ ,/FF de/SP el/DA segle_XVIII/WW ./FF
+Església_de_el_Salvador/NP ./FF
+a/SP el/DA costat/NC d'/SP aquesta/DD església/NC la/DA reina/NC Khosrovanuysh/NP i/CC el/DA seu/PX espòs/NC Ashot_III/NP van/VA aixecar/VM entre/SP el/DA 966/ZZ i/CC 972/ZZ l'/DA església/NC de/SP el/DA Salvador/NP ,/FF la/DA més/RG important/AQ de/SP el/DA monestir/NC ,/FF i/CC dedicada/VM per/SP els/DA seus/PX fills/NC Sembat/NP i/CC Gurgen/NP ,/FF que/PR figuren/VM representats/VM en/SP un/DI relleu/NC de/SP la/DA façana/NC de/SP llevant/NC amb/SP un/DI model/NC de/SP l'/DA església/NC a/SP les/DA mans/NC ,/FF un/PI de/SP els/DA primers/AO exemples/NC d'/SP aquest/DD tipus/NC a/SP Armènia/NP ./FF
+La/DA planta/NC és/VS similar/AQ a/SP l'/DA anterior/AQ però/CC més/RG gran/AQ ./FF
+L'/DA edifici/NC té/VM unes/DI capelles/NC annexes/AQ de/SP dos/ZZ pisos/NC ./FF
+La/DA cúpula/NC es/P0 va/VA refer/VM el/DA 1184/ZZ ./FF
+L/NP escola/NC ./FF
+Entre/SP les/DA dues/ZZ esglésies/NC estava/VM situada/VM una/DI escola/NC teològica/AQ ,/FF es/P0 va/VA aixecar/VM es/P0 dues/ZZ etapes/NC :/FF a/SP finals/NC de/SP el/DA segle_X/WW i/CC a/SP començament/NC de/SP el/DA segle_XI/WW ./FF
+Es/P0 tracta/VM d'/SP un/DI espai/NC rectangular/AQ cobert/VM amb/SP una/DI sèrie/NC d/AQ arcs/NC que/PR reposen/VM en/SP columnes/NC adossades/VM a/SP els/DA murs/NC de/SP les/DA esglésies/NC ./FF
+Era/VS una/DI mena/NC d'/SP universitat/NC on/PR hi/PP va/VA ensenyar/VM el/DA filòsof/NC i/CC escriptor/NC Grigor_Magistros_Pahlavuni/NP en/SP el/DA segle_XI/WW ./FF
+L'/DA activitat/NC va/VA decaure/VM en/SP aquell/DD mateix/DI segle/NC com_a_conseqüència_de/SP les/DA invasions/NC seljúcides/AQ ,/FF però/CC es/P0 va/VA refer/VM a/SP el/DA segle_XII/WW ,/FF amb/SP una/DI ampliació/NC (/FF el/DA gavit/VM de/SP l'/DA església/NC de/SP la/DA Mare_de_Déu/NP )/FF ./FF
+Els/DA gavits/NC ./FF
+a/SP el/DA segle_XII/WW comencen/VM a/SP aixecar/VM -se/P0 els/DA porxos/NC característics/AQ de/SP les/DA esglésies/NC armènies/AQ :/FF els/DA gavits/NC ./FF
+El/DA gavit/VM o/CC nàrtex/NC de/SP l'/DA església/NC de/SP el/DA Salvador/NP fou/VS bastit/VM el/DA 1181/ZZ per/SP l'/DA arquitecte/NC Thamhair/NP i/CC per/SP encàrrec/NC de/SP l'/DA abat/NC Johannes/NP i/CC la/DA família/NC reial/AQ ./FF
+És/VS un/DI exemple/NC primerenc/AQ d'/SP aquesta/DD mena/NC d/AQ edificis/NC amb/SP quatre/ZZ columnes/NC centrals/AQ ,/FF basat/VM en/SP les/DA cases/NC populars/AQ armènies/AQ ./FF
+Les/DA columnes/NC estan/VM unides/VM per/SP arcs/NC ,/FF entre/SP els/DA que/PR se/P0 situa/VM una/DI cúpula/NC semiesfèrica/AQ ,/FF amb/SP una/DI llanterna/NC ./FF
+Té/VM els/DA capitells/NC decorats/NC així/RG com/CS també/RG el/DA portal/NC d/AQ entrada/NC ./FF
+Per/SP un/DI altre/DI portal/NC es/P0 pot/VM passar/VM a/SP el/DA gavit/VM de/SP l'/DA església/NC de/SP la/DA Mare_de_Déu/NP ,/FF que/PR és/VS més/RG modern/AQ ./FF
+Va/VA ser/VS aixecat/VM per/SP el/DA príncep/NC Vache_Vachutian/NP el/DA 1211/ZZ i/CC és/VS diferent/AQ :/FF es/P0 tracta/VM d/RG una/DI sala/NC amb/SP tres/ZZ naus/NC separades/VM per/SP columnes/NC cobertes/NC amb/SP voltes/NC de/SP canó/NC ./FF
+El/DA paviment/NC està/VM atapeït/NC de/SP làpides/NC sepulcrals/AQ ./FF
+Exteriorment/RG presenta/VM cobertes/NC a/SP dues/ZZ vessants/NC ,/FF una/PI per/SP a/SP cada/DI nau/NC ./FF
+a/SP el/DA nord/NC d'/SP aquest/DD gavit/VM es/P0 va/VA aixecar/VM ,/FF a/SP el/DA segle_XIII/WW ,/FF un/DI campanar/NC independent/AQ ./FF
+Capella_de_Sant_Gregori/NP ./FF
+La/DA capella/NC de/SP Sant_Gregori/NP (/FF 1061/ZZ )/FF la/DA fer/VM aixecar/VM Hranuc/NP ,/FF reina/NC de/SP Tashir/NP ./FF
+És/VS de/SP reduïdes/VM dimensions/NC ./FF
+Exteriorment/RG és/VS de/SP planta/NC circular/AQ i/CC interiorment/RG té/VM un/DI espai/NC central/AQ amb/SP quatre/ZZ absis/NC ,/FF cobert/NC amb/SP una/DI cúpula/NC ./FF
+Té/VM un/DI senzill/AQ portal/NC decorat/NC ./FF
+La/DA biblioteca/NC ./FF
+A/SP través/NC d'/SP un/DI porxo/NC de/SP el/DA segle_XIII/WW ,/FF hom/PI accedeix/VM a/SP la/DA biblioteca/NC o/CC matenadaran/VM ,/FF aixecada/NC el/DA 1063/ZZ per/SP la/DA mateixa/DI reina/NC Hranuc/NP com/CS a/SP capella/NC per/SP a/SP les/DA relíquies/NC ./FF
+Arquitectònicament/RG és/VS molt/RG interessant/AQ :/FF és/VS de/SP planta/NC quadrada/VM i/CC amb/SP les/DA columnes/NC que/PR suporten/VM les/DA voltes/NC adossades/VM a/SP el/DA bell/AQ mig/NC de/SP els/DA murs/NC que/PR la/PP tanquen/VM ,/FF de_manera_que/CS els/DA arcs/NC que/PR uneixen/VM aquestes/DD columnes/NC van/VM en/SP diagonal/NC d'/SP un/DI mur/NC a/SP l'/DA altre/PI ./FF
+Entre/SP els/DA arcs/NC s/NC aixeca/VM una/DI cúpula/NC amb/SP llanterna/NC ./FF
+Una/DI mica/NC apartat/NC es/P0 troba/VM el/DA mausoleu/NC de/SP la/DA dinastia/NC de/SP els/DA Zakarian/NP que/PR es/P0 va/VA fer/VM a_cavall/RG de/SP els/DA segles/NC X/NP i/CC XI/NP ,/FF amb/SP una/DI cripta/NC ./FF
+L'/DA església/NC de/SP la/DA Resurrecció/NP (/FF Harutiun/NP )/FF és/VS de/SP començament/NC de/SP el/DA segle_XIII/WW ,/FF interessant/VM per/SP la/DA seva/PX planta/NC ,/FF formada/VM per/SP dues/ZZ naus/NC iguals/AQ ,/FF amb/SP altars/NC ./FF
+Hom/PI atribueix/VM la/DA decadència/NC de/SP el/DA lloc/NC a/SP una/DI invasió/NC de/SP els/DA mongols/NC ,/FF el/DA 1235/ZZ ,/FF quan/CS bona/AQ part/NC de/SP el/DA monestir/NC fou/VS destruït/VM :/FF la/DA residència/NC de/SP els/DA monjos/NC ,/FF l'/DA església/NC de/SP Sant_Jaume/NP ,/FF un/DI gavit/VM de/SP el/DA segle_X/WW ,/FF un/DI caravanserall/NC i/CC la/DA tomba/NC de/SP els/DA Korikian/NP ./FF
+Es/P0 va/VA restaurar/VM a/SP el/DA segle_XVII/WW ./FF
+Bibliografia/NP ./FF
+Isabelle_Augé/NP i/CC altres/DI ./FF
+Armenia_Sacra/NP ./FF
+Musée/NP du/VM Louvre/NP ./FF
+Paris/VM ,/FF 2007/ZZ ./FF
+ISBN/NP 978-2-35031-068-8/ZZ ;/FF Murad_Hasratyan/NP ,/FF Zaven_Sargsyan/NP ./FF
+Armenia/NP 1700/ZZ years/AQ of/NC Christian_Architecture/NP ./FF
+Moughni_Publishers/NP ./FF
+Erevan/NP ,/FF 2001/ZZ ./FF
+ISBN/NP s/NC //FF d/NC ;/FF Enllaç/NP ./FF
+California_State_University/NP ;/FF Armenica/NP ;/FF
+Geografia/NP :/FF ;/FF Pompeia/NP ,/FF ciutat/NC romana/AQ de/SP la/DA Campània/NP destruïda/VM per/SP una/DI erupció/NC de/SP el/DA Vesuvi/NP ./FF
+Alba_Pompeia/NP ,/FF ciutat/NC de/SP la/DA Ligúria/NP romana/AQ ,/FF l'/DA actual/AQ Alba/NP ,/FF a/SP el/DA Piemont/NP ./FF
+Laus_Pompeia/NP ,/FF ciutat/NC de/SP la/DA Gàl·lia_Transpadana/NP ,/FF l'/DA actual/AQ Lodi/NP ,/FF a/SP la/DA Llombardia/NP ./FF
+Biografies/NP :/FF ;/FF Pompeia/NP ,/FF filla/NC de/SP Quint_Pompeu/NP ,/FF cònsol/NC el/DA 141/ZZ aC/NC ,/FF i/CC esposa/NC de/SP Gai_Sicini/NP ./FF
+Pompeia/NP ,/FF casada/NC amb/SP Juli_Cèsar/NP el/DA 67/ZZ aC/NC ./FF ;/FF Pompeia/NP ,/FF germana/NC de/SP Gneu_Pompeu/NP ./FF
+Pompeia/NP ,/FF filla/NC de/SP Gneu_Pompeu/NP ./FF ;/FF Pompeia/NP ,/FF filla/NC de/SP Sext_Pompeu/NP ./FF ;/FF Pompeia_Paulina/NP ,/FF esposa/NC de/SP el/DA filòsof/NC Sèneca/NP ./FF
+Núria_Pompeia/NP ,/FF dibuixant/NC i/CC escriptora/NC catalana/AQ ;/FF Genealogia/NP :/FF ;/FF Gens_Pompeia/NP ,/FF nom/NC de/SP dues/ZZ gens/NC romanes/AQ ./FF
+Dret/NP ./FF
+Hi/PP ha/VA diverses/DI antigues/AQ lleis/NC romanes/AQ amb/SP el/DA nom/NC de/SP Pompeia/NP ,/FF la/DA majoria/NC de/SP les/DA quals/PR aprovades/VM a/SP proposta/NC de/SP Gneu_Pompeu_Magne/NP ,/FF entre/SP les/DA quals/PR :/FF Pompeia/NP de/SP ambitu/NC ./FF
+Pompeia/NP de/SP civitate/NC ./FF
+Pompeia/NP de/SP magistratibus/NC ./FF
+Pompeia/NP de/SP magistratibus/NC bithyniorum/NC ./FF
+Pompeia/NP de/SP parricidiis/AQ ./FF
+Pompeia/NP de/SP provinciis/AQ ./FF
+Pompeia/NP de/SP tribunis/NC ./FF
+Pompeia/NP de/SP vi/NC ./FF
+Pompeia/NP judiciaria/VM ./FF
+Teatres/NP :/FF ;/FF El_Pompeia/NP ,/FF antic/AQ teatre/NC i/CC music-hall/NC de/SP el/DA Paral·lel_de_Barcelona/NP ./FF
+Coliseu_Pompeia/NP ,/FF antic/AQ teatre/NC barceloní/AQ ,/FF situat/VM a/SP la/DA Travessera_de_Gràcia/NP ,/FF núm/NC ./FF 8-10/ZZ ./FF
+Vegeu/VM també/RG ./FF
+Pompeià/NP ;/FF Pompei/NP ;/FF Pompeu/NP ;/FF
+Partit_Carlista_d'_Euskal_Herria-Euskal_Herriko_Karlista_Alderdia/NP (/FF EKA/NP )/FF én/VM un/DI partit/NC polític/AQ federat/VM amb/SP la/DA resta/NC de/SP partits/NC carlisns/NC d'/SP Espanya/NP en/SP el/DA Partit_Carlí/NP ./FF
+Està/VM integrat/VM per/SP els/DA partits/NC carlins/AQ de/SP cadascun/PI de/SP els/DA territoris/NC històrics/AQ de/SP el/DA País_Basc/NP (/FF Àlaba/NP ,/FF Guipúscoa/NP i/CC Biscaia/NP )/FF i/CC a/SP Navarra/NP ,/FF sent/VM cadascun/PI d'/SP ells/PP plenament/RG sobirans/AQ en/SP els/DA seus/PX respectius/AQ territoris/NC ./FF
+La/DA seva/PX publicació/NC oficial/AQ és/VS Montejurra/NP ,/FF igual/VM que/CS l'/DA històric/AQ acte/NC carlista/AQ que/PR EKA/NP segueix/VM celebrant/VM tots/DI els/DA anys/NC el/DA primer/AO diumenge/WW de/SP maig/WW ./FF
+La/DA secretària/NC general/AQ és/VS Begoña_Aguirre/NP ./FF
+A/SP les/DA eleccions/NC a/SP el/DA Parlament_Basc/NP de/SP 2003/ZZ van/VA obtenir/VM 1.041/ZZ vots/NC (/FF 0,3_%/ZZ )/FF ./FF
+A/SP las/AQ eleccions/NC locals/AQ i/CC municipals/AQ de/SP 2007/ZZ va/VA perdre/VM tota/DI representació/NC local/AQ ,/FF obtenint/VM un/DI percentatge/NC de/SP vots/NC significatiu/AQ només/RG a/SP Bilbao/NP (/FF 133/ZZ ,/FF 0,08_%/ZZ )/FF ,/FF Pamplona/NP (/FF 138/ZZ ,/FF 0,13_%/ZZ )/FF i/CC Andosilla/NP (/FF 15/ZZ ,/FF 0,96_%/ZZ )/FF ./FF
+A/SP les/DA eleccions/NC autonòmiques/AQ ,/FF va/VA obtenir/VM 541/ZZ vots/NC (/FF 0,2_%/ZZ )/FF ./FF
+Després/RG de/SP l'/DA Assemblea/NP de/SP juliol_de_2007/WW ,/FF van/VA ser/VS designats/VM com/CS Secretària_General/NP ,/FF Begoña_Aguirre/NP ,/FF i/CC com/CS Secretari_d'_Organització/NP ,/FF Feliciano_Vélez/NP (/FF qui/PR després/RG de/SP les/DA eleccions/NC municipals/AQ de/SP 2007/ZZ ,/FF resultà/VM escollit/VM alcalde/NC de/SP el/DA municipi/NC navarrès/AQ de/SP Puente_la_Reina/NP a/SP les/DA llistes/NC de/SP l'/DA Agrupació_Electoral_Puentesina/NP )/FF ./FF
+Ideologia/NP ./FF
+Com/CS el/DA partit/NC en/SP el/DA qual/PR s'/P0 integra/VM ,/FF té/VM una/DI línia/NC política/AQ d'/SP esquerra/NC alternativa/AQ ,/FF socialista/AQ autogestionària/AQ ,/FF foralista/AQ i/CC federalista/AQ ./FF
+Es/P0 tracta/VM d'/SP un/DI partit/NC lliurement/RG federat/VM a/SP la/DA resta/NC de/SP partits/NC carlins/AQ d'/SP Espanya/NP (/FF "/FF les/DA Espanyes/NP "/FF en/SP terminologia/NC de/SP el/DA partit/NC )/FF ,/FF amb/SP estatuts/NC propis/AQ i/CC inscrit/VM en/SP el/DA Registre_d'_Associacions_Polítiques_de_el_Ministeri_de_l'_Interior/NP ,/FF Tom/NP 4º/ZZ ,/FF Foli/NP 334/ZZ ./FF
+Té/VM com/CS aspiració/NC aconseguir/VM la/DA configuració/NC federal/AQ d'/SP Espanya/NP ,/FF mitjançant/SP el/DA pacte/NC lliure/AQ i/CC voluntari/AQ de/SP tots/DI els/DA pobles/NC que/PR la/PP conformaria/VM i/CC l'/DA establiment/NC d'/SP una/DI "/FF societat/NC lliure/AQ ,/FF democràtica/AQ i/CC socialment/RG justa/AQ "/FF ./FF
+Vegeu/VM també/RG 

@@ -1540,4 +1540,90 @@ Es/P0 va/VA casar/VM amb/SP Juli_Cèsar/NP el/DA 67/ZZ aC/NC (/FF un/DI any/NC d
 El/DA 63/ZZ aC/NC Cèsar/NP fou/VS escollit/VM Pontífex_Màxim/NP amb/SP residència/NC oficial/AQ a/SP la/DA Via_Sacra/NP ./FF
 El/DA 62/ZZ aC/NC Pompeia/NP va/VA celebrar/VM el/DA festival/NC de/SP la/DA Bona_Dea/NP ,/FF en/SP aquest/DD lloc/NC ;/FF en/SP aquesta/DD festa/NC cap/DI home/NC podia/VM entrar/VM a/SP l'/DA edifici/NC ./FF
 No/RN obstant/VM el/DA jove/NC Publi_Clodi/NP va/VA aconseguir/VM entrar/VM disfressat/VM de/SP dona/NC ,/FF sembla/VM ser/VS que/CS per/SP seduir/VM a/SP Pompeia/NP ;/FF Clodi/NP fou/VS perseguit/VM per/SP sacrilegi/NC ,/FF però/CC fou/VS absolt/VM ./FF
-El/DA matrimoni/NC es/P0 va/VA divorciar/VM el/DA 61/ZZ aC/NC i/CC Cèsar/NP va/VA dir/VM allò/NC tant/RG famós/AQ de/SP què/PT la/DA seva/PX dona/NC no/RN solsament/RG ha
+El/DA matrimoni/NC es/P0 va/VA divorciar/VM el/DA 61/ZZ aC/NC i/CC Cèsar/NP va/VA dir/VM allò/NC tant/RG famós/AQ de/SP què/PT la/DA seva/PX dona/NC no/RN solsament/RG havia/VA de/SP ser/VS honrada/VM sinó/CC a_més_a_més/RG havia/VA de/SP semblar/VM -ho/PP (/FF o/CC "/FF la/DA meva/PX dona/NC no/RN pot/VM estar/VM sota/SP sospita/NC "/FF )/FF ./FF
+La/DA mussola/NC gravatja/NC -/FF també/RG anomenada/NC mussola/NC pigallada/AQ o/CC mussola/NC pintada/NC -/FF (/FF Mustelus/NP asterias/NC )/FF és/VS una/DI espècie/NC de/SP tauró/NC d'/SP interès/NC comercial/AQ ./FF
+Descripció/NP ./FF
+Cos/NP allargat/VM amb/SP el/DA cap/NC curt/AQ i/CC el/DA musell/NC angulat/VM ./FF
+Dents/NP petites/AQ ,/FF romes/AQ i/CC disposades/VM en/SP mosaic/NC ./FF
+Té/VM cinc/ZZ parells/NC de/SP fenedures/NC branquials/AQ ,/FF la/DA darrera/AO sobre/SP l'/DA aleta/NC pectoral/AQ ./FF ;/FF Sense/NP membrana/NC nictitant/AQ ./FF
+Dues/ZZ aletes/NC pectorals/AQ de/SP mida/NC similar/AQ ./FF
+Inici/NP de/SP la/DA primera/AO aleta/NC dorsal/AQ per/SP davant/RG de/SP l'/DA angle/NC lliure/AQ intern/NC de/SP l'/DA aleta/NC pectoral/AQ ./FF
+Color/NP uniformement/RG gris/AQ fosc/RG a/SP el/DA dors/NC ,/FF més/RG clar/AQ a/SP els/DA flancs/NC i/CC a/SP el/DA ventre/NC ./FF
+Presenta/VM taques/NC blanquinoses/AQ a/SP la/DA regió/NC dorsal/AQ i/CC a/SP el/DA cap/NC ./FF
+El/DA mascle/NC madura/AQ sexualment/RG quan/CS fa/VM entre/SP 78/ZZ i/CC 85_cm/ZZ de/SP longitud/NC total/AQ i/CC la/DA femella/NC quan/PR assoleix/VM els/DA 85/ZZ cm./NC Pot/NP arribar/VM a/SP fer/VM un/DI màxim/NC de/SP 140/ZZ cm./NC Hàbitat/NP ./FF
+És/VS pròpia/AQ de/SP el/DA fons/NC de/SP sorra/NC i/CC fang/NC de/SP la/DA plataforma/NC continental/AQ ,/FF des_de/SP prop/RG de/SP la/DA superfície/NC fins/SP a/SP profunditats/NC de/SP 100_m/ZZ ./FF
+Cobra/VM força/RG activitat/NC a/SP el/DA capvespre/NC i/CC a/SP la/DA nit/NC ./FF
+Alimentació/NP ./FF
+Menja/NP sobretot/RG crustacis/AQ ,/FF llagosta/NC ,/FF llagostí/NC ,/FF llamàntol/NC ,/FF i/CC tot/DI tipus/NC de/SP crancs/NC ./FF
+Es/P0 menja/VM el/DA bernat/AQ ermità/NC amb/SP la/DA conquilla/NC i/CC ,/FF si/CS s'/P0 escau/VM ,/FF amb/SP l'/DA anemona/AQ simbiont/NC ./FF
+Reproducció/NP ./FF
+És/VS ovovivípar/AQ aplacentari/AQ ./FF
+Després/RG de/SP la/DA gestació/NC d'/SP un/DI any/NC treu/NC ventrades/NC de/SP 7/ZZ a/SP 15/ZZ petits/NC ,/FF que/PR fan/VM uns/DI 30_cm/ZZ de/SP longitud/NC total/AQ ./FF
+Les/DA cries/NC són/VS parides/NC a/SP l'/DA estiu/NC i/CC probablement/RG també/RG en/SP aquesta/DD època/NC s'/P0 esdevé/VM la/DA còpula/NC ./FF
+Presumiblement/RG és/VS una/DI espècie/NC de/SP creixement/NC ràpid/AQ i/CC madura/AQ en/SP un/DI període/NC de/SP temps/NC de/SP 2/ZZ a/SP 3/ZZ anys/NC ./FF
+Aprofitament/NP ./FF
+Es/P0 pesca/VM amb/SP l'/DA art/NC de/SP ròssec/NC ,/FF tresmall/NC i/CC palangre/NC ./FF
+La/DA seua/PX carn/NC és/VS bona/AQ ./FF
+Tot/PI i/CC ser/VS relativament/RG abundant/AQ ,/FF les/DA captures/NC es/P0 fan/VM només/RG de_tant_en_tant/RG ./FF
+Referències/NP ./FF
+Barrull/NP ,/FF Joan/NP i/CC Mate/NP ,/FF Isabel/NP :/FF Els/DA taurons/NC de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col/NP ./FF
+Conèixer/VM la/DA natura/NC ,/FF núm/NC ./FF 14/ZZ ./FF
+Barcelona/NP ,/FF març_del_1996/WW ./FF
+ISBN/NP 84-7306-920-X/ZZ ./FF
+Plana/NP 111/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Àmplia/NP informació/NC sobre/SP la/DA mussola/NC pigallada/AQ ./FF ;/FF
+Pompeia/NP fou/VS la/DA germana/NC de/SP Gneu_Pompeu_Magne/NP ,/FF filla/NC per/SP tant/RG de/SP Gneu_Pompeu_Estrabó/NP ./FF
+Es/P0 va/VA casar/VM amb/SP Gai_Memmi/NP ,/FF que/PR va/VA servir/VM a/SP Sicília/NP amb/SP el/DA seu/PX sogre/NC el/DA 81/ZZ aC/NC i/CC després/RG fou/VS el/DA seu/PX qüestor/NC a/SP Hispània/NP en/SP la/DA guerra/NC que/PR Pompeu/NP va/VA lliurar/VM contra/SP el/DA popular/AQ Sertori/NP ,/FF guerra/NC en/SP la/DA que/PR va/VA trobar/VM la/DA mort/NC el/DA 76/ZZ aC/NC prop/RG de/SP Sagunt/NP ./FF
+Res/PI és/VS conegut/VM de/SP la/DA seva/PX vida/NC ,/FF i/CC es/P0 creu/VM que/CS no/RN va/VA tenir/VM descendència/NC de/SP Gai_Memmi/NP ./FF
+Pompeia/NP fou/VS filla/NC de/SP Gneu_Pompeu_Magne/NP i/CC de/SP la/DA seva/PX tercera/AO dona/NC Múcia/NP ./FF
+Quan/CS el/DA seu/PX pare/NC es/P0 va/VA casar/VM el/DA 59/ZZ aC/NC amb/SP Júlia/NP ,/FF la/DA filla/NC de/SP Juli_Cèsar/NP ,/FF Pompeia/NP fou/VS promesa/VM a/SP Servili_Cepió/NP (/FF que/PR abans/RG havia/VA estat/VS promés/RG amb/SP Júlia/NP )/FF ,/FF però/CC finalment/RG no/RN s'/P0 hi/PP va/VA casar/VM i/CC ho/PP va/VA fer/VM amb/SP Faust_Sul·la/NP ,/FF fill/NC de/SP el/DA dictador/NC ,/FF a/SP el/DA que/PR inicialment/RG ja/RG havia/VA estat/VS promesa/VM ./FF
+El/DA seu/PX marit/NC va/VA morir/VM a/SP la/DA guerra/NC a/SP Àfrica/NP el/DA 46/ZZ aC/NC i/CC Pompeia/NP i/CC el/DA seu/PX fill/NC van/VA caure/VM en/SP mans/NC de/SP Juli_Cèsar/NP ,/FF que/PR les/PP va/VA protegir/VM ./FF
+Després/RG es/P0 va/VA casar/VM amb/SP Luci_Corneli_Cinna/NP ,/FF i/CC el/DA fill/NC d'/SP aquest/DD matrimoni/NC ,/FF Gneu_Corneli_Cinna_Magne/NP va/VA conspirar/VM més/RG tard/RG contra/SP August/NP ./FF
+Va/VA morir/VM abans/RG de/SP el/DA 35/ZZ aC/NC ./FF
+L'/DA audiència/NC de/SP els/DA mitjans/NC de/SP comunicació/NC ,/FF especialment/RG la/DA televisió/NC ,/FF és/VS mesurada/VM amb/SP les/DA quotes/NC d'/SP audiència/NC ./FF
+Representa/VM el/DA percentatge/NC d'/SP aparells/NC encesos/VM que/CS estan/VM rebent/VM el/DA senyal/NC d'/SP un/DI programa/NC determinat/VM ./FF
+El/DA share/NC és/VS el/DA nombre/NC d'/SP aparells/NC receptors/AQ que/PR estan/VM encesos/VM en/SP un/DI moment/NC determinat/VM de/SP el/DA dia/NC ./FF
+Per/SP tant/RG ,/FF el/DA share/NC indica/VM el/DA total/NC d'/SP audiència/NC que/PR es/P0 reparteixen/VM totes/DI les/DA cadenes/NC en/SP un/DI moment/NC determinat/VM i/CC la/DA quota/NC d'/SP audiència/NC indica/VM la/DA part/NC de/SP share/NC que/CS cada/DI cadena/NC aconsegueix/VM ./FF
+Hi/PP sol/VM haver/VA confusió/NC entre/SP els/DA conceptes/NC de/SP share/NC i/CC quota/NC d'/SP audiència/NC i/CC de/SP vegades/NC s'/P0 utilitza/VM share/NC com/CS a/SP equivalent/NC de/SP la/DA quota/NC ,/FF però/CC aquesta/DD equivalència/NC no/RN és/VS certa/AQ ./FF
+L'/DA audiència/NC acumulada/VM suma/VM el/DA nombre/NC de/SP persones/NC que/PR han/VA vist/VM una/DI cadena/NC en/SP un/DI temps/NC determinat/VM ./FF
+De/SP vegades/NC es/P0 presenten/VM resultats/NC de/SP share/NC acumulat/VM ,/FF que/PR responen/VM a/SP la/DA mitjana/NC de/SP el/DA share/NC en/SP diferents/DI hores/NC de/SP el/DA dia/NC ./FF
+Cal/VM no/RN confondre/VM aquesta/DD mesura/NC ,/FF que/PR indica/VM la/DA cadena/NC que/PR ha/VA estat/VM amb/SP més/RG claredat/NC líder/AQ d'/SP audiència/NC en/SP diferents/DI moments/NC de/SP el/DA dia/NC ,/FF de/SP les/DA audiències/NC acumulades/VM ,/FF que/PR indiquen/VM quina/DT és/VS la/DA cadena/NC més/RG vista/NC ./FF
+Si/CS s'/P0 acumulen/VM audiències/NC molt/RG superiors/AQ en/SP els/DA prime/AQ time/AQ es/P0 pot/VM ser/VS líder/NC d'/SP audiència/NC acumulada/VM i/CC no/RN ser/VS -ho/PP de/SP el/DA share/NC ./FF
+En/SP els/DA mesuraments/NC se/P0 solen/VM tenir_en_compte/VM paràmetres/NC com/CS ara/RG el/DA màxim/NC i/CC el/DA mínim/NC de/SP quota/NC d'/SP audiència/NC de/SP cada/DI programa/NC ,/FF la/DA fidelitat/NC de/SP l'/DA audiència/NC (/FF temps/NC que/PR miren/VM la/DA cadena/NC )/FF o/CC les/DA quotes/NC d'/SP audiència/NC de/SP les/DA cadenes/NC durant/SP un/DI període/NC de/SP temps/NC determinat/VM (/FF com/CS ara/RG un/DI dia/NC ,/FF un_mes/ZZ o/CC un/DI any/NC )/FF ./FF
+Una/DI forma/NC de/SP mesurar/VM les/DA audiències/NC és/VS mitjançant/SP l'/DA audímetre/NC ./FF
+Enllaços/NP ./FF
+Baròmetre/NP de/SP la/DA comunicació/NC i/CC la/DA cultura/NC :/FF audiències/NC a/SP Catalunya/NP ,/FF el/DA País_Valencià/NP i/CC Illes_Balears/NP ./FF
+Pompeia/NP fou/VS la/DA filla/NC de/SP Sext_Pompeu/NP i/CC d'/SP Escribònia/NP ./FF
+A/SP la/DA pau/NC de/SP Misenum/NP el/DA 39/ZZ aC/NC fou/VS promesa/VM a/SP Marc_Claudi_Marcel/NP ,/FF fill/NC d'/SP Octàvia/NP (/FF la/DA germana/NC d'/SP Octavi_August/NP )/FF però/CC l'/DA enllaç/NC mai/RG es/P0 va/VA arribar/VM a/SP fer/VM ./FF
+Va/VA acompanyar/VM a/SP el/DA seu/PX pare/NC quan/PR va/VA fugir/VM a/SP Àsia/NP (/FF 36/ZZ aC/NC )/FF i/CC se/P0 sospita/VM que/CS es/P0 va/VA casar/VM amb/SP Marc_Livi_Drus_Libó/NP amb/SP el/DA que/PR hauria/VA tingut/VM a/SP Luci_Escriboni_Libó_Drus/NP ./FF
+Lábaro/NP cántabre/RG o/CC Lábaru/NP cántabru/VM és/VS el/DA nom/NC que/PR rep/VM la/DA interpretació/NC moderna/AQ d'/SP un/DI antic/AQ estendard/NC militar/AQ conegut/VM per/SP els/DA romans/NC com/CS a/SP cantabrum/NC ./FF
+Aquest/DD consisteix/VM en/SP un/DI penó/NC de/SP tela/NC de/SP color/NC púrpura/NC sobre/SP el/DA qual/PR està/VM brodat/NC un/DI cercle/NC envoltat/VM d'/SP una/DI decoració/NC geomètrica/AQ amb/SP quatre/ZZ creixents/NC pigues/NC enfrontats/VM dues/ZZ a/SP dues/ZZ ./FF
+L'/DA origen/NC de/SP el/DA nom/NC i/CC de/SP el/DA disseny/NC ho/PP trobem/VM en/SP la/DA teoria/NC defensada/VM per/SP diversos/DI autors/NC d'/SP una/DI possible/AQ relació/NC entre/SP la/DA gènesi/NC de/SP el/DA labarum/NC i/CC l'/DA estendard/NC militar/AQ denominat/VM cantabrum/NC ,/FF amb/SP la/DA consegüent/AQ identificació/NC d'/SP ambdós/PI com/CS una/DI mateixa/DI cosa/NC ;/FF i/CC a/SP la/DA suposada/VM relació/NC que/CS el/DA Codex_Theodosianus/NP estableix/VM entre/SP el/DA labarum/NC i/CC els/DA cantabrarii/NC ,/FF col·legi/NC de/SP soldats/NC romans/AQ encarregats/NC de/SP portar/VM el/DA cantabrum/NC ./FF
+El/DA seu/PX significat/NC etimològic/AQ ,/FF el/DA que/PR parla/VM ,/FF fa_referència/VM a/SP el/DA seu/PX ús/NC com/CS estendard/NC utilitzat/VM per/SP a/SP enviar/VM ordres/NC o/CC senyals/NC a/SP la/DA tropa/NC durant/SP la/DA batalla/NC ./FF
+Els/DA relats/NC de/SP Tertulià/NP i/CC Minuci_Fèlix/NP no/RN estableixen/VM relació/NC ,/FF deixant/VM únicament/RG clara/AQ la/DA veneració/NC que/CS les/DA tropes/NC romanes/AQ feien/VM de/SP les/DA seves/PX creus/NC ,/FF cobertes/NC per/SP les/DA teles/NC de/SP els/DA cantabra/NC i/CC vexilla/NC ./FF
+Nom/NP ./FF
+Segons/SP aquestes/DD teories/NC ,/FF el/DA cantabrum/NC és/VS l'/DA estendard/NC que/CS Constantí_I_el_Gran/NP després/RG de/SP la/DA seva/PX conversió/NC a/SP el/DA cristianisme/NC transforma/VM en/SP el/DA labarum/NC en/SP incloure/VM el/DA crismon/NC ,/FF anagrama/NC que/PR representa/VM Crist/NP ,/FF consistent/AQ en/SP les/DA grafies/NC majúscules/AQ en/SP grec/NC de/SP les/DA dues/ZZ primeres/AO lletres/NC de/SP el/DA seu/PX nom/NC ,/FF una/DI "/FF X/NP "/FF sobre/SP la/DA qual/PR se/P0 superposa/VM una/DI "/FF P/NC "/FF ./FF
+Es/P0 justifica/VM tambíen/RG la/DA relació/NC en/SP l'/DA etimologia/NC cèltica/AQ de/SP el/DA terme/NC Lábaro/NP procedent/AQ de/SP (/FF p/NC )/FF lab/AQ -/FF parlar/VM ,/FF d'/SP on/PR s'/P0 ha/VA derivat/VM l'/DA adjectiu/AQ labaros/NC ,/FF orador/NC ,/FF àmpliament/RG representat/VM en/SP les/DA llengües/NC celtes/AQ ./FF
+Gal·lès/NP :/FF llafar/VM ,/FF parla/VM ,/FF idioma/NC ,/FF veu/NC ,/FF orador/NC ;/FF antic/AQ córnico/NC i/CC bretó/NC :/FF lavar/VM paraula/NC ;/FF antic/AQ irlandès/NC :/FF labar/VM xarlatà/NC ,/FF llaureu/VM parla/NC ,/FF llenguatge/NC ;/FF irlandès/NC :/FF labhar/VM xerraire/NC ,/FF en/SP veu/NC alta/AQ i/CC labhairt/AQ paraula/NC ,/FF parla/VM </FF célt/RG ./FF (/FF p/NC )/FF labro/NC -/FF ./FF
+En/SP llatí/NC Labarum/NP ./FF
+Així/RG mateix/DI l'/DA antropònim/NC Labaro/NP ja/RG existia/VM entre/SP els/DA antics/AQ cántabres/NC ,/FF havent/VM estat/VS recollit/VM a/SP làpides/NC funeràries/AQ ./FF
+Disseny/NP ./FF
+El/DA disseny/NC actual/AQ ,/FF seguint/VM igualment/RG la/DA teoria/NC de/SP ser/VS el/DA labarum/NC el/DA mateix/DI que/CS el/DA cantabrum/NC ,/FF establix/VM per/SP a/SP el/DA Lábaro/NP cántabro/NC el/DA color/NC magenta/NC de/SP el/DA labarum/NC El/NP tetrasquel/NC daurat/NC representa/VM les/DA quatre/ZZ creixents/AQ pigues/NC que/PR apareixen/VM representades/VM en/SP diverses/DI esteles/NC càntabres/AQ discoidees/NC gegants/AQ ./FF
+Sent/VM un/DI símbol/NC que/PR s'/P0 ha/VA constatat/VM que/CS usaven/VM els/DA cántabros/NC freqüentment/RG ,/FF com/CS s'/P0 observa/VM en/SP caetras/NC representades/VM en/SP monedes/NC encunyades/VM després/RG de/SP les/DA Guerres_Càntabres/NP ./FF
+A/SP més/RG aquest/DD tipus/NC d'/SP estendards/NC i/CC les/DA seves/PX variants/NC estaven/VM bastant/DI estesos/NC entre/SP els/DA pobles/NC cèltics/AQ ,/FF com/CS ho/PP demostren/VM els/DA relleus/NC de/SP l'/DA arc/NC de/SP triomf/NC d'/SP Aurenja/NP ./FF
+El/DA seu/PX disseny/NC entronca/VM amb/SP antics/AQ símbols/NC cèltics/AQ com/CS el/DA trisquel/NC i/CC el/DA seu/PX simbolisme/NC ,/FF de/SP tipus/NC religiós/AQ ,/FF es/P0 relaciona/VM amb/SP el/DA culte/NC a/SP el/DA Sol/NP i/CC a/SP la/DA Lluna/NP ./FF
+Ús/NP ./FF
+Actualment/RG ,/FF i/CC des_de/SP certs/DI col·lectius/NC càntabres/AQ tant/RG socials/AQ com/CS polítics/AQ ,/FF es/P0 reivindica/VM l'/DA ús/NC oficial/AQ d'/SP aquest/DD estendard/NC com/CS a/SP bandera/NC de/SP Cantàbria/NP ,/FF com/CS a/SP representació/NC de/SP el/DA legítim/AQ cantabrum/NC ,/FF en/SP substitució/NC de/SP l'/DA actual/AQ ./FF
+Alguns/DI ajuntaments/NC ,/FF cas/NC de/SP el/DA de/SP Comillas/NP ,/FF ja/RG han/VA acceptat/VM la/DA proposta/NC de/SP el/DA Conceju_Nacionaliegu_Cántabru/NP d'/SP utilitzar/VM aquesta/DD bandera/NC i/CC col·locar/VM -la/PP en/SP la/DA balconada/NC de/SP la/DA Casa_Consistorial/NP durant/SP la/DA celebració/NC de/SP festes/NC locals/AQ i/CC regionals/AQ ./FF
+Vegeu/VM també/RG ./FF
+Cantabrum/NP ./FF
+Estela/NC càntabra/AQ ./FF
+Bandera_de_Cantàbria/NP ./FF
+Escut_de_Cantabria/NP ./FF
+Cantabrisme/NP ;/FF Referències/NP ./FF
+Oberfranken/NP o/CC Alta_Francònia/NP és/VS una/PI de/SP les/DA set/NC Regierungsbezirk/NP (/FF regions/NC administrativo-governamentals/AQ )/FF que/PR formen/VM el/DA land/AQ de/SP l'/DA Estat_Lliure_de_Baviera/NP (/FF Freistaat_Bayern/NP )/FF ./FF
+Divisió/NC territorial/AQ ./FF
+La/DA regierungsbezirk/NC de/SP l'/DA Alta_Francònia/NP és/VS formada/VM per/SP 4/ZZ districtes/NC urbans/AQ (/FF kreisfreie/NC Städte/NP )/FF i/CC 9/ZZ districtes/NC rurals/AQ (/FF Landkreise/NP )/FF :/FF Districtes/NC urbans/AQ ./FF
+Bamberg/NP ;/FF Bayreuth/NP ;/FF Coburg/NP ;/FF Hof/NP ;/FF Distri

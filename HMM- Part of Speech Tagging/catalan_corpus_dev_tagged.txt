@@ -2410,4 +2410,78 @@ En/SP època/NC republicana/AQ van/VA usar/VM el/DA cognom/NC Àquila/NP (/FF Aq
 ,/FF en/SP minúscules/NC ,/FF (/FF C/NP amb/SP accent/NC circumflex/AQ )/FF és/VS la/DA quarta/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP una/DI africada/NC postalveolar/AQ sorda/AQ en/SP l'/DA Alfabet_Fonètic_Internacional/NP ./FF
 Vegeu/VM també/RG ./FF
 [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF
-,/FF en/SP minúscules/NC ,/FF (/FF G/NP amb/SP accent/NC circumflex/AQ )/FF és/VS la/DA novena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP una/DI africada/NC postalveolar/AQ sonora/AQ (/FF en/SP l'/DA 
+,/FF en/SP minúscules/NC ,/FF (/FF G/NP amb/SP accent/NC circumflex/AQ )/FF és/VS la/DA novena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP una/DI africada/NC postalveolar/AQ sonora/AQ (/FF en/SP l'/DA Alfabet_Fonètic_Internacional/NP )/FF ./FF
+també/RG s'/P0 utilitza/VM en/SP l'/DA idioma/NC aleutià/NC ,/FF on/PR representa/VM una/DI fricativa/AQ uvular/AQ sonora/AQ ./FF
+Vegeu/VM també/RG :/FF [/FF [/FF ]/FF ]/FF ,/FF [/FF [/FF ]/FF ]/FF ,/FF [/FF [/FF ]/FF ]/FF ,/FF [/FF [/FF ]/FF ]/FF ,/FF [/FF [/FF ]/FF ]/FF ./FF
+,/FF en/SP minúscules/NC ,/FF (/FF H/NP amb/SP accent/NC circumflex/AQ )/FF és/VS l'/DA onzena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP una/DI fricativa/AQ velar/NC sorda/AQ en/SP l'/DA Alfabet_Fonètico_Internacional/NP ./FF
+és/VS una/DI de/SP les/DA lletres/NC menys/RG usades/VM en/SP esperanto/NC ,/FF el/DA seu/PX ús/NC més/RG modern/AQ tendeix/VM a/SP reemplaçar/VM -la/PP quan/CS és/VS possible/AQ per/SP k/NC :/FF monar/VM o/CC >/FF monarko/NC ,/FF emio/NC >/FF kemio/NC i/CC ,/FF inclusivament/RG ,/FF oro/VM >/FF koruso/NC ./FF
+Vegeu/VM també/RG ./FF
+[/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF
+,/FF en/SP minúscules/NC ,/FF (/FF J/NP amb/SP accent/NC circumflex/AQ )/FF és/VS la/DA catorzena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP la/DA fricativa/AQ postalveolar/AQ sonora/AQ en/SP l'/DA Alfabet_Fonètic_Internacional/NP ./FF
+probablement/RG es/P0 basa/VM en/SP la/DA lletra/NC francesa/AQ j/AQ que/PR té/VM el/DA mateix/DI so/NC ./FF
+Vegeu/VM també/RG ./FF
+[/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF
+,/FF en/SP minúscules/NC ,/FF (/FF S/NP amb/SP accent/NC circumflex/AQ )/FF és/VS la/DA vint-i-tresena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP una/DI fricativa/AQ postalveolar/AQ sorda/AQ (/FF en/SP l'/DA Alfabet_Fonètic_Internacional/NP )/FF ./FF
+Vegeu/VM també/RG ./FF
+[/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF
+,/FF en/SP minúscules/NC ,/FF (/FF U/PI amb/SP breu/AQ )/FF és/VS la/DA vint-i-sisena/AO lletra/NC de/SP l'/DA alfabet/NC en/SP esperanto/NC ,/FF que/PR correspon/VM a/SP l'/DA aproximant/AQ labiovelar/AQ sonora/AQ en/SP l'/DA Alfabet_Fonètic_Internacional/NP ./FF
+és/VS també/RG una/DI lletra/NC de/SP l'/DA idioma/NC bielorús/AQ quan/PR s'/P0 escriu/VM usant/VM l'/DA alfabet/NC llatí/AQ ./FF
+En/SP esperanto/NC es/P0 troba/VM quasi/RG exclusivament/RG en/SP els/DA diftongs/NC a/SP i/CC e/NC ,/FF sent/VM molt/RG poques/DI les/DA paraules/NC en/SP les/DA que/PR es/P0 troba/VM a/SP el/DA principi/NC de/SP síl·laba/NC ./FF
+Vegeu/VM també/RG ./FF
+[/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF [/FF [/FF ]/FF ]/FF ;/FF
+Jerry_Hoyt/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 29_de_gener_del_1929/WW a/SP Chicago/NP ./FF
+Hoyt/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1950-1955/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP 1950/ZZ i/CC 1953-1955/ZZ (/FF fent/VM la/DA pole/NC a/SP el/DA 1955/ZZ )/FF ./FF
+Jerry_Hoyt/NP va/VA morir/VM el/DA 10_de_juliol_del_1955/WW disputant/VM una/DI cursa/NC a/SP Oklahoma/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Jerry_Hoyt/NP va/VA participar/VM a/SP 4/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1950/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 4/ZZ ;/FF Poles/NP :/FF 1/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 0/ZZ ;/FF
+Jack_McGrath/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 8_d'_octubre_del_1919/WW a/SP Los_Angeles/NP ,/FF Califòrnia/NP ./FF
+McGrath/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1948-1955/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP d'/SP aquests/DD anys/NC (/FF fent/VM la/DA pole/NC a/SP el/DA 1954/ZZ )/FF ./FF
+Jack_McGrath/NP va/VA morir/VM el/DA 6_de_novembre_del_1955/WW disputant/VM una/DI cursa/NC a/SP Phoenix/NP ,/FF Arizona/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Jack_McGrath/NP va/VA participar/VM a/SP 4/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1950/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 6/ZZ ;/FF Poles/NP :/FF 1/ZZ ;/FF Voltes_Ràpides/NP :/FF 1/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 2/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 9/ZZ ;/FF
+El/DA Setge_de_Lleida/NP de/SP 1646/ZZ fou/VS un/PI de/SP els/DA episodis/NC de/SP la/DA Guerra_de_els_Segadors_Antecedents/NP ./FF
+Poc/RG després/RG de/SP la/DA revolta/NC que/PR va/VA suposar/VM el/DA Corpus_de_Sang/NP ,/FF l'/DA exèrcit/NC de/SP Felip_IV_d'_Espanya/NP va/VA ocupar/VM Tortosa/NP i/CC Tarragona/NP ,/FF il/AQ 17_de_gener_de_1641/WW ,/FF davant/SP l/NC alarmant/AQ penetració/NC de/SP l'/DA exèrcit/NC castellà/AQ ,/FF Pau_Claris/NP a/SP el/DA capdavant/RG de/SP la/DA Generalitat_de_Catalunya/NP ,/FF proclamà/VM la/DA República_Catalana/NP acordant/AQ una/DI aliança/NC política/AQ i/CC militar/AQ amb/SP França/NP ,/FF posant/VM Catalunya/NP sota/SP l'/DA obediència/NC de/SP Lluís_XIII_de_França/NP ./FF
+Pocs/DI dies/NC després/RG ,/FF amb/SP l'/DA ajuda/NC de/SP l'/DA exèrcit/NC francès/AQ ,/FF la/DA Generalitat/NP obtingué/VM una/DI important/AQ victòria/NC militar/AQ en/SP la/DA batalla/NC de/SP Montjuïc/NP de/SP el/DA 26_de_gener_de_1641/WW ,/FF i/CC les/DA tropes/NC castellanes/AQ es/P0 retiraven/VM a/SP Tarragona/NP ,/FF on/PR foren/VS assetjades/VM per/SP l'/DA estol/NC francès/AQ d'/SP Henri_d'_Escoubleau_de_Sourdis/NP i/CC les/DA tropes/NC de/SP terra/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP fins/SP que/PR els/DA espanyols/NC van/VA bastir/VM un/DI estol/NC comandat/VM per/SP García_Álvarez_de_Toledo/NP y/NC Mendoza/NP que/PR va/VA aconseguir/VM lliurar/VM provisions/NC a/SP la/DA ciutat/NC i/CC fer/VM fugir/VM l'/DA estol/NC francès/AQ a/SP el/DA Rosselló/NP ./FF
+Una/DI columna/NC castellana/AQ de/SP 4.500/ZZ homes/NC va/VA sortir/VM de/SP Tarragona/NP el/DA 23_de_març_de_1642/WW per/SP socòrrer/VM el/DA Rosselló/NP ,/FF que/PR havia/VA quedat/VM aïllat/VM a/SP el/DA nord/NC ,/FF però/CC foren/VS derrotades/VM a/SP mig/AQ camí/NC i/CC Cotlliure/NP va/VA caure/VM el/DA mes_d'_abril/WW ./FF
+El/DA maig/WW ,/FF els/DA espanyols/NC retiren/VM els/DA terços/NC que/PR estaven/VM a/SP Roses/NP amb/SP un/DI estol/NC de/SP 78/ZZ naus/NC ,/FF de_manera_que/CS el/DA Rosselló/NP va/VA caure/VM completament/RG en/SP mans/NC francocatalanes/AQ ,/FF i/CC els/DA objectius/NC de/SP Richelieu/NP i/CC Lluís_XIII_de_França/NP de/SP controlar/VM els/DA comtats/NC nordcatalans/AQ quedaven/VM satisfets/VM ,/FF i/CC pertant/AQ es/P0 van/VA donar/VM per/SP acabades/VM les/DA operacions/NC principals/AQ ./FF
+A/SP més/RG ,/FF el/DA 4_de_desembre_de_1642/WW ,/FF moriria/VM Richelieu/NP ,/FF i/CC el/DA 14_de_maig_de_1643/WW ,/FF Lluís_XIII/NP ,/FF a/SP qui/PR va/VA succeïr/VM el/DA seu/PX fill/NC Lluís_XIV/NP ,/FF el/DA rei/NC sol/AQ ,/FF començant/VM una/DI època/NC de/SP molta/DI agitació/NC a/SP França/NP que/PR va/VA permetre/VM a/SP els/DA espanyols/NC recuperar/VM progressivament/RG territori/NC a/SP l'/DA oest/NC de/SP el/DA Principat/NP ,/FF provocant/VM la/DA substitució/NC com/CS a/SP Virrei_de_Catalunya_de_Philippe_de_La_Mothe-Houdancourt_per_Henri_Harcourt_de_Lorena/NP ./FF
+Creient/NP que/CS el/DA 1646/ZZ els/DA francesos/NC tornarien/VM a/SP intentar/VM pendre/VM Lleida/NP ,/FF el/DA governador/NC de/SP la/DA ciutat/NC ,/FF Gregorio_de_Brito/NP va/VA manar/VM fortificar/VM la/DA ciutat/NC ./FF
+El/DA setge/NC ./FF
+Henri_Harcourt_de_Lorena/NP va/VA reunir/VM tropes/NC entre/SP Balaguer/NP i/CC Termens/NP ,/FF que/PR fou/VS atacada/VM per/SP els/DA castellans/NC de/SP el/DA virrei/NC de/SP Catalunya_Diego_Mesía_Felípez_de_Guzmán/NP el/DA 6_d'_abril/WW capturant/VM la/DA guarnició/NC de/SP 600/ZZ homes/NC ,/FF però/CC el/DA gruix/NC de/SP les/DA tropes/NC catalanofranceses/NC fou/VS concentrat/VM a/SP Cervera/NP per/SP atacar/VM Lleida/NP des_de/SP el/DA nord/NC ,/FF i/CC es/P0 va/VA desplaçar/VM a/SP Bellpuig/NP per/SP bloquejar/VM el/DA Cappont/NP ,/FF tancant/VM el/DA setge/NC capturant/VM Albatàrrec/NP i/CC Torres_de_Segre/NP per/SP el/DA sud/NC ,/FF situant/VM -se/P0 a/SP el/DA Pla_de_Vilanoveta/NP ,/FF tancant/VM el/DA setge/NC el/DA 12_de_maig/WW ./FF
+Diego_Mesía_Felípez_de_Guzmán/NP ,/FF el/DA nou/AQ virrei/NC de/SP Catalunya/NP va/VA organitzar/VM un/DI nou/AQ exèrcit/NC ,/FF comandat/VM per/SP Juan_Fernández_de_Heredia/NP que/PR va/VA intentar/VM atrapar/VM per/SP la/DA reraguarda/NC a/SP els/DA assetjants/NC el/DA mes_d'_octubre/WW ,/FF entrant/AQ per/SP Torres_de_Segre/NP ,/FF però/CC baixant/VM fins/SP a/SP Tortosa/NP per/SP finalment/RG a/SP establir/VM -se/P0 a/SP Agramunt/NP ,/FF i/CC finalment/RG van/VA plantejar/VM la/DA batalla/NC de/SP Santa_Cecília/NP de/SP el/DA 21/ZZ a/SP el/DA 22_de_novembre/WW ,/FF en/SP la/DA que/PR els/DA castellans/NC sortirien/VM victoriosos/AQ ./FF
+Conseqüències/NP ./FF
+La/DA derrota/NC a/SP Lleida/NP va/VA significar/VM la/DA destitució/NC immediata/AQ d'/SP Henri_Harcourt_de_Lorena/NP ,/FF substituït/VM per/SP Lluís_II_de_Borbó-Condé/NP ,/FF i/CC la/DA mort/NC de/SP Jeroni_de_Tamarit/NP ,/FF el/DA sergent/NC major/AQ de/SP el/DA Batalló_de_el_Principat/NP ,/FF que/PR fou/VS destrossat/VM per/SP la/DA infanteria/NC valona/AQ ./FF
+Referències/NP ./FF
+Blanhac/NP en/SP francès/AQ i/CC oficialment/RG Blagnac/NP ,/FF es/P0 un/DI municipi/NC francès/AQ situat/VM a/SP el/DA departament/NC de/SP l'/DA Alta_Garona/NP ,/FF a/SP la/DA regió/NC Migdia-Pirineus/NP ./FF
+En/SP el/DA cens/NC de/SP 1999/ZZ comptava/VM amb/SP 20586/ZZ habitants/NC repartits/VM en/SP 16,88_km2/ZZ ./FF
+Forma_part/VM de/SP l'/DA aglomeració/NC de/SP Tolosa_de_Llenguadoc/NP i/CC es/P0 on/PR hi/PP ha/VA l'/DA aeroport/NC d'/SP aquesta/DD ciutat/NC ./FF
+Roc_Monllor_Boronat/NP (/FF Alcoi/NP ,/FF 1910/ZZ 1994/ZZ )/FF fou/VS un/DI arquitecte/NC molt/RG vinculat/VM a/SP Alcoi/NP ./FF
+Roc_Monllor/NP va/VA ser/VS arquitecte/NC municipal/AQ d'/SP Alcoi/NP de/SP l'/DA any/NC 1941/ZZ a/SP 1973/ZZ i/CC Assessor/NP artístic/AQ de/SP l'/DA Associació_de_Sant_Jordi/NP ./FF
+A/SP ell/PP es/P0 deu/VM el/DA projecte/NC i/CC la/DA direcció/NC de/SP la/DA reconstrucció/NC de/SP la/DA parròquia/NC de/SP Santa_Maria/NP després/RG de/SP la/DA guerra/NC civil/AQ així/RG com/CS suggerix/VM que/CS siga/VM Ramón_Castañer/NP qui/PR pinte/VM els/DA murals/NC de/SP la/DA nova/AQ església/NC ,/FF part/NC de/SP la/DA decoració/NC de/SP l'/DA església/NC de/SP Sant_Jordi/NP ,/FF la/DA construcció/NC de/SP el/DA Preventori/NP ,/FF la/DA reforma/NC de/SP el/DA Casal_de_Sant_Jordi/NP ,/FF la/DA Residència_Pintor_Sala/NP ,/FF el/DA Mercat_de_Sant_Roc/NP o/CC el/DA Polígon_Industrial/NP "/FF Cotes_Baixes/NP "/FF entre/VM altres/PI a/SP la/DA ciutat/NC d'/SP Alcoi/NP ./FF
+Va/VA ser/VS conseller/NC de/SP la/DA Caixa_d'_Estalvis/NP ./FF
+Era/VS un/DI gran/AQ defensor/NC de/SP la/DA cultura/NC i/CC la/DA llengua/NC valenciana/AQ ./FF
+Referències/NP ./FF
+Bibliografia/NP ./FF
+Berenguer_Barceló/NP ,/FF Julio/NP ,/FF (/FF 1977/ZZ )/FF ./FF
+Historia/VM de/SP Alcoy_Alcoy/NP :/FF Llorens/NP ./FF
+ISBN/NP 84-400-4018-0/ZZ ;/FF Botella/NP ,/FF Pepa/NP (/FF 2007/ZZ )/FF ./FF
+Autoretrato/NP con/NC paisaje/AQ (/FF Ramón_Castañer/NP )/FF Elx/NP :/FF Ramón_Castañer/NP ./FF
+ISBN/NP 978-84-611-5631-3/ZZ ;/FF
+Història/NP de/SP el/DA nacionalisme/NC basc/AQ fa_referència/VM a/SP l'/DA evolució/NC de/SP el/DA nacionalisme/NC basc/AQ des_de/SP els/DA seus/PX orígens/NC fins/SP a/SP l'/DA actualitat/NC ./FF
+Durant/SP els/DA seus/PX més/RG de/SP cent/ZZ anys/NC d'/SP història/NC s'/P0 ha/VA subdividit/VM en/SP diferents/DI corrents/NC ideològiques/AQ ,/FF unes/DI de/SP simplement/NC culturals/AQ ,/FF altres/DI moderades/NC que/PR defensen/VM des_de/SP el/DA regionalisme/NC ,/FF a/SP l'/DA autonomisme/NC ,/FF fins/SP a/SP l'/DA independentisme/NC i/CC també/RG alguns/DI sectors/NC minoritaris/AQ defensen/VM branques/NC més/RG extremes/AQ i/CC fins_i_tot/RG violentes/AQ ./FF
+Origen/NP ./FF
+El/DA nacionalisme/NC basc/AQ té/VM els/DA seus/PX antecedents/NC en/SP els/DA finals/NC de/SP el/DA segle_XVIII/WW ,/FF en/SP la/DA filosofia/NC de/SP Herder/NP i/CC el/DA seu/PX concepte/NC de/SP Volksgeist/NP ,/FF (/FF «/FF la/DA voluntat/NC de/SP el/DA poble/NC »/FF )/FF ,/FF idea/NC que/PR posteriorment/RG va/VA ser/VS seguida/VM i/CC desenvolupada/VM per/SP autors/NC como/VM Fichte/NP i/CC Schelling/NP ./FF (/FF Vegeu/VM nacionalisme/NC basc/AQ )/FF Alguns/NP autors/NC es/P0 remunten/VM a/SP l'/DA època/NC de/SP l'/DA origen/NC i/CC esplendor/NC de/SP l'/DA antic/AQ Regne_de_Navarra/NP en/SP el/DA qual/PR veuen/VM els/DA orígens/NC d'/SP aquest/DD moviment/NC ideològic/AQ ./FF
+L'/DA alabès/NC Landazuri/NP parla/VM en/SP 1780/ZZ de/SP país/NC bascongado/NC ./FF
+En/SP 1801/ZZ ,/FF l'/DA investigador/NC alemany/AQ Wilhelm/NP von/VM Humboldt/NP va/VA recórrer/VM el/DA país/NC i/CC el/DA reconeix/VM expressament/RG com/CS nació/NC basca/AQ ./FF ./FF
+Deu/VM anys/NC més/RG tard/VM el/DA senador/NC labortà/NC Dominique_Joseph_Garat/NP preconitza/VM la/DA formació/NC d'/SP un/DI "/FF "/FF Estat_Nacional_Basc/NP "/FF amb/SP els/DA territoris/NC d'/SP ambdós/DI costats/NC de/SP els/DA Pirineus/NP ,/FF la/DA bandera/NC de/SP els/DA quals/PR i/CC escut/NC serien/VS els/DA de/SP Navarra/NP ./FF
+Precisament

@@ -2906,4 +2906,91 @@ Exemples/NP notables/AQ d'/SP aquest/DD tipus/NC de/SP Lord_Protector/NP són/VS
 Ricard_Plantegenet/NP en/SP els/DA períodes/NC 1454-1455/ZZ i/CC 1455-1456/ZZ ,/FF durant/SP la/DA malaltia/NC mental/AQ d'/SP Enric_VI/NP ./FF
 Ricard_de_Gloucester/NP ,/FF que/PR va/VA ser/VS Lord_Protector/NP de/SP el/DA regne/NC entre/SP abril/WW i/CC juny_de_1483/WW durant/SP el/DA regnat/NC nominal/AQ d'/SP Eduard_V/NP abans/RG d'/SP usurpar/VM el/DA tron/NC ell/PP mateix/PI ./FF ;/FF Eduard_Seymour/NP ,/FF 1r/AO Duc_de_Somerset/NP ,/FF que/PR va/VA ser/VS Lord_Protector/NP durant/SP els/DA primers/AO anys/NC de/SP regnat/NC de/SP el/DA jove/NC Eduard_VI/NP ./FF ;/FF a/SP el/DA Regne_d'_Escòcia/NP :/FF John_Stuart/NP ,/FF duc/NC d'/SP Albany/NP ,/FF que/PR fou/VS Governador/NP i/CC Protector_de_el_Reialme/NP entre/SP 1515/ZZ i/CC 1524/ZZ durant/SP el/DA regnat/NC de/SP Jaume_V._James_Hamilton/NP ,/FF que/PR fou/VS Governador/NP i/CC Protector_de_el_Reialme/NP entre/SP 1543/ZZ i/CC 1554/ZZ durant/SP el/DA regnat/NC de/SP Maria_d'_Escòcia/NP ./FF
 La/DA república/NC de/SP Cromwell/NP ./FF
-Lord_Protector_de_la_Commonwealth_d'_Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP va/VA ser/VS el/DA títol/NC de/SP el/DA cap/NC de/SP l'/DA estat/NC durant/SP El_Protectorat_de_l'
+Lord_Protector_de_la_Commonwealth_d'_Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP va/VA ser/VS el/DA títol/NC de/SP el/DA cap/NC de/SP l'/DA estat/NC durant/SP El_Protectorat_de_l'_Interregne/NP anglès/AQ ,/FF just/RG després/RG de/SP el/DA primer/AO període/NC de/SP la/DA Commonwealth_d'_Anglaterra/NP sota/SP el/DA govern/NC de/SP el/DA Consell_d'_Estat/NP anglès/AQ ./FF
+El/DA càrrec/NC va/VA ser/VS ocupat/VM per/SP Oliver_Cromwell/NP (/FF desembre_de_1653/WW a/SP setembre_de_1658/WW )/FF ,/FF i/CC per/SP el/DA seu/PX fill/NC Richard_Cromwell/NP (/FF setembre_de_1658/WW a/SP maig_de_1659/WW )/FF ./FF
+La/DA Constitució/NP republicana/AQ de/SP 1653/ZZ ,/FF coneguda/NC amb/SP el/DA nom/NC d'/SP Instrument_de_Govern/NP ,/FF establia/NC que/PR :/FF Oliver_Cromwell/NP ,/FF Capità_General/NP de/SP les/DA forces/NC d'/SP Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP ,/FF ha/VA de/SP ser/VS ,/FF i/CC és/VS per/SP tant/RG així/RG declarat/VM ,/FF Lord_Protector_de_la_Mancomunitat_d'_Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP i/CC els/DA dominis/NC que/PR la/PP formen/VM ,/FF per_a_tota_la_vida/RG ./FF
+L'/DA any/NC 1657/ZZ es/P0 redactà/VM una/DI nova/AQ constitució/NC ,/FF anomenada/NC Humble_Petition/NP and/AQ Advice/NP (/FF "/FF Humil_Petició/NP i/CC Consell/NP "/FF )/FF ,/FF va/VA donar/VM a/SP el/DA Lord_Protector/NP el/DA poder/NC de/SP nomenar/VM a/SP el/DA seu/PX successor/NC ./FF
+Cromwell/NP va/VA escollir/VM a/SP el/DA major/AQ de/SP els/DA seus/PX fills/NC ,/FF el/DA políticament/RG inexpert/AQ Richard_Cromwell/NP ./FF
+Aquest/DD sistema/NC de/SP successió/NC no/RN representativa/AQ i/CC de_facto/RG es/P0 va/VA sumar/VM a/SP molts/DI altres/DI gestos/NC ,/FF com/CS les/DA connotacions/NC monàrquiques/AQ de/SP els/DA títols/NC atorgats/VM ,/FF la/DA doble/AQ invocació/NC (/FF el/DA 16_de_desembre_de_1653/WW i/CC el/DA 3_de_setembre_de_1658/WW )/FF de/SP el/DA títol/NC "/FF Per/SP la/DA gràcia/NC de/SP Déu/NP i/CC la/DA República_Lord_Protector_de_la_Mancomunitat_d'_Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP "/FF ,/FF i/CC altres/DI prerrogatives/NC reials/AQ com/CS la/DA potestat/NC de/SP nomenar/VM cavallers/NC ,/FF així/RG com/CS els/DA trets/NC autoritaris/AQ de/SP el/DA règim/NC militaritzat/VM ./FF
+Aquests/DD signes/NC van/VA convèncer/VM a/SP una/DI part/NC substancial/AQ de/SP la/DA població/NC que/CS la/DA Guerra_Civil/NP regicida/AQ ,/FF que/PR en_teoria/RG havia/VA de/SP sustentar/VM a/SP el/DA parlament/NC enfront/NC de/SP la/DA "/FF tirania/NC reial/AQ "/FF i/CC el/DA protestantisme/NC enfront/NC de/SP el/DA "/FF papisme/NC de/SP els/DA Stuart/NP "/FF ,/FF en_realitat/RG havia/VA creat/VM una/DI república/NC coronada/VM fortament/RG repressora/AQ ,/FF i/CC fatalment/RG incapaç/AQ de/SP retornar/VM a/SP el/DA país/NC la/DA pau/NC i/CC la/DA prosperitat/NC ./FF
+El/DA jove/NC Cromwell/NP ,/FF a/SP el/DA succeir/VM a/SP el/DA seu/PX pare/NC a/SP la/DA seva/PX mort/NC a/SP el/DA setembre_de_1658/WW ,/FF solament/RG va/VA conservar/VM el/DA càrrec/NC durant/SP vuit_mesos/ZZ abans/RG d'/SP haver/VA de/SP renunciar/VM a/SP el/DA mateix/DI el/DA maig_de_1659/WW ./FF
+Aquest/DD va/VA ser/VS l'/DA inici/NC de/SP el/DA segon/AO període/NC de/SP domini/NC de/SP la/DA Commonwealth/NP fins/SP a/SP la/DA restauració/NC de/SP l'/DA hereu/NC de/SP Carles_I_d'_Anglaterra/NP a/SP l'/DA exili/NC ,/FF Carles_II/NP ,/FF a/SP el/DA maig_de_1660/WW El/NP títol/NC ha/VA estat/VM en/SP desús/NC des_de/SP llavors/RG en/SP qualsevol/DI de/SP les/DA seves/PX formes/NC ,/FF i/CC és/VS improbable/AQ que/CS sigui/VS reutilitzat/VM en/SP el/DA futur/NC ./FF
+La/DA llengua/NC catalana/AQ és/VS legislada/VM per/SP el/DA dret/NC de/SP diferents/DI entitats/NC administratives/AQ on/PR històricament/RG s'/P0 ha/VA parlat/VM ./FF
+Territoris/NP ./FF
+Catalunya/NP :/FF L'/DA Estatut_d'_Autonomia_de_Catalunya/NP de/SP 2007/ZZ a/SP l'/DA article/NC 6/ZZ es/P0 refereix/VM a/SP la/DA llengua/NC pròpia/AQ i/CC les/DA llengües/NC oficials/AQ ./FF
+La/DA Llei/NP de/SP política/NC lingüística/AQ de/SP 1998/ZZ desenvolupa/VM es/P0 competències/NC en/SP legislació/NC lingüística/AQ ./FF
+País_Valencià/NP :/FF L'/DA Estatut_d'_Autonomia_de_el_País_Valencià/NP de/SP 2007/ZZ ,/FF a/SP el/DA seu/PX article/NC 6/ZZ ,/FF es/P0 refereix/VM a/SP la/DA llengua/NC pròpia/AQ ./FF
+La/DA Llei_d'_Ús/NP i/CC Ensenyament_de_el_Valencià/NP desenvolupa/VM les/DA competències/NC en/SP legislació/NC lingüística/AQ ./FF
+Illes_Balears/NP :/FF L'/DA Estatut_d'_Autonomia_de_les_Illes_Balears/NP de/SP 2007/ZZ fa_referència/VM a/SP l'/DA oficialitat/NC de/SP les/DA llengües/NC ./FF
+La/DA Llei/NP de/SP normalització/NC lingüística/AQ a/SP les/DA Illes_Balears/NP desenvolupa/VM les/DA competències/NC en/SP legislació/NC lingüística/AQ ./FF
+Catalunya_de_el_Nord/NP :/FF la/DA Carta/NP en_favor_de/SP el/DA català/NC ,/FF aprovada/VM l'/DA any/NC 2007/ZZ ,/FF reinstaura/VM la/DA legislació/NC lingüística/AQ a_favor_de/SP l'/DA ús/NC de/SP el/DA català/NC a/SP la/DA Catalunya_de_el_Nord/NP ./FF
+Charte/NP en/SP faveur/NC du/VM Catalan_Document/NP d'/SP aprovació/NC ;/FF Andorra/NP :/FF vegeu/VM les/DA legislacions/NC estatals/AQ més/RG avall/RG ./FF
+Franja_de_Ponent/NP (/FF Aragó/NP )/FF :/FF ;/FF L'_Estatut_d'_Autonomia_d'_Aragó/NP vigent/AQ (/FF aprovat/VM l'/DA any/NC 2007/ZZ )/FF es/P0 refereix/VM a/SP les/DA llengües/NC i/CC modalitats/NC lingüístiques/AQ a/SP l'/DA article/NC 7/ZZ ./FF
+La/DA Llei/NP de/SP patrimoni/NC culturalde/NC 1997/ZZ considera/VM el/DA català/NC i/CC l'/DA aragonès/AQ llengües/NC minoritàries/AQ d'/SP Aragó/NP ./FF
+Les/DA Corts_d'_Aragó/NP (/FF parlament/NC autonòmic/AQ )/FF debateren/VM un/DI Avantprojecte_de_Llei/NP de/SP llengües/NC que/PR no/RN va/VA ser/VS aprovat/VM ./FF
+Alguer/NP (/FF Sardenya/NP )/FF :/FF des_de/SP 1997/ZZ compta/VM amb/SP la/DA llei/NC de/SP Promozione/NP e/NC valorizzazione/AQ della/NC cultura/NC e/NC della/NC lingua/NC della/NC Sardegna/NP atorgada/VM per/SP el/DA Consell_Regional_de_Sardenya/NP ./FF
+Carxe/NP (/FF Múrcia/NP )/FF :/FF el/DA català/NC de/SP els/DA municipis/NC de/SP el/DA Carxe/NP es/P0 regeix/VM subsidiàriament/RG per/SP la/DA Constitució_Espanyola/NP ./FF
+Estats/NP ./FF
+Andorra/NP :/FF La/DA Constitució_de_el_Principat_d'_Andorra/NP declara/VM el/DA català/NC com/CS a/SP llengua/NC oficial/AQ de/SP l'/DA Estat/NP ;/FF La_Llei/NP d/AQ ordenació/NC de/SP l/NC ús/NC de/SP la/DA llengua/NC oficial/AQ desenvolupa/VM l'/DA oficialitat/NC de/SP la/DA llengua/NC ./FF
+Espanya/VM :/FF la/DA Constitució_Espanyola/NP es/P0 refereix/VM a/SP les/DA llengües/NC i/CC modalitats/NC lingüístiques/AQ a/SP el/DA seu/PX article/NC ;/FF França/NP :/FF la/DA Constitució_Francesa/NP de/SP 1958/ZZ es/P0 refereix/VM a/SP la/DA llengua/NC de/SP la/DA República/NP a/SP el/DA seu/PX article/NC 2/ZZ ./FF
+Itàlia/NP :/FF la/DA Constitució/NP italiana/AQ de/SP 1948/ZZ es/P0 refereix/VM a/SP les/DA llengües/NC a/SP els/DA articles/NC 3/ZZ i/CC 6/ZZ ./FF
+Entitats/NC supraestatals/AQ (/FF Europa/NP )/FF ./FF
+Unió_Europea/NP :/FF El/DA Reglament/NP 1/ZZ de/SP 1958/ZZ de/SP el/DA Consell_de_la_CEE/NP ,/FF amb/SP les/DA corresponents/AQ modificacions/NC posteriors/AQ ,/FF establí/VM les/DA llengües/NC oficials/AQ a/SP la/DA Unió/NP ./FF
+La/DA Carta_Europea_de_les_Llengües_Regionals/NP o/CC Minoritàries/NP legisla/VM sobre/SP les/DA llengües/NC a/SP la/DA Unió_Europea/NP ./FF
+Vegeu/VM també/RG ./FF
+Llengua/NP pròpia/AQ
+El/DA marraix/NC (/FF Lamna/NP nasus/NC )/FF és/VS una/DI espècie/NC de/SP tauró/NC que/PR a/SP l'/DA estiu/NC s'/P0 apropa/VM molt/RG a/SP la/DA costa/NC fins/SP a/SP el/DA punt/NC que/PR arriba/VM a/SP penetrar/VM en/SP platges/NC i/CC ports/NC ./FF
+Descripció/NP ./FF
+Cos/NC fusiforme/AQ i/CC relativament/RG alt/AQ ./FF
+El/DA musell/NC és/VS cònic/AQ i/CC una/DI mica/NC arrodonit/VM ./FF
+Dues/ZZ aletes/NC dorsals/AQ ;/FF la/DA primera/AO ,/FF gran/AQ ,/FF just/AQ per/SP darrera/AO de/SP la/DA inserció/NC de/SP les/DA pectorals/NC ;/FF la/DA segona/AO molt/RG més/RG petita/AQ ,/FF com/CS l'/DA anal/AQ ./FF
+L'/DA aleta/NC caudal/AQ és/VS semilunar/AQ ./FF
+Presenta/VM cinc/ZZ parells/NC de/SP fenedures/NC branquials/AQ per/SP davant/RG de/SP les/DA pectorals/NC ./FF
+Sense/SP membrana/NC nictitant/AQ ./FF
+Les/DA dents/NC són/VS iguals/AQ a/SP les/DA dues/ZZ mandíbules/NC ,/FF primes/NC ,/FF de/SP marge/NC llis/AQ i/CC amb/SP dues/ZZ cúspides/NC secundàries/AQ a/SP la/DA base/NC ./FF
+Color/NP blau/NC fosc/AQ a/SP el/DA dors/NC i/CC blanc/NC o/CC gris/NC a/SP la/DA panxa/NC ./FF
+La/DA seua/PX longitud/NC màxima/AQ és/VS de/SP més/RG de/SP 300/ZZ cm./NC ;/FF El/NP mascle/AQ és/VS adult/AQ entre/SP els/DA 219/ZZ i/CC 262_cm/ZZ ,/FF i/CC la/DA femella/NC entre/SP els/DA 152/ZZ i/CC 219/ZZ cm./NC Hàbitat/NP ./FF
+Excel·lent/NP nedador/NC pelàgic/AQ ,/FF pot/VM navegar/VM sol/NC o/CC en/SP grups/NC per/SP el/DA litoral/NC costaner/AQ ./FF
+Cerca/NP els/DA corrents/NC d'/SP aigües/NC fredes/AQ de/SP menys/RG de/SP 18º/ZZ C._A/NP l'/DA estiu/NC s'/P0 apropa/VM a/SP les/DA costes/NC nedant/AQ per/SP la/DA superfície/NC ;/FF a/SP l'/DA hivern/NC s'/P0 està/VM més/RG en/SP fondalades/NC d'/SP alta/AQ mar/NC ./FF
+Se/P0 'l/PP troba/VM des_de/SP la/DA superfície/NC fins/SP a/SP profunditats/NC de/SP 336_m/ZZ ./FF
+Presenta/VM segregació/NC poblacional/AQ per/SP sexes/NC i/CC edats/NC ./FF
+Alimentació/NP ./FF
+Menja/NP petits/AQ peixos/NC pelàgics/AQ com/CS la/DA sardina/NC ,/FF el/DA seitó/NC ,/FF el/DA verat/NC i/CC el/DA sorell/NC ./FF
+També/RG alguns/DI gàdids/NC ,/FF petits/AQ taurons/NC i/CC calamars/NC ./FF
+Reproducció/NP ./FF
+És/VS ovovivípar/AQ aplacentari/AQ ./FF
+Els/DA embrions/NC practiquen/VM el/DA canibalisme/NC intrauterí/AQ ./FF
+La/DA femella/NC fa/VM ventrades/NC ,/FF presumiblement/RG durant/SP tot/DI l'/DA any/NC ,/FF d'/SP una/DI a/SP cinc/ZZ cries/NC entre/SP 60/ZZ i/CC 75/ZZ cm./NC Poden/NP viure/VM fins/SP uns/DI 30/ZZ anys/NC ,/FF i/CC arriben/VM a/SP la/DA seua/PX maduresa/NC a/SP els/DA 5/ZZ anys/NC ./FF
+Aprofitament/NP ./FF
+Tot/PI i/CC la/DA seua/PX poca/DI abundor/NC ,/FF és/VS una/DI espècie/NC comercial/AQ ./FF
+Es/P0 pesca/VM amb/SP palangre/NC i/CC es/P0 ven/VM ,/FF juntament/RG amb/SP el/DA solraig/NC ,/FF amb/SP el/DA nom/NC d'/SP emperador/NC ./FF
+Ambdós/PI tenen/VM els/DA mateixos/DI aprofitaments/NC ./FF
+Referències/NP ./FF
+Barrull/NP ,/FF Joan/NP i/CC Mate/NP ,/FF Isabel/NP :/FF Els/DA taurons/NC de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col/NP ./FF
+Conèixer/VM la/DA natura/NC ,/FF núm/NC ./FF 14/ZZ ./FF
+Barcelona/NP ,/FF març_del_1996/WW ./FF
+ISBN/NP 84-7306-920-X/ZZ ./FF
+Plana/NP 123/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+;/FF Àmplia/NP informació/NC sobre/SP el/DA marraix/NC ./FF ;/FF Descripció/NP de/SP el/DA marraix/NC ./FF ;/FF
+El/DA Generalfeldmarschall_Wolfram_Freiherr/NP von/VM Richthofen/NP (/FF 10_d'_octubre_de_1895/WW 12_de_juliol_de_1945/WW va/VA ser/VS un/DI general/AQ alemany/NC de/SP la/DA Luftwaffe/NP durant/SP la/DA II_Guerra_Mundial/NP ./FF
+Von_Richtofen/NP era/VS cosí/NC llunyà/AQ de/SP l'/DA as/NC de/SP l'/DA aviació/NC de/SP la/DA I_Guerra_Mundial_Manfred/NP von/VM Richthofen/NP ,/FF conegut/VM popularment/RG com/CS el/DA Baró_Roig/NP ,/FF que/PR abaté/VM 80/ZZ avions/NC enemics/AQ abans/RG de/SP resultar/VM mort/NC en/SP acció/NC a/SP el/DA 1918/ZZ ;/FF i/CC de/SP el/DA germà/NC petit/AQ de/SP el/DA baró/NC ,/FF Lothar/NP von/VM Richthofen/NP ,/FF que/PR abaté/VM 40/ZZ enemics/NC ./FF
+Biografia/NP ./FF
+Va/VA néixer/VM a/SP l'/DA estat/NC de/SP Barzdof/NP ,/FF prop/RG de/SP Striegau/NP ,/FF a/SP la/DA Baixa_Silèsia/NP ./FF
+Durant/SP la/DA I_Guerra_Mundial/NP serví/VM en/SP una/DI unitat/NC de/SP cavalleria/NC alemanya/AQ ./FF
+a/SP el/DA 1918/ZZ va/VA aprendre/VM a/SP volar/VM i/CC va/VA ser/VS transferit/VM a/SP la/DA Força_Aèria/NP ./FF
+a/SP el/DA març_de_1918/WW va/VA ser/VS enviat/VM a/SP l'/DA esquadró/NC de/SP caces/NC Jasta/NP 11/ZZ ,/FF aconseguint/VM 8/ZZ victòries/NC aèries/AQ que/PR li/PP atorgaren/VM el/DA títol/NC d'/SP as/NC de/SP l'/DA aviació/NC ./FF
+Von_Richthofen/NP estudià/VM enginyeria/NC entre/SP 1919/ZZ i/CC 1922/ZZ ./FF
+El/DA 18_de_setembre_de_1920/WW es/P0 casà/VM amb/SP Jutta/NP von/VM Selchow/NP (/FF 1896-1991/ZZ )/FF a/SP Breslau/NP (/FF avui/RG Wroc/NP aw/NC ,/FF a/SP Polònia/NP )/FF ./FF
+Van/VA tenir/VM 3/ZZ fills/NC ./FF
+La/DA Legió_Còndor/NP ./FF
+a/SP el/DA 1933/ZZ von/NC Richthofen/NP s'/P0 uní/VM a/SP la/DA Luftwaffe/NP ,/FF sent/VM un/DI de/SP els/DA oficials/AQ comandants/NC a/SP la/DA Legió_Còndor/NP a/SP el/DA 1936/ZZ durant/SP la/DA Guerra_Civil_Espanyola/NP ./FF
+Comandà/VM formacions/NC de/SP combat/NC ,/FF i/CC a/SP el/DA 1937/ZZ es/P0 produí/VM el/DA Bombardeig_de_Guernica/NP ,/FF amb/SP un/DI gran/AQ nombre/NC de/SP víctimes/NC civils/AQ ,/FF i/CC una/DI acció/NC que/PR esdevindria/VM un/DI de/SP els/DA símbols/NC de/SP els/DA horrors/NC de/SP els/DA bombardeigs/NC aeris/AQ ./FF
+Von_Richthofen/NP va/VA ser/VS nomenat/VM Cap_d'_Estat_Major_d'_Hugo_Sperrle/NP ,/FF i/CC va/VA estar/VM molt/RG involucrat/VM en/SP l'/DA esbós/NC de/SP les/DA lliçons/NC que/CS la/DA Guerra_Civil/NP podria/VM aportar/VM a/SP la/DA Luftwaffe_per_la_II_Guerra_Mundial/NP ./FF
+a/SP el/DA 1938/ZZ va/VA ser/VS promogut/VM a/SP Major_General/NP i/CC serví/VM com/CS a/SP assessor/NC de/SP el/DA General_Franco/NP fins/SP a/SP el/DA seu/PX retorn/NC a/SP Alemanya/NP a/SP el/DA 1939/ZZ per/SP assumir/VM el/DA comandament/NC de/SP la/DA retornada/VM Legió_Condor/NP ./FF
+Segona_Guerra_Mundial/NP ./FF
+Quan/CS esclatà/VM la/DA II_Guerra_Mundial/NP l/NC '/FF 1_de_setembre_de_1939/WW ,/FF von/VM Richthofen/NP comandà/VM el/DA Fliegerkorps_VIII/NP durant/SP la/DA Invasió_de_Polònia/NP ,/FF dirigint/VM un/DI intent/NC de/SP destruir/VM Varsòvia/NP des_de/SP l'/DA aire/NC ./FF
+Durant/SP la/DA Batalla_de_França/NP ,/FF els/DA bombarders/NC en/SP picat/NC Junkers_Ju/NP 87/ZZ de/SP el/DA Fliegerkorps_VIII/NP van/VA recolzar/VM el/DA 6è/AO Exèrcit_de_el_General_Walther/NP von/VM Reichenau/NP a/SP Bèlgica/NP i/CC el/DA Panzergruppe/NP von/VM Kleist_de_el_General_Paul/NP von/VM Kleist/NP a/SP França/NP ./FF
+Durant/SP la/DA Batalla_d'_Anglaterra/NP ,/FF la/DA unitat/NC de/SP von/NC Richthofen/NP participà/VM en/SP el/DA fracassat/VM intent/VM de/SP destruir/VM la/DA Royal_Air_Force_A/NP l'/DA abril/WW ,/FF el/DA Fliegerkorps_VIII/NP va/VA ser/VS destinat/VM a/SP recolzar/VM la/DA Batalla_de_Grècia/NP i/CC la/DA Batalla_de_Creta/NP ./FF
+Després/RG de/SP la/DA conclusió/NC d'/SP aquesta/DD campanya/NC ,/FF von/VM Richthofen/NP ,/FF ara/RG ja/RG General/NP ,/FF esdevingué/VM el/DA 26è/ZZ guanyador/N

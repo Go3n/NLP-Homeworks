@@ -2809,4 +2809,101 @@ Viu/VM en/SP fondàries/NC entre/SP 230/ZZ i/CC 2.400_m/ZZ ,/FF encara/RG que/CS
 Alimentació/NP ./FF
 Consumeix/VM peixos/NC i/CC invertebrats/NC de/SP el/DA seu/PX entorn/NC ./FF
 Reproducció/NP ./FF
-És/VS ovovivípar/AQ a
+És/VS ovovivípar/AQ aplacentari/AQ ./FF
+Normalment/RG amb/SP ventrades/NC d'/SP un/DI a/SP cinc/ZZ petits/NC ./FF
+Aprofitament/NP ./FF
+Espècie/NP sense/SP interès/NC comercial/AQ ./FF
+Referències/NP ./FF
+Barrull/NP ,/FF Joan/NP i/CC Mate/NP ,/FF Isabel/NP :/FF Els/DA taurons/NC de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col/NP ./FF
+Conèixer/VM la/DA natura/NC ,/FF núm/NC ./FF 14/ZZ ./FF
+Barcelona/NP ,/FF març_del_1996/WW ./FF
+ISBN/NP 84-7306-920-X/ZZ ./FF
+Plana/NP 81/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+;/FF Àmplia/NP informació/NC sobre/SP aquesta/DD espècie/NC de/SP tauró/NC ./FF ;/FF Informació/NP taxonòmica/AQ de/SP el/DA gutxo/NC aspre/AQ ./FF ;/FF
+El/DA castell/NC de/SP la/DA Roca/NP està/VM situat/VM a/SP el/DA municipi/NC de/SP la/DA Roca_de_el_Vallès/NP (/FF Vallès_Oriental/NP )/FF ./FF
+És/VS citat/VM per/SP primera/AO vegada/NC a/SP la/DA documentació/NC conservada/VM l'/DA any/NC 1030/ZZ ./FF
+En/SP aquest/DD any/NC eren/VS senyors/AQ de/SP el/DA castell/NC Arnau_Mir/NP i/CC Renat_Guillem_de_Sarroca/NP ./FF
+La/DA filla/NC d'/SP aquest/DD últim/AO ,/FF Guillema/NP ,/FF l'/DA alienà/VM ./FF
+Més/RG tard/VM fou/VS posseït/VM per/SP Ramon_de_Cabrera/NP ,/FF i/CC el/DA 1287/ZZ consta/VM com/CS a/SP senyor/NC Pere_Marquès/NP ./FF
+El/DA 1374/ZZ passà/VM a/SP el/DA seu/PX descendent/NC Pere_Arnau_Marquès/NP ,/FF que/PR el/DA 1405/ZZ el/DA vengué/VM a/SP Ramon_de_Torrelles/NP ,/FF senyor/NC de/SP Rubí/NP ./FF
+L'/DA actual/AQ propietari/NC és/VS Antoni_Rivière/NP i/CC Manén/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Història/NP de/SP el/DA castell/NC
+Isshin_Kurosaki/NP (/FF ,/FF Kurosaki_Isshin/NP ?/FF )/FF és/VS un/DI personatge/NC de/SP la/DA serie/VM anime/VM i/CC manga/NC Bleach/NP ,/FF ell/PP és/VS el/DA pare/NC de/SP Ichigo/NP ,/FF protagonista/NC de/SP la/DA serie/VM ,/FF a/SP el/DA principi/NC té/VM un/DI paper/NC secundari/AQ i/CC més/RG aviat/RG cómic/AQ ,/FF però/CC en/SP capítols/NC més/RG avançats/VM apareix/VM com/CS a/SP shinigami/NC i/CC es/P0 considera/VM que/CS té/VM la/DA força/NC d'/SP un/DI capità/NC d'/SP escuadró/NC ,/FF amic/NC de/SP kisuke/VM urahara/RG encara/RG té/VM moltes/DI coses/NC a/SP descobrir/VM -se/PP d'/SP ell/PP ./FF
+Els/DA castells/NC de/SP el/DA Gaià/NP són/VS un/DI conjunt/NC de/SP fortificacions/NC a/SP la/DA vall/NC de/SP Gaià/NP ,/FF a/SP el/DA Tarragonès/NP ,/FF l'/DA Alt_Camp/NP i/CC la/DA Conca_de_Barberà/NP ,/FF Catalunya/NP ./FF
+Castell_de_Tamarit/NP ;/FF Castell_d'_Altafulla/NP ;/FF Castell_de_Ferran/NP ;/FF Castell_de_Montoliu/NP ;/FF Castell_de_el_Catllar/NP a/SP El_Catllar/NP ;/FF Castell/NP de/SP la/DA Nou/AQ de/SP Gaià/NP ;/FF Castell_de_Vespella_de_Gaià/NP ;/FF Torre_de_el_Moro_de_Montferri/NP a/SP Montferri/NP ;/FF Castell_de_Rocamora/NP a/SP Montferri/NP ;/FF Castell_de_Rodonyà/NP ;/FF Castell_de_Vilardida/NP ;/FF Castell_de_la_Serra/NP ;/FF Castell_de_Vila-rodona/NP a/SP Vila-rodona/NP ;/FF Castell_de_Quadra_de_la_Cogullada/NP ;/FF Castell_de_el_Montmell/NP ;/FF Castell/NP de/SP l/NC Albà_Vell/NP a/SP Aiguamúrcia/NP ;/FF Castell_de_Selma/NP a/SP Aiguamúrcia/NP ;/FF Castell_de_Ramonet/NP a/SP Aiguamúrcia/NP ;/FF Castell_de_Montagut/NP a/SP Querol/NP ;/FF Castell_de_Pinyana/NP a/SP Querol/NP ;/FF Castell_de_Querol/NP a/SP Querol/NP ;/FF Castell_de_Selmella/NP a/SP El_Pont_d'_Armentera/NP ;/FF Castell_de_Saburella/NP a/SP Querol/NP ;/FF Castell_de_Vallespinosa/NP ;/FF Castell_de_Seguer/NP ;/FF Castell_de_Santa_Perpètua_de_Gaià/NP a/SP Pontils/NP ;/FF Castell_de_Montclar/NP a/SP Pontils/NP ;/FF Castell_de_Pontils/NP a/SP Pontils/NP ;/FF Castell_de_Biure/NP ;/FF Castell_de_les_Piles/NP ;/FF Castell_de_Guialmons/NP ;/FF Castell_de_Sant_Gallard/NP ;/FF Castell_de_Queralt/NP ;/FF Castell_de_Figuerola/NP ;/FF Castell_de_Santa_Coloma_de_Queralt/NP a/SP Santa_Coloma_de_Queralt/NP ;/FF Castell_de_Montargull/NP ;/FF Castell_de_Montfred/NP ;/FF Castell/NP d/AQ Aguiló/NP ;/FF Castell/NP d/AQ Almenara/NP ;/FF Vegeu/NP també/RG ./FF
+Monestir_de_Santes_Creus/NP ;/FF Enllaços/NP externs/AQ ./FF
+Castells_de_l'_Alt_Camp/NP ;/FF
+El/DA llavi/NC ,/FF llavi/NC inferior/AQ o/CC labium/NC és/VS la/DA més/RG posterior/AQ de/SP las/AQ peces/NC bucals/AQ de/SP els/DA insectes/NC i/CC alguns/DI miriàpodes/NC (/FF símfils/NC )/FF ./FF
+Se/P0 situa/VM darrera/AO les/DA maxil·les/NC i/CC representa/VM el/DA terra/NC de/SP la/DA boca/NC ./FF
+Usualment/RG du/VM un/DI parell/NC de/SP petits/AQ apèndixs/NC denominats/VM palps/NC labials/AQ ./FF
+El/DA llavi/NC és/VS una/DI peça/NC impar/VM resultat/NC de/SP la/DA fusió/NC de/SP dos/ZZ apèndixs/NC ,/FF el/DA segon/AO parell/NC de/SP maxil·les/NC ./FF
+Comprèn/VM les/DA següents/AQ parts/NC :/FF Mentum/NP ./FF
+Part/NC basal/AQ que/PR connecta/VM el/DA llavi/NC amb/SP la/DA càpsula/NC cefàlica/AQ ./FF
+Hipofaringe/NP ./FF
+Part/NC dorsal/AQ ./FF
+Paragloses/NP ./FF
+Part/NC apical/AQ ./FF
+Palps/NC labials/AQ ./FF
+Projeccions/NP laterals/AQ formades/VM por/NC diversos/DI artells/NC ./FF
+Xacona/NP ,/FF chaconne/AQ o/CC ciaccona/AQ ,/FF és/VS una/DI composició/NC instrumental/AQ que/PR ,/FF de/SP manera/NC inicial/AQ ,/FF fou/VS un/DI ball/NC popular/AQ d'/SP origen/NC hispànic/AQ ,/FF que/PR aparegué/VM a/SP el/DA segle_XVII/WW ,/FF anàloga/AQ a/SP el/DA passacaglia/NC ,/FF de/SP la/DA qual/PR es/P0 distingia/VM probablement/RG perquè/CS hom/PI mantenia/VM la/DA mateixa/DI tonalitat/NC en/SP les/DA diverses/DI variacions/NC sobre/SP el/DA baix/AQ obstinat/NC ./FF
+S'/P0 estengué/VM llavors/RG a/SP altres/DI països/NC d'/SP Europa/NP ,/FF transformant/VM -se/P0 en/SP un/DI ball/NC de/SP caràcter/NC noble/AQ interpretat/VM per/SP diversos/DI instruments/NC ,/FF en/SP orquestra/NC o/CC solistes/NC ,/FF esdevenint/VM una/DI peça/NC de/SP grans/AQ proporcions/NC ,/FF en/SP compàs/NC binari/AQ o/CC ternari/AQ ,/FF lenta/AQ i/CC solemne/AQ ,/FF basada/VM en/SP la/DA repetició/NC i/CC la/DA variació/NC d'/SP un/DI tema/NC comprenent/VM en_general/RG 4/ZZ o/CC 8/ZZ compassos/NC amb/SP recuperació/NC ./FF
+Entre/SP els/DA clàssics/NC ,/FF fou/VS conreada/VM per/SP Monteverdi/NP ,/FF Frescobaldi/NP ,/FF Rameau/NP ,/FF etc./FF Ha/VA esdevingut/VM especialment/RG coneguda/VM la/DA xacona/NC corresponent/AQ a/SP el/DA cinquè/AO moviment/NC de/SP la/DA Partita/NP per/SP a/SP violí/NC sol/AQ núm/NC ./FF 2/ZZ ,/FF BWV/NP 1004/ZZ ,/FF de/SP J.S._Bach/NP ,/FF reescrita/VM per/SP a/SP el/DA piano/NC per/SP Busoni/NP ./FF
+Joana_de_Lestonnac/NP va/VA néixer/VM i/CC es/P0 va/VA formar/VM en/SP una/DI família/NC benestant/AQ de/SP Bordeus/NP ./FF
+Era/VS filla/NC de/SP Ricard_de_Lestonnac/NP i/CC de/SP Joan_Eyquem/NP i/CC neboda/NC de/SP Michel_Montaigne/NP ,/FF famós/AQ filòsof/NC i/CC humanista/NC ./FF
+El/DA seu/PX pare/NC era/VS catòlic/AQ i/CC la/DA seva/PX mare/NC calvinista/AQ ./FF
+Ella/PP fou/VS educada/VM en/SP la/DA fe/NC catòlica/AQ ./FF
+Des_de/SP la/DA seva/PX infància/NC experimenta/VM una/DI profunda/AQ experiència/NC espiritual/AQ i/CC una/DI inclinació/NC per/SP la/DA vida/NC religiosa/AQ :/FF tingues/VM cura/NC ,/FF filla/NC meva/PX ,/FF de/SP no/RN deixar/VM apagar/VM aquesta/DD flama/NC que/PR he/VA encès/VM en/SP el/DA teu/PX cor/NC i/CC que/PR et/P0 mena/VM a/SP seguir/VM -me/P0 amb/SP un/DI desig/NC tan/RG ardent/AQ ./FF
+El/DA 1572/ZZ és/VS desposada/VM amb/SP Gaston_de_Monferrant/NP ,/FF baró/NC de/SP Landiràs/NP ,/FF amb/SP qui/PR tindrà/VM 7/ZZ fills/NC ./FF
+a/SP els/DA 41/ZZ anys/NC mor/VM el/DA seu/PX marit/NC ./FF 5/ZZ anys/NC després/RG ingressa/VM a/SP el/DA Monestir_de_les_Feullantines_de_Tolosa_de_Llenguadoc/NP ./FF
+Tanmateix/RG la/DA rigorositat/VM de/SP la/DA Regla/NP ultrapassa/VM les/DA seves/PX forces/NC i/CC ha/VA de/SP deixar/VM la/DA vida/NC monàstica/AQ ./FF
+Durant/SP aquests/DD anys/NC el/DA seu/PX projecte/NC va/VA prenent/VM formes/NC més/RG concretes/AQ ./FF
+En/SP un/DI somni/NC ,/FF anomenat/VM la/DA nit/NC de/SP el/DA Císter/NP ,/FF essent/VS encara/RG a/SP el/DA monestir/NC ,/FF entreveu/VM una/DI gran/AQ quantitat/NC de/SP noies/NC joves/AQ sense/SP rumb/NC per/SP manca/NC d'/SP ajuda/NC ./FF
+Després/RG de/SP deixar/VM la/DA vida/NC monàstica/AQ ella/PP es/P0 retira/VM a/SP el/DA Castell_de_la_Mothe/NP per/SP discernir/VM sobre/SP el/DA seu/PX futur/NC ./FF
+El/DA 1605/ZZ la/DA pesta/NC fa/VM estralls/NC a/SP Bordeus/NP ./FF
+Joana/NP es/P0 dedica/VM incansablement/RG a/SP l'/DA atenció/NC de/SP els/DA malalts/NC i/CC a/SP el/DA seu/PX voltant/NC comencen/VM a/SP ajuntar/VM -se/PP un/DI grup/NC de/SP noies/NC joves/AQ amb/SP semblant/AQ inquietud/NC ./FF
+La/DA relació/NC aleshores/RG amb/SP els/DA jesuïtes/NC esdevé/VM fonamental/AQ ,/FF donat/VM que/CS ells/PP també/RG viuen/VM la/DA preocupació/NC per/SP els/DA joves/NC ./FF
+L'/DA any/NC 1607/ZZ inicia/VM el/DA seu/PX camí/NC la/DA Companyia_de_Maria/NP amb/SP Joana_de_Lestonnac/NP a/SP el/DA davant/RG d'/SP una/DI comunitat/NC de/SP dones/NC apòstols/NC ,/FF que/PR harmonitzen/VM la/DA contemplació/NC i/CC la/DA dedicació/NC total/AQ a/SP l'/DA educació/NC de/SP la/DA dona/NC ./FF
+Maria/NP és/VS el/DA model/NC que/PR volen/VM imitar/VM i/CC posaran/VM sota/SP la/DA seva/PX protecció/NC el/DA nou/AQ institut/NC ./FF
+Les/DA fundacions/NC de/SP noves/AQ cases/NC s'/P0 entenen/VM ràpidament/RG per/SP tota/DI França/NP ./FF
+Treballadora/NP incansable/AQ ,/FF Joana/NP morirà/VM l'/DA any/NC 1640/ZZ ./FF
+Pius_XII/NP la/PP canonitzà/VM el/DA 1949/ZZ i/CC la/DA seva/PX festa/NC se/P0 celebra/VM el/DA dia_15_de_maig/WW ./FF
+El/DA 1650/ZZ la/DA Companyia/NP realitza/VM la/DA primera/AO fundació/NC fora_de/SP territori/NC francès/AQ ,/FF a/SP Barcelona/NP ./FF
+Hi/PP ha/VA presència/NC actualment/RG a/SP quatre/ZZ continents/NC ./FF
+El/DA gutxo/NC (/FF Centrophorus/NP uyato/NC )/FF és/VS una/DI espècie/NC de/SP tauró/NC que/PR viu/VM a/SP el/DA Carib/NP ,/FF a/SP l'/DA Atlàntic/NP occidental/AQ (/FF des_de/SP Groenlàndia/NP fins/SP a/SP Sud-Àfrica/NP )/FF ,/FF a/SP la/DA Mediterrània/NP occidental/AQ ,/FF a/SP l'/DA Oceà_Índic/NP i/CC a/SP les/DA costes/NC de/SP Nova_Zelanda/NP i/CC Taiwan/NP ./FF
+Descripció/NP ./FF
+Cos/NC fusiforme/AQ amb/SP el/DA musell/NC no/RN gaire/RG allargat/VM ./FF
+Dues/ZZ aletes/NC dorsals/AQ amb/SP espines/NC ./FF
+No/RN té/VM aleta/NC anal/AQ ni/CC membrana/NC nictitant/AQ ./FF
+Les/DA aletes/NC pectorals/AQ presenten/VM una/DI prolongació/NC allargada/NC de/SP l'/DA angle/NC intern/AQ ./FF
+Té/VM cinc/ZZ parells/NC de/SP fenedures/NC branquials/AQ ./FF
+Denticles/NC dèrmics/AQ espinosos/AQ i/CC irregularment/RG repartits/VM ./FF
+Color/NC terrós/AQ rogenc/AQ o/CC grisós/AQ ./FF
+Assoleix/VM una/DI longitud/NC màxima/AQ de/SP 100/ZZ cm./NC El/NP mascle/NC madura/AQ entre/SP els/DA 81/ZZ i/CC 94_cm/ZZ ,/FF i/CC la/DA femella/NC entre/SP els/DA 75/ZZ i/CC 89/ZZ cm./NC Hàbitat/NP ./FF
+Viu/VM a/SP la/DA zona/NC de/SP el/DA talús/NC continental/AQ ,/FF sobre/SP els/DA fons/NC durs/AQ entre/SP els/DA 50/ZZ i/CC 1.400_m/ZZ de/SP profunditat/NC ,/FF més/RG freqüentment/RG a/SP els/DA 200_m/ZZ ./FF
+Alimentació/NP ./FF
+Menja/NP peixos/NC ossis/AQ i/CC petits/AQ invertebrats/NC bentònics/AQ i/CC demersals/AQ i/CC també/RG calamars/NC ./FF
+Reproducció/NP ./FF
+És/VS ovovivípar/AQ aplacentari/AQ ./FF
+La/DA femella/NC generalment/RG pareix/VM només/RG un/DI exemplar/NC per/SP ventrada/NC ,/FF que/PR pot/VM fer/VM entre/SP 40/ZZ i/CC 50_cm/ZZ de/SP longitud/NC total/AQ ./FF
+Aprofitament/NP ./FF
+Espècie/NP sense/SP interès/NC comercial/AQ ,/FF encara/RG que/CS pot/VM tindre/VM potencialment/RG una/DI certa/DI importància/NC econòmica/AQ per/SP la/DA gran/AQ quantitat/NC d'/SP esqualè/NC que/PR conté/VM el/DA fetge/NC ./FF
+Referències/NP ./FF
+Barrull/NP ,/FF Joan/NP i/CC Mate/NP ,/FF Isabel/NP :/FF Els/DA taurons/NC de/SP els/DA Països_Catalans/NP ./FF
+Editorial_Pòrtic/NP ,/FF S.A._Col/NP ./FF
+Conèixer/VM la/DA natura/NC ,/FF núm/NC ./FF 14/ZZ ./FF
+Barcelona/NP ,/FF març_del_1996/WW ./FF
+ISBN/NP 84-7306-920-X/ZZ ./FF
+Plana/NP 83/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+;/FF Àmplia/NP informació/NC sobre/SP aquesta/DD espècie/NC de/SP tauró/NC ./FF ;/FF Informació/NP taxonòmica/AQ sobre/SP el/DA gutxo/NC ./FF ;/FF
+Lord_Protector/NP és/VS un/DI títol/NC britànic/AQ per/SP a/SP els/DA caps_d'_estat/NC ,/FF amb/SP dos/ZZ significats/NC i/CC estils/NC distints/AQ en/SP diferents/DI moments/NC de/SP la/DA història/NC ./FF
+Regent/NC reial/AQ feudal/AQ ./FF
+El/DA títol/NC de/SP Lord_Protector/NP es/P0 va/VA usar/VM originalment/RG per/SP part/NC de/SP prínceps/NC reals/AQ o/CC altres/DI nobles/NC en/SP l'/DA exercici/NC d'/SP una/DI regència/NC individual/AQ (/FF és/VS a/SP dir/VM ,/FF que/CS no/RN formessin_part/VM d'/SP un/DI Consell_de_Regència/NP )/FF mentre/CS el/DA legítim/AQ rei/NC d'/SP Anglaterra/NP fos/VS menor/AQ d'/SP edat/NC o/CC no/RN estigués/VM en/SP situació/NC de/SP regnar/VM ./FF
+Exemples/NP notables/AQ d'/SP aquest/DD tipus/NC de/SP Lord_Protector/NP són/VS :/FF a/SP el/DA Regne_d'_Anglaterra/NP :/FF Joan_de_Bedford/NP i/CC Humphrey_de_Gloucester/NP ,/FF entre/SP desembre_de_1422/WW i/CC novembre_de_1429/WW durant/SP la/DA malaltia/NC mental/AQ d'/SP Enric_VI/NP ./FF
+Ricard_Plantegenet/NP en/SP els/DA períodes/NC 1454-1455/ZZ i/CC 1455-1456/ZZ ,/FF durant/SP la/DA malaltia/NC mental/AQ d'/SP Enric_VI/NP ./FF
+Ricard_de_Gloucester/NP ,/FF que/PR va/VA ser/VS Lord_Protector/NP de/SP el/DA regne/NC entre/SP abril/WW i/CC juny_de_1483/WW durant/SP el/DA regnat/NC nominal/AQ d'/SP Eduard_V/NP abans/RG d'/SP usurpar/VM el/DA tron/NC ell/PP mateix/PI ./FF ;/FF Eduard_Seymour/NP ,/FF 1r/AO Duc_de_Somerset/NP ,/FF que/PR va/VA ser/VS Lord_Protector/NP durant/SP els/DA primers/AO anys/NC de/SP regnat/NC de/SP el/DA jove/NC Eduard_VI/NP ./FF ;/FF a/SP el/DA Regne_d'_Escòcia/NP :/FF John_Stuart/NP ,/FF duc/NC d'/SP Albany/NP ,/FF que/PR fou/VS Governador/NP i/CC Protector_de_el_Reialme/NP entre/SP 1515/ZZ i/CC 1524/ZZ durant/SP el/DA regnat/NC de/SP Jaume_V._James_Hamilton/NP ,/FF que/PR fou/VS Governador/NP i/CC Protector_de_el_Reialme/NP entre/SP 1543/ZZ i/CC 1554/ZZ durant/SP el/DA regnat/NC de/SP Maria_d'_Escòcia/NP ./FF
+La/DA república/NC de/SP Cromwell/NP ./FF
+Lord_Protector_de_la_Commonwealth_d'_Anglaterra/NP ,/FF Escòcia/NP i/CC Irlanda/NP va/VA ser/VS el/DA títol/NC de/SP el/DA cap/NC de/SP l'/DA estat/NC durant/SP El_Protectorat_de_l'

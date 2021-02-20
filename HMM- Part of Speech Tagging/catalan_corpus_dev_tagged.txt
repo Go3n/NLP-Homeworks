@@ -3266,4 +3266,81 @@ Van/VA transcórrer/VM els/DA anys/NC i/CC els/DA terrenys/NC adquirits/VM van/V
 la/DA temporada/NC 1985-86/ZZ el/DA Club_Esportiu_Castelló/NP es/P0 trobava/VM lluitant/VM per/SP ascendir/VM a/SP primera/AO divisió/NC a/SP el/DA costat/NC de/SP el/DA Real_Murcia/NP ,/FF Mallorca/NP ,/FF Elx/NP i/CC Sabadell/NP ./FF
 Amb/SP motiu/NC d'/SP un/DI partit/NC en/SP el/DA Mini_Estadi_de_Barcelona/NP a/SP el/DA que/PR es/P0 van/VA desplaçar/VM molts/DI afeccionats/NC albinegres/AQ ,/FF el/DA pensament/NC va/VA ser/VS unànime/AQ a/SP el/DA reconèixer/VM a/SP l'/DA estadi/NC blaugrana/AQ com/CS un/DI bon/AQ model/NC per/SP a/SP un/DI futur/AQ estadi/NC castellonenc/AQ ,/FF i/CC així/RG es/P0 va/VA fer/VM ./FF
 Prenent/VM com/CS model/VM el/DA Mini_Estadi_de_el_FC_Barcelona/NP ,/FF i/CC pensant/VM en/SP triar/VM l'/DA orientació/NC de/SP el/DA nou/AQ estadi/NC (/FF la/DA majoria/NC d'/SP estadis/NC estan/VM orientats/VM Nord-Sud/NP i/CC el/DA vell/NC Castàlia/NP ho/PP estava/VM Est-Oest/NP )/FF ,/FF van/VA començar/VM les/DA obres/NC el/DA 5_d'_agost_de_1986/WW ./FF
-El/DA nou/AQ estadi/NC h
+El/DA nou/AQ estadi/NC havia/VA d'/SP estar/VM construït/VM en/SP 10_mesos/ZZ i/CC el/DA pressupost/NC era/VS de/SP 350_milions_de_pessetes/ZZ ,/FF a/SP sufragar/VM entre/SP la/DA Generalitat_Valenciana/NP ,/FF l'/DA Ajuntament_de_Castelló/NP i/CC la/DA Diputació_de_Castelló/NP ./FF
+L'/DA arquitecte/NC va/VA ser/VS En_Joaquín_Llençat/NP i/CC l'/DA empresa/NC encarregada/NC de/SP la/DA seua/PX construcció/NC va/VA ser/VS Huarte/NP i/CC Cia._La/NP similitud/NC amb/SP el/DA miniestadi/NC blaugrana/AQ no/RN va/VA ser/VS total/AQ ,/FF atès/VM que/CS per/SP el/DA nord/NC es/P0 xocava/VM amb/SP la/DA piscina/NC coberta/NC i/CC per/SP el/DA sud/NC amb/SP el/DA carrer/NC Osca/NP ,/FF però/CC el/DA model/NC és/VS molt/RG semblant/AQ ./FF
+de/SP els/DA 350_milions/ZZ pressupostats/VM es/P0 va/VA passar/VM a/SP 500/ZZ ,/FF ja_que/CS es/P0 van/VA introduir/VM millores/NC en/SP nombrosos/AQ aspectes/NC de/SP l'/DA estadi/NC com/CS les/DA torres/NC de/SP llum/NC i/CC les/DA butaques/NC blanques/AQ i/CC negres/AQ ,/FF que/CS en/SP el/DA projecte/NC inicial/AQ no/RN constaven/VM (/FF en/SP la/DA maqueta/NC que/PR encara/RG es/P0 conserva/VM no/RN estan/VM )/FF ./FF
+Per/SP fi/NC ,/FF el/DA 17_de_juny_de_1987/WW ,/FF es/P0 va/VA inaugurar/VM el/DA nou/AQ estadi/NC albinegre/NC ,/FF amb/SP una/DI sèrie/NC d'/SP actes/NC com/CS l'/DA actuació/NC de/SP Danses_de_Castelló/NP i/CC Colla_de_Dolçainers/NP ,/FF imposició/NC de/SP la/DA insígnia/NC d'/SP Or/NP i/CC brillants/AQ a/SP el/DA batlle/NC de/SP la/DA ciutat/NC ,/FF En_Antonio_Llençat/NP (/FF que/PR va/VA ser/VS un/DI de/SP els/DA màxims/AQ impulsors/NC de/SP el/DA projecte/NC )/FF ,/FF presència/NC de/SP els/DA jugadors/NC que/PR van/VA inaugurar/VM el/DA vell/AQ estadi/NC Castàlia/NP ,/FF un/DI espectacle/NC de/SP focs/NC artificials/AQ i/CC l'/DA esperat/VM partit/NC de/SP futbol/NC entre/SP el/DA CE_Castelló/NP i/CC l'/DA Atlètic_de_Madrid/NP ./FF
+El/DA primer/AO gol/NC albinegre/NC ho/PP va/VA aconseguir/VM l'/DA iugoslau/NC Zlatan/NP ,/FF futbolista/NC que/PR va/VA arribar/VM a/SP mitjan/VM temporada/NC com/CS a/SP reforç/NC ./FF
+Remodelacions/NP ./FF
+L'/DA estadi/NC va/VA ser/VS inaugurat/VM amb/SP una/DI capacitat/NC per/SP a/SP 15.000/ZZ localitats/NC (/FF tots/NC //FF es/P0 asseguts/VM //FF es/P0 )/FF ./FF
+La/DA temporada/NC 1988/89/ZZ ,/FF un/DI altre/DI ascens/NC a/SP primera/AO divisió/NC incrementà/VM l'/DA aforamet/VM fins/SP a/SP 18.000/ZZ espectadors/NC //FF es/P0 ./FF
+L'/DA última/AO reforma/NC de/SP 1996/ZZ ,/FF per/SP motiu/NC d'/SP un/DI encontre/NC internacional/AQ de/SP la/DA selecció/NC espanyola/AQ sub-21/ZZ a/SP l'/DA estadi/NC Castàlia/NP ,/FF fixà/VM l'/DA aforament/NC en/SP la/DA cifra/NC actual/AQ de/SP 14.485/ZZ espectadors/NC //FF es/P0 ./FF
+Enllaços_Externs/NP ./FF
+Pàgina/NP web/NC oficial/AQ de/SP el/DA CE_Castelló/NP ;/FF
+Joan_Matamala/NP i/CC Flotats/NP ./FF
+Gràcia/NP ,/FF 1893/ZZ -/FF Barcelona/NP ,/FF 1977/ZZ ./FF
+Fou/VS un/DI escultor/NC català/AQ ,/FF fill/NC de/SP el/DA també/RG escultor/NC Llorenç_Matamala/NP i/CC Piñol/NP i/CC nét/NC i/CC deixeble/NC de/SP Joan_Flotats/NP ./FF
+Es/P0 va/VA formar/VM a/SP l'/DA Escola_de_la_Llotja/NP (/FF 1910/ZZ )/FF ./FF
+Va/VA treballar/VM d'/SP aprenent/NC a/SP el/DA taller/NC de/SP la/DA Sagrada_Família/NP i/CC ,/FF a/SP el/DA morir/VM el/DA seu/PX pare/NC ,/FF va/VA acabar/VM la/DA part/NC escultòrica/AQ de/SP la/DA façana/NC de/SP el/DA Naixement/NP ./FF
+Va/VA destacar/VM com/CS a/SP retratista/NC ,/FF fent/VM exposicions/NC individuals/AQ des_de/SP 1920/ZZ a/SP Barcelona/NP ,/FF Girona/NP i/CC Reus/NP ./FF
+Conreà/VM també/RG la/DA pintura/NC ./FF
+Va/VA reunir/VM un/DI important/AQ arxiu/NC documental/AQ i/CC gràfic/AQ sobre/SP Antoni_Gaudí/NP ,/FF que/PR va/VA cedir/VM l'/DA any/NC 1972/ZZ a/SP la/DA Càtedra_Gaudí/NP ,/FF i/CC fou/VS autor/NC d'/SP una/DI Història_de_la_Sagrada_Família/NP ./FF
+Henri_Duez/NP (/FF La/DA Comté/NP ,/FF 18_de_desembre_de_1937/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/CS fou/VS professional/AQ entre/SP 1960/ZZ i/CC 1967/ZZ ,/FF sempre/RG sota/SP les/DA ordres/NC de/SP l'/DA equip/NC Peugeot/NP ./FF
+Durant/SP la/DA seva/PX carrera/NC aconseguí/VM 4/ZZ victòries/NC ,/FF entre/SP elles/PP la/DA Volta/NP a/SP Catalunya/NP de/SP 1961/ZZ ./FF
+Palmarès/NP ./FF
+1961/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP i/CC vencedor/AQ d'/SP una/DI etapa/NC ;/FF 1962/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Critèrium_de_el_Dauphiné_Libéré/NP ;/FF 1965/ZZ ;/FF 1r/AO a/SP Lubersac/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1961/ZZ ./FF
+Abandona/VM (/FF 2a/ZZ etapa/NC )/FF ;/FF 1962/ZZ ./FF
+Abandona/VM (/FF 5a/ZZ etapa/NC )/FF ;/FF 1963/ZZ ./FF 26è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1964/ZZ ./FF 18è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1965/ZZ ./FF 14è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1966/ZZ ./FF 51è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_d'_Henri_Duez/NP ;/FF Fitxa_d'_Henri_Duez/NP a/SP sitiodeciclismo/NC ./FF net/AQ ;/FF
+L'/DA Olmeca/NP reflexa/AQ és/VS una/DI espècie/NC de/SP plantes/NC de/SP canyes/NC de/SP bambú/NC gegant/AQ ,/FF de/SP el/DA gènere/NC Olmeca/NP ,/FF de/SP la/DA família/NC de/SP les/DA poaceae/NC ,/FF ordre/NC Poales/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+D'/SP àmbit/NC tropical/AQ ,/FF aquesta/DD espècie/NC de/SP bambú/NC de/SP fruits/NC carnosos/AQ es/P0 troba/VM en/SP els/DA estats/NC mexicans/AQ de/SP Veracruz/NP ,/FF Oaxaca/NP i/CC Chiapas/NP ./FF
+Creix/NP entre/SP els/DA sis/NC i/CC els/DA dotze_metres/ZZ d'/SP alçada/NC i/CC fa/VM uns/DI dos_centímetres/ZZ de/SP diàmetre/NC ./FF
+Les/DA seves/PX arrels/NC pogen/NC engendrar/VM nous/AQ troncs/NC fins/SP a/SP vuit_metres/ZZ de/SP distància/NC de/SP la/DA planta/NC mare/NC ./FF
+Enllaços/NP ./FF
+Lolmeca/NP reflexa/AQ a/SP la/DA GrassBase/NP ;/FF
+Advanced_Streaming_Format/NP (/FF o/CC ASF/NP ,/FF més/RG tard/RG anomenat/VM Advanced_Systems_Format/NP )/FF és/VS un/DI contenidor/NC multimedia/VM d'/SP àudio/NC i/CC vídeo/NC digital/AQ propietat/NC de/SP Microsoft/NP ,/FF disenyat/VM especialment/RG per/SP a/SP streaming/NC ./FF
+El/DA format/NC no/RN especifica/VM com_cal/RG ser/VS codificat/VM el/DA video/NC o/CC audio/NC ,/FF en/SP comptes/NC d'/SP aixó/NC només/RG especifica/VM l'/DA estructura/NC de/SP el/DA fluxe/NC de/SP video/NC //FF audio/NC ./FF
+Aixó/NP no/RN vol/VM dir/VM que/CS els/DA arxius/NC ASF/NP puguin/VM codificar/VM -se/P0 amb/SP pràcticament/RG qualsevol/DI codec/NC d'/SP audio/NC //FF video/NC sense/SP que/PR deixi/VM de/SP ser/VS format/VM ASF/NP ./FF
+Aquesta/DD funció/NC és/VS similar/AQ a/SP la/DA portada/NC a/SP cap/NC per/SP els/DA formats/NC QuickTime/NP ,/FF AVI/NP o/CC Ogg/NP ./FF
+Els/DA tipus/NC d'/SP arxiu/NC més/RG comuns/AQ contingus/NC a/SP un/DI arxiu/NC ASF/NP són/VS Windows_Media_Audio/NP (/FF WMA/NP )/FF i/CC Windows_Media_Video/NP (/FF WMV/NP )/FF ./FF
+Els/DA arxius/NC que/PR contenen/VM només/RG audio/NC WMA/NP poden/VM ser/VS anomenats/VM emprant/VM l'/DA extensió/NC ./FF wma/NC ,/FF i/CC els/DA arxius/NC que/PR només/RG porten/VM video/NC acostumen/VM a/SP portar/VM la/DA extensió/NC ./FF wmv/NC ./FF
+De/SP tota/DI manear/VM ,/FF tos/VM dos/ZZ poden/VM utilitzar/VM la/DA extensió/NC ./FF asf/NC si/CS així/RG es/P0 desitja/VM ./FF
+Aquest/DD format/NC es/P0 confon/VM sovint/RG amb/SP la/DA implementació/NC de/SP Microsoft/NP de/SP el/DA format/NC de/SP video/NC MPEG/NP -/FF 4/ZZ (/FF Windows_Media_Video/NP )/FF ,/FF perquè/CS la/DA major/AQ part/NC de/SP els/DA fluxos/NC o/CC arxius/NC ASF/NP es/P0 codifiquen/VM usant/VM aquest/DD còdec/NC ./FF
+El/DA perèion/NC es/P0 un/DI tagma/NC o/CC regió/NC de/SP el/DA cos/NC de/SP els/DA crustacis/NC ,/FF i/CC fa_referència/VM a/SP el/DA conjunt/NC de/SP toracòmers/NC (/FF segments/NC de/SP el/DA tòrax/NC )/FF lliures/AQ ,/FF no/RN fusionats/VM amb/SP el/DA cap/NC ./FF ./FF
+Els/DA segments/NC que/PR integren/VM el/DA perèion/NC reben/VM el/DA nom/NC de/SP pereionites/NC o/CC pereiòmers/AQ ,/FF i/CC els/DA seus/PX apèndixs/NC es/P0 denominen/VM pereiopodis/NC ./FF
+Els/DA termes/NC perèion/AQ i/CC tòrax/NC son/NC similars/AQ ,/FF i/CC sovint/RG es/P0 confonen/VM ;/FF poden/VM ser/VS equivalents/AQ ,/FF però/CC sovint/RG no/RN ho/PP són/VS perquè/CS els/DA primers/AO segments/NC toràcics/AQ tenen/VM tendència/NC a/SP fusionar/VM -se/P0 amb/SP el/DA cap/NC ;/FF així/RG ,/FF el/DA terme/NC perèion/AQ se/P0 reserva/VM per/SP a/SP el/DA conjunt/NC de/SP segments/NC lliures/AQ ./FF
+No/RN obstant/VM això/PD ,/FF alguns/DI autors/NC no/RN diferencien/VM entre/SP tòrax/NC i/CC perèion/NC ./FF
+Per_exemple/RG ,/FF els/DA malacostracis/NC tenen/VM un/DI tòrax/NC format/NC por/NC 8/ZZ segments/NC o/CC toracòmers/AQ ,/FF de/SP els/DA qual/PR ,/FF 0/ZZ ,/FF 1/ZZ ,/FF 2/ZZ o/CC 3/ZZ es/P0 fusionen/VM amb/SP el/DA cap/NC i/CC els/DA seus/PX apèndixs/NC respectius/AQ es/P0 transformen/VM en/SP maxil·lípedes/NC (/FF potes/NC amb/SP funcions/NC tròfiques/AQ )/FF ./FF
+Així/RG ,/FF malgrat_que/CS tots/DI els/DA malacostracis/NC tenen/VM 8/ZZ segments/NC toràcics/AQ ,/FF el/DA seu/PX perèion/NC pot/VM tenir/VM 8/ZZ ,/FF 7/ZZ ,/FF 6/ZZ o/CC 5/ZZ segments/NC o/CC pereionites/NC ./FF
+Referències/NP ./FF
+LOL/NP (/FF música/NC )/FF ,/FF treball/NC de/SP el/DA grup/NC Basshunter/NP ./FF
+LOL/NP (/FF internet/NC )/FF ,/FF terme/NC usat/VM en/SP l'/DA argot/NC d'/SP internet/NC ./FF
+LOL/NP (/FF acrònim/NC ,/FF també/RG escrit/NC lol/AQ o/CC amb/SP altres/DI variacions/NC )/FF és/VS un/DI terme/NC de/SP l'/DA argot/NC d'/SP internet/NC que/PR significa/VM ,/FF en/SP anglès/NC ,/FF "/FF Laughing_Out_Loud/NP "/FF ,/FF també/RG "/FF Lot_Of_Laughs/NP "/FF i/CC "/FF Loser_On_Line/NP "/FF ,/FF és/VS a/SP dir/VM ,/FF rient/AQ molt/RG fort/AQ ,/FF moltes/DI rialles/NC i/CC perdedor/AQ en/SP línia/NC ,/FF respectivament/RG ./FF
+Isidre_Puig/NP i/CC Boada/NP (/FF Barcelona/NP ,/FF 1891/ZZ -/FF 1987/ZZ )/FF fou/VS un/DI arquitecte/NC català/AQ ./FF
+Titulat/VM l'/DA any/NC 1915/ZZ ./FF
+Va/VA ser/VS deixeble/NC d'/SP Antoni_Gaudí/NP ,/FF amb/SP el/DA qual/PR va/VA col·laborar/VM a/SP el/DA temple/NC de/SP la/DA Sagrada_Família/NP ,/FF de/SP la/DA qual/PR va/VA ser/VS codirector/AQ de/SP les/DA obres/NC durant/SP els/DA anys/NC 1950/ZZ ./FF
+En_col·laboració_amb/SP Francesc_de_Paula_Quintana/NP i/CC Vidal/NP i/CC Lluís_Bonet/NP i/CC Garí/NP es/P0 van/VA encarregar/VM de/SP la/DA nova/AQ façana/NC de/SP la/DA Passió/NP ./FF
+Autor/NP de/SP diversos/DI edificis/NC civils/AQ a/SP Barcelona/NP i/CC Blanes/NP ,/FF i/CC d'/SP esglésies/NC a/SP Mollerussa/NP ,/FF Pujalt/NP ,/FF Balaguer/NP ,/FF Artesa_de_Segre/NP ,/FF Térmens/NP i/CC Palau_de_Plegamans/NP ./FF
+Va/VA restaurar/VM la/DA Catedral_de_Solsona/NP ,/FF on/PR va/VA construir/VM el/DA seminari/NC major/AQ ./FF
+Obres/NC escrites/NC ./FF
+El/DA Temple_de_la_Sagrada_Família/NP (/FF 1929/ZZ )/FF ;/FF L'/NP església/NC de/SP la/DA Colònia_Güell/NP ;/FF El/NP pensament/NC de/SP GaudíCompilació/NP de/SP textos/NC i/CC comentaris/NC ./FF
+Publicacions_de_el_Col·legi_d'_Arquitectes_de_Catalunya/NP ,/FF Barcelona/NP (/FF 1981/ZZ )/FF ./FF
+Antoni_Ribas_Prats/NP va/VA néixer/VM a/SP Palma/NP el/DA 1883/ZZ i/CC va/VA morir/VM a/SP Deià/NP el/DA 1931/ZZ ;/FF descansa/VM en/SP el/DA cementiri/NC d'/SP aquesta/DD vila/NC ./FF
+Fou/VS pintor/NC ,/FF fill/NC de/SP n'/DA Antoni_Ribas_Oliver/NP ./FF
+Va/VA estudiar/VM a/SP l'/DA Escola_de_Belles_Arts_de_Palma/NP ./FF
+Va/VA exposar/VM les/DA seves/PX obres/NC a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+La/DA seva/PX obra/NC ,/FF d'/SP estil/NC impressionista/AQ està/VM basada/VM sobretot/RG en/SP el/DA paisatge/NC de/SP Deià/NP i/CC de/SP el/DA seu/PX entorn/NC ./FF
+Emilio_Rodríguez_Barros/NP (/FF Ponteareas/NP ,/FF 28_de_novembre_de_1923/WW )/FF va/VA ser/VS un/DI ciclista/NC espanyol/AQ ,/FF que/PR va/VA córrer/VM entre/SP 1946/ZZ i/CC 1958/ZZ ./FF
+Va/VA pertànyer/VM a/SP una/DI família/NC de/SP tradició/NC ciclista/AQ en/SP la/DA qual/PR també/RG foren/VS professionals/AQ els/DA seus/PX germans/NC Delio/NP ,/FF Manuel/NP i/CC Pastor/NP ./FF
+El/DA seu/PX major/AQ èxit/NC esportiu/AQ l'/PP aconseguí/VM el/DA 1950/ZZ ,/FF en/SP adjudicar/VM -se/PP la/DA Volta_Ciclista/NP a/SP Espanya/NP ,/FF a/SP més/RG de/SP cinc/ZZ triomfs/NC d'/SP etapa/NC i/CC la/DA classificació/NC de/SP la/DA muntanya/NC ,/FF la/DA qual/PR ja/RG havia/VA guanyat/VM en/SP les/DA edicions/NC de/SP 1946/ZZ i/CC 1947/ZZ ./FF
+Fou/VS un/DI cop/NC campió/NC d'/SP Espanya/NP en/SP ruta/NC i/CC guanyà/VM dues/ZZ vegades/NC la/DA Volta/NP a/SP Catalunya/NP ./FF
+Palmarès/NP ./FF
+1946/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Galícia/NP ;/FF 1r/AO de/SP el/DA Gran_Premi_de_la_Muntanya_de_la_Volta/NP a/SP Espanya/NP ;/FF 1947/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Galícia/NP ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Astúries/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Espanya/NP i/CC 1r/ZZ de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Burgos/NP ;/FF 1948/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Llevant/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Gran_Premi_Marca/NP ;/FF 1950/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Espanya/NP ,/FF vencedor/AQ de/SP 5/ZZ etapes/NC i/CC 1r/ZZ de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1954/ZZ ;/FF Campió_d'_Espanya/NP en/SP ruta/NC ;/FF 1955/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Galícia/NP ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1946/ZZ ./FF 8è/AO de/SP la/DA classificació/NC general/AQ ./FF 1r/AO de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1947/ZZ ./FF 47/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ./FF 1r/AO de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1948/ZZ ./FF 2n/AO de/SP la/DA classificació/NC general/AQ ;/FF 1950/ZZ ./FF 1r/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP de/SP 5/ZZ etapes/NC ./FF 1r/AO de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1955/ZZ ./FF 24è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1956/ZZ ./FF 11è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1957/ZZ ./FF 42è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1949/ZZ ./FF
+Abandona/VM (/FF 5a/ZZ etapa/NC )/FF ;/FF 1951/ZZ ./FF
+Abandona/VM (/FF 2a/ZZ etapa/NC )/FF ;/FF 1954/ZZ ./FF 43è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Enllaços/NP externs/AQ ./FF
+Pa

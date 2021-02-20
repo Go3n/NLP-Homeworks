@@ -3182,4 +3182,88 @@ Palmarès_de_Joseph_Novales/NP ;/FF
 This/NP is/NC England/NP és/VS una/DI pel·lícula/NC de/SP cinema/NC independent/AQ ambientada/VM en/SP els/DA anys/NC vuitanta/ZZ ./FF
 Sinopsi/NP ./FF
 És/VS la/DA història/NC d'/SP unes/DI vacances/NC escolars/AQ ,/FF aquelles/DD llargues/AQ setmanes/NC d'/SP estiu/NC que/PR transcorren/VM entre/SP un/DI curs/NC escolar/AQ i/CC l'/DA altre/PI ,/FF quan/PR poden/VM produir/VM -se/P0 esdeveniments/NC que/PR marquen/VM un/DI canvi/NC a/SP la/DA vida/NC ./FF
-Estem/VM a/SP el/DA 1983/ZZ ,/FF durant/SP l'/DA època/NC de/SP la/DA dama/NC de/SP ferro/NC i/CC els/DA alts/A
+Estem/VM a/SP el/DA 1983/ZZ ,/FF durant/SP l'/DA època/NC de/SP la/DA dama/NC de/SP ferro/NC i/CC els/DA alts/AQ índex/NC d'/SP atur/NC ./FF
+Les/DA escoles/NC estan/VM de/SP vacances/NC ./FF
+Shaun/NP ,/FF (/FF Thomas_Turgoose/NP )/FF que/PR té/VM 12/ZZ anys/NC ,/FF és/VS un/DI nen/NC solitari/AQ que/PR creix/VM en/SP un/DI poble/NC costaner/AQ molt/RG gris/AQ ,/FF el/DA pare/NC de/SP el/DA qual/PR ha/VA mort/VM en/SP combat/NC a/SP la/DA guerra/NC de/SP les/DA Malvines/NP ./FF
+Durant/SP les/DA vacances/NC ,/FF troba/VM nous/AQ models/NC masculins/AQ quan/CS l/NC '/FF "/FF adopten/VM "/FF els/DA skinheads/NC de/SP el/DA poble/NC ./FF
+Amb/SP els/DA seus/PX nous/AQ amics/NC ,/FF Shaun/NP descobreix/VM un/DI món/NC de/SP festes/NC ,/FF coneix/VM el/DA seu/PX primer/AO amor/NC i/CC descobreix/VM els/DA encants/NC de/SP les/DA botes/NC Dr._Martins/NP ./FF
+És/VS llavors/NC quan/PR coneix/VM a/SP Combo/NP (/FF Stephen_Graham/NP )/FF un/DI skin/VM racista/AQ ,/FF més/RG gran/AQ que/CS ell/PP ,/FF que/PR acaba/VM de/SP sortir/VM de/SP la/DA presó/NC ./FF
+Mentre/CS la/DA banda/NC d'/SP en/SP Combo/NP acosa/NC les/DA minories/NC ètniques/AQ locals/AQ ,/FF tot/RG sembla/VM preparat/VM per/SP a/SP l'/DA arrancada/VM d'/SP un/DI procés/NC de/SP maduració/NC que/PR durà/VM en/SP Shaun/NP de/SP la/DA innocència/NC a/SP l'/DA experiència/NC ./FF
+L'/DA Arundinaria/NP pumila/NC ,/FF és/VS una/DI espècie/NC de/SP bambú/NC ,/FF de/SP el/DA gènere/NC Arundinaria/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+La/DA seva/PX classificació/NC taxonòmica/AQ ,/FF i/CC el/DA nom/NC científic/AQ en_conseqüència/RG ,/FF ha/VA estat/VS controvertida/VM ,/FF dins/RG de/SP el/DA procés/NC general/AQ que/PR afectat/VM totes/DI les/DA arundinàries/AQ :/FF alguns/DI autors/NC ,/FF doncs/RG ,/FF l'/DA anomenen/VM Pleioblastus/NP humilis/NC i/CC Pleioblastus/NP pumilis/NC (/FF (/FF Mitford/NP ./FF )/FF Nakai/NP )/FF ,/FF Pleioblastus/NP humilis/NC pumilus/AQ (/FF (/FF Mitford/NP ./FF )/FF D._McClintock/NP ./FF )/FF o/CC Sasa/NP pumila/NC (/FF (/FF Mitford/NP ./FF )/FF A._Camus/NP )/FF i/CC la/DA situen/VM en/SP altres/DI gèneres/NC ./FF
+Nativa_de_l'_Àsia/NP (/FF Japó/NP )/FF :/FF Honsh/NP ,/FF Ky/NP sh/NC ,/FF Shikoku/NP ./FF
+Descripció/NP ./FF
+Creix/NP entre/VM un/DI i/CC tres_metres/ZZ ./FF
+És/VS una/DI planta/NC perenne/AQ ,/FF amb/SP flors/NC hermafrodites/AQ i/CC pol·linitzades/VM per/SP el/DA vent/NC ;/FF floreix/VM amb/SP intervals/NC de/SP molts/DI anys/NC ./FF
+El/DA seu/PX extens/AQ sistema/NC d'/SP arrels/NC en/SP fa/VM una/DI bona/AQ eina/NC en/SP la/DA lluita/NC contra/SP l'/DA erosió/NC de/SP el/DA sòl/NC ./FF
+Enllaços/NP ./FF
+Usos/NP de/SP el/DA bambú/NC ;/FF
+Joseph_Carrara/NP (/FF Hauteville/NP ,/FF 9_de_març_de_1938/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/CS fou/VS professional/AQ entre/SP 1958/ZZ i/CC 1966/ZZ ./FF
+Va/VA aconseguir/VM 8/ZZ victòries/NC durant/SP la/DA seva/PX carrera/NC esportiva/AQ ,/FF entre/SP les/DA que/PR destaca/VM la/DA Volta/NP a/SP Catalunya/NP de/SP 1964/ZZ i/CC una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP de/SP 1962/ZZ ./FF
+Palmarès/NP ./FF
+1958/ZZ ;/FF 1r/AO a/SP Lubersac/NP ;/FF 1961/ZZ ;/FF 1r/AO a/SP la/DA Annemasse-Bellegarde-Annemasse/NP ;/FF 1962/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Gran_Premi_de_Fourmies/NP ;/FF 1963/ZZ ;/FF 1r/AO a/SP el/DA Gran_Premi_d'_Antibes/NP ;/FF 1964/ZZ ;/FF 1r/AO de/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1r/AO a/SP el/DA Gran_Premi_de_Thizy/NP ;/FF 1965/ZZ ;/FF 1r/AO a/SP Auxerre/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1962/ZZ ./FF
+Abandona/VM ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1962/ZZ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Joseph_Carrara/NP ;/FF
+Nevermore/NP ,/FF o/CC Nevermore_O_Taïti/NP ,/FF és/VS un/DI quadre/NC de/SP Paul_Gauguin/NP fet/VM el/DA 1897/ZZ durant/SP la/DA seva/PX segona/AO estada/NC a/SP Tahití/NP ./FF
+Es/P0 conserva/VM a/SP la/DA galeria/NC de/SP el/DA Courtauld_Institute/NP of/NC Art_de_Londres/NP ./FF
+Es/P0 coneix/VM per/SP la/DA referència/NC núm/NC ./FF 558/ZZ de/SP el/DA catàleg/NC de/SP Wildenstein/NP ./FF
+Una/DI noia/NC tahitiana/AQ jeu/VM sobre/SP el/DA seu/PX costat/NC esquerra/AQ de/SP cara/NC a/SP l'/DA espectador/NC amb/SP la/DA mirada/NC cap/NC amunt/RG ,/FF a/SP la/DA seva/PX dreta/NC ./FF
+a/SP el/DA darrera/AO hi/PP ha/VA una/DI decoració/NC d'/SP interior/NC amb/SP motius/NC florals/AQ ,/FF un/DI corb/NC en/SP una/DI finestra/NC i/CC dues/ZZ dones/NC xerrant/VM a/SP la/DA porta/NC ./FF
+La/DA model/NC és/VS la/DA seva/PX amant/NC Pau'ura/NP ,/FF que/PR Gauguin/NP escriu/VM Pahura/NP ./FF
+Encara/RG que/PR nua/VM ,/FF la/DA noia/NC no/RN té/VM una/DI actitud/NC provocativa/AQ ./FF
+La/DA seva/PX mirada/NC és/VS absent/AQ ,/FF una/DI barreja/NC de/SP tristesa/NC i/CC suspicàcia/NC per/SP el/DA que/PR passa/VM a/SP el/DA seu/PX darrera/AO ,/FF possiblement/RG per/SP la/DA conversa/NC de/SP les/DA dues/ZZ dones/NC de/SP el/DA fons/NC ./FF
+Les/DA línies/NC verticals/AQ de/SP el/DA fons/NC accentuen/VM les/DA corbes/NC sensuals/AQ de/SP el/DA nu/NC ./FF
+A/SP l'/DA extrem/NC superior/AQ esquerra/NC té/VM la/DA inscripció/NC en/SP tres/ZZ línies/NC :/FF NEVERMORE_P._Gauguin/NP 97/ZZ O_TAÏTI/NP ./FF
+Nevermore/NP (/FF en/SP anglès/NC ,/FF «/FF mai/RG més/RG »/FF )/FF fa_referència/VM a/SP l'/DA estrofa/NC de/SP el/DA poema/NC El_Corb_d'_Edgar_Allan_Poe/NP ./FF
+Taïti/NP és/VS la/DA grafia/NC francesa/AQ ,/FF usada/VM també/RG en/SP català/NC a/SP principis/NC de/SP el/DA segle_XX/WW ./FF
+O/CC és/VS una/DI preposició/NC usada/VM en/SP tahitià/NC davant/SP de/SP els/DA topònims/NC i/CC sovint/RG incorporat/VM incorrectament/RG per/SP els/DA europeus/NC en/SP el/DA mateix/DI topònim/NC ./FF
+L'/DA obra/NC d'/SP Edgar_Allan_Poe/NP era/VS coneguda/VM en/SP el/DA cercle/NC artístic/AQ de/SP París/NP ./FF
+Mallarmé/NP l'/PP havia/VA traduït/VM a/SP el/DA francès/NC el/DA 1875/ZZ ,/FF amb/SP il·lustracions/NC de/SP Manet/NP ,/FF i/CC l'/PP havia/VA recitat/NC a/SP el/DA Cafè_Voltaire/NP davant/SP Gauguin/NP ./FF
+En/SP el/DA seu/PX poema/NC ,/FF el/DA corb/NC és/VS un/DI missatger/AQ sinistre/NC que/PR té/VM com/CS a/SP única/AQ resposta/NC «/FF mai/RG més/RG »/FF (/FF nevermore/NC )/FF ./FF
+Amb/SP aquesta/DD referència/NC i/CC la/DA composició/NC de/SP el/DA quadre/NC ,/FF Gauguin/NP evoca/VM el/DA romanticisme/NC de/SP el/DA món/NC tahitià/AQ primitiu/AQ i/CC pur/AQ que/PR està/VM desapareixent/VM i/CC que/CS no/RN tornarà/VM mai/RG més/RG ./FF
+El/DA pintor/NC explica/VM el/DA seu/PX quadre/NC a/SP el/DA seu/PX marxant/NC :/FF «/FF Volia/NP retratar/VM ,/FF servint/VM -me/P0 d'/SP un/DI simple/AQ nu/NC ,/FF el/DA suggeriment/NC de/SP certa/DI opulència/NC bàrbara/AQ procedent/AQ de/SP el/DA passat/NC ./FF
+El/DA conjunt/NC és/VS xop/AQ de/SP colors/NC deliberadament/RG ombrívols/AQ i/CC tristos/AQ L'/NP ocell/NC no/RN representa/VM exactament/RG el/DA corb/NC d'/SP Edgar_Allan_Poe/NP ,/FF sinó/CC l'/DA ocell/NC de/SP el/DA dimoni/NC que/PR mira/VM el/DA rellotge/NC ./FF »/FF ;/FF Gauguin/NP segueix/VM la/DA tradició/NC europea/AQ de/SP els/DA nus/NC ./FF
+La/DA composició/NC de/SP el/DA seu/PX quadre/NC té/VM similituds/NC amb/SP l'/DA odalisca/NC d'/SP Ingres/NP ,/FF però/CC amb/SP el/DA seu/PX ús/NC peculiar/AQ de/SP el/DA color/NC crea/VM un/DI aire/NC simbòlic/AQ de/SP misteri/NC ./FF
+El/DA quadre/NC va/VA ser/VS comprat/VM per/SP el/DA compositor/NC anglès/AQ Frederick_Delius/NP ,/FF el/DA 1898/ZZ ./FF
+Referències/NP ./FF
+L'/DA Acidosasa/NP edulis/NC és/VS una/DI espècie/NC de/SP bambú/NC ,/FF de/SP el/DA gènere/NC Acidosasa/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Havia/VA estat/VS catalogada/VM com/CS a/SP sinobambusa/NC edulis/NC (/FF T.H._Wen/NP 1984/ZZ )/FF ./FF
+Descripció/NP ./FF
+Creix/NP entre/SP 8/ZZ i/CC 12_metres/ZZ ,/FF i/CC el/DA seu/PX tronc/NC pot/VM fer/VM sis_centímetres/ZZ de/SP diàmetre/NC ./FF
+És/VS nativa/AQ de/SP les/DA províncies/NC de/SP Fujian/NP i/CC Jiangxi/NP a/SP la/DA costa/NC sud/AQ de/SP Xina/NP ./FF
+Els/DA seu/PX brots/NC són/VS comestibles/AQ ,/FF i/CC els/DA troncs/NC s'/P0 utilitzen/VM per/SP a/SP l'/DA elaboració/NC de/SP paper/NC i/CC per/SP a/SP cistelleria/NC ./FF
+Enllaços/NP ./FF
+Lacidosasa/NP edulis/NC a/SP la/DA Flora/NP of/NC China/NP ;/FF
+En/SP anglès/NC nevermore/RG vol/VM dir/VM "/FF mai/RG més/RG "/FF ./FF
+Nevermore/NP és/VS l'/DA estrofa/NC de/SP el/DA poema/NC El_Corb_d'_Edgar_Allan_Poe/NP que/PR s'/P0 ha/VA convertit/VM en/SP un/DI símbol/NC ./FF
+Nevermore/NP ,/FF o/CC Nevermore_O_Taïti/NP ,/FF és/VS un/DI quadre/NC de/SP Paul_Gauguin/NP ./FF
+Nevermore/NP és/VS un/DI grup/NC de/SP rock/NC nord-americà/AQ ,/FF i/CC el/DA títol/NC de/SP el/DA seu/PX primer/AO àlbum/NC ./FF
+"/FF Nevermore/NP "/FF és/VS una/DI cançó/NC de/SP el/DA grup/NC Queen/NP ./FF
+L'/DA estadi/NC de/SP el/DA Nou/AQ Castàlia/NP és/VS el/DA camp/NC de/SP el/DA CE_Castelló/NP ./FF
+Inaugurat/VM l'/DA any/NC 1987/ZZ ,/FF compta/VM amb/SP unes/DI dimensions/NC de/SP 102x70_metres/ZZ i/CC un/DI aforament/NC de/SP 14.485/ZZ espectadors/NC //FF es/P0 ./FF
+Fou/VS la/DA temporada/NC 1980/81/ZZ ,/FF amb/SP l'/DA ascens/NC de/SP el/DA CE_Castelló/NP a/SP primera/AO divisió/NC ,/FF quan/PR es/P0 va/VA fer/VM patent/AQ la/DA necessitat/NC d'/SP un/DI nou/AQ estadi/NC per/SP a/SP Castelló_de_la_Plana/NP ./FF
+I/CC prenent/VM com/CS a/SP model/NC el/DA Mini_Estadi_de_el_FC_Barcelona/NP ,/FF el/DA 7_de_juny_de_1987/WW ,/FF s'/P0 inaugurà/VM el/DA Nou/AQ Estadi_Castàlia/NP en/SP un/DI partit/NC davant/SP l'/DA Atlètic_de_Madrid/NP ./FF
+Història/NP ./FF
+Anteriorment/RG ,/FF l'/DA equip/NC ,/FF albinegre/NC jugava/VM en/SP el/DA camp/NC de/SP el/DA Sequiol/NP ,/FF amb/SP capacitat/NC per/SP a/SP uns/DI 6.000/ZZ espectadors/NC ,/FF però/CC amb/SP l'/DA ascens/NC de/SP el/DA CE_Castelló/NP a/SP primera/AO divisió/NC a/SP el/DA maig_de_1941/WW ,/FF les/DA autoritats/NC van/VA pensar/VM a/SP construir/VM un/DI nou/AQ estadi/NC de/SP futbol/NC ,/FF atès/VM que/CS les/DA velles/AQ graderies/NC de/SP el/DA camp/NC de/SP el/DA Sequiol/NP potser/RG no/RN resistiren/VM la/DA quantitat/NC de/SP gent/NC que/PR s'/P0 aglutinaria/VM per/SP a/SP veure/VM a/SP els/DA FC_Barcelona/NP ,/FF Reial_Madrid/NP o/CC València_CF/NP ./FF
+Inauguració/NP ./FF
+El/DA 4_de_novembre_de_1944/WW es/P0 va/VA inaugurar/VM brillantment/RG el/DA nou/AQ i/CC flamant/AQ recinte/NC esportiu/AQ de/SP Castelló/NP :/FF l'/DA Estadi_Castàlia/NP ./FF
+a/SP el/DA matí/NC es/P0 va/VA produir/VM la/DA benedicció/NC a/SP càrrec/NC de/SP l'/DA Arxipreste/NP ,/FF estant/NC presents/AQ el/DA Delegat_Nacional_d'_Esports_Sr._Moscardó/NP i/CC el/DA president/NC de/SP la/DA Federació_Espanyola/NP de/SP futbol/NC ,/FF Sr._Barroso/NP ,/FF entre/SP altres/DI personalitats/NC ./FF
+Va/VA haver/VA una/DI missa/NC de/SP campanya/NC i/CC diversos/DI parlaments/NC que/PR va/VA iniciar/VM l'/DA alcalde/NC de/SP la/DA ciutat/NC ,/FF Benjamí_Fabregat/NP ./FF
+Durant/SP dues/ZZ hores/NC es/P0 van/VA celebrar/VM diverses/DI exhibicions/NC gimnàstiques/AQ a/SP càrrec/NC de/SP la/DA Secció_Femenina/NP i/CC de/SP el/DA Front_de_Joventuts/NP ./FF
+Ja/RG a/SP la/DA tarda/NC ,/FF es/P0 va/VA celebrar/VM el/DA partit/NC de/SP futbol/NC entre/SP l'/DA Atlético_Aviación/NP i/CC el/DA CE_Castelló/NP ,/FF vencent/VM els/DA albinegres/AQ per/SP 2-1/ZZ ./FF
+Les/DA alineacions/NC van/VA ser/VS les/DA següents/AQ :/FF CE_Castelló/NP :/FF Higinio/NP ,/FF Mauri/NP ,/FF Martínez/NP ,/FF Esteban/NP ,/FF Arnau/NP ,/FF Santolaria/NP ,/FF Torres/NP ,/FF Soria/NP ,/FF Basilio/NP ,/FF Ricart/NP i/CC Pizá/NP ./FF
+Atlético_Aviación/NP :/FF Pérez/NP ,/FF Cobo/NP ,/FF Aparicio/NP ,/FF Gabilondo/NP ,/FF Mencía/NP ,/FF Farias/NP ,/FF Taltavull/NP ,/FF Juncosa/NP ,/FF Campos/NP i/CC Vázquez/NP ./FF
+El/DA primer/AO gol/NC marcat/VM en/SP Castàlia/NP va/VA ser/VS obra/NC de/SP el/DA jugador/NC albinegre/NC Juanito_Sòria/NP ./FF
+de/SP els/DA 80/ZZ fins/SP l'/DA actualitat/NC ./FF
+Quan/CS la/DA temporada/NC 1980-81/ZZ el/DA Club_Esportiu_Castelló/NP va/VA ascendir/VM a/SP primera/AO divisió/NC ,/FF l'/DA afició/NC va/VA demanar/VM a/SP veus/VM un/DI nou/AQ camp/NC que/PR estiguera/VM d'/SP acord/NC amb/SP les/DA necessitats/NC d'/SP una/DI ciutat/NC amb/SP un/DI club/NC en/SP la/DA màxima/AQ categoria/NC de/SP el/DA futbol/NC ./FF
+Es/P0 va/VA fer/VM famós/AQ el/DA crit/NC de/SP :/FF "/FF Volem/VM camp/NC !/FF ,/FF Volem/NP camp/VM !/FF "/FF ./FF
+Antonio_Sales/NP va/VA aconseguir/VM uns/DI estupends/AQ solars/NC ,/FF però/CC a_causa_de/SP les/DA escasses/AQ ajudes/NC rebudes/NC ,/FF no/RN es/P0 va/VA poder/VM consumar/VM el/DA projecte/NC ./FF
+Per/SP altra/DI banda/NC també/RG es/P0 va/VA pensar/VM que/CS la/DA situació/NC no/RN era/VS la/DA idònia/AQ ,/FF puix/CS a/SP Castàlia/NP anava/VM la/DA majoria/NC de/SP els/DA afeccionats/NC a/SP peu/NC i/CC a/SP el/DA nou/AQ camp/NC haurien/VA de/SP desplaçar/VM -se/P0 amb/SP cotxe/NC a_causa_de/SP la/DA llunyania/NC de/SP els/DA terrenys/NC respecte/VM la/DA ciutat/NC ./FF
+Van/VA transcórrer/VM els/DA anys/NC i/CC els/DA terrenys/NC adquirits/VM van/VA passar/VM a/SP les/DA mans/NC de/SP l'/DA Ajuntament/NP ,/FF ja_que/CS allí/RG no/RN s'/P0 havia/VA construït/VM cap/DI estadi/NC ./FF
+la/DA temporada/NC 1985-86/ZZ el/DA Club_Esportiu_Castelló/NP es/P0 trobava/VM lluitant/VM per/SP ascendir/VM a/SP primera/AO divisió/NC a/SP el/DA costat/NC de/SP el/DA Real_Murcia/NP ,/FF Mallorca/NP ,/FF Elx/NP i/CC Sabadell/NP ./FF
+Amb/SP motiu/NC d'/SP un/DI partit/NC en/SP el/DA Mini_Estadi_de_Barcelona/NP a/SP el/DA que/PR es/P0 van/VA desplaçar/VM molts/DI afeccionats/NC albinegres/AQ ,/FF el/DA pensament/NC va/VA ser/VS unànime/AQ a/SP el/DA reconèixer/VM a/SP l'/DA estadi/NC blaugrana/AQ com/CS un/DI bon/AQ model/NC per/SP a/SP un/DI futur/AQ estadi/NC castellonenc/AQ ,/FF i/CC així/RG es/P0 va/VA fer/VM ./FF
+Prenent/VM com/CS model/VM el/DA Mini_Estadi_de_el_FC_Barcelona/NP ,/FF i/CC pensant/VM en/SP triar/VM l'/DA orientació/NC de/SP el/DA nou/AQ estadi/NC (/FF la/DA majoria/NC d'/SP estadis/NC estan/VM orientats/VM Nord-Sud/NP i/CC el/DA vell/NC Castàlia/NP ho/PP estava/VM Est-Oest/NP )/FF ,/FF van/VA començar/VM les/DA obres/NC el/DA 5_d'_agost_de_1986/WW ./FF
+El/DA nou/AQ estadi/NC h

@@ -3420,4 +3420,80 @@ Tiberi_Pontifici/NP (/FF Tiberius_Pontificus/NP )/FF fou/VS tribú/NC de/SP la/D
 L'/DA esmenta/VM Tit_Livi/NP ./FF (/FF Liv/NP ./FF ii/AQ ./FF 44/ZZ )/FF ./FF
 Onomàstica/NP :/FF Ponci_Diaca/NP ,/FF diaca/NC de/SP l'/DA església/NC africana/AQ ;/FF Herenni_Ponci/NP o/CC Herenni_Ponti/NP ,/FF notable/NC samnita/AQ ,/FF pare/NC de/SP Gai_Ponci/NP ;/FF Gai_Ponci/NP o/CC Gai_Ponti/NP ,/FF militar/AQ samnita/NC ;/FF Marc_Ponci_Lelià/NP ,/FF cònsol/NC el/DA 163/ZZ juntament/NC amb/SP Pastor/NP ./FF
 Ponci_Pilat/NP ,/FF prefecte/NC o/CC procurador/NC de/SP Judea/NP ;/FF Ponci_Telesí_Major/NP ,/FF general/AQ samnita/NC ;/FF Ponci_Telesí_Menor/NP ,/FF general/AQ samnita/NC ;/FF
-Ponci_Diaca/NP (/FF Pontius/NP )/
+Ponci_Diaca/NP (/FF Pontius/NP )/FF fou/VS un/DI diaca/NC de/SP l'/DA església/NC africana/AQ ./FF
+Fou/VS amic/NC i/CC company/NC de/SP Ciprià/NP ,/FF que/PR va/VA escriure/VM una/DI narració/NC sobre/SP la/DA vida/NC i/CC el/DA martiris/NC d'/SP aquest/DD bisbe/NC ,/FF sota/SP el/DA títol/NC De_Vita/NP et/PP Passione_S._Cypriani/NP ,/FF que/CS no/RN és/VS l'/DA obra/NC original/AQ sinó/CC una/DI adaptació/NC posterior/AQ millorada/VM en/SP quan/CS a/SP l'/DA estil/NC retòric/AQ per/SP diverses/DI mans/NC ./FF
+Herenni_Ponci/NP o/CC Herenni_Ponti/NP (/FF Herennius_Pontius/NP )/FF fou/VS el/DA pare/NC de/SP Gai_Ponci/NP ./FF
+Era/VS un/DI home/NC vell/AQ de/SP Caudium/NP quan/CS el/DA seu/PX fill/NC va/VA derrotar/VM els/DA romans/NC prop/RG de/SP la/DA ciutat/NC el/DA 321/ZZ aC/NC ./FF
+Els/DA samnites/NC li/PP van/VA demanar/VM consell/NC sobre/SP que/CS fer/VM amb/SP els/DA romans/NC ./FF
+Vegeu/VM "/FF Segona/AO guerra/NC samnita/AQ "/FF ./FF
+Gai_Ponci/NP o/CC Gai_Ponti/NP (/FF Caius_Pontius/NP )/FF fou/VS un/DI militar/AQ samnita/NC fill/NC d'/SP Herenni_Ponci/NP ./FF
+Era/VS el/DA general/AQ que/PR dirigia/VM a/SP els/DA samnites/NC quan/PR van/VA derrotar/VM els/DA romans/NC prop/RG de/SP Caudium/NP el/DA 321/ZZ aC/NC ;/FF els/DA que/PR van/VA sobreviure/VM foren/VS deixats/NC marxar/VM però/RG després/RG de/SP passar/VM sota/SP el/DA jou/NC i/CC els/DA dos/ZZ consols/NC Tit_Veturi_Calví/NP i/CC Espuri_Postumi_Albí/NP van/VA haver/VA de/SP signar/VM una/DI pau/NC humiliant/AQ que/PR després/RG fou/VS rebutjada/VM per/SP el/DA senat/NC (/FF que/PR va/VA retornar/VM a/SP els/DA consols/NC a/SP els/DA samnites/NC )/FF ./FF
+Ponci/NP va/VA refusar/VM acceptar/VM a/SP els/DA cònsols/NC ./FF
+Encara/RG que/CS el/DA seu/PX nom/NC no/RN apareix/VM durant/SP els/DA següents/AQ trenta/ZZ anys/NC ,/FF es/P0 possible/AQ que/PR dirigís/VM a/SP els/DA samnites/NC en/SP altres/DI campanyes/NC ./FF
+Se/P0 l'/PP esmenta/VM a/SP el/DA front/NC de/SP els/DA samnites/NC el/DA 292/ZZ aC/NC quan/PR va/VA derrotar/VM el/DA cònsol/NC Quint_Fabi_Màxim_Gurges/NP ,/FF però/CC aquell/DD mateix/RG es/P0 va/VA lliurar/VM la/DA batalla/NC decisiva/AQ que/PR va/VA posar/VM fi/NC a/SP la/DA guerra/NC amb/SP la/DA victòria/NC romana/AQ ./FF
+Ponci/NP fou/VS fet/NC presoner/AQ i/CC va/VA participar/VM a/SP el/DA triomf/NC de/SP el/DA vencedor/NC carregat/VM de/SP cadenes/NC ,/FF i/CC després/RG decapitat/VM ./FF
+En/SP cosmologia/NC ,/FF la/DA bariogènesi/NC és/VS un/DI terme/NC genèric/AQ utilitzat/VM per/SP a/SP referir/VM -se/P0 a/SP els/DA hipotètics/AQ processos/NC físics/AQ que/PR podrien/VM haver/VA produit/VM una/DI asimetria/NC entre/SP barions/NC i/CC anti-barions/NC durant/SP els/DA primers/AO instants/NC de/SP la/DA creació/NC de/SP l'/DA univers/NC ,/FF resultant/VM en/SP quantitats/NC elevades/VM de/SP matèria/NC ordinària/AQ residual/AQ en/SP el/DA univers/NC avui/RG dia/NC ./FF
+Les/DA teories/NC de/SP bariogènesi/NC sent/VM la/DA bariogènesi/NC electrofeble/AQ i/CC la/DA bariogènesi/NC de/SP GUT/NP les/DA més/RG importants/AQ empren/VM sub-disciplines/AQ de/SP la/DA física/NC ,/FF com/CS la/DA teoria/NC quàntica/AQ de/SP camps/NC i/CC la/DA física/NC estadística/AQ ,/FF per/SP a/SP descriure/VM aquests/DD possibles/AQ mecanismes/NC ./FF
+La/DA diferència/NC fonamental/AQ entre/SP les/DA teories/NC de/SP bariogènesi/NC està/VM en/SP la/DA descripció/NC que/PR fan/VM de/SP les/DA interaccions/NC entre/SP partícules/NC fonamentals/AQ ./FF
+El/DA pas/NC segúent/AQ a/SP la/DA bariogènesi/NC és/VS la/DA nucleosíntesi/NC primordial/AQ la/DA qual/PR aquesta/DD molt/RG millor/AQ entesa/NC i/CC explica/VM la/DA formació/NC de/SP nuclis/NC atòmics/AQ lleugers/AQ ./FF
+Onomàstica/NP :/FF Ponci_Telesí_Major/NP ,/FF general/AQ samnita/NC ;/FF Ponci_Telesí_Menor/NP ,/FF general/AQ samnita/NC ;/FF Gai_Luci_Telesí/NP ,/FF cònsol/NC l'/DA any/NC 66/ZZ ;/FF
+Ponci_Telesí_Major/NP (/FF Pontius_Telesinus/NP )/FF fou/VS un/DI general/AQ samnita/NC ,/FF nomenat/VM comandant/VM de/SP els/DA samnites/NC en_el_lloc_de/SP Pompedi_Siló/NP durant/SP la/DA guerra/NC social/AQ ./FF
+El/DA 82/ZZ aC/NC estava/VM a/SP el/DA front/NC de/SP les/DA forces/NC samnites/AQ partidàries/AQ de/SP Gai_Mari_el_Jove/NP i/CC de/SP Carbó/NP ./FF
+Gai_Mari/NP i/CC el/DA germà/NC de/SP Telesí/NP foren/VS assetjats/VM a/SP Praeneste/NP i/CC Ponci/NP va/VA anar/VM a/SP la/DA ciutat/NC amb/SP 40000/ZZ homes/NC per/SP ,/FF segons/CS deia/VM ,/FF fer/VM aixecar/VM el/DA setge/NC però/CC a/SP la/DA nit/NC ,/FF sobtadament/RG es/P0 va/VA dirigir/VM a/SP la/DA desguarnia/VM Roma/NP ,/FF per/SP prendre/VM la/DA ciutat/NC en_nom_de/SP els/DA samnites/NC ,/FF projecte/NC que/PR tenia/VM ja/RG a/SP el/DA cap/NC ./FF
+Sul·la/NP va/VA arribar/VM just/RG a/SP temps/NC de/SP salvar/VM la/DA ciutat/NC ./FF
+La/DA batalla/NC de/SP Porta_Collina/NP va/VA posar/VM fi/NC a/SP el/DA intent/NC i/CC Ponci/NP va/VA morir/VM ;/FF el/DA seu/PX cap/NC fou/VS tallat/VM i/CC llençat/VM a/SP Praeneste/NP per/SP advertir/VM a/SP Gai_Mari_el_Jove/NP que/PR ja/RG no/RN podia/VM esperar/VM ajut/NC ./FF
+Ponci_Telesí_Menor/NP (/FF Pontius_Telesinus/NP )/FF fou/VS un/DI general/AQ samnita/NC ,/FF germà/NC petit/AQ de/SP Ponci_Telesí_Menor/NP ./FF
+Fou/VS enviat/VM en/SP ajut/NC de/SP Gai_Mari_el_Jove/NP i/CC junt/AQ amb/SP aquest/DD va/VA quedar/VM assetjat/VM a/SP Praeneste/NP (/FF 82/ZZ aC/NC )/FF ./FF
+A/SP la/DA mort/NC de/SP el/DA seu/PX germà/NC ,/FF Gai_Mari/NP i/CC Telesí/NP va/VA intentar/VM fugir/VM per/SP un/DI pas/NC subterrani/AQ ,/FF però/CC a/SP el/DA trobar/VM la/DA sortida/NC vigilada/VM van/VA decidir/VM matar/VM -se/PP un/DI a/SP l'/DA altre/PI ;/FF Telesí/NP va/VA morir/VM el/DA primer/AO i/CC Mari/NP es/P0 va/VA suïcidar/VM o/CC fou/VS mort/VM per/SP un/DI esclau/NC ./FF
+L'/DA efecte/NC corona/NC és/VS un/DI fenomen/NC elèctric/AQ que/PR es/P0 produeix/VM a/SP els/DA conductors/NC de/SP les/DA línies/NC d'/SP alta/AQ tensió/NC i/CC es/P0 manifiesta/VM en/SP forma/NC d'/SP halo/NC lluminós/AQ a/SP el/DA seu/PX voltant/NC ./FF
+Com/CS que/CS els/DA conductors/NC solen/VM ser/VS de/SP secció/NC circular/AQ ,/FF l'/DA halo/NC pren/VM forma/NC de/SP corona/NC ,/FF d'/SP aquí/RG el/DA nom/NC de/SP el/DA fenomen/NC ./FF
+L'/DA efecte/NC corona/NC està/VM causat/VM per/SP la/DA ionitzaicó/NC de/SP l'/DA aire/NC circumdant/AQ a/SP el/DA conductor/NC degut/VM a/SP els/DA alts/AQ nivells/NC de/SP tensió/NC ,/FF i/CC per/SP tant/RG ,/FF de/SP camp/NC magnètic/AQ ,/FF de/SP la/DA línia/NC ./FF
+En/SP el/DA moment/NC que/CS les/DA molècules/NC d'/SP aire/NC s'/P0 ionitzen/VM ,/FF aquestes/DD son/NC capaces/AQ de/SP conduir/VM el/DA corrent/NC elèctric/AQ i/CC part/NC de/SP els/DA electrons/NC que/PR circulen/VM per/SP la/DA línia/NC passen/VM a/SP fer/VM -ho/PP per/SP l'/DA aire/NC ./FF
+Aquesta/DD circulació/NC produirà/VM un/DI increment/NC de/SP temperatura/NC a/SP el/DA gas/NC ,/FF que/PR es/P0 tornarà/VM d'/SP un/DI color/NC vermellós/AQ per/SP a/SP nivells/NC baixos/AQ de/SP temperatura/NC ,/FF o/CC blavós/AQ per/SP a/SP nivells/NC alts/AQ ./FF
+La/DA intenistat/NC de/SP l'/DA efecte/NC corona/NC ,/FF per/SP tant/RG ,/FF es/P0 pot/VM quantificar/VM segons/SP el/DA color/NC de/SP l'/DA halo/NC ,/FF que/PR serà/VS vermellós/AQ en/SP aquells/DD casos/NC lleus/AQ i/CC blavós/AQ en/SP els/DA més/RG severs/AQ ./FF
+La/DA primera/AO forma/NC d'/SP efecte/NC corona/VM registrada/VM fou/VS el/DA foc/NC de/SP Sant_Elm/NP ./FF
+Amb/SP clima/NC tormentós/AQ a/SP la/DA mar/NC ,/FF de/SP vegades/NC apareixien/VM llums/NC com/CS flames/NC vermelloses/AQ o/CC blavoses/AQ a/SP la/DA part/NC superior/AQ de/SP els/DA màstils/NC de/SP els/DA vaixells/NC ./FF
+Els/DA mariners/NC ho/PP associaven/VM a/SP una/DI forma/NC de/SP protecció/NC i/CC l'/DA anomenaren/VM en/SP honor/NC a/SP el/DA seu/PX patró/NC ,/FF Erasme_de_Formia/NP (/FF Sant_Elm/NP )/FF ./FF
+a/SP el/DA llarg/AQ de/SP les/DA investigacions/NC sobre/SP l'/DA electrostàtica/NC a/SP el/DA segle_XVII/WW ,/FF s'/P0 observà/VM per/SP primera/AO vegada/NC el/DA mateix/DI fenomen/NC a/SP el/DA laboratori/NC ./FF
+Els/DA efectes/NC ./FF
+Generació/NP de/SP llum/NC ;/FF Soroll/NP audible/AQ ;/FF Soroll/NP de/SP radi/NC ;/FF Vibració/NP resultant/AQ de/SP el/DA vent/NC elèctric/AQ ;/FF Deteriorament/NP de/SP els/DA materials/NC com/CS a/SP conseqüència/NC d'/SP un/DI bombardeig/NC d'/SP ions/NC ;/FF Generació/NP d'/SP ozó/NC ,/FF òxids/NC de/SP nitrogen/NC i/CC en/SP presència/NC d'/SP humitat/NC ,/FF àcid/NC nítric/AQ ;/FF Disipació/NP d'/SP energia/NC ;/FF On/NP succeeix/VM ./FF
+a/SP el/DA voltant/NC de/SP conductors/NC de/SP línia/NC ;/FF En/NP espaiadors/AQ i/CC amortidors/NC ;/FF Aïllants/NP elèctrics/AQ malmesos/VM -/FF de/SP ceràmica/NC o/CC un/DI material/NC diferent/AQ de/SP la/DA ceràmica/NC ;/FF Aïllants/NP contaminats/VM ;/FF a/SP els/DA extrems/NC vius/AQ d'/SP ensamblatges/NC i/CC maneguets/NC aïllants/AQ ./FF
+A/SP qualsevol/DI punt/NC d'/SP equips/NC elèctrics/AQ on/PR la/DA intensitat/NC de/SP el/DA camp/NC elèctric/AQ superi/VM els/DA 3kV/m/ZZ ;/FF Càlcul/NP de/SP la/DA tensió/NC crítica/AQ disruptiva/AQ ./FF
+L'/DA efecte/NC corona/NC es/P0 produirà/VM quan/CS la/DA tensió/NC de/SP la/DA línia/NC superi/VM la/DA tensió/NC crítica/AQ disruptiva/AQ de/SP l'/DA aire/NC ,/FF és/VS a/SP dir/VM ,/FF aquell/DD nivell/NC de/SP tensió/NC per/SP sobre/SP de/SP el/DA qual/PR l'/DA aire/NC s'/P0 ionitza/VM ./FF
+La/DA fórmula/NC més/RG emprada/VM per/SP a/SP la/DA determinació/NC de/SP la/DA tensió/NC crítica/AQ disruptiva/AQ és/VS la/DA proposada/VM per/SP l'/DA enginyer/NC americà/AQ F.W._Peek/NP :/FF On/PR :/FF Vc/NP és/VS el/DA valor/NC de/SP tensió/NC crítica/AQ disruptiva/AQ en/SP kV/NC ./FF
+és/VS el/DA factor/NC de/SP densitat/NC de/SP l'/DA aire/NC ./FF
+r/RG és/VS el/DA radi/NC de/SP el/DA conductor/NC en/SP centímetres/NC ./FF
+DMG/NP és/VS la/DA distància/NC mitjana/AQ geomètrica/AQ entre/SP fases/NC ./FF
+RMG/NP és/VS el/DA radi/NC mitjà/AQ geomètric/AQ ./FF
+n/NC és/VS el/DA nombre/NC de/SP conductors/NC per/SP fase/NC ./FF
+kr/RG és/VS el/DA coeficient/NC de/SP rugositat/NC de/SP el/DA conductor/NC emprat/VM ,/FF el/DA valor/NC de/SP el/DA qual/DR sol/NC ser/VS :/FF 1/ZZ per/SP a/SP conductors/NC nous/AQ ./FF
+0,98/ZZ -/FF 0,93/ZZ per/SP a/SP conductors/NC vells/AQ (/FF amb/SP protuberàncies/NC )/FF ./FF
+0,87/ZZ -/FF 0,83/ZZ per/SP a/SP cables/NC formats/NC per/SP fils/NC ./FF
+km/NC és/VS el/DA coeficient/NC mediambiental/AQ ,/FF el/DA valor/NC de/SP el/DA qual/DR sol/NC ser/VS :/FF 1/ZZ quan/CS l'/DA aire/NC és/VS sec./NC 0,8/ZZ per/SP a/SP aire/NC humit/AQ o/CC contaminat/VM ./FF
+kg/NC és/VS el/DA factor/NC de/SP cablejat/VM ./FF
+El/DA càlcul/NC de/SP RMG/NP i/CC DMG/NP dependrà/VM en/SP cada/DI cas/NC de/SP la/DA geometria/NC de/SP la/DA línia/NC elèctrica/AQ ./FF
+El/DA factor/NC de/SP densitat/NC de/SP l'/DA aire/NC es/P0 calcula/VM segons/SP :/FF On/PR :/FF T/NP és/VS la/DA temperatura/NC de/SP l'/DA aire/NC en/SP graus/NC celsius/AQ ;/FF P/NP es/P0 la/DA pressió/NC de/SP l'/DA aire/NC en/SP mil·límetres/NC de/SP mercuri/NC ./FF
+Cálculo/NP de/SP les/DA pèrdues/NC de/SP potència/NC ./FF
+Per/SP aquells/DD casos/NC que/PR es/P0 produeix/VM l'/DA efecte/NC corona/NC ,/FF la/DA pèrdua/NC de/SP potència/NC es/P0 calcula/VM segons/SP la/DA fórmula/NC :/FF On/PR :/FF Pc/NP és/VS la/DA pèrdua/NC de/SP potència/NC en/SP kW/NC //FF Km./NP és/VS el/DA factor/NC de/SP densitat/NC de/SP l'/DA aire/NC ./FF
+f/NC és/VS la/DA freqüència/NC de/SP la/DA línia/NC en/SP Hz/NP ;/FF DMG/NP és/VS la/DA distància/NC mitjana/AQ geomètrica/AQ entre/SP fases/NC ./FF
+RMG/NP és/VS el/DA radi/NC mitjà/AQ geomètric/AQ ./FF
+Vs/SP és/VS el/DA valor/NC de/SP la/DA tensió/NC fase-neutre/NC (/FF o/CC tensió/NC simple/AQ )/FF en/SP kV/NC ./FF
+Vc/NP és/VS el/DA valor/NC de/SP tensió/NC crítica/AQ disruptiva/AQ en/SP kV/NC ./FF
+Referències/NP ./FF
+Bibiografia/NP ./FF
+Onomàstica/NP :/FF Popíl·lia/NP (/FF dama/NC )/FF ,/FF dama/NC romana/AQ ;/FF Gens_Popíl·lia/NP ,/FF gens/DI romana/NC plebea/AQ ;/FF
+Popíl·lia/NP (/FF Popillia/NP )/FF fou/VS una/DI dama/NC romana/AQ casada/NC dues/ZZ vegades/NC ,/FF la/DA primera/AO amb/SP Quint_Lutaci_Catul/NP i/CC la/DA segona/AO amb/SP Gai_Juli_Cèsar_Estrabó_Vopisc/NP ./FF
+La/DA seva/PX oració/NC fúnebre/AQ la/PP va/VA fer/VM el/DA seu/PX fill/NC Catul/NP ,/FF i/CC fou/VS la/DA primera/AO vegada/NC que/PR aquest/DD honor/NC es/P0 feia/VM a/SP una/DI dona/NC a/SP Roma/NP ./FF
+Frans_Hals/NP (/FF Anvers/NP ,/FF 1580/ZZ ?/FF o/CC 1585/ZZ ?/FF
+Haarlem/NP ,/FF 26_d'_agost_de_1666/WW )/FF va/VA ser/VS un/DI pintor/NC neerlandès/AQ de/SP l'/DA escola/NC barroca/AQ flamenca/AQ ./FF
+És/VS un/DI de/SP els/DA grans/AQ mestres/NC en/SP l'/DA art/NC de/SP el/DA retrat/NC ./FF
+La/DA seua/PX obra/NC destaca/VM per/SP la/DA brillantor/NC en/SP la/DA representació/NC de/SP la/DA llum/NC i/CC la/DA llibertat/NC en/SP el/DA maneig/NC de/SP els/DA pinzells/NC ./FF
+Biografia/NP ./FF
+Ombres/NP en/SP la/DA seua/PX biografia/NC ./FF
+L'/DA escassetat/NC de/SP documents/NC i/CC l'/DA absència/NC total/AQ d'/SP escrits/NC personals/AQ de/SP Frans_Hals/NP fan/VM que/CS la/DA seua/PX personalitat/NC i/CC la/DA seua/PX vida/NC romanguen/VM en/SP certa/DI mesura/NC a/SP la/DA foscor/NC ./FF
+Hi/PP ha/VA diverses/DI dates/NC hipotètiques/AQ sobre/SP el/DA seu/PX naixement/NC ,/FF que/PR va/VA poder/VM ser/VS el/DA 1580/ZZ ,/FF el/DA 1581/ZZ o/CC el/DA 1585/ZZ ,/FF deduïdes/VM de/SP l'/DA edat/NC que/CS els/DA seus/PX biògrafs/NC calculen/VM que/CS tindria/VM quan/CS va/VA morir/VM ,/FF tot_i_que/CS se/P0 sap/VM amb/SP seguretat/NC que/PR va/VA nàixer/VM a/SP la/DA ciutat/NC flamenca/AQ d'/SP Anvers/NP ./FF
+En/SP aquesta/DD ciutat/NC romandria/VM pocs/DI anys/NC ,/FF perquè/CS l'/DA any/NC 1591/ZZ ,/FF va/VA ser/VS batejat/VM ,/FF ja/RG a/SP Haarlem/NP ,/FF el/DA seu/PX germà/NC Dirck/NP ,/FF que/PR també/RG es/P0 va/VA dedicar/VM a/SP la/DA pintura/NC ./FF
+Després/RG de/SP la/DA caiguda/NC d'/SP Anvers/NP en/SP mans/NC de/SP les/DA tropes/NC espanyoles/AQ en/SP la/DA Guerra/NP de/SP els/DA Vuitanta/ZZ Anys/NP ,/FF que/PR va/VA suposar/VM la/DA fragmentació/NC de/SP Flandes/NP ,/FF la/DA seua/PX família/NC es/P0 va/VA instal·lar/VM a/SP Haarlem/NP ,/FF a/SP la/DA zona/NC nord/AQ ,/FF d'/SP on/PR el/DA seu/PX pares/NC eren/VS originaris/AQ ./FF
+En/SP aquesta/DD ciutat/NC va/VA viure/VM Hals/NP tota/DI la/DA seua/PX vida/NC ./FF
+La/DA biografia/NC de/SP el/DA pintor/NC corre/VM en_paral·lel/RG amb/SP la/DA independència/NC de/SP els/DA Països_Baixos/NP de/SP la/DA monarquia/NC espanyola/AQ ./FF
+Els/DA estudis/NC més/RG recents/AQ han/VA ana

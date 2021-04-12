@@ -3641,4 +3641,81 @@ Publi_Popil·li/NP ,/FF un/PI de/SP els/DA tres/ZZ ambaixadors/NC enviats/VM a/S
 Gai_Popil·li/NP de/SP malnom/NC Sabel/NP (/FF Sabellus/NP )/FF ,/FF cavaller/NC romà/AQ distingit/VM a/SP la/DA campanya/NC contra/SP els/DA istris/NC el/DA 178/ZZ aC/NC ./FF
 Marc_Popil·li/NP un/DI de/SP els/DA tres/ZZ ambaixadors/NC enviats/VM a/SP la/DA Lliga_Etòlia/NP el/DA 174/ZZ aC/NC ./FF
 Salvador_Botella_Rodrigo/NP (/FF Almussafes/NP ,/FF 27_de_març_de_1929/WW -/FF Riba-roja_de_Túria/NP ,/FF 17_de_desembre_de_2006/WW )/FF va/VA ser/VS un/DI ciclista/NC valencià/AQ que/CS fou/VS professional/AQ entre/SP 1953/ZZ i/CC 1962/ZZ ./FF
-Durant/SP la/DA seva/PX carrera/NC va/VA aconseguir/VM 27/ZZ victòries/NC ,/FF entre/SP elles/PP dues/ZZ Volta/NP a/SP Catalunya/NP ,/FF dues/ZZ etapes/NC a/SP el/DA Giro_d'_Ità
+Durant/SP la/DA seva/PX carrera/NC va/VA aconseguir/VM 27/ZZ victòries/NC ,/FF entre/SP elles/PP dues/ZZ Volta/NP a/SP Catalunya/NP ,/FF dues/ZZ etapes/NC a/SP el/DA Giro_d'_Itàlia/NP i/CC una/DI a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+Palmarès/NP ./FF
+1953/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1954/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Llevant/NP i/CC vencedor/AQ d'/SP una/DI etapa/NC ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Bicicleta_Eibarresa/NP ;/FF 1955/ZZ ;/FF 1r/AO a/SP el/DA Trofeu_Jaumendreu/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Andalusia/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP els/DA Pirineus/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1956/ZZ ;/FF 1r/AO de/SP la/DA Volta/NP a/SP Mallorca/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Bicicleta_Eibarresa/NP ;/FF 1957/ZZ ;/FF 1r/AO de/SP la/DA Volta/NP a/SP Sud-est_d'_Espanya/NP i/CC vencedor/AQ de/SP 5/ZZ etapes/NC ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF Vencedor/NP de/SP 2/ZZ etapes/NC a/SP la/DA Volta/NP a/SP la/DA Rioja/NP ;/FF 1958/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF 1r/AO de/SP el/DA Premi_de_la_Regularitat_de_la_Volta/NP a/SP Espanya/NP ;/FF 1959/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1960/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Espanya/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF 1961/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Llevant/NP ;/FF Vencedor/NP de/SP 2/ZZ etapes/NC a/SP la/DA Volta/NP a/SP Andalusia/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1954/ZZ ./FF 54è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF
+Abandona/VM (/FF 10a/ZZ etapa/NC )/FF ;/FF 1956/ZZ ./FF 65è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1958/ZZ ./FF
+Abandona/VM (/FF 21a/ZZ etapa/NC )/FF ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1955/ZZ ./FF 11è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1956/ZZ ./FF
+Abandona/VM ;/FF 1957/ZZ ./FF 10è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1958/ZZ ./FF 14è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1959/ZZ ./FF 24è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1960/ZZ ./FF 7è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1961/ZZ ./FF 14è/AO de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1955/ZZ ./FF 8è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1958/ZZ ./FF 15è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1960/ZZ ./FF 29è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Salvador_Botella/NP ;/FF Palmarès_de_Salvador_Botella/NP ;/FF
+Pòrcia/NP (/FF Porcia/NP )/FF fou/VS la/DA germana/NC de/SP Cató_d'_Útica/NP ./FF
+Va/VA créixer/VM junt/RG a/SP el/DA seu/PX germà/NC a/SP la/DA casa/NC de/SP el/DA seu/PX oncle/NC Marc_Livi_Drus/NP ja_que/CS els/DA pares/NC havien/VA mort/VM quan/CS era/VS molt/RG jove/AQ ./FF
+Es/P0 va/VA casar/VM amb/SP L._Domici_F._Cn/NP ./FF
+N._Aenobarb/NP (/FF cònsol/NC 54/ZZ aC/NC )/FF ,/FF que/PR fou/VS un/PI de/SP els/DA caps/NC de/SP el/DA partit/NC aristocràtic/AQ com/CS el/DA mateix/DI Cató_d'_Útica/NP ./FF
+Era/VS a/SP Nàpols/NP quan/CS el/DA seu/PX marit/NC va/VA quedar/VM assetjat/VM a/SP Corfinium_per_Juli_Cèsar/NP (/FF 49/ZZ aC/NC )/FF ;/FF el/DA 48/ZZ aC/NC va/VA perdre/VM a/SP el/DA seu/PX marit/NC a/SP la/DA batalla/NC de/SP Farsàlia/NP i/CC ella/PP mateix/DI va/VA morir/VM cap/DI a/SP el/DA final/NC de/SP el/DA 46/ZZ aC/NC o/CC començament/NC de/SP l'/DA any/NC 45/ZZ aC/NC ./FF
+Ciceró/NP va/VA pronunciar/VM el/DA seu/PX panegíric/NC a/SP el/DA funeral/NC ./FF
+Messier/NP 29/ZZ (/FF M29/ZZ o/CC NGC6913/ZZ )/FF és/VS un/DI cúmul/NC obert/VM en/SP la/DA constel·lació/NC de/SP Cigne/NP ./FF
+Va/VA ser/VS descobert/VM en/SP 1764/ZZ per/SP Charles_Messier/NP ./FF
+Es/P0 tracta/VM d'/SP un/DI cúmul/NC poc/RG dens/AQ amb/SP unes/DI 50/ZZ estrelles/NC ./FF
+La/DA distància/NC estimada/VM varia/VM des_de/SP els/DA 4.000/ZZ a/SP els/DA 7.200/ZZ anys/NC llum/NC degut/VM a/SP la/DA gran/AQ quatitat/NC de/SP matèria/NC interestel·lar/AQ que/PR dificulta/VM els/DA càlculs/NC ./FF
+La/DA seva/PX edat/NC estimada/VM és/VS de/SP 10_milions/ZZ d'/SP anys/NC ./FF
+Les/DA estrelles/NC principals/AQ són/VS de/SP tipus/NC espectral/AQ O/NP o/CC B/NP ,/FF la/DA més/RG brillant/AQ té/VM una/DI magnitud/NC aparent/AQ de/SP +8,59/ZZ ./FF
+Dues/ZZ de/SP les/DA seves/PX estrelles/NC variables/AQ van/VA ser/VS investigades/VM en/SP 2003/ZZ per/SP astrònoms/NC aficionats/NC espanyols/AQ des_de/SP l'/DA Observatori_Astronòmic_de_Càceres/NP ,/FF publicant/VM les/DA seves/PX corbes/NC de/SP llum/NC en/SP banda/NC V._Observació/NP ./FF
+En_bones_condicions/RG atmosfèriques/AQ és/VS observable/AQ amb/SP binoculars/NC ./FF
+L'/DA observació/NC és/VS més/RG acurada/AQ amb/SP un/DI telescopi/NC d'/SP aficionat/NC ,/FF tot_i_que/CS la/DA gran/AQ quantitat/NC de/SP matèria/NC interestel·lar/AQ la/PP fa/VM poc/RG atractiva/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Messier/NP 29/ZZ a/SP SEDS/NP ;/FF Dades/NP astronòmiques/AQ SIMBAD/NP ;/FF
+El/DA part/NC és/VS el/DA procés/NC d'/SP expulsió/NC de/SP el/DA fetus/NC com/CS a/SP finalització/NC de/SP l'/DA embaràs/NC en/SP la/DA majoria/NC de/SP mamífers/NC i/CC alguns/DI rèptils/NC i/CC artròpodes/NC ./FF
+En/SP les/DA dones/NC es/P0 poden/VM distingir/VM tres/ZZ fases/NC :/FF Fase/NC de/SP dilatació/NC ./FF
+En/SP ella/PP s'/P0 inicien/VM les/DA contraccions/NC uterines/AQ que/PR passen/VM de/SP produir/VM -se/PP cada/DI 30/ZZ minuts/NC a/SP donar/VM -se/PP cada/DI 3/ZZ minuts/NC ./FF
+La/DA criatura/NC és/VS impulsada/VM cap/NC a/SP davant/RG produint/VM -se/PP el/DA trencament/NC de/SP l'/DA amnios/AQ (/FF trencar/VM aigües/NC )/FF i/CC es/P0 dilata/VM el/DA coll/NC de/SP l'/DA úter/NC que/PR passa/VM de/SP 4_mm/ZZ a/SP 11/ZZ cm./NC Aquesta/NP fase/NC dura/VM normalment/RG unes/DI 8/ZZ hores/NC ./FF ;/FF Fase/NP d'/SP expulsió/NC ./FF
+En/SP ella/PP les/DA contraccions/NC es/P0 donen/VM cada/DI 2/ZZ minuts/NC i/CC són/VS més/RG intenses/AQ ,/FF la/DA qual/DR cosa/NC provoca/VM la/DA sortida/NC de/SP la/DA criatura/NC a/SP el/DA cap/NC de/SP mitja/DI hora/NC ,/FF en/SP el/DA millor/AQ de/SP els/DA casos/NC ./FF
+Llavors/RG es/P0 procedeix/VM a/SP posar/VM el/DA nen/NC cap/NC per/SP baix/AQ ,/FF se/P0 li/PP dóna/VM una/DI palmellada/NC perquè/CS buidi/VM els/DA pulmons/NC de/SP líquid/NC amniòtic/AQ i/CC comenci/VM a/SP respirar/VM (/FF primer/AO plor/NC )/FF ,/FF i/CC se/P0 li/PP talla/VM i/CC nua/VM el/DA cordó_umbilical/NC ./FF
+Uns/DI dies/NC després/RG aquest/DD s'/P0 asseca/VM i/CC cau/VM quedant/VM una/DI cicatriu/NC denominada/VM llombrígol/NC ./FF
+Fase/NP de_naixement/RG ./FF
+En/SP ella/PP ,/FF uns/DI 20/ZZ minuts/NC després/RG de/SP el/DA naixement/NC ,/FF es/P0 reinicien/VM les/DA contraccions/NC i/CC s'/P0 expulsa/VM la/DA placenta/NC que/PR prèviament/RG s'/P0 havia/VA desprès/VM ,/FF procés/NC que/PR ve/VM acompanyat/VM de/SP petites/AQ hemorràgies/NC ./FF
+Anicet_Utset/NP (/FF Terrassa/NP ,/FF 17_de_gener_de_1932/WW -/FF 18_de_novembre_de_1998/WW )/FF va/VA ser/VS un/DI ciclista/NC català/AQ que/CS fou/VS professional/AQ entre/SP 1956/ZZ i/CC 1961/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC esportiva/AQ aconseguí/VM 4/ZZ victòries/NC ,/FF entre/SP les/DA que/PR destaca/VM la/DA Volta/NP a/SP Catalunya/NP de/SP 1956/ZZ ./FF
+Palmarès/NP ./FF
+1954/ZZ ;/FF 1r/AO a/SP el/DA Trofeu_Jaumendreu/NP ;/FF 1956/ZZ ;/FF 1r/AO a/SP la/DA Volta_Ciclista/NP a/SP Catalunya/NP ;/FF 1959/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Andalusia/NP ;/FF 1961/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Andalusia/NP ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1958/ZZ ./FF 35è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1961/ZZ ./FF 41è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1959/ZZ ./FF
+Abandona/VM (/FF 15a/ZZ etapa/NC )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_d'_Anicet_Utset/NP ;/FF
+Pòrcia/NP fou/VS una/DI gens/DI romana/NC plebea/AQ ,/FF esmentada/VM a_partir_de/SP la/DA meitat/NC de/SP el/DA segle_III/WW aC/NC ;/FF el/DA primer/AO membre/NC que/PR va/VA arribar/VM a/SP el/DA consolat/NC fou/VS el/DA famós/AQ Marc_Porci_Cató/NP el/DA 195/ZZ aC/NC ./FF
+El/DA nom/NC derivava/VM de/SP Porcus/NP (/FF porc/NC )/FF ./FF
+Els/DA Porcii/NP estaven/VM dividits/NC en/SP tres/ZZ branques/NC familiars/AQ durant/SP la/DA república/NC ,/FF els/DA Laeca_els_Licinius/NP i/CC els/DA Cato/NP ./FF
+En/SP època/NC imperial/AQ apareixen/VM altres/DI cognoms/NC ./FF
+Pomponi_Porfirió/NP (/FF Pomponius_Prophyrio/NP )/FF fou/VS el/DA més/RG important/AQ de/SP els/DA comentadors/NC d'/SP Horaci/NP ./FF
+Les/DA seves/PX anotacions/NC han/VA patit/VM severament/RG de/SP les/DA interpolacions/NC i/CC alteracions/NC de/SP els/DA copistes/NC de/SP l'/DA edat_mitjana/NC fins/SP el/DA punt/NC que/CS és/VS difícil/AQ sinó/CC impossible/AQ separar/VM l'/DA escrit/NC original/AQ de/SP el/DA resultant/AQ ./FF
+No/RN és/VS coneix/VM l'/DA època/NC en/SP que/PR va/VA viure/VM ,/FF i/CC només/RG es/P0 pot/VM dir/VM que/CS fou/VS posterior/AQ a/SP Fest/NP i/CC a/SP Acró/NP ,/FF el/DA primer/AO segons/SP Carisi/NP i/CC el/DA segon/NC perquè/CS és/VS esmentat/VM per/SP el/DA mateix/DI Porfirió/NP en/SP la/DA seva/PX obra/NC ./FF
+Yorkshire/NP és/VS un/DI comtat/NC històric/AQ d'/SP Anglaterra/NP que/CS forma/NC ,/FF junt/AQ amb/SP Cumbria/NP ,/FF Northumbria/NP i/CC Lancashire/NP el/DA conjunt/NC que/PR s'/P0 anomena/VM popularment/RG el/DA Nord_d'_Anglaterra/NP ./FF
+És/VS el/DA comtat/NC més/RG gran/AQ de/SP el/DA Regne_Unit/NP ./FF
+Encara/RG que/CS Yorkshire/NP no/RN és/VS actualment/RG una/DI unitat/NC administrativa/AQ ,/FF s'/P0 esmenta/VM en/SP moltes/DI subdivisions/NC (/FF tal/RG com/CS Yorkshire/NP and/AQ the/AQ Humber/NP i/CC West_Yorkshire/NP ,/FF que/CS en/SP són/VS unes/PI de/SP les/DA resultants/AQ províncies/NC administratives/AQ )/FF ,/FF i/CC el/DA nom/NC és/VS d'/SP ús/NC familiar/AQ i/CC habitual/AQ arreu/RG de/SP el/DA Regne_Unit/NP en/SP preferència/NC a/SP les/DA divisions/NC oficials/AQ ./FF
+Hi/PP ha/VA dos/ZZ tipus/NC de/SP divisió/NC a/SP Yorkshire/NP ./FF
+La/DA primera/AO és/VS la/DA històrica/AQ i/CC popular/AQ ,/FF la/DA divisió/NC en/SP tres/ZZ ridings/NC o/CC províncies/NC (/FF significa/VM terços/NC )/FF :/FF El/DA de/SP el/DA nord/NC ,/FF el/DA de/SP l'/DA oest/NC ,/FF i/CC el/DA de/SP l'/DA est/NC ./FF
+Avui/RG dia/NC la/DA divisió/NC administrativa/AQ produeix/VM una/DI sèrie/NC de/SP províncies/NC que/PR inclou/VM North_Yorkshire/NP (/FF correspon/VM amb/SP la/DA riding/NC de/SP el/DA nord/NC )/FF ,/FF West_Yorkshire/NP ,/FF South_Yorkshire/NP ,/FF i/CC East_Riding/NP of/NC Yorkshire/NP ,/FF a/SP més/RG de/SP els/DA diversos/DI termes/NC municipals/AQ de/SP les/DA cuitats/VM qui/PR hi/PP són/VS a/SP part/NC ./FF
+La/DA població/NC de/SP Yorkshire/NP el/DA 1991/ZZ era/NC 3.978.484/ZZ ./FF
+La/DA majoria/NC d'/SP aquests/DD viuen/VM a/SP les/DA cuitats/VM més/RG grans/AQ que/PR es/P0 disposen/VM en/SP una/DI línia/NC de/SP l'/DA oest/NC a/SP l'/DA est/NC a/SP la/DA part/NC més/RG a/SP el/DA sud/NC ./FF
+Ciutats/NC importants/AQ són/VS Leeds/NP ,/FF Bradford/NP ,/FF Wakefield/NP ,/FF Sheffield/NP ,/FF York/NP ,/FF Ripon/NP i/CC Hull/NP ./FF
+Yorkshire/NP és/VS considerat/VM per/SP alguns/DI la/DA zona/NC més/RG verda/AQ d'/SP Anglaterra/NP ,/FF a_causa_de/SP la/DA gran/AQ quantitat/NC de/SP territori/NC rural/AQ que/PR abasta/VM a/SP el/DA nord/NC ,/FF especialment/RG els/DA parcs/NC naturals/AQ delsYorkshire/NC Dales/NP i/CC els/DA North_York_Moors/NP ,/FF i/CC inclús/RG les/DA ciutats/NC això/PD fa/VM que/CS alguns/PI li/PP posen/VM el/DA sobrenom/NC de/SP God/NP 's/PP Own_County/NP (/FF El/DA País_de_Déu/NP )/FF ./FF
+a/SP el/DA llarg/AQ de/SP la/DA seua/PX història/NC ,/FF Yorkshire/NP ha/VA sigut/VM una/DI part/NC significant/AQ de/SP les/DA Illes_Britaniques/NP ./FF
+L'/DA Imperi_Romà/NP tenia/VM la/DA ciutat/NC de/SP York/NP (/FF de/SP la/DA qual/PR es/P0 deriva/VM Yorkshire/NP )/FF com/CS a/SP una/DI de/SP les/DA dues/ZZ capitals/NC de/SP tota/DI la/DA Gran_Bretanya/NP romana/AQ ./FF
+Amb/SP els/DA Viquings/NP l'/DA àrea/NC fou/VS proclamada/VM com/CS a/SP Regne_de_York/NP durant/SP un/DI segle/NC ,/FF mentre/CS la/DA majoria/NC de/SP les/DA grans/AQ ciutats/NC modernes/AQ es/P0 fundaren/VM a/SP l'/DA època/NC de/SP els/DA Normandesos/NP ./FF
+Yorkshire/NP abastava/VM gairebé/RG 6.000_mil/ZZ ./FF les/DA quadrades/NC (/FF 15,000/ZZ km²/NC )/FF el/DA 1831/ZZ ,/FF i/CC la/DA regió/NC de/SP Yorkshire/NP and/AQ the/RG Humber/NP tenia/VM una/DI població/NC de/SP vora/NC cinc_milions/ZZ ./FF
+L'/DA emblema/NC de/SP Yorkshire/NP és/VS la/DA Rosa_Blanca/NP de/SP els/DA senyors/NC de/SP York/NP ,/FF típicament/RG en/SP forma/NC de/SP bandera/NC amb/SP la/DA rosa/NC blanca/AQ damunt/SP un/DI fons/NC blau/AQ fosc/AQ ./FF
+El/DA dia/NC de/SP Yorkshire/NP és/VS l/NC '/FF 1_d'_Agost/WW ./FF
+Història/NP ./FF
+Les/DA guerres/NC de/SP les/DA Roses/NP ./FF
+Quan/CS el/DA rei/NC Ricard_II_d'_Anglaterra/NP fou/VS expulsat/VM ,/FF l'/DA antagonisme/NC entre/SP els/DA senyors/NC de/SP York/NP i/CC els/DA de/SP Lancaster/NP ,/FF ambdós/DI branques/NC de/SP la/DA família/NC reial/AQ de/SP els/DA Plantagenet/NP ,/FF començà/VM a/SP veure/VM 's/PP ./FF
+Eventualment/RG les/DA dues/ZZ cases/NC senyorials/AQ encetaren/VM una/DI sèrie/NC de/SP batalles/NC que/PR es/P0 podia/VM considerar/VM una/DI guerra/NC civil/AQ (/FF incloïa/VM la/DA Batalla_de_Wakefield/NP l/NC la/DA de/SP Towton/NP )/FF per/SP aconseguir/VM la/DA corona/NC d'/SP Anglaterra/NP ./FF
+Aquesta/DD guerra/NC es/P0 coneix/VM amb/SP el/DA nom/NC de/SP la/DA Guerra_de_les_Roses/NP ,/FF car/RG si/CS el/DA símbol/NC de/SP Yorkshire/NP és/VS una/DI rosa/NC blanca/AQ ,/FF la/DA de/SP Lancashire/NP n'/PP és/VS una/DI de/SP roig/NC ./FF
+Després/RG d'/SP una/DI lluita/NC perllongada/VM ,/FF el/DA rei/NC Enric_VI_d'_Anglaterra/NP ,/FF de/SP la/DA casa/NC de/SP Lancaster/NP ,/FF fou/VS llevat/VM de/SP el/DA poder/VM i/CC empresonat/VM el/DA 4_de_març/WW 1461/ZZ per/SP el/DA seu/PX cosí/NC de/SP el/DA bàndol/NC de/SP York/NP i/CC nou/AQ rei/NC ,/FF Eduard_IV_d'_Anglaterra/NP ./FF
+Vuit/ZZ anys/NC després/RG la/DA guerra/NC tornà/VM i/CC Eduard/NP estava/VM forçat/NC a/SP l'/DA exili/NC a/SP França_per_Richard_Neville/NP i/CC John_Neville/NP mentre/CS el/DA rei/NC de/SP el/DA bàndol/NC de/SP Lancaster/NP ,/FF Enric_VI/NP ,/FF fou/VS reinstaurat/VM ./FF
+Eduard/NP tornà/V

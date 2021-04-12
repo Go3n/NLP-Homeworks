@@ -3802,4 +3802,103 @@ Bret_Taylor/NP ,/FF cap/NC de/SP el/DA grup/NC de/SP producte/NC de/SP desenvolu
 Llicència/NP ./FF
 Google_Gears/NP està/VM sent/VS alliberat/VM com/CS a/SP codi/NC obert/VM sota/SP la/DA llicència/NC BSD/NP ./FF
 Components/NP ./FF
-Existeixen/VM tres/ZZ components/NC principals/AQ a/SP l'/DA API_de_Google_Gears/NP Un/DI servidor/NC local/AQ que/PR llegeix/VM i/CC escriu/VM recursos/NC de/SP l'/DA aplicació/NC (/FF HTML/NP ,/FF JavaScript/NP ,/FF imatges/NC ,/FF etc/FF )/FF ./FF ;/FF Una/DI base/NC de/SP dades/NC (/FF SQLite/NP )/FF que/PR guarda/VM les/DA dades/NC offline/AQ ./FF ;/FF Un/DI pool/NC de/SP threads/NC de/SP treball/NC que/PR sincronitza/VM les/DA dades/NC en/SP seg
+Existeixen/VM tres/ZZ components/NC principals/AQ a/SP l'/DA API_de_Google_Gears/NP Un/DI servidor/NC local/AQ que/PR llegeix/VM i/CC escriu/VM recursos/NC de/SP l'/DA aplicació/NC (/FF HTML/NP ,/FF JavaScript/NP ,/FF imatges/NC ,/FF etc/FF )/FF ./FF ;/FF Una/DI base/NC de/SP dades/NC (/FF SQLite/NP )/FF que/PR guarda/VM les/DA dades/NC offline/AQ ./FF ;/FF Un/DI pool/NC de/SP threads/NC de/SP treball/NC que/PR sincronitza/VM les/DA dades/NC en/SP segon/AO pla/NC ./FF ;/FF Suport/NP ./FF
+Fent_servir/VM un/DI script/AQ Greasemonkey/NP creat/VM per/SP un/DI de/SP els/DA enginyers/NC de/SP Google_Gears/NP ,/FF Google_Gears/NP pot/VM ser/VS activat/VM a/SP llocs/NC on/PR no/RN està/VM suportat/VM d'/SP altre/DI forma/NC ./FF
+Vegeu/VM també/RG ./FF
+Google_Reader/NP ;/FF Zoho_Office_Suite/NP ;/FF Remember_The_Milk/NP ;/FF Mozilla_Prism/NP ;/FF Rich_Internet_Application/NP ;/FF Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Google_Gears/NP home/NC page/NC (/FF en/SP anglès/NC )/FF ;/FF Google_Gears/NP permet/VM desenvolupament/NC offline/AQ (/FF en/SP anglès/NC )/FF ;/FF
+Pedro_de_Felipe_de_el_Rey/NP escriptor/NC espanyol/AQ nascut/VM l'/DA any/NC 1931/ZZ a/SP Orche_Guadalajara/NP ./FF
+Llicenciat/NP en/SP Teologia/NP ,/FF estudiós/AQ de/SP les/DA Sagrades_Escriptures/NP amb/SP coneixements/NC de/SP el/DA grec/NC i/CC llatí/NC ./FF
+L'/DA any/NC 1973/ZZ va/VA escriure/VM una/DI carta/NC a/SP el/DA president/NC Natan_H._Knorr_de_la_Watch_Tower/NP acusant/VM -lo/PP de/SP falsejar/VM a/SP Berós/NP per_tal_de/SP provar/VM la/DA data/NC de/SP 1914/ZZ com/CS inici/NC de/SP el/DA regne/NC de/SP mil/ZZ anys/NC de/SP Jesucrist/NP ./FF
+Ha/VA escrit/VM diversos/DI llibres/NC de/SP tema/NC religiós/AQ ./FF
+Obra/NC ./FF
+"/FF El/DA regne/NC de/SP Déu/NP començà/VM el/DA 1914/ZZ ¿/FF realitat/NC o/CC frau/NC ?/FF
+¿/FF política/NC o/CC religió/NC ?/FF "/FF ,/FF editat/VM a/SP Madrid/NP l'/DA any/NC 1974/ZZ ,/FF argumenta/VM les/DA seves/PX crítiques/NC a/SP la/DA societat/NC Watch_Tower/NP ,/FF i/CC en/SP especial/AQ a/SP els/DA seus/PX dos/ZZ primers/AO presidents/NC qualificant/VM -los/PP de/SP farsants/NC i/CC mentiders/NC ./FF
+Sospita/NP que/CS la/DA societat/NC esmentada/VM te/NC pretensions/NC polítiques/AQ i/CC que/PR vol/VM instaurar/VM una/DI teocràcia/NC a/SP la/DA Terra/NP ./FF
+Els/DA Testimonis_de_Jehovà/NP i/CC les/DA transfusions/NC de/SP sang/NC ,/FF 1975/ZZ ./FF
+Des_de/SP don/NC Pelayo/NP fins/SP a/SP Joan_Carles_I/NP ,/FF 1979/ZZ ./FF
+Vegeu/VM també/RG ./FF
+Prediccions_de_els_Testimonis_de_Jehovà/NP ;/FF Profecia/NP de/SP els/DA Set/NC Temps/NP ;/FF Esclau_Fidel/NP i/CC Discret/NP ;/FF Enllaços/NP externs/AQ ./FF
+Pedro_de_Felipe/NP ;/FF
+va/VA ser/VS el/DA vuitè/AO shogun/NC de/SP el/DA shogunat/VM Tokugawa_de_el_Japó/NP ./FF
+Era/VS el/DA fill/NC de/SP Tokugawa_Mitsusada/NP i/CC el/DA nét/NC de/SP Tokugawa_Yorinobu/NP ./FF
+El/DA 1697/ZZ va/VA canviar/VM el/DA seu/PX nom/NC a/SP Shinnosuke/NP i/CC va/VA ser/VS assignat/VM com/CS a/SP daimy/NC de/SP Kii/NP el/DA 1705/ZZ ,/FF on/PR va/VA canviar/VM el/DA seu/PX nom/NC a/SP Yorikata/NP i/CC va/VA intentar/VM mantenir/VM el/PP han/VA tot/DI i/CC tenir/VM que/CS hi/PP havia/VA un/DI gran/AQ dèficit/NC pressupostari/AQ ./FF
+Amb/SP la/DA mort/NC prematura/AQ (/FF sense/SP deixar/VM descendència/NC )/FF de/SP Ietsugu/NP el/DA 1716/ZZ ,/FF el/DA shogunat/NC va/VA seleccionar/VM entre/SP els/DA branques/NC de/SP el/DA clan/NC ,/FF a/SP Yorikata/NP que/PR tenia/VM un/DI llinatge/NC més/RG directe/AQ amb/SP Ieyasu/NP ,/FF així/RG va/VA ser/VS escollit/VM sh/NC gun/AQ i/CC va/VA canviar/VM el/DA seu/PX nom/NC a/SP Yoshimune/NP ./FF
+Yoshimune/NP va/VA ser/VS un/DI de/SP els/DA sh/NC guns/AQ més/RG poderosos/AQ i/CC capaços/AQ de/SP els/DA quinze/ZZ que/PR va/VA haver/VA en/SP el/DA shogunta/NC Tokugawa/NP ,/FF va/VA rebutjar/VM els/DA luxes/NC de/SP els/DA seus/PX antecessors/NC i/CC vivia/VM d'/SP una/DI manera/NC humil/AQ i/CC va/VA estar_en_contacte/VM amb/SP els/DA plebeus/NC ,/FF trencant/VM així/RG amb/SP el/DA protocol/NC de/SP el/DA confinament/NC en/SP el/DA castell/NC Edo/NP ./FF
+Va/VA establir/VM el/DA ,/FF amb/SP el/DA propòsit/NC d'/SP augmentar/VM el/DA llinatge/NC de/SP el/DA Gosanke/NP ,/FF agregant/VM tres/ZZ branques/NC addicionals/AQ a/SP el/DA clan/NC ./FF
+Va/VA realitzar/VM una/DI reforma/NC econòmica/AQ en/SP contra/SP de/SP el/DA seu/PX consell/NC ,/FF el/DA confusionista/NC Arai_Hakuseki/NP ,/FF a_través_de/SP les/DA reformes/NC Ky/NP h/NC des_de/SP 1716/ZZ fins/SP el/DA 1736/ZZ i/CC on/PR es/P0 va/VA poder/VM flexibilitzar/VM en/SP cert/DI grau/NC el/DA bloc/NC de/SP llibres/NC importats/VM d'/SP Occident/NP ,/FF amb/SP l'/DA excusa/NC de/SP obtenir/VM la/DA solvència/NC econòmica/AQ ./FF
+Va/VA escriure/VM una/DI compilació/NC de/SP precedents/NC legals/AQ i/CC va/VA recolzar/VM l'/DA estudi/NC científic/AQ ./FF
+El/DA 1745/ZZ va/VA abdica/VM a_favor_de/SP el/DA seu/PX fill/NC Ieshige/NP i/CC va/VA agafar/VM el/DA títol/NC d/RG gosho/AQ ,/FF el/DA mateix/DI que/CS va/VA agafar/VM Ieyasu/NP quan/PR va/VA abdicar/VM ./FF
+El/DA cúbit/NC és/VS l'/DA os/NC més/RG llarg/AQ i/CC medial/AQ de/SP l'/DA avantbraç/NC ./FF
+És/VS llarg/AQ ,/FF parell/NC ,/FF asimètric/AQ ,/FF irregular/AQ i/CC format/NC per/SP un/DI cos/NC prismàtic/AQ triangular/VM ;/FF amb/SP tres/ZZ cares/NC ,/FF anterior/AQ ,/FF posterior/AQ i/CC interna/AQ ;/FF tres/VM vores/NC ,/FF anterior/AQ ,/FF posterior/AQ i/CC externa/NC ;/FF i/CC dos/ZZ extrems/NC ,/FF superior/AQ i/CC inferior/AQ ./FF
+Es/P0 troba/VM a/SP el/DA costat/NC interior/AQ de/SP l'/DA avantbraç/NC ;/FF per/SP amunt/RG ,/FF s'/P0 articula/VM amb/SP l'/DA húmer/NC i/CC el/DA radi/NC ,/FF i/CC per/SP sota/NC amb/SP l'/DA os/NC piramidal/AQ de/SP el/DA carp/NC i/CC amb/SP el/DA radi/NC ./FF
+Rina_Sat/NP (/FF ,/FF Sat_Rina/NP )/FF va/VA neixer/VM el/DA 2_de_maig_del_1981/WW ./FF
+És/VS una/DI Seiy/NP (/FF actriu/NC de/SP doblatge/NC )/FF de/SP Kitaky/NP sh/NC ./FF
+Doblatges/NP per/SP any/NC ./FF
+L'/DA ordre/NC d'/SP aquesta/DD llista/NC és/VS personatge/NC i/CC sèrie/NC ./FF
+2004/ZZ ./FF
+Prim_Snowlight_de_Divergence_Eve/NP ./FF ;/FF Tsutako_Takeshima_de_Maria-sama/NP ga/VM Miteru/NP ./FF ;/FF Tsutako_Takeshima_de_Maria-sama/NP ga/VM Miteru/NP ~/FF Haru/NP ~/FF ./FF
+2005/ZZ ./FF
+Yukimi_Itami_de_Gokujou_Seitokai/NP ./FF ;/FF Yuka_Kasuga_de_Jigoku_Shoujo/NP ./FF ;/FF Munepi_de_D.C.S.S._Da_Capo_Second_Season/NP ./FF ;/FF Yuki_Kusakabe/NP de/SP ToHeart2/ZZ ./FF
+Mia/NP //FF Sophie_de_Fushigiboshi/NP no/RN Futagohime/NP ./FF
+Negi_Springfield_de_Mahou_Sensei_Negima/NP !/FF ./FF
+lo/NC de/SP Mushishi/NP ./FF
+2006/ZZ ./FF
+Natsuko_Kameyama_de_Kashimashi/NP ~/FF Girl_Meets_Girl/NP ~/FF ./FF
+February_de_Coyote_Ragtime_Show/NP ./FF
+Charu_de_Get_You/NP !/FF ./FF
+K/NP suke/RG Ichij/NP ,/FF de/SP School_Rumble_Ni_Gakki/NP ;/FF Tanaka_Punie_de_Dai_Mahou_Touge/NP ;/FF Mizusawa_de_ZEGAPAIN/NP ;/FF Flood_de_Tactical_Roar/NP ;/FF Mudie_Holcrof_de_Mobile_Suit_Gundam_SEED_C.E./NP 73/ZZ :/FF Stargazer/NP ;/FF Yuuji/NP ,/FF Arisa_Shidou_de_Tona-Gura/NP !/FF ./FF
+Negi_Springfield_de_Negima/NP !/FF ?/FF ;/FF Yuyama_Kakunojo_de_Bakumatsu_Kikansetsu_Irohanihoheto/NP ;/FF Ren-tan_de_Binch/NP -/FF tan/RG ./FF
+Kyukyu/NP //FF Sophie_de_Fushigiboshi/NP no/RN Futagohime_Gyu/NP !/FF ./FF
+2007/ZZ ./FF
+Shiori_Makimura/NP ,/FF Koutarou_Azumamiya/NP ,/FF Eight/NP ,/FF Nadja_Orumuzuto_de_Hayate/NP the/AQ Combat_Butler/NP ./FF ;/FF Mana_Kamishiro_de_Kishin_Taisen_Gigantic_Formula/NP ./FF
+Kozue_de_Kyoshiro/NP to/NC Towa/NP no/RN Sora/NP ./FF
+Prinesca_Yugiri_de_Shinkyoku_Soukai_Polyphonica/NP ./FF
+Melhis_Roythiers_de_Mana-Khemia/NP :/FF Alchemists/NP of/NC Al-Revis/NP ./FF
+Haruka_Minami_de_Minami-ke/NP ./FF
+Satori_Azuma_de_Bamboo_Blade/NP ./FF
+Kureha_Akabane_de_Wizard_The_ANIMATION/NP ./FF
+Kiyoh_de_Tengen_Toppa_Gurren_Lagann/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Base/NP de/SP dades/NC de/SP Anime/NP news/NC net/AQ ;/FF
+El/DA raquitisme/NC és/VS una/DI malaltia/NC que/PR caracteritzada/VM per/SP la/DA reabsorció/NC de/SP el/DA fosfat/NC a/SP els/DA ronyons/NC ,/FF la/DA disminució/NC de/SP la/DA vitamina/NC D/NP i/CC de/SP calci/NC i/CC fosfat/NC en/SP la/DA sang/NC ./FF
+Símptomes/NP ./FF
+Es/P0 deformen/VM els/DA ossos/NC ,/FF dolor/NC muscular/AQ i/CC a/SP els/DA ossos/NC ,/FF deficiència/NC a/SP el/DA creixement/NC ,/FF desnutrició/NC ,/FF anomalies/NC dentals/AQ ,/FF etc/FF .../FF Causes/NC ./FF
+Falta/NC de/SP calci/NC i/CC mala/AQ nutrició/NC ./FF
+Tractament/NP ./FF
+S'/P0 ha/VA de/SP prendre/VM calci/NC i/CC mantenir/VM una/DI bona/AQ dieta/NC ./FF
+Convergència_de_Demòcrates_de_Navarra/NP (/FF CDN/NP )/FF és/VS un/DI partit/NC polític/AQ navarrès/AQ de/SP centre/NC i/CC regionalista/NC fundat/VM en/SP 1995/ZZ com/CS fruit/VM d'/SP una/DI escisió/NC des_de/SP Unió_de_el_Poble_Navarrès/NP (/FF UPN/NP )/FF ./FF
+Es/P0 defineixen/VM com/CS «/FF un/DI projecte/NC polític/AQ de/SP centre/NC progressista/AQ %/FF ./FF
+Des_de/SP la/DA idea/NC de/SP la/DA "/FF navarridad/NC "/FF integradora/AQ ,/FF oposada/VM a/SP el/DA "/FF navarrisme/NC "/FF excloent/AQ ,/FF els/DA principis/NC polítics/AQ la/DA identitat/NC de/SP Navarra/NP com/CS Comunitat_Foral/NP diferenciada/VM ,/FF el/DA seu/PX desenvolupament/NC integral/AQ i/CC la/DA cohesió/NC de/SP la/DA societat/NC navarresa/AQ des_de/SP el/DA seu/PX pluralisme/NC »/FF >/FF ./FF
+El/DA seu/PX líder/NC és/VS Juan_Cruz_Alli/NP ,/FF que/PR va/VA ser/VS President_de_el_Govern_de_Navarra_per_UPN/NP entre/SP 1991/ZZ i/CC 1995/ZZ ./FF
+Entre/SP 1995/ZZ i/CC 1996/ZZ va/VA formar/VM coalició/NC de/SP govern/NC amb/SP el/DA Partit_Socialista_de_Navarra/NP i/CC Eusko_Alkartasuna/NP ./FF
+Des_de/SP 2003/ZZ s'/P0 integra/VM en/SP una/DI coalició/NC de/SP govern/NC amb/SP UPN/NP ./FF
+En/SP l'/DA actualitat/NC disposa/VM de/SP dues/ZZ conselleries/NC ,/FF la/DA Conselleria_d'_Educació/NP (/FF Carlos_Pérez-Nievas_López_de_Goicoechea/NP )/FF i/CC el/DA Conseller_d'_Habitatge/NP (/FF José_Carlos_Esparza_Sáez/NP )/FF ./FF
+Defensa/VM la/DA furs/NC de/SP Navarra/NP ,/FF i/CC els/DA drets/NC històrics/AQ i/CC entén/VM que/CS "/FF l'/DA amo/NC de/SP el/DA seu/PX futur/NC és/VS el/DA poble/NC navarrès/AQ "/FF ./FF
+S'/P0 oposa/VM obertament/NC a/SP la/DA integració/NC de/SP Navarra/NP en/SP el/DA País_Basc/NP encara/RG que/CS defensa/VM que/CS la/DA quarta/AO disposició/NC transitòria/AQ de/SP la/DA Constitució/NP espanyola/AQ ,/FF que/PR preveu/VM un/DI referèndum/NC davant/SP aquesta/DD eventualitat/NC ,/FF es/P0 mantingui/VM ./FF
+Les/DA joventuts/NC de/SP CDN/NP es/P0 denominen/VM Joves_Democrátas_de_Navarra/NP //FF Nafarroako_Gazte_Demokratak/NP (/FF JDN/NP )/FF ./FF
+Evolució/NC electoral/AQ ./FF
+Des_de/SP la/DA seva/PX fundació/NC CDN/NP ha/VA experimentat/VM un/DI descens/NC electoral/AQ ,/FF tendència/NC que/PR va/VA trencar/VM en/SP les/DA eleccions/NC forals/AQ de/SP 2003/ZZ ,/FF en/SP la/DA qual/PR va/VA créixer/VM en/SP nombre/NC de/SP vots/NC i/CC va/VA obtenir/VM un/DI parlamentari/AQ foral/AQ més/RG ,/FF no/RN afectant/VM -li/PP la/DA il·legalització/NC de/SP Batasuna/NP ./FF
+En/SP 1995/ZZ va/VA obtenir/VM el/DA 18,55_%/ZZ de/SP els/DA vots/NC i/CC 10/ZZ diputats/NC ./FF
+En/SP 1999/ZZ el/DA 6,86_%/ZZ i/CC 3/ZZ representants/NC ./FF
+En/SP 2003/ZZ va/VA arribar/VM el/DA 7,65_%/ZZ i/CC va/VA augmentar/VM un/DI escó/NC (/FF fins/RG a/SP 4/ZZ )/FF ,/FF sent/VM el/DA total/NC de/SP vots/NC nuls/AQ de/SP el/DA 6,48_%/ZZ de/SP el/DA total/NC ./FF
+En/SP 2007/ZZ ,/FF va/VA obtenir/VM 14.259/ZZ vots/NC (/FF 4,4_%/ZZ )/FF ,/FF el/DA que/PR es/P0 va/VA traduir/VM en/SP 2/ZZ parlamentaris/NC ./FF
+A/SP les/DA eleccions/NC municipals/AQ de/SP 1995/ZZ va/VA arribar/VM el/DA 8,34_%/ZZ i/CC 42/ZZ regidors/NC ./FF
+En/SP 1999/ZZ ,/FF el/DA 4,91_%/ZZ i/CC 25/ZZ ./FF
+En/SP 2003/ZZ ,/FF i/CC a_pesar_que/CS els/DA vots/NC nuls/AQ sumaven/VM el/DA 5,79_%/ZZ i/CC els/DA blancs/NC gairebé/RG el/DA 4_%/ZZ ,/FF va/VA continuar/VM descendint/VM a/SP el/DA 3,46_%/ZZ i/CC 17/ZZ regidors/NC ./FF
+El/DA 2007/ZZ va/VA obtenir/VM 7.661/ZZ vots/NC (/FF 2,29_%/ZZ )/FF i/CC 16/ZZ regidors/NC ./FF
+A/SP les/DA eleccions/NC generals/AQ va/VA passar/VM de/SP el/DA 5,25_%/ZZ en/SP 1996/ZZ a/SP el/DA 1,64_%/ZZ en/SP 2004/ZZ ambdós/PI cops/NC sense/SP representació/NC i/CC a/SP les/DA europees/NC va/VA registrar/VM el/DA 0,86_%/ZZ ,/FF a_pesar_que/CS els/DA vots/NC nuls/AQ van/VA arribar/VM el/DA 7,28_%/ZZ ./FF
+Des_de/SP les/DA eleccions/NC municipals/AQ de/SP 2007/ZZ ,/FF CDN/NP governa/VM dos/ZZ petits/NC ajuntaments/NC a/SP Navarra/NP ,/FF Azuelo/NP i/CC Enériz/NP ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP de/SP el/DA partit/NC ;/FF
+Rolde/NP és/VS una/DI revista/NC de/SP cultura/NC aragonesa/AQ creada/VM a/SP Saragossa/NP el/DA 1977/ZZ per/SP el/DA Rolde_de_Estudios_Nacionalista_Aragonés/NP ,/FF i/CC d'_ençà_de/SP el/DA 1991/ZZ de/SP n'/PP encarrega/VM el/DA Rolde_de_Estudios_Aragoneses/NP ./FF
+Hom/PI pot/VM publicar/VM -hi/PP en/SP aragonès/NC ,/FF català/AQ o/CC castellà/AQ treballs/NC d'/SP investigació/NC ,/FF erudició/NC i/CC assaig/NC amb/SP uns/DI altres/PI de/SP creació/NC literària/AQ i/CC artística/AQ de/SP temàtica/NC aragonesa/AQ ./FF
+La/DA publicació/NC sempre/RG ha/VA mantingut/VM un/DI tarannà/NC obert/VM i/CC plural/AQ ,/FF amb/SP els/DA anys/NC ha/VA augmentat/VM el/DA nombre/NC de/SP pàgines/NC i/CC l'/DA extensió/NC de/SP treballs/NC publicats/VM ,/FF i/CC hi/PP ha/VA publicat/VM intel·lectuals/AQ aragonesos/NC de/SP prestigi/NC com/CS Eloy_Fernández_Clemente/NP ./FF
+Políticament/RG ,/FF assumeix/VM alguns/DI principis/NC d'/SP esquerra/NC i/CC de/SP partits/NC com/CS Moviment_Nacionalista_Aragonès/NP i/CC Partit_Socialista_d'_Aragó/NP ,/FF i/CC es/P0 defineix/VM com/CS a/SP instrument/NC de/SP reivindicació/NC ,/FF coneixement/NC ,/FF anàlisi/NC i/CC ensenyament/NC de/SP la/DA cultura/NC aragonesa/AQ per_tal_de/SP contribuir/VM a/SP la/DA construcció/NC d'/SP un/DI futur/NC per/SP a/SP Aragó/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web_de_Rolde/NP ;/FF
+Aliança_Socialista_d'_Aragó/NP (/FF ASA/NP )/FF fou/VS un/DI partit/NC polític/AQ fundat/VM el/DA novembre_de_1974/WW a/SP Saragossa/NP ,/FF per/SP acord/NC d'/SP un/DI grup/NC de/SP socialistes/NC independents/AQ integrats/VM a/SP la/DA Junta_Democràtica_d'_Aragó/NP ./FF
+Era/VS constituït/VM en/SP els/DA seus/PX inicis/NC per/SP professionals/NC i/CC homes/NC de/SP la/DA cultura/NC aragonesa/AQ (/FF Saturnino_Cisneros/NP ,/FF Emilio_Gastón/NP i/CC Antonio_Giménez/NP )/FF i/CC ampla/AQ ràpidament/RG la/DA seva/PX militància/NC gràcies_a/SP un/DI programa/NC centrat/VM en/SP l'/DA oposició/NC a/SP el/DA règim/NC franquista/AQ i/CC la/DA reivindicació/NC autonomista/AQ en/SP el/DA marc/NC de/SP el/DA socialisme/NC democràtic/AQ ./FF
+Els/DA seus/PX membres/NC crearen/VM el/DA Partit_Socialista_d'_Aragó/NP (/FF PSA/NP )/FF el/DA 1975/ZZ .

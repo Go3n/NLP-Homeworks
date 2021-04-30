@@ -106,4 +106,88 @@ Scutiger/NP mammatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/N
 Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
 Hilari_Salvadó/NP i/CC Castell/NP (/FF Barcelona/NP 1899/ZZ -/FF 1966/ZZ )/FF fou/VS un/DI polític/NC català/AQ ./FF
 Era/VS fill/NC de/SP pescadors/NC de/SP la/DA Barceloneta/NP ,/FF i/CC va/VA perdre/VM el/DA seu/PX pare/NC i/CC quatre/ZZ germans/NC en/SP un/DI temporal/NC el/DA 1911/ZZ ./FF
-Després/RG es/P0 dedicà/VM a/SP
+Després/RG es/P0 dedicà/VM a/SP el/DA comerç/NC ./FF
+Milità/VM a/SP Estat_Català/NP i/CC a/SP ERC/NP ,/FF i/CC va/VA formar_part/VM també/RG de/SP la/DA direcció/NC de/SP les/DA Joventuts_d'_Esquerra_Republicana-Estat_Català/NP ,/FF en/SP què/PT fou/VS membre/NC de/SP el/DA Comitè_Pro-Premsa/NP ./FF
+A/SP les/DA eleccions/NC muncipals/AQ de/SP gener_de_1934/WW fou/VS elegit/VM regidor/NC de/SP l'/DA Ajuntament_de_Barcelona/NP ,/FF on/PR assolí/VM una/DI gran/AQ popularitat/NC ./FF
+El/DA 1935/ZZ es/P0 va/VA incorporar/VM a/SP la/DA direcció/NC d'/SP ERC/NP i/CC en/SP esclatar/VM la/DA guerra/NC civil/AQ espanyola/AQ fou/VS nomenat/VM regidor/NC de/SP governació/NC i/CC delegat/NC de/SP la/DA Generalitat/NP a/SP la/DA Cambra_Oficial_de_Comerç/NP ,/FF Indústria/NP i/CC Navegació_de_Barcelona/NP ./FF
+El/DA juliol_de_1937/WW fou/VS nomenat/VM alcalde/NC de/SP Barcelona/NP i/CC es/P0 preocupà/VM sobretot/RG de/SP la/DA defensa/NC passiva/AQ davant/SP els/DA violents/AQ bombardeigs/NC franquistes/AQ i/CC divulgà/VM el/DA tema/NC a/SP Londres/NP ,/FF Brussel·les/NP i/CC París/NP ./FF
+S'/P0 exilià/VM el/DA 1939/ZZ ./FF
+Condemnat/VM en/SP rebel·lia/NC per/SP les/DA autoritats/NC franquistes/AQ ,/FF va/VA poder/VM tornar/VM a/SP Barcelona/NP uns/DI anys/NC abans/RG de/SP la/DA seva/PX mort/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia/NP ;/FF
+Scutiger/NP muliensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Changyuan/NP ,/FF Y./NP 2004/ZZ ./FF
+Scutiger/NP muliensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF ;/FF Accedit/NP a/SP data/NC 13_de_gener_de_2008/WW ./FF
+Scutiger/NP nepalensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP el/DA Nepal/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA Xina/NP i/CC Índia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Ohler/NP ,/FF A._&_Shrestha/NP ,/FF T.K./NP 2004/ZZ ./FF
+Scutiger/NP nepalensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
+Scutiger/NP ningshanensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Referències/NP ./FF
+Gang/NP ,/FF L._&_Pipeng/NP ,/FF L./NP 2004/ZZ ./FF
+Scutiger/NP ningshanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
+Pàmfos/NP (/FF Pamphos/NP ,/FF Pámphos/NP )/FF fou/VS un/DI poeta/NC mític/AQ grec/AQ que/CS Pausànies/NP situa/VM com/CS a/SP posterior/AQ a/SP Olen/NP ,/FF i/CC anterior/AQ a/SP Homer/NP ./FF
+El/DA seu/PX nom/NC es/P0 connectat/VM particularment/RG a/SP l'/DA Àtica/NP i/CC se/P0 l/NC '/FF atribueixen/VM nombrosos/AQ antic/AQ himnes/NC preservats/VM per/SP els/DA licòmides/NC ,/FF entre/SP els/DA quals/PR un/DI himne/NC a/SP Dèmeter/NP ,/FF un/PI a/SP Àrtemis/NP ,/FF un/PI a/SP Posidó/NP ,/FF un/PI a/SP Zeus/NP ,/FF un/PI a/SP Eros/NP ,/FF un/PI a/SP les/DA Gracies/NP i/CC altres/DI ./FF
+El/DA seu/PX nom/NC en/SP llatí/NC era/VS Pamphos/NP i/CC no/RN Pamphus/NP ./FF
+La/DA teoria/NC de/SP flogist/NC (/FF de/SP el/DA grec/NC phl/AQ gistón/NC "/FF inflamable/AQ "/FF de/SP phlóx/NC "/FF foc/NC "/FF )/FF és/VS una/DI teoria/NC científica/AQ antiga/AQ ,/FF creada/VM el/DA 1667/ZZ per/SP Johann_Joachim_Becher/NP ,/FF per/SP el/DA qual/PR a_més_a_més/RG de/SP els/DA quatre/ZZ elements/NC clàssics/AQ de/SP els/DA grecs/NC ,/FF hi/PP havia/VA un/DI element/NC addicional/AQ semblant/NC a/SP un/DI foc/NC anomenat/VM el/DA flogist/NC ,/FF que/PR estava/VM contingut/NC dins/RG de/SP els/DA cossos/NC combustibles/AQ ,/FF i/CC alliberat/VM ,/FF a/SP graus/NC més/RG petits/AQ o/CC més/RG grans/AQ ,/FF durant/SP la/DA combustió/NC ./FF
+La/DA teoria/NC era/VS una/DI temptativa/NC d/AQ explicar/VM processos/NC d/AQ oxidació/NC ,/FF com/CS la/DA combustió/NC i/CC l/NC oxidació/NC de/SP metalls/NC ./FF
+Teoria/NP de/SP el/DA flogist/NC ./FF
+Teoria_de_Becher/NP ./FF
+Johann_Joachim_Becher/NP (/FF 1635-1682/ZZ )/FF ,/FF químic/NC alemany/AQ ,/FF les/DA investigacions/NC i/CC les/DA recerques/NC de/SP el/DA qual/PR ,/FF sobre/SP la/DA combustió/NC van/VA ser/VS la/DA base/NC de/SP la/DA teoria/NC de/SP el/DA flogist/NC ./FF
+Va/VA néixer/VM a/SP Spira/NP ,/FF Alemanya/NP ,/FF i/CC va/VA viure/VM durant/SP un/DI temps/NC a/SP Viena/NP ,/FF on/PR va/VA realitzar/VM uns/DI experiments/NC que/PR pretenien/VM transformar/VM la/DA sorra/NC de/SP el/DA riu/NC Danubi/NP en/SP or/NC ./FF
+a/SP el/DA 1667/ZZ ,/FF Johann_Joachim_Becher/NP ,/FF va/VA publicar/VM la/DA seva/PX Physica_Subterranea/NP ,/FF que/PR era/VS la/DA primera/AO menció/NC que/PR es/P0 faria/VM de/SP la/DA teoria/NC de/SP flogist/NC ./FF
+Tradicionalment/RG ,/FF els/DA alquimistes/NC van/VA considerar/VM que/CS hi/PP havia/VA quatre/ZZ elements/NC clàssics/AQ :/FF foc/NC ,/FF aigua/NC ,/FF aire/NC ,/FF i/CC terra/NC ./FF
+En/SP el/DA seu/PX llibre/NC ,/FF Becher/NP va/VA eliminar/VM el/DA foc/NC i/CC l/NC aire/NC de/SP el/DA model/NC d/AQ element/NC clàssic/AQ i/CC els/PP va/VA substituir/VM per/SP tres/ZZ formes/NC de/SP terra/NC :/FF terra/NC lapídia/AQ ,/FF terra/NC mercurialis/NC ,/FF i/CC terra/NC pinguis/NC ./FF
+A/SP la/DA teoria/NC de/SP Becher/NP ,/FF la/DA terra/NC lapídia/AQ representava/VM el/DA grau/NC de/SP fusibilitat/NC ;/FF la/DA terra/NC mercurialis/NC ,/FF indicava/VM el/DA grau/NC de/SP fluïdesa/NC ,/FF subtilesa/NC ,/FF volatilitat/NC ,/FF i/CC característiques/NC metàl·liques/AQ ;/FF i/CC la/DA terra/NC pinguis/NC es/P0 considerava/VM portadora/AQ de/SP el/DA principi/NC de/SP la/DA inflamabilitat/NC ./FF
+El/DA nom/NC d'/SP aquesta/DD darrera/AO podria/VM traduir/VM -se/P0 com/CS "/FF terra/NC grassa/AQ "/FF o/CC "/FF terra/NC oleaginosa/AQ "/FF ,/FF encara/RG que/CS Becher/NP va/VA emprar/VM també/RG d/AQ altres/DI expressions/NC per/SP designar/VM -la/PP ,/FF entre/SP elles/PP "/FF sofre/NC flogist/NC "/FF aquest/DD substantiu/NC derivat/VM de/SP el/DA grec/AQ phlogistos/NC ,/FF que/PR significa/VM inflamable/AQ ./FF
+Becher/NP va/VA creure/VM que/CS la/DA terra/NC pinguis/NC la/PP tenien/VM les/DA substàncies/NC combustibles/AQ i/CC l'/DA alliberava/VM durant/SP la/DA combustió/NC ./FF
+Teoria_de_Stahl/NP ./FF
+Georg_Ernst_Stahl/NP ,/FF un/DI químic/NC alemany/AQ ,/FF era/VS un/DI estudiant/NC de/SP Becher/NP que/PR va/VA ampliar/VM les/DA seves/PX teories/NC amb/SP diverses/DI publicacions/NC en/SP el/DA període/NC entre/SP 1703/ZZ i/CC 1731/ZZ ./FF
+Amb/SP un/DI treball/NC 1718/ZZ ,/FF Stahl/NP fou/VS el/DA primer/AO de/SP tornar/VM a/SP donar/VM nom/NC a/SP la/DA terra/NC pinguis/NC que/PR anomenà/VM flogist/NC ./FF
+El/DA treball/NC de/SP Stahl/NP va/VA analitzar/VM el/DA paper/NC de/SP flogist/NC a/SP la/DA combustió/NC i/CC la/DA calcinació/NC ,/FF el/DA terme/NC de/SP segle_XVII/WW per/SP a/SP l/NC oxidació/NC ./FF
+La/DA teoria/NC sosté/VM que/CS tots/DI els/DA materials/NC inflamables/AQ contenen/VM el/DA flogist/NC ,/FF una/DI substància/NC sense/SP color/NC ,/FF olor/NC ,/FF o/CC massa/RG i/CC que/PR és/VS alliberada/VM en/SP la/DA combustió/NC ./FF
+Una/DI vegada/NC cremat/NC ,/FF la/DA substància/NC "/FF aflogística/AQ "/FF es/P0 transforma/VM en/SP calç/NC ./FF
+Stahl/NP amb/SP la/DA seva/PX teoria/NC explicava/VM fenòmens/NC com/CS que/CS una_candela/ZZ encesa/NC i/CC tancada/NC dins/RG d'/SP un/DI recipient/NC hermètic/AQ acabàs/VM apagant/VM -se/P0 perquè/CS l/NC aire/NC se/P0 satura/VM de/SP flogist/NC i/CC no/RN permet/VM més/RG alliberació/NC d/AQ aquesta/DD substància/NC provinent/AQ de/SP la/DA candela/NC ./FF
+El/DA desenvolupament/NC de/SP la/DA química/NC pneumàtica/AQ en/SP el/DA segle_XVIII/WW va/VA suposar/VM nous/AQ reptes/NC per/SP a/SP aquesta/DD interpretació/NC que/PR van/VA ser/VS afrontats/VM per/SP Joseph_Priestley/NP ./FF
+Aquest/DD autor/NC va/VA emprar/VM la/DA teoria/NC de/SP el/DA flogist/NC per/SP explicar/VM les/DA transformacions/NC de/SP el/DA que/PR denominava/VM "/FF fluids/NC elàstics/AQ "/FF o/CC gasos/NC ./FF
+Priestley/NP va/VA introduir/VM expressions/NC com/CS "/FF aire/NC flogisticat/VM "/FF i/CC "/FF aire/NC desflogisticat/VM "/FF ./FF
+S/NP havia/VA observat/VM des_de/SP l'/DA antigüitat/NC que/CS qualsevol/DI substància/NC es/P0 crema/VM durant/SP un/DI període/NC limitat/VM si/CS la/DA quantitat/NC d/AQ aire/NC disponible/AQ és/VS igualment/RG limitada/VM en_cas_de/SP trobar/VM -se/PP ,/FF per_exemple/RG ,/FF en/SP un/DI recipient/NC estanc/AQ ./FF
+Priestley/NP va/VA denominar/VM a/SP el/DA residu/NC d/AQ aire/NC que/PR quedava/VM després/RG de/SP el/DA procés/NC de/SP combustió/NC (/FF de/SP fet/NC ,/FF una/DI mescla/NC de/SP nitrogen/NC i/CC diòxid_de_carboni/NC )/FF "/FF aire/NC flogisticat/VM "/FF ,/FF perquè/CS pensava/VM que/CS durant/SP la/DA combustió/NC ,/FF el/DA mencionat/VM aire/NC havia/VA absorbit/VM tot/RG el/DA flogist/NC que/PR tenia/VM capacitat/NC de/SP tenir/VM ./FF
+La/DA combustió/NC cessava/VM perquè/CS no/RN podia/VM absorbir/VM més/RG flogist/NC ./FF
+Sempre/RG seguint/VM aquesta/DD línia/NC de/SP raonament/NC ,/FF quan/CS Priestley/NP va/VA escalfar/VM la/DA calç/NC vermella/AQ de/SP mercuri/NC i/CC va/VA obtenir/VM una/DI mena/NC d/AQ aire/NC que/PR podia/VM mantenir/VM més/RG temps/NC la/DA combustió/NC ,/FF ho/PP va/VA denominar/VM "/FF aire/NC desflogisticat/VM "/FF ./FF
+Els/DA experiments/NC quantitatius/AQ van/VA revelar/VM problemes/NC ,/FF incloent/VM el/DA fet/NC que/CS algun/DI tipus/NC de/SP metall/NC ,/FF com/CS el/DA magnesi/NC ,/FF guanyava/VM pes/NC en/SP cremar/VM -se/P0 encara/RG que/PR perdia/VM el/DA flogist/NC ./FF
+Alguns/DI defensors/NC de/SP flogist/NC van/VA explicar/VM això/PD suposant/VM que/CS el/DA flogist/NC tenia/VM "/FF el/DA pes/NC negatiu/AQ "/FF ;/FF d'/SP altres/PI ,/FF com/CS Louis_Bernard_Guyton_de_Morveau/NP ,/FF donaren/VM l/NC argument/NC més/RG convencional/AQ que/CS era/VS més/RG lleuger/AQ que/CS l/NC aire/NC ./FF
+Tanmateix/RG ,/FF una/DI anàlisi/NC més/RG detallada/VM basada/VM en/SP el/DA principi/NC d'/SP Arquimedes/NP i/CC la/DA densitat/NC de/SP el/DA magnesi/NC i/CC el/DA seu/PX producte/NC de/SP combustió/NC mostrava/VM que/CS solament/RG ser/VS més/RG lleuger/AQ que/CS l/NC aire/NC no/RN podia/VM explicar/VM l/NC augment/NC de/SP la/DA massa/NC ./FF
+Teoria/NP de/SP la/DA combustió/NC de/SP Lavoisier/NP ./FF
+Mikhail_Lomonosov/NP va/VA intentar/VM repetir/VM l/NC experiment/NC famós/AQ de/SP Robert_Boyle/NP en/SP 1753/ZZ i/CC va/VA concloure/VM que/CS la/DA teoria/NC de/SP flogist/NC era/VS falsa/AQ ./FF
+Ell/PP va/VA escriure/VM en/SP el/DA seu/PX diari/NC :/FF "/FF Avui/RG he/VA fet/VM un/DI experiment/NC amb/SP una/DI campana/NC de/SP vidre/NC tancada/VM de/SP forma/NC hermètica/AQ per/SP determinar/VM si/CS la/DA massa/NC de/SP metalls/NC augmenta/VM de/SP l/NC acció/NC de/SP la/DA calor/NC pura/AQ ./FF
+L/NP experiment/VM ha/VA demostrat/VM que/CS Robert_Boyle/NP va/VA ser/VS enganyat/VM ,/FF ja_que/CS sense/SP l/NC accés/NC d/AQ aire/NC de/SP fora/RG ,/FF la/DA massa/NC de/SP el/DA metall/NC cremat/NC deixa/VM el/DA mateix/PI ./FF "/FF Però/CC la/DA teoria/NC de/SP el/DA flogist/NC es/P0 va/VA mantenir/VM fins/SP els/DA anys/NC vuitanta/ZZ de/SP el/DA segle_XVIII/WW ,/FF fins/RG que/CS Antoine_Laurent_Lavoisier/NP dissenyà/VM un/DI experiment/NC per/SP contrastar/VM -la/PP ./FF
+Experiment/NP :/FF Lavoisier/NP col·locà/VM una/DI petita/AQ quantitat/NC de/SP substància/NC combustible/NC (/FF mercuri/NC )/FF sobre/SP un/DI sòlid/NC surant/VM damunt/RG d'/SP aigua/NC i/CC ho/PP tanca/VM sota/SP una/DI campana/NC de/SP vidre/NC ./FF
+Amb/SP una/DI lupa/NC concentrà/VM la/DA llum/NC que/PR permeté/VM encendre/VM el/DA (/FF mercuri/NC )/FF ./FF
+Predicció/NP :/FF Segons/SP la/DA teoria/NC de/SP el/DA flogist/NC :/FF a/SP )/FF El/NP cos/NC flotant/AQ està/VM menys/RG submergit/VM després/RG de/SP la/DA combustió/NC ja_que/CS la/DA quantitat/NC restant/AQ de/SP substància/NC junt/AQ a/SP la/DA cendra/NC ha/VA de/SP pesar/VM menys/RG que/CS la/DA inicial/AQ ./FF b/NC )/FF El/NP volum/NC d/AQ aire/NC dintre/RG de/SP la/DA campana/NC a/SP d/NC augmentar/VM com/CS a/SP efecte/NC de/SP l/NC assimilació/NC de/SP el/DA flogist/NC i/CC amb/SP això/PD el/DA nivell/NC de/SP líquid/AQ tancat/NC ha/VA de/SP ser/VS més/RG baix/AQ que/CS a/SP el/DA començament/NC ./FF ;/FF Resultats/NP :/FF Les/DA observacions/NC contradiren/VM els/DA resultats/NC esperats/VM ./FF
+Interpretació_de_Lavoisier/NP :/FF Lavoisier/NP interpretà/VM correctament/RG la/DA combustió/NC eliminat/VM el/DA flogist/NC en/SP la/DA seva/PX explicació/NC ./FF
+Les/DA substàncies/NC que/PR cremen/VM es/P0 combinen/VM amb/SP l'/DA oxigen/NC de/SP l'/DA aire/NC ,/FF per/SP la/DA qual/DR cosa/NC guanyen/VM pes/NC ./FF
+L'/DA aire/NC que/PR està_en_contacte/VM amb/SP la/DA substància/NC que/PR es/P0 crema/VM perd/VM oxigen/NC i/CC ,/FF per/SP tant/RG ,/FF també/RG volum/NC ./FF
+Amb/SP Lavoisier/NP els/DA químics/NC abandonaren/VM progressivament/RG la/DA teoria/NC de/SP el/DA flogist/NC i/CC s'/P0 apuntaren/VM a/SP la/DA teoria/NC de/SP la/DA combustió/NC basada/VM en/SP l'/DA oxigen/NC ./FF
+Scutiger/NP pingwuensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Feng/NP ,/FF X./NP 2004/ZZ ./FF
+Scutiger/NP pingwuensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
+Scutiger/NP ruginosus/AQ és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Referències/NP ./FF
+Guanfu/NP ,/FF W._&_Yuezhao/NP ,/FF W./NP 2004/ZZ ./FF
+Scutiger/NP ruginosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
+Scutiger/NP tuberculatus/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Feng/NP ,/FF X./NP 2004/ZZ ./FF
+Scutiger/NP tuberculatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/

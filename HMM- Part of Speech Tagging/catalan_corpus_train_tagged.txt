@@ -190,4 +190,76 @@ Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el
 Referències/NP ./FF
 Liang/NP ,/FF F._&_Feng/NP ,/FF X./NP 2004/ZZ ./FF
 Scutiger/NP tuberculatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
-Accedit/VM a/SP data/NC 13_de_gener_de_2008/
+Accedit/VM a/SP data/NC 13_de_gener_de_2008/WW ./FF
+La/DA placa/NC de/SP Scotia/NP ,/FF o/CC rarament/RG anomenada/NC placa/NC escocesa/AQ ,/FF és/VS una/DI placa/NC tectònica/AQ no/RN massa/RG gran/AQ de/SP la/DA litosfera/NC terrestre/AQ ,/FF sovint/RG associada/NC a/SP la/DA placa/NC de/SP les/DA Sandwich/NP ./FF
+La/DA placa/NC de/SP Scotia/NP està_en_contacte/VM amb/SP les/DA plaques/NC sud-americana/AQ ,/FF Shetland/NP ,/FF antàrtica/AQ i/CC de/SP les/DA Sandwich/NP ./FF
+La/DA seva/PX superfície/NC és/VS de/SP 0,041/ZZ 90_estereoradiants/ZZ ./FF
+Cobreix/VM el/DA sud-oest/NC de/SP l'/DA oceà/NC Atlàntic/NP ,/FF a/SP el/DA sud/NC de/SP la/DA Terra_de_Foc/NP però/CC sense/SP Geòrgia_de_el_Sud/NP ,/FF les/DA illes/NC Sandwich_de_el_Sud/NP i/CC les/DA Shetland_de_el_Sud/NP ./FF
+Les/DA fronteres/NC amb/SP les/DA altres/DI plaques/NC estan/VM sobretot/RG formades/VM per/SP la/DA fossa/NC de/SP el/DA Perú/NP i/CC Xile/NP sobre/SP la/DA costa/NC pacífica/AQ d'/SP Amèrica_de_el_Sud/NP ./FF
+El/DA desplaçament/NC de/SP la/DA placa/NC de/SP Scotia/NP es/P0 fa/VM cap/NC a/SP l'/DA oest/NC a/SP una/DI velocitat/NC de/SP rotació/NC de/SP 0,6516°/ZZ per/SP milió/NC d'/SP anys/NC segons/SP un/DI pol/NC eulerià/AQ situat/VM a/SP 48°63/ZZ '/FF de/SP latitud/NC nord/AQ i/CC 81°45/ZZ '/FF de/SP longitud/NC oest/NC ./FF
+Vegeu/VM també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Scutiger/NP boulengeri/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP el/DA sud-est/NC d'/SP Àsia/NP ./FF
+Referències/NP ./FF
+Pere_Antoni_Pons/NP i/CC Tortella/NP és/VS un/DI filòleg/NC mallorquí/AQ ,/FF professor/NC a/SP la/DA facultat/NC de/SP filologia/NC de/SP la/DA Universitat_de_les_Illes_Balears/NP que/CS el/DA 2003/ZZ va/VA obtenir/VM un/DI de/SP els/DA Premis/NP 31_de_desembre/WW ./FF
+Obres/NC ./FF
+El/DA verí/NC de/SP els/DA angels/NC (/FF 1999/ZZ )/FF ;/FF El/NP fibló/NC i/CC la/DA festa/NC (/FF 2003/ZZ )/FF ;/FF Quimera/NP (/FF 2004/ZZ )/FF ;/FF Fervor/NP tan/RG fosc/RG (/FF 2007/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Qui/PT és/VS qui/PT ?/FF ;/FF
+Llança/NP -t/P0 'hi/PP ,/FF a/SP parlar/VM en/SP català/NC !/FF és/VS el/DA nom/NC de/SP el/DA material/NC fitxes/NC didàctiques/AQ i/CC CD/NP per/SP a/SP l'/DA aprenentatge/NC de/SP el/DA català/NC preparat/VM per/SP les/DA professores/NC Francesca_Cabot/NP i/CC Antònia_Santandreu/NP ,/FF sota/SP el/DA patrocini/NC de/SP la/DA Direcció_General_de_Política_Lingüística/NP i/CC de/SP el/DA Consorci/NP per/SP a/SP el/DA Foment_de_la_Llengua_Catalana/NP a/SP les/DA Illes_Balears/NP ,/FF el/DA 4_de_novembre_de_2003/WW ./FF
+Van/VA obtenir/VM el/DA Premi/NP 31_de_desembre_de_2003/WW ./FF
+Les/DA fitxes/NC s'/P0 estructuren/VM en/SP 40/ZZ unitats/NC i/CC utilitzen/VM una/DI metodologia/NC activa/AQ i/CC comunicativa/AQ que/PR permet/VM treballar/VM a/SP l'/DA aula/NC a/SP partir/VM bàsicament/RG de/SP la/DA llengua/NC oral/AQ ./FF
+Els/DA centres/NC d'/SP interès/NC i/CC la/DA tipologia/NC d'/SP exercicis/NC són/VS especialment/RG coherents/AQ amb/SP el/DA perfil/NC de/SP els/DA destinataris/NC i/CC els/DA seus/PX interessos/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Descripció/NP ;/FF
+Rossend_Marsol_Clua/NP ,/FF conegut/NC per/SP el/DA seu/PX pseudònim/NC Sícoris/NP ,/FF (/FF Artesa_de_Segre/NP ,/FF 22_d'_octubre_de_1922/WW -/FF Andorra_la_Vella/NP ,/FF 17_de_gener_de_2006/WW )/FF era/VS un/DI periodista/NC i/CC escriptor/NC andorrà/AQ ./FF
+Biografia/NP ./FF
+Rossend_Marsol/NP va/VA estudiar/VM dret/NC a/SP la/DA Universitat_de_Barcelona/NP ./FF
+Durant/SP la/DA dècada/NC de/SP els/DA 40/ZZ va/VA exercir/VM de/SP corresponsal/NC de/SP premsa/NC per/SP diversos/DI diaris/NC ,/FF però/CC a/SP l'/DA any/NC 1953/ZZ es/P0 va/VA exiliar/VM a/SP Andorra/NP per/SP la/DA seva/PX implicació/NC amb/SP el/DA catalanisme/NC i/CC activitats/NC antifranquisme/NC ./FF
+Com/CS a/SP gestor/NC administratiu/AQ fou/VS pioner/AQ a/SP Andorra/NP durant/SP molts/DI anys/NC ./FF
+Fou/VS el/DA corresponsal/NC de/SP els/DA diaris/NC La_Mañana/NP (/FF 1959-1990/ZZ )/FF ,/FF La_Vanguardia/NP (/FF 1965-1978/ZZ )/FF i/CC altres/PI ./FF
+Tingué/VM un/DI càrrec/NC a/SP Ràdio_Andorra/NP i/CC a/SP Ràdio_Valira/NP i/CC publicà/VM llibres/NC de/SP poemes/NC ./FF
+L'/DA autor/NC presentà/VM la/DA Nit_Literària_Andorrana/NP des_de/SP la/DA seva/PX creació/NC a/SP el/DA 1978/ZZ ./FF
+Va/VA morir/VM a/SP la/DA seva/PX casa/NC d'/SP Andorra_la_Vella/NP el/DA 17_de_gener_de_2006/WW a/SP l'/DA edat/NC de/SP 83/ZZ anys/NC ./FF
+Obres/NC (/FF poesia/NC )/FF ./FF
+Cel/NP i/CC muntanya/NC ,/FF Les_Escaldes/NP 1989/ZZ ;/FF Festa/NP major/AQ ,/FF Les_Escaldes/NP 2001/ZZ ;/FF La/NP terra/NC de/SP els/DA Valires/NP ,/FF Andorra_la_Vella/NP 2003/ZZ ;/FF Referències/NP ./FF
+Panè/NP (/FF Panaenus/NP ,/FF )/FF fou/VS un/DI destacat/VM pintor/NC atenenc/AQ que/PR va/VA florir/VM segons/SP Plini_el_Vell/NP a/SP l'/DA olimpíada/NC 83/ZZ ,/FF equivalent/AQ a/SP el/DA 448/ZZ aC/NC ./FF
+Era/VS nebot/NC de/SP Fídies/NP a/SP el/DA que/PR va/VA ajudar/VM a/SP decorar/VM el/DA temple/NC de/SP Zeus/NP a/SP Olímpia/NP ./FF
+Panè/NP hauria/VA ajudat/VM a/SP Fídies/NP a/SP decorar/VM l'/DA estàtua/NC de/SP Zeus/NP ,/FF especialment/RG donant/VM color/NC a/SP els/DA vestits/NC ,/FF i/CC diverses/DI pintures/NC a/SP la/DA rodalia/NC de/SP l'/DA estàtua/NC ./FF
+Pausànies/NP parla/VM de/SP les/DA pintures/NC de/SP Panè/NP en/SP aquesta/DD zona/NC i/CC diu/VM que/CS eren/VS :/FF Atles/NP aguantant/VM la/DA terra/NC i/CC Hèrcules/NP preparat/VM per/SP substituir/VM -lo/PP ;/FF Teseu/NP i/CC Piritous/NP ;/FF Hel·lè/NP i/CC Salamina/NP ;/FF La/NP lluita/NC d'/SP Hèrcules/NP amb/SP el/DA lleó/NC nemeu/AQ ;/FF Ajax/NP insultant/AQ a/SP Cassandra/NP ;/FF Hipodamia/NP filla/NC d'/SP Enomau/NP ,/FF amb/SP la/DA seva/PX mare/NC ;/FF Prometeu/NP encadenat/VM amb/SP Hèrcules/NP disposat/VM a/SP alliberar/VM -lo/PP ;/FF Pentesilea/NP a_punt_de/SP morir/VM sostinguda/VM per/SP Hèrcules/NP ;/FF Dos/VM Hespèrids/NP amb/SP les/DA pomes/NC que/PR tenien/VM l'/DA encàrrec/NC de/SP guardar/VM ;/FF També/NP va/VA pintar/VM a/SP la/DA Poecile_d'_Atenes/NP una/DI batalla/NC de/SP Marató/NP ,/FF amb/SP una/DI notable/AQ millora/NC de/SP els/DA colors/NC ./FF
+Plini/NP també/RG diu/VM que/CS va/VA dibuixar/VM a/SP alguns/DI generals/AQ com/CS Milcíades/NP (/FF segurament/RG el/DA Jove/NP )/FF ,/FF Cal·límac/NP i/CC Cinègir/NP (/FF atenencs/NC )/FF i/CC Datis/NP i/CC Artafernes/NP (/FF perses/NC )/FF ./FF
+Plini/NP també/RG diu/VM que/CS Panè/NP va/VA pintar/VM una/DI part/NC de/SP el/DA temple/NC d'/SP Atenea/NP a/SP Elis/NP amb/SP una/DI barreja/NC de/SP llet/NC i/CC safrà/NC ./FF
+Va/VA participar/VM en/SP un/DI concurs/NC de/SP pintura/NC establert/VM per/SP primera/AO vegada/NC a/SP els/DA jocs/NC pítics/AQ ,/FF a/SP Corint/NP i/CC Delfos/NP ,/FF i/CC es/P0 va/VA enfrontar/VM a/SP Timàgores_de_Calcis/NP ,/FF que/PR va/VA obtenir/VM el/DA premi/NC ./FF
+Onomàstica/NP :/FF Paneci_de_Leontins/NP o/CC Paneti_de_Leontins/NP ,/FF tirà/NC de/SP Leontins/NP el/DA 608/ZZ aC/NC ;/FF Paneci_de_Tenos/NP o/CC Paneti_de_Tenos/NP ,/FF militar/AQ de/SP Tenos/NP ;/FF Paneci_de_Rodes/NP o/CC Paneti_de_Rodes/NP ,/FF gramàtic/NC grec/AQ ;/FF Paneci/NP (/FF filòsof/NC )/FF ,/FF filòsof/NC estoic/AQ de/SP el/DA segle_II/WW aC/NC ./FF
+Paneci/NP o/CC Paneti_de_Leontins/NP (/FF Panaetius/NP ,/FF Panaítios/NP )/FF fou/VS tirà/NC de/SP Leontins/NP ./FF
+Fou/VS el/DA primer/AO tirà/NC de/SP Sicília/NP ./FF
+Fins/SP llavors/RG Leontins/NP tenia/VM un/DI govern/NC oligàrquic/AQ ,/FF però/CC aprofitant/VM una/DI guerra/NC amb/SP Megara/NP ,/FF Paneci/NP ,/FF que/PR havia/VA estat/VS nomenat/VM general/AQ ,/FF es/P0 va/VA fer/VM amb/SP el/DA poder/VM i/CC va/VA establir/VM la/DA tirania/NC ./FF
+Com/CS que/CS els/DA oligarques/NC havien/VA conservat/VM una/DI part/NC de/SP les/DA forces/NC armades/NC ,/FF les/PP va/VA atacar/VM amb/SP els/DA seus/PX homes/NC per/SP sorpresa/NC i/CC les/PP va/VA aniquilar/VM ./FF
+Això/PD va/VA passar/VM vers/SP el/DA 608/ZZ aC/NC ./FF
+Després/RG de/SP Paneci/NP ,/FF que/PR no/RN se/P0 sap/VM quans/RG anys/NC va/VA governar/VM ,/FF es/P0 va/VA restablir/VM la/DA república/NC ./FF
+Paneci/NP o/CC Paneti_de_Tenos/NP (/FF Panaetius/NP ,/FF Panaítios/NP )/FF ,/FF fill/NC de/SP Sosímenes/NP ,/FF fou/VS un/DI militar/AQ de/SP Tenos/NP ,/FF que/PR a/SP el/DA front/NC d'/SP un/DI vaixell/NC va/VA ser/VS obligat/VM acompanyar/VM a/SP Xerxes_I_de_Pèrsia/NP en/SP la/DA seva/PX invasió/NC de/SP Grècia/NP però/CC va/VA desertar/VM a/SP el/DA camp/NC grec/AQ quan/PR en/PP va/VA tenir/VM ocasió/NC ,/FF poc/RG abans/RG de/SP la/DA batalla/NC de/SP Salamina/NP ,/FF just/AQ a/SP temps/NC per/SP donar/VM informació/NC de/SP els/DA plans/NC de/SP la/DA flota/NC persa/AQ ./FF
+Mercès/NP a/SP aquesta/DD ajuda/NC ,/FF decisiva/AQ per/SP la/DA victòria/NC grega/AQ ,/FF els/DA habitants/NC de/SP Tenos/NP van/VA tenir/VM un/DI monument/NC dedicat/VM a/SP Delfos/NP a/SP el/DA costat/NC de/SP tots/DI el/DA que/PR havien/VA ajudat/VM a/SP destruir/VM les/DA forces/NC "/FF barbares/VM "/FF ./FF
+Maria_Pilar_Perea_Sabater/NP és/VS una/DI filòloga/NC catalana/AQ i/CC professora/NC de/SP filologia/NC catalana/AQ a/SP la/DA Universitat_de_Barcelona/NP ./FF
+S/NP ha/VA especialitzat/VM en/SP descripció/NC lingüística/AQ ,/FF dialectologia/NC i/CC morfofonologia/NC verbal/AQ ,/FF i/CC ha/VA desenvolupat/VM estudis/NC relacionats/VM amb/SP la/DA història/NC de/SP la/DA llengua/NC catalana/AQ ,/FF així/RG com/CS estudis/NC sobre/SP el/DA treball/NC d'/SP Antoni_Maria_Alcover/NP i/CC Francesc_de_Borja_Moll/NP ./FF
+Participa/VM en/SP la/DA xarxa/NC temàtica/AQ de/SP Variació/NP lingüística/AQ ,/FF coordinada/VM per/SP la/DA Universitat_de_Barcelona/NP ,/FF i/CC de/SP Gramàtica/NP teòrica/AQ ,/FF coordinada/VM per/SP la/DA Universitat_Autònoma_de_Barcelona/NP ./FF
+Ha/VA editat/VM la/DA primera/AO proposta/NC d/AQ atles/NC informatitzat/VM a/SP Catalunya/NP ,/FF "/FF La/DA flexió/NC verbal/AQ en/SP els/DA dialectes/NC catalans/AQ "/FF ./FF
+Les/DA dades/NC i/CC els/DA mapes/NC (/FF 2001/ZZ )/FF ./FF
+El/DA 2003/ZZ va/VA obtenir/VM un/DI de/SP els/DA Premis/NP 31_de_desembre/WW Obres/NP ./FF
+Compleció/NP i/CC ordenació/NC de/SP "/FF La/DA flexió/NC verbal/AQ en/SP els/DA dialectes/NC catalans/AQ "/FF d/AQ A._M._Alcover/NP i/CC F._de_B._Moll/NP (/FF 1999/ZZ )/FF ;/FF Complements/NP a/SP "/FF La/DA flexió/NC verbal/AQ en/SP els/DA dialectes/NC catalans/AQ "/FF (/FF 1999/ZZ )/FF ;/FF Els/NP dietaris/NC de/SP les/DA eixides/NC filològiques/AQ de/SP mossèn/NC Alcover/NP (/FF 2001/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Currículum/NP ;/FF
+Paneci/NP o/CC Paneti_de_Rodes/NP (/FF Panaetius/NP ,/FF Panaítios/NP )/FF (/FF vers/NC 180/ZZ aC-111/ZZ aC/NC )/FF fill/NC de/SP Nicàgores/NP ,/FF fou/VS un/DI gramàtic/NC grec/AQ que/PR va/VA néixer/VM a/SP Rodes/NP ,/FF deixeble/NC de/SP Crates/NP (/FF que/PR ensenyava/VM a/SP Pèrgam/NP )/FF ./FF
+Després/RG va/VA anar/VM a/SP Atenes/NP on/PR es/P0 va/VA ajuntar/VM amb/SP el/DA filòsof/NC estoic/AQ Diògenes_de_Babilònia/NP i/CC a/SP Antípater_de_Tars/NP ./FF
+Va/VA entrar_en_contacte/VM amb/SP Publi_Escipió_Emilià/NP per/SP el/DA que/PR va/VA fer/VM algunes/DI missions/NC diplomàtiques/AQ ./FF
+Va/VA tornar/VM a/SP Atenes/NP on/PR va/VA romandre/VM la/DA major/AQ part/NC de/SP la/DA seva/PX vida/NC ;/FF a/SP la/DA mort/NC d'/SP Antípater_de_Tars/NP el/PP va/VA succeir/VM a/SP el/DA front/NC de/SP l'/DA escola/NC de/SP els/DA estoics/NC ./FF
+Va/VA morir/VM a/SP Atenes/NP abans/RG de/SP el/DA 111/ZZ aC/NC ,/FF any/NC en/SP què/PT Luci_Cras/NP que/PR el/PP buscava/VM ,/FF ja/RG només/RG va/VA trobar/VM a/SP el/DA seu/PX deixeble/NC Mnesarc/NP ./FF
+La/DA seva/PX obra/NC principal/AQ fou/VS un/DI tractat/NC sobre/SP obligacions/NC morals/AQ (/FF )/FF en/SP tres/ZZ llibres/NC ./FF
+Panètol/NP (/FF Panaetolus/NP ,/FF Panaítolos/NP )/FF fou/VS un/DI militar/NC d'/SP oirgen/NC etoli/AQ a/SP el/DA servei/NC de/SP el/DA rei/NC Ptolemeu_IV_Filopàtor_d'_Egipte/NP ,/FF que/PR es/P0 va/VA unir/VM a/SP el/DA també/RG etoli/AQ ,/FF Teodot/NP ,/FF per/SP entregar/VM Celesíria/NP a/SP el/DA rei/NC Antíoc_III_el_Gran/NP ./FF
+Panètol/NP ,/FF quan/CS el/DA rei/NC selèucida/AQ s'/P0 acostava/VM ,/FF li/PP va/VA entregar/VM la/DA important/AQ ciutat/NC de/SP Tir/NP ,/FF de/SP la/DA que/PR el/DA rei/NC li/PP va/VA retornar/VM el/DA govern/NC com/CS a/SP premi/NC ./FF
+Més/RG tard/RG va/VA participar/VM a/SP l'/DA expedició/NC selèucida/AQ contra/SP Eutidem_I_de_Bactriana/NP vers/SP el/DA 211/ZZ aC/NC
+Carl_Wilhelm_Scheele/NP ,/FF nascut/VM el/DA 9_de_desembre/WW 1742/ZZ a/SP Stralsund/NP ,/FF Pomerània/NP i/CC traspassat/VM el/DA 21_de_maig_de_1786/WW a/SP Köping/NP ,/FF fou/VS un/DI destacat/VM químic/AQ suec/AQ ./FF
+Biografia/NP ./FF
+El/DA pare/NC de/SP Scheele/NP ,/FF a/SP el/DA cap/DI d/NC avant/RG d/AQ una/DI nombrosa/AQ família/NC ,/FF no/RN podia/VM cobrir/VM les/DA depeses/VM d/RG una/DI llarga/AQ educació/NC ,/FF i/CC el/DA nin/NC ,/FF que/PR no/RN mostrava/VM interès/NC per/SP els/DA estudis/NC clàssics/AQ ,/FF va/VA treballar/VM des_de/SP els/DA 13/ZZ anys/NC amb/SP un/DI apotecari/NC de/SP Göteborg/NP ,/FF durant/SP 8/ZZ anys/NC ,/FF primer/RG com/CS a/SP aprenent/NC i/CC desprès/VM com/CS a/SP alumne/NC ./FF
+En/SP aquesta/DD situació/NC ,/FF s'/P0 inicià/VM de/SP forma/NC autodidacte/NC en/SP la/DA química/NC llegint/VM amb/SP passió/NC les/DA obres/NC de/SP Caspar_Neumann/NP ,/FF Nicolas_Lémery/NP i/CC Johann_Kunckel/NP ,/FF entre/SP altres/PI ,/FF i/CC realitzant/VM múltiples/AQ experiments/NC amb/SP un/DI material/NC rudimentari/AQ ./FF
+En/SP el/DA 1765/ZZ deixà/VM Göteborg/NP i/CC es/P0 mogué/VM a/SP diferents/DI indrets/NC de/SP Suècia/NP :/FF a/SP Malmö/NP ,/FF després/RG a/SP Estocolm/NP (/FF 1767/ZZ )/FF ,/FF on/PR dirigí/VM una/DI farmàcia/NC i/CC a/SP Uppsala/NP (/FF 1770/ZZ )/FF ./FF
+Allà/RG va/VA conèixer/VM Torbern_Olof_Bergman/NP ,/FF qui/PR el/PP va/VA posar/VM sota/SP la/DA seva/PX protecció/NC ,/FF i/CC a/SP qui/PR uniria/VM una/DI estreta/NC amistat/NC ./FF
+Els/DA seus/PX treballs/NC d'/SP aquesta/DD època/NC ja/RG li/PP atorgaren/VM gran/AQ autoritat/NC ./FF
+Va/VA entrar/VM a/SP l/NC Acadèmia/NP de/SP cièncias/NC d/AQ Estocolm/NP ,/FF però/CC va/VA refusar/VM l/NC oferiment/NC d/AQ una/DI càtedra/NC a/SP Berlín/NP que/PR li/PP va/VA ser/VS proposada/VM per/SP Federico_el_Gran/NP ,/FF a

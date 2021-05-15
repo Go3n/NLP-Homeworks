@@ -533,4 +533,84 @@ Situació/NP i/CC població/NC ./FF
 Per/SP la/DA seua/PX orografia/NC és/VS el/DA barri/NC en/SP menys/RG habitants/NC d'/SP Alcoi/NP ,/FF 1.122/ZZ ,/FF tan/RG sols/RG l/NC '/FF 1,76_%/ZZ de/SP la/DA població/NC ./FF
 Situat/VM a/SP la/DA falda/NC de/SP La_Serreta/NP és/VS travessat/VM per/SP la/DA CV-788/ZZ ,/FF on/PR tradicionalment/RG s'/P0 han/VA celebrat/VM carreres/NC de/SP ral·lis/NC a/SP la/DA zona/NC de/SP el/DA Rebolcat/NP ./FF
 Els/DA rius/NC Molinar/NP i/CC Serpis/NP l'/PP acaben/VM d'/SP encaixonar/VM ./FF
-Consta/VM d'/SP una/DI zona/NC plana/AQ ,/FF el/DA passeig/NC (/FF va/VA ser/VS reomplit/VM en/SP els/DA anys/NC trenta/ZZ )/FF ,/FF que/PR és/VS la/DA zona/NC més/RG edificable/AQ i/CC altres/DI zones/NC més/RG escarpades/AQ ,/FF 
+Consta/VM d'/SP una/DI zona/NC plana/AQ ,/FF el/DA passeig/NC (/FF va/VA ser/VS reomplit/VM en/SP els/DA anys/NC trenta/ZZ )/FF ,/FF que/PR és/VS la/DA zona/NC més/RG edificable/AQ i/CC altres/DI zones/NC més/RG escarpades/AQ ,/FF on/PR s'/P0 han/VA fet/VM cases/NC unifamiliars/AQ ./FF
+El/DA Pla_General/NP de/SP 1989/ZZ el/DA va/VA dotar/VM d'/SP un/DI gran/AQ parc/NC en/SP lo/NC que/PR era/VS una/DI zona/NC de/SP xaboles/NC ,/FF la/DA coneguda/VM popularment/RG com/CS la/DA cuesta/NC de/SP las/AQ flores/NC a/SP mig/AQ camí/NC entre/SP el/DA Tossal/NP i/CC el/DA Viaducte/NP ./FF
+Fins/SP la/DA creació/NC de/SP el/DA Parc_Intercomarcal_de_Bombers/NP ,/FF el/DA barri/NC acollia/VM a/SP la/DA dotació/NC de/SP bombers/NC d'/SP Alcoi/NP en/SP les/DA primitives/NC cotxeres/AQ de/SP els/DA autobusos/NC La_Alcoyana/NP ./FF
+L'/DA Hospital_Suec-Noruec/NP ./FF
+El/DA barri/NC compta/VM com/CS a/SP edifici/NC emblemàtic/AQ amb/SP l'/DA Hospital/NP suec-noruec/NC ,/FF creat/VM a/SP Alcoi/NP el/DA 1937/ZZ ,/FF gràcies_a/SP la/DA solidaritat/NC de/SP la/DA població/NC més/RG progressista/AQ de/SP la/DA societat/NC escandinava/AQ amb/SP l'/DA Espanya/NP republicana/AQ i/CC democràtica/AQ ./FF
+Pocs/DI mesos/NC després/RG de/SP l'/DA inici/NC de/SP la/DA guerra/NC ,/FF tant/RG en/SP Noruega/NP com/CS a/SP Suècia/NP es/P0 van/VA constituir/VM comités/VM d'/SP ajuda/NC a/SP Espanya/NP ./FF
+Estos/NP ,/FF estaven/VM impulsats/VM per/SP organitzacions/NC socials/AQ i/CC polítiques/AQ de/SP variada/NC naturalesa/NC ,/FF generalment/RG progressista/AQ ,/FF i/CC que/PR van/VA recaptar/VM fons/NC monetaris/AQ per/SP a/SP l'/DA ajuda/NC humanitària/AQ a/SP el/DA poble/NC espanyol/AQ ./FF
+L'/DA hospital/NC va/VA ser/VS ràpidament/RG dotat/VM de/SP material/NC i/CC personal/NC sanitari/AQ ./FF
+A_pesar_de/SP la/DA seua/PX presencia/VM la/DA zona/NC no/RN es/P0 va/VA lliurar/VM de/SP els/DA bombardejos/NC de/SP l'/DA aviació/NC italiana/AQ ./FF
+Hui/RG en/SP dia/NC és/VS una/PI de/SP les/DA tres/ZZ seus/NC de/SP el/DA campus/NC d'/SP Alcoi_de_la_Universitat_Politècnica_de_València/NP ./FF
+A/SP la/DA zona/NC es/P0 troba/VM també/RG el/DA Col·legi_Major/NP "/FF Ovidi_Montllor/NP "/FF ./FF
+Article/NC principal/AQ :/FF L'/DA Hospital_Suec-Noruec/NP ./FF
+Bibliografia/NP ./FF
+BENEITO/NP ,/FF Àngel/NP ,/FF (/FF 2007/ZZ )/FF ./FF
+Alcoi/NP ,/FF objetivo/NC de/SP guerra/NC ./FF
+Alcoi/NP :/FF Produciones_Kronos_S.L./NP ./FF
+ISBN/NP 978-84-612-0196-9/ZZ ;/FF DÁVILA_LINARES/NP ,/FF Juan_Manuel/NP ,/FF (/FF 2006/ZZ )/FF ./FF "/FF La/DA ciutat/NC actual/AQ "/FF en/SP Història_d'_Alcoi/NP ./FF
+Alcoi/NP :/FF Ajuntament_d'_Alcoi/NP ,/FF Editorial_Marfil/NP ,/FF S.A./NP ,/FF Centre_Alcoià/NP d'/SP estudis/NC Històrics/NP i/CC Arqueològics/NP (/FF pp./NC 520-521/ZZ )/FF ./FF
+ISBN/NP 84-89136-50-5/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Ajuntament_d'_Alcoi/NP ./FF
+Mapa/NC toponímic/AQ d'/SP Alcoi/NP ;/FF Ajuntament_d'_Alcoi/NP ./FF
+Plànol_d'_Alcoi/NP ;/FF Universitat_Politècnica_de_València/NP (/FF Campus_d'_Alcoi/NP )/FF ;/FF Notes/NP ./FF
+Daniel-Rops_Fou/NP el/DA pseudònim/NC de/SP Henri_Petiot/NP ,/FF assagista/NC i/CC novel·lista/NC catòlic/AQ francès/AQ (/FF 1901-1965/ZZ )/FF ./FF
+Estudià/VM en/SP la/DA Universitat_de_Grenoble/NP i/CC de/SP Lió/NP a_on/RG desprès/VM assajà/VM història/NC durant/SP vint-i-tres/ZZ anys/NC ./FF
+Obres/NC ./FF
+En/SP el/DA 1927/ZZ va/VA publicar/VM el/DA seu/PX primer/AO assaig/NC Notre/NP inquietude/NC ,/FF obra/NC polèmica/AQ en/SP la/DA que/PR atacava/VM d'/SP immobilitat/NC de/SP l'/DA Església/NP ./FF
+La/DA seva/PX obra/NC més/RG citada/VM per/SP autors/NC moderns/AQ sol/NC ser/VS Jésus/NP en/SP son/NC temps/NC en/SP la/DA que/PR reconeix/VM que/CS historiadors/NC com/CS Flavi_Josep/NP ,/FF Tàcit/NP i/CC Suetoni/NP van/VA ser/VS censurats/VM i/CC interpolats/VM per/SP els/DA monjos/NC copistes/NC ./FF
+Petroni/NP cronista/NC satíric/AQ en/SP la/DA seva/PX obra/NC Satiricón/NP només/RG han/VA arribat/VM a/SP nosaltres/PP 250/ZZ planes/NC de/SP les/DA 3.000/ZZ que/PR contenia/VM el/DA seu/PX original/NC ./FF
+De/SP Tàcit/NP els/DA copistes/NC cristians/AQ li/PP van/VA retirar/VM de/SP el/DA seu/PX Histories/NP i/CC Anals/NP ,/FF tots/DI els/DA capítols/NC referents/AQ a/SP la/DA Palestina/NP de/SP els/DA primers/AO segles/NC ./FF
+Obres/NC més/RG importans/AQ :/FF Notre/NP inquietude/NC (/FF 1927/ZZ )/FF ;/FF El/NP món/NC sense/SP ànima/NC (/FF 1932/ZZ )/FF ;/FF L'/NP espasa/NC de/SP foc/NC (/FF 1938/ZZ )/FF ;/FF Par/NP delà/NC notre/VM nuit/RG (/FF 1943/ZZ )/FF ;/FF Jesús/NP i/CC el/DA seu/PX Temps/NP (/FF 1945/ZZ )/FF ;/FF
+L'/DA edició/NC de/SP el/DA Tour_de_França/NP 1967/ZZ quedarà/VM marcada/NC per/SP la/DA mort/NC de/SP l'/DA anglès/NC Tom_Simpson/NP durant/SP l'/DA ascens/NC a/SP el/DA mont/NC Ventoux/NP en/SP el/DA decurs/NC de/SP la/DA tretzena/AO etapa/NC entre/SP Marsella/NP i/CC Carpentras/NP ,/FF convertint/VM -se/P0 en/SP la/DA primera/AO víctima/NC oficial/AQ de/SP el/DA dopatge/NC esportiu/AQ ./FF
+El/DA Tour/NP fou/VS guanyat/VM per/SP Roger_Pingeon/NP ,/FF el/DA qual/PR començà/VM a/SP gestar/VM el/DA seu/PX triomf/NC final/AQ en/SP guanyar/VM la/DA cinquena/AO etapa/NC després/RG d'/SP una/DI llarga/AQ escapada/NC ./FF
+Ajudat/VM per/SP Raymond_Poulidor/NP a/SP les/DA etapes/NC de/SP muntanya/NC i/CC per/SP un/DI potent/AQ equip/NC de/SP França/NP va/VA resistir/VM els/DA atacs/NC de/SP Julio_Jiménez/NP i/CC Felice_Gimondi/NP ./FF
+Aquesta/DD edició/NC començà/VM des/SP d'/SP Angers/NP amb/SP la/DA disputa/NC d'/SP una/DI etapa/NC pròleg/NC per/SP primera/AO vegada/NC en/SP la/DA història/NC de/SP la/DA cursa/NC gala/NC ./FF
+Aquesta/DD fou/VS la/DA darrera/AO edició/NC en/SP què/PT la/DA cursa/NC acabà/VM a/SP el/DA velòdrom/NC de/SP el/DA Parc_de_els_Prínceps/NP ,/FF enderrocat/VM poc/RG després/RG ./FF
+Raymond_Poulidor/NP era/VS un/PI de/SP els/DA grans/AQ favorits/NC a/SP aconseguir/VM la/DA victòria/NC final/AQ ,/FF però/CC les/DA coeses/NC no/RN començaren/VM gens/RG bé/RG per/SP a/SP ell/PP en/SP no/RN aconseguir/VM la/DA victòria/NC a/SP el/DA pròleg/NC ,/FF ja_que/CS fou/VS segon/NC darrere/SP José_María_Errandonea/NP ./FF
+Una/DI posterior/AQ caiguda/NC a/SP el/DA massís/NC de/SP els/DA Vosges/NP durant/SP la/DA disputa/NC de/SP la/DA vuitena/AO etapa/NC li/PP suposà/VM allunyar/VM -se/P0 definitivament/RG de/SP tota/DI possibilitat/NC de/SP triomf/NC final/AQ ./FF
+Els/DA ciclistes/NC foren/VS repartits/VM ,/FF de/SP nou/AQ ,/FF en/SP equips/NC nacionals/AQ ,/FF tornant/VM a/SP el/DA sistema/NC existent/AQ fins/SP el/DA 1962/ZZ ./FF
+Resultats/NP ./FF
+Classificació/NC general/AQ ./FF
+Gran_Premi_de_la_Muntanya/NP ./FF
+Classificació_de_la_Regularitat/NP ./FF
+Classificació/NP per/SP equips/NC ./FF
+Etapes/NP ./FF
+Enllaços/NC externs/AQ ./FF
+1967/ZZ ./FF
+Història_de_el_Tour_de_França/NP ;/FF 1967/ZZ ./FF
+Història_de_el_Tour_de_França/NP ;/FF Referències/NP ./FF
+Pedro_Gutiérrez_Bueno/NP ,/FF nascut/VM el/DA 1735/ZZ i/CC traspassat/VM a/SP Madrid/NP el/DA 1826/ZZ ,/FF fou/VS un/DI químic/NC i/CC farmacèutic/NC espanyol/AQ ,/FF introductor/AQ de/SP la/DA nova/AQ química/NC de/SP Lavoisier/NP a/SP Espanya/NP ./FF
+Biografia/NP ./FF
+Cursà/VM els/DA estudis/NC de/SP els/DA Reales/NP estudios/AQ de/SP San_Isidro/NP ./FF
+Superà/VM els/DA exàmens/NC de/SP el/DA Real_Tribunal_de_el_Protomedicato/NP i/CC fou/VS admès/VM en/SP el/DA Real_Colegio_de_Boticarios_de_Madrid/NP ,/FF amb/SP la/DA qual/DR cosa/NC pogué/VM obrir/VM una/DI farmàcia/NC a/SP Madrid/NP l'/DA any/NC 1777/ZZ ./FF
+Fou/VS deixeble/NC de/SP José_Viera/NP y/NC Clavijo/NP ,/FF un/DI ferm/NC defensor/AQ de/SP la/DA teoria/NC de/SP el/DA flogist/NC ./FF
+L'/DA any/NC 1785/ZZ fou/VS nomenat/VM professor/NC de/SP química/NC en/SP el/DA Colegio_de_Cirugía_de_San_Carlos/NP i/CC ,/FF l'/DA any/NC 1787/ZZ ,/FF en/SP el/DA Real_Gabinete_de_Historia_Natural/NP ./FF
+Fou/VS en/SP aquesta/DD època/NC en/SP la/DA qual/PR va/VA veure/VM la/DA necessitat/NC de/SP millorar/VM els/DA texts/NC i/CC els/DA mètodes/NC docents/AQ que/PR s'/P0 estaven/VM emprant/VM a/SP finals/NC de/SP el/DA segle_XVIII/WW ./FF
+Fou/VS farmacèutic/NC major/AQ de/SP el/DA Rei/NP i/CC l'/DA encarregat/NC de/SP la/DA direcció/NC de/SP el/DA laboratori/NC de/SP el/DA Ministerio_de_el_Estado/NP (/FF els/DA altres/DI dos/ZZ laboratoris/NC de/SP l'/DA Estat/NP foren/VS dirigits/VM per/SP dos/ZZ químics/NC francesos/AQ ,/FF Joseph_Louis_Proust/NP dirigí/VM el/DA de/SP la/DA Real_Academia_de_Artillería_de_Segòvia/NP i/CC François_Chavaneau_el_de_el_Ministerio_de_Hacienda/NP )/FF ./FF
+L'/DA informe/NC desfavorable/AQ de/SP José_Viera/NP y/NC Clavijo/NP contra/SP Gutiérrez_Bueno/NP i/CC Chavaneau/NP ,/FF per/SP acceptar/VM les/DA noves/AQ teories/NC de/SP Lavoisier/NP i/CC la/DA nova/AQ nomenclatura/NC química/AQ ,/FF propiciaren/VM el/DA tancament/NC de/SP els/DA laboratoris/NC ./FF
+L'/DA any/NC 1799/ZZ es/P0 reunificaren/VM en/SP el/DA Laboratorio_Real_de_Madrid/NP ,/FF sota/SP la/DA direcció/NC de/SP Proust/NP ,/FF que/PR tenia/VM una/DI visió/NC moderna/AQ de/SP la/DA química/NC ./FF
+Durant/SP els/DA primers/AO anys/NC de/SP el/DA segle_XIX/WW Gutiérrez_Bueno/NP ocupà/VM la/DA càtedra/NC de/SP química/NC en/SP el/DA Colegio_de_Cirugía_de_San_Carlos/NP ,/FF i/CC l'/DA any/NC 1804/ZZ ocupà/VM el/DA càrrec/NC de/SP director/NC i/CC professor/NC de/SP el/DA nou/AQ Colegio_de_Farmacia_de_Madrid/NP ./FF
+Obra/NC ./FF
+El/DA govern/NC espanyol/AQ encarregà/VM treballs/NC relacionats/VM amb/SP la/DA química/NC com/CS censures/NC de/SP llibres/NC i/CC informes/NC sobre/SP l'/DA elaboració/NC de/SP pólvora/NC ,/FF la/DA instal·lació/NC de/SP parallamps/NC ,/FF el/DA reconeixement/NC de/SP mines/NC i/CC ,/FF especialment/RG ,/FF la/DA fabricació/NC de/SP tintes/NC ./FF
+Realitzà/VM treballs/NC d'/SP anàlisi/NC químic/AQ i/CC activitats/NC industrials/AQ :/FF a/SP Cadalso/NP dirigí/VM una/DI fàbrica/NC d'/SP un/DI compost/NC de/SP clorur/NC de/SP mercuri/NC (/FF II/NP )/FF usat/VM per/SP a/SP finalitats/NC mèdiques/AQ ,/FF una/PI d'/SP àcid/NC sulfúric/AQ en/SP el/DA Manzanares/NP (/FF probablement/RG fou/VS l'/DA introductor/NC de/SP el/DA mètode/NC de/SP les/DA cambres/NC de/SP plom/NC a/SP Espanya/NP )/FF i/CC una/DI de/SP blanqueig/NC de/SP teixits/NC a/SP la/DA Granja_de_San_Ildefonso/NP aplicant/VM el/DA mètode/NC de/SP Berthollet/NP ./FF
+Gutiérrez_Bueno/NP es/P0 formà/VM en/SP la/DA teoria/NC de/SP el/DA flogist/NC de/SP Becher/NP i/CC de/SP Stahl/NP ./FF
+Així/RG la/DA seva/PX primera/AO obra/NC Instrucción/NP sobre/SP el/DA mejor/AQ método/NC de/SP analizar/VM las/NC aguas/NC (/FF 1782/ZZ )/FF la/DA redactà/VM seguint/VM la/DA teoria/NC de/SP el/DA flogist/NC i/CC criticava/VM les/DA noves/AQ idees/NC de/SP Lavoisier/NP i/CC col·laboradors/NC ./FF
+Però/RG anà/VM evolucionant/VM i/CC en/SP el/DA seu/PX llibre/NC Curso/NP de/SP química/AQ (/FF 1788/ZZ )/FF ,/FF recopilació/NC de/SP les/DA seves/PX lliçons/NC ,/FF ja/RG no/RN es/P0 mostrava/VM partidari/AQ de/SP cap/NC de/SP les/DA dues/ZZ teories/NC ,/FF emprant/VM una/DI o/CC l'/DA altra/PI segons/SP quina/PT s'/P0 ajustava/VM millor/AQ a/SP cada/DI cas/NC particular/AQ ./FF
+Això/PD va/VA produir/VM bastant/DI confusió/NC entre/SP els/DA seus/PX alumnes/NC ./FF
+Aquest/DD mateix/DI any/NC publicà/NC Método/NP de/SP la/DA nueva/VM nomenclatura/NC química/AQ traducció/NC de/SP l'/DA original/NC francès/AQ de/SP Guyton_de_Morveau/NP ,/FF Lavoisier/NP ,/FF Berthollet/NP i/CC Fourcroy/NP però/CC no/RN hi/PP va/VA incloure/VM el/DA diccionari/NC que/PR relacionava/VM els/DA noms/NC antics/AQ amb/SP els/DA moderns/NC ,/FF ni/CC les/DA memòries/NC de/SP Hassenfratz/NP i/CC Adet/NP que/PR reemplaçaven/VM els/DA símbols/NC químics/AQ i/CC les/DA taules/NC amb/SP els/DA nous/AQ símbols/NC ,/FF que/PR sí/RG va/VA incloure/VM en/SP una_segona/ZZ edició/NC el/DA 1802/ZZ així/RG com/CS una/DI taula/NC amb/SP les/DA equivalències/NC entre/SP les/DA mesures/NC espanyoles/AQ i/CC les/DA de/SP el/DA sistema/NC mètric/AQ decimal/AQ ./FF
+En/SP aquesta/DD traducció/NC deixà/VM sense/SP modificar/VM les/DA paraules/NC franceses/AQ (/FF óxide/NC ,/FF sulfate/VM ,/FF etc./FF )/FF ,/FF la/DA qual/DR cosa/NC no/RN segueix/VM les/DA recomanacions/NC de/SP els/DA autors/NC que/PR aconsellaven/VM emprar/VM els/DA substantius/NC llatins/AQ per/SP a/SP les/DA traduccions/NC i/CC només/RG canvià/VM algunes/DI paraules/NC que/PR podien/VM resultar/VM conflictives/AQ (/FF per_exemple/RG anomenà/VM a/SP el/DA nitrogen/NC azoote/AQ enlloc/RG de/SP el/DA francès/AQ azote/NC )/FF ./FF
+Cal/VM destacà/VM que/CS la/DA traducció/NC la/PP va/VA fer/VM només/RG un/DI any/NC després/RG de/SP l'/DA original/NC francès/AQ ,/FF a/SP el/DA mateix/DI temps/NC que/PR en/SP Anglaterra/NP i/CC molt/RG abans/RG que/CS a/SP la/DA resta/NC de/SP països/NC europeus/AQ ./FF
+Obres/NC ./FF
+Instrucción/NP sobre/SP el/DA mejor/AQ método/NC de/SP analizar/VM las/NC aguas/NC (/FF 1782/ZZ )/FF ;/FF Curso/NP de/SP química/AQ (/FF 1788/ZZ )/FF ;/FF Método/NP de/SP la/DA nueva/VM nomenclatura/NC química/AQ (/FF 1788/ZZ )/FF ;/FF Bibliografia/NP ./FF
+BERTOMEU/NP ,/FF J.R./NP i/CC GARCIA/NP ,/FF A._Pedro_Gutiérrez_Bueno/NP (/FF 1745-1822/ZZ )/FF y/NC las/AQ relaciones/VM entre/SP química/AQ y/NC farmacia/VM durante/NC el/DA último/AQ tercio/NC de/SP el/DA siglo/NC XVIII/NP ./FF
+Hispania/NP ,/FF 61/ZZ ,/FF 105-127/ZZ (/FF 2001/ZZ )/FF ;/FF GARCIA/NP ,/FF A./NP i/CC BERTOMEU/NP ,/FF J.R._Viajes/NP de/SP cultivadores/NC de/SP la/DA química/AQ españoles/NC a/SP Francia/NP (/FF 1770-1830/ZZ )/FF ,/FF Asclepio/NP ,/FF 53/ZZ ,/FF 95-139/ZZ (/FF 2001/ZZ )/FF PDF/NP ;/FF GARCIA/NP ,/FF A./NP i/CC BERTOMEU/NP ,/FF J.R._Pedro_Gutiérrez_Bueno/NP (/FF 1745-1822/ZZ )/FF ,/FF los/NC libros/NC de/SP texto/NC y/NC los/NC nuevos/AQ públicos/NC de/SP la/DA química/NC en/SP el/DA último/AQ tercio/NC de/SP el/DA siglo/NC XVIII/NP ./FF
+Dynamis/NP ,/FF 21/ZZ ,/FF 351-37/ZZ (/FF 2001/ZZ )/FF PDF/NP ;/FF PELLÓN/NP ,/FF I./NP Un/DI químico/NC ilustrado/NC ./FF
+Lavoisier/NP ./FF
+Nivola/NP ./FF
+Madrid/NP ,/FF 2002/ZZ ;/FF
+Caxambú/NP és/VS una/DI ciutat/NC de/SP l'/DA estat/NC brasiler/AQ de/SP Minas_Gerais/NP ./FF
+Sistema/NP de/SP molts/DI cossos/NC (/FF abreujat/VM MBS/NP de/SP l'/DA anglès/NC Multibody/NP system/VM )/FF és/VS un/DI conjunt/NC de/SP tècniques/NC emprades/VM per/SP modelar/VM el/DA comportament/NC dinàmic/AQ de/SP cossos/NC rígids/AQ o/CC flexibles/AQ interconnectats/NC ,/FF cadascun/PI de/SP els/DA quals/PR pateix/VM grans/AQ translacions/NC i/CC grans/AQ rotacions/NC ./FF
+Introducció/NP ./FF
+El/DA tractament/NC sistemàtic/AQ de/SP el/DA comportament/NC dinàmic/AQ de/SP cossos/NC interconnectats/NC ha/VA

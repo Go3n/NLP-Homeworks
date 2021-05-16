@@ -823,4 +823,76 @@ La/DA seva/PX àrea/NC total/AQ és/VS de/SP 203/ZZ km²/NC ./FF
 El/DA turisme/NC i/CC l'/DA extracció/NC d'/SP aigua/NC mineral/AQ són/VS les/DA activitats/NC econòmiques/AQ principals/AQ ./FF
 Pere_de_Tamarit/NP i/CC de/SP Salbà/NP fou/VS un/DI polític/NC català/AQ ./FF
 Conseller/NP en/SP Cap_de_el_Consell/NP de/SP Cent/ZZ de/SP Barcelona/NP els/DA anys/NC 1590-91/ZZ i/CC 1592-93/ZZ ,/FF fou/VS pare/NC de/SP Francesc_de_Tamarit/NP i/CC de/SP Rifà/NP ,/FF diputat/NC militar/AQ de/SP la/DA Generalitat_de_Catalunya/NP ./FF
-Polític/AQ amb/SP mala/AQ fam
+Polític/AQ amb/SP mala/AQ fama/NC política/AQ ,/FF veié/VM arruïnar/VM -se/P0 el/DA seu/PX patrimoni/NC familiar/AQ ./FF
+Referències/NP ./FF
+Informàtica/NP :/FF Variable/NC d'/SP un/DI programa/NC informàtic/AQ que/PR fa_referència/VM a/SP una/DI regió/NC de/SP la/DA memòria/NC ;/FF vegeu/VM «/FF punter/AQ (/FF programació/NC )/FF »/FF ./FF
+Cursor/NP de/SP el/DA ratolí/NC de/SP l'/DA ordinador/NC tal/PD com/PR apareix/VM a/SP la/DA pantalla/NC ;/FF vegeu/VM «/FF punter/AQ (/FF cursor/NC )/FF »/FF ./FF
+Fünfzehn/NP neue/RG DAF_Lieder/NP (/FF Quinze/ZZ noves/AQ cançons/NC de/SP DAF/NP )/FF és/VS el/DA nom/NC de/SP el/DA vuitè/AO àlbum/NC (/FF el/DA setè/AO de/SP material/NC nou/AQ )/FF de/SP el/DA grup/NC de/SP música/NC electrònica/AQ Deutsch-Amerikanische_Freundschaft/NP ./FF
+Aparegué/VM a/SP el/DA mes_de_febrer/WW de/SP l'/DA any/NC 2003/ZZ ./FF
+Moltes/DI coses/NC havien/VA passat/VM a/SP els/DA membres/NC de/SP DAF/NP entre/SP 1988/ZZ (/FF l'/DA any/NC de/SP l'/DA edició/NC de/SP el/DA seu/PX anterior/AQ àlbum/NC ,/FF la/DA recopilació/NC Best/NP of/NC DAF/NP )/FF i/CC el/DA 2003/ZZ ./FF
+Görl/NP enregistrà/VM tres/ZZ discos/NC més/RG en/SP solitari/NC :/FF "/FF Psychotherapie/NP "/FF (/FF 1994/ZZ )/FF ,/FF "/FF Watch/NP the/VM great/VM copycat/VM "/FF (/FF 1996/ZZ )/FF i/CC "/FF Sexdrops/NP "/FF (/FF 1998/ZZ )/FF ;/FF posteriorment/RG patí/VM un/DI greu/AQ accident/NC automobilístic/AQ i/CC es/P0 retirà/VM a/SP Tailàndia/NP ,/FF convertit/VM a/SP el/DA budisme/NC ./FF
+Per/SP la/DA seva/PX part/NC ,/FF Gabi_Delgado/NP publicà/VM nou/AQ material/NC ,/FF amb/SP els/DA pseudònims/NC Delkom/NP i/CC DAF/NP //FF DOS/ZZ (/FF en/SP tots/DI dos/ZZ casos/NC ,/FF amb/SP la/DA seva/PX companya/NC sentimental/AQ )/FF ,/FF i/CC actuà/VM en/SP diverses/DI ocasions/NC com/CS a/SP DJ._Ja/NP a/SP el/DA 1999/ZZ s'/P0 havien/VA iniciat/VM converses/NC entre/SP Delgado/NP i/CC Görl/NP per/SP concretar/VM el/DA retorn/NC de/SP DAF/NP ,/FF però/CC no/RN fou/VS fins/RG a/SP el/DA 2002/ZZ que/PR els/DA dos/ZZ membres/NC tornaren/VM a/SP l'/DA estudi/NC per/SP enregistrar/VM un/DI nou/AQ disc/NC ,/FF que/PR aparegué/VM a/SP el/DA mes_de_febrer_del_2003/WW ./FF "/FF Fünfzehn/NP neue/RG DAF_Lieder/NP "/FF actualitza/VM el/DA so/NC de/SP DAF/NP ,/FF aquesta/DD vegada/NC sense/SP la/DA bateria/NC de/SP Görl/NP ,/FF però/CC encara/RG ben/RG orientat/VM cap/NC a/SP el/DA ball/NC ,/FF amb/SP ritmes/NC propers/AQ a/SP el/DA dance/NC i/CC a/SP l'/DA EBM/NP que/PR ,/FF amb/SP la/DA seva/PX influència/NC ,/FF havien/VA contribuït/VM a/SP crear/VM ./FF
+Les/DA lletres/NC de/SP Delgado/NP tornen/VM a/SP incidir/VM en/SP els/DA temes/NC que/PR havia/VA tractat/VM durant/SP l'/DA època/NC de/SP més/RG esplendor/NC de/SP DAF/NP (/FF sexe/NC i/CC política/NC )/FF ./FF
+El/DA senzill/AQ de/SP presentació/NC de/SP el/DA disc/NC fou/VS "/FF Der_Sheriff/NP "/FF ,/FF aparegut/VM poc/RG després/RG de/SP la/DA invasió/NC nord-americana/AQ de/SP l'/DA Iraq/NP ./FF
+Temes/NP ./FF
+Der_Sheriff_Lied/NP (/FF El/DA Sheriff/NP anti-americana/AQ )/FF -/FF 3:46/ZZ ;/FF Ich/NP bin/VM tot/DI Lied/NP (/FF Estic/NP mort/NC romàntica/AQ )/FF -/FF 5:04/ZZ ;/FF Du/NP bewegst/NC dich/NC (/FF Et/P0 mous/VM de/SP ball/NC )/FF -/FF 4:22/ZZ ;/FF Kinderzimmer/NP (/FF L'/DA habitació/NC de/SP els/DA nens/NC d'/SP herois/NC )/FF -/FF 3:38/ZZ ;/FF Rock/NP hoch/NC (/FF Amunt/RG la/DA faldilla/NC sexual/AQ )/FF -/FF 4:27/ZZ ;/FF Mira/NP cómo/NC se/P0 menea/NC Lied/NP (/FF Mira/NP com/CS es/P0 belluga/VM espanyola/AQ )/FF -/FF 3:59/ZZ ;/FF Satellit/NP (/FF Satèl·lit/NP de/SP l'/DA univers/NC )/FF -/FF 4:49/ZZ ;/FF Moschino/NP ,/FF Heckler/NP und/AQ Koch/NP (/FF Moschino/NP ,/FF Heckler/NP i/CC Koch/NP d'/SP estafadors/NC )/FF -/FF 2:58/ZZ ;/FF Seltsame_Freunde/NP (/FF Amics/NC estranys/AQ de/SP guerra/NC )/FF -/FF 4:11/ZZ ;/FF Algorithmus/NP (/FF Algorisme/NP de/SP xifres/NC )/FF -/FF 4:03/ZZ ;/FF Der_Präsident_Welt_Lied/NP (/FF El/DA president/NC de/SP el/DA primer/AO món/NC )/FF -/FF 4:07/ZZ ;/FF Liebeszimmer/NP (/FF La/DA cambra/NC de/SP l'/DA amor/NC de/SP bruixes/NC )/FF -/FF 6:00/ZZ ;/FF Komm/NP in/VM meine/NC Welt/NP (/FF Vine/VM a/SP el/DA meu/PX món/NC d'/SP amor/NC )/FF -/FF 5:10/ZZ ;/FF Die_Lüge/NP (/FF La/DA mentida/NC de/SP la/DA veritat/NC )/FF -/FF 4:06/ZZ ;/FF Ich/NP bin/VM morgen/VM wieder/VM da/VM (/FF Demà/RG torno/VM a/SP ser/VS aquí/RG de/SP comiat/NC )/FF -/FF 9:03/ZZ ;/FF Dades/NP ./FF
+DAF/NP són/VS Gabi_Delgado-López/NP i/CC Robert_Görl/NP ./FF
+Lletres/NP :/FF G._Delgado-López/NP ;/FF música/NC :/FF R._Görl/NP ,/FF excepte/SP "/FF Du/VM bewegst/RG dich/NC "/FF (/FF Lletra/NP i/CC música/NC de/SP G._Delgado-López/NP )/FF ./FF
+Enregistrat/VM i/CC mesclat/VM a/SP els/DA estudis/NC Jetstream_Studio/NP (/FF Berlín/NP )/FF entre/SP setembre/WW i/CC octubre_del_2002/WW per/SP Matthias_Schaaf/NP ,/FF DJ_Jauche/NP ,/FF Robert_Görl/NP i/CC Gabi_Delgado-López/NP ./FF
+Interpretat/VM i/CC produït/VM per/SP Robert_Görl/NP i/CC Gabi_Delgado-López/NP ./FF
+Instrumentació/NC addicional/AQ :/FF Bo_Koundaren/NP ,/FF a/SP els/DA estudis/NC Catyx_Studios/NP (/FF Berlín/NP )/FF ./FF
+Fotografies/NC :/FF Robin/VM ./FF
+Disseny/NP de/SP portada/NC :/FF Stadion_Works/NP ./FF
+Temes/NP publicats/VM per/SP Emi_Musikverlag/NP ,/FF Edition_Zeitsprung/NP ./FF
+Enllaços/NC externs/AQ ./FF
+La/DA tolerància/NC social/AQ és/VS la/DA disposició/NC a/SP admetre/VM que/CS els/DA altres/PI pensin/VM o/CC actuin/VM diferentment/RG d'/SP altres/PI ./FF
+Una/DI acció/NC tolerant/AQ ha/VA de/SP comportar/VM una/DI actitud/NC oberta/NC ,/FF capaç/AQ d'/SP acceptar/VM les/DA diferències/NC i/CC de/SP saber/VM conviure/VM en/SP la/DA discrepància/NC i/CC una/DI actitut/VM dialogant/VM i/CC transigent/AQ ,/FF que/PR sap/VM escoltar/VM i/CC és/VS capaç/AQ d'/SP arribar/VM a/SP una/DI entesa/NC ,/FF cedint/VM en/SP unes/DI coses/NC per/SP obtenir/VM -ne/PP d'/SP altres/DI ,/FF sense/SP encasellar/VM -se/P0 en/SP les/DA pròpies/AQ posicions/NC ./FF
+Per/SP a/SP ser/VS tolerant/AQ cal/VM estar/VM format/NC en/SP el/DA reconeixement/NC que/CS les/DA diferències/NC entre/SP les/DA persones/NC és/VS un/DI bé/NC de/SP la/DA humanitat/NC ./FF
+La/DA maduresa/NC d'/SP una/DI persona/NC és/VS un/DI factor/NC important/AQ per/SP a/SP tenir/VM un/DI elevat/VM grau/NC de/SP tolerància/NC ./FF
+La/DA inseguretat/NC i/CC les/DA personalitats/NC "/FF febles/AQ "/FF són/VS factors/NC que/PR afavoreixen/VM la/DA intolerància/NC ./FF
+Aquestes/DD persones/NC originen/VM actituds/NC defensives/AQ ,/FF tancades/NC i/CC intransigents/AQ ./FF
+La/DA violència/NC i/CC els/DA crits/NC són/VS els/DA arguments/NC nerviosos/AQ de/SP els/DA qui/PR ,/FF amb/SP la/DA força/NC exterior/AQ ,/FF intenten/VM dissimular/VM una/DI extraordinària/AQ inseguretat/NC interior/AQ ./FF
+La/DA torelància/NC és/VS una/DI capacitat/NC personal/AQ que/PR es/P0 desenvolupa/VM com/CS altres/DI capacitats/NC cognitives/AQ i/CC emocionals/AQ a/SP el/DA llarg/NC de/SP desenvolupament/NC de/SP l'/DA individu/NC ./FF
+Els/DA aprenentatges/NC ,/FF l'/DA experiència/NC ,/FF la/DA reflexió/NC i/CC el/DA pensament/NC constructiu/AQ i/CC crític/AQ afavoreixen/VM una/DI major/AQ tolerància/NC ./FF
+La/DA tolerància/NC és/VS una/DI capacitat/NC que/PR creix/VM amb/SP el/DA desenvolupament/NC moral/AQ (/FF Kohlberg/NP )/FF ./FF
+La/DA exposició/NC a/SP dilemes/NC morals/AQ ,/FF per_exemple/RG és/VS un/DI bon/AQ sistema/NC per/SP apendre/VM a/SP admetre/VM altres/DI punts/NC de/SP vista/NC ,/FF i/CC acceptar/VM l'/DA autocrítica/NC i/CC així/RG augmentar/VM la/DA nostra/PX tolerància/NC ./FF
+La/DA tolerància/NC genera/VM tolerància/NC .../FF No/RN hi/PP ha/VA persones/NC intolerants/AQ o/CC tolerants/AQ ,/FF hi/PP ha/VA persones/NC que/PR exerceixen/VM una/DI baixa/AQ tolerància/NC ,/FF però/CC que/PR poden/VM apendre/VM i/CC modificar/VM els/DA seus/PX esquemes/NC cap/NC a/SP una/DI major/AQ tolerància/NC ./FF
+No/RN hi/PP ha/VA ésser/VS humà/AQ totalment/RG intolerant/AQ ;/FF ni/CC hi/PP ha/VA esser/NC humà/AQ totament/RG tolerant/AQ ,/FF és/VS una/DI qüestió/NC de/SP grau/NC susceptible/AQ de/SP modificació/NC en/SP funció/NC de/SP l'/DA entorn/NC ,/FF l'/DA experiència/NC .../FF Gracies/VM a/SP la/DA tolerància/NC ,/FF s'/P0 aconsegueix/VM també/RG un/DI actitud/NC d'/SP escolta/NC ,/FF de/SP respecte/NC ,/FF de/SP curiositat/NC cap/NC a/SP l'/DA altre/PI ,/FF d'/SP enriquiment/NC personal/AQ ./FF
+Don_Branson/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 2_de_juny_del_1920/WW a/SP Rantoul/NP ,/FF Illinois/NP ./FF
+Branson/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1956-1966/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1959-1966/ZZ ./FF
+Don_Branson/NP va/VA morir/VM d'/SP accident/NC disputant/VM una/DI cursa/NC a/SP Gardena/NP ,/FF California/NP el/DA 12_de_novembre_del_1966/WW ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitzats/VM per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Don_Branson/NP va/VA participar/VM a/SP 2/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1959/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 2/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Podiums/NP :/FF 1/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 3/ZZ ;/FF
+Paul_Goldsmith/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ i/CC motociclistes/AQ nascut/VM el/DA 2_d'_octubre_del_1925/WW a/SP Parkersburg/NP ,/FF West_Virginia/NP ./FF
+Goldsmith/NP va/VA córrer/VM amb/SP moto/NC des_de/SP finals/NC de/SP els/DA anys/NC 40/ZZ fins/SP a/SP l'/DA any/NC 1963/ZZ ,/FF guanyant/VM diverses/DI curses/NC i/CC titols/NC estatals/AQ ./FF
+Goldsmith/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1958-1963/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP d'/SP aquests/DD anys/NC ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitzats/VM per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Paul_Goldsmith/NP va/VA participar/VM a/SP 3/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1958/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 3/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Podiums/NP :/FF 1/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 6/ZZ ;/FF
+12Twelve/ZZ és/VS un/DI grup/NC de/SP post-rock/NC de/SP Barcelona/NP compost/NC per/SP Jaume_L._Pantaleón/NP (/FF guitarra/NC )/FF ,/FF Javier_García/NP (/FF contrabaix/NC )/FF ,/FF José_Roselló/NP (/FF bateria/NC )/FF i/CC Jens_Neumaier/NP (/FF saxo/NC i/CC teclat/NC )/FF ./FF
+Discografia/NP ./FF
+Tears/NP ,/FF complaint/VM and/AQ spaces/NC (/FF 2001/ZZ ,/FF BOA/NP )/FF ;/FF Doppler/NP (/FF with/NC Ya_Te_Digo/NP )/FF (/FF 2002/ZZ ,/FF Astro/NP )/FF ;/FF Speritismo/NP (/FF 2003/ZZ ,/FF BOA/NP )/FF ;/FF L'_Univers/NP (/FF 2006/ZZ ,/FF Acuarela/NP )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Web/NP oficial/AQ de/SP 12Twelve/ZZ ;/FF 12Twelve/ZZ a/SP el/DA MySpace/NP ;/FF
+El/DA Canal_Escalda-Rin/NP és/VS un/DI canal/NC de/SP Bèlgica/NP i/CC de/SP els/DA Països_Baixos/NP que/PR fa/VM part/NC de/SP el/DA enllàç/NC Escalda-Rin/NP que/PR connecta/VM el/DA port/NC d'/SP Anvers/NP amb/SP el/DA port/NC de/SP Rotterdam/NP ./FF
+Té/VM una/DI llargada/NC de/SP 35_km/ZZ de/SP els/DA quals/PR 5,002_km/ZZ a/SP el/DA territori/NC belga/AQ ./FF
+Tot/RG i/CC trovar/VM -se/P0 majorment/RG a/SP el/DA territori/NC neerlandès/AQ ,/FF l'/DA estat/NC belga/AQ va/VA pagar/VM la/DA seva/PX construcció/NC ,/FF molt/RG important/AQ per/SP el/DA desenvolupament/NC port/NC d'/SP Anvers/NP ./FF
+És/VS un/DI de/SP els/DA rars/AQ canals/NC a/SP el/DA món/NC que/PR travessa/VM un/DI braç/NC de/SP riu/NC ,/FF l'/DA Escalda/NP oriental/AQ ,/FF entre/SP dos/ZZ dics/NC ./FF
+Rescloses/NP ./FF
+Aquestes/DD rescloses/NC tenen/VM dues/ZZ funcions/NC :/FF vencer/VM el/DA desnivell/NC i/CC evitar/VM que/CS l'/DA aigua/NC dolç/AQ i/CC l'/DA aigua/NC de/SP mar/NC es/P0 mesclin/VM ./FF
+El/DA Mont_Rosa/NP (/FF en/SP italià/NC Monte_Rosa/NP ,/FF en/SP francès/AQ Mont_Rose/NP )/FF és/VS un/DI massís/NC muntanyós/AQ situat/VM entre/SP les/DA regions/NC italianes/AQ de/SP el/DA Piemont/NP i/CC la/DA Vall_d'_Aosta/NP i/CC el/DA cantó/NC suís/AQ de/SP Valais/NP ./FF
+El/DA Dufour/NP és/VS el/DA pic/NC més/RG alt/AQ de/SP el/DA massís/NC de/SP el/DA Mont_Rosa/NP i/CC ,/FF amb/SP 4.634_metres/ZZ ,/FF és/VS també/RG el/DA més/RG alt/AQ de/SP Suïssa/NP ./FF
+El/DA seu/PX nom/NC es/P0 diu/VM que/CS no/RN deriva/VM de/SP l'/DA italià/NC rosa/AQ ,/FF com/CS molts/PI pensen/VM ,/FF sinó/CC de/SP roisa/NC ,/FF terme/NC francoprovençal/NC que/PR significa/VM "/FF glacera/NC "/FF ./FF
+En/SP dies/NC clars/AQ -/FF que/PR són/VS bastant/RG freqüents/AQ ,/FF a_causa_de/SP el/DA clima/NC plujós/AQ -/FF el/DA massís/NC muntanyenc/AQ de/SP el/DA Mont_Rosa/NP ofereix/VM una/DI sorprenent/AQ vista/NC des_de/SP la/DA planura/NC padana/AQ ,/FF en_particular/RG els/DA seus/PX cims/NC de/SP la/DA Llombardia/NP occidental/AQ i/CC el/DA Piemont/NP oriental/AQ ./FF
+Domina/VM l/NC horitzó/NC ,/FF per/SP damunt/RG d/RG altres/DI pics/NC menys/RG prominents/AQ i/CC les/DA seues/PX glaceres/NC permanents/AQ brillant/NC sota/SP el/DA sol/NC ./FF
+La/DA vista/NC és/VS especialment/RG bella/AQ des_de/SP la/DA terminal/NC internacional/AQ de/SP l'/DA aeroport/NC milanès/AQ de/SP Malpensa/NP ./FF
+El/DA massís/NC de/SP el/DA Mont_Rosa/NP també/RG alberga/VM diverses/DI estacions/NC d'/SP esquí/NC amb/SP llargues/AQ pistes/NC ./FF
+Plateau_Rosa/NP ,/FF a/SP uns/DI 3.500_metres/ZZ d'/SP a

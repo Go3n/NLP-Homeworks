@@ -743,4 +743,84 @@ Biografia/NC a/SP uv/NC ./FF es/P0 ;/FF
 La/DA Molt_Antiga/NP i/CC Molt_Noble_Orde_de_el_Card/NP (/FF anglès/NC :/FF The_Most_Ancient/NP and/AQ Most_Noble_Order/NP of/NC the/AQ Thistle/NP )/FF és/VS un/DI orde/NC de/SP cavalleria/NC associat/NC amb/SP Escòcia/NP ./FF
 Si_bé/CS la/DA seva/PX data/NC de/SP fundació/NC és/VS desconeguda/VM ,/FF el/DA rei/NC Jaume_II_d'_Anglaterra/NP i/CC VII_d'_Escòcia/NP instituí/VM l'/DA orde/NC moderna/AQ a/SP el/DA 1687/ZZ ./FF
 L'/DA Orde/NP consisteix/VM en/SP el/DA Sobirà/NP i/CC 16/ZZ Cavallers/NP i/CC Dames/NP ,/FF així/RG com/CS certs/DI cavallers/NC "/FF extraordinaris/AQ "/FF (/FF membres/NC de/SP la/DA Família/NP reial/AQ britànica/AQ i/CC monarques/NC estrangers/AQ ./FF
-Només/RG el/DA Sobirà/NP garanteix/VM ser/VS membre/NC de/SP l'/DA orde/NC (/FF els/DA membres/NC no/RN són/VS recomanats/VM per/SP el/DA Govern/NP ,/FF c
+Només/RG el/DA Sobirà/NP garanteix/VM ser/VS membre/NC de/SP l'/DA orde/NC (/FF els/DA membres/NC no/RN són/VS recomanats/VM per/SP el/DA Govern/NP ,/FF com/CS succeeix/VM a/SP la/DA resta/NC d'/SP ordes/NC )/FF ./FF
+Els/DA 16/ZZ membres/NC han/VA de/SP ser/VS nascuts/VM a/SP Escòcia/NP ./FF
+L'/DA emblema/NC primer/AO de/SP l'/DA orde/NC és/VS el/DA card/NC ,/FF la/DA flor/NC nacional/AQ d'/SP Escòcia/NP ./FF
+El/DA Lema/NP de/SP l'/DA orde/NC NEMO_ME_IMPUNE_LACESSIT/NP (/FF Ningú/PI no/RN em/P0 fereix/VM amb/SP impunitat/NC )/FF és/VS el/DA mateix/PI que/PR apareix/VM a/SP l'/DA Escut_Reial_d'_Escòcia/NP i/CC en/SP algunes/DI monedes/NC d'/SP una_lliura/ZZ ./FF
+El/DA patró/NC de/SP l'/DA orde/NC és/VS Sant_Andreu/NP (/FF patró/NC d'/SP Escòcia/NP )/FF ,/FF i/CC apareix/VM a/SP la/DA insígnia/NC ./FF
+Si_bé/CS la/DA major/AQ part/NC de/SP els/DA ordes/NC de/SP cavalleria/NC britànics/AQ cobreixen/VM tot/DI el/DA regne/NC ,/FF els/DA 3/ZZ més/RG exaltats/NC només/RG pertanyen/VM a/SP un/DI únic/AQ país/NC ./FF
+L'/DA Orde_de_el_Card/NP ,/FF que/PR pertany/VM a/SP Escòcia/NP ,/FF és/VS la/DA segona/AO en/SP importància/NC ./FF
+La/DA seva/PX equivalent/NC a/SP Anglaterra/NP ,/FF la/DA Molt_Noble_Orde_de_la_Lligacama/NP ,/FF és/VS l'/DA orde/NC de/SP cavalleria/NC documentada/VM més/RG antiga/AQ ,/FF datant/VM de/SP mitjans/NC de/SP el/DA segle_XIV/WW ./FF
+a/SP el/DA 1783/ZZ es/P0 creà/VM un/DI equivalent/AQ irlandès/NC ,/FF el/DA Molt_Il·lustre_Orde_de_Sant_Patrici/NP ,/FF però/CC des_de/SP la/DA independència/NC de/SP la/DA major/AQ part/NC d'/SP Irlanda/NP l'/DA orde/NC ha/VA caigut/VM en/SP desús/NC (/FF el/DA seu/PX darrer/AO membre/NC morí/VM a/SP el/DA 1974/ZZ )/FF ./FF
+Història/NP ./FF
+La/DA data/NC de/SP la/DA seva/PX creació/NC és/VS desconeguda/VM ,/FF si_bé/CS la/DA llegenda/NC afirma/VM que/CS va/VA ser/VS fundada/VM per/SP el/DA rei/NC Achaius/NP ,/FF Rei_de_els_Escocesos/NP ,/FF mentre/CS batallava/VM a/SP Athelstaneford/NP amb/SP el/DA Rei/NP saxó/AQ Æthelstan/VM d'/SP Ànglia_Oriental/NP ,/FF veié/VM a/SP el/DA cel/NC la/DA creu/VM de/SP Sant_Andreu/NP ,/FF i/CC ,/FF després/RG de/SP guanyar/VM la/DA batalla/NC ,/FF establí/VM l'/DA orde/NC a/SP el/DA 787/ZZ ,/FF dedicada/VM a/SP el/DA Sant/NP ./FF
+Un/PI de/SP els/DA motius/NC per/SP considerar/VM la/DA llegenda/NC d'/SP increïble/AQ ,/FF apart/NC de/SP per/SP el/DA miracle/NC de/SP la/DA creu/VM a/SP el/DA cel/NC ,/FF perquè/CS els/DA dos/ZZ reis/NC ni_tan_sols/RG van/VA regnar/VM a/SP el/DA mateix/DI segle/NC ./FF
+Una/DI altra/DI història/NC afirma/VM que/CS Achaius/NP fundà/VM l'/DA orde/NC a/SP el/DA 809/ZZ després/RG de/SP signar/VM una/DI aliança/NC amb/SP l/NC emperador/NC Carlemany/NP ./FF
+També/RG existeix/VM la/DA tradició/NC conforme/VM l'/DA orde/NC va/VA ser/VS fundada/VM (/FF o/CC reinstituïda/VM )/FF a/SP el/DA camp_de_batalla/NC per/SP Robert_I/NP a/SP Bannockburn/NP ./FF
+També/RG se/P0 suposa/VM que/CS potser/RG va/VA ser/VS fundada/VM per/SP el/DA rei/NC Jaume_III/NP (/FF 1488-1513/ZZ )/FF ,/FF responsable/NC de/SP diversos/DI canvis/NC a/SP el/DA simbolisme/NC reial/AQ d/AQ Escòcia/NP ,/FF entre/SP ells/PP l/NC adopció/NC de/SP el/DA card/NC com/CS a/SP insígnia/NC reial/AQ ./FF
+També/RG s'/P0 afirma/VM que/CS Jaume_V/NP ,/FF després/RG de/SP ser/VS admès/VM a/SP l'/DA Orde_de_el_Toisó_d'_Or/NP a/SP el/DA Sacre_Imperi_Romanogermànic/NP ,/FF a/SP l'/DA Orde_de_Sant_Miquel/NP a/SP França/NP i/CC a/SP l'/DA Orde_de_la_Lligacama/NP a/SP Anglaterra/NP establí/VM l'/DA Orde_de_el_Card/NP a/SP el/DA 1540/ZZ perquè/CS se/P0 sentia/VM avergonyit/VM perquè/CS ell/PP no/RN tenia/VM cap/DI honor/NC per/SP conferir/VM a/SP els/DA monarques/NC estrangers/AQ ./FF
+a/SP el/DA 1687/ZZ ,/FF Jaume_VII/NP d/NC Escòcia/NP la/PP va/VA restaurar/VM ,/FF fent/VM -la/PP tornar/VM a/SP tota/DI la/DA seva/PX glòria/NC ,/FF llustre/NC i/CC magnificència/NC ,/FF dotant/VM -la/PP d/RG estatuts/NC ,/FF amb/SP tal/PD de/SP recompensar/VM a/SP els/DA escocesos/NC que/PR recolzaven/VM la/DA política/NC de/SP el/DA rei/NC ,/FF així/RG com/CS la/DA seva/PX fe/NC ./FF
+En/SP un/DI principi/NC estava/VM reservada/VM a/SP el/DA Sobirà/NP i/CC a/SP 12/ZZ membres/NC (/FF en/SP al·lusió/NC a/SP els/DA apòstols/NC )/FF ./FF
+Després/RG de/SP la/DA seva/PX abdicació/NC a/SP el/DA 1688/ZZ ,/FF els/DA seus/PX successors/NC Guillem/NP i/CC Maria/NP no/RN fan/VM cap/DI nomenament/NC i/CC l/NC orde/NC cau/NC en/SP desús/NC fins/SP la/DA Reina_Anna/NP a/SP el/DA 1703/ZZ la/DA reviu/VM un/DI cop/NC més/RG i/CC fins/RG avui/RG ./FF
+Després/RG de/SP les/DA rebel·lions/NC de/SP 1715/ZZ i/CC 1745/ZZ ,/FF els/DA pretendents/NC a/SP el/DA tron/NC van/VA nomenar/VM membres/NC de/SP l/NC orde/NC a/SP l/NC exili/NC ./FF
+Els/DA primers/AO reis/NC de/SP la/DA casa/NC de/SP Hannover/NP també/RG la/PP van/VA fer_servir/VM per/SP recompensar/VM la/DA noblesa/NC escocesa/AQ que/PR recolzés/VM la/DA casa/NC de/SP Hannover/NP i/CC l/NC església/NC protestant/AQ ./FF
+L/NP orde/NC va/VA revifar/VM quan/CS a/SP el/DA 1822/ZZ el/DA rei/NC Jordi_IV/NP va/VA visitar/VM Escòcia/NP i/CC va/VA lluir/VM les/DA insígnies/NC pròpies/AQ de/SP l/NC orde/NC ./FF
+a/SP el/DA 1827/ZZ el/DA nombre/NC de/SP membres/NC va/VA ascendir/VM a/SP 16/ZZ ./FF
+Si_bé/CS originalment/RG les/DA dones/NC estaven/VM vedades/VM a/SP l'/DA orde/NC (/FF excepte/SP les/DA reines/NC regnants/AQ )/FF ,/FF a/SP el/DA 1937/ZZ Jordi_VI/NP nomenà/VM Dama_de_el_Card/NP a/SP la/DA seva/PX esposa/NC ,/FF Elizabeth_Bowes-Lyon/NP ,/FF mitjançant/SP un/DI estatut/NC especial/AQ ./FF
+Originalment/RG ,/FF era/VS el/DA monarca/NC personalment/RG qui/PR atorgava/VM l'/DA orde/NC ./FF
+a/SP el/DA segle_XVIII/WW ,/FF passà/VM a/SP atorgar/VM -se/P0 segons/SP las/AQ propostes/NC de/SP el/DA govern/NC ;/FF però/CC a/SP el/DA 1946/ZZ ,/FF després/RG de/SP l/NC acord/NC de/SP el/DA Primer_Ministre_Clement_Attlee/NP i/CC de/SP el/DA Cap_de_l'_Oposició/NP ,/FF Winston_Churchilll/NP ,/FF l/NC Orde_de_el_Card/NP tornà/VM a/SP ser/VS un/DI present/AQ personal/NC de/SP el/DA Sobirà/NP ./FF
+a/SP el/DA 1987/ZZ ,/FF Elisabet_II/NP permeté/VM l'/DA admissió/NC de/SP Dames/NP de/SP manera/NC regular/AQ ./FF
+Composició/NP ./FF
+L'/DA Orde/NP té/VM 5/ZZ oficials/NC :/FF el/DA Degà/NP ,/FF el/DA Canceller/NP ,/FF l'/DA Uixer/NP ,/FF el/DA Rei_d'_Armes/NP i/CC el/DA Secretari/NP ./FF
+El/DA Degà/NP normalment/RG és/VS un/DI clergue/NC de/SP l'/DA Església_d'_Escòcia/NP ./FF
+Aquest/DD ofici/NC no/RN formava_part/VM de/SP l'/DA establiment/NC original/AQ ,/FF però/CC es/P0 creà/VM a/SP el/DA 1764/ZZ i/CC s'/P0 uní/VM a/SP l'/DA ofici/NC de/SP Degà_de_la_Capella_Reial/NP ./FF
+Ambdós/DI oficis/NC es/P0 tornaren/VM a/SP separar/VM a/SP el/DA 1969/ZZ ./FF
+L'/DA ofici/NC de/SP Canceller/NP és/VS mencionat/VM a/SP els/DA estatuts/NC de/SP 1687/ZZ ,/FF sent/VM nomenat/VM custodi/AQ de/SP el/DA Segell_de_l'_Orde/NP ,/FF però/CC fins/RG a/SP el/DA 1913/ZZ no/RN es/P0 nomenà/VM ningú/PI a/SP el/DA càrrec/NC i/CC ,/FF subseqüentment/RG ,/FF l'/DA ofici/NC era/VS realitzat/VM per/SP un/DI de/SP els/DA cavaller/NC ,/FF sense/SP ser/VS el/DA més/RG antic/AQ ./FF
+L'/DA Uixer_de_l'_Orde/NP és/VS el/DA Cavaller_Uixer_de_el_Segell_Verd/NP (/FF a_diferència_de/SP el/DA seu/PX equivalent/NC a/SP la/DA Lligacama/NP ,/FF el/DA Cavaller_Uixer_de_el_Segell_Negre/NP ,/FF no/RN té/VM cap/DI funció/NC a/SP la/DA Cambra_de_els_Lords/NP ./FF
+El/DA Lord_Lleó_Rei_d'_Armes/NP encapçala/VM l'/DA establiment/NC heràldic/AQ escocès/AQ ./FF
+El/DA Lord_Lleó/NP (/FF no/RN sempre/RG )/FF també/RG servei/NC com/CS Secretari/NP ./FF
+La/DA Capella/NP ./FF
+Quan/CS Jaume_VII/NP revifà/VM l'/DA Orde/NP a/SP el/DA 1687/ZZ ,/FF ordenà/VM que/CS la/DA Capella_de_el_Palau_de_Holyroodhouse/NP fos/VS convertida/VM en/SP la/DA Capella_per_l'_Orde_de_el_Card/NP ,/FF potser/RG copiant/VM la/DA idea/NC de/SP l'/DA Orde_de_la_Lligacama/NP ,/FF la/DA capella/NC de/SP la/DA qual/PR es/P0 troba/VM a/SP el/DA Castell_de_Windsor/NP ,/FF però/CC Jaume_VII/NP va/VA ser/VS deposat/VM a/SP el/DA 1688/ZZ ,/FF la/DA situació/NC política/AQ es/P0 deteriorà/VM ,/FF i/CC la/DA capella/NC quedà/VM destruïda/VM durant/SP un/DI motí/NC ./FF
+Des_de/SP llavors/RG ,/FF l'/DA Orde/NP quedà/VM sense/SP capella/NC ,/FF fins/RG que/CS a/SP el/DA 1911/ZZ se/P0 situà/VM a/SP la/DA catedral/NC d'/SP Edimburg/NP ./FF
+Cada/DI any/NC ,/FF el/DA Sobirà/NP resideix/VM durant/SP una/DI setmana/NC a/SP el/DA Palau_de_Holyroodhouse/NP a/SP el/DA juny/WW o/CC juliol/WW ,/FF i/CC durant/SP la/DA visita/NC ,/FF es/P0 realitza/VM el/DA servei/NC anual/AQ de/SP l'/DA Orde/NP ./FF
+Els/DA nous/AQ cavallers/NC són/VS nomenats/VM durant/SP aquest/DD servei/NC ./FF
+Tots/DI els/DA membres/NC de/SP l'/DA Orde/NP ,/FF incloent/VM el/DA Sobirà/NP ,/FF tenen/VM un/DI seient/NC a/SP el/DA cor/NC de/SP la/DA Capella/NP ,/FF sobre/SP el/DA qual/PR apareix/VM el/DA seu/PX escut_d'_armes/NC ,/FF amb/SP el/DA nom/NC i/CC la/DA data/NC d'/SP admissió/NC a/SP l'/DA orde/NC ./FF
+Sobre/SP el/DA pinacle/NC de/SP el/DA seient/NC apareix/VM el/DA seu/PX elm/NC (/FF si/CS el/DA cavaller/NC és/VS noble/AQ ,/FF en_lloc_de/SP l'/DA elm/NC es/P0 posa/VM la/DA corona/NC d'/SP acord/NC a/SP el/DA seu/PX rang/NC )/FF ./FF
+A/SP diferència/NC d'/SP altres/DI ordes/NC ,/FF els/DA estendards/NC amb/SP les/DA armes/NC no/RN pengen/VM a/SP la/DA capella/NC ,/FF sinó/CC que/CS a/SP una/DI part/NC adjacent/AQ ./FF
+A/SP la/DA mort/NC de/SP els/DA cavallers/NC ,/FF es/P0 retira/VM l'/DA elm/NC ,/FF l'/DA estendard/NC i/CC l'/DA espasa/NC ,/FF però/CC no/RN l'/DA escut/NC ,/FF quedant/VM permanents/AQ a/SP el/DA respatller/NC de/SP el/DA banc/NC ,/FF motiu/NC per/SP el/DA qual/PR la/DA capella/NC és/VS un/DI colorit/NC recordatori/NC de/SP els/DA cavallers/NC ./FF
+Preferència/NP i/CC Privilegis/NP ./FF
+Els/DA membres/NC de/SP l'/DA orde/NC fan_servir/VM el/DA prefix/NC «/FF Sir/NP »/FF o/CC «/FF Lady/NP »/FF ,/FF i/CC la/DA citació/NC KT/NP //FF LT/NP s'/P0 anteposa/VM a/SP totes/DI ,/FF excepte/SP a/SP Bt/NP (/FF Baronet/NP )/FF ,/FF VC/NP (/FF Creu_Victòria/NP )/FF ,/FF GC/NP (/FF Creu_de_Jordi/NP )/FF i/CC KG/NP //FF LG/NP (/FF Cavaller/NC //FF Dama_de_la_Lligacama/NP )/FF Els/NP membres/NC de/SP l'/DA orde/NC reben/VM un_escut/ZZ heràldic/AQ ,/FF o/CC poden/VM afegir/VM a/SP el/DA seu/PX l'/DA anell/NC (/FF un/DI cercle/NC verd/AQ amb/SP el/DA lema/NC de/SP l'/DA orde/NC )/FF i/CC el/DA collar/NC de/SP l'/DA Orde/NP ,/FF amb/SP la/DA insígnia/NC penjant/AQ ./FF
+A/SP Escòcia/NP ,/FF a/SP l'/DA Escut_Reial/NP llueix/VM l'/DA anell/NC sobre/SP el/DA collar/NC de/SP l'/DA orde/NC ,/FF mentre_que/CC a/SP Anglaterra/NP ,/FF Gal·les/NP i/CC Irlanda_de_el_Nord/NP llueix/VM l'/DA Orde_de_la_Lligacama/NP ./FF
+Vestimentes/NP i/CC Distintius/NP ./FF
+Grans_Ocasions/NP ./FF
+(/FF Reunió_Anual/NP de/SP l/NC Orde/NP o/CC Coronacions/NP )/FF La_Capa/NP :/FF de/SP tafetà/NC verd/AQ ./FF
+Sota/SP l/NC espatlla/NC Esquerra/NP apareix/VM l/NC estrella/NC de/SP l/NC orde/NC ./FF
+Es/P0 llueix/VM sobre/SP l/NC uniforme/AQ o/CC sobre/SP el/DA vestit/NC de/SP cerimònia/NC ./FF
+El/DA Barret/NP :/FF de/SP vellut/NC negre/AQ ,/FF amb/SP una/DI ploma/NC d/AQ estruç/NC blanca/AQ ./FF
+El/DA Collar/NP :/FF fet/NC d/AQ or/NC ,/FF amb/SP cards/NC i/CC branques/NC de/SP lamenta/VM ./FF
+Es/P0 llueix/VM sobre/SP la/DA capa/NC ./FF
+El/DA Sant_Andrew/NP :/FF penja/VM de/SP el/DA collar/NC ./FF
+És/VS una/DI imatge/NC d/AQ esmalt/NC sobre/SP or/NC de/SP Sant_Andreu/NP ,/FF amb/SP una/DI túnica/NC lila/NC ,/FF una/DI sobrevesta/NC verda/AQ i/CC la/DA creu/VM en/SP aspa/NC en/SP blanc/NC ./FF
+D/NP altres/DI ocasions/NC ./FF
+L_Estrella/NP :/FF consisteix/VM en/SP una/DI Creu_de_Sant_Andreu/NP (/FF en/SP aspa/NC )/FF ,/FF amb/SP raigs/NC entre/SP els/DA braços/NC ./FF
+a/SP el/DA mig/NC hi/PP ha/VA un/DI cercle/NC verd/AQ amb/SP el/DA lema/NC de/SP l/NC orde/NC en/SP or/NC NEMO_ME_IMPUNE_LACESSIT/NP (/FF Ningú/NP no/RN em/PP fereix/VM impunement/RG )/FF ./FF
+Sobre/SP el/DA cercle/NC hi/PP ha/VA un/DI card/NC en/SP esmalt/NC sobre/SP or/NC ./FF
+Es/P0 llueix/VM a/SP l/NC esquerra/AQ de/SP el/DA pit/NC ./FF
+L/NP estrella/NC es/P0 llueix/VM amb/SP prominència/NC sobre/SP les/DA altres/DI estrelles/NC que/PR es/P0 puguin/VM lluir/VM (/FF excepte/SP l/NC Orde_de_la_Lligacama/NP )/FF ;/FF La_Banda/NP :/FF de/SP color/NC verd/AQ ./FF
+Es/P0 llueix/VM penjada/NC de/SP l/NC espatlla/NC dreta/AQ i/CC lligada/NC a/SP l/NC esquerra/AQ de/SP la/DA cintura/NC ./FF
+de/SP el/DA nus/NC hi/PP penja/VM la/DA insígnia/NC ./FF
+La/DA Insígnia/NP :/FF de/SP forma/NC oval/AQ ./FF
+Sobre/SP l/NC anvers/NC hi/PP apareix/VM Sant_Andreu/NP ./FF
+a/SP el/DA revers/NC hi/PP apareix/VM un/DI card/NC sobre/SP fons/NC verd/AQ ,/FF envoltat/VM per/SP el/DA lema/NC de/SP l/NC orde/NC ./FF
+El/DA collar/NC ,/FF el/DA mantell/NC i/CC el/DA barret/NC només/RG es/P0 llueixen/VM a/SP les/DA cerimònies/NC de/SP l/NC orde/NC a/SP la/DA Catedral_de_Sant_Giles/NP ,/FF a/SP Edimburg/NP ./FF
+A/SP les/DA ocasions/NC formals/AQ ,/FF els/DA membres/NC de/SP l/NC Orde/NP porten/VM la/DA medalla/NC ,/FF sobre/SP una/DI banda/NC sobre/SP l/NC espatlla/NC esquerra/AQ ,/FF i/CC l/NC Estrella/NP ./FF
+El/DA galó/NC no/RN es/P0 porta/VM sol/AQ ./FF
+El/DA sobirà/NC pot/VM designar/VM certs/DI Dies_de_el_Collar/NP ,/FF en/SP què/PT els/DA membres/NC poden/VM lluir/VM el/DA collar/NC sobre/SP l'/DA uniforme/NC o/CC sobre/SP el/DA vestit/NC de/SP cerimònia/NC ,/FF substituint/VM la/DA banda/NC per/SP la/DA d'/SP un/DI altre/DI orde/NC (/FF si/CS en/SP tenen/VM dret/NC )/FF ,/FF doncs/CC l'/DA Orde_de_el_Card/NP queda/VM representada/VM per/SP el/DA collar/NC ./FF
+A/SP la/DA mort/NC de/SP els/DA membres/NC de/SP l'/DA orde/NC ,/FF la/DA insígnia/NC i/CC l'/DA estrella/NC són/VS tornades/VM personalment/RG a/SP el/DA Sobirà/NP per/SP el/DA parent/NC més/RG proper/AQ a/SP el/DA difunt/NC ./FF
+Serra_Negra/NP és/VS una/DI ciutat/NC de/SP l'/DA estat/NC brasiler/AQ de/SP l'/DA São_Paulo/NP ./FF
+La/DA seva/PX població/NC estimada/VM (/FF 2006/ZZ )/FF era/VS de/SP 25,438/ZZ habitants/NC ./FF
+La/DA seva/PX àrea/NC total/AQ és/VS de/SP 203/ZZ km²/NC ./FF
+El/DA turisme/NC i/CC l'/DA extracció/NC d'/SP aigua/NC mineral/AQ són/VS les/DA activitats/NC econòmiques/AQ principals/AQ ./FF
+Pere_de_Tamarit/NP i/CC de/SP Salbà/NP fou/VS un/DI polític/NC català/AQ ./FF
+Conseller/NP en/SP Cap_de_el_Consell/NP de/SP Cent/ZZ de/SP Barcelona/NP els/DA anys/NC 1590-91/ZZ i/CC 1592-93/ZZ ,/FF fou/VS pare/NC de/SP Francesc_de_Tamarit/NP i/CC de/SP Rifà/NP ,/FF diputat/NC militar/AQ de/SP la/DA Generalitat_de_Catalunya/NP ./FF
+Polític/AQ amb/SP mala/AQ fam

@@ -958,4 +958,84 @@ El/DA mas/NC de/SP el/DA Ferran/NP ,/FF que/PR ha/VA donat/VM nom/NC a/SP el/DA 
 En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 3/ZZ habitants/NC ./FF
 El/DA Gall_Pigat/NP ,/FF també/RG escrit/NC de/SP vegades/NC Gallpigat/NP ,/FF és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
 És/VS situada/VM a/SP la/DA part/NC sud-oriental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA sud/NC de/SP la/DA Bauma/NP i/CC vora/SP la/DA riera/NC de/SP Sanana/NP ,/FF que/PR marca/VM el/DA límit/NC amb/SP el/DA terme/NC de/SP Vacarisses/NP ./FF
-Està/VM limitada/VM a/SP l'/DA oest/NC per/SP la/DA carretera/NC C-58/ZZ i/CC per/SP la/DA urbanització/NC adjacent/AQ de/SP el/DA Mas_Astarròs/NP ,/FF a/SP el/DA nord/NC per/SP la/DA carretera/NC BV-1212/ZZ que/PR la/PP separa/VM
+Està/VM limitada/VM a/SP l'/DA oest/NC per/SP la/DA carretera/NC C-58/ZZ i/CC per/SP la/DA urbanització/NC adjacent/AQ de/SP el/DA Mas_Astarròs/NP ,/FF a/SP el/DA nord/NC per/SP la/DA carretera/NC BV-1212/ZZ que/PR la/PP separa/VM de/SP la/DA urbanització/NC de/SP el/DA Prat/NP i/CC a/SP el/DA sud/NC per/SP la/DA urbanització/NC de/SP el/DA Palà/NP ,/FF a_l'_altra_banda_de/SP la/DA riera/NC ./FF
+S'/P0 hi/PP accedeix/VM des_de/SP la/DA carretera/NC general/AQ C-58/ZZ vora/SP el/DA km/NC 36,5/ZZ i/CC des_de/SP la/DA carretera/NC local/AQ BV-1212/ZZ vora/SP el/DA km/NC 6,5/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 103/ZZ habitants/NC ./FF
+Es/P0 va/VA construir/VM en/SP terrenys/NC de/SP els/DA masos/NC de/SP Cal_Pigat/NP i/CC Can_Gall_de_Baix/NP ,/FF de/SP el/DA terme/NC de/SP el/DA Vilar/NP ./FF
+El/DA Mas_Astarròs/NP ,/FF de/SP vegades/NC escrit/NC Mas_Astarrós/NP ,/FF és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situada/VM a/SP la/DA part/NC sud-oriental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA sud/NC de/SP la/DA Bauma/NP i/CC vora/SP la/DA riera/NC de/SP Merà/NP ,/FF a/SP el/DA límit/NC amb/SP el/DA terme/NC de/SP Vacarisses/NP ./FF
+Està/VM limitada/VM a/SP l'/DA oest/NC per/SP la/DA carretera/NC C-58/ZZ ,/FF a/SP el/DA nord/NC per/SP la/DA carretera/NC BV-1212/ZZ que/PR la/PP separa/VM de/SP la/DA urbanització/NC de/SP el/DA Prat/NP i/CC a/SP l'/DA est/NC per/SP la/DA urbanització/NC adjacent/AQ de/SP el/DA Gall_Pigat/NP ./FF
+S'/P0 hi/PP accedeix/VM des_de/SP la/DA carretera/NC general/AQ C-58/ZZ vora/SP el/DA km/NC 37/ZZ i/CC des_de/SP la/DA carretera/NC local/AQ BV-1212/ZZ vora/SP el/DA km/NC 7/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 92/ZZ habitants/NC ./FF
+Es/P0 va/VA construir/VM en/SP terrenys/NC de/SP el/DA mas/NC Astarròs/NP ,/FF de/SP el/DA terme/NC de/SP el/DA Vilar/NP ./FF
+El/DA Mas_Enric/NP ,/FF o/CC Mas_Enric/NP ,/FF és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situada/VM a/SP la/DA part/NC nord-occidental/AQ de/SP el/DA terme/NC ,/FF vora/SP els/DA estreps/NC de/SP el/DA vessant/NC nord/AQ de/SP Montserrat/NP ,/FF a/SP el/DA nord-est/NC de/SP el/DA poble/NC de/SP Sant_Cristòfol/NP ./FF
+Està/VM limitada/VM a/SP el/DA nord/NC per/SP la/DA riera/NC de/SP Marganell/NP i/CC a/SP l'/DA est/NC per/SP el/DA Rasot_de_Botines/NP ,/FF tributari/AQ seu/NC ./FF
+a/SP el/DA sud/NC i/CC a/SP l'/DA oest/NC ,/FF la/DA carretera/NC local/AQ BV-1122/ZZ la/DA separa/VM de/SP Sant_Cristòfol/NP i/CC la/DA comunica/VM amb/SP la/DA carretera/NC BV-1122/ZZ ,/FF entre/SP Marganell/NP i/CC el/DA Burés/NP ,/FF i/CC amb/SP els/DA camins/NC de/SP Santa_Cecília/NP i/CC de/SP la/DA Calsina/NP ,/FF que/PR porten/VM a/SP Montserrat/NP i/CC Monistrol/NP respectivament/RG ./FF
+Amb/SP 201/ZZ habitants/NC censats/VM el/DA 2006/ZZ ,/FF és/VS la/DA urbanització/NC més/RG poblada/VM de/SP el/DA municipi/NC ./FF
+Es/P0 va/VA construir/VM originàriament/RG en/SP terrenys/NC de/SP el/DA mas/NC de/SP Ca_l'_Enric/NP ,/FF de/SP el/DA terme/NC de/SP Sant_Cristòfol/NP ./FF
+El/DA Prat/NP ,/FF també/RG conegut/VM com/CS Can_Prat/NP ,/FF és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situada/VM a/SP la/DA part/NC sud-oriental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA sud/NC de/SP la/DA Bauma/NP i/CC vora/SP la/DA riera/NC de/SP Merà/NP ,/FF a/SP el/DA límit/NC amb/SP el/DA terme/NC de/SP Vacarisses/NP ./FF
+Està/VM limitada/VM a/SP l'/DA oest/NC per/SP la/DA carretera/NC C-58/ZZ ,/FF a/SP el/DA nord/NC i/CC a/SP l'/DA est/NC per/SP la/DA via/NC de/SP la/DA RENFE/NP i/CC l'/DA autopista/NC C-16/ZZ ,/FF i/CC a/SP el/DA sud/NC per/SP la/DA carretera/NC BV-1212/ZZ ,/FF que/PR la/PP separa/VM de/SP les/DA urbanitzacions/NC adjacents/AQ de/SP el/DA Mas_Astarròs/NP i/CC el/DA Gall_Pigat/NP ./FF
+S'/P0 hi/PP accedeix/VM des_de/SP la/DA Bauma/NP per/SP el/DA carrer/NC de/SP la/DA Riera/NP ,/FF des_de/SP la/DA carretera/NC general/AQ C-58/ZZ per/SP un/DI trencall/NC a/SP el/DA km/NC 37,5/ZZ i/CC des_de/SP la/DA carretera/NC local/AQ BV-1212/ZZ per/SP diversos/DI trencalls/NC entorn/NC de/SP el/DA km/NC 7/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 119/ZZ habitants/NC ./FF
+Es/P0 va/VA construir/VM en/SP terrenys/NC de/SP el/DA mas/NC de/SP Can_Prat/NP ,/FF de/SP el/DA terme/NC de/SP el/DA Vilar/NP ./FF
+Vegeu/VM també/RG ./FF
+Can_Prat/NP ,/FF urbanització/NC de/SP el/DA mateix/DI municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF vora/SP Sant_Cristòfol/NP ./FF
+El/DA Vilar/NP és/VS un/DI poble/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP 239_m/ZZ d'/SP altitud/NC ,/FF en/SP un/DI alt/AQ replà/NC a/SP l'/DA esquerra/NC de/SP el/DA Llobregat/NP ,/FF dins/SP el/DA gran/AQ meandre/NC que/PR forma/VM el/DA riu/NC des_de/SP el/DA congost/NC de/SP Castellbell/NP fins/SP a/SP el/DA de/SP la/DA Bauma/NP ,/FF entre/SP les/DA rieres/NC de/SP Rellinars/NP i/CC de/SP Merà/NP ./FF
+Està/VM comunicat/NC per/SP la/DA carretera/NC local/AQ BP-1273/ZZ amb/SP el/DA Borràs/NP ,/FF poble/NC amb/SP el/DA qual/PR està/VM gairebé/RG unit/VM ,/FF a/SP el/DA sud/NC ,/FF i/CC amb/SP la/DA carretera/NC de/SP Rellinars/NP (/FF B-122/ZZ )/FF ./FF
+L'/DA antic/AQ Camí_Ral/NP porta/VM a/SP el/DA poble/NC de/SP el/DA Burés/NP ,/FF a/SP el/DA nord-oest/NC ./FF
+El/DA petit/AQ poble/NC de/SP el/DA Vilar/NP tenia/VM 49/ZZ habitants/NC censats/VM el/DA 2006/ZZ ./FF
+Celebra/VM la/DA festa/NC major/AQ el/DA 31_d'_agost/WW ./FF
+a/SP el/DA Vilar/NP hi/PP destaca/VM l'/DA església/NC de/SP Santa_Maria/NP ,/FF de/SP el/DA segle_XVII/WW ,/FF amb/SP un/DI campanar/NC de/SP disseny/NC romàntic/AQ ./FF
+A/SP l'/DA est/NC de/SP el/DA poble/NC hi/PP ha/VA el/DA cementiri/NC municipal/AQ ./FF
+Història/NP ./FF
+El/DA lloc/NC de/SP el/DA Vilar/NP és/VS conegut/VM documentalment/RG des_de/SP el/DA 1047/ZZ ./FF
+El/DA seu/PX topònim/NC deriva/VM segurament/RG d'/SP un/DI vilar/NC ,/FF agrupació/NC de/SP cases/NC o/CC territori/NC poblat/NC a/SP el/DA voltant/NC d'/SP un/DI gran/AQ mas/NC d'/SP explotació/NC agrària/AQ ,/FF sorgit/VM en/SP aquest/DD indret/NC a/SP la/DA fi/NC de/SP el/DA segle_IX/WW o/CC a/SP el/DA següent/AQ ;/FF o/CC ,/FF potser/RG també/RG ,/FF d'/SP una/DI antiga/AQ vil·la/NC romana/AQ ./FF
+A/SP la/DA segona/AO meitat/NC de/SP el/DA segle_XIX/WW ,/FF l'/DA antiga/AQ església/NC sufragània/AQ de/SP Santa_Maria_de_el_Vilar/NP es/P0 va/VA independitzar/VM de/SP Castellbell/NP i/CC el/DA poble/NC va/VA adquirir/VM importància/NC a_partir_de/SP l'/DA obertura/NC de/SP el/DA ferrocarril/NC de/SP Barcelona/NP a/SP Saragossa/NP el/DA 1859/ZZ ,/FF que/PR va/VA establir/VM justament/RG a/SP el/DA Vilar/NP l'/DA estació/NC dita/VM de/SP Monistrol/NP ,/FF a/SP l'/DA indret/NC que/PR actualment/RG no/RN és/VS més/RG que/CS un/DI raval/NC de/SP el/DA Borràs/NP ./FF
+Des/SP d'/SP aleshores/RG ,/FF a/SP el/DA peu/NC de/SP el/DA turó/NC i/CC vora/SP el/DA riu/NC ,/FF van/VA sorgir/VM les/DA colònies/NC industrials/AQ de/SP la/DA Bauma/NP ,/FF el/DA Borràs/NP i/CC el/DA Burés/NP que/PR aprofitaven/VM la/DA força/NC de/SP el/DA riu/NC per/SP a/SP les/DA seves/PX fàbriques/NC ./FF
+El/DA 1961/ZZ ,/FF la/DA parròquia/NC de/SP el/DA Vilar/NP fou/VS transferida/VM a/SP el/DA Borràs/NP ./FF
+Can_Prat/NP és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situada/VM a/SP la/DA part/NC sud-occidental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA peu/NC de/SP el/DA vessant/NC nord/AQ de/SP Montserrat/NP ,/FF entre/SP els/DA torrents/NC de/SP Can_Martorell/NP i/CC de/SP Cal_Cileta/NP (/FF tributaris/NC de/SP la/DA riera/NC de/SP Marganell/NP )/FF ,/FF a/SP el/DA sud/NC de/SP el/DA poble/NC de/SP Sant_Cristòfol/NP ./FF
+S'/P0 hi/PP accedeix/VM per/SP la/DA pista/NC asfaltada/VM que/CS surt/VM de/SP la/DA carretera/NC local/AQ BV-1122/ZZ a/SP l'/DA altura/NC de/SP Sant_Cristòfol/NP i/CC que/PR ,/FF a_través_de/SP Santa_Cecília/NP ,/FF comunica/VM amb/SP la/DA carretera/NC BP-1103/ZZ ./FF
+Hi/PP passa/VM el/DA sender/NC de/SP gran/AQ recorregut/NC GR/NP -/FF 4/ZZ ./FF
+La/DA urbanització/NC tenia/VM 74/ZZ habitants/NC censats/VM el/DA 2006/ZZ ./FF
+Es/P0 va/VA construir/VM en/SP terrenys/NC de/SP el/DA mas/NC de/SP Can_Prat/NP ,/FF de/SP el/DA terme/NC de/SP Sant_Cristòfol/NP ./FF
+Vegeu/VM també/RG ./FF
+El/DA Prat/NP ,/FF urbanització/NC de/SP el/DA mateix/DI municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF vora/SP la/DA Bauma/NP ,/FF de/SP vegades/NC coneguda/VM també/RG com/CS Can_Prat/NP ./FF
+Molí_Alsina/NP ,/FF també/RG conegut/VM com/CS la/DA Farinera/NP ,/FF és/VS una/DI urbanització/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situada/VM a/SP l'/DA extrem/NC sud-oriental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA límit/NC amb/SP Rellinars/NP i/CC Vacarisses/NP ,/FF per/SP on/PR continua/VM la/DA urbanització/NC ,/FF a/SP el/DA vessant/NC meridional/AQ de/SP el/DA Llom_de_els_Pivers/NP i/CC vora/SP el/DA torrent/NC de/SP l'/DA Alzina/NP ,/FF i/CC per/SP damunt/RG de/SP la/DA via/NC de/SP la/DA RENFE/NP que/PR en/SP marca/VM el/DA límit/NC sud/AQ ./FF
+S'/P0 hi/PP accedeix/VM per/SP un/DI camí/NC que/PR comunica/VM la/DA urbanització/NC amb/SP Rellinars/NP i/CC amb/SP la/DA carretera/NC BV-1212/ZZ ,/FF vora/SP el/DA km/NC 5/ZZ ./FF
+El/DA 2006/ZZ ,/FF hi/PP havia/VA 7/ZZ residents/NC censats/VM ./FF
+Vegeu/VM també/RG ./FF
+la/DA Farinera/NP (/FF Vacarisses/NP )/FF ;/FF
+El/DA Pla_de_les_Botxes/NP és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP la/DA part/NC central/AQ de/SP el/DA terme/NC ,/FF a/SP la/DA vall/NC de/SP el/DA torrent/NC de/SP els/DA Abadals/NP ,/FF a/SP el/DA nord/NC de/SP els/DA estreps/NC septentrionals/AQ de/SP Montserrat/NP ./FF
+És/VS un/DI nucli/NC de/SP població/NC dispers/AQ ,/FF compost/NC de/SP masos/NC escampats/VM ,/FF a/SP el/DA qual/PR s'/P0 accedeix/VM a/SP través/NC d'/SP un/DI camí/NC que/PR arrenca/VM de/SP la/DA carretera/NC local/AQ BV-1123/ZZ a/SP l'/DA alçada/NC de/SP el/DA km/NC 2/ZZ ./FF
+Un/DI altre/DI camí/NC enllaça/VM el/DA Pla_de_les_Botxes/NP amb/SP els/DA Abadals/NP ,/FF vora/SP el/DA km/NC 17/ZZ de/SP la/DA carretera/NC C-55/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 24/ZZ habitants/NC ./FF
+El/DA Pla_de_les_Roques/NP és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP la/DA part/NC septentrional/AQ de/SP el/DA terme/NC ,/FF prop/RG de/SP el/DA marge/NC dret/AQ de/SP el/DA Llobregat/NP i/CC de/SP la/DA riera/NC de/SP Marganell/NP ,/FF a/SP el/DA nord/NC de/SP el/DA Raval_de_el_Jordi/NP i/CC a/SP 1_km/ZZ de/SP el/DA Burés/NP ./FF
+S'/P0 hi/PP accedeix/VM a/SP través/NC d'/SP un/DI camí/NC que/PR arrenca/VM de/SP la/DA cruïlla/NC entre/SP la/DA carretera/NC local/AQ BV-1123/ZZ i/CC la/DA carretera/NC C-55/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 7/ZZ habitants/NC ./FF
+El/DA Raval_de_el_Clot/NP és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP l'/DA extrem/NC nord-oriental/AQ de/SP el/DA terme/NC ,/FF a/SP el/DA límit/NC amb/SP Sant_Vicenç_de_Castellet/NP ,/FF població/NC des/SP d'/SP on/PR s'/P0 hi/PP accedeix/VM per/SP un/DI camí/NC i/CC de/SP la/DA qual/PR dista/VM un/DI parell/NC de/SP quilòmetres/NC ./FF
+El/DA raval/NC es/P0 troba/VM a/SP el/DA peu/NC de/SP el/DA Puigsoler/NP ,/FF a/SP el/DA vessant/NC meridional/AQ de/SP la/DA serra/NC de/SP Vallhonesta/NP ./FF
+El/DA 2006/ZZ ,/FF a/SP el/DA Raval_de_el_Clot/NP hi/PP havia/VA 13/ZZ habitants/NC censats/VM ./FF
+El/DA Raval_de_el_Jordi/NP és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP la/DA part/NC septentrional/AQ de/SP el/DA terme/NC ,/FF a/SP l'/DA esquerra/NC de/SP la/DA riera/NC de/SP Marganell/NP i/CC vora/SP el/DA Llobregat/NP ,/FF a/SP el/DA sud/NC de/SP el/DA Pla_de_les_Roques/NP i/CC a/SP el/DA nord-oest/NC de/SP el/DA Burés/NP ./FF
+El/DA raval/NC és/VS a/SP el/DA peu/NC de/SP la/DA carretera/NC local/AQ BV-1123/ZZ a/SP l'/DA alçada/NC de/SP el/DA km/NC 0,5/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 22/ZZ habitants/NC ./FF
+El/DA Raval_de_el_Teixidor/NP és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP la/DA part/NC nord-occidental/AQ de/SP el/DA terme/NC ,/FF a/SP la/DA vall/NC de/SP la/DA riera/NC de/SP Marganell/NP ,/FF vora/SP el/DA rasot/NC de/SP Botines/NP ,/FF a/SP l'/DA inici/NC de/SP els/DA estreps/NC que/PR pugen/VM cap/NC a/SP Montserrat/NP ./FF
+Molt_a_prop/RG ,/FF cap/PI a/SP l'/DA oest/NC ,/FF hi/PP ha/VA la/DA urbanització/NC de/SP el/DA Mas_Enric/NP ./FF
+S'/P0 hi/PP accedeix/VM a/SP través/NC d'/SP un/DI camí/NC que/PR arrenca/VM de/SP la/DA carretera/NC local/AQ BV-1123/ZZ a/SP l'/DA alçada/NC de/SP el/DA km/NC 2,5/ZZ ./FF
+En/SP el/DA cens/NC de/SP el/DA 2006/ZZ comptava/VM amb/SP 18/ZZ habitants/NC ./FF
+Sant_Cristòfol/NP ,/FF o/CC Sant_Cristòfol_de_Castellbell/NP ,/FF és/VS una/DI caseria/NC de/SP el/DA municipi/NC de/SP Castellbell/NP i/CC el/DA Vilar/NP ,/FF a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+És/VS situat/VM a/SP la/DA part/NC occidental/AQ de/SP el/DA terme/NC en/SP una/DI petita/AQ serra/NC ,/FF a/SP el/DA peu/NC de/SP el/DA vessant/NC nord/AQ de/SP Montserrat/NP ,/FF a/SP el/DA marge/NC dret/AQ de/SP el/DA torrent/NC de/SP Cal_Cileta/NP ,/FF tributari/AQ de/SP la/DA riera/NC de/SP Marganell/NP ./FF
+La/DA carretera/NC local/AQ BV-1122/ZZ comunica/VM Sant_Cristòfol/NP amb/SP la/DA carretera/NC BV-1123/ZZ ,/FF entre/SP Marganell/NP i/CC el/DA Burés/NP ./FF
+A_través_de/SP pistes/NC comunica/VM amb/SP les/DA carreteres/NC comarcals/AQ BP-1121/ZZ i/CC BP-1103/ZZ entre/SP Montserrat/NP i/CC Monistrol/NP ./FF
+Hi/PP passa/VM el/DA sender/NC de/SP gran/AQ recorregut/NC GR/NP -/FF 4/ZZ ./FF
+Sant_Cristòfol/NP tenia/VM 48/ZZ habitants/NC censats/VM el/DA 2006/ZZ ./FF
+Celebra/VM la/DA festa/NC maj

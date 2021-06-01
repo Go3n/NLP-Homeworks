@@ -1164,4 +1164,96 @@ L'/DA estampida/NC de/SP bisons/NC està/VM superposada/VM sobre/SP la/DA cara/N
 També/RG hi/PP ha/VA diverses/DI seqüències/NC llargues/AQ i/CC surrealistes/AQ de/SP somnis/NC ,/FF en/SP els/DA quals/PR Glen/NP és/VS embruixat/VM per/SP un/DI personatge/NC vestit/NC de/SP dimoni/NC ./FF
 Influència/NP en/SP altres/DI obres/NC ./FF
 En/SP una/DI novel·la/NC de/SP Wood/NP titulada/VM Killer/NP in/VM Drag/NP també/RG apareix/VM un/DI personatge/NC transvestit/NC anomenat/VM "/FF Glen/NP "/FF ,/FF i/CC la/DA personalitat/NC femenina/AQ de/SP "/FF Glenda/NP "/FF ./FF
-És/VS e
+És/VS executat/VM en/SP la/DA seqüència/NC Death/NP of/NC a/SP Transvestite/NP després/RG d'/SP una/DI lluita/NC per/SP el/DA dret/NC d'/SP anar/VM a/SP la/DA cadira_elèctrica/NC vestit/NC de/SP Glenda/NP ./FF
+La/DA pel·lícula/NC Ed_Wood/NP ,/FF de/SP Tim_Burton/NP ,/FF descriu/VM el/DA rodatge/NC de/SP la/DA cinta/NC i/CC reconstrueix/VM diverses/DI escenes/NC amb/SP Johnny_Depp/NP en/SP el/DA rol/NC de/SP Wood/NP ./FF
+Glen/NP o/CC Glenda/NP va/VA ser/VS reeditat/VM amb/SP sis/ZZ minuts/NC de/SP preses/NC addicionals/AQ el/DA 1982/ZZ ./FF
+El/DA 1994/ZZ es/P0 va/VA realitzar/VM un/DI remake/NC pornogràfic/AQ anomenat/VM Glen_&_Glenda/NP ,/FF que/PR presentava/VM gran/AQ part/NC de/SP el/DA guió/NC de/SP la/DA pel·lícula/NC original/AQ ,/FF però/CC amb/SP escenes/NC de/SP sexe/NC explícit/AQ ./FF
+Es/P0 troba/VM en/SP el/DA lloc/NC 50/ZZ dins/SP la/DA llista/NC de/SP les/DA 50/ZZ pitjors/AQ pel·lícules/NC ./FF
+La/DA pel·lícula/NC original/AQ ,/FF Glen/NP o/CC Glenda/NP ,/FF ara/RG és/VS de/SP domini/NC públic/AQ ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Glen/NP or/VM Glenda/NP a/SP Movie_Tome/NP ;/FF Trailer/NP de/SP la/DA pel·lícula/NC (/FF formats/NC Windows_Media/NP i/CC Real_Media/NP )/FF ;/FF
+Adam_Strange/NP és/VS un/DI superheroi/NC de/SP ficció/NC publicat/VM per/SP DC_Comics/NP ./FF
+Creat/VM per/SP el/DA guionista/NC Gardner_Fox/NP i/CC el/DA dibuixant/NC Mike_Sekowsky/NP va/VA tenir/VM la/DA seua/PX primera/AO aparició/NC en/SP el/DA Showcase/NP #17/ZZ (/FF Novembre/WW 1958/ZZ )/FF Creat_per_Gardner_Fox/NP ,/FF Adam_Strange/NP és/VS una/DI reminiscència/NC de/SP John_Carter/NP ,/FF personatge/NC creat/VM per/SP Edgar_Rice_Burroghs/NP ./FF
+Ambdos/NP tenen/VM l'/DA origen/NC en/SP el/DA fet/NC que/PR són/VS misteriosament/RG transportats/VM a/SP un/DI planeta/NC llunyà/AQ on/PR esdevenen/VM herois/NC ./FF
+En/SP el/DA cas/NC de/SP Carter/NP aquest/DD planeta/NC fou/VS Mart/NP ,/FF mentre_que/CC Adam_Strange/NP va/VA ser/VS transportat/VM a/SP Rann/NP ,/FF tot_i_que/CS les/DA històries/NC de/SP John_Carter/NP descriuen/VM un/DI tipus/NC d'/SP aventura/NC més/RG crua/AQ que/PR inclou/VM espases/NC ,/FF acció/NC ,/FF nus/NC i/CC vessament/NC de/SP sang/NC ./FF
+Aquests/DD elements/NC no/RN apareixen/VM en/SP les/DA històries/NC d'/SP Adam_Strange/NP ./FF
+El/DA filtre/NC passiu/AQ és/VS un/DI filtre/NC electrònic/AQ format/VM només/RG per/SP elements/NC passius/AQ ,/FF és/VS a/SP dir/VM :/FF resistències/NC ,/FF condensadors/NC i/CC bobines/NC ./FF
+Els/DA avantatges/NC de/SP els/DA filtres/NC passiu/AQ respecte/VM els/DA filtres/NC actius/AQ són/VS :/FF Les/DA derives/NC (/FF canvis/NC provocats/VM per/SP efectes/NC ambientals/AQ )/FF afecten/VM menys/RG filtres/NC passius/AQ ./FF
+No/RN necessiten/VM alimentació/NC ./FF
+Poden/VM processar/VM magnituds/NC de/SP senyals/NC majors/AQ que/CS els/DA filtres/NC actius/AQ amb/SP distorsions/NC acceptables/AQ (/FF fins/SP a/SP centenars/NC de/SP Volts/NP )/FF ./FF
+En/SP els/DA filtres/NC actius/AQ ,/FF les/DA resistències/NC produeixen/VM soroll/NC tèrmic/AQ ./FF
+Són/VS una/DI garantia/NC d'/SP estabilitat/NC ./FF
+Costos/NP reduïts/VM ./FF
+Els/DA filtres/NC passius/AQ són/VS utilitzats/VM en/SP altaveus/NC ,/FF ja/RG sigui/VS per/SP controlar/VM tensions/NC i/CC corrents/NC que/PR hi/PP entren/VM com/CS per/SP el/DA filtratge/NC de/SP freqüències/NC ;/FF filtres/NC de/SP distribució/NC de/SP potència/NC (/FF on/PR treballen/VM amb/SP alts/NC corrents/AQ i/CC tensions/NC ;/FF fonts/NC d'/SP alimentació/NC ,/FF entre/SP d'/SP altres/PI ./FF
+Tipus/NP de/SP filtres/NC ./FF
+Filtre/NP passabanda/NC ./FF
+Filtre/NP bandaeliminada/NC ./FF
+Filtre/NC passaalt/AQ ./FF
+Filtre/NC passabaix/AQ ./FF
+Filtre/NP passatot/RG ;/FF Vegeu/NP també/RG ./FF
+Filtre/NP actiu/NC ;/FF
+Un/DI filtre/NC passabanda/NC és/VS un/DI tipus/NC de/SP filtre/NC electrònic/AQ que/PR deixa/VM passar/VM a/SP un/DI determinat/VM rang/NC de/SP freqüències/NC d'/SP un/DI senyal/NC i/CC atenua/VM el/DA pas/NC de/SP la/DA resta/NC ./FF
+Implementació/NP ./FF
+Un/DI circuit/NC simple/AQ de/SP filtre/NC passabanda/NC és/VS un/DI circuit/NC RLC/NP (/FF resistència/NC ,/FF condensador/NC i/CC bobina/NC )/FF que/PR es/P0 deixa/VM passar/VM la/DA freqüència/NC de/SP ressonància/NC ,/FF que/PR seria/VS la/DA freqüència/NC central/AQ (/FF fc/NC )/FF i/CC les/DA freqüències/NC properes/AQ a/SP aquesta/PD ,/FF com/CS serien/VS a/SP la/DA imatge/NC f1/ZZ i/CC f2/ZZ ./FF
+Una/DI altra/PI forma/NC de/SP construir/VM un/DI filtre/NC passabanda/NC és/VS usar/VM un/DI filtre/NC passabaix/AQ en/SP sèrie/NC amb/SP un/DI filtre/NC filtre/NC passaalt/AQ entre/SP els/DA que/PR hi/PP ha/VA un/DI rang/NC de/SP freqüències/NC que/CS ambdós/PI deixen/VM passar/VM ./FF
+Un/DI filtre/NC ideal/AQ seria/VS el/DA que/PR té/VM uns/DI costats/NC totalment/RG planes/AQ i/CC una/DI zona/NC de/SP transició/NC entre/SP ambdues/DI nul·la/AQ ,/FF però/CC a/SP la/DA pràctica/NC ,/FF això/PD no/RN s'/P0 aconsegueix/VM mai/RG ./FF
+Per/SP mesurar/VM si/CS un/DI filtre/NC és/VS bo/AQ ,/FF s'/P0 utilitza/VM el/DA factor/NC Q._En/NP filtres/VM d'/SP altes/AQ freqüències/NC acostuma/VM a/SP aparèixer/VM un/DI rissat/VM en/SP les/DA zones/NC de/SP transició/NC ,/FF conegut/VM com/CS fenòmen/VM de/SP Gibs/NP ./FF
+Un/DI pas/NC més/RG en/SP els/DA filtrespassa/VM banda/NC serien/VS els/DA de/SP freqüència/NC mòbil/AQ ,/FF en/SP els/DA que/PR es/P0 poden/VM variar/VM alguns/DI paràmetres/NC freqüencials/AQ ./FF
+Un/DI exemple/NC d'/SP això/PD és/VS el/DA circuit/NC RLC/NP anterior/AQ a/SP el/DA que/PR se/P0 li/PP substitueix/VM el/DA condensador/NC per/SP un/DI díode/NC varicap/NC ,/FF que/PR actua/VM com/CS un/DI condensador/NC variable/AQ ,/FF podent/VM així/RG ,/FF canviar/VM la/DA freqüència/NC central/AQ ./FF
+Aplicacions/NP ./FF
+Alguna/DI aplicació/NC de/SP els/DA filtres/NC passabanda/NC són/VS per/SP els/DA equalitzadors/NC d'/SP àudio/NC ,/FF per/SP fer/VM que/CS algunes/DI freqüències/NC s'/P0 amplifiquin/VM més/RG que/CS d'/SP altres/DI ;/FF eliminar/VM els/DA sorolls/NC que/PR apareixen/VM junt/RG a/SP una/DI senyal/NC ,/FF sempre/RG que/CS la/DA freqüència/NC d'/SP aquesta/DD sigui/VS fixa/AQ i/CC coneguda/NC ./FF
+Deixant_de_banda/VM les/DA aplicacions/NC electròniques/AQ ,/FF un/DI exemple/NC seria/VS en/SP el/DA camp/NC de/SP les/DA ciències/NC atmosfèriques/AQ ,/FF on/PR són/VS usats/VM per/SP manejar/VM les/DA dades/NC d'/SP un/DI rang/NC de/SP 3/ZZ a/SP 10/ZZ dies/NC ./FF
+Vegeu/VM també/RG ./FF
+Filtre/NC passiu/AQ ./FF
+Filtre/NP bandaeliminada/NC ./FF
+Filtre/NC passaalt/AQ ./FF
+Filtre/NC passabaix/AQ ./FF
+Filtre/NP actiu/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Filtre/NP passabanda/NC ;/FF
+Jaume_Mimó/NP i/CC Llobet/NP (/FF Cerdanyola_de_el_Vallès/NP 17_de_febrer_de_1893/WW -/FF 15_de_febrer_de_1964/WW )/FF va/VA ser/VS un/DI historiador/NC i/CC polític/NC català/AQ ./FF
+Biografia/NP ./FF
+Jaume_Mimó/NP i/CC Llobet/NP va/VA néixer/VM a/SP Cerdanyola_de_el_Vallès/NP el/DA 17_de_febrer_de_1893/WW ./FF
+Historiador/NP i/CC polític/AQ ,/FF era/VS fill/NC d/AQ Agustí_Mimó_Astort/NP i/CC Maria_Llobet_Barcons/NP ./FF
+Vivia/VM a/SP el/DA carrer/NC Sant_Ramon/NP ,/FF però/CC passava/VM algunes/DI temporades/NC a/SP la/DA masia/NC de/SP Canaletes/NP ,/FF de/SP la/DA família/NC de/SP el/DA seu/PX pare/NC ./FF
+Quan/CS va/VA acabar/VM d/RG estudiar/VM magisteri/NC a/SP Sabadell/NP va/VA exercir/VM de/SP mestre/NC a/SP Súria/NP i/CC després/RG a/SP Mollet/NP ,/FF quan/PR tenia/VM 20/ZZ anys/NC ./FF
+Després/RG va/VA deixar/VM la/DA docència/NC per/SP dedicar/VM -se/P0 a/SP l'/DA ofici/NC familiar/AQ :/FF mestre/NC d'/SP obres/NC ./FF
+A/SP més/RG es/P0 dedicava/VM a/SP escriure/VM i/CC publicava/VM alguns/DI textos/NC en/SP diverses/DI revistes/NC ./FF
+Es/P0 va/VA casar/VM amb/SP Isabel_Sarrablo/NP i/CC van/VA tenir/VM tres/ZZ fills/NC :/FF Maria_Teresa/NP ,/FF Maria_de_el_Pilar/NP i/CC Jaume/NP ./FF
+Va/VA ser/VS el/DA primer/AO alcalde/NC republicà/AQ (/FF per/SP ERC/NP )/FF de/SP Cerdanyola_de_el_Vallès/NP ,/FF però/CC més/RG tard/RG va/VA esdevenir/VM jutge/NC municipal/AQ ,/FF a/SP el/DA ./FF
+Ja/RG havia/VA sigut/VM jutge/NC municipal/AQ l'/DA any/NC 1920/ZZ i/CC quatre/ZZ anys/NC més/RG tard/RG es/P0 va/VA canviar/VM per/SP jutge/NC suplent/AQ ,/FF lloc/NC que/PR va/VA mantenir/VM fins/SP a/SP el/DA 1930/ZZ ./FF
+Amant/NP de/SP totes/DI les/DA expressions/NC culturals/AQ ,/FF es/P0 va/VA sentir/VM atret/VM per/SP la/DA pintura/NC i/CC els/DA llibres/NC ./FF
+Li/PP agradava/VM llegir/VM ./FF
+Un/DI dia/NC a/SP la/DA setmana/NC baixava/VM a/SP Barcelona/NP ,/FF a/SP la/DA tertúlia/NC d/AQ '/FF "/FF Els/DA Quatre/ZZ Gats/NP "/FF ./FF
+Va/VA ser/VS amic/NC d'/SP en/SP Viladomat/NP ,/FF l'/DA escultor/NC i/CC va/VA tenir/VM contacte/NC amb/SP bons/AQ pintors/NC com/CS en/SP Manuel_Humbert/NP i/CC en/SP Josep_Gimeno/NP ./FF
+També/RG va/VA ser/VS un/DI col·leccionista/NC infatigable/AQ ./FF
+El/DA 15_de_febrer_de_1964/WW va/VA morir/VM a/SP la/DA seva/PX casa/NC de/SP la/DA plaça/NC Sant_Ramon/NP ./FF
+Obra/NC ./FF
+El/DA 1948/ZZ va/VA publicar/VM el/DA seu/PX primer/AO llibre/NC Guia/NP excursionista/AQ a/SP les/DA masies/NC de/SP el/DA terme/NC de/SP Cerdanyola/NP ,/FF i/CC dos/ZZ anys/NC més/RG tard/RG va/VA publicar/VM el/DA seu/PX segon/AO llibre/NC Coses_de_Cerdanyola/NP ./FF
+El/DA 1956/ZZ va/VA escriure/VM un/DI altre/DI llibre/NC "/FF Les/DA fonts/NC boscanes/AQ "/FF que/PR estava/VM en/SP preparació/NC per/SP ser/VS publicat/VM quan/CS va/VA tenir_lloc/VM el/DA seu/PX traspàs/NC ,/FF però/CC que/PR va/VA aparèixer/VM entre/SP 1965/ZZ i/CC 1966/ZZ a/SP la/DA revista/NC Sardanyola/NP ./FF
+Un_quart/ZZ volum/NC ,/FF Romiatge/NP a/SP les/DA ermites/NC de/SP el/DA terme/NC de/SP Cerdanyola/NP ,/FF estava/VM en/SP preparació/NC i/CC no/RN va/VA poder/VM ser/VS acabat/VM ./FF
+També/RG havia/VA començat/VM a/SP treballar/VM sobre/SP el/DA lloc/NC de/SP Valldaura/NP i/CC el/DA castell/NC de/SP Sant_Marçal/NP ./FF
+Un/DI altre/DI treball/NC va/VA ser/VS sobre/SP les/DA rajoles/NC de/SP mostra/NC catalanes/AQ de/SP els/DA segles/NC XVI/NP ,/FF XVII_I_XVIII/NP ./FF
+Va/VA guanyar/VM els/DA "/FF Jocs_Florals_de_Bellaterra/NP "/FF l'/DA any/NC 1950/ZZ ./FF
+L'/DA any/NC 1960/ZZ va/VA participar/VM en/SP la/DA fundació/NC de/SP la/DA "/FF Revista_de_Sardanyola/NP "/FF ./FF
+A/SP l'/DA antiga/AQ Grècia/NP i/CC Roma/NP ,/FF l'/DA oratòria/NC era/VS estudiada/VM com/CS una/DI part/NC de/SP la/DA retòrica/NC ,/FF és/VS a/SP dir/VM ,/FF de/SP l'/DA art/NC de/SP l/NC eloqüència/NC en/SP l/NC expressió/NC oral/AQ i/CC escrita/VM i/CC es/P0 considerava/VM una/DI habilitat/NC important/AQ tant/RG en/SP l'/DA àmbit/NC públic/AQ com/CS en/SP el/DA privat/NC ./FF
+Aristòtil/NP i/CC Quintilià/NP discutien/VM d'/SP oratòria/NC i/CC aquesta/DD disciplina/NC va/VA formar_part/VM ,/FF com/CS a/SP assignatura/NC ,/FF de/SP els/DA estudis/NC durant/SP l'/DA edat_mitjana/NC i/CC el/DA Renaixement/NP ,/FF per/SP la/DA qual/DR cosa/NC se/P0 'n/PP van/VA materialitzar/VM normes/NC i/CC models/NC ./FF
+El/DA desenvolupament/NC de/SP els/DA parlaments/NC durant/SP el/DA segle_XVIII/WW va/VA comportar/VM l'/DA aparició/NC de/SP grans/AQ oradors/NC i/CC la/DA destresa/NC en/SP la/DA comunicació/NC lingüística/AQ ha/VA estat/VS considerada/VM des/SP d'/SP aleshores/RG com/CS una/DI de/SP les/DA principals/AQ habilitats/NC a/SP l'/DA hora/NC de/SP garantir/VM el/DA futur/NC polític/AQ ./FF
+A/SP mitjan/VM de/SP el/DA segle_XX/WW ,/FF l'/DA oratòria/NC va/VA abandonar/VM els/DA tocs/NC formalitzats/VM i/CC grandiloqüents/AQ per/SP deixar/VM pas/NC a/SP un/DI art/NC més/RG basat/VM en/SP recursos/NC conversacionals/AQ ./FF
+Desenvolupament/NP de/SP l'/DA oratòria/NC des_de/SP l'/DA antiga/AQ Grècia/NP ./FF
+L'/DA oratòria/NC grega/AQ té/VM les/DA seves/PX arrels/NC en/SP la/DA filosofia/NC sofista/NC ./FF
+Entre/SP els/DA membres/NC d'/SP aquesta/DD escola/NC cal/VM destacar/VM en/SP aquest/DD aspecte/NC de/SP l'/DA art/NC de/SP l'/DA argumentació/NC i/CC bon/AQ dir/VM Trasímac_de_Calcedó/NP i/CC Gòrgies_de_Leontins/NP ./FF
+Tanmateix/RG ,/FF cal/VM no/RN menystenir/VM la/DA relació/NC d'/SP aquest/DD art/NC de/SP el/DA bon/NC parlar/VM en_públic/RG amb/SP l'/DA estructura/NC de/SP la/DA polis/NC que/PR exigia/VM saber/VM -se/P0 expressar/VM en/SP assemblees/NC ./FF
+També/RG a/SP Roma/NP ,/FF el/DA desenvolupament/NC de/SP l'/DA oratòria/NC va/VA anar/VM de_bracet/RG amb/SP la/DA vida/NC política/AQ ja_que/CS visqué/VM una/DI època/NC d'/SP or/NC durant/SP el/DA període/NC republicà/AQ ./FF
+Entre/SP els/DA grans/AQ oradors/NC romans/AQ d'/SP aquesta/DD època/NC ,/FF trobem/VM la/DA figura/NC de/SP Ciceró/NP ./FF
+Ja/RG a/SP l'/DA edat/NC imperial/AQ ,/FF Quintilià/NP n'/PP esdevindrà/VM un/DI teòric/NC de/SP l'/DA art/NC (/FF institutio/NC oratoria/NC )/FF ./FF
+Uns/DI altres/DI oradors/NC insignes/AQ de/SP Roma/NP van/VA ser/VS Plini_el_Jove/NP i/CC l'/DA historiador/NC Tàcit/NP ./FF
+De/SP l'/DA edat_mitjana/NC ens/PP n'/PP han/VA pervingut/VM nombrosos/AQ tractats/NC d'/SP eloqüència/NC atès/VM que/CS la/DA retòrica/NC formava_part/VM de/SP els/DA estudis/NC ./FF
+En/SP l'/DA àmbit/NC català/AQ ,/FF per/SP el/DA que/PR fa/VM a/SP la/DA vida/NC pública/AQ ,/FF cal/VM destacar/VM els/DA discursos/NC emesos/VM en/SP les/DA predicacions/NC religioses/AQ i/CC els/DA parlamentaris/NC ./FF
+Entre/SP els/DA primers/AO ,/FF destaca/VM l'/DA obra/NC de/SP Sant_Vicent_Ferrer/NP ,/FF de/SP qui/PR han/VA arribat/VM fins/RG a/SP els/DA nostres/PX dies/NC les/DA transcripcions/NC de/SP els/DA Sermons/NP ./FF
+Quant_a/SP els/DA discursos/NC parlamentaris/AQ ,/FF influïts/VM per/SP la/DA feina/NC de/SP els/DA cancellers/NC reials/AQ ,/FF excel·leix/VM per/SP damunt/RG de/SP tots/DI la/DA peça/NC més/RG famosa/AQ de/SP l'/DA oratòria/NC parlamentària/AQ catalana/AQ :/FF el/DA discurs/NC de/SP el/DA rei/NC Martí_I/NP a/SP les/DA Corts_de_Perpinyà/NP el/DA 1406/ZZ ,/FF un/DI model/NC de/SP la/DA prosa/NC humanista/NC que/PR feia/VM estada/NC a/SP la/DA Cancelleria/NP de/SP els/DA reis/NC catalans/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+"/FF L'/DA oratòria/NC de/SP Sant_Vicent_Ferrer/NP "/FF ./FF
+Article_de_Joan_Fuster/NP sobre/SP les/DA arts/NC oratòries/AQ d'/SP aquest/DD il·lustre/AQ orador/NC medieval/AQ ./FF
+Sebastià_Garriga/NP i/CC Morera/NP (/FF 1897/ZZ -/FF 1972/ZZ )/FF ,/FF originari/AQ de/SP Cerdanyola_de_el_Vallès/NP ,/FF va/VA ser/VS un/DI gran/AQ escultor/NC i/CC va/VA 

@@ -1489,4 +1489,131 @@ Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
 Xenophrys/NP baluensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Malàisia/NP ./FF
 Referències/NP ./FF
 Inger/NP ,/FF R./NP ,/FF Iskandar/NP ,/FF D./NP ,/FF Das/NP ,/FF I./NP ,/FF Stuebing/NP ,/FF R./NP ,/FF Lakim/NP ,/FF M._&_Yambun/NP ,/FF P./NP 2004/ZZ ./FF
-Xenophrys/NP baluensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of
+Xenophrys/NP baluensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP caudoprocta/VM és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Guanfu/NP ,/FF W./NP 2004/ZZ ./FF
+Xenophrys/NP caudoprocta/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP daweimontis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Vietnam/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Datong/NP ,/FF Y._&_Shunqing/NP ,/FF L./NP 2004/ZZ ./FF
+Xenophrys/NP daweimontis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP dringi/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Brunei/NP i/CC Malàisia/NP ./FF
+Referències/NP ./FF
+Inger/NP ,/FF R./NP ,/FF Iskandar/NP ,/FF D./NP ,/FF Das/NP ,/FF I./NP ,/FF Stuebing/NP ,/FF R./NP ,/FF Lakim/NP ,/FF M._&_Yambun/NP ,/FF P./NP 2004/ZZ ./FF
+Xenophrys/NP dringi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP giganticus/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Guanfu/NP ,/FF W._&_Datong/NP ,/FF Y./NP 2004/ZZ ./FF
+Xenophrys/NP giganticus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP jingdongensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC a/SP el/DA Vietnam/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F./NP ,/FF Shunqing/NP ,/FF L./NP ,/FF Datong/NP ,/FF Y./NP ,/FF Ohler/NP ,/FF A._&_Swan/NP ,/FF S./NP 2004/ZZ ./FF
+Xenophrys/NP jingdongensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP kuatunensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC a/SP el/DA Vietnam/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Huiqing/NP ,/FF G./NP ,/FF Baorong/NP ,/FF G./NP ,/FF van/VA Dijk/NP ,/FF P.P._&_Ohler/NP ,/FF A./NP 2004/ZZ ./FF
+Xenophrys/NP kuatunensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP longipes/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Malàisia/NP ,/FF Tailàndia/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Cambodja/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Chuaynkern/NP ,/FF Y./NP ,/FF Yaakob/NP ,/FF N./NP ,/FF Sukumaran/NP ,/FF J._&_Tzi_Ming/NP ,/FF L./NP 2004/ZZ ./FF
+Xenophrys/NP longipes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP mangshanensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lau/NP ,/FF M.W.N._&_Chan/NP ,/FF B./NP 2004/ZZ ./FF
+Xenophrys/NP mangshanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+El/DA complex/NC d/AQ Isa_Khan/NP està/VM format/NC per/SP un/DI recinte/NC on/PR es/P0 troben/VM un/DI mausoleu/NC i/CC una/DI mesquita/NC ./FF
+Està/VM situat/VM a/SP Nova_Delhi/NP (/FF Índia/NP )/FF ,/FF a/SP la/DA barriada/NC de/SP Nizamuddin/NP ,/FF a/SP el/DA sud/NC de/SP el/DA Delhi_Vell/NP ,/FF molt/RG proper/AQ a/SP el/DA mausoleu/NC d'/SP Humayun/NP ./FF
+Isa_Khan/NP era/VS un/DI noble/NC afganès/AQ vinculat/VM a/SP cort/NC de/SP Sher_Sah_Suri/NP (/FF que/PR va/VA regnar/VM ,/FF en/SP oposició/NC a/SP l/NC emperador/NC mogol/AQ Humayun/NP entre/SP el/DA 1540/ZZ i/CC 1545/ZZ )/FF ./FF
+El/DA mausoleu/NC es/P0 va/VA aixecar/VM el/DA 1547/ZZ a/SP el/DA centre/NC d/AQ un/DI recinte/NC enjardinat/VM ./FF
+L/NP edifici/NC és/VS de/SP planta/NC octogonal/AQ ,/FF cobert/NC amb/SP una/DI cúpula/NC i/CC envoltat/VM d/RG una/DI galeria/NC porxada/NC ,/FF amb/SP tres/ZZ arcs/NC per/SP a/SP cada/DI costat/NC ./FF
+Està/VM inspirat/VM en/SP la/DA tomba/NC de/SP Sikandar_Lodi/NP ,/FF bastida/NC 30/ZZ anys/NC abans/RG a/SP el/DA mateix/DI Delhi/NP ./FF
+El/DA seu/PX estat/NC de/SP conservació/NC no/RN és/VS l/NC adequat/VM ,/FF té/VM restes/NC de/SP el/DA revestiment/NC ceràmic/AQ exterior/AQ ./FF
+En/SP un/DI extrem/NC de/SP el/DA jardí/NC es/P0 troba/VM la/DA petita/AQ mesquita/NC anomenada/NC d/RG Isa_Khan/NP que/CS hom/PI creu/VM que/CS fou/VS bastida/NC a/SP el/DA mateix/DI temps/NC que/PR el/DA mausoleu/NC ./FF
+Dins/SP el/DA recinte/NC de/SP el/DA complex/NC s/NC hi/PP van/VA aixecar/VM cases/NC i/CC s/NC hi/PP va/VA viure/VM fins/SP a/SP començament/NC de/SP el/DA segle_XX/WW ./FF
+Xenophrys/NP medogensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Índia/NP ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Lau/NP ,/FF M.W.N./NP 2004/ZZ ./FF
+Xenophrys/NP medogensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP minor/VM és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ,/FF Tailàndia/NP ,/FF Vietnam/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Laos/NP i/CC Birmània/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cheng/NP ,/FF L./NP ,/FF Guanfu/NP ,/FF W./NP ,/FF van/VA Dijk/NP ,/FF P.P._&_Ohler/NP ,/FF A./NP 2004/ZZ ./FF
+Xenophrys/NP minor/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP nankiangensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Guanfu/NP ,/FF W./NP 2004/ZZ ./FF
+Xenophrys/NP nankiangensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP omeimontis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Vietnam/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F./NP ,/FF Guanfu/NP ,/FF W./NP ,/FF van/VA Dijk/NP ,/FF P.P._&_Ohler/NP ,/FF A./NP 2004/ZZ ./FF
+Xenophrys/NP omeimontis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP pachyproctus/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Índia/NP i/CC a/SP el/DA Vietnam/NP ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F./NP ,/FF Lau/NP ,/FF M.W.N./NP ,/FF Ohler/NP ,/FF A./NP &/FF van/VM Dijk/NP ,/FF P.P./NP 2004/ZZ ./FF
+Xenophrys/NP pachyproctus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+La/DA 72a/ZZ edició/NC de/SP la/DA Copa_de_el_Rei_de_Bàsquet/NP es/P0 va/VA disputar/VM a/SP el/DA Pavelló_Fernando_Buesa_Arena_de_Vitòria/NP de/SP el/DA 7/ZZ a/SP el/DA 10_de_febrer_de_2008/WW ./FF
+En/SP aquesta/DD edició/NC l'/DA AXA_FC_Barcelona/NP arribava/VM com/CS a/SP defensor/NC de/SP el/DA títol/NC ./FF
+La/DA primera/AO jornada/NC de/SP copa/NC va/VA presentar/VM uns/DI partits/NC molt/RG igualats/VM ./FF
+El/DA Tau_Cerámica/NP s'/P0 imposava/VM en/SP l'/DA últim/AO quart/NC a/SP el/DA Unicaja_Málaga/NP després/RG d'/SP un/DI partit/NC molt/RG anivellat/VM ./FF
+La/DA segona/AO eliminatòria/NC es/P0 resolia/VM a_favor_de/SP el/DA Iurbentia_Bilbao/NP i/CC deixava/VM fora/RG a/SP el/DA vigent/AQ campió/NC per/SP només/RG un/DI punt/NC ./FF
+L'/DA AXA_FC_Barcelona/NP no/RN podria/VM trencar/VM l'/DA estadística/NC que/PR diu/VM que/CS un/DI campió/NC de/SP copa/NC no/RN ho/PP pot/VM ser/VS dos/ZZ anys/NC seguits/NC ./FF
+La/DA segona/AO jornada/NC presentava/VM dos/ZZ partits/NC amb/SP presència/NC catalana/AQ ./FF
+En/SP primer/AO lloc/NC el/DA DKV_Joventut/NP s'/P0 imposava/VM a/SP un/DI pobre/AQ Pamesa_València/NP que/PR només/RG va/VA aguantar/VM durant/SP la/DA primera/AO part/NC de/SP el/DA partit/NC ./FF
+El/DA segon/AO partit/NC enfrontava/VM l'/DA Akasvayu_Girona/NP contra/SP el/DA Reial_Madrid/NP ,/FF classificant/VM -se/P0 aquest/DD últim/AO amb/SP un/DI resultat/NC que/PR no/RN representava/VM el/DA que/PR havia/VA sigut/VM el/DA partit/NC ./FF
+La/DA jornada/NC de/SP dissabte/WW l'/DA obria/VM el/DA duel/NC basc/AQ ,/FF el/DA Iurbentia_Bilbao/NP es/P0 presentava/VM a/SP la/DA seva/PX primera/AO semifinal/NC de/SP copa/NC i/CC va/VA caure/VM només/RG per/SP dos/ZZ punts/NC contra/SP un/DI TAU_Cerámica/NP que/PR presentava/VM la/DA seva/PX candidatura/NC a/SP el/DA títol/NC com/CS en/SP els/DA últims/AO anys/NC parells/AQ ./FF
+El/DA segon/AO partit/NC es/P0 preveia/VM emocionant/VM entre/SP el/DA DKV_Joventut/NP i/CC el/DA Reial_Madrid/NP ./FF
+Els/DA blancs/NC van/VA perdre/VM l'/DA eliminatòria/NC en/SP un/DI mal/NC tercer/AO quart/NC en/SP defensa/NC i/CC la/DA Penya/NP tornava/VM a/SP una/DI final/NC de/SP copa/NC 4/ZZ anys/NC després/RG i/CC contra/SP el/DA mateix/DI adversari/NC ./FF
+El/DA partit/NC de/SP la/DA final/NC començava/VM tal_i_com/CS acabava/VM i/CC com/PR reflecteix/VM la/DA igualtat/NC de/SP el/DA marcador/NC ./FF
+El/DA DKV_Joventut/NP guanyava/VM ,/FF davant/SP el/DA Saski_Baskonia/NP com/CS a/SP anfitrió/NC ,/FF la/DA copa/NC de/SP el/DA rei/NC de/SP bàsquet/NC 11/ZZ anys/NC després/RG i/CC en/SP Rudy_Fernández/NP és/VS convertia/VM en/SP el/DA primer/AO jugador/NC que/PR repetia/VM el/DA trofeu/NC de/SP MVP/NP ja_que/CS ja/RG l'/PP havia/VA guanyat/VM l'/DA any/NC 2004/ZZ ./FF
+Resultats/NP ./FF
+Quarts/NP de/SP final/NC ./FF
+7_de_febrer_de_2008/WW -/FF 19:00/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Juan_Carlos_Arteaga/NP ,/FF Juan_Ramón_García_Ortíz/NP ,/FF Juan_Carlos_García_González_Parcials/NP :/FF 17/16/ZZ -/FF 23/17/ZZ -/FF 13/22/ZZ -/FF 25/16/ZZ ----/FF 7_de_febrer_de_2008/WW -/FF 21:30/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Xavier_Amorós/NP ,/FF Daniel_Hierrezuelo/NP ,/FF Jiménez_Trujillo_Parcials/NP :/FF 24/24/ZZ -/FF 15/10/ZZ -/FF 13/12/ZZ -/FF 18/23/ZZ ----/FF 8_de_febrer_de_2008/WW -/FF 17:45/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Juan_Carlos_Mitjana/NP ,/FF Juan_Luís_Redondo/NP ,/FF Antonio_Conde_Parcials/NP :/FF 21/14/ZZ -/FF 18/19/ZZ -/FF 17/12/ZZ -/FF 28/14/ZZ ----/FF 8_de_febrer_de_2008/WW -/FF 20:00/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Francisco_de_la_Maza/NP ,/FF Miguel_Ángel_Pérez/NP ,/FF Óscar_Perea_Parcials/NP :/FF 15/20/ZZ -/FF 22/17/ZZ -/FF 15/10/ZZ -/FF 21/13/ZZ Semifinals/NP ./FF
+9_de_febrer_de_2008/WW -/FF 20:00/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Juan_Carlos_Mitjana/NP ,/FF Juan_Carlos_Arteaga/NP ,/FF Óscar_Perea_Parcials/NP :/FF 10/16/ZZ -/FF 24/16/ZZ -/FF 19/15/ZZ -/FF 15/19/ZZ ----/FF 9_de_febrer_de_2008/WW -/FF 20:00/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Daniel_Hierrezuelo/NP ,/FF Juan_Ramón_García_Ortíz/NP ,/FF Antonio_Conde_Parcials/NP :/FF 20/28/ZZ -/FF 24/18/ZZ -/FF 24/15/ZZ -/FF 13/15/ZZ Final/NP ./FF
+10_de_febrer_de_2008/WW -/FF 18:00/ZZ -/FF Fernando_Buesa_Arena/NP -/FF 9.000/ZZ espectadors/NC Àrbitres/NP :/FF Xavier_Amorós/NP ,/FF Daniel_Hierrezuelo/NP ,/FF Antonio_Conde_Parcials/NP :/FF 14/13/ZZ -/FF 19/17/ZZ -/FF 25/25/ZZ -/FF 22/27/ZZ
+Xenophrys/NP palpebralespinosa/VM és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ,/FF Vietnam/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Laos/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+van/VA Dijk/NP ,/FF P.P./NP ,/FF Swan/NP ,/FF S./NP ,/FF Shunqing/NP ,/FF L./NP ,/FF Datong/NP ,/FF Y./NP ,/FF Ohler/NP ,/FF A._&_Guanfu/NP ,/FF W./NP 2004/ZZ ./FF
+Xenophrys/NP palpebralespinosa/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Guanfu/NP ,/FF W._&_Feng/NP ,/FF X./NP 2004/ZZ ./FF
+Xenophrys/NP shapingensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP shuichengensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Changyuan/NP ,/FF Y./NP 2004/ZZ ./FF
+Xenophrys/NP shuichengensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP spinata/VM és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lau/NP ,/FF M.W.N._&_Ermi/NP ,/FF Z./NP 2004/ZZ ./FF
+Xenophrys/NP spinata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP wawuensis/NC és/VS una/D

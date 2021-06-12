@@ -1616,4 +1616,94 @@ Referències/NP ./FF
 Lau/NP ,/FF M.W.N._&_Ermi/NP ,/FF Z./NP 2004/ZZ ./FF
 Xenophrys/NP spinata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
-Xenophrys/NP wawuensis/NC és/VS una/D
+Xenophrys/NP wawuensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Jianping/NP ,/FF J._&_Feng/NP ,/FF X./NP 2004/ZZ ./FF
+Xenophrys/NP wawuensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP wushanensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Changyuan/NP ,/FF Y./NP 2004/ZZ ./FF
+Xenophrys/NP wushanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP zhangi/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Nepal/NP ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Lau/NP ,/FF M.W.N./NP 2004/ZZ ./FF
+Xenophrys/NP zhangi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Xenophrys/NP boettgeri/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Referències/NP ./FF
+Xenophrys/NP kempii/RG és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Referències/NP ./FF
+La/DA dessemantització/NC és/VS un/DI procés/NC que/PR pot/VM experimentar/VM un/DI mot/NC consistent/AQ a/SP perdre/VM tot/DI o/CC part/NC de/SP el/DA seu/PX significat/NC bàsic/AQ i/CC adquirir/VM un/DI rol/NC més/RG gramatical/AQ (/FF nexe/NC ,/FF auxiliar/AQ de/SP perífrasis/NC verbals/AQ ,/FF etc./FF )/FF ./FF
+Sol/VM donar/VM -se/P0 en/SP casos/NC de/SP gramaticalització/NC de/SP verbs/NC per/SP a/SP funcionar/VM en/SP perífrasis/NC verbals/AQ ./FF
+Així/RG ,/FF el/DA verb/NC anar/VM no/RN significa/VM '/FF desplaçar/VM -se/P0 '/FF en/SP una/DI oració/NC com/CS Vaig/NP perdut/VM o/CC Vaig/NP fent/VM ./FF
+Igualment/RG ,/FF la/DA paraula/NC via/NC es/P0 pot/VM considerar/VM un/DI sinònim/NC (/FF encara/RG que/CS sigui/VS parcialment/RG )/FF de/SP el/DA mot/NC camí/NC ,/FF però/CC quan/CS es/P0 diu/VM Un/DI vol/NC a/SP Praga/NP via/SP Zuric/NP en_realitat/RG funciona/VM com/CS un/DI nexe/NC (/FF com/CS una/DI preposició/NC forta/AQ )/FF ,/FF ja_que/CS no/RN es/P0 passa/VM per/SP cap/DI via/NC o/CC camí/NC físics/AQ ,/FF sinó/CC que/CS es/P0 conceptualitza/VM una/DI ruta/NC ./FF
+Els/DA lingüistes/NC que/PR treballen/VM amb/SP el/DA cognitivisme/NC han/VA desenvolupat/VM explicacions/NC suggeridores/AQ sobre/SP les/DA motivacions/NC per/SP a/SP la/DA dessemantització/NC ,/FF com/CS ara/RG què/PR s'/P0 imagina/VM el/DA parlant/NC quan/PR utilitza/VM un/DI mot/NC i/CC hi/PP dóna/VM un/DI sentit/NC nou/AQ ,/FF sovint/RG per/SP una/DI metàfora/NC o/CC una/DI metonímia/NC ./FF
+Xenophrys/NP major/AQ és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Referències/NP ./FF
+La/DA gramaticalització/NC és/VS un/DI procés/NC que/PR pot/VM experimentar/VM un/DI mot/NC consistent/AQ a/SP adquirir/VM un/DI rol/NC gramatical/AQ (/FF nexe/NC ,/FF auxiliar/AQ de/SP perífrasis/NC verbals/AQ ,/FF etc./FF )/FF ./FF
+Sovint/RG comporta/VM una/DI dessemantització/NC ,/FF és/VS a/SP dir/VM ,/FF perdre/VM tot/DI o/CC part/NC de/SP el/DA seu/PX significat/NC bàsic/AQ ./FF
+Altres/DI exemples/NC són/VS el/DA verb/NC anar/VM ,/FF que/PR no/RN significa/VM '/FF desplaçar/VM -se/P0 '/FF en/SP una/DI oració/NC com/CS Vaig/NP perdut/VM o/CC Vaig/NP fent/VM ;/FF o/CC la/DA paraula/NC via/NC ,/FF que/PR en_principi/RG es/P0 pot/VM considerar/VM un/DI sinònim/NC (/FF encara/RG que/CS sigui/VS parcialment/RG )/FF de/SP el/DA mot/NC camí/NC ,/FF però/CC quan/CS es/P0 diu/VM Un/DI vol/NC a/SP Praga/NP via/SP Zuric/NP en_realitat/RG funciona/VM com/CS un/DI nexe/NC (/FF com/CS una/DI preposició/NC forta/AQ )/FF ,/FF ja_que/CS no/RN es/P0 passa/VM per/SP cap/DI via/NC o/CC camí/NC físics/AQ ,/FF sinó/CC que/CS es/P0 conceptualitza/VM una/DI ruta/NC ./FF
+La/DA gramaticalització/NC té/VM sentit/NC si/CS s'/P0 analitza/VM una/DI llengua/NC amb/SP una/DI perspectiva/NC històrica/AQ ./FF
+Per_tal_de/SP veure/VM bé/RG aquest/DD procés/NC va/VA bé/RG centrar/VM -se/P0 en/SP el/DA mot/NC haver/VA ./FF
+En/SP llatí/NC el/DA verb/NC habere/RG significava/VM '/FF tenir/VM '/FF ./FF
+En/SP les/DA llengües/NC romàniques/AQ (/FF català/AQ ,/FF francès/AQ ,/FF occità/AQ ,/FF gallegoportuguès/AQ ,/FF espanyol/AQ ,/FF italià/AQ ,/FF etc./FF )/FF ,/FF és/VS a/SP dir/VM ,/FF les/DA que/PR són/VS continuadores/NC de/SP el/DA llatí/NC ,/FF aquest/DD verb/NC no/RN s'/P0 empra/VM amb/SP el/DA sentit/NC de/SP '/FF tenir/VM '/FF (/FF en/SP català/NC es/P0 diu/VM tenir/VM o/CC posseir/VM ,/FF per_exemple/RG )/FF ,/FF sinó/CC com/CS a/SP auxiliar/AQ de/SP els/DA temps/NC perfets/NC :/FF He/VA vist/VM una/DI cosa/NC ./FF
+També/RG s'/P0 empra/VM com/CS a/SP auxiliar/AQ d'/SP obligació/NC :/FF He/VA d'/SP anar/VM -me/P0 'n/PP ./FF
+Precisament/RG en/SP llatí/NC la/DA construcció/NC d'/SP obligació/NC ,/FF amb/SP habere/RG posposat/VM ,/FF va/VA donar/VM els/DA temps/NC de/SP futur/NC de/SP les/DA llengües/NC romàniques/AQ :/FF el/DA futur/NC cantaré/VM ,/FF cantaràs/VM ,/FF cantarà/VM ,/FF cantarem/VM ,/FF cantareu/VM i/CC cantaran/VM és/VS una/DI consolidació/NC de/SP les/DA expressions/NC cantar/VM he/NC (/FF '/FF he/VA de/SP cantar/VM '/FF )/FF ,/FF cantar/VM has/VA ,/FF cantar/VM ha/VA ,/FF cantar/VM hem/VA ,/FF cantar/VM heu/VM i/CC cantar/VM han/VA ./FF
+En/SP aquest/DD cas/NC ,/FF el/DA procés/NC de/SP gramaticalització/NC ha/VA arribat/VM fins/RG a/SP el/DA final/NC ,/FF ja_que/CS les/DA formes/NC de/SP el/DA verb/NC haver/VA funcionen/VM com/CS a/SP morfemes/NC de/SP conjugació/NC ./FF
+Amb/SP el/DA sentit/NC de/SP '/FF tenir/VM '/FF només/RG roman/VM en/SP determinades/VM construccions/NC (/FF Veges/VM si/CS pots/VM haver/VA això/PD !/FF ,/FF dit/VM a/SP algú/PI quan/PR se/P0 li/PP llança/VM una/DI cosa/NC )/FF ,/FF i/CC només/RG en/SP algun/DI cas/NC és/VS intercanviable/AQ plenament/RG amb/SP tenir/VM (/FF per_exemple/RG ,/FF heure/VM -se/P0 -les/PP amb/SP algú/PI haver/VA -se/P0 -les/PP amb/SP algú/PI i/CC tenir/VM -se/P0 -les/PP amb/SP algú/PI ,/FF amb/SP el/DA sentit/NC de/SP discutir/VM -s/P0 'hi/PP o/CC barallar/VM -s/P0 'hi/PP )/FF ./FF
+La/DA comparació/NC interlingüística/AQ permet/VM veure/VM millor/AQ aquest/DD ball/NC d'/SP usos/NC :/FF quan/CS en/SP català/AQ o/CC espanyol/AQ es/P0 diu/VM haver/VA seguit/VM de/SP participi/NC ,/FF en/SP portuguès/NC es/P0 diu/VM tener/AQ ./FF
+Els/DA lingüistes/NC que/PR treballen/VM amb/SP el/DA cognitivisme/NC han/VA desenvolupat/VM explicacions/NC suggeridores/AQ sobre/SP les/DA motivacions/NC per/SP a/SP la/DA dessemantització/NC i/CC la/DA gramaticalització/NC ,/FF com/CS ara/RG què/PR s'/P0 imagina/VM el/DA parlant/NC quan/PR utilitza/VM un/DI mot/NC i/CC hi/PP dóna/VM un/DI sentit/NC nou/AQ ,/FF sovint/RG per/SP una/DI metàfora/NC o/CC una/DI metonímia/NC ./FF
+Xenophrys/NP parva/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Xenophrys/NP robusta/AQ és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Referències/NP ./FF
+Vairumati/NP és/VS un/DI quadre/NC de/SP el/DA pintor/NC Paul_Gauguin/NP fet/VM el/DA 1897/ZZ ,/FF en/SP la/DA seva/PX segona/AO estada/NC a/SP Tahití/NP ./FF
+Es/P0 conserva/VM a/SP el/DA Museu_d'_Orsay_de_París/NP ./FF
+Es/P0 coneix/VM per/SP la/DA referència/NC núm/NC ./FF 559/ZZ de/SP el/DA catàleg/NC de/SP Wildenstein/NP ./FF
+Descripció/NP ./FF
+El/DA quadre/NC mostra/VM una/DI noia/NC tahitiana/AQ asseguda/VM a/SP el/DA cantó/NC d'/SP un/DI llit/NC i/CC recolzada/NC sobre/SP el/DA braç/NC dret/AQ ./FF
+El/DA capçal/NC de/SP el/DA llit/NC està/VM decorat/NC solemnement/RG de_forma_que/CS sembla/VM un/DI tro/NC ./FF
+La/DA noia/NC té/VM el/DA tors/NC nu/AQ i/CC una/DI tela/NC enrotllada/VM a/SP la/DA cintura/NC i/CC l'/DA entrecuix/NC ,/FF una/DI vestimenta/NC tradicional/AQ de/SP els/DA homes/NC tahitians/AQ ./FF
+A/SP l'/DA esquerra/NC simbòlicament/RG un/DI ocell/NC blanc/AQ té/VM agafat/VM amb/SP les/DA urpes/NC un/DI llangardaix/NC negre/AQ ./FF
+En/SP el/DA cantó/NC superior/AQ dret/NC hi/PP ha/VA dues/ZZ tahitianes/NC ajupides/VM o/CC assegudes/VM a/SP el/DA terra/NC ./FF
+Els/DA seus/PX detalls/NC són/VS difusos/AQ i/CC no/RN es/P0 distingeix/VM clarament/RG la/DA seva/PX activitat/NC ,/FF però/CC sembla/VM una/DI actitud/NC reverent/AQ ./FF
+El/DA fons/NC és/VS de/SP vegetació/NC relativament/RG monòtona/AQ amb/SP arbustos/NC de/SP color/NC groc/AQ i/CC verd/AQ ./FF
+El/DA terra/NC vermell/AQ destaca/VM el/DA llit/NC daurat/NC ./FF
+Com/CS en/SP un/DI enfocament/NC fotogràfic/AQ ,/FF els/DA detalls/NC de/SP el/DA primer/AO pla/NC ,/FF la/DA noia/NC i/CC el/DA llit/NC ,/FF són/VS més/RG precisos/AQ que/CS els/DA de/SP les/DA dues/ZZ noies/NC i/CC la/DA vegetació/NC de/SP el/DA fons/NC ,/FF provocant/VM una/DI sensació/NC de/SP perspectiva/NC ./FF
+El/DA punt/NC de/SP llum/NC es/P0 troba/VM a/SP l'/DA esquerra/NC provocant/AQ les/DA ombres/NC cap/NC a/SP la/DA dreta/NC ,/FF però/CC de/SP forma/NC bastant/RG arbitrària/AQ ./FF
+L'/DA ocell/NC de/SP l'/DA esquerra/NC és/VS lluminós/AQ ,/FF i/CC les/DA ombres/NC són/VS més/RG dominants/AQ a/SP la/DA dreta/NC de/SP el/DA quadre/NC ./FF
+Llegenda_de_Vairaumati/NP ./FF
+El/DA quadre/NC descriu/VM una/DI escena/NC de/SP la/DA llegenda/NC de/SP Vairaumati/NP ,/FF que/CS aquí/RG Gauguin/NP escriu/VM com/CS Vairumati/NP ./FF
+Va/VA conèixer/VM la/DA llegenda/NC per/SP el/DA llibre/NC Voyage/NP aux/VM îles/AQ du/VM Grand_Océan/NP (/FF 1837/ZZ )/FF de/SP Jacques_Antoine_Moerenhout/NP ,/FF encara/RG que/CS prèviament/RG ja/RG havia/VA sigut/VM recollida/NC per/SP Williams_Ellis/NP a/SP Polynesian_Researches/NP (/FF 1830/ZZ )/FF ./FF
+Gauguin/NP va/VA fer/VM el/DA seu/PX propi/AQ relat/NC a/SP Ancien/NP culte/AQ mahori/AQ (/FF 1892/ZZ )/FF incloent/VM passatges/NC literals/AQ de/SP Moerenhout/NP i/CC emfatitzant/VM els/DA paral·lelismes/NC amb/SP la/DA Bíblia/NP ./FF
+A/SP Noa-Noa/NP (/FF 1893/ZZ )/FF ho/PP explica/VM com/CS una/DI història/NC revelada/VM per/SP la/DA seva/PX amant/NC Teha/NP amana/VM ./FF
+Oro/NP ,/FF déu/NC de/SP la/DA guerra/NC i/CC fill/NC de/SP el/DA déu/NC creador/AQ Ta'aora/NP ,/FF volia/VM com/CS a/SP companya/NC una/DI mortal/NC ,/FF verge/AQ i/CC bella/AQ ,/FF per/SP fundar/VM una/DI raça/NC privilegiada/VM entre/SP els/DA homes/NC ./FF
+Les/DA seves/PX germanes/NC ,/FF les/DA deesses/NC Teuri/NP i/CC Haoaoa/NP ,/FF van/VA visitar/VM les/DA illes/NC per/SP trobar/VM una/DI dona/NC digna/AQ d'/SP un/DI déu/NC ./FF
+Finalment/RG van/VA trobar/VM la/DA Vaiaraumati/NP en/SP una/DI vall/NC de/SP Bora_Bora/NP ./FF «/FF Era/NP alta/AQ i/CC el/DA foc/NC de/SP el/DA sol/NC li/PP brillava/VM en/SP l'/DA or/NC de/SP la/DA pell/NC »/FF ./FF
+Oro/NP va/VA col·locar/VM l'/DA arc/NC de/SP Sant_Martí/NP per/SP baixar/VM fins/SP a/SP Bora_Bora/NP ,/FF i/CC la/DA Vairaumati/NP el/PP va/VA rebre/VM amb/SP una/DI taula/NC plena/AQ de/SP fruites/NC i/CC un/DI llit/NC fet/VM de/SP les/DA estores/NC més/RG fines/AQ i/CC els/DA teixits/NC més/RG rics/AQ ./FF
+Cada/DI vespre/NC Oro/NP baixava/VM per/SP l'/DA arc/NC de/SP Sant_Martí/NP per/SP anar/VM a/SP dormir/VM a/SP casa/NC de/SP la/DA Vairaumati/NP ,/FF i/CC cada/DI matí/NC tornava/VM a/SP els/DA cels/NC ,/FF fins/SP que/PR Vairaumati/NP va/VA quedar/VM embarassada/VM ./FF
+El/DA seu/PX fill/NC ,/FF Hoa_Tapu/NP te/PP Rai/NP (/FF l'/DA Amic_Sagrat_de_els_Cels/NP )/FF ,/FF va/VA ser/VS un/DI fundador/NC de/SP la/DA casta/NC privilegiada/VM de/SP els/DA ariois/NC ./FF
+Vairaumati/NP va/VA ser/VS divinitzada/VM i/CC els/DA ariois/NC van/VA constituir/VM una/DI secta/NC consagrada/VM a/SP Oro/NP ,/FF a/SP la/DA guerra/NC i/CC a/SP l'/DA amor/NC lliure/AQ ./FF
+Els/DA ritus/NC sexuals/AQ exuberants/AQ i/CC la/DA pràctica/NC de/SP l'/DA infanticidi/NC van/VA escandalitzar/VM els/DA primers/AO europeus/NC de/SP les/DA illes/NC i/CC la/DA societat/NC va/VA acabar/VM sent/VM eradicada/VM per/SP els/DA missioners/NC i/CC les/DA autoritats/NC colonials/AQ ./FF
+Simbolisme/NP ./FF
+Gauguin/NP estava/VM fascinat/VM per/SP el/DA mite/NC amorós/AQ i/CC l'/DA èpica/AQ de/SP els/DA ariois/NC ./FF
+Veia/VM la/DA Vairaumati/NP com/CS una/DI Eva/NP divinitzada/VM ,/FF un/DI símbol/NC de/SP la/DA fertilitat/NC i/CC fundadora/NC d'/SP una/DI raça/NC ./FF
+La/DA història/NC tenia/VM elements/NC familiars/AQ per/SP un/DI europeu/AQ ./FF
+El/DA déu/NC grec/AQ Zeus/NP també/RG havia/VA buscat/VM la/DA companyia/NC de/SP mortals/NC ,/FF i/CC el/DA Déu/NP cristià/AQ havia/VA designat/VM un/DI poble/NC elegit/NC ./FF
+Fent/VM un/DI paral·lelisme/NC amb/SP el/DA bíblic/AQ Noè/NP ,/FF Gauguin/NP explica/VM que/CS un/DI colom/NC blanc/AQ va/VA portar/VM la/DA nova/AQ llavor/NC de/SP el/DA cel/NC a/SP la/DA terra/NC ./FF
+La/DA situació/NC personal/AQ de/SP Gauguin/NP ,/FF el/DA 1897/ZZ ,/FF era/VS complicada/VM ./FF
+La/DA crítica/NC de/SP l'/DA última/AO exposició/NC a/SP París/NP l'/PP havia/VA deprimit/VM i/CC ,/FF a/SP més/RG ,/FF es/P0 trobava/VM malalt/AQ ./FF
+La/DA situació/NC anímica/AQ el/DA portava/VM a/SP pensar/VM en/SP el/DA suïcidi/NC ./FF
+Les/DA obres/NC fetes/VM en/SP aquest/DD període/NC estan/VM marcades/NC per/SP un/DI simbolisme/NC gairebé/RG indesxifrable/AQ ./FF
+La/DA dona/NC continua/VM sent/VS la/DA protagonista/NC de/SP els/DA seus/PX quadres/NC ,/FF però/CC representada/VM de/SP manera/NC més/RG tosca/AQ i/CC primitiva/AQ ./FF
+La/DA seva/PX Vairumati/NP està/VM a/SP el/DA costat/NC de/SP el/DA llit/NC ,/FF que/PR sembla/VM un/DI altar/NC per/SP honorar/VM a/SP el/DA déu/NC Oro/NP ,/FF esperant/VM consumar/VM el/DA sacrifici/NC ./FF
+Les/DA dues/ZZ noies/NC de/SP el/DA fons/NC podrien/VM ser/VS les/DA deesses/NC Teuri/NP i/CC Haoaoa/NP que/PR van/VA fer/VM d'/SP intermediàries/NC ./FF
+L'/DA ocell/NC blanc/AQ és/VS el/DA símbol/NC de/SP la/DA llavor/NC regeneradora/AQ ./FF
+En/SP una/DI carta/NC posterior/AQ explica/VM que/CS l'/DA estrany/AQ ocell/NC amb/SP un/DI llangardaix/NC entre/SP les/DA urpes/NC representa/VM la/DA vanitat/NC de/SP les/DA paraules/NC inútils/AQ ./FF
+Altres/DI versions/NC ./FF
+El/DA mite/NC ja/RG ha

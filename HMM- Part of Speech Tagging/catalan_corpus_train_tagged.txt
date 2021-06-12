@@ -1706,4 +1706,106 @@ Les/DA dues/ZZ noies/NC de/SP el/DA fons/NC podrien/VM ser/VS les/DA deesses/NC 
 L'/DA ocell/NC blanc/AQ és/VS el/DA símbol/NC de/SP la/DA llavor/NC regeneradora/AQ ./FF
 En/SP una/DI carta/NC posterior/AQ explica/VM que/CS l'/DA estrany/AQ ocell/NC amb/SP un/DI llangardaix/NC entre/SP les/DA urpes/NC representa/VM la/DA vanitat/NC de/SP les/DA paraules/NC inútils/AQ ./FF
 Altres/DI versions/NC ./FF
-El/DA mite/NC ja/RG ha
+El/DA mite/NC ja/RG havia/VA inspirat/VM dos/ZZ quadres/NC previs/AQ basats/VM en/SP la/DA mateixa/DI llegenda/NC :/FF Vaïraumati/NP têi/VM oa/RG (/FF Vairaumati/NP és/VS el/DA seu/PX nom/NC ,/FF 1892/ZZ )/FF i/CC Te/NP aa/RG no/RN Areois/NP (/FF La/DA llavor/NC de/SP els/DA ariois/NC ,/FF 1892/ZZ )/FF ./FF
+Sempre/RG asseguda/VM a/SP el/DA llit/NC a/SP l'/DA espera/NC de/SP el/DA seu/PX amant/NC diví/AQ i/CC enmig/AQ d'/SP una/DI vegetació/NC exuberant/AQ ./FF
+L'/DA arquetip/NC de/SP les/DA successives/AQ versions/NC és/VS la/DA figura/NC de/SP el/DA quadre/NC L'/NP espérance/NC nua/AQ de/SP Pierre_Puvis_de_Chavannes/NP de/SP el/DA que/PR havia/VA fet/VM una/DI còpia/NC ./FF
+En/SP el/DA seu/PX monumental/AQ quadre/NC D'/NP on/PR venim/VM ?/FF
+Què/PT som/VS ?/FF
+On/CS anem/VM ?/FF (/FF 1897/ZZ )/FF representa/VM el/DA cicle/NC de/SP la/DA vida/NC des_de/SP el/DA naixement/NC fins/SP a/SP la/DA mort/NC ./FF
+Una/DI rèplica/NC de/SP Vairumati/NP seu/PX junt/NC a/SP la/DA dona/NC vella/AQ i/CC un/DI ocell/NC blanc/AQ ./FF
+Gauguin/NP uneix/VM la/DA mort/NC amb/SP la/DA reencarnació/NC i/CC la/DA divinització/NC ./FF
+Poc/RG després/RG va/VA rebre/VM la/DA notícia/NC de/SP la/DA mort/NC de/SP la/DA seva/PX filla/NC Aline/NP ,/FF de/SP dinou/ZZ anys/NC ./FF
+En/SP el/DA manuscrit/NC de/SP textos/NC i/CC dibuixos/NC dedicat/VM a/SP la/DA seva/PX filla/NC ,/FF Cahier/NP pour/NC Aline/NP ,/FF va/VA afegir/VM la/DA figura/NC de/SP Vairumati/NP en/SP la/DA portada/NC ./FF
+Referències/NP ./FF
+Xenophrys/NP glandulosa/AQ és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Àsia/NP ./FF
+Referències/NP ./FF
+La/DA Interactòmica/NP la/PP ciencia/VM que/CS estudia/VM l/NC interactoma/NC ,/FF tot/DI el/DA conjunt/NC d/AQ interaccions/NC entre/SP molècules/NC dins/SP la/DA cèl·lula/NC ./FF
+Dins/RG de/SP la/DA proteòmica/AQ proteòmica/AQ ,/FF es/P0 refereix/VM a/SP les/DA interaccions/NC proteïna/NC proteïna/NC ./FF
+Metodes/NP per/SP mapejar/VM l/NC interactoma/NC ./FF
+Els/DA mètodes/NC experimentals/AQ que/PR s/NC han/VA dissenyat/VM per/SP a/SP estudiar/VM l/NC interactoma/NC són/VS 1/ZZ )/FF afinitat/NC per/SP purificació/NC ,/FF serveix/VM per/SP identificar/VM complexes/AQ de/SP proteïnes/NC i/CC 2/ZZ )/FF doble/AQ híbrids/NC de/SP llevat/NC (/FF yeast/NC two/AQ hybrid/AQ (/FF Y2H/ZZ )/FF ,/FF s/NC utilitza/VM per/SP identificar/VM massivament/RG interacciones/VM entre/SP proteïnes/NC ./FF
+Existeix/VM un/DI gran/AQ esforç/NC per/SP a/SP escriure/VM un/DI mapa/NC de/SP l/NC interactome/NC d/RG èssers/AQ eucariotes/AQ ./FF
+S/NP han/VA creat/VM des_de/SP el/DA 2006/ZZ Llevat/NP ,/FF mosca/NC ,/FF nematodes/NC i/CC humà/AQ ./FF
+Bases/NC de/SP dades/NC d/RG interactomes/AQ ./FF
+APID/NP -/FF Agile_Protein_Interaction_DataAnalyzer_APID/NP és/VS una/DI eïna/AQ bioinformàtica/NC que/PR integra/VM i/CC unifica/VM les/DA interaccions/NC proteína/AQ proteïna/NC més/RG conegudes/NC ./FF
+Database/NP of/NC interacting/NC protein/VM (/FF DIP/NP )/FF (/FF Xenarios/NP i/CC cols/NC ./FF 2000/ZZ )/FF ;/FF GRID/NP database/NC ;/FF MIPS/NP database/NC ;/FF PSIMAP/NP database/NC :/FF La/DA primera/AO base/NC dades/NC d/AQ un/DI interactome/NC de/SP proteïnes/NC estructurals/AQ ;/FF InterPare/NP database/NC :/FF una/DI base/NC de/SP dades/NC d/AQ un/DI interfaseoma/NC de/SP proterïnes/NC estructurals/AQ ;/FF Biomolecular_Interaction_Network_Database/NP (/FF BIND/NP )/FF (/FF Bader/NP et/PP a/SP el/DA ,/FF 2003/ZZ )/FF ;/FF Online_Predicted_Human_Interaction_Database/NP (/FF OPHID/NP )/FF (/FF Brown/NP and/AQ Jurisica/NP ,/FF 2005/ZZ )/FF ;/FF Human_Protein_Reference_Database/NP (/FF HPRD/NP )/FF (/FF Peri/NP ,/FF S./NP et/PP a/SP el/DA ,/FF 2003/ZZ )/FF ;/FF Himap/NP (/FF Human_Interactome_Map/NP )/FF ;/FF HPID/NP ;/FF MINT/NP ;/FF PINdb/NP ;/FF IntAct/NP -/FF The_Molecular_Interaction_Database/NP ;/FF enllaços/NC externs/AQ ./FF
+PSIbase_Database/NP ./FF
+A/SP global/AQ interactome/NC DB/NP based/AQ on/PR PSIMAP/NP ;/FF Interactome/NP ./FF org/NC ./FF
+A/SP dedicated/AQ interactome/NC web/NC site/NC ./FF ;/FF Referències/NP ./FF
+Bader_GD/NP ,/FF i/CC cols/NC ./FF (/FF 2003/ZZ )/FF BIND/NP :/FF The_Biomolecular/NP interaction/VM Network_Database/NP ./FF
+Nucleic_Acids_Res/NP ./FF ,/FF 31/ZZ ,/FF 248-50/ZZ ./FF
+Brown_KR/NP ,/FF Jurisica_I./NP (/FF 2005/ZZ )/FF Online_Predicted_Human_Interaction_Database/NP ./FF
+Bioinformatics/NP ,/FF 21/ZZ (/FF 9/ZZ )/FF :/FF 2076-82/ZZ ./FF
+Xenarios_I/NP ,/FF Rice_DW/NP ,/FF Salwinski_L/NP ,/FF Baron_MK/NP ,/FF Marcotte_EM/NP ,/FF Eisenberg_D./NP (/FF 2000/ZZ )/FF DIP/NP :/FF the/NC database/NC of/NC interacting/NC proteins/RG ./FF
+Nucleic_Acids_Res/NP ./FF 28/ZZ :/FF 289-91/ZZ ./FF
+Peri_S./NP ,/FF Navarro_JD/NP ,/FF Amanchy_R/NP ,/FF Kristiansen_TZ/NP ,/FF Jonnalagadda_CK/NP ,/FF i/CC cols/NC ./FF (/FF 2003/ZZ )/FF Development/NP of/NC human/VM protein/VM reference/NC database/NC as/NC an/VM initial/AQ platform/NC for/NC approaching/NC systems/NC biology/NC in/VM humans/AQ ./FF
+Genome_Res/NP 13:23/ZZ 63-71/ZZ ./FF ;/FF Park_J/NP ,/FF Lappe_M/NP ,/FF Teichmann_SA/NP ./FF (/FF 2001/ZZ )/FF Mapping/NP protein/VM family/RG interactions/NC :/FF intramolecular/AQ and/AQ intermolecular/AQ protein/VM family/NC interaction/AQ repertoires/NC in/VM the/VM PDB/NP and/AQ yeast/NC ./FF
+J_Mol_Biol/NP ./FF 2001/ZZ Mar/NP 30/ZZ ;/FF 307/ZZ (/FF 3/ZZ )/FF :/FF 929-38/ZZ ./FF
+Xenophrys/NP wuliangshanensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA província/NC xinesa/AQ de/SP Yunnan/NP ,/FF a/SP l'/DA estat/NC indi/AQ de/SP Nagaland/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Birmània/NP ./FF
+Referències/NP ./FF
+Xenophrys/NP brachykolos/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP Hong_Kong/NP ./FF
+Referències/NP ./FF
+Vibrissaphora/NP és/VS un/DI gènere/NC d'/SP amfibis/NC de/SP la/DA família/NC Megophrydae/NP ./FF
+Espècies/NP ./FF
+Vibrissaphora/NP ailaonica/AQ ;/FF Vibrissaphora/NP boringii/NC ;/FF Vibrissaphora/NP echinata/NC ;/FF Vibrissaphora/NP leishanensis/NC ;/FF Vibrissaphora/NP liui/RG ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC d'/SP amfibis/NC ./FF ;/FF
+Vibrissaphora/NP ailaonica/AQ és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Datong/NP ,/FF Y._&_Shunqing/NP ,/FF L./NP 2004/ZZ ./FF
+Vibrissaphora/NP ailaonica/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Vibrissaphora/NP boringii/RG és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Liang/NP ,/FF F._&_Guanfu/NP ,/FF W./NP 2004/ZZ ./FF
+Vibrissaphora/NP boringii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Vibrissaphora/NP echinata/VM és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP el/DA Vietnam/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+van/VA Dijk/NP ,/FF P.P._&_Swan/NP ,/FF S./NP 2004/ZZ ./FF
+Vibrissaphora/NP echinata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Vibrissaphora/NP leishanensis/NC és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Ermi/VM ,/FF Z._&_Guanfu/NP ,/FF W./NP 2004/ZZ ./FF
+Vibrissaphora/NP leishanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Vibrissaphora/NP liui/RG és/VS una/DI espècie/NC d'/SP amfibi/NC que/PR viu/VM a/SP la/DA Xina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Huiqing/NP ,/FF G._&_Baorong/NP ,/FF G./NP 2004/ZZ ./FF
+Vibrissaphora/NP liui/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 14_de_gener_de_2008/WW ./FF
+Nelson/NP és/VS una/DI població/NC de/SP el/DA sud/NC de/SP Gal·les/NP ,/FF pertanyent/AQ a/SP el/DA comtat/NC de/SP Sir_Caerffili/NP ,/FF que/PR a_causa_de/SP la/DA proximitat/NC amb/SP Cardiff/NP està/VM creixent/AQ ràpidament/RG ./FF
+El/DA seu/PX nom/NC gal·lès/AQ original/AQ (/FF Ffos-y-Gerddinen/NP ,/FF Fossat/NP de/SP el/DA "/FF cerddinen/VM "/FF ,/FF una/DI rosàcia/NC de/SP el/DA gènere/NC Sorbus/NP )/FF cedí/VM el/DA lloc/NC a/SP el/DA nom/NC d'/SP un/DI "/FF pub/NC "/FF local/AQ a_causa_de/SP la/DA dificultat/NC de/SP pronunciació/NC ./FF
+Està/VM situat/VM vuit_quilòmetres/ZZ a/SP el/DA nord/NC de/SP Pontypridd/NP ,/FF que/PR exerceix/VM de/SP mercat/NC comarcal/AQ ./FF
+Originalment/RG un/DI poble/NC de/SP minaires/NC (/FF carbó/NC ,/FF ferro/NC )/FF ,/FF Nelson/NP està/VM esdevenint/VM ,/FF com/CS més/RG va/VA ,/FF més/RG ,/FF un/DI zona/NC residencial/AQ per/SP a/SP gent/NC que/PR treballa/VM a/SP Cardiff/NP (/FF 27_quilòmetres/ZZ a/SP el/DA sud/NC )/FF ,/FF gràcies_a/SP els/DA preus/NC més/RG reduïts/VM de/SP la/DA propietat/NC immobiliària/AQ ./FF
+A/SP les/DA afores/NC a/SP el/DA nord/NC de/SP el/DA poble/NC es/P0 troba/VM Llancaiach_Fawr/NP ,/FF una/DI antiga/AQ mansió/NC de/SP voltants/NC de/SP 1530/ZZ en/SP estil/NC Tudor/NP emprada/VM actualment/RG com/CS a/SP museu/NC viu/AQ i/CC centre/NC de/SP congressos/NC ./FF
+L'/DA església/NC de/SP Nelson/NP ,/FF dedicada/VM a/SP Sant_Joan_Baptista/NP ,/FF pertany/VM a/SP la/DA parròquia/NC de/SP Llanfabon/NP i/CC a/SP la/DA diòcesi/NC de/SP Llandaf/NP ./FF
+La/DA població/NC també/RG té/VM a/SP Pentwyn_Road/NP la/DA seu/PX central/NC de/SP l'/DA empresa/NC de/SP proveïment/NC d'/SP aigua/NC de/SP Gal·les/NP (/FF Dwr_Cymru/NP )/FF ./FF
+El/DA county/NC borough/NC de/SP Sir_Caerffili/NP està/VM intentant/VM construir/VM un/DI gran/AQ parc/NC empresarial/AQ en/SP Ty-Du/NP ,/FF un/DI terreny/NC disputat/VM ;/FF el/DA Nelson_Action_Group/NP s'/P0 oposa/VM a/SP el/DA projecte/NC ./FF
+Esports/NP ./FF
+A/SP l'/DA aire/NC lliure/AQ i/CC en/SP el/DA centre/NC de/SP la/DA població/NC destaca/VM una/DI pista/NC de/SP pilota/NC gal·lesa/AQ a/SP tres/ZZ parets/NC ,/FF la/DA darrera/AO d'/SP aquesta/DD mena/NC existent/AQ a/SP Gal·les/NP ,/FF construïda/VM per/SP immigrants/NC irlandesos/AQ a/SP mitjans/NC de/SP 1860/ZZ ./FF
+Aquest/DD esport/NC ,/FF que/PR recorda/VM la/DA pilota_basca/NC ,/FF es/P0 juga/VM colpejant/VM la/DA pilota/NC contra/SP una/DI o/CC més/RG parets/NC amb/SP el/DA palmell/NC de/SP la/DA ma/DP ./FF
+El/DA joc/NC pot/VM ser/VS d'/SP un/DI contra/SP un/DI o/CC per/SP parelles/NC ,/FF i/CC el/DA frontó/NC pot/VM tenir/VM una/DI ,/FF dues/ZZ ,/FF tres/ZZ o/CC quatre/ZZ parets/NC ./FF
+L'/DA objectiu/NC de/SP el/DA joc/NC és/VS picar/VM la/DA pilota/NC contra/SP la/DA paret/NC frontal/AQ abans/RG o/CC després/RG que/CS hagi/VA botat/VM un_sol/ZZ cop/NC a/SP terra/NC ,/FF fent/VM -ho/PP de_manera_que/CS la/DA pilota/NC reboti/VM dins/RG de/SP els/DA límits/NC de/SP la/DA pista/NC però/CC fora_de/SP l'/DA abast/NC de/SP l'/DA equip/NC contrari/AQ ./FF
+L'/DA equip/NC de/SP els/DA Nelson_Unicorns/NP és/VS un/PI de/SP els/DA equips/NC de/SP rugbi/NC més/RG antics/AQ de/SP Gal·les/NP ./FF
+Personalitats/NP notables/AQ nascudes/VM a/SP Nelson/NP ./FF
+Kerry_Wilde/NP (/FF 1958/ZZ )/FF ,/FF vint/ZZ anys/NC campió/NC nacional/AQ de/SP pilota/NC gal·lesa/AQ ,/FF campió/NC mundial/AQ de/SP dobles/NC (/FF Chicago/NP 2000/ZZ )/FF ,/FF president/NC de/SP la/DA Welsh_Handball_Association/NP i/CC "/FF Personalitat_Esportiva_de_Caerffili/NP "/FF de/SP el/DA 2001/ZZ ;/FF Simon_Weston/NP (/FF 1961/ZZ )/FF ,/FF soldat/NC que/PR obtingué/VM l'/DA Orde_de_l'_Imperi_Britànic/NP per/SP les/DA cremades/NC sofertes/VM en/SP el/DA decurs/NC de/SP la/DA guerra/NC de/SP les/DA Malvines/NP (/FF 1982/ZZ )/FF ,/FF quan/CS les/DA bombes/NC enemigues/AQ calaren/VM foc/NC a/SP el/DA vaixell/NC Sir_Galahad/NP ./FF
+En/SP la/DA postguerra/NC aparegué/VM nombroses/AQ vegades/NC a/SP la/DA televisió/NC i/CC tingué/VM un/DI programa/NC de/SP ràdio/NC propi/AQ ,/FF cosa/NC que/PR el/PP donà/VM anomenada/NC arreu/RG de/SP Gran_Bretanya/NP ./FF
+Sir_Tasker_Watkins/NP (/FF 18_de_novembre_del_1918/WW )/FF ,/FF antic/AQ jutge/NC de/SP la/DA High_Court/NP of/NC Justice/NP condecorat/VM amb/SP la/DA Creu_Victòria/NP ,/FF membre/NC de/SP l'/DA Orde_de_l'_Imperi_Britànic/NP i/CC membre/NC de/SP el/DA "/FF Consell_Privat/NP "/FF de/SP la/DA Reina_d'_Anglaterra/NP )/FF ./FF
+Presidí/VM la/DA federació/NC gal·lesa/AQ de/SP rugbi/NC (/FF Undeb_Rygbi_Cymru/NP )/FF de/SP el/DA 1993/ZZ a/SP el/DA 2004/ZZ ./FF
+Enllaços/NP ./FF
+Presentació_de_Nelson/NP ;/FF La/NP pista/NC de/SP Hand_Ball/NP gal·lès/AQ de/SP Nelson/NP ;/FF Memorial_de_la_I_Guerra_Mundial/NP ./FF
+Recull/VM informació/NC general/AQ sobre/SP la/DA vila/NC ;/FF Equip/NP de/SP rugbi/NC Nelson_Unicorns/NP ;/FF Nelson_Action_Group/NP ;/FF
+Calexico/NP és/VS un/DI grup/NC d'/SP Estats_Units/NP que/PR fan/VM música/NC indie/NC americà/AQ ./FF
+Són/VS originaris/AQ de/SP Tucson/NP ,/FF Arizona/NP ./FF
+Els/DA seus/PX dos/ZZ líders/NC ,/FF Joey_Burns/NP (/FF cantant/NC i/CC guitarra/NC )/FF i/CC John_Convertino/NP (/FF bateria/NC )/FF van/VA començar/VM a/SP tocar/VM junts/AQ a/SP la/DA banda/NC de/SP Los_Angeles_Giant_Sand/NP abans/RG de/SP fundar/VM Calexico/NP ./FF
+El/DA grup/NC es/P0 caracteritza/VM per/SP incorporar/VM una/DI eclèctica/AQ varietat/NC de/SP música/NC ,/FF destacant/VM el/DA folk/NC de/SP el/DA suroest/NC de/SP els/DA Estats_Units/NP i/CC de/SP el/DA nord/NC de/SP Mèxic/NP combinat/NC amb/SP rock/NC independent/AQ ./FF
+Discografia/NP ./FF
+Àlbums/NP d'/SP estudi/NC ./FF
+1997/ZZ Spoke/NP ;/FF 1998/ZZ The_Black_Light/NP ;/FF 2000/ZZ Hot_Rail/NP ;/FF 2003/ZZ Feast/NP of/NC Wire/NP ;/FF 2006/ZZ Garden_Ruin/NP ;/FF Altres/NP àlbums/NC ./FF
+1999/ZZ Road_Map/NP ;/FF 2000/ZZ Travelall/NP ;/FF 2001/ZZ Tete/NP a/SP Tete/NP ,/FF como/VM ABBC/NP con/NC Amor_Belhom_Duo/NP ;/FF 2001/ZZ Aerocalexico/NP ;/FF 2002/ZZ Scraping/NP ;/FF 2005/ZZ The_Book/NP and/AQ The_Canal/NP ;/FF 2007/ZZ Tool_Box/NP ;/FF EPs/NP ./FF
+2001/ZZ Even_

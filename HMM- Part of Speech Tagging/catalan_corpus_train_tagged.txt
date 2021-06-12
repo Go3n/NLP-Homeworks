@@ -1961,4 +1961,80 @@ El/DA Palau_de_Westminster/NP era/VS estratègicament/RG important/AQ durant/SP 
 Els/DA edificis/NC han/VA ocupat/VM el/DA seu/PX lloc/NC des_de/SP ,/FF almenys/RG els/DA temps/NC de/SP els/DA anglosaxons/NC ./FF
 Llavors/RG conegut/VM com/CS Thorney_Island/NP ,/FF el/DA lloc/NC podria/VM haver/VA -se/P0 utilitzat/VM com/CS a/SP residència/NC reial/AQ per/SP Canut_el_Gran/NP (/FF va/VA regnar/VM de/SP el/DA 1016/ZZ a/SP el/DA 1035/ZZ )/FF ./FF
 El/DA penúltim/AO monarca/NC Saxó_d'_Anglaterra/NP ,/FF Eduard_el_Confessor/NP ,/FF va/VA construir/VM un/DI palau/NC reial/AQ a/SP Thorney_Island/NP a/SP l'/DA Oest/NP de/SP la/DA ciutat/NC de/SP Londres/NP a/SP el/DA mateix/DI temps/NC ,/FF més_o_menys/RG ,/FF que/PR construïa/VM l'/DA abadia/NC de/SP Westminster/NP (/FF 1045-1050/ZZ )/FF ./FF
-L'/DA àrea/NC de/SP Thorney_Island/NP va/VA passar/VM a/SP ser/VS coneguda/VM aviat/RG com/CS a/SP Westminste
+L'/DA àrea/NC de/SP Thorney_Island/NP va/VA passar/VM a/SP ser/VS coneguda/VM aviat/RG com/CS a/SP Westminster/NP (/FF una/DI contracció/NC de/SP les/DA paraules/NC West_Monastery/NP )/FF ./FF
+Després/RG de/SP la/DA conquesta/NC Normanda/NP (/FF 1066/ZZ )/FF ,/FF el/DA rei/NC Guillem_I/NP es/P0 va/VA establir/VM a/SP la/DA Torre_de_Londres/NP ,/FF però/CC després/RG es/P0 va/VA instal·lar/VM a/SP Westminster/NP ./FF
+Ni/CC els/DA edificis/NC utilitzats/VM per/SP els/DA Saxons/NP ni/CC els/DA que/PR va/VA utilitzar/VM Guillem_I/NP van/VA sobreviure/VM ./FF
+La/DA part/NC més/RG antiga/AQ de/SP el/DA Palau/NP (/FF el/DA Westminster_Hall/NP i/CC el/DA Great_Hall/NP )/FF daten/VM de/SP el/DA regnat/NC de/SP el/DA successor/NC de/SP Guillem_I/NP ,/FF Guillem_II/NP ./FF
+El/DA palau/NC de/SP Westminster/NP era/VS la/DA residència/NC principal/AQ de/SP els/DA monarques/NC anglesos/AQ cap/NC a/SP el/DA final/NC de/SP l'/DA època/NC de/SP l'/DA era/NC medieval/AQ ./FF
+El/DA predecessor/NC de/SP el/DA Parlament/NP ,/FF el/DA Curia_Regis/NP (/FF Consell_Reial/NP )/FF es/P0 trobava/VM a/SP el/DA Westminster_Hall/NP (/FF tot_i_que/CS canviava/VM de/SP lloc/NC quan/CS el/DA Rei/NP es/P0 traslladava/VM a/SP un/DI altre/DI palau/NC )/FF ./FF
+El/DA primer/AO Parlament/NP oficial/AQ d'/SP Anglaterra/NP es/P0 va/VA reunir/VM a/SP el/DA palau/NC el/DA 1295/ZZ ./FF
+Des_de/SP llavors/RG ,/FF gairebé/RG tots/DI els/DA Parlaments/NP s'/P0 han/VA reunit/VM a/SP el/DA palau/NC ./FF
+De_tota_manera/RG ,/FF alguns/PI Parlaments/NP s'/P0 han/VA reunit/VM a/SP altres/DI llocs/NC ./FF
+Westminster/NP va/VA continuar/VM sent/VS la/DA principal/AQ residència/NC de/SP la/DA monarquia/NC a/SP Londres/NP fins/RG que/CS un/DI incendi/NC va/VA destruir/VM part/NC de/SP l'/DA estructura/NC l'/DA any/NC 1529/ZZ ./FF
+a/SP el/DA 1530/ZZ ,/FF Enric_VIII/NP va/VA adquirir/VM el/DA York_Palace_de_Thomas_Cardinal_Wolsey/NP ,/FF un/DI ministre/NC poderós/AQ que/PR havia/VA perdut/VM el/DA favor/NC de/SP el/DA rei/NC ./FF
+Enric_VIII/NP li/PP va/VA canviar/VM el/DA nom/NC per/SP Palau_de_Whitehall/NP i/CC el/PP va/VA utilitzar/VM com/CS a/SP residència/NC principal/AQ ./FF
+Tot_i_que/CS Westminster/NP seguia/VM sent/VS un/DI palau/NC reial/AQ oficialment/RG ,/FF l'/DA utilitzaven/VM les/DA dues/ZZ cambres/NC de/SP el/DA Parlament/NP i/CC també/RG s'/P0 utilitzava/VM com/CS a/SP jutjat/NC ./FF
+Com/CS que/CS originalment/RG era/VS un/DI residència/NC reial/AQ ,/FF el/DA palau/NC no/RN incloïa/VM cap/DI edifici/NC especialment/RG pensat/VM per/SP les/DA corts/NC ./FF
+Les/DA cerimònies/NC importants/AQ de/SP l'/DA Estat/NP es/P0 duien_a_terme/VM a/SP la/DA Painted_Chamber/NP (/FF Cambra_Pintada/NP )/FF ./FF
+La/DA Cambra_de_els_Lords/NP normalment/RG es/P0 reunia/VM a/SP la/DA White_Chamber/NP (/FF Cambra_Blanca/NP )/FF ./FF
+La/DA Cambra_de_els_Comuns/NP ,/FF però/RG ,/FF no/RN tenia/VM una/DI cambra/NC pròpia/AQ ;/FF de/SP vegades/NC debatien/VM a/SP la/DA sala/NC de/SP reunions/NC de/SP l'/DA abadia/NC de/SP Westminster/NP ./FF
+Els/DA Comuns/NP van/VA adquirir/VM una/DI cambra/NC permanent/AQ en/SP el/DA palau/NC ,/FF la/DA capella/NC de/SP St._Stephen/NP ,/FF una/DI antiga/AQ capella/NC reial/AQ ,/FF però/CC només/RG durant/SP el/DA regnat/NC de/SP el/DA successor/NC d'/SP Enric_VIII/NP ,/FF el/DA rei/NC Eduard_VI/NP ./FF
+Amb/SP la/DA reforma/NC Protestant/NP ,/FF es/P0 va/VA dissoldre/VM l'/DA orde/NC religiosa/AQ de/SP el/DA Canons_de_St._Stephen/NP (/FF entre/SP d'/SP altres/DI institucions/NC )/FF ;/FF així/RG que/CS la/DA capella/NC va/VA passar/VM a/SP servir/VM per/SP l'/DA ús/NC de/SP els/DA comuns/NC que/PR hi/PP van/VA fer/VM les/DA alteracions/NC que/PR van/VA considerar/VM convenients/AQ ./FF
+La/DA placa/NC eurasiàtica/AQ és/VS una/DI placa/NC tectònica/AQ continental/AQ que/PR inclou/VM tota/DI Euràsia/NP ,/FF amb/SP l'/DA excepció/NC de/SP el/DA subcontinent/NC indi/AQ ,/FF la/DA Península_Aràbiga/NP ,/FF i/CC la/DA part/NC de/SP Sibèria/NP a/SP l'/DA est/NC de/SP la/DA Serralada_Verkhoyansk/NP ./FF
+També/RG inclou/VM la/DA part/NC oriental/AQ de/SP el/DA nord/NC de/SP l'/DA Oceà_Atlàntic/NP ,/FF fins_i_tot/RG la/DA dorsal/NC meso-atlàntica/AQ ./FF
+La/DA seva/PX extensió/NC és/VS d'/SP uns/DI 67.800.000_km2/ZZ ./FF
+Les/DA plaques/NC amb/SP les/DA que/PR limita/VM són/VS :/FF a/SP el/DA nord/NC ,/FF amb/SP la/DA placa/NC nord-americana/AQ ./FF
+a/SP el/DA sud/NC ,/FF amb/SP la/DA placa/NC africana/AQ ,/FF la/DA placa/NC aràbiga/AQ ,/FF la/DA placa/NC indo-australiana/AQ ./FF
+A/SP l'/DA est/NC ,/FF amb/SP la/DA placa/NC nord-americana/AQ ,/FF la/DA placa/NC filipina/AQ ,/FF la/DA placa/NC d'/SP Okhotsk/NP i/CC la/DA placa/NC d'/SP Amúria/NP ./FF
+A/SP l'/DA oest/NC ,/FF té/VM una/DI vora/NC divergent/AQ amb/SP la/DA placa/NC nord-americana/AQ ,/FF que/PR dóna/VM origen/NC a/SP l'/DA esmentada/VM dorsal/NC atlàntica/AQ ./FF
+Vegeu/VM també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Frasaortes/NP (/FF Phrasaortes/NP ,/FF )/FF fill/NC de/SP Reomitres/NP ,/FF fou/VS un/DI magnat/NC persa/AQ ./FF
+Fou/VS nomenat/VM per/SP el/DA rei/NC Alexandre_el_Gran/NP com/CS a/SP sàtrapa/NC de/SP Persis/NP ,/FF que/PR era/VS el/DA nucli/NC central/AQ de/SP el/DA poder/NC de/SP els/DA aquemènides/NC ,/FF el/DA any/NC 331/ZZ aC/NC ./FF
+Va/VA morir/VM durant/SP l'/DA expedició/NC de/SP el/DA rei/NC macedoni/AQ a/SP la/DA India/NP ./FF
+L'/DA esmenta/VM entre/SP d'/SP altres/PI ,/FF Flavi_Arrìa/NP ./FF
+Frataguna/NP (/FF Phratagune/NP ,/FF )/FF fou/VS una/DI reina/NC de/SP Pèrsia/NP ./FF
+Fou/VS esposa/NC de/SP el/DA rei/NC Darios_I_de_Pèrsia/NP amb/SP el/DA que/PR va/VA tenir/VM dos/ZZ fills/NC ,/FF Abrocomes/NP i/CC Hiperantes/NP ,/FF que/PR van/VA morir/VM a/SP la/DA batalla/NC de/SP les/DA Termòpiles/NP ./FF
+L'/DA esmenta/VM Heròdot/NP ./FF
+Onomàstica/NP :/FF Fratafernes/NP ,/FF sàtrapa/NC persa/AQ ;/FF Fratafernes/NP (/FF Phrataphernes/NP ,/FF )/FF fou/VS rei/NC de/SP el/DA poble/NC escita/NC de/SP els/DA corasmis/NC dins/SP l'/DA imperi/NC persa/AQ ./FF
+L'/DA esmenta/VM Curtius/NP (/FF viii/NC ./FF 1/ZZ ./FF §/FF 8/ZZ )/FF sota/SP aquest/DD nom/NC però/CC Flavi_Arrìa/NP l'/PP anomena/VM com/CS a/SP Farasmanes/NP ./FF
+Fratafernes/NP (/FF Phrataphernes/NP ,/FF )/FF fou/VS un/DI noble/AQ persa/NC governador/AQ provincial/AQ (/FF sàtrapa/NC )/FF sota/SP Darios_III_de_Pèrsia/NP ./FF
+Quan/CS es/P0 va/VA produir/VM la/DA invasió/NC macedònia/AQ ,/FF Fratafernes/NP es/P0 va/VA unir/VM a/SP les/DA tropes/NC reials/AQ amb/SP els/DA contingents/NC de/SP la/DA seva/PX satrapia/NC de/SP Pàrtia/NP i/CC Hircània/NP abans/RG de/SP la/DA batalla/NC d'/SP Arbela/NP (/FF 331/ZZ aC/NC )/FF ./FF
+Després/RG de/SP la/DA derrota/NC va/VA acompanyar/VM a/SP el/DA rei/NC en/SP la/DA fugida/NC i/CC a/SP la/DA mort/NC de/SP el/DA rei/NC es/P0 va/VA rendir/VM voluntàriament/RG a/SP Alexandre_el_Gran/NP ,/FF que/PR el/PP va/VA confirmar/VM en/SP els/DA seus/PX governs/NC ./FF
+Va/VA ajudar/VM a/SP els/DA macedonis/NC ,/FF juntament/RG amb/SP Caranos/NP ,/FF contra/SP Satibarzanes_de_Sogdiana/NP ./FF
+Després/RG es/P0 va/VA unir/VM a/SP el/DA rei/NC a/SP Zariaspa/NP (/FF 328/ZZ aC/NC )/FF ./FF
+a/SP el/DA hivern/NC de/SP el/DA 328/ZZ a/SP el/DA 327/ZZ aC/NC fou/VS enviat/VM contra/SP el/DA sàtrapa/NC de/SP els/DA mardis/NC i/CC tapuis/NC ,/FF a/SP el/DA qual/PR va/VA fer/VM presoner/AQ ,/FF i/CC després/RG fou/VS executar/VM ./FF
+Després/RG es/P0 va/VA reunir/VM amb/SP Alexandre/NP a/SP l'/DA Índia/NP poc/RG abans/RG de/SP la/DA victòria/NC sobre/SP Poros/NP ,/FF i/CC llavors/RG va/VA retornar/VM a/SP la/DA seva/PX satrapia/NC des_de/SP on/PR va/VA enviar/VM a/SP el/DA seu/PX fill/NC Farasmanes/NP amb/SP una/DI gran/AQ caravana/NC d'/SP aprovisionament/NC per/SP l'/DA exèrcit/NC de/SP el/DA rei/NC en/SP el/DA seu/PX camí/NC per/SP Gedròsia/NP ./FF
+A/SP la/DA mort/NC d'/SP Alexandre/NP va/VA conservar/VM el/DA seu/PX govern/NC ,/FF però/CC sembla/VM que/CS ja/RG era/VS mort/VM a/SP la/DA partició/NC de/SP Triparadisos/NP (/FF 321/ZZ aC/NC )/FF i/CC la/DA satrapia/NC fou/VS donada/VM a/SP Filip/NP ,/FF anteriorment/RG governador/AQ de/SP Sogdiana/NP ./FF
+Frontó/NP (/FF Phronton/NP ,/FF )/FF fou/VS un/DI poeta/NC grec/AQ ./FF
+Fou/VS l'/DA autor/NC de/SP dos/ZZ epigrames/NC a/SP l'/DA antologia/NC grega/AQ ./FF
+Podria/VM ser/VS el/DA retòric/NC d'/SP Emesa/NP esmentat/VM a/SP Suides/NP ,/FF que/PR va/VA viure/VM a/SP Roma/NP en/SP temps/NC de/SP Sever/NP i/CC va/VA morir/VM a/SP la/DA ciutat/NC vers/SP els/DA seixanta/ZZ anys/NC ,/FF i/CC que/CS fou/VS oncle/NC de/SP el/DA famós/AQ crític/NC Longí/NP ,/FF però/CC no/RN és/VS pas/NC el/DA mateix/DI personatge/NC que/PR l'/DA orador/NC romà/AQ Marc_Corneli_Frontó/NP ,/FF tutor/NC d'/SP Antoní_Pius/NP ./FF
+Frigil/NP (/FF Phrygillus/NP ,/FF )/FF fou/VS un/DI artista/NC grec/AQ ,/FF un/PI de/SP els/DA més/RG celebres/VM i/CC destacats/VM elaboradors/NC de/SP medalles/NC i/CC gravadors/NC de/SP pedres/NC precioses/AQ ./FF
+per/SP el/DA seu/PX estil/NC es/P0 pot/VM determinar/VM que/CS va/VA pertànyer/VM a/SP la/DA primera/AO escola/NC grega/AQ i/CC probablement/RG siracusà/AQ per/SP la/DA similitud/NC d'/SP algunes/PI de/SP les/DA seves/PX realitzacions/NC ./FF
+Francesco_Cossiga/NP (/FF Sàsser/NP ,/FF Sardenya/NP ,/FF 26_de_juliol_de_1928/WW )/FF és/VS un/DI polític/NC italià/AQ pertanyent/VM la/DA democràcia/NC cristiana/AQ italiana/AQ ./FF
+Durant/SP la/DA Segona_Guerra_Mundial/NP va/VA estar_en_contacte/VM amb/SP organitzacions/NC polítiques/AQ catòliques/AQ ./FF
+Estudi/NP dret/NC i/CC va/VA ser/VS professor/NC de/SP Dret_Constitucional/NP a/SP la/DA Universitat_de_Sàsser/NP ./FF
+A/SP la/DA fi/NC de/SP els/DA anys/NC cinquanta/ZZ va/VA iniciar/VM la/DA seva/PX carrera/NC política/AQ en/SP el/DA si/CS de/SP Democrazia_Cristiana/NP ./FF
+En/SP 1966/ZZ va/VA ser/VS nomenat/VM sotssecretari/NC de/SP defensa/NC en/SP el/DA govern/NC ./FF
+Va/VA ocupar/VM des_de/SP llavors/NC alts/AQ càrrecs/NC de/SP l'/DA administració/NC ./FF
+Va/VA ser/VS ministre/NC d'/SP Interior/NP des_de/SP 1976/ZZ a/SP 1978/ZZ ,/FF durant/SP el/DA període/NC a/SP el/DA capdavant/RG d'/SP aquest/DD departament/NC ,/FF en/SP 1978/ZZ ,/FF va/VA haver/VA de/SP dimitir/VM per/SP la/DA crisi/NC que/PR va/VA generar/VM l'/DA assassinat/NC d'/SP Aldo_Moro/NP ./FF
+Va/VA ser/VS cap/NC de/SP govern/NC des_de/SP 1979/ZZ fins/SP a/SP 1980/ZZ ./FF
+Durant/SP el/DA seu/PX mandat/NC va/VA haver/VA d'/SP afrontar/VM l'/DA oposició/NC que/PR van/VA generar/VM els/DA escàndols/NC de/SP corrupció/NC política/AQ que/PR van/VA arribar/VM a/SP afectar/VM a/SP el/DA govern/NC i/CC que/CS li/PP van/VA obligar/VM a/SP retirar/VM -se/P0 de/SP la/DA política/NC durant/SP un/DI temps/NC ./FF
+Va/VA ser/VS designat/VM president/NC de/SP el/DA Senat/NP en/SP 1983/ZZ i/CC en/SP les/DA eleccions/NC de/SP 1985/ZZ va/VA resultar/VM escollit/VM president/NC de/SP la/DA República/NP italiana/AQ ,/FF sent/VM el/DA candidat/NC de/SP la/DA Democràcia_Cristiana/NP ./FF
+El/DA nom/NC de/SP Francesco_Cossiga/NP es/P0 va/VA veure/VM de/SP nou/AQ relacionat/VM amb/SP assumptes/NC il·legals/AQ i/CC va/VA haver/VA d'/SP abandonar/VM anticipadament/RG la/DA presidència/NC en/SP 1992/ZZ ./FF
+Va/VA abandonar/VM la/DA Democràcia_Cristiana/NP en/SP 1998/ZZ i/CC va/VA fundar/VM el/DA partit/NC Unió_Democràtica/NP per/SP a/SP la/DA República/NP ,/FF d'/SP idees/NC centristes/AQ ./FF
+En/SP italià/NC ,/FF el/DA seu/PX cognom/NC és/VS comunament/RG pronunciat/VM ,/FF no/RN obstant/VM això/PD la/DA pronunciació/NC original/AQ és/VS s/NC -/FF ,/FF amb/SP accent/NC en/SP la/DA vocal/NC -/FF o/CC -/FF (/FF es/P0 tracta/VM d'/SP un/DI cognom/NC sard/AQ ,/FF que/PR significa/VM pròpiament/RG Còrsega/NP )/FF ./FF
+Frine/NP (/FF Phryne/NP ,/FF )/FF fou/VS una/DI famosa/AQ hetera/NC grega/AQ ,/FF filla/NC d'/SP Epícles/NP i/CC natural/AQ de/SP Tèspies/NP a/SP Beòcia/NP ./FF
+D'/SP origen/NC humil/AQ però/CC extraordinàriament/RG bella/AQ ,/FF es/P0 va/VA dedicar/VM a/SP hetera/NC ,/FF i/CC va/VA amassar/VM una/DI gran/AQ fortuna/NC (/FF es/P0 diu/VM que/CS va/VA oferir/VM reconstruir/VM les/DA muralles/NC de/SP Tebes/NP de/SP el/DA seu/PX patrimoni/NC ,/FF després/RG de/SP ser/VS destruïdes/VM per/SP Alexandre_el_Gran/NP ,/FF però/CC amb_la_condició_de/SP posar/VM la/DA inscripció/NC "/FF Alexandre/NP va/VA destruir/VM aquestes/DD muralles/NC ,/FF però/CC l'/DA hetera/NC Frine/NP les/PP va/VA reconstruir/VM "/FF )/FF ./FF
+Entre/SP els/DA seus/PX amants/NC o/CC admiradors/NC hi/PP va/VA haver/VA diversos/DI homes/NC importants/AQ de/SP l'/DA època/NC de/SP Filip_II_de_Macedònia/NP i/CC d'/SP Alexandre_el_Gran/NP ./FF
+Cal/VM esmentar/VM a/SP l'/DA orador/NC Hipèrides/NP i/CC l'/DA escultor/NC Praxíteles/NP ./FF
+La/DA pintura/NC d'/SP Apel·les_de_Colofó/NP ,/FF la/DA Venus_Anadiomena/NP ,/FF es/P0 creu/VM que/CS fou/VS inspirada/VM en/SP Frine/NP ;/FF l'/DA escultura/NC de/SP la/DA Venus_de_Cnidos_de_Praxíteles/NP també/RG ho/PP va/VA ser/VS ,/FF i/CC inclogué/VM el/DA seu/PX amor/NC per/SP Frine/NP en/SP un/DI epigrama/NC a/SP la/DA base/NC d'/SP una/DI estàtua/NC de/SP Cupido/NP ./FF
+Va/VA tenir/VM dedicada/VM una/DI estàtua/NC d'/SP or/NC i/CC marbre/NC pentèlic/AQ a/SP Delfos/NP ./FF
+Apol·lodor/NP diu/VM que/CS hi/PP va/VA haver/VA dues/ZZ Frine/NP que/PR van/VA ser/VS famoses/AQ :/FF una/DI portava/VM el/DA renom/NC Clausilega/NP i/CC l'/DA altre/DI Sapèrdia/NP ,/FF i/CC una/DI era/NC de/SP Tèspies/NP i/CC l'/DA altra/PI de/SP Sestos/NP ,/FF però/CC no/RN aclareix/VM res/PI més/RG ,/FF i/CC cap/DI altre/DI autor/NC en/SP fa_referència/VM ./FF
+Jordi_Barba/NP ,/FF més/RG conegut/VM com/CS Jordi_Pope/NP o/CC simplement/RG Pope/NP (/FF Barcelona/NP ,/FF 1953/ZZ -/FF Barcelona/NP ,/FF 10_de_gener_de_2008/WW )/FF ,/FF fou/VS un/DI poeta/NC català/AQ ./FF
+Biografia/NP ./FF
+Es/P0 va/VA criar/VM dins/SP el/DA si/CS d'/SP una/DI familia/NC de/SP classe/NC baixa/AQ a/SP el/DA barri/NC de/SP el/DA Raval/NP ,/FF a/SP Barcelona/NP ./FF
+Durant/SP els/DA anys/NC 70/ZZ va/VA entrar_en_contacte/VM amb/SP el/DA moviment/NC contracultural/AQ underground/AQ de/SP la/DA ciutat/NC ./FF
+Poeta/NP autodidacta/NC ,/FF va/VA oferir/VM els/DA seus/PX primers/AO recitals/NC a/SP el/DA barri/NC de/SP Gràcia/NP ./FF
+Fou/VS membre/NC fundador/AQ de/SP el/DA grup/NC O_Així/NP ,/FF juntament/RG amb/SP Víctor_Esteban/NP ,/FF Carmel_Sancho/NP i/CC Enric_Casasses/NP ,/FF amb/SP qui/PR també/RG va/VA crear/VM la/DA revista/NC alternativa/AQ Full_d'_Artesà/NP ./FF
+Fou/VS un/DI de/SP els/DA impulsors/NC de/SP la/DA poesia/NC catalana/AQ alternativa/NC durant/SP els/DA anys/NC 80/ZZ ,/FF junt

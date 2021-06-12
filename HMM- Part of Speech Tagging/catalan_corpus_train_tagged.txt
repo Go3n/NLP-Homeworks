@@ -1808,4 +1808,82 @@ Discografia/NP ./FF
 Àlbums/NP d'/SP estudi/NC ./FF
 1997/ZZ Spoke/NP ;/FF 1998/ZZ The_Black_Light/NP ;/FF 2000/ZZ Hot_Rail/NP ;/FF 2003/ZZ Feast/NP of/NC Wire/NP ;/FF 2006/ZZ Garden_Ruin/NP ;/FF Altres/NP àlbums/NC ./FF
 1999/ZZ Road_Map/NP ;/FF 2000/ZZ Travelall/NP ;/FF 2001/ZZ Tete/NP a/SP Tete/NP ,/FF como/VM ABBC/NP con/NC Amor_Belhom_Duo/NP ;/FF 2001/ZZ Aerocalexico/NP ;/FF 2002/ZZ Scraping/NP ;/FF 2005/ZZ The_Book/NP and/AQ The_Canal/NP ;/FF 2007/ZZ Tool_Box/NP ;/FF EPs/NP ./FF
-2001/ZZ Even_
+2001/ZZ Even_My_Sure_Things_Fall_Through/NP ;/FF 2004/ZZ Convict_Pool/NP ;/FF 2004/ZZ Black_Heart/NP ;/FF 2005/ZZ In/NP the/AQ Reins/NP compartido/NC con/NC Iron_&_Wine/NP ;/FF DVD/NP ./FF
+2004/ZZ World_Drifts_In/NP :/FF Live/NP at/NC the/AQ Barbican/NP ;/FF Barreges/NP ./FF
+2001/ZZ "/FF Human_Calexico_Vocal_Version/NP "/FF Remezcla/NP de/SP la/DA canción/NC de/SP Goldfrapp/NP ;/FF Audio/NP //FF Vídeo/NP ./FF
+Ballad/NP of/NC Cable_Hogue/NP (/FF con/NC Françoiz_Breut/NP )/FF ;/FF Quattro/NP ;/FF Cruel/NP ;/FF Roka/NP (/FF amb/SP Amparanoia/NP )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Web/NP oficial/AQ Casadecalexico/NP (/FF anglès/NC )/FF ;/FF Myspace_de_Calexico/NP (/FF anglès/NC )/FF ;/FF
+Abella/NP és/VS un/PI de/SP els/DA nuclis/NC agregats/NC de/SP població/NC de/SP Vilallonga_de_Ter/NP a/SP la/DA comarca/NC de/SP el/DA Ripollès/NP ./FF
+Situat/VM a/SP uns/DI 1.250_metres/ZZ d'/SP alçada/NC a/SP la/DA vora/NC esquerra/AQ de/SP la/DA riera/NC d'/SP Abella/NP (/FF afluent/NC de/SP el/DA riu/NC Ter/NP )/FF ./FF
+L'/DA any/NC 2006/ZZ hi/PP havia/VA 49/ZZ habitants/NC ./FF
+La/DA població/NC es/P0 troba/VM a/SP els/DA peus/NC de/SP la/DA serra/NC de/SP Sant_Bernabé/NP ./FF
+Les/DA cases/NC estan/VM distribuïdes/VM de/SP manera/NC irregular/AQ i/CC separades/VM unes/DI de/SP les/DA altres/PI ./FF
+En/SP destaca/VM l'/DA església/NC romànica/AQ de/SP el/DA segle_XII/WW ,/FF santa/AQ Llúcia/NP ,/FF tot_i_que/CS a/SP dia/NC d'/SP avui/RG ha/VA patit/VM diverses/DI reformes/NC ./FF
+Igual/RG que/CS en/SP altres/DI poblacions/NC de/SP el/DA Ripollès/NP ,/FF una/DI part/NC de/SP l'/DA economia/NC de/SP fa/VM uns/DI anys/NC es/P0 basava/VM en/SP les/DA mines/NC ,/FF les/DA d'/SP Abella/NP ,/FF d'/SP antimoni/NC ./FF
+En/SP l'/DA actualitat/NC aquestes/DD mines/NC resten/VM tancades/NC ./FF
+El/DA 6_de_juny/WW se/P0 celebra/VM la/DA festa/NC major/AQ de/SP el/DA nucli/NC ./FF
+Mil/ZZ cretins/NC és/VS un/DI recull/NC de/SP contes/NC de/SP l'/DA escriptor/NC barceloní/AQ Quim_Monzó/NP aparegut/VM el/DA 2007/ZZ a/SP l'/DA editorial/NC Quaderns_Crema/NP ./FF
+Mil/ZZ cretins/NC va/VA aparèixer/VM poc/RG després/RG d'/SP un/DI discurs/NC brillant/AQ de/SP Monzó/NP en/SP la/DA inauguració/NC de/SP la/DA Fira_de_el_Llibre_de_Frankfurt/NP ./FF
+Es/P0 tracta/VM d'/SP un/DI recull/NC de/SP dinou/ZZ relats/NC dividit/NC en/SP dues/ZZ parts/NC ./FF
+A/SP la/DA primera/AO hi/PP ha/VA set/ZZ narracions/NC ,/FF més/RG llargues/AQ que/CS les/DA dotze/ZZ de/SP la/DA segona/AO part/NC ./FF
+En_general/RG els/DA temes/NC tractats/NC són/VS les/DA vivències/NC de/SP personatges/NC comuns/AQ ./FF
+Combina/VM la/DA narració/NC en/SP primera/AO i/CC tercera/AO persones/NC ,/FF i/CC de/SP nou/AQ ens/PP mostra/VM la/DA seva/PX capacitat/NC narrativa/AQ amb/SP l'/DA ús/NC de/SP múltiples/NC tècniques/AQ ./FF
+El/DA primer/AO conte/NC de/SP el/DA llibre/NC és/VS El/NP senyor/NC Beneset/NP (/FF on/PR observem/VM un/DI vell/NC que/PR es/P0 travesteix/VM en/SP una/DI residència/NC on/PR ningú/PI fa/VM cas/NC de/SP la/DA seva/PX condició/NC )/FF ./FF
+Les/DA residències/NC geriàtriques/AQ i/CC els/DA ancians/NC són/VS una/DI constant/NC en/SP el/DA recull/NC ./FF
+A/SP La/NP lloança/NC ,/FF un/DI escriptor/NC jove/NC ensabona/VM un/DI altre/PI de/SP consagrat/VM ,/FF però/CC les/DA seves/PX lloances/NC no/RN troben/VM la/DA reciprocitat/NC esperada/NC .../FF Qualsevol/DI temps/NC passat/NC és/VS el/DA retrat/NC (/FF àcid/NC i/CC en/SP poques/DI pàgines/NC )/FF d'/SP una/DI família/NC que/PR ja/RG té/VM poques/DI coses/NC a/SP dir/VM -se/P0 .../FF
+Crocodylus/NP és/VS un/DI gènere/NC de/SP la/DA subfamília/NC Crocodylinae/NP ./FF
+Espècies/NP ./FF
+Crocodylus/NP acutus/NC ;/FF Crocodylus/NP cataphractus/NC ;/FF Crocodylus/NP intermedius/NC ;/FF Crocodylus/NP johnsoni/VM ;/FF Crocodylus/NP mindorensis/NC ;/FF Crocodylus/NP moreletii/NC ;/FF Crocodylus/NP niloticus/NC ;/FF Crocodylus/NP novaeguineae/AQ ;/FF Crocodylus/NP palustris/NC ;/FF Crocodylus/NP porosus/NC ;/FF Crocodylus/NP rhombifer/VM ;/FF Crocodylus/NP siamensis/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP rèptils/NC ./FF ;/FF
+Peter_Stuyvesant/NP (/FF també/RG Pieter/NP o/CC Petrus/NP )/FF (/FF 1612/ZZ ;/FF Agost/WW 1672/ZZ )/FF va/VA servir/VM com/CS l'/PP ultim/VM holandès/AQ director/NC general/AQ de/SP la/DA colònia/NC de/SP Nova_Holanda/NP des_de/SP 1647/ZZ fins/SP que/PR va/VA ser/VS cedida/VM provisionalment/RG a/SP els/DA anglesos/NC a/SP el/DA 1664/ZZ ./FF
+És/VS una/DI de/SP les/DA grans/AQ figures/NC de/SP el/DA principi/NC de/SP la/DA història/NC de/SP Nova_York/NP ./FF
+Entre/SP els/DA èxits/NC de/SP Stuyvesant/NP com/CS a/SP director/NC general/AQ inclou/VM la/DA gran/AQ expansió/NC de/SP l'/DA assentament/NC de/SP Nou/AQ Amsterdam/NP (/FF després/RG anomenada/NC Nova_York/NP )/FF més/RG enllà/RG de/SP l'/DA extrem/NC sud/AQ de/SP Manhattan/NP ./FF
+Entre/SP els/DA projectes/NC construïts/VM per/SP l'/DA administració/NC de/SP Stuyvesant/NP la/DA muralla/NC de/SP Wall_Street/NP ,/FF el/DA canal/NC que/PR es/P0 va/VA convertir/VM en/SP Broad_Street/NP i/CC Broadway/NP ./FF
+Referències/NP ./FF
+;/FF ;/FF ;/FF Enllaços/NP externs/AQ ./FF
+Appleton/NP 's/P0 Biography/NP editat/VM per/SP Stanley_L._Klos/NP ;/FF
+El/DA mausoleu/NC de/SP Safdar_Jang/NP està/VM situat/VM a/SP el/DA sud/NC de/SP el/DA centre/NC antic/AQ de/SP Nova_Delhi/NP (/FF Índia/NP )/FF ./FF
+Safdar_Jang/NP (/FF 1722-1754/ZZ )/FF era/VS un/DI alt/AQ dignatari/NC d/AQ origen/NC persa/AQ de/SP la/DA cort/NC de/SP Mohammed_Shah/NP (/FF emperador/NC entre/SP el/DA 1720-1748/ZZ )/FF ./FF
+La/DA construcció/NC d/AQ aquest/DD mausoleu/NC fou/VS promoguda/VM per/SP el/DA fill/NC de/SP Safdar_Jang/NP ./FF
+Es/P0 tracta/VM d/RG una/DI de/SP les/DA darreres/AO expressions/NC d/AQ aquesta/DD mena/NC d/AQ edificis/NC d/AQ època/NC mogol/AQ ,/FF que/PR té/VM el/DA seu/PX origen/NC en/SP el/DA mausoleu/NC d'/SP Humayun/NP ./FF
+Com/CS aquell/DD edifici/NC ,/FF aquest/DD mausoleu/NC també/RG compta/VM amb/SP un/DI acurat/AQ jardí/NC a/SP el/DA que/PR hom/PI accedeix/VM per/SP una/DI portada/NC monumental/AQ ./FF
+L/NP edifici/NC principal/AQ és/VS de/SP planta/NC quadrada/VM ,/FF amb/SP iwans/AQ d/NC entrada/NC i/CC torres/NC a/SP els/DA vèrtexs/NC ./FF
+a/SP el/DA bell/AQ mig/NC hi/PP destaca/VM una/DI gran/AQ cúpula/NC bulbosa/AQ ,/FF característica/AQ d/RG aquest/DD tipus/NC d/AQ edificis/NC i/CC d/RG aquesta/DD regió/NC ./FF
+Bibliografia/NP ./FF
+Ernst_J._Grube/NP i/CC altres/DI ./FF
+Architecture/NP of/NC the/AQ Islamic_World/NP ./FF
+Thames/NP and/AQ Hudson/NP ./FF
+Londres/NP ,/FF 1995/ZZ ISBN/NP 0-500-27847-4/ZZ
+Crocodylus/NP acutus/NC és/VS una/DI espècie/NC de/SP rèptil/NC que/PR viu/VM a/SP l'/DA àrea/NC compresa/NC entre/SP les/DA costes/NC atlàntica/AQ i/CC pacífica/AQ de/SP el/DA sud/NC de/SP Mèxic/NP ,/FF Amèrica_Central/NP ,/FF nord/AQ de/SP Perú/NP i/CC Veneçuela/NP ,/FF Cuba/NP ,/FF Jamaica/NP ,/FF República_Dominicana/NP ,/FF Haití/NP i/CC Florida/NP (/FF Estats_Units/NP )/FF ./FF
+Referències/NP ./FF
+La/DA placa/NC aràbiga/AQ és/VS una/DI placa/NC tectònica/AQ que/PR ocupa/VM la/DA Península_Aràbiga/NP i/CC part/NC de/SP el/DA Pròxim_Orient/NP ./FF
+La/DA seva/PX superfície/NC és/VS de/SP 0/ZZ '/FF 120/ZZ 82_estereoradiants/ZZ ./FF
+Amb/SP més/RG detall/NC ,/FF cobreix/VM :/FF la/DA totalitat/NC de/SP la/DA península/NC aràbiga/AQ i/CC de/SP Mesopotàmia/NP i/CC el/DA sud-est/NC d'/SP Anatòlia/NP ;/FF l'/DA est/NC de/SP la/DA Mar_Roja/NP i/CC la/DA Depressió_d'_Afar/NP ;/FF el/DA nord/NC de/SP el/DA Golf_d'_Aden/NP ,/FF el/DA nord-oest/NC de/SP el/DA Mar_d'_Aràbia/NP i/CC el/DA Golf_Pèrsic/NP ./FF ;/FF A/NP certes/DI zones/NC de/SP Turquia/NP ,/FF on/PR es/P0 troba/VM el/DA límit/NC entre/SP aquesta/DD placa/NC i/CC l'/DA eurasiàtica/AQ ,/FF es/P0 produeixen/VM freqüents/AQ terratrèmols/NC ./FF
+En/SP temps/NC recents/AQ dins/SP una/DI escala/NC geològica/AQ ,/FF la/DA separació/NC d'/SP aquesta/DD placa/NC i/CC la/DA placa/NC africana/AQ va/VA crear/VM un/DI nou/AQ espai/NC que/PR va/VA ser/VS ocupat/VM per/SP la/DA Mar_Roja/NP ./FF
+Les/DA plaques/NC limítrofes/AQ són/VS :/FF a/SP el/DA nord/NC ,/FF la/DA placa/NC eurasiàtica/AQ ;/FF a/SP el/DA sur/VM ,/FF la/DA placa/NC africana/AQ ;/FF A/NP l'/DA est/NC ,/FF la/DA placa/NC índia/AQ i/CC la/DA placa/NC eurasiàtica/AQ ;/FF A/NP l'/DA oest/NC ,/FF la/DA placa/NC africana/AQ i/CC la/DA placa/NC eurasiàtica/AQ ;/FF Vegeu/NP també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Crocodylus/NP intermedius/NC és/VS una/DI espècie/NC de/SP rèptil/NC que/PR viu/VM a/SP a/SP el/DA nord/NC de/SP Sud-Amèrica/NP ./FF
+Referències/NP ./FF
+La/DA Football_Association_Community_Shield/NP (/FF antigament/RG Charity_Shield/NP )/FF és/VS un/DI trofeu/NC anual/AQ jugat/NC a/SP Anglaterra/NP ,/FF on/PR juguen/VM el/DA campió/NC de/SP la/DA Premier_League/NP i/CC la/DA FA_Cup/NP de/SP la/DA passada/NC temporada/NC ,/FF seria/VS la/DA supercopa/NC d'/SP Anglaterra/NP ./FF
+Si/CS un/DI equip/NC fa/VM un/DI doblet/NC (/FF la/DA Premier/NP i/CC la/DA Copa/NP )/FF ,/FF llavors/RG es/P0 juga/VM amb/SP el/DA segon/AO classificat/VM de/SP la/DA lliga/NC ./FF
+El/DA partit/NC es/P0 juga/VM a/SP el/DA començament/NC de/SP la/DA temporada/NC ,/FF i/CC tradicionalment/RG es/P0 juga/VM a/SP l'/DA Estadi_de_Wembley/NP ./FF
+Durant/SP el/DA temps/NC de/SP la/DA seva/PX renovació/NC ,/FF 2000/ZZ a/SP 2007/ZZ ,/FF es/P0 disputà/VM a/SP el/DA Millennium_Stadium_de_Cardiff/NP ./FF
+Història/NP ./FF
+La/DA copa/NC es/P0 va/VA jugar/VM per/SP primera/AO vegada/NC la/DA temporada/NC 1908-1909/ZZ ,/FF reemplaçant/VM la/DA Sheriff/NP of/NC London_Charity_Shield/NP ,/FF que/PR es/P0 començà/VM a/SP jugar/VM des_de/SP 1898-99/ZZ (/FF encara/RG que/CS la/DA Sheriff/NP of/NC London_Charity_Shield/NP reaparegué/VM després/RG en/SP dues/ZZ ocasions/NC a/SP el/DA costat/NC de/SP la/DA Charity_Shield/NP )/FF ./FF
+Els/DA partits/NC eren/VS entre/SP professionals/AQ i/CC amateurs/AQ ./FF
+El/DA primer/AO partit/NC va/VA ser/VS entre/SP el/DA Manchester_United/NP (/FF professionals/NC )/FF i/CC el/DA Queens_Park_Rangers/NP (/FF amateurs/NC )/FF ./FF
+La/DA competició/NC no/RN era/VS molt/RG considerada/VM ,/FF els/DA jocs/NC eren/VS informals/AQ ,/FF encara/RG que/CS els/DA equips/NC es/P0 preparaven/VM molt/RG per/SP a/SP el/DA partit/NC ./FF
+Després/RG ,/FF els/DA partits/NC de/SP professionals/NC contra/SP amateurs/NC va/VA ser/VS rebutjat/VM ,/FF i/CC el/DA format/NC de/SP la/DA competició/NC gradualment/RG va/VA evolucionar/VM en/SP partits/NC normals/AQ entre/SP els/DA guanyadors/NC de/SP la/DA lliga/NC i/CC la/DA copa/NC ./FF
+Encara/RG que/CS va/VA haver/VA excepcions/NC ,/FF com/CS la/DA shield/NC de/SP 1950/ZZ ,/FF on/PR van/VA jugar/VM la/DA selecció/NC d'/SP Anglaterra_de_la_Copa_Mundial/NP contra/SP el/DA guanyador/NC de/SP la/DA Copa/NP ,/FF que/PR havia/VA fet/VM un/DI tour/NC per/SP el/DA Canadà/NP en/SP aquells/DD moments/NC ./FF
+La/DA data/NC de/SP el/DA joc/NC va/VA ser/VS moguda/NC a/SP el/DA començament/NC de/SP la/DA temporada/NC el/DA 1959/ZZ ,/FF i/CC el/DA 1974/ZZ el/DA secretari/NC de/SP la/DA FA/NP ,/FF Ted_Croker/NP ,/FF va/VA crear/VM el/DA format/NC actual/AQ amb/SP els/DA partits/NC sempre/RG sent/VM jugats/NC entre/SP el/DA guanyador/NC de/SP la/DA lliga/NC i/CC la/DA copa/NC a/SP l'/DA estadi/NC nacional/AQ i/CC els/DA ingressos/NC destinats/VM a/SP caritat/NC ./FF
+El/DA partit/NC és/VS decidit/VM en/SP el/DA mateix/DI dia/NC amb/SP temps/NC extra/AQ i/CC tirs/NC de/SP penals/NC en/SP cas/NC d'/SP empat/NC ,/FF encara/RG que/CS entre/SP 1975/ZZ i/CC 1993/ZZ es/P0 compartí/VM el/DA trofeu/NC si/CS s'/P0 empatava/VM ./FF
+Amb/SP la/DA formació/NC d'/SP una/DI nova/AQ lliga/NC ,/FF la/DA Premier_League/NP ,/FF la/DA shield/NC va/VA ser/VS entre/SP el/DA guanyador/NC de/SP la/DA Premier_League/NP i/CC la/DA FA_Cup/NP ,/FF des_de/SP 1993/ZZ ./FF
+La/DA competició/NC va/VA ser/VS renombrada/VM com/CS la/DA Community_Shield/NP l'/DA any/NC 2002/ZZ ./FF
+Una/DI petita/AQ quantitat/NC és/VS destinada/VM a/SP la/DA caritat/NC ,/FF mentre_que/CC la/DA resta/NC és/VS per/SP a/SP reformar/VM la/DA competició/NC ./FF
+L'/DA equip/NC més/RG reeixit/VM en/SP la/DA competició/NC és/VS el/DA Manchester_United/NP ,/FF guanyador/AQ en/SP 16/ZZ ocasionis/VM ./FF
+La/DA major/AQ quantitat/NC de/SP gols/NC va/VA ser/VS el/DA 1911/ZZ ,/FF quan/CS el/DA Manchester_United/NP golejà/VM 8-4/ZZ el/DA Swindon_Town/NP ./FF
+Historial/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Històric_de_la_Community_Shield/NP (/FF web/NC de/SP la/DA FA/NP )/FF ;/FF
+Estats/NC sobirans/AQ ./FF
+A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Alemanya_Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF Regne_d'_Aràbia_Saudita/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP (/FF fins/SP l/NC '/FF 1_de_juliol/WW )/FF ;/FF Estat_Federal_d'_Àustria/NP (/FF des_de/SP l/NC '/FF 1_de_juliol/WW )/FF ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF República_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_Finlàndia/NP ;/FF República_de_França/NP ;/FF G._República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF República_Hel·lènica/NP ;/FF República_d'_Hondures/NP ;/FF Regne_d'_Hongria/NP ;/FF I._Regne_Mutawakkilita_de_el_Iemen/NP ;/FF Regne_d'_Iraq/NP ;/FF Estat_Lliure_d'_Irlanda/NP ;/FF Regne_d'_Islàndia/NP ;/FF Regne_d'_Itàlia/NP ;/FF Regne_de_Iugoslàvia/NP ;/FF J._Imperi_de_el_Japó/NP ;/FF L./NP -/FF República_de_Letònia/NP ;/FF República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF República_de_Lituània/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF República_Popular_de_Mongòlia/NP ;/FF N._Regne_de_el_Nepal/NP ;/FF Newfoundland_Domini_de_Newfoundland/NP ;/FF República_de_Nicaragua/NP ;/FF Regne_de_Noruega/NP ;/FF -/FF Domini_de_Nova_Zelanda/NP ;/FF P._Regne_de_els_Països_Baixos/NP ;/FF República_de_el_Panamà/NP ;/FF República_de_el_Paraguai/NP ;/FF Pèrsia_Imperi_Persa/NP ;/FF República_Peruana/NP ;/FF República_de_Polònia/NP ;/FF República_Portuguesa/NP ;/FF R._Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda_de_el_Nord/NP ;/FF Regne_de_Romania/NP ;/FF S._Repúbli

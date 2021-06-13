@@ -2037,4 +2037,75 @@ Es/P0 va/VA criar/VM dins/SP el/DA si/CS d'/SP una/DI familia/NC de/SP classe/NC
 Durant/SP els/DA anys/NC 70/ZZ va/VA entrar_en_contacte/VM amb/SP el/DA moviment/NC contracultural/AQ underground/AQ de/SP la/DA ciutat/NC ./FF
 Poeta/NP autodidacta/NC ,/FF va/VA oferir/VM els/DA seus/PX primers/AO recitals/NC a/SP el/DA barri/NC de/SP Gràcia/NP ./FF
 Fou/VS membre/NC fundador/AQ de/SP el/DA grup/NC O_Així/NP ,/FF juntament/RG amb/SP Víctor_Esteban/NP ,/FF Carmel_Sancho/NP i/CC Enric_Casasses/NP ,/FF amb/SP qui/PR també/RG va/VA crear/VM la/DA revista/NC alternativa/AQ Full_d'_Artesà/NP ./FF
-Fou/VS un/DI de/SP els/DA impulsors/NC de/SP la/DA poesia/NC catalana/AQ alternativa/NC durant/SP els/DA anys/NC 80/ZZ ,/FF junt
+Fou/VS un/DI de/SP els/DA impulsors/NC de/SP la/DA poesia/NC catalana/AQ alternativa/NC durant/SP els/DA anys/NC 80/ZZ ,/FF juntament/RG amb/SP Enric_Casasses/NP o/CC Jaume_Sisterna/NP ,/FF entre/SP d'/SP altres/PI ./FF
+La/DA seva/PX poesia/NC és/VS molt/RG personal/AQ i/CC s'/P0 obre/VM a/SP un/DI univers/NC propi/AQ ./FF
+Ha/VA influenciat/VM molts/PI de/SP els/DA poetes/NC contemporanis/AQ ./FF
+El/DA Festival_de_Polipoesia/NP de/SP el/DA 2007/ZZ es/P0 va/VA organitzar/VM entorn/NC de/SP la/DA seva/PX figura/NC ./FF
+Va/VA morir/VM a/SP causa/NC d'/SP una/DI malaltia/NC degenerativa/AQ ./FF
+Obres/NC representatives/AQ ./FF
+1996/ZZ -/FF Llibre/NC de/SP el/DA fred/NC -/FF Editorial_Rsalvo/NP ;/FF 1998/ZZ -/FF Abriga/VM 't/PP qu'estic/AQ sol/NC ,/FF Editorial_Aire/NP ;/FF 1999/ZZ -/FF Atxuuús/NP !/FF
+Amén/II ./FF
+Editorial_La_Cèl·lula/NP ;/FF 1999/ZZ -/FF Escrits/NP ./FF
+Edicions/NP 62/ZZ -/FF Empúries/NP ;/FF 2001/ZZ -/FF Llibrot/NP ./FF
+Editorial_Llibres_de_el_Segle/NP ./FF
+Referències/NP ./FF
+Comentari/NP a/SP XTEC/NP ;/FF Article/NP publicat/VM a/SP l'/DA Avui/NP ;/FF Noticia/NP a/SP ELPAIS/NP ;/FF
+Onomàstica/NP :/FF Frínic/NP (/FF general/NC )/FF ,/FF general/AQ atenenc/NC ;/FF Frínic/NP (/FF poeta/NC tràgic/AQ )/FF ,/FF poeta/NC atenenc/AQ ;/FF Frínic/NP (/FF actor/NC )/FF ,/FF actor/NC tràgic/AQ grec/NC ;/FF Frínic/NP (/FF poeta/NC còmic/NC )/FF ,/FF poeta/NC còmic/AQ grec/NC ;/FF Frínic/NP (/FF escriptor/NC )/FF ;/FF
+Frínic/NP (/FF Phrynicus/NP ,/FF )/FF fou/VS un/DI general/AQ atenenc/NC ,/FF fill/NC d'/SP Estratònides/NP ./FF
+El/DA 412/ZZ aC/NC fou/VS enviat/VM amb/SP altres/DI dos/ZZ generals/AQ ,/FF amb/SP una/DI flota/NC de/SP 40/ZZ vaixells/NC ,/FF a/SP la/DA costa/NC de/SP l'/DA Àsia_Menor/NP ;/FF les/DA tropes/NC van/VA acampar/VM a/SP el/DA territori/NC de/SP Milet/NP i/CC en/SP la/DA batalla/NC que/PR va/VA seguir/VM els/DA atenencs/NC foren/VS victoriosos/AQ ./FF
+Poc/RG després/RG va/VA arribar/VM una/DI flota/NC espartana/AQ i/CC dos/ZZ de/SP els/DA generals/AQ atenencs/NC volien/VM arriscar/VM un/DI enfrontament/NC ,/FF però/CC Frínic/NP els/PP va/VA dissuadir/VM ./FF
+El/DA 411/ZZ aC/NC Alcibíades/NP va/VA oferir/VM a/SP Samos/NP la/DA protecció/NC contra/SP els/DA perses/NC si/CS s'/P0 establia/VM a/SP l'/DA illa/NC un/DI govern/NC oligàrquic/AQ en_lloc_de/SP la/DA democràcia/NC ;/FF Frínic/NP va/VA intentar/VM convèncer/VM a/SP els/DA illencs/NC de/SP no/RN escoltar/VM a/SP Alcibíades/NP ,/FF però/CC el/DA partit/NC oligàrquic/AQ dirigit/VM per/SP Pisandre_d'_Acarnes/NP va/VA enviar/VM una/DI ambaixada/NC a/SP Atenes/NP ./FF
+Frínic/NP ,/FF que/PR temia/VM per/SP la/DA seva/PX seguretat/NC en_cas_de/SP què/PT Alcibíades/NP fos/VS restaurat/VM ,/FF va/VA escriure/VM a/SP Astioc/NP ,/FF informant/VM -lo/PP de/SP les/DA maquinacions/NC d'/SP Alcibíades/NP ;/FF Astioc/NP va/VA advertir/VM a/SP Alcibíades/NP i/CC a/SP Tisafernes/NP ,/FF i/CC aquest/DD va/VA informar/VM a/SP Atenes/NP de/SP la/DA traïció/NC de/SP Frínic/NP i/CC va/VA demanar/VM la/DA seva/PX execució/NC ./FF
+Abans/RG d'/SP això/PD Frínic/NP havia/VA escrit/VM a/SP Astioc/NP per/SP segona/AO vegada/NC i/CC li/PP oferia/VM entregar/VM totes/DI les/DA seves/PX forces/NC a/SP el/DA espartà/NC ,/FF el/DA que/PR va/VA reforçar/VM llavors/RG els/DA càrrecs/NC ;/FF però/CC Frínic/NP va/VA advertir/VM que/CS els/DA enemics/NC es/P0 preparaven/VM per/SP atacar/VM el/DA seu/PX campament/NC i/CC que/CS tota/DI l'/DA operació/NC era/VS un/DI muntatge/NC ./FF
+Finalment/RG Pisandre/NP es/P0 va/VA aliar/VM a/SP Frínic/NP i/CC aquest/DD va/VA entrar/VM després/RG en/SP aliança/NC també/RG amb/SP Antífon/NP i/CC Teràmenes/NP i/CC va/VA prendre_part/VM activa/AQ en/SP la/DA revolució/NC que/PR va/VA portar/VM a/SP l'/DA establiment/NC de/SP el/DA govern/NC oligàrquic/AQ de/SP el/DA Quatre-cents/ZZ a/SP l'/DA illa/NC ./FF
+Frínic/NP ,/FF Antífon/NP i/CC altres/DI foren/VS enviats/VM a/SP Esparta/NP per/SP negociar/VM un/DI tractat/NC ./FF
+a/SP el/DA seu/PX retorn/NC Frínic/NP fou/VS assassinat/VM a/SP l'/DA àgora/NC per/SP un/DI jove/NC atenenc/AQ ajudat/VM per/SP un/DI argiu/NC ;/FF el/DA primer/AO es/P0 va/VA escapar/VM però/RG l'/DA argiu/NC fou/VS agafat/VM i/CC sota/SP tortura/NC va/VA revelar/VM que/CS l'/DA assassinat/NC era/VS una/DI conspiració/NC democràtica/AQ ./FF
+Frínic/NP (/FF Phrynicus/NP ,/FF )/FF fill/NC de/SP Polifradmó/NP o/CC de/SP Minires/NP ,/FF fou/VS un/DI poeta/NC atenenc/AQ a/SP el/DA que/PR s'/P0 atribueix/VM la/DA invenció/NC de/SP la/DA tragèdia/NC ./FF
+Fou/VS suposat/VM deixeble/NC de/SP Tespis/NP i/CC seria/VM anterior/AQ a/SP Èsquil/NP sent/VM esmentat/VM com/CS encara/VM florint/VM vers/SP el/DA 483/ZZ aC/NC (/FF olimpíada/NC 74/ZZ )/FF ./FF
+Va/VA guanyar/VM un/DI premi/NC el/DA 511/ZZ aC/NC ,/FF 24/ZZ anys/NC després/RG que/CS Tespis/NP (/FF que/PR el/PP va/VA guanyar/VM el/DA 535/ZZ aC/NC )/FF ,/FF dotze/ZZ anys/NC després/RG de/SP Queril_d'_Atenes/NP (/FF 523/ZZ aC/NC )/FF ,/FF i/CC dotze/ZZ anys/NC abans/RG que/CS Èsquil/NP (/FF 499/ZZ aC/NC )/FF ./FF
+Va/VA morir/VM vers/SP el/DA 476/ZZ aC/NC probablement/RG a/SP la/DA cort/NC d'/SP Hieró_I_de_Siracusa/NP on/PR s'/P0 havia/VA traslladat/VM ,/FF igual/RG com/CS d'/SP altres/DI poetes/NC ./FF
+A/SP la/DA majoria/NC de/SP els/DA relats/NC antics/AQ se/P0 li/PP assigna/VM el/DA lloc/NC principal/AQ entre/SP els/DA autors/NC de/SP tragèdia/NC ,/FF només/RG per/SP darrera/AO de/SP Tespis/NP ./FF
+Va/VA introduir/VM a/SP les/DA seves/PX obres/NC millores/NC externes/AQ i/CC mecàniques/AQ especialment/RG la/DA introducció/NC de/SP màscares/NC per/SP les/DA femelles/NC representades/VM a/SP el/DA drama/NC ./FF
+El/DA fet/NC de/SP ser/VS l'/DA inventor/NC de/SP les/DA tragèdies/NC se/P0 li/PP assigna/VM tant/RG a/SP ell/PP com/CS a/SP Tespis/NP ./FF
+Suides/NP dona/NC una/DI llista/NC d'/SP obres/NC seves/PX :/FF ;/FF A/NP la/DA llista/NC de/SP Suides/NP no/RN consta/VM l'/DA obra/NC Phoenissae/NP ,/FF una/PI de/SP les/DA més/RG importants/AQ sinó/CC la/DA que/PR més/RG ./FF
+Frínic/NP (/FF Phrynicus/NP ,/FF )/FF fou/VS un/DI actor/NC tràgic/AQ grec/AQ fill/NC de/SP Corocles/NP ./FF
+Encara/RG que/CS ha/VA estat/VS confós/VM amb/SP el/DA poeta/NC tràgic/NC (/FF per_exemple/RG per/SP Suides/NP )/FF són/VS persones/NC deferents/AQ ja_que/CS ambdós/PI són/VS esmentats/VM a/SP l'/DA Escolàstica_d'_Aristòfanes/NP (/FF on/PR s'/P0 esmenten/VM a/SP el/DA poeta/NC tràgic/AQ ,/FF a/SP el/DA poeta/NC còmic/AQ ,/FF a/SP el/DA actor/NC tràgic/AQ i/CC a/SP el/DA general/AQ )/FF ./FF
+L'/DA esmenta/VM també/RG Andòcides/NP ./FF
+Alessandro_Pertini/NP (/FF Stella/NP ,/FF Savona/NP ,/FF Ligúria/NP ,/FF 25_de_setembre_de_1896/WW -/FF Roma/NP ,/FF 24_de_febrer_de_1990/WW )/FF ,/FF es/P0 pronuncia/VM ,/FF fou/VS un/DI polític/AQ ,/FF advocat/NC i/CC periodista/NC italià/AQ ,/FF setè/AO president/NC de/SP la/DA República_Italiana/NP des_de/SP 1978/ZZ a/SP 1985/ZZ ./FF
+Va/VA pertànyer/VM des_de/SP la/DA seva/PX joventut/NC a/SP el/DA Partit_Socialista_Italià/NP ./FF
+Condemnat/VM a/SP cinc/ZZ anys/NC d'/SP exili/NC per/SP el/DA règim/NC feixista/AQ de/SP Benito_Mussolini/NP ,/FF a/SP el/DA retornar/VM a/SP Itàlia/NP va/VA ocupar/VM un/DI paper/NC fonamental/AQ en/SP la/DA Resistència_Italiana/NP ,/FF en_particular/RG amb/SP la/DA seva/PX crida/NC a/SP la/DA vaga/NC general/AQ de/SP el/DA 25_d'_abril_de_1945/WW a/SP Milà/NP ,/FF en/SP el/DA marc/NC d'/SP una/DI revolta/NC generalitzada/VM contra/SP l'/DA ocupació/NC alemanya/AQ de/SP el/DA nord/NC d'/SP Itàlia/NP ,/FF quan/CS el/DA centre-sud/NC ja/RG havia/VA estat/VS alliberat/VM per/SP les/DA forces/NC aliades/NC que/PR avançaven/VM cap/NC a/SP el/DA nord/NC després/RG de/SP el/DA seu/PX desembarcament/NC a/SP Sicília/NP ./FF
+Va/VA participar/VM de/SP manera/NC decisiva/AQ en/SP la/DA Constitució_de_la_República_Italiana/NP com/CS referent/NC inqüestionable/AQ de/SP els/DA socialistes/NC ,/FF juntament/RG amb/SP altres/DI destacats/VM polítics/AQ de/SP la/DA resta/NC de/SP forces/NC oposades/VM a/SP el/DA règim/NC precedent/AQ (/FF democristians/NC ,/FF comunistes/NC ,/FF republicans/NC i/CC membres/NC de/SP el/DA Partit_d'_Acció/NP )/FF ./FF
+Va/VA ocupar/VM durant/SP la/DA resta/NC de/SP la/DA seva/PX vida/NC importants/AQ càrrecs/NC institucionals/AQ ,/FF i/CC fou/VS elegit/NC el/DA 1968/ZZ President_de_la_Cambra_de_Diputats/NP ./FF
+Una/DI amplíssima/AQ majoria/NC de/SP el/DA Parlament_d'_Itàlia/NP el/PP va/VA escollir/VM setè/AO President_de_la_República/NP ,/FF des_de/SP el/DA 8_de_juliol_de_1978/WW fins/SP a/SP el/DA 3_de_juliol_de_1985/WW ./FF
+Va/VA morir/VM en/SP el/DA seu/PX domicili/NC romà/AQ el/DA 24_de_febrer_de_1990/WW ./FF
+Biografia/NP ./FF
+La/DA joventut/NC ./FF
+Pertanyia/VM a/SP una/DI família/NC acomodada/VM ja_que/CS el/DA seu/PX pare/NC era/VS terratinent/NC ./FF
+Tenia/VM quatre/ZZ germans/NC :/FF el/DA primogènit/NC Luigi/NP ,/FF pintor/NC ;/FF la/DA seva/PX germana/NC Marion/NP ,/FF que/PR es/P0 va/VA casar/VM amb/SP un/DI diplomàtic/NC italià/AQ ;/FF Giuseppe/NP ,/FF oficial/AQ de/SP carrera/NC i/CC finalment/RG Eugenio/NP ,/FF deportat/NC i/CC tràgicament/RG desaparegut/NC en/SP el/DA Camp/NP de/SP concentració/NC de/SP Flossenbürg/NP el/DA 1945/ZZ ./FF
+Pertini/NP ,/FF molt/RG lligat/NC a/SP la/DA seva/PX mare/NC ,/FF fa/VM els/DA seus/PX estudis/NC intern/AQ en/SP el/DA col·legi/NC Don_Bosco/NP de/SP els/DA salesians/NC a/SP Varazze/NP ./FF
+Prosseguí/VM la/DA seva/PX educació/NC en/SP l'/DA institut/NC Gabriello_Chiabrera_de_Savona/NP ,/FF on/PR va/VA tenir/VM com/CS a/SP professor/NC a/SP el/DA filòsof/NC Adelchi_Baratono/NP ,/FF socialista/AQ reformista/NC i/CC col·laborador/NC de/SP la/DA revista/NC Critica_Sociale/NP (/FF Crítica_Social/NP )/FF de/SP Filippo_Turati/NP ,/FF destacat/VM ideòleg/NC socialista/AQ ./FF
+Baratono/NP descobrí/VM a/SP Pertini/NP el/DA socialisme/NC i/CC l'/DA introduí/VM en/SP els/DA ambients/NC de/SP el/DA moviment/NC obrer/AQ ./FF
+Després/RG de/SP el/DA seu/PX pas/NC per/SP l'/DA institut/NC ,/FF s'/P0 inscriví/VM en/SP la/DA Universitat_de_Gènova/NP ,/FF on/PR es/P0 graduà/VM en/SP jurisprudència/NC ./FF
+En/SP 1917/ZZ el/DA jove/NC Pertini/NP marxà/VM a/SP el/DA front/NC com/CS a/SP alferes/NC de/SP complement/NC i/CC el/DA destinaren/VM a/SP el/DA front/NC de/SP l'/DA Isonzo/NP ./FF
+Allí/RG es/P0 distingí/VM per/SP els/DA seus/PX actes/NC d'/SP heroisme/NC :/FF va/VA ser/VS recompensat/VM amb/SP la/DA Medalla/NP de/SP plata/NC a/SP el/DA Valor_Militar/NP per/SP haver/VA dirigit/VM ,/FF l'/DA agost_de_1917/WW un/DI assalt/NC durant/SP la/DA batalla/NC de/SP la/DA Bainsizza/NP ./FF
+No/RN obstant/VM això/PD ,/FF no/RN li/PP va/VA ser/VS entregada/VM la/DA seva/PX medalla/NC després/RG d'/SP arribar/VM a/SP el/DA poder/VM el/DA feixisme/NC ,/FF a_causa_de/SP la/DA seva/PX militància/NC socialista/AQ ./FF
+Un/DI any/NC després/RG de/SP ser/VS cridat/VM a/SP files/NC ,/FF el/DA 1918/ZZ ,/FF ingressa/VM en/SP el/DA Partit_Socialista_Italià/NP ,/FF a/SP el/DA qual/PR militaria/VM tota/DI la/DA seva/PX vida/NC ,/FF excepte/SP breus/AQ períodes/NC ./FF
+En/SP aquell/DD temps/NC es/P0 trasllada/VM a/SP Florència/NP ,/FF a/SP viure/VM amb/SP el/DA seu/PX germà/NC Luigi/NP i/CC a/SP estudiar/VM a/SP l'/DA Institut_Universitari_Cesare_Alfieri/NP ,/FF on/PR aconseguí/VM el/DA seu/PX segon/AO grau/NC en/SP 1924/ZZ ,/FF aquesta/DD vegada/NC en/SP ciències/NC polítiques/AQ ./FF
+En/SP Florència/NP ,/FF després/RG de/SP l'/DA inici/NC de/SP el/DA feixisme/NC a/SP Itàlia/NP ,/FF entra_en_contacte/VM amb/SP moviments/NC democràtics/AQ i/CC socialistes/AQ i/CC coneix/VM Gaetano_Salvemini/NP ,/FF els/DA germans/NC Rosselli/NP i/CC Ernesto_Rossi/NP ,/FF tots/DI ells/PP polítics/AQ antifeixistes/NC ./FF
+En/SP aquest/DD període/NC ,/FF Pertini/NP s'/P0 adherí/VM a/SP el/DA moviment/NC antifeixista/AQ Italia_Libera_El/NP antifascismo/NC ./FF
+En/SP 1922/ZZ el/DA Partit_Nacional_Feixista_de_Mussolini/NP arribava/VM a/SP el/DA poder/NC i/CC progressivament/RG els/DA partits/NC polítics/AQ eren/VS prohibits/VM ./FF
+A/SP més/RG ,/FF els/DA militants/NC d'/SP esquerra/NC serien/VS perseguits/VM i/CC sovint/RG assassinats/NC ./FF
+El/DA Partit_Socialista/NP va/VA ser/VS un/DI de/SP els/DA grups/NC més/RG perseguits/VM ,/FF cosa/NC que/PR explica/VM l'/DA absolut/AQ antifeixisme/NC de/SP Pertini/NP ./FF
+La/DA primera/AO condemna/NC ./FF
+Hostil/NP des_de/SP l'/DA inici/NC de/SP el/DA règim/NC feixista/AQ ,/FF s'/P0 inscriví/VM en/SP el/DA Partit_Socialista_Unitari/NP després/RG de/SP l'/DA assassinat/NC de/SP el/DA diputat/NC socialista/AQ Giacomo_Matteotti/NP ./FF
+Pertini/NP ,/FF per/SP la/DA seva/PX activitat/NC política/AQ va/VA ser/VS objecte/NC d'/SP agressions/NC habituals/AQ de/SP els/DA squadristi/VM feixistes/AQ ./FF
+El/DA 25_de_maig_de_1925/WW fou/VS detingut/VM per/SP distribuir/VM un/DI pamflet/NC clandestí/AQ ,/FF Sotto/NP il/AQ barbaro/NC dominio/NC fascista/AQ (/FF Sota/SP el/DA bàrbar/AQ domini/NC feixista/AQ )/FF ,/FF en/SP el/DA qual/PR denunciava/VM la/DA responsabilitat/NC de/SP la/DA monarquia/NC en/SP la/DA instauració/NC de/SP el/DA règim/NC feixista/AQ ./FF
+Fou/VS acusat/NC d'/SP instigació/NC a/SP l'/DA odi/NC entre/SP les/DA classes/NC socials/AQ ,/FF segons/SP l'/DA article/NC 120/ZZ de/SP el/DA codi/NC penal/AQ ./FF
+Pertini/NP es/P0 va/VA declarar/VM l'/DA únic/AQ responsable/NC de/SP la/DA publicació/NC i/CC disposat/VM a/SP continuar/VM la/DA lluita/NC antifeixista/AQ per/SP el/DA socialisme/NC i/CC la/DA llibertat/NC ,/FF malgrat/SP les/DA condemnes/NC que/PR li/PP imposessin/VM ./FF
+El/DA 3_de_juny_de_1925/WW va/VA ser/VS definitivament/RG condemnat/VM a/SP vuit_mesos/ZZ de/SP presó/NC i/CC a/SP pagar/VM una/DI multa/NC ./FF
+No/RN obstant/VM això/PD ,/FF gens/RG més/RG quedar/VM en/SP llibertat/NC va/VA prosseguir/VM amb/SP la/DA seva/PX lluita/NC ./FF
+En/SP novembre_de_1926/WW ,/FF després/RG de/SP el/DA fallit/NC atemptat/NC d'/SP Anteo_Zamboni/NP contra/SP Mussolini/NP ,/FF es/P0 va/VA deslligar/VM una/DI brutal/AQ repressió/NC davant/SP els/DA antifascistes/AQ ./FF
+Davant/SP el/DA clima/NC de/SP violència/NC ,/FF Pertini/NP fuig/VM de/SP Savona/NP ,/FF dirigint/VM -se/P0 a/SP Milà/NP ./FF
+Poc/RG després/RG ,/FF el/DA 4_de_desembre_de_1926/WW ,/FF amb/SP la/DA proclamació/NC de/SP les/DA lleis/NC excepcionals/AQ ,/FF fou/VS condemnat/VM a/SP cinc/ZZ anys/NC de/SP presó/NC per/SP la/DA seva/PX oposició/NC a/SP el/DA règim/NC ,/FF a/SP l'/DA illa/NC de/SP Santo_Stefano/NP ./FF
+L'/DA exili/NC ./FF
+Per/SP a/SP escapar/VM de

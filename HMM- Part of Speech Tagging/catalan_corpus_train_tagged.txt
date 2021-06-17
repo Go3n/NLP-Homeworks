@@ -2323,4 +2323,76 @@ Palmarès/NP ./FF
 1947/ZZ ./FF 34è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1949/ZZ ./FF 18è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1949/ZZ ./FF
 Abandona/VM (/FF 5a/ZZ etapa/NC )/FF ;/FF Enllaços/NP externs/AQ ./FF
 Palmarès_d'_Edouard_Klabinski/NP ;/FF
-Giovanni_Leone/NP (/FF Nàpols/NP ,/FF 3_de_novembre_de_1908/WW -/FF 9_de_novembre_de_2001/WW )/FF ,/FF polític/NC italià/AQ me
+Giovanni_Leone/NP (/FF Nàpols/NP ,/FF 3_de_novembre_de_1908/WW -/FF 9_de_novembre_de_2001/WW )/FF ,/FF polític/NC italià/AQ membre/NC de/SP la/DA democràcia/NC cristiana/AQ ./FF
+Va/VA ser/VS primer/AO ministre/NC d'/SP Itàlia/NP des_de/SP el/DA 21_de_juny_de_1963/WW fins/SP a/SP el/DA 5_de_novembre_de_1963/WW i/CC va/VA tornar/VM a/SP ocupar/VM la/DA prefectura/NC de/SP el/DA govern/NC italià/AQ des_de/SP el/DA 24_de_juny_de_1968/WW fins/SP a/SP el/DA 19_de_novembre_de_1968/WW ./FF
+Des_de/SP 1971/ZZ a/SP 1978/ZZ va/VA ser/VS el/DA sisè/AO titular/NC de/SP la/DA presidència/NC de/SP la/DA República/NP italiana/AQ ./FF
+Es/P0 va/VA veure/VM embullat/VM en/SP una/DI controvèrsia/NC quan/CS ,/FF visitant/NC Nàpols/NP durant/SP un/DI brot/NC de/SP còlera/NC ./FF
+Mentre/CS saludava/VM amb/SP una/DI de/SP les/DA seves/PX mans/NC a/SP alguns/DI pacients/NC ,/FF en/SP la/DA seva/PX esquena/NC realitzava/VM un/DI gest/NC obscè/AQ aixecant/VM els/DA seus/PX dits_índex/NC i/CC menovell/NC de/SP l'/DA altra/DI mà/NC ./FF
+Aquest/DD episodi/NC ,/FF recollit/VM i/CC documentat/VM per/SP periodistes/NC i/CC fotògrafs/NC que/PR acompanyaven/VM a/SP Giovanni_Leone/NP ,/FF va/VA ser/VS considerat/VM molt/RG ofensiu/AQ per/SP a/SP els/DA pacients/NC quan/PR va/VA transcendir/VM a/SP l'/DA opinió/NC pública/AQ ./FF
+Arran/RG d'/SP un/DI conegut/NC escàndol/NC de/SP corrupció/NC relacionat/VM amb/SP els/DA avions/NC Lockheed/NP en/SP el/DA qual/PR es/P0 va/VA veure/VM embolicat/VM ,/FF Giovanni_Leone/NP va/VA haver/VA de/SP dimitir/VM com/CS cap/NC de/SP govern/NC en/SP 1968/ZZ ./FF
+a/SP el/DA desembre_de_1971/WW va/VA ser/VS triat/VM sisè/AO president/NC de/SP la/DA República/NP italiana/AQ ./FF
+a/SP el/DA juny_de_1978/WW ,/FF arran/VM d'/SP una/DI campanya/NC que/PR l'/PP acusava/VM de/SP percebre/VM petits/AQ suborns/NC ,/FF va/VA haver/VA de/SP dimitir/VM abans/RG que/CS expirés/VM el/DA seu/PX mandat/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Giuseppe_Saragat/NP (/FF Torí/NP ,/FF 19_de_setembre_de_1898/WW -/FF Roma/NP ,/FF 11_de_juny_de_1988/WW )/FF fou/VS un/DI polític/NC italià/AQ ./FF
+Va/VA ser/VS ministre/NC d'/SP afers/NC exteriors/AQ de/SP Itàlia/NP (/FF de/SP 1963/ZZ a/SP 1964/ZZ )/FF i/CC cinquè/AO president/NC de/SP la/DA República/NP italiana/AQ ,/FF des_de/SP 1964/ZZ fins/SP a/SP 1971/ZZ ./FF
+Giuseppe_Saragat/NP va/VA ser/VS un/DI polític/NC socialista/AQ moderat/NC ./FF
+Va/VA abandonar/VM el/DA Partit_Socialista_Italià/NP en/SP 1947/ZZ en/SP no/RN estar/VM conforme/AQ amb/SP l'/DA estreta/NC aliança/NC que/PR mantenia/VM en/SP aquell/DD moment/NC el/DA seu/PX partit/NC amb/SP el/DA Partit_Comunista_Italià/NP i/CC va/VA fundar/VM un/DI nou/AQ partit/NC polític/AQ que/PR aviat/RG es/P0 va/VA convertir/VM en/SP Partit_Socialista_Democràtic_Italià/NP ,/FF de/SP el/DA que/PR va/VA ser/VS capdavanter/AQ la/DA resta/NC de/SP la/DA seva/PX vida/NC ./FF
+Giovanni_Gronchi/NP (/FF Pontedera/NP ,/FF Toscana/NP ,/FF 10_de_setembre_de_1887/WW Roma/NP ,/FF 17_d'_octubre_de_1978/WW )/FF va/VA ser/VS un/DI polític/NC italià/AQ demòcrata-cristià/NC i/CC tercer/AO president/NC de/SP la/DA República/NP italiana/AQ ./FF
+Giovanni_Gronchi/NP va/VA ser/VS cofundador/AQ ,/FF amb/SP Luigi_Sturzo/NP ,/FF de/SP el/DA Partit_Popular_Italià/NP en/SP 1919/ZZ i/CC va/VA formar_part/VM de/SP el/DA primer/AO govern/NC de/SP Benito_Mussolini/NP en/SP 1922/ZZ ./FF
+Va/VA abandonar/VM el/DA govern/NC un/DI any/NC després/RG i/CC es/P0 va/VA integrar/VM en/SP l'/DA oposició/NC a/SP el/DA dictador/NC ./FF
+Va/VA ser/VS ministre/NC d'/SP Indústria/NP i/CC Comerç/NP entre/SP 1944/ZZ i/CC 1946/ZZ i/CC president/NC de/SP la/DA Càmera_de_els_Diputats/NP de/SP 1948/ZZ a/SP 1955/ZZ ./FF
+Des_de/SP 1955/ZZ fins/SP a/SP 1962/ZZ va/VA ocupar/VM la/DA presidència/NC de/SP la/DA República/NP italiana/AQ ./FF
+Luigi_Einaudi/NP ,/FF (/FF Carrú/NP (/FF província/NC de/SP Cuneo/NP )/FF ,/FF Piemont/NP ,/FF 24_de_març_de_1874/WW Roma/NP ,/FF 30_d'_octubre_de_1961/WW )/FF fou/VS un/DI polític/AQ liberal/NC italià/AQ ,/FF segon/AO president/NC de/SP la/DA República/NP italiana/AQ ,/FF des_de/SP 1948/ZZ fins/SP a/SP 1955/ZZ i/CC governador/AQ de/SP el/DA Banc_d'_Itàlia/NP ,/FF des_de/SP 1945/ZZ fins/SP a/SP 1948/ZZ ./FF
+Llicenciat/NP en_Dret/RG ,/FF va/VA impartir/VM classes/NC d'/SP Economia/NP i/CC Finances/NP a/SP les/DA universitats/NC de/SP Pisa/NP ,/FF Torí/NP i/CC a/SP la/DA Universitat_Bocconi_de_Milà/NP ./FF
+Va/VA ser/VS nomenat/VM senador/NC vitalici/AQ el/DA 1919/ZZ ./FF
+Es/P0 va/VA mostrar/VM contrari/AQ a/SP el/DA feixisme/NC des_de/SP 1924/ZZ i/CC en/SP 1935/ZZ va/VA emetre/VM ,/FF en/SP el/DA Senat/NP ,/FF un/DI vot/NC contrari/AQ a/SP l'/DA aprovació/NC de/SP la/DA invasió/NC de/SP Etiòpia/NP ./FF
+El/DA 25_de_juliol_de_1943/WW va/VA ser/VS designat/VM rector/NC de/SP la/DA universitat/NC de/SP Torí/NP però/CC aquest/DD mateix/DI any/NC va/VA haver/VA d'/SP exiliar/VM -se/P0 a/SP Suïssa/NP ./FF
+Finalitzada/VM la/DA II_Guerra_Mundial/NP ,/FF Einaudi/NP va/VA ser/VS nomenat/VM governador/AQ de/SP el/DA Banc_d'_Itàlia/NP ,/FF càrrec/NC que/PR va/VA ocupar/VM des_de/SP 1945/ZZ a/SP 1948/ZZ ,/FF i/CC va/VA ocupar/VM els/DA càrrecs/NC de/SP vicepresident/NC de/SP el/DA consell/NC de/SP ministres/NC i/CC de/SP ministre/NC de/SP finances/NC en/SP el/DA quart/AO govern/NC de/SP Alcide_De_Gasperi/NP (/FF 1947-1948/ZZ )/FF ./FF
+Va/VA ser/VS el/DA primer/AO President_de_la_República/NP italiana/AQ electe/AQ conforme/RG a/SP el/DA procediment/NC establert/VM en/SP la/DA Constitució/NP que/PR havia/VA estat/VS aprovada/VM mesos/NC abans/RG ,/FF Luigi_Einaudi/NP va/VA ocupar/VM la/DA presidència/NC des_de/SP 1948/ZZ fins/SP a/SP 1955/ZZ ./FF
+En/SP matemàtiques/NC ,/FF de/SP els/DA màxims/AQ i/CC de/SP els/DA mínims/NC ,/FF se/P0 n/NC du/VM de/SP forma/NC general/AQ extrems/AQ ./FF
+Són/VS el/DA valor/NC més/RG gran/AQ (/FF màxim/NC )/FF o/CC el/DA més/RG petit/AQ (/FF mínim/NC )/FF ,/FF que/PR pren/VM una/DI funció/NC ,/FF ja/RG sigui/VS en/SP un/DI entorn/NC de/SP el/DA punt/NC (/FF extrem/NC local/AQ )/FF o/CC en/SP tot/DI el/DA domini/NC (/FF extrem/NC global/AQ )/FF ./FF
+Definicions/NP ./FF
+D/NP una/DI funció/NC real/AQ f/NC '/FF defiida/NC en/SP la/DA recta/NC real/AQ es/P0 diu/VM que/CS té/VM un/DI màxim/NC local/AQ a/SP el/DA punt/NC x/VM ,/FF si/CS existeix/VM algun/DI >/FF 0/ZZ ,/FF tal/PD que/PR f/NC (/FF x/NC )/FF f/NC (/FF x/NC )/FF per/SP a/SP tot/PI x/RG tal/PD que/PR |/FF x/VM x/RG |/FF </FF ./FF
+de/SP el/DA valor/NC de/SP la/DA funció/NC en/SP aquest/DD punt/NC se/P0 n/NC diu/VM màxim/AQ de/SP la/DA funció/NC ./FF
+En/SP la/DA gràfica/NC d'/SP una/DI funció/NC ,/FF els/DA seus/PX màxims/NC locals/AQ tenen/VM l/NC aspecte/NC de/SP cims/NC de/SP els/DA turons/NC ./FF
+De/SP forma/NC similar/AQ ,/FF una/DI funció/NC té/VM un/DI mínim/NC local/AQ a/SP x/NC ,/FF si/CS f/NC (/FF x/NC )/FF f/NC (/FF x/NC )/FF per/SP a/SP tot/PI x/RG tal/PD que/PR |/FF x/VM x/RG |/FF </FF ./FF
+de/SP el/DA valor/NC de/SP la/DA funció/NC en/SP aquest/DD punt/NC se/P0 n/NC diu/VM mínim/RG de/SP la/DA funció/NC ./FF
+En/SP la/DA gràfica/NC de/SP la/DA funció/NC ,/FF els/DA seus/PX mínims/NC tenen/VM l/NC aspecte/NC de/SP fons/NC de/SP les/DA valls/NC ./FF
+Una/DI funció/NC té/VM un/DI màxim/NC global/AQ a/SP x/NC ,/FF si/CS f/NC (/FF x/NC )/FF f/NC (/FF x/NC )/FF per/SP a/SP tot/DI x/NC ./FF
+De/SP forma/NC similar/AQ ,/FF una/DI funció/NC té/VM un/DI mínim/NC global/AQ a/SP x/NC ,/FF si/CS f/NC (/FF x/NC )/FF f/NC (/FF x/NC )/FF per/SP a/SP tot/DI x/NC ./FF
+Qualsevol/DI màxim/NC (/FF mínim/NC )/FF global/AQ ha/VA de/SP ser/VS també/RG un/DI màxim/NC (/FF mínim/NC )/FF local/AQ ./FF
+No/RN tots/DI els/DA màxims/AQ o/CC mínims/AQ locals/AQ són/VS màxims/AQ o/CC mínims/AQ globals/AQ ./FF
+Terminologia/NP :/FF El/DA termes/NC local/AQ i/CC global/AQ són/VS sinònims/AQ de/SP relatiu/NC i/CC de/SP absolut/AQ respectivament/RG ./FF
+Extrem/NP és/VS un/DI terme/NC que/PR inclou/VM tant/RG màxim/AQ com/CS mínim/RG :/FF un/DI extrem/NC local/AQ és/VS un/DI màxim/NC o/CC un/DI mínim/NC ,/FF local/AQ o/CC relatiu/AQ ,/FF i/CC un/DI extrem/NC global/AQ és/VS un/DI màxim/NC o/CC un/DI mínim/NC ,/FF global/AQ o/CC absolut/AQ ./FF
+Dominis/NP restringits/VM :/FF Pot/VM haver/VA -hi/PP màxims/AQ i/CC mínims/AQ de/SP funcions/NC ,/FF el/DA domini/NC de/SP les/DA quals/PR no/RN inclou/VM tots/DI els/DA nombres/NC reals/AQ ./FF
+Una/DI funció/NC real/AQ ,/FF el/DA domini/NC de/SP la/DA qual/PR és/VS un/DI conjunt/NC qualsevol/DI pot/VM tenir/VM un/DI màxim/NC i/CC un/DI mínim/NC globals/AQ ./FF
+També/RG hi/PP pot/VM haver/VA màxims/AQ i/CC mínims/AQ locals/AQ ,/FF però/CC només/RG si/CS el/DA domini/NC és/VS un/DI conjunt/NC on/PR hi/PP ha/VA definit/VM el/DA concepte/NC de/SP entorn/NC ./FF
+Un/DI entorn/NC juga/VM el/DA paper/NC de/SP un/DI conjunt/NC de/SP x/RG tal/PD que/PR |/FF x/VM x/RG |/FF </FF ./FF
+Una/DI funció/NC real/AQ contínua/AQ sobre/SP un/DI conjunt/NC compacte/AQ sempre/RG té/VM máxim/AQ i/CC mínim/AQ en/SP el/DA conjunt/NC ./FF
+Un/DI exemple/NC important/AQ és/VS una/DI funció/NC el/DA domini/NC de/SP la/DA qual/PR és/VS un/DI intèrval/NC real/AQ tancat/VM i/CC afitat/VM (/FF vegeu/VM la/DA gràfica/NC de/SP més/RG amunt/RG )/FF ./FF
+El/DA requisit/NC de/SP què/PT hi/PP hagi/VA un/DI entorn/NC de/SP el/DA punt/NC ,/FF impedeix/VM que/CS els/DA extrems/NC locals/AQ es/P0 puguin/VM donar/VM en/SP els/DA punts/NC finals/AQ o/CC inicials/AQ d'/SP un/DI interval/NC ./FF
+Així/RG no/RN és/VS sempre/RG veritat/NC ,/FF per/SP el/DA cas/NC de/SP dominis/NC finits/VM que/CS els/DA extrems/NC globals/AQ hagin/VA de/SP ser/VS també/RG extrems/AQ locals/AQ ./FF
+Terminologia/NP :/FF El/DA terme/NC òptim/AQ ,/FF depenent/VM de/SP el/DA context/NC pot/VM substituir/VM ,/FF un/PI o/CC tots/DI dos/ZZ ,/FF els/DA termes/NC màxim/AQ o/CC mínim/AQ ./FF
+Alguns/DI problemes/NC d/AQ optimització/NC busquen/VM un/DI màxim/NC global/AQ mentre_que/CC d/AQ altres/PI busquen/VM un/DI mínim/NC ./FF
+Trobar/VM màxims/AQ i/CC mínims/AQ ./FF
+Els/DA extrems/NC locals/AQ es/P0 poden/VM trobar/VM gràcies_a/SP el/DA teorema/NC de/SP Fermat/NP que/PR en_essència/RG diu/VM que/CS si/CS una/DI funció/NC té/VM un/DI extrem/NC local/AQ en/SP un/DI punt/NC i/CC és/VS derivable/AQ en/SP aquest/DD punt/NC llavors/RG la/DA derivada/NC en/SP aquest/DD punt/NC val/VM zero/NC ./FF
+Això/PD dona/NC una/DI condició/NC necessària/AQ però/CC no/RN suficient/AQ per/SP a/SP que/CS en/SP un/DI punt/NC una/DI funció/NC tingui/VM un/DI extrem/NC local/AQ :/FF que/CS la/DA seva/PX derivada/NC sigui/VS zero/NC ,/FF per/SP tant/RG derivar/VM la/DA funció/NC i/CC plantejar/VM l'/DA equació/NC de/SP què/PR la/DA seva/PX derivada/NC sigui/VS igual/RG a_zero/RG permet/VM de/SP trobar/VM els/DA punts/NC candidats/NC a/SP ser/VS els/DA extrems/NC ./FF
+Llavors/RG cal/VM identificar/VM quins/DT d/NC aquest/DD punts/NC (/FF punts/NC estacionaris/AQ )/FF corresponen/VM a/SP màxims/NC ,/FF quins/PT corresponen/VM a/SP mínims/NC i/CC quins/DT a/SP punts/NC d'/SP inflexió/NC ./FF
+Això/PD es/P0 fa/VM amb/SP el/DA test/NC de/SP la/DA derivada/NC segona/AO i/CC successives/AQ ./FF
+Per/SP a/SP trobar/VM el/DA màxim/NC o/CC el/DA mínim/NC absolut/AQ d/RG una/DI funció/NC definida/VM a/SP trossos/NC ,/FF es/P0 troben/VM els/DA màxims/AQ i/CC mínims/AQ relatius/AQ a/SP cada/DI tros/NC i/CC els/DA valors/NC a/SP els/DA extrems/NC ;/FF llavors/RG es/P0 busca/VM quin/PT és/VS el/DA valor/NC més/RG gran/AQ de/SP tots/DI per/SP a/SP trobar/VM el/DA màxim/NC absolut/AQ (/FF o/CC el/DA més/RG petit/AQ per/SP a/SP trobar/VM el/DA mínim/NC absolut/AQ )/FF ./FF
+Exemples/NP ./FF
+La/DA funció/NC x2/ZZ té/VM un/DI únic/AQ mínim/NC global/AQ a/SP x/VM =/FF 0/ZZ ./FF
+La/DA funció/NC x3/ZZ no/RN té/VM màxims/AQ ni/CC mínims/AQ ./FF
+Tot_i_que/CS la/DA derivada/NC primera/AO (/FF 3x2/ZZ )/FF val/VM 0/ZZ a/SP x/VM =/FF 0/ZZ ,/FF és/VS un/DI punt/NC d'/SP inflexió/NC ./FF
+La/DA funció/NC x3/3/ZZ x/NC té/VM com/CS a/SP derivada/NC primera/AO x2/ZZ 1/ZZ i/CC com/CS a/SP derivada/NC segona/AO 2x/ZZ ./FF
+Igualant/VM a/SP 0/ZZ la/DA derivada/NC primera/AO i/CC resolent/VM x/AQ dona/NC els/DA punts/NC estacionaris/AQ 1/ZZ i/CC +/FF 1/ZZ ./FF
+A/SP parir/VM de/SP el/DA signe/NC de/SP la/DA derivada/NC segona/AO es/P0 veu/VM que/PR 1/ZZ és/VS un/DI màxim/NC local/AQ i/CC que/CS +/FF 1/ZZ és/VS un/DI mínim/NC local/AQ ./FF
+Fixeu/VM -vos/PP que/CS aquesta/DD funció/NC no/RN té/VM màxim/NC ni/CC mínim/NC global/AQ ./FF
+La/DA funció/NC |/FF x/NC |/FF té/VM un/DI mínim/NC global/AQ a/SP x/VM =/FF 0/ZZ que/CS no/RN es/P0 pot/VM trobar/VM emprant/VM derivades/NC perquè/CS no/RN és/VS derivable/AQ a/SP x/VM =/FF 0/ZZ ./FF
+La/DA funció/NC cos/NC (/FF x/NC )/FF té/VM infinits/NC màxims/AQ globals/AQ a/SP 0/ZZ ,/FF ±2/ZZ ,/FF ±4/ZZ ,/FF ,/FF i/CC infinits/NC mínims/AQ globals/AQ a/SP ±/FF ,/FF ±3/ZZ ,/FF ./FF
+La/DA funció/NC 2/ZZ cos/NC (/FF x/NC )/FF x/VM té/VM infinits/NC màxims/AQ i/CC mínims/AQ locals/AQ ,/FF però/CC no/RN té/VM màxim/NC ni/CC mínim/NC globals/AQ ./FF
+La/DA funció/NC cos/NC (/FF 3/ZZ x/NC )/FF //FF x/NC amb/SP 0.1/ZZ x/VM 1.1/ZZ té/VM un/DI màxim/NC global/AQ a/SP x/VM =/FF 0.1/ZZ (/FF una/DI frontera/NC )/FF ,/FF un/DI mínim/NC global/AQ a_prop/RG de/SP x/VM =/FF 0.3/ZZ ,/FF un/DI màxim/NC local/AQ aprop/VM de/SP x/VM =/FF 0.6/ZZ ,/FF i/CC un/DI mínim/NC local/AQ a_prop/RG de/SP x/VM =/FF 1.0/ZZ ./FF (/FF Vegeu/VM figura/NC de/SP el/DA cap/NC de/SP la/DA pàgina/NC ./FF )/FF ;/FF La/NP funció/NC x3/ZZ +/FF 3x2/ZZ 2x/ZZ +/FF 1/ZZ definida/VM a/SP l/NC interval/NC tancat/NC (/FF segment/NC )/FF té/VM :/FF un/DI màxim/NC local/AQ a/SP x/VM =/FF 1/ZZ 15/ZZ 3/ZZ ,/FF un/DI mínim/NC local/AQ a/SP x/VM =/FF 1/ZZ +/FF 15/ZZ 3/ZZ ,/FF un/DI màxim/NC global/AQ a/SP x/VM =/FF 2/ZZ i/CC un/DI mínim/NC global/AQ a/SP x/VM =/FF 4/ZZ ./FF (/FF Vegeu/VM figura/NC de/SP la/DA dreta/NC )/FF ;/FF Funcions/NP de/SP varies/VM variables/NC ./FF
+Per/SP a/SP funcions/NC de/SP més/RG d/RG una/DI variable/NC ,/FF s/NC apliquen/VM consideracions/NC similars/AQ ./FF
+Per_exemple/RG ,/FF a/SP la/DA figura/NC de/SP la/DA dreta/NC ,/FF les/DA condicions/NC necessàries/AQ per/SP que/CS hi/PP hagi/VA un/DI màxim/NC local/AQ són/VS similars/AQ a/SP les/DA que/PR ha/VA de/SP complir/VM una/DI funció/NC amb/SP una/DI variable/NC ./FF
+Les/DA derivades/NC parcials/AQ de/SP primer/AO ordre/NC han/VA de/SP ser/VS zero/NC i/CC les/DA derivades/NC parcials/AQ de/SP segon/AO ordre/NC han/VA de/SP ser/VS negatives/AQ ./FF
+Si/CS les/DA derivades/

@@ -2395,4 +2395,84 @@ La/DA funció/NC cos/NC (/FF 3/ZZ x/NC )/FF //FF x/NC amb/SP 0.1/ZZ x/VM 1.1/ZZ 
 Per/SP a/SP funcions/NC de/SP més/RG d/RG una/DI variable/NC ,/FF s/NC apliquen/VM consideracions/NC similars/AQ ./FF
 Per_exemple/RG ,/FF a/SP la/DA figura/NC de/SP la/DA dreta/NC ,/FF les/DA condicions/NC necessàries/AQ per/SP que/CS hi/PP hagi/VA un/DI màxim/NC local/AQ són/VS similars/AQ a/SP les/DA que/PR ha/VA de/SP complir/VM una/DI funció/NC amb/SP una/DI variable/NC ./FF
 Les/DA derivades/NC parcials/AQ de/SP primer/AO ordre/NC han/VA de/SP ser/VS zero/NC i/CC les/DA derivades/NC parcials/AQ de/SP segon/AO ordre/NC han/VA de/SP ser/VS negatives/AQ ./FF
-Si/CS les/DA derivades/
+Si/CS les/DA derivades/NC parcials/AQ de/SP segon/AO ordre/NC són/VS de/SP signe/NC diferent/AQ pot/VM haver/VA -hi/PP punts/NC de/SP sella/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Thomas_Simpson/NP 's/P0 work/NC on/PR Maxima/NP and/AQ Minima/NP at/NC Convergence/NP ;/FF
+Enrico_De_Nicola/NP (/FF Nàpols/NP ,/FF 9_de_novembre_de_1877/WW -/FF Torre_de_el_Greco/NP ,/FF Nàpols/NP ,/FF 1_d'_octubre_de_1959/WW )/FF fou/VS un/DI jurista/NC ,/FF periodista/NC i/CC polític/AQ de/SP el/DA Partit_Liberal_Italià/NP ./FF
+Va/VA ser/VS president/NC provisional/AQ d'/SP Itàlia/NP entre/SP 1946/ZZ i/CC 1948/ZZ i/CC primer/AO president/NC de/SP la/DA República/NP italiana/AQ des_de/SP el/DA 1_de_gener_de_1948/WW fins/SP a/SP el/DA 11_de_maig/WW d'/SP aquest/DD mateix/DI any/NC ./FF
+De/SP Nicola/NP ,/FF penalista/AQ de/SP reconegut/VM prestigi/NC ,/FF va/VA ser/VS escollit/VM com/CS a/SP diputat/NC per/SP primera/AO vegada/NC en/SP 1909/ZZ i/CC va/VA ocupar/VM diversos/DI càrrecs/NC governamentals/AQ de/SP segon/AO nivell/NC fins/SP a/SP l'/DA arribada/NC de/SP el/DA feixisme/NC ,/FF moment/NC que/PR va/VA optar/VM per/SP retirar/VM -se/P0 de/SP la/DA vida/NC política/AQ a_pesar_de/SP ser/VS nomenat/VM senador/NC per/SP el/DA rei/NC Víctor_Manuel_III_d'_Itàlia/NP el/DA 1926/ZZ ,/FF (/FF mai/RG va/VA arribar/VM a/SP prendre_part/VM en/SP els/DA treballs/NC de/SP la/DA Càmera/NP )/FF ./FF
+Després/RG de/SP 1943/ZZ ,/FF amb/SP la/DA caiguda/NC de/SP el/DA feixisme/NC ,/FF és/VS molt/RG probable/AQ que/CS Enrico_De_Nicola/NP exercís/VM un/DI paper/NC determinant/AQ en/SP el/DA nomenament/NC de/SP el/DA príncep/NC Humbert/NP ,/FF hereu/NC de/SP el/DA tron/NC ,/FF com/CS a/SP "/FF Lloctinent_de_el_Regne/NP "/FF ,/FF càrrec/NC que/PR va/VA convertir/VM a/SP el/DA príncep/NC en/SP cap_d'_Estat/NC de_facto/RG ./FF
+L'/DA Assemblea/NP constitucional/AQ ,/FF desapareguda/VM la/DA monarquia/NC després/RG de/SP la/DA celebració/NC d'/SP un/DI referèndum/NC ,/FF li/PP va/VA triar/VM com/CS cap_d'_Estat/NC provisional/AQ el/DA 28_de_juny_de_1946/WW amb/SP un/DI 80_%/ZZ de/SP els/DA vots/NC ,/FF nominació/NC que/PR De_Nicola/NP va/VA dubtar/VM a/SP acceptar/VM ./FF
+El/DA 25_de_juny_de_1947/WW ,/FF De_Nicola/NP va/VA presentar/VM la/DA seva/PX renúncia/NC la/DA prefectura/NC de/SP l'/DA Estat/NP ,/FF però/CC va/VA ser/VS reelegit/VM l'/DA endemà/NC per/SP l'/DA Assemblea_Constituent/NP per/SP els/DA signes/NC de/SP noblesa/NC i/CC humanitat/NC expressats/VM en/SP els/DA seus/PX actes/NC ./FF
+Després/RG de/SP l'/DA aprovació/NC de/SP la/DA Constitució_Italiana/NP ,/FF el/DA 1_de_gener_de_1948/WW ,/FF va/VA ser/VS nomenat/VM "/FF President_de_la_República_Italiana/NP "/FF ,/FF com/CS estava/VM prescrit/NC en/SP el/DA text/NC constitucional/AQ ./FF
+Enrico_De_Nicola/NP ,/FF va/VA renunciar/VM a/SP presentar/VM -se/P0 com/CS candidat/NC a/SP la/DA primera/AO elecció/NC constitucional/AQ que/PR va/VA tenir_lloc/VM a/SP el/DA maig/WW d'/SP aquell/DD any/NC i/CC en/SP la/DA qual/PR va/VA resultar/VM triat/VM Luigi_Einaudi/NP ./FF
+De/SP Nicola/NP es/P0 va/VA convertir/VM en/SP senador/NC vitalici/AQ (/FF com/CS antic/AQ cap_d'_Estat/NC )/FF ./FF
+Posteriorment/RG va/VA ser/VS nomenat/VM president/NC de/SP el/DA Senat/NP italià/AQ i/CC de/SP el/DA Tribunal_Constitucional/NP ./FF
+Marcel_Rohrbach/NP (/FF Ahun/NP ,/FF 8_d'_abril_de_1933/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/CS fou/VS professional/AQ entre/SP 1957/ZZ i/CC 1963/ZZ ,/FF aconseguint/VM 22/ZZ victòries/NC ./FF
+Les/DA seves/PX principals/AQ victòries/NC foren/VS la/DA general/AQ de/SP el/DA Critèrium_de_el_Dauphiné_Libéré/NP de/SP 1957/ZZ i/CC una/DI etapa/NC de/SP la/DA Volta/NP a/SP Espanya/NP de/SP 1961/ZZ ./FF
+Palmarès/NP ./FF
+1957/ZZ ;/FF 1r/AO de/SP el/DA Critèrium_de_el_Dauphiné_Libéré/NP ;/FF 1r/AO a/SP Saint-Claud/NP ;/FF 1r/AO La_Trimouille/NP ;/FF 1r/AO a/SP Quimperlé/NP ;/FF 1r/AO de/SP el/DA Circuit_de_Belfort/NP ;/FF Vencedor/NP de/SP 3/ZZ curses/NC de/SP classificació/NC de/SP el/DA Vèlo-club_Blancois/NP ;/FF 1958/ZZ ;/FF 1r/AO de/SP el/DA Circuit_de_Mont_Blanc/NP ;/FF 1r/AO a/SP Commentry/NP ;/FF 1r/AO a/SP Scaer/NP ;/FF 1r/AO a/SP Plougonvern/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC i/CC 1r/ZZ de/SP el/DA Gran_Premi_de_la_Muntanya_de_el_Critèrium_de_el_Dauphiné_Libéré/NP ;/FF 1959/ZZ ;/FF 1r/AO a/SP Aubusson/NP ;/FF Vencedor/NP d'/SP una/DI cursa/NC de/SP classificació/NC de/SP el/DA Vèlo-club_Blancois/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC i/CC 1r/ZZ de/SP el/DA Gran_Premi_de_la_Muntanya_de_el_Critèrium_de_el_Dauphiné_Libéré/NP ;/FF 1960/ZZ ;/FF 1r/AO de/SP el/DA Boucles_de_el_Sena/NP ;/FF 1r/AO a/SP Auzances/NP ;/FF 1961/ZZ ;/FF 1r/AO a/SP Commentry/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Espanya/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1957/ZZ ./FF 12è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1958/ZZ ./FF 26è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1959/ZZ ./FF 51è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1960/ZZ ./FF 9è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1961/ZZ ./FF
+Abandona/VM (/FF 14a/ZZ etapa/NC )/FF ;/FF 1962/ZZ ./FF
+Abandona/VM (/FF 12a/ZZ etapa/NC )/FF ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1959/ZZ ./FF 11è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1961/ZZ ./FF
+Abandona/VM ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Marcel_Rohrbach/NP ;/FF
+Cesare_Merzagora/NP (/FF Milà/NP ,/FF 9_de_novembre/WW 1898/ZZ -/FF Roma/NP ,/FF 1_de_maig_de_1991/WW )/FF fou/VS un/DI polític/AQ i/CC financer/AQ italià/AQ ./FF
+Fou/VS ministre/NC d'/SP afers/NC exteriors/AQ italià/AQ de/SP 1947/ZZ a/SP 1948/ZZ en/SP el/DA govern/NC d'/SP Alcide_De_Gasperi/NP ./FF
+Fou/VS president/NC de/SP el/DA Senat/NP de/SP el/DA 25_de_juny_de_1953/WW a/SP 7_de_novembre_de_1967/WW ./FF
+Dal/NP 1948/ZZ a/SP el/DA 1963/ZZ fou/VS elegit/NC senador/NC independent/AQ adscrit/VM a/SP la/DA Democràcia_Cristiana/NP ,/FF tot/PI i/CC ser/VS un/DI ateu/NC reconegut/VM ./FF
+El/DA 1963/ZZ fou/VS nomenat/VM senador/NC vitalici/AQ per/SP el/DA president/NC Antonio_Segni/NP ./FF
+de/SP el/DA 19_d'_agost/WW a/SP el/DA 29_de_desembre_de_1964/WW ,/FF durant/SP la/DA greu/AQ malaltia/NC i/CC dimissió/NC de/SP el/DA President_de_la_República/NP italiana/AQ Antonio_Segni/NP ,/FF fou/VS president/NC interí/AQ i/CC president/NC de/SP el/DA Senat/NP fins/SP el/DA nomenament/NC de/SP el/DA successor/NC ./FF
+També/RG fou/VS President_d'_Assicurazioni_Generali/NP de/SP 1968/ZZ a/SP 1979/ZZ ./FF
+Gaston_Rivierre/NP (/FF Asnières-sur-Seine/NP ,/FF 3_de_juny_de_1862/WW -/FF Levallois-Perret/NP ,/FF 1_de_desembre_de_1942/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/PR va/VA córrer/VM entre/SP 1892/ZZ i/CC 1901/ZZ ,/FF aconseguint/VM 9/ZZ victòries/NC ,/FF 3/ZZ d'/SP elles/PP a/SP la/DA Bordeus-París/NP ./FF
+Palmarès/NP ./FF
+1894/ZZ ;/FF 1r/AO a/SP la/DA Lió-París-Lió/NP ;/FF 1r/AO de/SP els/DA 1.000/ZZ Km_de_París/NP ;/FF 1r/AO a/SP la/DA Bol/NP d'/SP or/NC des/SP Monédières_Chaumeil/NP ;/FF 1895/ZZ ;/FF 1r/AO a/SP la/DA Bol/NP d'/SP or/NC des/SP Monédières_Chaumeil/NP ;/FF 1896/ZZ ;/FF 1r/AO de/SP la/DA Bordeus-París/NP ;/FF 1r/AO de/SP el/DA Bol_d'_Or/NP ;/FF 1897/ZZ ;/FF 1r/AO de/SP la/DA Bordeus-París/NP ;/FF 1r/AO a/SP la/DA Bol/NP d'/SP or/NC des/SP Monédières_Chaumeil/NP ;/FF 1898/ZZ ;/FF 1r/AO de/SP la/DA Bordeus-París/NP ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Gaston_Rivierre/NP ;/FF Fitxa/NP a/SP www.sitiodeciclismo.net;/VM
+Partit_Liberal_Italià/NP (/FF italià/AQ Partito_Liberale_Italiano/NP )/FF va/VA ser/VS un/DI partit/NC polític/AQ italià/AQ de/SP caràcter/NC liberal/AQ ./FF
+Va/VA existir/VM entre/SP 1943/ZZ i/CC 1994/ZZ i/CC ha/VA estat/VM refundat/NC l'/DA any/NC 2004/ZZ ./FF
+Va/VA ser/VS un/DI partit/NC minoritari/AQ però/CC de/SP gran/AQ ascendència/NC intel·lectual/AQ ./FF
+Historia/VM ./FF
+Constitució_de_el_PLI/NP i/CC governs/NC d'/SP unitat/NC nacional/AQ ./FF
+Com/CS antecedent/AQ assenyalar/VM la/DA creació/NC d'/SP un/DI Partit_Liberal/NP ja/RG en/SP l'/DA any/NC 1921/ZZ que/PR aviat/RG va/VA ser/VS prohibit/VM ./FF
+El/DA PLI/NP va/VA ser/VS creat/VM el/DA 1943/ZZ i/CC va/VA participar/VM activament/RG en/SP la/DA resistència/NC italiana/AQ i/CC en/SP els/DA governs/NC d'/SP unitat/NC nacional/AQ dirigits/VM per/SP Ivanoe_Bonomi/NP i/CC Ferrucio_Parri/NP ./FF
+En/SP aquest/DD període/NC el/DA Partit_Liberal/NP donarà/VM dos/ZZ presidents/NC a/SP la/DA república/NC :/FF Enrico_De_Nicola/NP i/CC després/RG Luigi_Einaudi/NP ./FF
+A/SP més/RG cal/VM assenyalar/VM que/CS en/SP el/DA referèndum/NC sobre/SP la/DA manera/NC de/SP govern/NC (/FF república/NC o/CC monarquia/NC )/FF el/DA PLI/NP va/VA defensar/VM la/DA monarquia/NC ,/FF opció/NC que/PR seria/VS derrotada/VM ./FF
+Escisió/NP radical/AQ ./FF
+Sota/SP l'/DA adreça/NC de/SP Giovanni_Malagodi/NP ,/FF el/DA PLI/NP va/VA adoptar/VM una/DI dura/AQ oposició/NC a/SP els/DA partits/NC de/SP centre-esquerra/NC ./FF
+Aquesta/DD política/NC va/VA acabar/VM amb/SP el/DA consens/NC existent/AQ en/SP el/DA partit/NC ./FF
+Així/RG ,/FF alguns/DI dirigents/NC joves/AQ ho/PP van/VA abandonar/VM creant/VM el/DA Partit_Radical/NP en/SP el/DA 1955/ZZ ./FF
+La/DA política/NC de/SP Malagodi/NP va/VA dur/VM a/SP l'/DA oposició/NC durant/SP tots/DI els/DA anys/NC seixanta/ZZ a/SP el/DA PLI/NP ./FF
+El/DA partit/NC es/P0 va/VA convertir/VM en/SP una/DI formació/NC marginal/AQ dintre/RG de/SP el/DA panorama/NC polític/AQ d'/SP aquella/DD època/NC ./FF
+En/SP els/DA anys/NC setanta/ZZ es/P0 va/VA aguditzar/VM la/DA crisi/NC ./FF
+Per/SP això/PD Malagodi/NP va/VA dimitir/VM en/SP el/DA 1972/ZZ ./FF
+Malgrat/SP el/DA canvi/NC de/SP lideratge/NC ,/FF el/DA 1976/ZZ el/DA partit/NC va/VA tocar/VM fons/NC amb/SP el/DA 1/ZZ '/FF 6_%/ZZ de/SP els/DA vots/NC ./FF
+Això/PD va/VA dur/VM a/SP la/DA secreataria/NC a/SP Valerio_Zanone/NP que/PR mantindria/VM el/DA càrrec/NC durant/SP més/RG de/SP nou/AQ anys/NC ./FF
+Pentapartito/NP i/CC dissolució/NC ./FF
+En/SP els/DA anys/NC 80/ZZ el/DA PLI/NP va/VA formar_part/VM d'/SP una/DI coalició/NC governant/AQ de/SP cinc/ZZ partits/NC italians/AQ ./FF
+En/SP aquesta/DD coalició/NC s'/P0 incloïen/VM els/DA partits/NC més/RG importants/AQ menys/SP el/DA Partit_Comunista_Italià/NP ./FF
+Amb/SP l'/DA inici/NC de/SP els/DA processaments/NC per/SP corrupció/NC de/SP els/DA polítics/AQ italians/NC ,/FF el/DA PLI/NP va/VA veure/VM reduït/VM el/DA seu/PX nombre/NC de/SP simpatitzants/NC ./FF
+Així/RG en/SP el/DA Congrés/NP de/SP 1994/ZZ el/DA partit/NC acorda/VM la/DA seva/PX dissolució/NC ./FF
+Ja/RG el/DA 1993/ZZ havien/VA començat/VM a/SP abandonar/VM el/DA partit/NC destacats/VM dirigents/NC com/CS Zanone/NP ./FF
+Diàspora/NC liberal/AQ i/CC refundació/NC ./FF
+Els/DA exponents/NC de/SP el/DA PLI/NP van/VA confluir/VM en/SP cinc/ZZ moviments/NC o/CC partits/NC :/FF Federazione/NP dei/NC Liberali_Italiani/NP ,/FF directe/RG hereu/NC de/SP el/DA Partit_Liberal/NP ,/FF fundat/VM en/SP 1994/ZZ després/RG de/SP la/DA dissolució/NC d'/SP aquest/DD ./FF ;/FF Unione_Liberaldemocratica/NP ,/FF partit/NC creat/VM per/SP Zanone/NP creat/VM el/DA 1993/ZZ abans/RG de/SP la/DA dissolució/NC de/SP el/DA propi/AQ PLI/NP ./FF
+Finalment/RG s'/P0 uní/VM a/SP la/DA FLT/NP ./FF ;/FF Unione/NP di/VM Centro/NP ,/FF creada/VM el/DA 1993/ZZ ./FF
+Sempre/RG molt/RG propera/AQ a/SP Forza_Italia/NP (/FF FI/NP )/FF ,/FF va/VA acabar/VM convertint/VM -se/P0 en/SP una/DI associació/NC liberal/AQ i/CC els/DA seus/PX dirigents/NC van/VA entrar/VM en/SP FI/NP ./FF ;/FF Alleanza_Democratica/NP ,/FF partit/NC de/SP centre-esquerra/NC creat/VM en/SP 1993/ZZ i/CC que/CS el/DA 1998/ZZ va/VA confluir/VM en/SP la/DA Unione_Democratica/NP ./FF ;/FF Forza_Italia/NP ./FF
+Amb/SP l'/DA entrada/NC en/SP la/DA política/NC de/SP Silvio_Berlusconi/NP molts/DI ex/NC liberals/AQ li/PP van/VA seguir/VM ,/FF entrant/AQ en/SP el/DA seu/PX partit/NC polític/AQ ,/FF recentment/RG creat/VM ./FF ;/FF A/NP més/RG d'/SP això/PD cinc/ZZ partits/NC cal/VM destacar/VM la/DA refundació/NC de/SP el/DA propi/AQ PLI/NP realitzada/VM el/DA 2004/ZZ ./FF
+Aquest/DD nou/AQ PLI/NP és/VS proper/AQ a/SP les/DA posicions/NC neoliberals/AQ i/CC aquesta/DD adherit/VM a/SP la/DA Casa_de_les_Llibertats/NP ,/FF coalicción/NC de/SP centre-dreta/NC ./FF
+Això/PD allunya/VM a/SP el/DA nou/AQ PLI/NP de/SP els/DA dirigents/NC històrics/AQ ,/FF en/SP la/DA seva/PX majoria/NC més/RG propers/AQ a/SP la/DA coalicción/NC de/SP centre-esquerra/NC ./FF
+Secretaris/NC generals/AQ ./FF
+Giovanni_Cassandro/NP (/FF abril-juny/NC 1944/ZZ )/FF ;/FF Manlio_Brosio/NP (/FF juny-desembre/NC 1944/ZZ )/FF ;/FF Leone_Cattani/NP (/FF desembre/WW 1944/ZZ -/FF desembre/WW 1945/ZZ )/FF ;/FF Giovanni_Cassandro/NP (/FF desembre/WW 1945/ZZ -/FF desembre/WW 1947/ZZ )/FF ;/FF Roberto_Lucifero/NP (/FF desembre/WW 1947/ZZ -/FF octubre/WW 1948/ZZ )/FF ;/FF Bruno_Villabruna/NP (/FF octubre/WW 1948/ZZ -/FF febrer/WW 1954/ZZ )/FF ;/FF Alessandro_Leone/NP di/VM Tavagnasco/NP (/FF febrer-abril/NC 1954/ZZ )/FF ;/FF Giovanni_Malagodi/NP (/FF abril/WW 1954/ZZ -/FF julio/NC 1972/ZZ )/FF ;/FF Agostino_Bignardi/NP (/FF juliol/WW 1972/ZZ -/FF febrer/WW 1976/ZZ )/FF ;/FF Valerio_Zanone/NP (/FF febrer/WW 1976/ZZ -/FF juliol/WW 1985/ZZ )/FF ;/FF Alfredo_Biondi/NP (/FF juliol/WW 1985/ZZ -/FF maig/WW 1986/ZZ )/FF ;/FF Renato_Altissimo/NP (/FF maig/WW 1986/ZZ -/FF maig/WW 1993/ZZ )/FF ;/FF Raffaele_Costa/NP (/FF maig/WW 1993/ZZ -/FF febrer/WW 1994/ZZ )/FF ./FF
+2004/ZZ -/FF .../FF ./FF
+Stefano_De_Luca/NP des_de/SP el/DA 2004/ZZ ./FF
+El/DA Partito_Socialista_Democràtic_Italià-PSDI/NP és/VS un/DI partit/NC polític/AQ socialdemòcrata/AQ creat/VM el/DA 1947/ZZ ,/FF dissolt/VM en/SP el/DA 1998/ZZ i/CC refundat/NC el/DA 2004/ZZ ./FF
+PSDI/NP històric/AQ ./FF
+Aquest/DD PSDI/NP va/VA existir/VM entre/SP 1947/ZZ i/CC 1998/ZZ ,/FF excepte/SP un/DI petit/AQ parèntesi/NC entre/SP 1966/ZZ i/CC 1969/ZZ ./FF
+Mai/RG va/VA superar/VM el/DA 10_%/ZZ de/SP els/DA vots/NC ./FF
+Escisió/NP i/CC reunificació/NC amb/SP el/DA PSI/NP (/FF 1947-1966/ZZ )/FF ./FF
+El/DA partit/NC va/VA néixer/VM d'/SP una/DI escisió/NC de/SP l'/DA ala/NC moderada/NC de/SP el/DA Partit_Socialista_Italià/NP (/FF PSI/NP )/FF ./FF
+a/SP el/DA principi/NC va/VA prendre/VM la/DA denominació/NC de/SP Partito_Socialista/NP dei/NC Lavoratori_Italiani-PSLI/NP ./FF
+Després/RG de/SP la/DA fusió/NC amb/SP el/DA Partit_Socialista_Unitari/NP el/DA 1951/ZZ ,/FF el/DA partit/NC pren/VM la/DA denominació/NC de/SP PSDI/NP ./FF
+L'/DA escisió/NC de/SP el/DA PSI/NP va/VA estar/VM liderada/VM per/SP Giuseppe_Saragat/NP que/PR va/VA arribar/VM a/SP ser/VS president/NC d'/SP Itàlia/NP ./FF
+El/DA partit/NC va/VA participar/VM en/SP la/DA coalició/NC governant/AQ sortida/NC d

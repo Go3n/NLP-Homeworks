@@ -2625,4 +2625,90 @@ El/DA pont/NC a/SP el/DA Durme/NP dit/VM Mirabrug/NP ,/FF segons/SP el/DA nom/NC
 El/DA Museu/NP van/VM Bogaert-Wauters/NP és/VS un/DI museu/NC arqueològic/AQ de/SP la/DA regió/NC de/SP l'/DA Escalda/NP i/CC de/SP el/DA Durme/NP ,/FF en/SP una/DI antiga/AQ malteria/NC i/CC fàbrica/NC de/SP cervesa/NC ./FF
 Conté/VM una/DI col·lecció/NC d'/SP artefactes/NC des_de/SP la/DA prehistòria/NC fins/SP a/SP el/DA segle_XVII/WW ./FF
 Fills/NP predilectes/AQ de/SP Hamme/NP ./FF
-Ferdinand_Bracke/NP ,/FF ciclista/NC ;/FF 
+Ferdinand_Bracke/NP ,/FF ciclista/NC ;/FF Jules_De_Brouwer/NP ,/FF polític/NC ;/FF Herman_Brusselmans/NP ,/FF escriptor/NC ;/FF Amaat_Joos/NP ,/FF especialista/NC d'/SP història/NC local/AQ ;/FF Edward_Poppe/NP a/SP Moerzeke/NP ;/FF Filip_De_Pillecijn/NP ,/FF escriptor/NC ;/FF Kristel_Verbeke/NP ,/FF actriu/NC ;/FF
+Lo/NP desengany/VM és/VS un/DI poema/NC dramàtic/AQ de/SP Francesc_Fontanella/NP ,/FF escrit/NC entre/SP 1649/ZZ i/CC 1651/ZZ ./FF
+Es/P0 tracta/VM de/SP les/DA núpcies/NC de/SP Venus/NP i/CC Vulcà/NP i/CC el/DA titular/AQ desengany/NC de/SP el/DA déu/NC Mart/NP ./FF
+Segons/SP el/DA pròleg/NC ,/FF Lo/NP desengany/VM és/VS un/DI nou/AQ tipus/NC de/SP drama/NC :/FF No/RN és/VS tragèdia/NC ,/FF ball/NC ,/FF comèdia/NC ,/FF ègloga/NC ,/FF entremès/NC ni/CC loa/RG ,/FF però/CC de/SP tot/DI lo/NC dramàtic/AQ és/VS una/DI armonia/NC nova/AQ ./FF (/FF I./NP 329-32/ZZ )/FF El/NP crític/AQ literari/AQ Albert_Rossich/NP ha/VA fet/VM una/DI adaptació/NC dramàtica/AQ de/SP Lo/NP desengany/VM ,/FF publicada/VM l'/DA any/NC 1987/ZZ (/FF Barcelona/NP :/FF Quaderns_Crema/NP )/FF ./FF
+Referències/NP ./FF
+Albert_Rossich/NP (/FF Girona/NP ,/FF 1952/ZZ )/FF és/VS un/DI escriptor/NC i/CC filòleg/NC català/AQ ./FF
+Actualment/RG és/VS professor/NC de/SP la/DA Universitat_de_Girona/NP ./FF
+Ha/VA publicat/VM articles/NC sobre/SP la/DA modernitat/NC primerenca/AQ per/SP a/SP demostrar/VM que/CS l'/DA anomenada/NC "/FF decadència/NC "/FF és/VS una/DI construcció/NC problemàtica/AQ de/SP el/DA segle_XIX/WW que/PR s'/P0 ha/VA de/SP revisar/VM ./FF
+És/VS membre/NC de/SP la/DA secció/NC Francesc_Eiximenis_de_l'_Institut_de_Llengua/NP i/CC Cultura_Catalanes_de_la_UdG/NP ./FF
+Ha/VA fet/VM una/DI adaptació/NC dramàtica/AQ de/SP Lo/NP desengany/NC de/SP Francesc_Fontanella/NP i/CC ha/VA editat/VM la/DA poesia/NC de/SP Francesc_Vicent_Garcia/NP ./FF
+Vegeu/VM també/RG ./FF
+Bibliografia_d'_Albert_Rossich_ENDOFARTICLE/NP ./FF
+La/DA Tragicomèdia_d'_Amor/NP ,/FF Firmesa/NP i/CC Porfia/NP és/VS una/DI comèdia/NC de/SP Francesc_Fontanella/NP ,/FF escrit/NC l'/DA any/NC 1642/ZZ ./FF
+Va/VA ser/VS editada/VM per/SP Maria-Mercè_Miró/NP l'/DA any/NC 1988/ZZ ./FF ./FF
+La/DA obra/NC és/VS un/DI espectacle/NC complet/AQ amb/SP lloa/NC ,/FF ball/NC i/CC entremès/NC a/SP més/RG de/SP tres/ZZ actes/NC ,/FF com/CS altres/DI comèdies/NC de/SP el/DA barroc/NC ./FF
+La/DA comèdia/NC fa/VM una/DI reivindicació/NC de/SP la/DA llengua/NC catalana/AQ a/SP la/DA seva/PX lloa/NC :/FF Allí/RG viu/AQ a/SP el/DA déu/NC Apol·lo/NP señit/VM de/SP llorer/NC lo/NC cap/NC ,/FF dorat/VM coturno/NC en/SP los/NC peus/NC ,/FF corona/NC y/NC lira/NC en/SP las/NC mans/AQ ./FF
+Aquí/RG viu/AQ ,/FF culta/AQ ,/FF a/SP Thalia/NP que/PR ,/FF de/SP flors/NC sempre/RG fragants/AQ ,/FF ab/AQ esta/NC ermosa/AQ corona/NC cubrí/AQ sos/DP cabells/NC dorats/AQ ./FF
+Un/DI irat/AQ ,/FF altre/DI quexosa/NC ,/FF que/PR vostres/PX ingenis/NC clars/AQ indignament/RG se/P0 enamóran/VM sols/RG de/SP els/DA assumtos/NC estranys/AQ ;/FF senten/VM que/CS sols/RG se/P0 aplaudesca/VM lo/NC llenguatje/AQ castellà/NC ,/FF quant/RG la/DA catalana/AQ musa/NC és/VS tant/RG dolsa/AQ ,/FF és/VS tant/RG suau/AQ ,/FF y/NC eligen/NC esta/NC acadèmia/NC per/SP los/NC primers/AO catalans/NC ,/FF que/PR a/SP noble/AQ teatro/NC dónan/VM las/AQ flors/NC cultas/NC de/SP el/DA Pernàs/NP ./FF
+Referències/NP ./FF
+Una/DI lloa/NC és/VS una/DI mena/NC de/SP pròleg/NC a/SP una/DI obra/NC de/SP teatre/NC ,/FF típicament/RG una/DI comèdia/NC ./FF
+A/SP vegades/NC ,/FF les/DA dramatis/NC personae/AQ participen/VM en/SP la/DA lloa/NC ,/FF d'/SP altres/DI es/P0 fa/VM com/CS una/DI obra/NC apart/NC ./FF
+Sovint/RG ,/FF la/DA lloa/NC és/VS de/SP to/NC humorístic/AQ i/CC intenta/VM guanyar/VM l'/DA atenció/NC de/SP el/DA públic/NC a/SP el/DA teatre/NC ./FF
+La/DA lloa/NC de/SP la/DA Tragicomèdia_d'_Amor/NP ,/FF Firmesa/NP i/CC Porfia_de_Francesc_Fontanella/NP reivindica/VM l'/DA ús/NC de/SP la/DA llengua/NC catalana/AQ a/SP el/DA teatre/NC ./FF
+S'/P0 anomena/VM fondue/NC a/SP un/DI menjar/NC típic/AQ de/SP Suïssa/NP que/PR s'/P0 elabora/VM amb/SP una/DI base/NC en/SP formatges/NC esmicolats/VM i/CC fosos/VM en/SP un/DI recipient/NC adequat/VM ,/FF posteriorment/RG es/P0 disposa/VM damunt/RG de/SP la/DA taula/NC per/SP a/SP que/CS els/DA comensals/NC se/P0 serveixin/VM valent/VM -se/P0 d'/SP un/DI pinxo/NC ,/FF amb/SP el/DA qual/PR s'/P0 introdueixen/VM els/DA trossos/NC de/SP pa/NC a/SP la/DA preparació/NC ./FF
+Per/SP a/SP que/CS el/DA formatge/NC es/P0 mantingui/VM fos/VM ,/FF s'/P0 utilitza/VM un/DI encenedor/NC ./FF
+Es/P0 tracta/VM d'/SP una/DI preparació/NC amb/SP moltes/DI caloria/NC ,/FF pròpies/AQ de/SP climes/NC freds/AQ ,/FF però/CC que/CS ,/FF sobre/SP tot/PI ,/FF genera/VM un/DI ambient/NC de/SP camaraderia/NC ./FF
+Porta/VM kirsch/NC -/FF licor/NC de/SP guindes/NC -/FF i/CC es/P0 remou/VM en/SP forma/NC de/SP vuit/ZZ per/SP a/SP que/CS la/DA fusió/NC de/SP els/DA formatges/NC no/RN es/P0 talli/VM ./FF
+Existeixen/VM ,/FF també/RG ,/FF altres/DI "/FF fondues/NC "/FF de/SP carn/NC o/CC xocolata/NC ./FF
+Hi/PP ha/VA una/DI versió/NC que/PR incorpora/VM gambetes/NC i/CC se/P0 serveix/VM en/SP un/DI bol/NC de/SP pa/NC ./FF
+Fondue/NP de/SP carn/NC ./FF
+Es/P0 necessari/AQ preparar/VM amb/SP compte/NC els/DA ingredients/NC per/SP a/SP la/DA fondue/NC de/SP carn/NC i/CC tenir/VM -los/PP llestos/AQ amb/SP anticipació/NC ./FF
+Es/P0 calcula/VM entre/SP 200/ZZ i/CC 250_grams/ZZ de/SP carn/NC per/SP persona/NC ,/FF aproximadament/RG ,/FF i/CC se/P0 serveix/VM un/DI mínim/NC de/SP 4/ZZ a/SP 6/ZZ classes/NC de/SP salsa/NC ,/FF que/PR poden/VM variar/VM a/SP el/DA gust/NC modificant/VM -les/PP amb/SP tocs/NC personals/AQ ./FF
+La/DA carn/NC ha/VA de/SP ser/VS molt/RG fresca/AQ ,/FF preferiblement/RG petxuga/NC de/SP pollastre/NC o/CC filet/NC de/SP vedella/NC o/CC porc/NC ./FF
+Cal/VM que/CS es/P0 talli/VM de/SP la/DA mida/NC d'/SP una/DI mossegada/NC ,/FF no/RN més/RG petita/AQ ,/FF per/SP a/SP que/CS no/RN es/P0 ressequi/VM ./FF ./FF
+Hi/PP ha/VA dues/ZZ maneres/NC de/SP servir/VM -la/PP ./FF
+La/DA primer/AO és/VS mantenir/VM -la/PP seca/AQ i/CC sense/SP salar/VM per/SP evitar/VM esquitxades/NC a/SP el/DA fregir/VM -la/PP ,/FF amb/SP el/DA que/PR no/RN pren/VM cap/DI tipus/NC de/SP sabor/NC ./FF
+Cal/VM cobrirla/VM amb/SP un/DI paper/NC d'/SP alumini/NC ,/FF conservar/VM -la/PP a/SP la/DA nevera/NC i/CC retirar/VM -la/PP una/DI hora/NC abans/RG de/SP cuinar/VM -la/PP ,/FF per/SP a/SP que/PR agafi/VM la/DA temperatura/NC ambient/AQ ./FF
+La/DA segona/AO és/VS ,/FF preparar/VM la/DA carn/NC prèviament/RG adobant/VM -la/PP amb/SP una/DI mescla/NC d'/SP aigua/NC ,/FF sal/NC ,/FF pebre/NC vermell/AQ ,/FF all/NC i/CC vinagre/NC ./FF
+La/DA carn/NC es/P0 deixa/VM macerar/VM com/CS a/SP mínim/RG 6/ZZ hores/NC abans/RG de/SP servir/VM -la/PP ./FF
+D'/SP aquesta/DD manera/NC triga/VM menys/RG en/SP cuinar/VM -se/P0 a/SP la/DA fondue/NC i/CC assoleix/VM un/DI sabor/NC una/DI mica/NC més/RG fort/AQ ./FF
+Per/SP portar/VM la/DA fondue/NC a/SP la/DA taula/NC ,/FF cal/VM omplir/VM amb/SP oli/NC la/DA tercera/AO part/NC de/SP la/DA cassola/NC ./FF
+Es/P0 pot/VM escalfar/VM prèviament/RG sobre/SP el/DA foc/NC de/SP la/DA cuina/NC i/CC portar/VM -la/PP després/RG a/SP el/DA escalfador/NC ./FF
+Per/SP provar/VM la/DA temperatura/NC ,/FF es/P0 deixa/VM caure/VM sobre/SP l'/DA oli/NC un/DI tros/NC de/SP pa/NC ./FF
+Quan/CS l'/DA oli/NC ja/RG està/VM prou/DI calent/AQ ,/FF cal/VM graduar/VM l'/DA escalfor/NC ,/FF per/SP a/SP que/CS la/DA cocció/NC de/SP la/DA carn/NC resulti/VM correcta/AQ i/CC l'/DA oli/NC no/RN es/P0 refredi/VM ./FF
+Perquè/CS l'/DA oli/NC i/CC la/DA carn/NC no/RN es/P0 cremin/VM durant/SP l'/DA àpat/NC és/VS recomanable/AQ tirar/VM un/DI parell/NC d'/SP alls/NC sencers/AQ dins/SP l'/DA oli/NC ./FF
+Per/SP aromatitzar/VM el/DA menjar/NC ,/FF també/RG s'/P0 hi/PP poden/VM posar/VM herbes/NC fresques/AQ com/CS timó/NC ,/FF romaní/NC o/CC orenga/NC ./FF
+a/SP el/DA submergir/VM la/DA carn/NC ,/FF s'/P0 ha/VA de/SP formar/VM instantàniament/RG una/DI crosta/NC que/PR deixi/VM escapar/VM el/DA suc/NC de/SP el/DA seu/PX interior/NC ./FF
+Fondue/NP de/SP xocolata/NC ./FF
+A/SP principis/NC de/SP els/DA anys/NC 60/ZZ es/P0 va/VA estendre/VM el/DA concepte/NC de/SP fondue/NC a/SP la/DA rebosteria/NC ,/FF llavors/RG sorgiren/VM les/DA fonts/NC de/SP xocolata/NC ./FF
+Mitjançant/SP un/DI senzill/AQ mecanisme/NC amb/SP un/DI escalfador/NC a/SP la/DA base/NC de/SP la/DA font/NC de/SP xocolata/NC i/CC en/SP cascades/NC continues/VM sobre/SP diferents/DI bases/NC fa/VM fluir/VM la/DA xocolata/NC d'/SP una/DI manera/NC impactant/VM i/CC molt/RG atractiva/AQ ./FF
+A/SP la/DA fondue/NC hi/PP podem/VM banyar/VM fruites/NC ,/FF merengues/NC ,/FF galetes/NC i/CC altres/DI aliments/NC ./FF
+Per/SP a/SP preparar/VM les/DA bocades/NC dolces/AQ s'/P0 utilitza/VM canyella/NC ,/FF gingebre/NC en/SP pols/NC o/CC inclús/RG pebre/NC ./FF
+Curiositats/NP ./FF
+En/SP el/DA còmic/NC d'/SP Astèrix_el_Gal/NP -/FF Astérix/NP a/SP Helvecia/NP apareix/VM una/DI fondue/NC de/SP formatge/NC amb/SP algunes/DI regles/NC curioses/AQ ./FF
+Durant/SP el/DA menjar/NC d'/SP una/DI fondue/NC ,/FF es/P0 pot/VM jugar/VM a/SP penyora/NC o/CC càstig/NC :/FF quan/CS a/SP un/DI de/SP els/DA comensals/NC se/P0 li/PP cau/VM un/DI tros/NC de/SP pa/NC (/FF fondue/NC de/SP formatge/NC )/FF ,/FF de/SP carn/NC (/FF fondue/NC de/SP carn/NC )/FF o/CC fruita/NC (/FF fondue/NC de/SP xocolata/NC )/FF ha/VA de/SP pagar/VM una/DI penyora/NC o/CC sotmetre/VM 's/P0 a/SP el/DA judici/NC de/SP els/DA altres/DI comensals/NC ,/FF per/SP a/SP qui/PR haurà/VA de/SP realitzar/VM un/DI "/FF acte/NC de/SP càstig/NC "/FF ./FF ;/FF Existeix/NP un/DI instrument/NC curiós/AQ per/SP a/SP recollir/VM els/DA trossos/NC que/PR han/VA caigut/VM dins/RG de/SP l'/DA olla/NC ./FF
+És/VS un/DI minicolador/NC que/PR acompanya/VM ,/FF en/SP algunes/DI ocasions/NC ,/FF el/DA joc/NC de/SP pinxos/NC ./FF
+Rodger_Ward/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 10_de_gener_del_1921/WW a/SP Beloit/NP ,/FF Kansas/NP ./FF
+Ward/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1951-1966/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP d'/SP aquests/DD anys/NC ./FF
+Va/VA guanyar/VM les/DA edicions/NC de/SP 1959/ZZ i/CC 1962/ZZ ./FF
+Rodger_Ward/NP va/VA morir/VM a/SP Anaheim/NP ,/FF Califòrnia/NP el/DA 5_de_juliol_del_2004/WW ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitzats/VM per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Rodger_Ward/NP va/VA participar/VM a/SP 12/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1951/ZZ ./FF
+A/SP mes/NC de/SP les/DA edicions/NC de/SP la/DA cursa/NC d'/SP Indianapolis/NP va/VA participar/VM també/RG a/SP el/DA Gran_Premi_de_els_Estats_Units/NP de/SP el/DA 1959/ZZ i/CC a/SP el/DA Gran_Premi_de_els_Estats_Units/NP de/SP el/DA 1963/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 12/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 1/ZZ ;/FF Podiums/NP :/FF 2/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 14/ZZ ;/FF
+Epperly/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Epperly/NP va/VA competir/VM a/SP 5/ZZ curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ les/DA temporades/NC de/SP els/DA anys/NC 1955/ZZ ,/FF 1957/ZZ ,/FF 1958/ZZ ,/FF 1959/ZZ i/CC 1960/ZZ ./FF
+Sempre/RG competint/VM però/CC nomès/VM a/SP la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF guanyant/VM les/DA curses/NC de/SP 1957/ZZ i/CC 1958/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Vilamaric/NP és/VS una/DI entitat/NC de/SP població/NC de/SP el/DA municipi/NC de/SP Monistrol_de_Montserrat/NP a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+En/SP el/DA cens/NC de/SP 2006/ZZ comptava/VM amb/SP 9/ZZ habitants/NC ./FF
+Galobart/NP ,/FF Golobart/NP o/CC Galobard/NP '/FF és/VS una/DI entitat/NC de/SP població/NC de/SP el/DA municipi/NC de/SP Navarcles/NP a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+En/SP el/DA cens/NC de/SP 2006/ZZ comptava/VM amb/SP 24/ZZ habitants/NC ./FF
+Està/VM format/NC per/SP l'/DA antiga/AQ colònia/NC industrial/AQ de/SP el/DA Galobart/NP i/CC el/DA mas/NC de/SP el/DA Galobart/NP ./FF
+Fins/SP a/SP l'/DA any/NC 1927/ZZ formava_part/VM de/SP el/DA terme/NC municipal/AQ de/SP Calders/NP (/FF el/DA Bages/NP )/FF ./FF
+Elisenda_I_de_Rocabertí/NP fou/VS vescomtessa/NC de/SP Rocabertí/NP entre/SP 1671/ZZ i/CC 1672/ZZ ./FF
+Fou/VS la/DA darrera/AO descendent/NC directa/AQ de/SP el/DA llinatge/NC Rocabertí/NP ./FF
+Es/P0 va/VA casar/VM amb/SP Ramon_de_Rocafull-Puixmarín/NP ,/FF comte/NC d'/SP Albatera/NP i/CC baró/NC de/SP Bétera/NP ./FF
+Van/VA tenir/VM un/DI únic/AQ fill/NC ,/FF Guillem_Manuel_I_de_Rocabertí/NP ./FF
+Joaquim_Garcia_Girona/NP (/FF Benassal/NP ,/FF 21_d'_abril_de_1867/WW -/FF Baeza/NP ,/FF 13_de_desembre_de_1928/WW )/FF va/VA ser/VS un/DI poeta/NC i/CC mossèn/NC valencià/AQ ./FF
+La/DA seua/PX principal/AQ obra/NC és/VS el/DA llarg/AQ poema/NC èpic/AQ Seidia/NP ,/FF de/SP 6.251/ZZ versos/NC distribuïts/VM en/SP 1.045/ZZ estrofes/NC i/CC estructurat/VM en/SP un/DI Peludi/NP ,/FF 13/ZZ Cants/NP i/CC un/DI Epíleg/NP ./FF
+Va/VA iniciar/VM -ne/PP la/DA composició/NC a/SP les/DA acaballes/NC de/SP el/DA segle_XIX/WW i/CC el/PP va/VA concloure/VM a/SP el/DA voltant/NC de/SP 1908/ZZ ./FF
+Aquest/DD poema/NC va/VA ser/VS guardonat/VM a/SP els/DA Jocs_Florals_de_València/NP de/SP 1919/ZZ i/CC va/VA obtenir/VM un/DI immediat/AQ i/CC gran/AQ èxit/NC ./FF
+Narra/VM els/DA primers/AO moments/NC de/SP la/DA reconquesta/NC de/SP el/DA Regne_de_València/NP per/SP el/DA rei/NC Jaume_I._El/NP poema/NC ,/FF que/PR Manuel_Sanchis_Guarner/NP va/VA considerar/VM superior/AQ a/SP la/DA poesia/NC d'/SP exaltació/NC habitual/AQ de/SP l'/DA època/NC ,/FF posseeix/VM gran/AQ intensitat/NC expressiva/AQ ,/FF s'/P0 adhereix/VM ob

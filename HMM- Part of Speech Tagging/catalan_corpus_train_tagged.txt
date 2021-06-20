@@ -2711,4 +2711,103 @@ Joaquim_Garcia_Girona/NP (/FF Benassal/NP ,/FF 21_d'_abril_de_1867/WW -/FF Baeza
 La/DA seua/PX principal/AQ obra/NC és/VS el/DA llarg/AQ poema/NC èpic/AQ Seidia/NP ,/FF de/SP 6.251/ZZ versos/NC distribuïts/VM en/SP 1.045/ZZ estrofes/NC i/CC estructurat/VM en/SP un/DI Peludi/NP ,/FF 13/ZZ Cants/NP i/CC un/DI Epíleg/NP ./FF
 Va/VA iniciar/VM -ne/PP la/DA composició/NC a/SP les/DA acaballes/NC de/SP el/DA segle_XIX/WW i/CC el/PP va/VA concloure/VM a/SP el/DA voltant/NC de/SP 1908/ZZ ./FF
 Aquest/DD poema/NC va/VA ser/VS guardonat/VM a/SP els/DA Jocs_Florals_de_València/NP de/SP 1919/ZZ i/CC va/VA obtenir/VM un/DI immediat/AQ i/CC gran/AQ èxit/NC ./FF
-Narra/VM els/DA primers/AO moments/NC de/SP la/DA reconquesta/NC de/SP el/DA Regne_de_València/NP per/SP el/DA rei/NC Jaume_I._El/NP poema/NC ,/FF que/PR Manuel_Sanchis_Guarner/NP va/VA considerar/VM superior/AQ a/SP la/DA poesia/NC d'/SP exaltació/NC habitual/AQ de/SP l'/DA època/NC ,/FF posseeix/VM gran/AQ intensitat/NC expressiva/AQ ,/FF s'/P0 adhereix/VM ob
+Narra/VM els/DA primers/AO moments/NC de/SP la/DA reconquesta/NC de/SP el/DA Regne_de_València/NP per/SP el/DA rei/NC Jaume_I._El/NP poema/NC ,/FF que/PR Manuel_Sanchis_Guarner/NP va/VA considerar/VM superior/AQ a/SP la/DA poesia/NC d'/SP exaltació/NC habitual/AQ de/SP l'/DA època/NC ,/FF posseeix/VM gran/AQ intensitat/NC expressiva/AQ ,/FF s'/P0 adhereix/VM objectivament/RG a/SP els/DA fets/NC històrics/AQ i/CC treu/VM profit/NC la/DA riquesa/NC lèxic/AQ popular/AQ en/SP forma/NC de/SP dites/NC i/CC refranys/NC ,/FF podent/VM -s/P0 'hi/PP resseguir/VM la/DA influència/NC tant/RG de/SP Jacint_Verdaguer/NP com/CS de/SP Frederic_Mistral/NP ./FF
+Va/VA realitzar/VM una/DI important/AQ tasca/NC com/CS a/SP lingüista/NC ,/FF amb/SP l'/DA elaboració/NC de/SP el/DA Vocabulari_de_el_Maestrat/NP (/FF lletres/NC A-G/NP )/FF ,/FF que/PR va/VA deixar/VM inacabat/AQ i/CC que/PR anys/NC més/RG tard/RG conclouria/VM un/DI altre/DI lingüista/NC valencià/AQ molt/RG lligat/NC a/SP el/DA poble/NC de/SP Benassal/NP :/FF Carles_Salvador/NP ./FF
+També/RG se/P0 li/PP deuen/VM traduccions/NC d'/SP Horaci/NP ,/FF tasca/NC en/SP la/DA qual/PR va/VA aprofitar/VM els/DA profunds/AQ coneixements/NC de/SP llatí/NC deguts/VM a/SP la/DA seua/PX formació/NC de/SP prevere/NC ./FF
+de/SP el/DA Jardi_d'_Horaci/NP és/VS un/DI recull/NC de/SP 19/ZZ poemes/NC i/CC tres/ZZ articles/NC sobre/SP teoria/NC de/SP la/DA traducció/NC d'/SP una/DI llengua/NC clàssica/AQ a/SP una/DI llengua/NC moderna/AQ ./FF
+És/VS destacable/AQ en/SP la/DA seua/PX carrera/NC eclesiàstica/AQ la/DA direcció/NC de/SP el/DA Seminari_de_Saragossa/NP ./FF
+En/SP el/DA moment/NC de/SP la/DA seua/PX mort/NC era/VS director/NC de/SP el/DA Seminari_de_Baeza/NP ./FF
+L'/DA Ajuntament_de_Benassal/NP el/PP va/VA nomenar/VM fill/NC il·lustre/AQ i/CC li/PP va/VA dedicar/VM un/DI carrer/NC i/CC una/DI placa/NC commemmorativa/AQ ,/FF que/PR va/VA ser/VS destruïda/VM durant/SP la/DA Guerra_Civil/NP ./FF
+Bibliografia/NP ./FF
+Lluís_Gimeno_Betí/NP ./FF
+Panorama/NP sumari/NC de/SP les/DA lletres/NC valencianes/AQ ./FF
+Escriptors/NP castellonencs/AQ de/SP els/DA segles/NC XIX/NP a/SP el/DA XX/NP ./FF
+Societat_Castellonenca_de_Cultura/NP ./FF
+Castelló_de_la_Plana/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 8486113350/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Complet/AQ estudi/NC sobre/SP Mossèn_Garcia_Girona_per_Pere-Enric_Barreda/NP ;/FF
+El/DA llibre/NC Politar_Andorrà/NP ,/FF escrit/NC el/DA 1763/ZZ per/SP mossèn/NC Antoni_Puig/NP és/VS una/DI versió/NC reduïda/VM de/SP el/DA Manual_Digest/NP ,/FF d'/SP Antoni_Fiter/NP i/CC Rossell/NP ./FF
+Antoni_Fiter/NP i/CC Rossell/NP (/FF Ordino/NP ,/FF Andorra/NP ,/FF 1706/ZZ -/FF data/NC i/CC lloc/NC de/SP mort/NC desconeguts/VM )/FF era/VS un/DI doctor/NC en_dret/RG i/CC advocat/NC andorrà/AQ ./FF
+Nascut/VM a/SP la/DA Casa_Fiter-Riba/NP ,/FF abans/RG Rossell/NP ,/FF d'/SP Ordino/NP ,/FF va/VA ser/VS veguer/NC episcopal/AQ d'/SP Andorra/NP durant/SP el/DA segle_XVIII/WW ./FF
+Va/VA publicar/VM el/DA Manual_Digest/NP ,/FF una/DI recopilació/NC de/SP lleis/NC i/CC costums/NC andorrans/AQ ./FF
+La/DA vegueria/NC episcopal/AQ (/FF dita/NC algun_cop/RG vegueria/NC mitrada/AQ )/FF és/VS la/DA representació/NC que/PR històricament/RG tenia/VM el/DA bisbe/NC d'/SP Urgell/NP a/SP Andorra/NP ,/FF com/CS a/SP cosenyor/NC d'/SP aquest/DD país/NC ./FF
+L'/DA altre/DI cosenyoriu/NC ,/FF el/DA de/SP el/DA rei/NC de/SP França/NP o/CC president/NC de/SP la/DA República_Francesa/NP ,/FF era/VS representat/VM per/SP la/DA vegueria/NC francesa/AQ ./FF
+Amb/SP la/DA Constitució/NP andorrana/AQ (/FF 1993/ZZ )/FF aquesta/DD figura/NC institucional/AQ va/VA ser/VS suprimida/VM ,/FF i/CC actualment/RG hi/PP ha/VA una/DI simple/AQ representació/NC de/SP el/DA bisbat/NC ./FF
+La/DA vegueria/NC francesa/AQ és/VS la/DA representació/NC que/PR històricament/RG tenia/VM el/DA rei/NC de/SP França/NP o/CC el/DA president/NC de/SP la/DA República_Francesa/NP a/SP Andorra/NP ,/FF com/CS a/SP cosenyor/NC d'/SP aquest/DD país/NC ./FF
+L'/DA altre/DI cosenyoriu/NC ,/FF el/DA de/SP el/DA bisbe/NC d'/SP Urgell/NP ,/FF era/VS representat/VM per/SP la/DA vegueria/NC episcopal/AQ ./FF
+Amb/SP la/DA Constitució/NP andorrana/AQ (/FF 1993/ZZ )/FF aquesta/DD figura/NC institucional/AQ va/VA ser/VS suprimida/VM ,/FF i/CC actualment/RG hi/PP ha/VA una/DI simple/AQ representació/NC de/SP la/DA presidència/NC de/SP la/DA República_Francesa/NP ./FF
+Pere_Labèrnia_Esteller/NP (/FF Traiguera/NP ,/FF 1802/ZZ -/FF Barcelona/NP ,/FF 1860/ZZ )/FF va/VA ser/VS un/DI lingüista/NC valencià/AQ ./FF
+Va/VA estudiar/VM a/SP Tortosa/NP i/CC a/SP els/DA 23/ZZ anys/NC d'/SP edat/NC va/VA traslladar/VM -se/P0 a/SP Barcelona/NP ,/FF on/PR viuria/VM fins/SP a/SP la/DA seua/PX mort/NC regentant/VM un/DI col·legi/NC ./FF
+Es/P0 va/VA doctorar/VM en/SP Lletres/NP l'/DA any/NC 1828/ZZ ./FF
+Va/VA ser/VS autor/NC de/SP diversos/DI diccionaris/NC de/SP llengua/NC castellana/AQ i/CC llatina/AQ ./FF
+En/SP l'/DA àmbit/NC de/SP la/DA filologia/NC catalana/AQ és/VS reconegut/VM per/SP la/DA seua/PX obra/NC Diccionari/NP de/SP la/DA llengua/NC catalana/AQ amb/SP correspondència/NC castellana/AQ i/CC llatina/AQ ,/FF obra/NC coneguda/VM popularment/RG com/CS el/DA Diccionari_Labèrnia/NP ,/FF publicat/VM a/SP Barcelona/NP l'/DA any/NC 1840/ZZ i/CC dedicat/VM a/SP l'/DA Acadèmia_de_Bones_Lletres/NP de/SP la/DA qual/PR era/VS membre/NC ./FF
+a/SP el/DA pròleg/NC d'/SP aquesta/DD obra/NC fa/VM palesa/AQ la/DA seua/PX intenció/NC de/SP contribuir/VM a/SP el/DA revifament/NC de/SP la/DA llengua/NC catalana/AQ i/CC ell/PP mateix/DI es/P0 declara/VM català/AQ ./FF
+La/DA seua/PX obra/NC lexicogràfica/AQ ha/VA estat/VS considerada/VM la/DA més/RG sòlida/AQ fins/SP a/SP l'/DA aparició/NC de/SP Pompeu_Fabra/NP ./FF
+El/DA seu/PX diccionari/NC va/VA continuar/VM editant/VM -se/P0 fins/SP l'/DA any/NC 1888/ZZ ./FF
+Obres/NC ./FF
+Diccionari/NP de/SP la/DA llengua/NC catalana/AQ amb/SP correspondència/NC castellana/AQ i/CC llatina/AQ ,/FF Barcelona/NP ,/FF 1839/ZZ (/FF vol./NC 1/ZZ )/FF i/CC 1840/ZZ (/FF vol./NC 2/ZZ )/FF ;/FF Diccionario/NP de/SP la/DA lengua/NC castellana/AQ con/NC las/AQ correspondencias/NC catalana/AQ i/CC latina/NC ,/FF Barcelona/NP ,/FF 1844/ZZ (/FF vol./NC 1/ZZ )/FF i/CC 1848/ZZ (/FF vol./NC 2/ZZ )/FF ;/FF Diccionario/NP manual/NC de/SP la/DA lengua/NC castellana/AQ con/NC la/DA correspondencia/VM latina/NC ,/FF Barcelona/NP ,/FF 1850/ZZ ;/FF Novísimo/NP diccionario/NC de/SP la/DA lengua/NC castellana/AQ con/NC la/DA correspondencia/VM catalana/AQ ;/FF Bibliografia/NP ./FF
+Lluís_Gimeno_Betí/NP ./FF
+Panorama/NP sumari/NC de/SP les/DA lletres/NC valencianes/AQ ./FF
+Escriptors/NP castellonencs/AQ de/SP els/DA segles/NC XIX/NP a/SP el/DA XX/NP ./FF
+Societat_Castellonenca_de_Cultura/NP ./FF
+Castelló_de_la_Plana/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 8486113350/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Vida/NP i/CC obra/NC de/SP Pere_Labèrnia/NP ;/FF
+La/DA granodiorita/NC és/VS una/DI roca/NC ígnia/AQ intrusiva/AQ de/SP la/DA família/NC de/SP el/DA granit/NC i/CC d'/SP estructura/NC holocristal·lina/AQ ./FF
+Està/VM composta/NC per/SP quars/NC ,/FF plagiòclasi/NC (/FF de/SP el/DA tipus/NC oligòclasi/NC o/CC andesina/NC )/FF i/CC feldspats/NC ./FF
+Usualment/RG conté/VM mica/RG biotita/NC i/CC horneblenda/NC ,/FF la/DA mica/NC en/SP forma/NC de/SP cristalls/NC octogonals/AQ i/CC l'/DA horneblenda/NC en/SP forma/NC d'/SP agulles/NC de/SP cristall/NC ./FF
+Visualment/RG s'/P0 assembla/VM a/SP el/DA granit/NC ,/FF de/SP el/DA que/PR es/P0 diferencia/VM per/SP una/DI major/AQ presència/NC de/SP plagiòclasi/NC i/CC per/SP l'/DA aspecte/NC més/RG fosc/AQ que/PR li/PP proporcionen/VM els/DA minerals/NC màfics/AQ (/FF la/DA biotita/NC i/CC la/DA horneblenda/NC )/FF ./FF
+Químicament/RG és/VS composta/VM per/SP un/DI 63/ZZ a/SP 68_%/ZZ de/SP SiO2/ZZ ./FF
+Normalment/RG ,/FF la/DA capa/NC superior/AQ de/SP l'/DA escorça/NC terrestre/AQ està/VM formada/VM per/SP aquest/DD materia/NC ,/FF i/CC apareixen/VM en/SP batòlits/NC en/SP moltes/DI serralades/NC ./FF
+En/SP els/DA Alps/NP es/P0 troba/VM en/SP les/DA zones/NC de/SP l'/DA Adamello/NP ,/FF el/DA Presanella/NP i/CC en/SP el/DA Vedrette/NP di/VM Ries/NP ,/FF i/CC en/SP la/DA mar/NC Tirrena/NP forma/VM les/DA illes/NC d'/SP Elba/NP i/CC Giglio/NP ./FF
+A/SP Catalunya/NP es/P0 troba/VM en/SP força/RG indrets/NC ,/FF com/CS a/SP la/DA vall/NC de/SP Castellfollit_de_la_Roca/NP o/CC a/SP Roses/NP ;/FF també/RG és/VS present/AQ a/SP Andorra/NP ./FF
+La/DA Pedra_de_Rosetta/NP està/VM formada/VM per/SP granodiorita/NC ./FF
+Enllaços/NP ./FF
+Presentació/NC didàctica/AQ ;/FF
+Sabará/NP és/VS una/DI ciutat/NC de/SP l'/DA estat/NC brasiler/AQ de/SP Minas_Gerais/NP ./FF
+La/DA seva/PX població/NC estimada/VM el/DA 2006/ZZ era/VS de/SP 134/ZZ 282/ZZ habitants/NC ./FF
+Seva/PX àrea/NC total/AQ es/P0 303,6/ZZ km²/NC ./FF
+Hausruckviertel/NP (/FF en/SP alemany/NC ,/FF quart/NC d'/SP Hausruck/NP )/FF o/CC Hausruckkreis/NP és/VS una/PI de/SP les/DA quatre/ZZ regions/NC històriques/AQ de/SP l'/DA Alta_Àustria/NP ./FF
+Les/DA altres/DI regions/NC que/PR constitueixen/VM aquest/DD bundesland/AQ d'/SP Àustria/NP són/VS Innviertel/NP ,/FF Mühlviertel/NP i/CC Traunviertel/NP ./FF
+S'/P0 anomena/VM així/RG per/SP la/DA serralada/NC que/PR es/P0 troba/VM a/SP la/DA regió/NC ,/FF la/DA Hausruck/NP ./FF
+El/DA límit/NC occidental/AQ d'/SP aquesta/DD regió/NC es/P0 va/VA establir/VM el/DA 1779/ZZ quan/PR es/P0 van/VA definir/VM els/DA límits/NC de/SP Bavaria/NP ./FF
+El/DA límit/NC oriental/AQ es/P0 va/VA establir/VM durant/SP el/DA segle_XIX/WW ,/FF seguint/VM el/DA curs/NC de/SP el/DA riu/NC Traun/NP ./FF
+Haustuckviertel/NP inclou/VM els/DA districtes/NC de/SP Eferding/NP ,/FF Grieskirchen/NP ,/FF Vöcklabruck/NP ,/FF Wels/NP i/CC Wels-Land/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Übersichtskarte_Viertelgrenzen/NP (/FF PDF/NP )/FF a/SP DORIS/NP ;/FF
+La/DA Planeta/NP és/VS un/DI barri/NC de/SP el/DA Pont_d'_Armentera/NP ,/FF a/SP l'/DA Alt_Camp/NP ,/FF a/SP el/DA sud/NC de/SP el/DA poble/NC ./FF
+Situat/VM a/SP la/DA riba/NC esquerra/AQ de/SP el/DA Gaià/NP ,/FF es/P0 va/VA segregar/VM d'/SP Aiguamúrcia/NP el/DA 1981/ZZ ,/FF municipi/NC en/SP què/PR també/RG hi/PP queden/VM encara/RG algunes/PI de/SP les/DA edificacions/NC d'/SP aquest/DD nucli/NC de/SP població/NC ,/FF concretament/RG les/DA situades/VM a_l'_altra_banda_de/SP el/DA riu/NC ,/FF vora/SP la/DA carretera/NC local/AQ TP-2002/ZZ ./FF
+Aquell/DD any/NC comptava/VM amb/SP 57/ZZ habitants/NC ./FF
+Els/DA censos/NC actuals/AQ de/SP el/DA Pont_d'_Armentera/NP no/RN especifiquen/VM la/DA població/NC de/SP el/DA barri/NC ,/FF mentre_que/CC a/SP la/DA part/NC d'/SP Aiguamúrcia/NP no/RN hi/PP havia/VA cap/DI resident/NC censat/VM l'/DA any/NC 2006/ZZ ./FF
+Ignasi_Ribó/NP (/FF Barcelona/NP ,/FF 1971/ZZ )/FF és/VS un/DI escriptor/NC català/AQ ./FF
+Treball/NP ./FF
+Ribó/NP és/VS autor/NC de/SP tres/ZZ novel·les/NC i/CC una/DI obra/NC de/SP teatre/NC ./FF
+Obres/NC ./FF
+Llibres/NP ./FF
+Polifemo/NP ./FF
+Edhasa/NP ,/FF Barcelona/NP ,/FF 2005/ZZ ISBN/NP :/FF 9788435009539/ZZ ;/FF La/NP ley/NC de/SP la/DA gravedad/NC ,/FF Edhasa/NP ,/FF Barcelona/NP ,/FF 2001/ZZ ./FF
+ISBN/NP 84-350-0839-8/ZZ ;/FF També/NP somien/VM els/DA búfals/NC ,/FF Empúries/NP ,/FF Barcelona/NP ,/FF 2000/ZZ ./FF
+Premis/NP ./FF
+Clara/NP de/SP nit/NC ./FF
+Prize_Joan_Santamaria/NP ,/FF 2000/ZZ ./FF
+Clear_Night/NP ./FF
+Boomerang_Theatre_First_Flight_Reading_Series/NP ,/FF New_York/NP ,/FF 2001/ZZ ./FF
+Referències/NP ./FF
+Roger_de_Mortimer/NP (/FF 11/ZZ d/NC abril_de_1374/WW 20_de_juliol_de_1398/WW )/FF va/VA ser/VS el/DA quart/NC Comte_de_March/NP i/CC el/DA sisè/AO Comte/NP d/AQ Ulster/NP ,/FF i/CC l/NC hereu/NC aparent/AQ de/SP Ricard_II_d'_Anglaterra/NP ./FF
+Llinatge/NP ./FF
+El/DA seu/PX pare/NC va/VA ser/VS el/DA poderós/AQ tercer/AO Comte_de_March_Edmund_Mortimer/NP ,/FF i/CC la/DA seva/PX mare/NC era/VS Felipa_Plantagenet/NP ,/FF la/DA única/AQ descendent/NC de/SP Lionel_d'_Anvers/NP ./FF
+Com/CS que/CS Lionel/NP d/NC Anvers/NP era/VS el/DA segon/AO fill/NC d/AQ Eduard_III/NP d/AQ Anglaterra/NP a/SP arribar/VM a/SP l/NC edat/NC adulta/AQ ,/FF a/SP la/DA mort/NC de/SP el/DA seu/PX pare/NC Roger/NP es/P0 convertí/VM en/SP l/NC hereu/NC aparent/AQ de/SP Ricard_II/NP ./FF
+Tot_i_que/CS la/DA seva/PX candidatura/NC a/SP el/DA tron/NC podia/VM ser/VS qüestionada/VM per/SP el/DA fet/NC de/SP què/PR la/DA seva/PX descendència/NC era/VS per/SP línia/NC femenina/AQ ,/FF els/DA costums/NC i/CC els/DA precedents/NC a/SP Anglaterra/NP li/PP donaven/VM preferència/NC per/SP davant/RG de/SP línies/NC masculines/AQ més/RG apartades/VM (/FF com/CS era/VS el/DA cas/NC de/SP les/DA cases/NC de/SP Lancaster/NP o/CC de/SP York/NP )/FF ./FF
+Els/DA seus/PX drets/NC dinàstics/AQ es/P0 van/VA veure/VM confirmats/VM quan/CS Ricard_II/NP el/PP va/VA reconèixer/VM públicament/RG com/CS a/SP hereu/NC a/SP el/DA tron/NC el/DA 1385/ZZ ./FF
+Campanyes/NP a/SP Irlanda/NP ./FF
+A/SP la/DA mort/NC de/SP el/DA seu/PX pare/NC el/DA 1381/ZZ ,/FF quan/PR tenia/VM només/RG set/ZZ anys/NC ,/FF Roger_Mortimer/NP havia/VA heretat/VM extenses/AQ terres/NC a/SP Gal·les/NP i/CC Irlanda/NP ./FF
+El/DA 1394/ZZ va/VA acompanyar/VM a/SP Ricard_II/NP a/SP Irlanda/NP i/CC va/VA actuar/VM com/CS a/SP representant/NC de/SP el/DA rei/NC ,/FF tot_i_que/CS no/RN va/VA aconseguir/VM pacificar/VM els/DA capitosts/NC irlandesos/AQ ./FF
+L/NP any/NC següent/AQ va/VA ser/VS nomenat/VM Lloctinent/NP d/RG Irlanda/NP ./FF
+A_mesura_que/CS Ricard_II/NP anava/VM perdent/VM el/DA suport/NC de/SP la/DA població/NC ,/FF Roger/NP guanyava/VM en/SP popularitat/NC a/SP Anglaterra/NP ,/FF tot_i_que/CS mai/RG va/VA emprendre/VM cap/DI acció/NC en/SP contra/SP de/SP les/DA mesures/NC polèmiques/AQ de/SP el/DA monarca/NC ./FF
+El/DA 20_de_juliol_de_1398/WW va/VA morir/VM a/SP la/DA Batalla_de_Kells/NP ,/FF lluitant/VM contra/SP un/DI clan/NC irlandès/AQ ./FF
+Els/DA seus/PX títols/NC i/CC terres/NC van/VA passar/VM a/SP el/DA seu/PX fill/NC Edmund_Mortimer/NP (/FF 5è/ZZ comte/NC de/SP March/NP )/FF ./FF
+Núpcies/NP i/CC descendència/NC ./FF
+Durant/SP la/DA seva/PX infància/NC i/CC des_de/SP l'/DA execució/NC de/SP el/DA seu/PX pare/NC Ricard/NP va/VA estar/VM sota/SP la/DA tutela/NC de/SP de/SP el/DA comte/NC de/SP Kent_Tomàs_Holland/NP ,/FF mig/AQ germà/NC de/SP el/DA rei/NC Ricard_II/NP ./FF
+El/DA 1387/ZZ o/CC 1388/ZZ el/DA comte/NC de/SP Kent/NP va/VA casar/VM -lo/PP amb/SP la/DA seva/PX filla/NC Elionor/NP ./FF
+Tingueren/VM quatre/ZZ fills/NC :/FF Anna_de_Mortimer/NP ,/FF esposa/NC de/SP Ricard_de_Conisburgh_de_la_Casa_de_York/NP i/CC mare/NC de/SP Ricard_Plantagenet/NP ./FF
+Edmund_Mortimer/NP ;/FF Roger_Mortimer/NP (/FF morí/VM jove/NC vers/SP el/DA 1409/ZZ )/FF ;/FF Eli

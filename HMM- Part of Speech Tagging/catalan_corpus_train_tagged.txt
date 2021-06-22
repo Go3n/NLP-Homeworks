@@ -2943,4 +2943,93 @@ Obres/NC ./FF
 Die/NP modernen/VM Theorien/NP der/NC Chemie/NP und/AQ ihre/RG Bedeutung/NP für/VM die/NC chemische/AQ Statik/NP ,/FF 1864/ZZ ;/FF Die_Chemie/NP in/VM ihrer/NC Anwendung/NP auf/NC die/NC Forstwirtschaft/NP ,/FF 1867/ZZ ;/FF Die_Natur/NP der/VM chemischen/NC Elemente/NP a/SP els/DA Funktion/NP ihrer/NC Atomgewichte/NP ,/FF 1870/ZZ ;/FF Die_Atomgewichte/NP der/VM Elemente/NP aus/NC den/VM Originalzahlen/NP neu/NC berechnet/AQ ,/FF 1883/ZZ ;/FF Enllaços/NP externs/AQ ./FF
 Periodic/NP table/AQ according/NC to/NC Lothar_Meyer/NP (/FF 1870/ZZ )/FF ;/FF Video/NP of/NC a/SP talk/NC by/AQ Michael_Gordin/NP titled/AQ "/FF Periodicity/NP ,/FF Priority/NP ,/FF Pedagogy/NP :/FF Mendeleev/NP and/AQ Lothar_Meyer/NP "/FF ;/FF
 El/DA Comtat_de_Gadsden/NP és/VS un/DI comtat/NC ubicat/VM a/SP l'/DA estat/NC de/SP Florida/NP ./FF
-a/SP
+a/SP el/DA 2000/ZZ ,/FF la/DA seva/PX població/NC era/VS de/SP 45.087/ZZ habitants/NC ./FF
+La/DA seva/PX seu/NC es/P0 troba/VM a/SP Quincy/NP ./FF
+Història/NP ./FF
+El/DA Comtat_de_Gadsden/NP va/VA ser/VS creat/VM l'/DA any/NC 1823/ZZ ./FF
+El/DA seu/PX nom/NC és/VS el/DA de/SP James_Gadsden_de_South_Carolina/NP ./FF
+Demografia/NP ./FF
+Segons/SP el/DA cens/NC de/SP 2000/ZZ ,/FF el/DA comtat/NC compta/VM amb/SP 45.087/ZZ habitants/NC ,/FF 15.867/ZZ llars/NC i/CC 11.424/ZZ famílies/NC residents/AQ ./FF
+La/DA densitat/NC de/SP població/NC és/VS de/SP 34/ZZ hab/AQ //FF km²/RG (/FF 87/ZZ hab/AQ //FF mi²/NC )/FF ./FF
+Hi/PP ha/VA 17.703/ZZ unitats/NC habitacionals/AQ amb/SP una/DI densitat/NC mitjana/AQ de/SP 13/ZZ u/PI ./FF a/SP ./FF //FF km²/RG (/FF 34/ZZ u/PI ./FF a/SP ./FF //FF mi²/NC )/FF ./FF
+La/DA composició/NC racial/AQ de/SP la/DA població/NC de/SP el/DA comtat/NC de/SP Gadsden/NP és/VS única/AQ a/SP Florida/NP ,/FF ja_que/CS té/VM una/DI població/NC majoritàriament/RG afroamericana/AQ o/CC negra/AQ :/FF 38,70_%/ZZ blanca/AQ ,/FF 57,14_%/ZZ afroamericana/AQ o/CC negra/AQ ,/FF 0,23_%/ZZ nativa/NC americana/AQ ,/FF 0,26_%/ZZ asiàtica/AQ ,/FF 0,02_%/ZZ de/SP les/DA illes/NC de/SP el/DA Pacífic/NP ,/FF 2,76_%/ZZ d'/SP altres/DI orígens/NC i/CC 0,89_%/ZZ de/SP dues/ZZ o/CC més/RG races/NC ./FF
+El/DA 6,17_%/ZZ de/SP la/DA població/NC és/VS d'/SP origen/NC hispà/AQ o/CC llatí/AQ ,/FF independentment/RG de/SP la/DA seva/PX raça/NC d'/SP origen/NC ./FF
+De/SP les/DA 15.867/ZZ llars/NC ,/FF en/SP el/DA 32,60_%/ZZ d'/SP aquests/PD hi/PP viuen/VM menors/AQ d'/SP edat/NC ,/FF 44,50_%/ZZ estan/VM formats/NC per/SP parelles/AQ casades/NC que/PR viuen/VM juntes/AQ ,/FF 22,50_%/ZZ són/VS portats/VM per/SP una/DI dona/NC sense/SP un/DI marit/NC present/AQ i/CC 28,00_%/ZZ no/RN són/VS famílies/NC ./FF
+El/DA 23,90_%/ZZ de/SP totes/DI les/DA llars/NC estan/VM formades/VM per/SP una_sola/ZZ persona/NC i/CC el/DA 9,50_%/ZZ d'/SP aquests/PD inclouen/VM una/DI persona/NC de/SP més/RG de/SP 65/ZZ anys/NC ./FF
+La/DA mitjana/NC d'/SP habitants/NC per/SP llar/NC és/VS de/SP 2,69/ZZ i/CC la/DA mitjana/NC de/SP membres/NC de/SP les/DA famílies/NC és/VS de/SP 3,18/ZZ persones/NC ./FF
+El/DA 26,40_%/ZZ de/SP la/DA població/NC de/SP el/DA comtat/NC té/VM menys/RG de/SP 18/ZZ anys/NC ,/FF el/DA 9,50_%/ZZ té/VM entre/SP 18/ZZ i/CC 24/ZZ anys/NC ,/FF el/DA 28,90_%/ZZ té/VM entre/SP 25/ZZ i/CC 44/ZZ anys/NC ,/FF el/DA 23,00_%/ZZ té/VM entre/SP 45/ZZ i/CC 64/ZZ anys/NC i/CC el/DA 12,20_%/ZZ té/VM més/RG de/SP 65/ZZ anys/NC ./FF
+L'/DA edat_mitjana/NC és/VS de/SP 36/ZZ anys/NC ./FF
+Per/SP cada/DI 100/ZZ dones/NC hi/PP ha/VA 90,70/ZZ homes/NC i/CC per/SP cada/DI 100/ZZ dones/NC de/SP més/RG de/SP 18/ZZ anys/NC hi/PP ha/VA 86,50/ZZ homes/NC ./FF
+La/DA renda/NC mitjana/AQ d'/SP una/DI llar/NC de/SP el/DA comtat/NC és/VS de/SP 31.248_$/ZZ ,/FF i/CC la/DA renda/NC mitja/AQ d'/SP una/DI família/NC és/VS de/SP 36.238_$/ZZ ./FF
+Els/DA homes/NC guanyen/VM de/SP mitjana/NC 27.159_$/ZZ contra/SP els/DA 21.721_$/ZZ per/SP les/DA dones/NC ./FF
+La/DA renda/NC per_càpita/RG a/SP el/DA comtat/NC és/VS de/SP 14.499_$/ZZ ./FF
+El/DA 19,90_%/ZZ de/SP la/DA població/NC i/CC 16,40_%/ZZ de/SP les/DA famílies/NC tenen/VM rendes/NC per/SP sota/NC de/SP el/DA nivell/NC de/SP pobresa/NC ./FF
+De/SP la/DA població/NC total/AQ sota/SP el/DA nivell/NC de/SP pobresa/NC ,/FF el/DA 28,50_%/ZZ són/VS menors/AQ de/SP 18/ZZ i/CC el/DA 16,90_%/ZZ són/VS majors/AQ de/SP 65/ZZ anys/NC ./FF
+Ciutats/NP i/CC pobles/NC ./FF
+Ciutat_de_Chattahoochee/NP ;/FF Poble_de_Greensboro/NP ;/FF Ciutat_de_Gretna/NP ;/FF Poble_de_Havana/NP ;/FF Ciutat_de_Midway/NP ;/FF Ciutat_de_Quincy/NP ;/FF
+Amintore_Fanfani/NP (/FF Província_d'_Arezzo/NP ,/FF Itàlia/NP ,/FF 6_de_febrer_de_1908/WW -/FF Roma/NP ,/FF Itàlia/NP ,/FF 20_de_novembre_de_1999/WW )/FF va/VA ser/VS un/DI polític/NC italià/AQ i/CC Primer_Ministre/NP d'/SP aquell/DD país/NC en/SP diverses/DI oportunitats/NC ./FF
+Va/VA ser/VS també/RG president/NC interí/AQ entre/SP Juny/WW i/CC Juliol_de_1978/WW Biografia/NP ./FF
+Va/VA néixer/VM a/SP Pieve_Sant_Stefano/NP en/SP la/DA Província_d'_Arezzo/NP ./FF
+Va/VA participar/VM en/SP 1945/ZZ en/SP la/DA formació/NC de/SP la/DA Democràcia_Cristiana/NP italiana/AQ i/CC va/VA ser/VS membre/NC actiu/AQ de/SP el/DA Partit_Demòcrata_Cristià_de_Itàlia/NP ./FF
+Més/RG tard/VM va/VA ser/VS membre/NC de/SP el/DA gabinet/NC i/CC Primer_Ministre/NP moltes/DI vegades/NC ./FF
+Era/VS un/DI proponent/NC de/SP les/DA reformes/NC socials/AQ i/CC partícip/AQ de/SP la/DA renovació/NC italiana/AQ ,/FF a/SP més/RG de/SP promovedor/NC de/SP les/DA reformes/NC agràries/AQ ./FF
+Entre/SP 1965/ZZ i/CC 1966/ZZ ,/FF Fanfani/NP va/VA ser/VS president/NC de/SP la/DA Assemblea_General_de_les_Nacions_Unides/NP i/CC entre/SP el/DA 28_d'_abril/WW i/CC el/DA 28_de_maig_de_1978/WW va/VA ser/VS President_d'_Itàlia/NP en/SP funcions/NC ./FF
+Va/VA morir/VM en/SP Roma/NP en/SP 1999/ZZ ./FF
+Bibliografia/NP ./FF
+(/FF it/NC )/FF Igino_Giordani/NP ,/FF Alcide_De_Gasperi/NP il/AQ ricostruttore/RG ,/FF Roma/NP ,/FF Edizioni_Cinque_Lune/NP ,/FF 1955/ZZ ./FF
+(/FF it/NC )/FF Giulio_Andreotti/NP ,/FF De_Gasperi/NP e/NC il/AQ suo/VM tempo/NC ,/FF Milano/NP ,/FF Mondadori/NP ,/FF 1956/ZZ ./FF
+(/FF it/NC )/FF Nico_Perrone/NP ,/FF Il/NP segno/VM della/NC DC/NP ,/FF Bari/NP ,/FF Dedalo/NP ,/FF 2002/ZZ ,/FF ISBN/NP 88-220-6253-1/ZZ ./FF
+(/FF it/NC )/FF Luciano_Radi/NP ,/FF La_Dc/NP da/VM De_Gasperi/NP a/SP Fanfani/NP ,/FF Soveria_Manelli/NP ,/FF Rubbettino/NP ,/FF 2005/ZZ ./FF
+Càrrecs/NP públics/AQ exercits/VM ./FF
+L'/DA àcid/NC sulfhídric/AQ de/SP fórmula/NC H2S/ZZ pot/VM actuar/VM amb/SP càrrega/NC positiva/AQ o/CC negativa/AQ (/FF +/FF 1/ZZ o/CC -/FF 1/ZZ )/FF ./FF
+Quan/CS un/DI hidrogen/NC es/P0 combina/VM amb/SP un/DI metall/NC ,/FF actua/VM amb/SP càrrega/NC positiva/AQ i/CC si/CS l'/DA hidrogen/NC es/P0 combina/VM amb/SP un/DI no/NC metall/NC (/FF com/CS el/DA sofre/NC )/FF el/DA grau/NC d'/SP oxidació/NC és/VS el/DA negatiu/AQ ./FF
+El/DA sofre/NC només/RG té/VM un/DI grau/NC d'/SP oxidació/NC negatiu/AQ (/FF -/FF 2/ZZ )/FF ,/FF per/SP tant/RG quan/CS intercanvien/VM les/DA seves/PX valències/NC la/DA fórmula/NC queda/VM H2S/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+ATSDR/NP -/FF ToxFAQs/NP :/FF Ácido/NP sulfhídrico/NC ;/FF ATSDR/NP -/FF Resumen/VM de/SP Salud_Pública/NP :/FF Ácido/NP sulfhídrico/NC ;/FF Instituto_Nacional_de_Seguridad/NP e/NC Higiene/NP en/SP el/DA Trabajo_de_España/NP :/FF Fitxa/NC internacional/AQ de/SP seguretat/NC química/AQ de/SP el/DA sulfur/NC d'/SP hidrogen/NC ./FF ;/FF
+Antoni_Coll/NP i/CC Pontanilla/NP (/FF Sabadell/NP ,/FF 1959/ZZ )/FF ,/FF ciclista/NC català/AQ ;/FF Antoni_Coll_Prohens/NP ,/FF polític/AQ mallorquí/NC de/SP primers/AO de/SP el/DA segle_XX/WW ;/FF
+Un/DI crupier/NC (/FF de/SP el/DA francès/NC croupier/AQ )/FF és/VS un/DI empleat/NC de/SP els/DA casinos/NC de/SP joc/NC que/PR s/NC encarrega/VM de/SP dirigir/VM les/DA partides/NC ./FF
+En/SP el/DA jocs/NC de/SP contrapartida/NC (/FF ruleta/NC ,/FF black-jack/NC .../FF )/FF ,/FF el/DA crupier/NC esdevé/VM el/DA representant/NC de/SP la/DA banca/NC i/CC els/DA clients/NC juguen/VM contra/SP ell/PP ./FF
+Malgrat/SP això/PD ,/FF el/DA crupier/NC sempre/RG juga/VM segons/SP unes/DI regles/NC preestablertes/VM i/CC no/RN té/VM capacitat/NC de/SP decisió/NC ./FF
+En/SP els/DA jocs/NC de/SP cercle/NC (/FF pòquer/NC ,/FF chemin-de-fer/NC .../FF )/FF ,/FF el/DA crupier/NC només/RG assisteix/VM a/SP els/DA jugadors/NC que/PR s/NC enfronten/VM entre/SP si/CS ./FF
+Categories/NP ./FF
+A/SP Europa/NP hi/PP ha/VA dues/ZZ grans/AQ categories/NC d/AQ empleat/NC :/FF el/DA crupier/NC i/CC el/DA cap/NC de/SP taula/NC ./FF
+Generalment/RG ,/FF els/DA crupiers/NC són/VS els/DA treballadors/NC que/PR tenen/VM tracte/NC directe/AQ amb/SP el/DA públic/NC ./FF
+S/NP encarreguen/VM de/SP pagar/VM els/DA premis/NC i/CC retirar/VM les/DA postes/NC perdedores/AQ ,/FF repartir/VM les/DA cartes/NC ,/FF tirar/VM la/DA bola/NC a/SP la/DA ruleta/NC sempre/RG seguint/VM uns/DI estrictes/AQ procediments/NC ./FF
+Els/DA caps/NC de/SP taula/NC són/VS crupiers/NC veterans/AQ que/PR s/NC encarreguen/VM de/SP supervisar/VM la/DA partida/NC ,/FF vetllar/VM per/SP seguretat/NC de/SP les/DA postes/NC i/CC corregir/VM qualsevol/DI error/NC que/PR el/DA crupier/NC pugui/VM cometre/VM ./FF
+Les/DA propines/NC ,/FF que/CS els/DA guanyadors/NC indefectiblement/RG lliuren/VM a/SP els/DA crupiers/NC ,/FF esdevenen/VM una/DI part/NC substancial/AQ de/SP llurs/PX sous/NC ./FF
+Tant/RG a/SP Catalunya/NP com/CS a/SP la/DA resta/NC d/AQ Europa/NP ,/FF a_final/RG de/SP mes/NC es/P0 reparteix/VM el/DA total/NC de/SP les/DA propines/NC de/SP manera/NC proporcional/AQ a/SP la/DA veterania/NC de/SP els/DA empleats/NC ./FF
+Història/NP ./FF
+El/DA terme/NC crupier/NC és/VS un/DI gal·licisme/NC que/PR va/VA introduir/VM -se/P0 a/SP la/DA llengua/NC catalana/AQ durant/SP el/DA segle_XIX/WW ./FF
+El/DA cavalier/NC croupier/AQ era/VS el/DA genet/NC expert/AQ ,/FF que/PR muntant/VM darrera/AO d/NC un/DI principiant/NC ,/FF li/PP ensenyava/VM l/NC art/NC de/SP l/NC equitació/NC ./FF
+Posteriorment/RG s/NC emprà/VM aquesta/DD locució/NC per/SP a/SP referir/VM -se/P0 a/SP les/DA persones/NC que/PR assistien/VM a/SP un/DI jugador/NC novell/AQ ,/FF donant/VM -li/PP consells/NC a/SP canvi/NC d/AQ una/DI propina/NC ./FF
+Normalment/RG ,/FF aquests/DD individus/NC restaven/VM dempeus/RG i/CC darrera/AO de/SP el/DA jugador/NC ./FF
+Abans/RG d/AQ imposar/VM -se/PP el/DA terme/NC crupier/NC ,/FF es/P0 feia_servir/VM en/SP català/NC la/DA paraula/NC barater/AQ ,/FF és/VS a/SP dir/VM ,/FF qui/PR cobra/VM el/DA barat/NC o/CC propina/NC ./FF
+Unió_Independent_de_Mallorca/NP (/FF UIM/NP )/FF fou/VS un/DI partit/NC polític/AQ escindit/VM d'/SP Unió_Mallorquina/NP el/DA 1990/ZZ ,/FF disconformes/AQ amb/SP el/DA pacte/NC d'/SP Unió_Mallorquina/NP amb/SP el/DA PP/NP que/PR els/PP feia/VM presentar/VM -se/P0 en/SP la/DA mateixa/DI llista/NC a/SP les/DA eleccions/NC ./FF ,/FF i/CC dirigit/VM per/SP Miquel_Pascual/NP que/PR es/P0 presentà/VM de/SP manera/NC independent/AQ a/SP les/DA eleccions/NC a/SP el/DA Parlament_de_les_Illes_Balears/NP de/SP 1991/ZZ i/CC va/VA obtenir/VM 8.429/ZZ vots/NC i/CC un/DI escó/NC ./FF
+Alhora/RG ,/FF a/SP les/DA eleccions/NC municipals/AQ de/SP el/DA mateix/DI any/NC va/VA obtenir/VM 9.238/ZZ vots/NC i/CC 18/ZZ regidors/NC (/FF cinc/ZZ a/SP Marratxí/NP ,/FF tres/ZZ a/SP Sóller/NP ,/FF dos/ZZ a/SP Ses_Salines/NP ,/FF Son_Cervera/NP ,/FF Santa_Margalida/NP i/CC Sant_Llorenç/NP des/SP Cardassar/NP ,/FF un/PI a/SP Costitx/NP i/CC un/DI a/SP Pollença/NP ./FF
+El/DA 1993/ZZ es/P0 va/VA tornar/VM a/SP unificar/VM amb/SP Unió_Mallorquina/NP ./FF
+Pere_Oliver/NP i/CC Domenge/NP (/FF Ciutat_de_Mallorca/NP ,/FF 1886/ZZ -/FF Felanitx/NP ,/FF 1968/ZZ )/FF fou/VS un/DI polític/AQ mallorquí/NC ./FF
+Treballava/VM com/CS a/SP farmacèutic/NC a/SP Felanitx/NP ,/FF el/DA 1917/ZZ col·laborà/VM a/SP el/DA diari/NC La_Veu_de_Mallorca/NP ,/FF partidari/AQ de/SP l'/DA autonomia/NC de/SP les/DA Illes_Balears/NP i/CC de/SP tendència/NC pancatalanista/AQ ./FF
+El/DA 1923/ZZ fou/VS un/PI de/SP els/DA fundadors/NC de/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP i/CC col·laborà/VM a/SP La_Nostra_Terra/NP ./FF
+Quan/CS es/P0 proclamà/VM la/DA Segona_República_Espanyola/NP fou/VS proclamat/VM alcalde/NC de/SP Felanitx/NP i/CC intervingué/VM en/SP la/DA discussió/NC de/SP l'/DA avantprojecte/NC d'/SP Estatut_d'_Autonomia_de_les_Illes_Balears/NP de/SP 1931/ZZ ./FF
+Desencissat/NP ,/FF el/DA 1932/ZZ participà/VM en/SP l'/DA organització/NC de/SP el/DA partit/NC Acció_Republicana_de_Mallorca/NP i/CC el/DA 1934/ZZ formà_part/VM de/SP el/DA consell/NC regional/AQ d'/SP Esquerra_Republicana_Balear/NP ./FF
+Quan/CS esclatà/VM la/DA guerra/NC civil/AQ espanyola/AQ i/CC Mallorca/NP fou/VS ocupada/VM per/SP les/DA tropes/NC franquistes/AQ ,/FF s'/P0 havia/VA amagat/VM a/SP Portocolom/NP ,/FF d'/SP on/PR va/VA partir/VM en/SP un/DI llaüt/NC cap/NC a/SP Menorca/NP i/CC d'/SP ací/RG a/SP Barcelona/NP i/CC després/RG de/SP la/DA guerra/NC a/SP Filipines/NP ./FF
+La/DA seva/PX farmàcia/NC fou/VS saquejada/VM i/CC la/DA casa/NC incautada/NC per/SP l'/DA exercit/VM rebel/AQ ./FF
+El/DA 1952/ZZ tornà/VM de/SP l'/DA exili/NC ,/FF però/CC el/DA Col·legi_de_Farmacèutics/NP no/RN l'/PP hi/PP va/VA deixar/VM reobrir/VM la/DA Farmàcia/NP ./FF
+Obres/NC ./FF
+La/DA catalanitat/NC de/SP les/DA Mallorques/NP (/FF 1916/ZZ )/FF ;/FF Joanot_Colom/NP i/CC Cifré/NP (/FF 1929/ZZ )/FF ;/FF Història_de_Felanitx/NP contada/VM a/SP els/DA infants/NC ;/FF Enllaços/NP externs/AQ ./FF
+Biografia/NP ;/FF
+El/DA top-posting/NC és/VS el/DA costum/NC de/SP respondre/VM els/DA correus/NC electrònics/AQ i/CC altres/DI missatges/NC per/SP sobre/SP de/SP el/DA misstage/NC original/AQ ./FF
+És/VS consiferat/NC indesitjable/AQ en/SP moltes/DI definicions/NC de/SP la/DA netiqueta/NC ,/FF ja_que/CS interromp/VM el/DA curs/NC natural/AQ de/SP la/DA discussió/NC ,/FF tal_i_com/CS es/P0 mostra/VM en/SP el/DA següent/AQ exemple/NC :/FF Perquè/CS així/RG es/P0 facilita/VM el/DA seguiment/NC de/SP el/DA tema/NC tractat/NC ./FF
+>/FF Per/NP què/PR ?/FF
+>/FF >/FF És/NP preferible/AQ escriure/VM per/SP sota/NC de/SP el/DA paràgraf/NC que/PR es/P0 respon/VM ./FF
+>/FF >/FF >/FF Aleshores/NP què/PR es/P0 fa/VM ?/FF
+>/FF >/FF >/FF >/FF No/NP ./FF
+>/FF >/FF >/FF >/FF >/FF És/NP bo/AQ fer/VM "/FF top-posting/NC "/FF ?/FF
+L'/DA ordre/NC correcte/AQ a/SP aquesta/DD discussió/NC seria/VS :/FF >/FF >/FF >/FF >/FF >/FF És/NP bo/AQ fer/VM "/FF top-posting/NC "/FF ?/FF
+>/FF >/FF >/FF >/FF No/NP ./FF
+>/FF >/FF >/FF Aleshores/NP què/PR es/P0 fa/VM ?/FF
+>/FF >/FF És/NP preferible/AQ escriure/VM per/SP sota/NC de/SP el/DA paràgraf/NC que/PR es/P0 respon/VM ./FF
+>/FF Per/NP què/PR ?/FF
+Perquè/CS així/RG es/P0 facilita/VM el/DA seguiment/NC de/SP el/DA tema/NC tractat/NC ./FF
+Molts/DI usuaris/NC ,/FF principalment/RG en/SP el/DA correu/NC privat/NC i/CC empresarial/AQ ,/FF realitzen/VM top-posting/NC degut/VM a/SP la/DA configuració/NC predeterminada/VM de/SP els/DA seus/PX clients/NC de/SP correu/NC ,/FF com/CS per/SP el/DA fet/NC de/SP què/PR la/DA nova/AQ informació/NC és/VS visible/AQ sense_necessitat_de/SP visualitzar/VM el/DA missatge/NC complet/AQ ./FF
+Aquesta/DD pràctica/NC és/VS vàlida/AQ si/CS a/SP el/DA conversa/NC és/VS entre/SP dues/ZZ persones/NC i/CC el/DA que/PR hi/PP ha/VA referenciat/VM ha/VA sigut/VM

@@ -3100,4 +3100,84 @@ Bibliografia/NP ./FF
 Garrut/NP ,/FF Josep_M./NP (/FF 1984/ZZ )/FF ,/FF «/FF La_Casa-Museu_Gaudí/NP amb/SP pròleg/NC i/CC dues/ZZ parts/NC »/FF Antoni_Gaudí/NP (/FF 1852-1926/ZZ )/FF ,/FF Fundació_Caixa_de_Pensions/NP ./FF
 ISBN/NP 84-505-0683-2/ZZ
 Estats/NC sobirans/AQ ./FF
-A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Alemanya
+A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Alemanya_Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF Regne_d'_Aràbia_Saudita/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF República_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_Finlàndia/NP ;/FF República_de_França/NP ;/FF G._República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF República_Hel·lènica/NP ;/FF República_d'_Hondures/NP ;/FF Regne_d'_Hongria/NP ;/FF I._Regne_Mutawakkilita_de_el_Iemen/NP ;/FF Regne_d'_Iraq/NP ;/FF Estat_Lliure_d'_Irlanda/NP ;/FF Regne_d'_Islàndia/NP ;/FF Regne_d'_Itàlia/NP ;/FF Regne_de_Iugoslàvia/NP ;/FF J._Imperi_de_el_Japó/NP ;/FF L./NP -/FF República_de_Letònia/NP ;/FF República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF República_de_Lituània/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF República_Popular_de_Mongòlia/NP ;/FF N._Regne_de_el_Nepal/NP ;/FF Terranova_Domini_de_Newfoundland/NP ;/FF República_de_Nicaragua/NP ;/FF Regne_de_Noruega/NP ;/FF -/FF Domini_de_Nova_Zelanda/NP ;/FF P._Regne_de_els_Països_Baixos/NP ;/FF República_de_el_Panamà/NP ;/FF República_de_el_Paraguai/NP ;/FF Pèrsia_Imperi_Persa/NP ;/FF República_Peruana/NP ;/FF República_de_Polònia/NP ;/FF República_Portuguesa/NP ;/FF R._Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda_de_el_Nord/NP ;/FF Regne_de_Romania/NP ;/FF S._República_de_el_Salvador/NP ;/FF Sereníssima_República_de_San_Marino/NP ;/FF -/FF Regne_de_Siam/NP ;/FF Sud-àfrica_Unió_de_Sud-àfrica/NP ;/FF Regne_de_Suècia/NP ;/FF Confederació/NP suïssa/NC ;/FF T._República_Popular_de_Tannu_Tuva/NP ;/FF Tavolara_Regne_de_Tavolara/NP ;/FF República_de_Turquia/NP ;/FF República_Txecoslovaca/NP ;/FF U._Unió_de_Repúbliques_Socialistes_Soviètiques/NP ;/FF República_Occidental_de_l'_Uruguai/NP ;/FF V._Estat_de_la_Ciutat_de_el_Vaticà/NP ;/FF Estats_Units_de_Veneçuela/NP ;/FF X._República_de_Xile/NP ;/FF ;/FF Estats/NP que/PR proclamen/VM la/DA sobirania/NC ./FF
+Gran_Imperi_Manxú/NP ;/FF Tibet/NP ;/FF Jiangxi_República_Soviètica_Xinesa/NP ;/FF
+Phoenicopterus/NP andinus/AQ és/VS és/VS una/DI espècie/NC de/SP flamenc/NC que/PR viu/VM a/SP el/DA sud/NC de/SP el/DA Perú/NP ,/FF Bolívia/NP ,/FF nord/AQ de/SP Xile/NP i/CC nord-oest/AQ d'/SP Argentina/NP ./FF
+Referències/NP ./FF
+El/DA mausoleu/NC Shish_Gumbad/NP es/P0 troba/VM a/SP el/DA Jardí_de_els_Lodi/NP ,/FF situat/VM a/SP el/DA sud/NC de/SP el/DA centre/NC antic/AQ de/SP Delhi/NP (/FF Nova_Delhi/NP ,/FF Índia/NP )/FF ./FF
+Hom/PI desconeix/VM a/SP qui/PT pertany/VM aquesta/DD tomba/NC ,/FF molt/RG possiblement/RG a/SP un/DI alt/AQ dignatari/NC de/SP l/NC època/NC de/SP el/DA sobirà/NC Sikandar_Lodi/NP (/FF 1489-1517/ZZ )/FF ./FF
+El/DA nom/NC de/SP Shish_Gumbad/NP fa_referència/VM a/SP la/DA decoració/NC vidrada/AQ que/PR antigament/RG decorava/VM exteriorment/RG la/DA seva/PX cúpula/NC ./FF
+Es/P0 tracta/VM d/RG un/DI construcció/NC de/SP planta/NC quadrada/VM rematada/NC per/SP una/DI gran/AQ cúpula/NC ,/FF exteriorment/RG té/VM l/NC aparença/VM d/RG un/DI edifici/NC de/SP dues/ZZ plantes/NC ./FF
+A/SP la/DA façana/NC hi/PP ha/VA restes/NC de/SP la/DA decoració/NC de/SP rajola/NC esmaltada/NC en/SP blau/NC ,/FF d/RG origen/NC persa/AQ ./FF
+Un/PI de/SP els/DA quatre/ZZ murs/NC ,/FF el/DA de/SP ponent/NC ,/FF té/VM un/DI mihrab/AQ ,/FF els/DA altres/DI tres/ZZ tenen/VM uns/DI grans/AQ portals/NC d/AQ accés/NC ,/FF amb/SP iwans/RG ./FF
+La/DA seva/PX estructura/NC és/VS molt/RG similar/AQ a/SP el/DA mausoleu/NC Bara_Gumbad/NP ,/FF que/PR es/P0 troba/VM a/SP el/DA costat/NC ./FF
+Sota/SP la/DA cúpula/NC ,/FF es/P0 troben/VM diverses/DI tombes/NC ,/FF però/CC sense/SP cap/DI mena/NC d/AQ inscripció/NC que/PR permeti/VM identificar/VM els/DA personatges/NC ./FF
+A/SP l/NC interior/AQ també/RG hi/PP ha/VA restes/NC de/SP decoració/NC i/CC inscripcions/NC coràniques/AQ ./FF
+Phoenicopterus/NP chilensis/NC és/VS una/DI espècie/NC de/SP flamenc/NC que/PR viu/VM a/SP Sud-Amèrica/NP i/CC que/PR ha/VA estat/VS introduït/VM a/SP els/DA Països_Baixos/NP i/CC Alemanya/NP ./FF
+Referències/NP ./FF
+Phoenicopterus/NP jamesi/NC és/VS una/DI espècie/NC de/SP flamenc/NC que/PR viu/VM a/SP el/DA Perú/NP ,/FF Xile/NP ,/FF Bolívia/NP i/CC Argentina/NP ./FF
+Referències/NP ./FF
+El/DA complex/NC Bara_Gumbad/NP es/P0 troba/VM a/SP el/DA Jardí_de_els_Lodi/NP ,/FF situat/VM a/SP el/DA sud/NC de/SP el/DA centre/NC antic/AQ de/SP Delhi/NP (/FF Nova_Delhi/NP ,/FF Índia/NP )/FF ./FF
+Es/P0 tracta/VM d/RG un/DI conjunt/NC de/SP diverses/DI construccions/NC :/FF un/DI mausoleu/NC ,/FF una/DI mesquita/NC i/CC una/DI hostatgeria/NC per/SP a/SP pelegrins/NC ./FF
+El/DA nom/NC de/SP Bara_Gumbad/NP fa_referència/VM a/SP la/DA gran/AQ cúpula/NC que/PR remata/VM el/DA mausoleu/NC ,/FF i/CC s/NC utilitza/VM aquest/DD nom/NC degut/VM a/SP que/CS hom/PI desconeix/VM el/DA personatge/NC que/PR fou/VS enterrat/VM en/SP aquest/DD lloc/NC ,/FF una/DI personalitat/NC de/SP l/NC època/NC de/SP el/DA sobirà/NC Sikandar_Lodi/NP (/FF 1489-1517/ZZ )/FF ./FF
+El/DA mausoleu/NC Bara_Gumbad/NP és/VS de/SP planta/NC quadrada/VM ,/FF exteriorment/RG té/VM l/NC aparença/VM d/RG un/DI edifici/NC de/SP dues/ZZ plantes/NC ./FF
+La/DA seva/PX estructura/NC és/VS molt/RG similar/AQ a/SP la/DA de/SP el/DA mausoleu/NC Shish_Gumbad/NP ,/FF que/PR es/P0 troba/VM a/SP el/DA seu/PX costat/NC ./FF
+La/DA tomba/NC ocupa/VM el/DA fons/NC d/AQ un/DI espai/NC obert/VM ,/FF a/SP la/DA dreta/NC la/DA mesquita/NC i/CC a/SP l/NC esquerra/AQ l/NC hostatgeria/NC ./FF
+La/DA mesquita/NC Bara_Gumbad/NP es/P0 va/VA bastir/VM el/DA 1494/ZZ ./FF
+És/VS de/SP planta/NC rectangular/AQ i/CC la/DA seva/PX façana/NC és/VS oberta/VM ,/FF amb/SP cinc/ZZ arcs/NC ,/FF el/DA central/NC de/SP grans/AQ dimensions/NC ./FF
+Interiorment/RG cal/VM fer/VM esment/NC de/SP la/DA decoració/NC que/PR cobreix/VM les/DA estructures/NC ./FF
+Alexandre_Jaume_Rosselló/NP (/FF Montevideo/NP 1879/ZZ -/FF Palma/NP ,/FF 1937/ZZ )/FF fou/VS un/DI polític/AQ mallorquí/NC ,/FF nebot/NC de/SP el/DA polític/NC liberal/AQ Alexandre_Rosselló_Pastor/NP ./FF
+Pertanyia/VM a/SP una/DI família/NC acomodada/VM ,/FF va/VA estudiar/VM dret/NC a/SP les/DA Universitats_de_Barcelona/NP ,/FF València/NP ,/FF Madrid/NP i/CC París/NP ,/FF El/NP 1904/ZZ fou/VS nomenat/VM cònsol/NC d'/SP Uruguai/NP a/SP Palma/NP i/CC milità/VM en/SP el/DA Partit_Liberal/NP ,/FF amb/SP el/DA qual/PR fou/VS escollit/VM regidor/NC de/SP l'/DA ajuntament/NC de/SP Palma/NP ,/FF però/CC poc/RG després/RG renuncià/VM en/SP protesta/NC per/SP els/DA caciquisme/NC polític/AQ ./FF
+Molt/RG amic/AQ de/SP Gabriel_Alomar/NP i/CC Villalonga/NP i/CC de/SP Llorenç_Bisbal/NP i/CC Barceló/NP ,/FF s'/P0 apropà/VM a/SP el/DA PSOE/NP ,/FF partit/NC a/SP el/DA que/PR s'/P0 afilià/VM el/DA 1919/ZZ ./FF
+Mantingué/VM una/DI notable/AQ activitat/NC periodistica/AQ ,/FF col·laborant/VM a/SP El_Socialista/NP i/CC El_Obrero_Balear/NP però/CC es/P0 mantingué/VM vinculat/VM a/SP Joan_March_Ordinas/NP i/CC el/DA 1923/ZZ es/P0 va/VA veure/VM implicat/VM en/SP la/DA lluita/NC entre/SP vergueristes/NC i/CC antivergueristes/NC ,/FF raó/NC per/SP la/DA que/PR s'/P0 hagué/VA de/SP donar/VM de/SP baixa/NC temporalment/RG de/SP el/DA partit/NC ./FF
+Quan/CS s'/P0 instaurà/VM la/DA dictadura/NC de/SP Primo_de_Rivera/NP s'/P0 oposà/VM a/SP col·laborar/VM -hi/PP com/CS Indalecio_Prieto/NP ./FF
+El/DA dia/NC de/SP la/DA proclamació/NC de/SP la/DA Segona_República_Espanyola/NP ,/FF fou/VS alcalde/NC interí/AQ de/SP Palma/NP per/SP malaltia/NC de/SP Llorenç_Bisbal/NP ./FF
+A/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1931/ZZ i/CC a/SP les/DA de/SP 1933/ZZ fou/VS elegit/NC diputat/NC per/SP la/DA conjunció/NC republicano-socialista/AQ ./FF
+Malgrat/SP la/DA seva/PX actitud/NC pancatalanista/AQ ,/FF mantengué/VM reticències/NC quant_a/SP la/DA concessió/NC d'/SP un/DI estatut/NC d'/SP autonomia/NC per/SP a/SP les/DA Illes_Balears/NP ./FF
+A/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP el/DA 1936/ZZ fou/VS candidat/NC de/SP el/DA Front_Popular/NP però/CC no/RN aconseguí/VM escó/NC ./FF
+El/DA 19_de_juliol_de_1936/WW fou/VS detengut/VM a/SP el/DA port/NC de/SP Pollença/NP i/CC empresonat/VM a/SP el/DA castell/NC de/SP Bellver/NP per/SP les/DA autoritats/NC sublevades/AQ ./FF
+Acusat/NC falsament/RG de/SP participar/VM en/SP la/DA preparació/NC d'/SP un/DI inexistent/AQ moviment/NC soviètic/AQ ,/FF el/DA 16_de_febrer_de_1937/WW fou/VS condemnat/VM a_mort/RG i/CC afusellat/VM el/DA dia_24/WW amb/SP Antoni_Maria_Ques_Ventanyol/NP ,/FF Emili_Darder/NP i/CC Antoni_Mateu_Ferrer/NP ./FF
+Obres/NC ./FF
+Impresiones/NP de/SP un/DI constituyente/NC (/FF 1933/ZZ )/FF ,/FF La/NP insurrección/NC de/SP octubre/WW :/FF Cataluña/NP ,/FF Asturias/NP ,/FF Baleares/NP (/FF 1935/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Biografia/NP ;/FF
+El/DA flamenc/NC menut/AQ (/FF Phoenicopterus/NP minor/VM )/FF és/VS una/DI espècie/NC de/SP flamenc/NC que/PR viu/VM a/SP Àfrica/NP ,/FF Pakistan/NP i/CC nord-oest/AQ de/SP l'/DA Índia/NP ./FF
+Referències/NP ./FF
+El/DA mausoleu/NC de/SP Mohamed_Shah/NP es/P0 troba/VM a/SP el/DA Jardí_de_els_Lodi/NP ,/FF situat/VM a/SP el/DA sud/NC de/SP el/DA centre/NC antic/AQ de/SP Delhi/NP (/FF Nova_Delhi/NP ,/FF Índia/NP )/FF ./FF
+Es/P0 tracta/VM de/SP la/DA tomba/NC de/SP el/DA soldà/NC Mohamed_Shah/NP (/FF 1435-1445/ZZ )/FF ,/FF de/SP la/DA dinastia/NC sayyid/AQ ./FF
+És/VS un/DI de/SP els/DA exemples/NC de/SP mausoleu/NC de/SP planta/NC octogonal/AQ amb/SP una/DI galeria/NC d/AQ acs/NC envoltant/AQ -la/PP ,/FF similar/AQ a/SP els/DA mausoleus/NC de/SP Sikandar_Lodi/NP i/CC d'/SP Isa_Khan/NP ,/FF de/SP construcció/NC posterior/AQ ./FF
+Exteriorment/RG presenta/VM una/DI façana/NC de/SP vuit/ZZ costats/NC ,/FF amb/SP tres/ZZ arcs/NC cada/DI un/DI d/NC ells/PP ./FF
+Una/DI gran/AQ cúpula/NC envoltada/VM de/SP chattri/VM (/FF templets/NC circulars/AQ ,/FF amb/SP cúpula/NC suportada/VM per/SP columnes/NC )/FF ./FF
+A/SP l/NC interior/AQ encara/RG es/P0 poden/VM veure/VM les/DA tombes/NC de/SP Mohamed_Shah/NP i/CC altres/DI personatges/NC ./FF
+Phoenicopterus/NP roseus/NC és/VS una/DI espècie/NC de/SP flamenc/NC que/PR viu/VM a/SP Àfrica/NP ,/FF sud-oest/NC d'/SP Àsia/NP (/FF incloent/VM -hi/PP Turquia/NP )/FF ,/FF sud/AQ d'/SP Àsia/NP (/FF regions/NC costaneres/AQ de/SP l'/DA Índia/NP )/FF i/CC sud/NC d'/SP Europa/NP (/FF Península_Ibèrica/NP ,/FF Grècia/NP ,/FF Xipre/NP i/CC la/DA regió/NC de/SP la/DA Camarga/NP )/FF ./FF
+Referències/NP ./FF
+Antoni_Mateu_Ferrer/NP (/FF Inca/NP 1901/ZZ -/FF Palma/NP 1937/ZZ )/FF fou/VS un/DI polític/AQ mallorquí/NC ./FF
+Militant/NP republicà/AQ ,/FF fou/VS batle/AQ d'/SP Inca/NP el/DA 1932-1933/ZZ ./FF
+Durant/SP la/DA seva/PX administració/NC es/P0 crearen/VM la/DA banda/NC municipal/AQ ,/FF la/DA biblioteca/NC municipal/AQ i/CC el/DA laboratori/NC de/SP la/DA casa/NC Bressol/NP ,/FF es/P0 construïren/VM l'/DA Escola_Graduada/NP ,/FF l'/DA Escola_d'_Arts/NP i/CC Oficis/NP i/CC el/DA dispensari/NC de/SP la/DA Casa_de_Socors/NP ./FF
+També/RG es/P0 va/VA comprar/VM un/DI solar/NC en/SP el/DA camí/NC vell/AQ de/SP Llubí/NP per/SP construir/VM -hi/PP una/DI altra/DI escola/NC i/CC es/P0 va/VA fer/VM un/DI projecte/NC de/SP conservació/NC de/SP els/DA molins/NC d'/SP Inca/NP ./FF
+El/DA 1934/ZZ ,/FF fou/VS un/PI de/SP els/DA fundadors/NC d'/SP Esquerra_Republicana_Balear/NP i/CC en/SP féu/VM part/NC de/SP el/DA comitè/NC executiu/AQ ./FF
+En/SP esclatar/VM la/DA guerra/NC civil/AQ espanyola/AQ ,/FF fou/VS detengut/VM ,/FF sotmès/VM a/SP un/DI consell_de_guerra/NC i/CC executat/VM el/DA 24_de_març_de_1937/WW a/SP una/DI tàpia/NC de/SP el/DA cementiri/NC de/SP Palma/NP amb/SP Emili_Darder/NP ,/FF Alexandre_Jaume_Rosselló/NP i/CC Antoni_Maria_Ques_Ventanyol/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia/NP ;/FF
+Relació/NP de/SP muntanyes/NC valencianes/AQ ./FF
+Font/NP ./FF
+VV/RG ./FF
+AA/NP ./FF (/FF 1999/ZZ )/FF ,/FF Atlas_Escolar_de_el_País_Valencià/NP ,/FF PUV/NP (/FF València/NP )/FF ,/FF 50/ZZ pàg/NC ./FF
+Saint-Avertin/NP és/VS un/DI municipi/NC francès/AQ ,/FF situat/VM a/SP el/DA departament/NC d'/SP Indre/NP i/CC Loira/NP i/CC a/SP la/DA regió/NC de/SP Centre/NP ./FF
+El/DA gentilici/NC de/SP els/DA seus/PX habitants/NC és/VS Saint-Avertinois/NP ./FF
+Situació/NP ./FF
+Saint-Avertin/NP es/P0 troba/VM a/SP l'/DA oest/NC de/SP el/DA Centre/NP ,/FF a/SP la/DA regió/NC anomenada/NC Turena/NP ./FF
+Es/P0 troba/VM a/SP pocs/DI quilòmetres/NC a/SP el/DA sud/NC de/SP Tours/NP ,/FF a/SP la/DA qual/PR es/P0 pot/VM arribar/VM per_mitjà_de/SP l'/DA autopista/NC A10/ZZ ./FF
+Altres/DI municipis/NC propers/AQ són/VS Saint-Pierre-Des-Corps/NP ,/FF Larçay/NP o/CC Chambray-Lès-Tours/NP ./FF
+El/DA riu/NC Cher/NP travessa/VM la/DA ciutat/NC ./FF
+Administració/NP ./FF
+Saint-Avertin/NP és/VS la/DA capital/NC de/SP el/DA cantó/NC homònim/AQ ,/FF que/CS a/SP el/DA seu/PX torn/NC forma_part/VM de/SP el/DA districte/NC de/SP Tours/NP ./FF
+L'/DA alcalde/NC de/SP la/DA ciutat/NC és/VS Jean-Gérard_Paumier/NP (/FF 2001-2008/ZZ )/FF ./FF
+Demografia/NP ./FF
+Història/NP ./FF
+Es/P0 té/VM constància/NC de/SP l'/DA existència/NC d'/SP un/DI llogarret/NC anomenat/VM Venciacum/NP en/SP temps/NC gal·lo-romans/AQ ./FF
+Hi/PP havia/VA una/DI pedrera/NC (/FF l'/DA Ecorcheveau/NP )/FF d'/SP on/PR s'/P0 extreia/VM pedra/NC per/SP a/SP la/DA construcció/NC de/SP monuments/NC a/SP Tours/NP (/FF aleshores/RG anomenada/NC Caesarodunum/NP )/FF ./FF
+A/SP principis/NC de/SP el/DA segle_XIV/WW ,/FF el/DA nom/NC de/SP el/DA llogarret/NC havia/VA evolucionat/VM i/CC s'/P0 havia/VA convertit/VM en/SP Vençay/NP ./FF
+L'/DA any/NC 1162/ZZ ,/FF l'/DA arquebisbe/NC de/SP Canterbury_Tomàs_Becket/NP va/VA assistir/VM a/SP un/DI concili/NC a/SP Tours/NP ,/FF i/CC el/PP va/VA acompanyar/VM un/DI monjo/NC anomenat/VM Aberdeen/NP ./FF
+Uns/DI anys/NC més/RG tard/RG ,/FF després/RG que/CS Becket/NP fos/VS assassinat/VM per/SP quatre/ZZ cavallers/NC a/SP les/DA immediacions/NC de/SP la/DA mateixa/DI catedral/NC de/SP Canterbury/NP ,/FF Aberdeen/NP va/VA fugir/VM a/SP la/DA Turena/NP ,/FF on/PR va/VA adoptar/VM una/DI vida/NC d'/SP ermità/NC ajudant/VM els/DA habitants/NC ,/FF amb/SP els/DA seus/PX problemes/NC ./FF
+Els/DA habitants/NC canviaren/VM el/DA seu/PX nom/NC a/SP Avertin/NP ./FF
+Finalment/RG Av

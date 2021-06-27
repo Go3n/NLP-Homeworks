@@ -3180,4 +3180,88 @@ A/SP principis/NC de/SP el/DA segle_XIV/WW ,/FF el/DA nom/NC de/SP el/DA llogarr
 L'/DA any/NC 1162/ZZ ,/FF l'/DA arquebisbe/NC de/SP Canterbury_Tomàs_Becket/NP va/VA assistir/VM a/SP un/DI concili/NC a/SP Tours/NP ,/FF i/CC el/PP va/VA acompanyar/VM un/DI monjo/NC anomenat/VM Aberdeen/NP ./FF
 Uns/DI anys/NC més/RG tard/RG ,/FF després/RG que/CS Becket/NP fos/VS assassinat/VM per/SP quatre/ZZ cavallers/NC a/SP les/DA immediacions/NC de/SP la/DA mateixa/DI catedral/NC de/SP Canterbury/NP ,/FF Aberdeen/NP va/VA fugir/VM a/SP la/DA Turena/NP ,/FF on/PR va/VA adoptar/VM una/DI vida/NC d'/SP ermità/NC ajudant/VM els/DA habitants/NC ,/FF amb/SP els/DA seus/PX problemes/NC ./FF
 Els/DA habitants/NC canviaren/VM el/DA seu/PX nom/NC a/SP Avertin/NP ./FF
-Finalment/RG Av
+Finalment/RG Avertin/NP va/VA fer/VM cas/NC a/SP les/DA peticions/NC de/SP els/DA habitants/NC i/CC va/VA esdevenir/VM el/DA primer/AO monjo/NC de/SP la/DA parròquia/NC ./FF
+Un/DI parell/NC de/SP segles/NC més/RG tard/RG ,/FF el/DA 1371/ZZ ,/FF el/DA poble/NC va/VA canviar/VM de/SP nom/NC en/SP honor/NC d'/SP Avertin/NP ./FF
+Llocs/NP i/CC monuments/NC ./FF
+Castell_de_Cangé/NP ./FF
+El/DA castell/NC de/SP Cangé/NP va/VA ser/VS bastit/VM a/SP el/DA segle_XIII/WW per/SP la/DA família/NC turena/NC D'_Andigné/NP ./FF
+Es/P0 troba/VM dins/SP un/DI parc/NC de/SP quinze_hectàrees/ZZ a/SP el/DA costat/NC oriental/AQ de/SP la/DA ciutat/NC ,/FF dominant/VM la/DA vall/NC de/SP el/DA Cher/NP ./FF
+El/DA castell/NC ha/VA estat/VS ocupat/VM successivament/RG per/SP diverses/DI dinasties/NC de/SP renom/NC :/FF família/NC D'_Andigné/NP (/FF 1200-1400/ZZ )/FF ;/FF família/NC Montmorin/NP (/FF 1400-1489/ZZ )/FF ;/FF família/NC Coningham/NP (/FF 1489-1679/ZZ )/FF ;/FF família/NC Panon_Desbassayns_de_Richemont/NP (/FF 1832-1870/ZZ )/FF ;/FF família/NC Pourtalès/NP (/FF finals/NC de/SP el/DA segle_XIX/WW )/FF ;/FF Gilbert_Imbert_de_Chastres/NP ,/FF alcalde/NC de/SP Tours/NP ,/FF va/VA ocupar/VM el/DA castell/NC ,/FF així/RG com/CS quatre/ZZ alcaldes/NC de/SP Saint-Avertin/NP :/FF Viot_Prudhomme/NP ,/FF el/DA baró/NC Paul_de_Richemont/NP ,/FF Maurice_Cottier/NP i/CC el/DA comte/NC Paul_de_Portalès/NP ./FF
+Durant/SP la/DA Segona_Guerra_Mundial/NP ,/FF el/DA castell/NC va/VA ser/VS expropiat/VM durant/SP cinc/ZZ dies/NC per/SP el/DA president/NC Albert_Lebrun/NP i/CC per/SP els/DA serveis/NC de/SP la/DA Presidència_de_la_República_Francesa/NP ./FF
+Hi/PP van/VA tenir_lloc/VM dos/ZZ consells/NC de/SP ministres/NC ,/FF el/DA 12/ZZ i/CC el/DA 13_de_juny_del_1940/WW ./FF
+Després/RG de/SP la/DA guerra/NC ,/FF el/DA seu/PX propietari/NC el/DA deixà/VM abandonat/VM ./FF
+Un/DI incendi/NC el/PP va/VA malmetre/VM la/DA nit/NC de/SP el/DA 20/ZZ a/SP el/DA 21_de_juny_del_1978/WW ./FF
+Va/VA ser/VS finalment/RG adquirit/VM per/SP el/DA municipi/NC de/SP Saint-Avertin/NP el/DA 1980/ZZ ./FF
+Tot/PI i/CC això/PD ,/FF gran/AQ part/NC de/SP el/DA castell/NC encara/RG és/VS inaccessible/AQ car/CC les/DA obres/NC de/SP restauració/NC encara/RG no/RN s'/P0 han/VA acabat/VM ./FF
+L'/DA edifici/NC està/VM prohibit/VM a/SP el/DA públic/NC ./FF
+Les/DA immediacions/NC i/CC el/DA vast/AQ parc/NC de/SP el/DA castell/NC acullen/VM sovint/RG l'/DA esplai/NC de/SP la/DA ciutat/NC ,/FF l'/DA escola/NC municipal/AQ de/SP música/NC i/CC moltes/DI altres/DI associacions/NC ./FF
+S'/P0 hi/PP organitzant/VM diversos/DI esdeveniments/NC a/SP el/DA llarg/AQ de/SP l'/DA any/NC gràcies_a/SP un/DI gran/AQ nombre/NC d'/SP instal·lacions/NC :/FF un/DI circuit/NC de/SP bicross/AQ ,/FF àrea/NC de/SP jocs/NC .../FF Altres/DI llocs/NC d'/SP interès/NC ./FF
+l'/DA església/NC de/SP Saint_Pierre/NP ,/FF amb/SP una/DI nau/NC de/SP el/DA segle_XII/WW ,/FF un/DI cor/NC de/SP el/DA segle_XV/WW i/CC vitralls/NC de/SP Lobin/NP ./FF
+És/VS el/DA lloc/NC on/PR Sant_Avertin/NP va/VA ser/VS enterrat/VM el/DA 1180/ZZ ./FF
+l'/DA Hôtel_de_Ville/NP ,/FF construït/VM el/DA 1850/ZZ i/CC amb/SP una/DI façana/NC d'/SP estil/NC clàssic/AQ ./FF
+els/DA dipòsits/NC de/SP glaç/NC ;/FF la/DA riva/VM de/SP el/DA riu/NC Cher/NP ,/FF coneguda/VM com/CS a/SP Côte_Verte/NP ./FF
+fonts/NC de/SP el/DA Limançon/NP ,/FF galeries/NC de/SP el/DA segle_XV/WW que/PR van/VA subministrar/VM aigua/NC potable/AQ a/SP la/DA població/NC de/SP la/DA Turena/NP durant/SP molt/RG de/SP temps/NC ./FF
+galeries/NC de/SP l'/DA Ecourcheveau/NP ,/FF antigues/AQ pedreres/NC d'/SP on/PR s'/P0 extreia/VM pedra/NC per/SP a/SP la/DA construcció/NC de/SP monuments/NC i/CC que/PR van/VA servir/VM de/SP refugi/NC durant/SP la/DA Segona_Guerra_Mundial/NP ./FF
+Esports/NP ./FF
+La/DA societat/NC Saint-Avertin_Sports/NP s'/P0 encarrega/VM de/SP dirigir/VM la/DA vida/NC esportiva/AQ de/SP la/DA ciutat/NC ./FF
+Compta/VM amb/SP vint-i-sis/ZZ seccions/NC diferents/AQ ./FF
+Altres/DI grups/NC esportius/AQ són/VS el/DA Collectif_Cycliste/NP 37/ZZ i/CC el/DA grup/NC Automobiles_Sportives_de_Touraine/NP ./FF
+Personalitats/NP ./FF
+Christophe_Plantin/NP ,/FF editor/NC i/CC propietari/NC d'/SP impremta/NC ,/FF hi/PP nasqué/VM entre/SP el/DA 1514i/ZZ el/DA 1520/ZZ ;/FF Jules_Romains/NP ,/FF poeta/NC i/CC escriptor/NC ;/FF Sant_Avertin/NP ,/FF monjo/NC i/CC deixeble/NC de/SP Tomàs_Becket/NP ;/FF Joan_de_Coningham/NP ,/FF capità/NC de/SP la/DA guàrdia/NC escocesa/AQ de/SP Lluís_XI/NP ;/FF Albert_Lebrun/NP ,/FF últim/AO president/NC de/SP la/DA Tercera_República/NP francesa/AQ ;/FF Roger_Lévêque/NP ,/FF portador/AQ de/SP el/DA maillot/NC groc/AQ de/SP el/DA Tour_de_França/NP ,/FF hi/PP va/VA morir/VM el/DA 2002/ZZ ./FF
+Agermanaments/NP ./FF
+Saint-Avertin/NP té/VM un/DI agermanament/NC des_de/SP el/DA 1980/ZZ amb/SP el/DA municipi/NC alemany/AQ de/SP Steinbach/NP ,/FF de/SP poc/RG més/RG de/SP deu_mil/ZZ habitants/NC ./FF
+Dins/SP el/DA marc/NC d'/SP aquest/DD agermanament/NC ,/FF s'/P0 organitzen/VM intercanvis/NC culturals/AQ i/CC sessions/NC de/SP conversa/NC en/SP alemany/AQ ./FF
+Steinbach/NP està/VM agermanat/NC amb/SP la/DA localitat/NC neerlandesa/AQ de/SP Pijnacker/NP i/CC una/DI altra/DI localitat/NC alemanya/AQ ,/FF Steinbach-Hallenberg/NP ./FF
+A/SP causa/NC d'/SP això/PD ,/FF aquestes/DD dues/ZZ localitats/NC també/RG mantenen/VM relacions/NC amistoses/AQ amb/SP Saint-Avertin/NP ./FF
+Els/DA quatre/ZZ municipis/NC organitzen/VM trobades/NC i/CC intercanvis/NC ./FF
+Un/DI altre/DI exemple/NC destacable/AQ de/SP les/DA relacions/NC internacionals/AQ de/SP Saint-Avertin/NP són/VS les/DA Rencontres_Folkloriques_Internationales/NP (/FF trobades/NC folklòriques/AQ internacionals/AQ )/FF que/PR s'/P0 hi/PP celebren/VM a/SP finals/NC de/SP juny/WW ,/FF i/CC que/CS són/VS un/DI punt/NC de/SP trobada/NC per/SP gent/NC vinguda/NC d'/SP arreu/RG de/SP el/DA món/NC ./FF
+Vegeu/VM també/RG ./FF
+Llistat/NC de/SP municipis/NC de/SP l'/DA Indra/NP i/CC Loira/NP ;/FF Enllaços/NP externs/AQ ./FF
+Lloc/NP web/NC oficial/AQ de/SP la/DA ciutat/NC ;/FF Saint-Avertin/NP a/SP el/DA lloc/NC web/NC de/SP l'/DA INSEE/NP ;/FF
+La/DA placa/NC sud-americana/AQ és/VS una/DI placa/NC tectònica/AQ que/PR inclou/VM Sud-amèrica/NP i/CC la/DA porció/NC de/SP el/DA sud/NC de/SP l'/DA oceà/NC Atlàntic/NP compresa/NC entre/SP la/DA costa/NC sud-americana/AQ i/CC la/DA dorsal/NC meso-atlàntica/AQ ./FF
+Té/VM una/DI extensió/NC d'/SP uns/DI 9_milions_de_km2/ZZ ,/FF o/CC 1,030/ZZ 45_estereoradiants/ZZ ./FF
+Se/P0 l'/PP associa/VM generalment/RG a/SP la/DA placa/NC de/SP el/DA nord/NC de/SP els/DA Andes/NP i/CC a/SP la/DA de/SP el/DA Altiplano/NP ./FF
+El/DA límit/NC convergent/AQ a/SP l'/DA oest/NC ha/VA generat/VM dos/ZZ notables/AQ fenòmens/NC :/FF la/DA serralada/NC de/SP els/DA Andes/NP i/CC la/DA fossa/NC xilena-peruana/NC ;/FF mentre_que/CC a/SP l'/DA est/NC el/DA límit/NC divergent/AQ amb/SP la/DA placa/NC africana/AQ va/VA permetre/VM l'/DA aparició/NC de/SP l'/DA oceà/NC Atlàntic/NP i/CC ,/FF posteriorment/RG ,/FF la/DA dorsal/NC meso-atlàntica/AQ ./FF
+Les/DA plaques/NC limítrofes/AQ són/VS :/FF a/SP el/DA nord/NC ,/FF la/DA placa/NC de/SP el/DA Carib/NP i/CC la/DA placa/NC nord-americana/AQ ;/FF a/SP el/DA sur/VM ,/FF la/DA placa/NC escocesa/AQ i/CC la/DA placa/NC antàrtica/AQ ;/FF A/NP l'/DA est/NC ,/FF la/DA placa/NC africana/AQ ;/FF A/NP l'/DA oest/NC ,/FF la/DA placa/NC de/SP Cocos/NP i/CC la/DA placa/NC de/SP Nazca/NP ;/FF Vegeu/NP també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Femona/NP (/FF Phemonoe/NP ,/FF )/FF fou/VS una/DI mítica/AQ poetessa/NC grega/AQ de/SP el/DA període/NC prehomèric/AQ ./FF
+La/DA llegenda/NC la/PP fa/VM filla/NC d'/SP Apol·lo/NP i/CC la/DA seva/PX primera/AO sacerdotessa/NC a/SP Delfos/NP ;/FF hauria/VA inventat/VM el/DA vers/NC hexàmetre/NC (/FF Pausànies/NP diu/VM que/CS fou/VS la/DA primera/AO que/PR el/PP va/VA utilitzar/VM però/CC no/RN que/PR ho/PP va/VA inventar/VM )/FF ./FF
+L'/DA esmenten/VM Melamp/NP i/CC Plini/NP el/DA vell/NC ;/FF aquest/DD darrer/AO parla/VM d'/SP un/DI llibre/NC sobre/SP àligues/NC i/CC falcons/NC ,/FF segurament/RG sobre/SP auguris/NC ./FF
+Ferècrates/NP (/FF Pherecrates/NP ,/FF )/FF fou/VS un/DI poeta/NC grec/AQ de/SP la/DA vella/AQ comèdia/NC contemporani/AQ de/SP Cratí_d'_Atenes/NP ,/FF Crates/NP ,/FF Èupolis/NP ,/FF Plató/NP i/CC Aristòfanes/NP ./FF
+Havia/VA estat/VM actor/NC de/SP les/DA obres/NC de/SP Crates/NP ./FF
+Va/VA obtenir/VM la/DA seva/PX primera/AO victòria/NC en/SP un/DI concurs/NC el/DA 438/ZZ aC/NC ./FF
+Va/VA inventar/VM un/DI nou_metre/ZZ que/PR fou/VS anomenat/VM metre/NC ferecràtic/AQ ./FF
+Un/DI autor/NC anònim/AQ sobre/SP escriptors/NC de/SP comèdies/NC diu/VM que/CS va/VA escriure/VM 18/ZZ comèdies/NC i/CC Suides/NP i/CC Eudòcia/NP en/SP donen/VM 16/ZZ ./FF
+Meineke/NP després/RG d'/SP un/DI anàlisi/NC crític/AQ en/SP dona/NC 15/ZZ :/FF ;/FF
+Onomàstica/NP :/FF Ferècides_de_Siros/NP ,/FF filòsof/NC grec/AQ ;/FF Ferècides_d'_Atenes/NP ,/FF antic/AQ logògraf/NC grec/AQ ;/FF
+Francesc_de_Sales_Aguiló_Forteza/NP (/FF Palma/NP 1899/ZZ -/FF Bogotà/NP 1956/ZZ )/FF Polític/NP ,/FF científic/NC i/CC escriptor/NC mallorquí/AQ ./FF
+Es/P0 llicencià/VM en/SP ciències/NC a/SP la/DA Universitat_de_Barcelona/NP el/DA 1921/ZZ ,/FF on/PR coincidí/VM amb/SP el/DA seu/PX amic/NC Andreu_Crespí_Salom/NP ,/FF amb/SP qui/PR el/DA 1922/ZZ fundà/VM a/SP Palma_el_Colegio_Cervantes/NP ,/FF de/SP el/DA que/CS en/SP fou/VS director/NC ./FF
+Ocupà/VM càrrecs/NC directius/AQ a/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP el/DA 1924/ZZ amb/SP Elvir_Sans/NP i/CC Emili_Darder/NP ./FF
+Fou/VS organitzador/AQ i/CC habitual/AQ conferenciant/NC i/CC professor/NC ajudant/AQ d'/SP història/NC natural/AQ ./FF
+El/DA 1928/ZZ col·laborà/VM a/SP La_Nostra_Terra/NP i/CC el/DA 1930/ZZ ingressà/VM en/SP el/DA Partit_Republicà_Democràtic_Federal/NP amb/SP Emili_Darder/NP ,/FF Bernat_Jofre/NP ,/FF Andreu_Crespí/NP i/CC Pere_Oliver_Domenge/NP ,/FF i/CC amb/SP ell/PP es/P0 presentà/VM com/CS a/SP candidat/NC per/SP Palma/NP a/SP les/DA eleccions/NC de/SP el/DA 12_d'_abril_de_1931/WW ,/FF però/CC no/RN sortí/VM elegit/NC ./FF
+Les/DA eleccions/NC es/P0 repetiren/VM un/DI cop/NC proclamada/VM la/DA Segona_República/NP i/CC fou/VS elegit/NC regidor/AQ ./FF
+Aleshores/RG deixà/VM el/DA PRDF/NP i/CC s'/P0 uní/VM a/SP el/DA Partit_Republicà_Radical_de_Lerroux/NP ./FF
+Realitzà/VM una/DI gran/AQ activitat/NC cultural/AQ i/CC política/AQ durant/SP la/DA República/NP ,/FF destacant/VM els/DA seus/PX cursets/NC de/SP català/NC ./FF
+Va/VA esser/NC membre/NC fundador/AQ d'/SP Acció_Republicana_de_Mallorca/NP el/DA 1932/ZZ i/CC d'/SP Esquerra_Republicana_Balear/NP el/DA 1934/ZZ ,/FF dirigí/VM el/DA seu/PX òrgan/NC Mallorca_Nova/NP i/CC fou/VS un/PI de/SP els/DA redactors/NC de/SP l'/DA Avantprojecte_d'_Estatut_d'_Autonomia_de_les_Illes_Balears/NP de/SP 1931/ZZ ./FF
+Signà/VM el/DA Manifest_de_el_Comitè/NP de/SP relacions/NC entre/SP Catalunya/NP i/CC Mallorca/NP i/CC formà_part/VM de/SP la/DA Comissió_Organitzadora_de_la_Comunitat_de_Cultura_Catalano-Balear/NP ./FF
+Quan/CS esclatà/VM la/DA Revolució/NP d'/SP octubre_de_1934/WW ,/FF va/VA esser/NC destituït/VM de/SP el/DA seu/PX càrrec/NC a/SP l'/DA Ajuntament_de_Palma/NP ,/FF però/CC se/P0 'l/PP rehabilità/VM el/DA 1935/ZZ ./FF
+També/RG signà/VM la/DA Resposta/NP a/SP els/DA catalans/AQ el/DA maig_de_1936/WW ./FF
+La/DA guerra/NC civil/AQ el/PP va/VA sorprendre/VM dedicat/VM a/SP l'/DA ensenyament/NC a/SP Barcelona/NP ./FF
+El/DA juliol_de_1937/WW fou/VS elegit/VM president/NC de/SP el/DA Consell_Executiu_d'_ERB/NP a/SP Catalunya/NP ./FF
+Dirigí/VM Mallorca_Nova/NP ,/FF on/PR el/DA manifest/NC Per_Mallorca/NP i/CC per/SP la/DA Llibertat/NP ,/FF arran_de/SP l'/DA assassinat/NC d'/SP Emili_Darder/NP ./FF
+El/DA febrer_de_1939/WW marxà/VM a/SP l'/DA exili/NC i/CC fou/VS internat/NC a/SP el/DA camp/NC de/SP concentració/NC d'/SP Argelers/NP ./FF
+El/DA 1940/ZZ s'/P0 establí/VM a/SP Colòmbia/NP on/PR muntà/VM una/DI llibreria/NC i/CC es/P0 dedicà/VM a/SP l'/DA ensenyança/NC universitària/AQ de/SP biologia/NC ./FF
+Publicà/VM diferents/DI articles/NC a/SP la/DA revista/NC Quaderns_de_l'_Exili_de_Mèxic/NP ,/FF com/CS Mallorca/NP ,/FF nova/AQ fidelitat/NC (/FF 1944/ZZ )/FF ,/FF on/PR demanà/VM el/DA reconeixement/NC de/SP la/DA possibilitat/NC legal/AQ de/SP federació/NC entre/SP Catalunya/NP ,/FF València/NP i/CC Balears/NP ,/FF quan/CS ho/PP expressassin/VM democràticament/RG les/DA majories/NC de/SP els/DA pobles/NC respectius/AQ ,/FF i/CC actuà/VM de/SP secretari/NC de/SP el/DA Patronat_de_Cultura_Catalana/NP ./FF
+El/DA 1945/ZZ fou/VS secretari/NC de/SP la/DA comissió/NC organitzadora/AQ de/SP els/DA Jocs_Florals_de_Llengua_Catalana/NP a/SP Bogotà/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia/NP ;/FF
+Ferècides_de_Siros/NP (/FF Pherecydes/NP )/FF ,/FF fill/NC de/SP Babis/NP ,/FF fou/VS un/DI filòsof/NC grec/AQ nadiu/AQ de/SP l'/DA illa/NC de/SP Siros/NP encara/RG que/CS alguns/PI pensen/VM que/CS és/VS un/DI error/NC per/SP "/FF Síria/NP "/FF o/CC "/FF Assíria/NP "/FF ./FF
+Suides/NP el/PP situa/VM a/SP el/DA temps/NC de/SP el/DA rei/NC Aliates_II_de_Lídia/NP i/CC Diògenes_Laerci/NP vers/SP l'/DA any/NC 544/ZZ aC/NC ,/FF però/CC aquesta/DD segona/AO data/NC és/VS més/RG probable/AQ ./FF
+Segons/SP algunes/DI referències/NC hauria/VA estat/VS mestre/NC de/SP Pitàgores/NP ./FF
+El/DA seu/PX coneixement/NC filosòfic/AQ derivaria/VM d'/SP antics/AQ llibres/NC fenicis/AQ ./FF
+Hauria/VA estat/VM rival/AQ de/SP Tales_de_Milet/NP i/CC hauria/VA estudiat/VM amb/SP egipci/NC (/FF hauria/VA viatjat/VM a/SP Egipte/NP )/FF i/CC caldeus/AQ ./FF
+Segons/SP una/DI tradició/NC va/VA morir/VM de/SP malaltia/NC (/FF de/SP morbus/NC pediculosus/AQ )/FF ,/FF però/CC un/DI altra/DI diu/NC que/PR es/P0 va/VA suïcidar/VM i/CC encara/RG hi/PP ha/VA altres/DI tradicions/NC ./FF
+La/DA seva/PX aportació/NC principal/AQ fou/VS la/DA doctrina/NC de/SP la/DA metempsicosis/NC o/CC immortalitat/NC de/SP l'/DA ànima/NC ,/FF que/PR va/VA deixar/VM escrita/VM en/SP un/DI llibre/NC que/PR encara/RG es/P0 conservava/VM en/SP el/DA període/NC alexandrí/AQ ./FF
+La/DA seva/PX obra/NC es/P0 titulava/VM probablement/RG que/CS el/DA Suides/NP diu/VM que/CS es/P0 dividia/VM en/SP dos/ZZ llibres/NC ./FF
+Ferècides_d'_Atenes/NP (/FF Pherecides/NP )/FF fou/VS un/DI de/SP els/DA més/RG famosos/AQ antics/AQ logògrafs/NC ./FF
+Suides/NP l'/PP esmenta/VM com/CS a/SP Perècides_de_Leros/NP ,/FF ja_que/CS va/VA néixer/VM a/SP Leros/NP ,/FF però/CC va/VA viure/VM 

@@ -3332,4 +3332,102 @@ Deixeble_de_Publi_Hordeoni_Lol·lià/NP ,/FF que/PR va/VA viure/VM a/SP el/DA se
 L'/DA esmenta/VM Filostrat/NP que/PR diu/VM que/CS era/VS vehement/AQ i/CC barallós/AQ ,/FF i/CC que/PR va/VA viure/VM a/SP Roma/NP després/RG d'/SP estar/VM en/SP altres/DI llocs/NC ./FF
 Onomàstica/NP :/FF Filagri_de_Rodes/NP ,/FF orador/NC grec/AQ ./FF
 Filagri_de_l'_Epir/NP ,/FF metge/NC grec/AQ ;/FF Filagri/NP ,/FF metge/NC grec/AQ ;/FF Filagri/NP (/FF governador/NC )/FF de/SP Egipte/NP ;/FF
-Filagri/NP (/FF Philagrius/NP ,/FF )/FF fou/VS un/DI orador/NC grec/AQ nadiu/AQ de/SP Rodes/NP ,/FF imitador/AQ d'/SP Hipèrides/NP ./
+Filagri/NP (/FF Philagrius/NP ,/FF )/FF fou/VS un/DI orador/NC grec/AQ nadiu/AQ de/SP Rodes/NP ,/FF imitador/AQ d'/SP Hipèrides/NP ./FF
+L'/DA esmenta/VM Dionís_d'_Halicarnàs_ENDOFARTICLE/NP ./FF
+Filagri/NP (/FF Philagrius/NP ,/FF )/FF fou/VS un/DI metge/NC grec/AQ nadiu/AQ de/SP l'/DA Epir/NP que/PR va/VA viure/VM després/RG de/SP Galè/NP i/CC abans/RG que/CS Oribasi/NP ,/FF probablement/RG a/SP el/DA segle_III/WW ./FF
+Suides/NP diu/VM que/CS fou/VS deixeble/NC de/SP Naumaqui/NP i/CC que/PR va/VA exercir/VM a/SP Tessalònica/NP ./FF
+Fou/VS conegut/VM de/SP els/DA escriptors/NC àrabs/AQ medievals/AQ que/PR donen/VM com/CS obres/NC seves/PX les/DA següents/AQ :/FF 1/ZZ ./FF
+De/SP Impetigine/NP ;/FF 2/ZZ ./FF
+De/SP iis/NC quae/AQ Gingivae_Dentibusque/NP accident/NC ;/FF 3/ZZ ./FF
+De/SP iis/AQ qui/PR Medico/NP destituntur/NC ;/FF 4/ZZ ./FF
+De/SP Morborum_Indiciis/NP ;/FF 5/ZZ ./FF
+De/SP Arthritidis_Morbo/NP ;/FF 6/ZZ ./FF
+De/SP Renum/NP vel/NC Vesicae_Calculo/NP ;/FF 7/ZZ ./FF
+De/SP Hepalis_Morbo/NP ;/FF 8/ZZ ./FF
+De/SP Morbo_Colico/NP ;/FF 9/ZZ ./FF
+De/SP Morbo_Icterico/NP ;/FF 10/ZZ ./FF
+De/SP Cancri_Morbo/NP ;/FF 11/ZZ ./FF
+De/SP Morsu_Canis/NP ;/FF Es/NP esmentat/VM per/SP Aeci/NP ,/FF Oribasi/NP i/CC altres/DI i/CC considerat/VM un/DI metge/NC de/SP els/DA més/RG eminents/AQ per/SP el/DA Cronicó_de_Cirili/NP ./FF
+Fuencarral-El_Pardo/NP és/VS el/DA nom/NC d'/SP un/DI districte/NC de/SP la/DA ciutat/NC de/SP Madrid/NP i/CC organitzat/VM administrativament/RG en/SP els/DA barris/NC de/SP El_Pardo/NP (/FF 81/ZZ )/FF ,/FF Fuentelarreina/NP (/FF 82/ZZ )/FF ,/FF Peñagrande/NP (/FF 83/ZZ )/FF ,/FF Pilar/NP (/FF 84/ZZ )/FF ,/FF La_Paz/NP (/FF 85/ZZ )/FF ,/FF Valverde/NP (/FF 86/ZZ )/FF ,/FF Mirasierra/NP (/FF 87/ZZ )/FF i/CC El_Goloso/NP (/FF 88/ZZ )/FF ./FF
+Comprèn/VM l'/DA antiga/AQ vila/NC de/SP Fuencarral/NP ,/FF i/CC el/DA Palau_Real_de_el_Pardo/NP ./FF
+Arganzuela/NP és/VS un/DI districte/NC de/SP la/DA ciutat/NC de/SP Madrid/NP ,/FF organitzat/VM administrativament/RG en/SP els/DA barris/NC de/SP Imperial/NP (/FF 21/ZZ )/FF ,/FF Les_Acàcies/NP (/FF 22/ZZ )/FF ,/FF La_Chopera/NP (/FF 23/ZZ )/FF ,/FF Legazpi/NP (/FF 24/ZZ )/FF ,/FF Les_Delícias/NP (/FF 25/ZZ )/FF ,/FF Palos_de_Moguer/NP (/FF 26/ZZ )/FF i/CC Atocha/NP (/FF 27/ZZ )/FF ./FF
+El/DA seu/PX territori/NC es/P0 troba/VM a/SP l'/DA est/NC de/SP el/DA riu/NC Manzanares/NP i/CC íntegrament/RG dintre/RG de/SP el/DA perímetre/NC de/SP la/DA M-30/ZZ ./FF
+Limita/VM ,/FF a/SP el/DA nord/NC i/CC norest/NC amb/SP els/DA districtes/NC de/SP Centre/NP i/CC Retir/NP ;/FF a/SP l'/DA est/NC i/CC sud-est/NC amb/SP el/DA de/SP Puente_de_Vallecas/NP ;/FF a/SP el/DA sud/NC amb/SP el/DA d'/SP Usera/NP i/CC a/SP l'/DA oest/NC amb/SP els/DA de/SP Latina/NP i/CC Carabanchel/NP ./FF
+Filagri/NP (/FF Philagrius/NP ,/FF )/FF fou/VS un/DI metge/NC grec/AQ fill/NC de/SP Filostorgi/NP ./FF
+Va/VA viure/VM amb/SP posterioritat/NC a/SP el/DA temps/NC de/SP els/DA emperadors/NC Valentinià_I/NP i/CC Valent/NP ./FF
+Fabricius/NP pensa/VM que/CS és/VS la/DA mateixa/DI persona/NC a/SP la/DA qual/PR el/DA gran/AQ Gregori_Nazianzè/NP va/VA dirigir/VM vuit/ZZ cartes/NC ,/FF però/CC la/DA identificació/NC és/VS força/RG dubtosa/AQ ./FF
+Francesc_Julià/NP i/CC Perelló/NP (/FF Palma_de_Mallorca/NP 1879/ZZ -/FF 1975/ZZ )/FF fou/VS un/DI polític/AQ mallorquí/NC ./FF
+El/DA 1904/ZZ milità/VM a/SP el/DA PSOE/NP ,/FF però/CC el/DA 1910/ZZ es/P0 passa/VM a/SP la/DA Unió_Republicana/NP i/CC dirigí/VM la/DA Joventut_Republicana_Radical/NP ,/FF fundant/VM el/DA diari/NC La_Voz_de_el_Pueblo/NP (/FF 1913-1919/ZZ )/FF ./FF
+Fou/VS un/DI de/SP els/DA organitzadors/NC de/SP el/DA Partit_Autònom_d'_Unió_Republicana_de_Mallorca/NP el/DA 1913/ZZ ./FF
+Des_de/SP 1918/ZZ ,/FF féu/VM part/NC de/SP el/DA directori/NC de/SP els/DA reconstituït/VM Partit_Republicà_Federal_de_Mallorca/NP ,/FF que/PR va/VA donar_suport/VM a/SP el/DA Front_Únic_Antimonàrquic/NP i/CC ,/FF quan/CS es/P0 proclamà/VM la/DA Segona_República_Espanyola/NP ,/FF es/P0 va/VA fer_càrrec/VM ,/FF amb/SP Ferran_Pou_Moreno/NP i/CC Jaume_Bauzà_Far/NP de/SP la/DA comissió/NC gestora/AQ de/SP la/DA Diputació_Provincial_de_Balears/NP (/FF abril-juny/NC de/SP 1931/ZZ )/FF ,/FF que/PR presidirà/VM de/SP juny_de_1931/WW a/SP febrer_de_1936/WW ./FF
+A/SP les/DA eleccions/NC d'/SP abril_de_1931/WW fou/VS elegit/VM regidor/NC de/SP l'/DA Ajuntament_de_Palma/NP i/CC a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1931/ZZ fou/VS escollit/VM diputat/NC a/SP Corts_per_la_Conjunció/NP republicanosocialista/AQ ./FF
+Convocà/VM la/DA reunió/NC que/PR va/VA discutir/VM l'/DA avantprojecte/NC de/SP l'/DA Estatut_d'_Autonomia/NP per/SP a/SP les/DA Illes_Balears/NP de/SP 1931/ZZ ./FF
+per/SP el/DA gener_del_1932/WW es/P0 va/VA adscriure/VM a/SP el/DA Partit_Republicà_Radical_d'_Alejandro_Lerroux/NP ,/FF cosa/NC que/PR provocà/VM l'/DA escisió/NC de/SP el/DA Partit_Republicà_Federal_de_Mallorca/NP i/CC la/DA separació/NC de/SP l'/DA Acció_Republicana_de_Mallorca/NP ./FF
+A/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1933/ZZ va/VA esser/NC elegit/NC diputat/NC a/SP la/DA segona/AO volta/NC ,/FF amb/SP el/DA suport/NC de/SP el/DA centre/NC i/CC la/DA dreta/NC ,/FF amb/SP 47.424/ZZ vots/NC ./FF
+El/DA febrer_de_1936/WW es/P0 retirà/VM de/SP la/DA política/NC i/CC es/P0 dedicà/VM a/SP les/DA seves/PX activitats/NC privades/VM ./FF
+Durant/SP la/DA guerra/NC civil/AQ espanyola/AQ no/RN fou/VS molestat/VM per/SP les/DA noves/AQ autoritats/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia/NP ;/FF
+Filàret/NP (/FF Philaretus/NP ,/FF )/FF fou/VS un/DI metge/NC grec/AQ ./FF
+Va/VA escriure/VM un/DI tractat/NC curt/AQ de/SP medicina/NC anomenat/VM De_Pulsibus/NP ,/FF que/PR de/SP vegades/NC ha/VA estat/VS atribuït/VM a/SP el/DA metge/NC anomenat/VM Filoteu/NP i/CC altres/PI a/SP Teòfil_Protospatari/NP ./FF
+Aquesta/DD obra/NC fou/VS inspirada/VM en/SP Galè/NP ./FF
+Razes/NP li/PP atribueix/VM una/DI obra/NC que/PR anomena/VM com/CS Liber/NP trium/NC Tractatum/NP ,/FF que/PR probablement/RG és/VS la/DA mateixa/DI que/CS De_Urinis/NP ,/FF De_Excrementis/NP ,/FF and/AQ De_Pulsibus/NP i/CC que/PR s'/P0 atribueix/VM a/SP Protospatari/NP ./FF
+Els/DA arqueobatracis/NC (/FF Archaeobatrachia/NP )/FF són/VS un/DI subordre/NC d'/SP amfibis/NC de/SP l'/DA ordre/NC Anura/NP que/PR comprèn/VM 28/ZZ espècies/NC entre/SP granotes/NC i/CC gripaus/NC ./FF
+Es/P0 troba/VM present/AQ a/SP Euràsia/NP ,/FF Nova_Zelanda/NP ,/FF Filipines/NP i/CC Borneo/NP ./FF
+Referències/NP ./FF
+Roelants/NP ,/FF Kim/NP ;/FF Franky_Bossuyt/NP :/FF "/FF Archaeobatrachian/NP paraphyly/NC and/AQ pangaean/VM diversification/AQ of/NC crown-group/NC frogs/AQ "/FF ./FF
+Systematic_Biology/NP 54/ZZ :/FF 111-126/ZZ ./FF
+Febrer_de_2005/WW ./FF
+Tcl/NP (/FF pronunciat/VM //FF tí/NC ./FF quel/NC //FF ,/FF originat/VM de/SP el/DA acrònim/NC en/SP anglès/NC "/FF Tool_Command_Language/NP "/FF o/CC llenguatge/NC d'/SP eines/NC de/SP comandament/NC ,/FF actualment/RG s'/P0 escriu/VM com/CS a/SP "/FF Tcl/NP "/FF en_lloc_de/SP "/FF TCL/NP "/FF )/FF ,/FF és/VS un/DI llenguatge/NC de/SP script/VM creat/VM per/SP John_Ousterhout/NP ,/FF que/PR ha/VA sigut/VM concebut/NC per/SP a/SP el/DA seu/PX fàcil/AQ aprenetatge/NC ,/FF però/CC que/PR resulta/VM molt/RG potent/AQ a/SP les/DA mans/NC adequades/VM ./FF
+S'/P0 utilitza/VM principalment/RG per/SP a/SP el/DA desenvolupament/NC ràpid/AQ de/SP prototips/NC ,/FF aplicacions/NC "/FF script/AQ "/FF ,/FF interficies/NC gràfiques/AQ i/CC proves/NC ./FF
+La/DA combinació/NC de/SP Tcl/NP amb/SP Tk/NP (/FF de/SP el/DA anglès/NC Tool_Kit/NP )/FF és/VS coneguda/VM com/CS Tcl/NP //FF Tk/NP ,/FF i/CC s'/P0 utilitza/VM oer/VM a/SP la/DA creació/NC d'/SP interficies/NC gràfiques/AQ ./FF
+Característiques/NP ./FF
+Entre/SP les/DA característiques/NC de/SP el/DA llenguatge/NC Tcl/NP s'/P0 inclouen/VM les/DA següents/AQ :/FF És/VS un/DI llenguatge/NC interpretat/VM ,/FF i/CC el/DA seu/PX codi/NC pot/VM ser/VS creat/VM i/CC modificat/VM dinàmicament/RG ./FF
+Tots/DI els/DA elements/NC d'/SP un/DI programa/NC són/VS ordres/NC ,/FF incloent/VM les/DA estructures/NC de/SP el/DA llenguatge/NC ./FF
+Dites/NP ordres/NC s'/P0 escriuen/VM en/SP notació/NC polonesa/AQ ./FF
+Totes/DI les/DA ordres/NC poden/VM ser/VS redefinides/VM o/CC sobreescrites/VM de/SP manera/NC dinàmica/AQ ./FF
+Totes/DI les/DA dades/NC són/VS usades/VM com/CS a/SP cadenes/NC de/SP caràcters/NC Unicode/NP ,/FF incloent/VM el/DA codi/NC font/NC ./FF
+En/SP efecte/NC ,/FF soporta/VM totalment/RG Unicode/NP des_de/SP el/DA seu/PX llançament/NC l'/DA any/NC 1999/ZZ ./FF
+Les/DA regles/NC sintàctiques/AQ sén/VM extremadament/RG simples/AQ ./FF
+Poseeix/NP normes/NC d'/SP alcanç/NC dinàmic/AQ ./FF
+Permet/VM la/DA programació/NC orinetada/VM a/SP events/NC sobre/SP "/FF sockets/NC "/FF i/CC fitxers/NC ./FF
+També/RG són/VS possibles/AQ els/DA events/NC basats/VM en/SP temps/NC i/CC els/DA definits/VM per/SP l'/DA usuari/NC ./FF
+Permet/VM escriure/VM cadi/NC fàcil/AQ de/SP mantenir/VM ./FF
+Els/DA "/FF scripts/NC "/FF Tcl/NP són/VS de/SP manera/NC sovint/RG més/RG compactes/AQ i/CC llegibles/AQ que/CS els/DA programes/NC funcionalment/RG equivalents/AQ a/SP altres/DI llenguatges/NC de/SP programació/NC ./FF
+És/VS fàcilment/RG "/FF extensible/AQ "/FF via/SP C/NP ,/FF C/NP +/FF +/FF i/CC Java/NP ./FF
+Està/VM fortament/RG integrat/VM amb/SP els/DA entorns/NC gràfics/AQ ,/FF a_través_de/SP la/DA seva/PX interfície/NC Tk/NP ./FF
+És/VS un/DI llenguatge/NC multiplataforma/NC ,/FF amb/SP intèrprets/NC que/PR s'/P0 executen/VM sobre/SP Windows/NP ,/FF Linux/NP ,/FF UNIX/NP ,/FF MacOS/NP i/CC MacOSX/NP i/CC inclús/RG microprocessadors/NC PIC/NP ./FF
+Antecedents/NP ./FF
+El/DA llenguatge/NC TCL/NP originalment/RG va/VA ser/VS projectat/VM per/SP ser/VS un/DI llenguatge/NC d'/SP ordres/NC reutilitzable/AQ ./FF
+Qui/PT desenvoluparen/VM el/DA TCL/NP estaven/VM creant/VM una/DI sèrie/NC d'/SP eines/NC interactives/AQ ,/FF i/CC cada/DI una/DI constava/VM de/SP el/DA seu/PX propi/AQ llenguatge/NC d'/SP ordres/NC ./FF
+Des_de/SP què/PR van/VA començar/VM a/SP interessar/VM -se/P0 més/RG en/SP aquestes/DD eines/NC que/PR són/VS els/DA llenguatges/NC d'/SP ordres/NC que/PR utilitzarien/VM ,/FF aquests/DD llenguatges/NC van/VA començar/VM a/SP construir/VM -se/P0 ràpidament/RG sense/SP considerar/VM el/DA disseny/NC apropiat/VM ,/FF sense/SP molta/DI importància/NC ./FF
+Després/RG d'/SP implementar/VM diversos/DI llenguatges/NC d'/SP ordres/NC creats/VM d'/SP aquesta/DD forma/NC i/CC experimentar/VM problemes/NC amb/SP cada/DI un/PI d'/SP ells/PP ,/FF van/VA decidir/VM concentrar/VM la/DA seva/PX atenció/NC a/SP la/DA implementació/NC d'/SP un/DI objectiu/NC general/AQ :/FF un/DI llenguatge/NC d'/SP ordres/NC eficaç/AQ que/PR pugués/VM ser/VS integrat/VM fàcilment/RG a/SP noves/AQ aplicacions/NC ./FF
+És/VS d'/SP aquesta/DD manera/NC que/PR neix/VM el/DA llenguatge/NC TCL/NP (/FF Tool_Command_Language/NP )/FF ,/FF les/DA quals/PR les/DA seves/PX sigles/NC en/SP anglès/NC signifiquen/VM Llenguatge_d'_Eines_d'_Ordre/NP ./FF
+Des_de/SP aleshores/RG ,/FF el/DA llenguatge/NC TCL/NP ha/VA sigut/VM utilitzat/VM com/CS a/SP llenguatge/NC de/SP codi/NC ./FF
+En/SP molts/DI casos/NC ,/FF el/DA TCL/NP és/VS utilitzat/VM amb/SP combinació/NC amb/SP la/DA llibreria/NC TK/NP (/FF "/FF Tool_Kit/NP "/FF )/FF ,/FF un/DI conjunt/NC d'/SP ordres/NC i/CC procediments/NC que/PR fan/VM relativament/RG fàcil/AQ per/SP a/SP programar/VM interfícies/NC d'/SP usuari/NC gràfiques/AQ ./FF
+Una/PI de/SP les/DA característiques/NC més/RG utilitzades/VM de/SP el/DA TCL/NP és/VS la/DA seva/PX extensivilitat/NC ./FF
+Per_exemple/RG ,/FF si/CS una/DI aplicació/NC requereix/VM alguna/DI cosa/NC de/SP funcionalitat/NC no/RN oferida/VM per/SP el/DA TCL/NP estàndar/NC ,/FF les/DA noves/AQ ordres/NC de/SP el/DA TCL/NP poden/VM ser/VS implementades/VM utilitzant/VM el/DA llenguatge/NC C/NP ,/FF un/DI integrat/VM sumament/RG fàcil/AQ ./FF
+Des_de/SP què/PR TCL/NP va/VA començar/VM a/SP ser/VS un/DI llenguatge/NC fàcilment/RG extensible/AQ ,/FF molta/DI gent/NC ha/VA escrit/VM extensions/NC per/SP algunes/DI feines/NC ,/FF i/CC estan/VM lliurement/RG disponibles/AQ a/SP Internet/NP ./FF
+Vegi/VM 's/PP també/RG ./FF
+Bonsai/NP cvs/RG ;/FF Enllaços/NP externs/AQ ./FF
+Tcl_Developer_Xchange/NP -/FF Pàgina/NC oficial/AQ (/FF Anglès/NC )/FF ./FF
+The_Tcler/NP 's/P0 Wiki/NP ;/FF Once/NP reglas/NC de/SP Tcl/NP ;/FF módulos/NC Perl/NP en/SP CPAN/NP sobre/SP Tcl/NP (/FF en/SP anglès/NC )/FF ;/FF
+Filargiri_Juni/NP o/CC Filargire_Juni/NP o/CC Junili_Flagri/NP (/FF Philargyrius_Junius/NP ,/FF Phylargyrus_Junius/NP o/CC Junilius_Flagrius/NP )/FF fou/VS un/DI escriptor/NC romà/AQ ,/FF el/DA nom/NC de/SP el/DA qual/PR apareix/VM esmentat/VM en/SP les/DA tres/ZZ formes/NC indicades/VM ./FF
+Fou/VS comentarista/NC de/SP Virgili/NP però/CC les/DA seves/PX observacions/NC són/VS menys/RG elaborades/VM que/CS les/DA de/SP Servi/NP ./FF
+Va/VA conservar/VM diverses/DI cites/NC d'/SP autors/NC antic/AQ les/DA obres/NC de/SP els/DA quals/PR han/VA desaparegut/VM ./FF
+Probablement/RG va/VA viure/VM en/SP temps/NC de/SP Valentinià/NP ./FF
+Manel_File/NP o/CC Manel_Files/NP (/FF Manuel_Phile/NP o/CC Philes/NP ,/FF )/FF (/FF vers/NC 1274-1340/ZZ )/FF fou/VS un/DI poeta/NC bizantí/AQ nadiu/AQ d'/SP Efes/NP ./FF
+Va/VA extreure/VM composicions/NC poètiques/AQ d'/SP altres/PI i/CC en/SP va/VA fer/VM de/SP pròpies/AQ en/SP el/DA anomenat/VM "/FF versus/SP politici/NC "/FF (/FF )/FF ,/FF la/DA menys/RG melodiosa/AQ de/SP les/DA poesies/NC ./FF
+Les/DA seves/PX obres/NC són/VS :/FF 1/ZZ ./FF
+De/SP Animalirum_Proprietate/NP (/FF ,/FF In_Monachum_Leprosum/NP ;/FF 3/ZZ ./FF ,/FF In_Augustum/NP ,/FF id/AQ est/NC Andronicum_Seniorem/NP ;/FF 4/ZZ ./FF ;/FF 5/ZZ ./FF
+In_Cantacuzienum/NP (/FF Joannem/NP )/FF ;/FF 6/ZZ ./FF
+Epigrammata/NP ;/FF 7/ZZ ./FF
+In_Augustum/NP ,/FF id/AQ est/NC ,/FF Andronicum_Seniorem/NP ;/FF 8/ZZ ./FF ,/FF In_Elephantem/NP ;/FF 9/ZZ ./FF ,/FF De_Bombyce/NP sire/NC Verme_Serico/NP ;/FF 10/ZZ ./FF
+Epigrammanta/NP ;/FF 11/ZZ ./FF
+Eulogium/NP ad/SP Pachymerae/NP ;/FF 12/ZZ ./FF
+Epitaphium/NP in/VM Phaerasem/NP ;/FF 13/ZZ ./FF
+In_Templum_Evergetae/NP (/FF versos/NC )/FF ./FF ;/FF
+Onomàstica/NP :/FF Filees_d'_Atenes/NP ,/FF geògraf/NC grec/AQ ;/FF Filees/NP ,/FF bisbe/NC grec/AQ ./FF
+Filees_d'_Argos/NP ,/FF escultor/NC grec/AQ ;/FF
+Filees/NP (/FF Phileas/NP ,/FF )/FF fou/VS un/DI geògraf/NC grec/AQ nadiu/AQ d'/SP Atenes/NP ,/FF probablement/RG de/SP el/DA període/NC de/SP l'/DA antiga/AQ literatura/NC grega/AQ encara/RG que/CS la/DA seva/PX època/NC no/RN ha/VA pogut/VM estar/VM determinada/VM ./FF
+É

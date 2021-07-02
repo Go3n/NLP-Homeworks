@@ -3430,4 +3430,97 @@ In_Templum_Evergetae/NP (/FF versos/NC )/FF ./FF ;/FF
 Onomàstica/NP :/FF Filees_d'_Atenes/NP ,/FF geògraf/NC grec/AQ ;/FF Filees/NP ,/FF bisbe/NC grec/AQ ./FF
 Filees_d'_Argos/NP ,/FF escultor/NC grec/AQ ;/FF
 Filees/NP (/FF Phileas/NP ,/FF )/FF fou/VS un/DI geògraf/NC grec/AQ nadiu/AQ d'/SP Atenes/NP ,/FF probablement/RG de/SP el/DA període/NC de/SP l'/DA antiga/AQ literatura/NC grega/AQ encara/RG que/CS la/DA seva/PX època/NC no/RN ha/VA pogut/VM estar/VM determinada/VM ./FF
-É
+És/VS esmentat/VM per/SP Dicearc_de_Messana/NP ./FF
+Ruf_Fest_Aviè/NP el/PP situa/VM entre/SP Hel·lànic_de_Mitilene/NP i/CC Escilax_d'_Halicarnàs/NP ./FF
+Fou/VS l'/DA autor/NC d'/SP un/DI "/FF Periple/NC "/FF (/FF Periplus/NP )/FF esmentat/VM especialment/RG per/SP Esteve_Bizantí/NP ,/FF que/PR abraçava/VM la/DA major/AQ part/NC de/SP les/DA costes/NC conegudes/VM a/SP el/DA seu/PX temps/NC ,/FF dividit/NC en/SP dues/ZZ parts/NC ,/FF una/PI per/SP Europa/NP i/CC l'/DA altra/PI per/SP Àsia/NP ./FF
+Filees/NP (/FF Phileas/NP ,/FF )/FF fou/VS un/DI bisbe/NC grec/AQ ./FF
+Fou/VS bisbe/NC de/SP Thmuitae/NP a/SP Egipte/NP ,/FF a/SP el/DA segle_III/WW de/SP l'/DA era/NC cristiana/AQ ./FF
+Va/VA morir/VM màrtir/NC en/SP alguna/PI de/SP les/DA anomenades/NC persecucions/NC ./FF
+Va/VA escriure/VM un/DI elogi/NC sobre/SP el/DA martiri/NC ./FF
+Filees/NP (/FF Phileas/NP ,/FF )/FF fou/VS un/DI escultor/NC grec/AQ ,/FF nadiu/AQ d'/SP Argos/NP ,/FF d'_època/RG desconeguda/VM ./FF
+El/DA seu/PX nom/NC s'/P0 ha/VA trobar/VM a/SP una/DI escultura/NC que/PR es/P0 va/VA trobar/VM a/SP Hermione/NP a/SP l'/DA Argòlida/NP ./FF
+El/DA seu/PX nom/NC apareix/VM en/SP aquesta/DD escultura/NC juntament/RG amb/SP el/DA de/SP el/DA seu/PX fill/NC Zeuxip/NP ./FF
+La/DA inscripció/NC diu/VM :/FF ./FF
+Filemè/NP (/FF Philemenus/NP ,/FF )/FF fou/VS un/DI jove/NC noble/AQ de/SP Tàrent/NP que/PR va/VA dirigir/VM la/DA conspiració/NC per/SP entregar/VM a/SP els/DA cartaginesos/NC la/DA ciutat/NC el/DA 212/ZZ aC/NC ./FF
+Sota/SP l'/DA excusa/NC d'/SP anar/VM de/SP cacera/NC s'/P0 allunyava/VM sovint/RG de/SP la/DA ciutat/NC i/CC tornava/VM a/SP la/DA nit/NC i/CC així/RG va/VA fer/VM amistat/NC amb/SP alguns/DI guardians/NC de/SP les/DA portes/NC fins/SP que/PR va/VA aconseguir/VM que/CS les/DA portes/NC s'/P0 obrissin/VM si/CS feia/VM una/DI senyal/NC a/SP una/DI hora/NC determinada/VM que/CS era/VS la/DA que/PR acostumava/VM a/SP tornar/VM ./FF
+Una/DI nit/NC ,/FF ja/RG concertat/VM amb/SP els/DA cartaginesos/NC ,/FF va/VA introduir/VM a/SP la/DA ciutat/NC un/DI miler/NC d'/SP africans/NC ,/FF mentre/CS un/DI altre/DI conspirador/NC ,/FF Nicó/NP ,/FF deixava/VM entrar/VM a/SP el/DA mateix/DI Anníbal/NP per/SP un/DI altre/DI lloc/NC ./FF
+La/DA ciutat/NC va/VA passar/VM a/SP els/DA cartaginesos/NC menys/SP la/DA ciutadella/NC ./FF
+Va/VA estar/VM a/SP el/DA costat/NC de/SP els/DA cartaginesos/NC el/DA temps/NC que/PR va/VA durar/VM la/DA ocupació/NC de/SP la/DA ciutat/NC i/CC va/VA morir/VM probablement/RG en/SP les/DA lluites/NC que/PR van/VA portar/VM a/SP la/DA seva/PX reconquesta/NC per/SP el/DA cònsol/NC romà/AQ Quint_Fabi_Màxim_Verrugós/NP el/DA 209/ZZ aC/NC ;/FF el/DA seu/PX cos/NC no/RN fou/VS mai/RG trobat/VM ./FF
+Els/DA leptodactílids/NC (/FF Leptodactylidae/NP )/FF són/VS una/DI família/NC de/SP granotes/NC formada/VM per/SP 50/ZZ gèneres/NC i/CC 1.100/ZZ espècies/NC amplament/RG distribuïda/VM per/SP l'/DA Amèrica_Central/NP i/CC Sud-Amèrica/NP ./FF
+Subfamílies/NP ./FF
+Ceratophryinae/NP ;/FF Cycloramphinae/NP ;/FF Eleutherodactylinae/NP ;/FF Leptodactylinae/NP ;/FF Telmatobiinae/NP ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD família/NC d'/SP amfibis/NC ./FF ;/FF
+Onomàstica/NP :/FF Filemó/NP (/FF actor/NC )/FF ,/FF actor/NC grec/AQ ./FF
+Filemó_el_Vell/NP ,/FF poeta/VM còmic/NC atenenc/AQ ;/FF Filemó_el_Jove/NP ,/FF poeta/VM grec/AQ de/SP la/DA nova/AQ comèdia/NC ;/FF Filemó_d'_Atenes/NP ,/FF gramàtic/NC grec/AQ ;/FF Filemó/NP (/FF gramàtic/NC )/FF ,/FF escriptor/NC i/CC gramàtic/NC bizantí/AQ de/SP el/DA segle_VII/WW ;/FF Filemó/NP (/FF fisiognòmic/AQ )/FF ,/FF fisiognòmic/AQ grec/NC ;/FF Còmic/NP :/FF Filemó/NP ,/FF personatge/NC creat/VM per/SP Francisco_Ibáñez_Talavera/NP ,/FF cap/NC i/CC company/NC de/SP Mortadel·lo/NP ;/FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF fou/VS un/DI actor/NC grec/AQ ./FF
+Aristòtil/NP l'/PP esmenta/VM com/CS l'/DA actor/NC que/PR va/VA portar/VM la/DA part/NC principal/AQ en/SP les/DA obres/NC d'/SP Anaxàndrides/NP ./FF
+El/DA gran/AQ crític/NC l'/DA elogia/VM per/SP les/DA seves/PX excel·lents/AQ interpretacions/NC i/CC per/SP adaptar/VM i/CC fins_i_tot/RG millorar/VM el/DA llenguatge/NC emprat/VM ./FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF (/FF vers/NC 360/ZZ aC-262/ZZ aC/NC )/FF fou/VS un/DI poeta/NC còmic/AQ atenenc/AQ ,/FF el/DA primer/AO en/SP ordre/NC d'/SP antiguitat/NC i/CC el/DA segon/NC en/SP celebritat/NC de/SP tots/DI els/DA poetes/NC còmics/AQ de/SP la/DA nova/AQ comèdia/NC ./FF
+Fou/VS fill/NC de/SP Damó/NP i/CC nadiu/AQ de/SP Soli/NP a/SP Cilícia/NP (/FF segons/SP Estrabó/NP )/FF encara/RG que/CS alguns/DI el/DA fan/NC siracusà/AQ ,/FF i/CC va/VA viure/VM a/SP el/DA segle_IV/WW aC/NC ,/FF en/SP temps/NC d'/SP Alexandre_el_Gran/NP ./FF
+De/SP jove/NC va/VA anar/VM a/SP Atenes/NP i/CC va/VA obtenir/VM la/DA ciutadania/NC ./FF
+Els/DA gramàtics/NC alexandrins/AQ l'/PP assignen/VM tots/PI a/SP la/DA nova/AQ comèdia/NC junt/AQ amb/SP Menandre_d'_Atenes/NP ,/FF Dífil_de_Sinope/NP ,/FF Filípides/NP ,/FF Posidip/NP i/CC Apol·lodor_de_Carist/NP ./FF
+Les/DA seves/PX primeres/AO exhibicions/NC foren/VS vers/SP el/DA 330/ZZ aC/NC ./FF
+Menandre/NP ,/FF que/PR el/PP va/VA seguir/VM ,/FF fou/VS vuit/ZZ anys/NC posterior/AQ ,/FF i/CC a/SP els/DA dos/ZZ cal/VM atribuir/VM la/DA introducció/NC de/SP la/DA nova/AQ comèdia/NC ./FF
+Va/VA viure/VM fins/SP a/SP una/DI edat/NC molt/RG avançada/NC i/CC va/VA morir/VM durant/SP una/DI guerra/NC entre/SP Atenes/NP i/CC Antígon/NP ,/FF data/NC que/PR Diodor/NP fixa/VM a/SP el/DA 262/ZZ aC/NC ,/FF quan/PR tenia/VM no/RN menys/RG de/SP 96/ZZ anys/NC ./FF
+Encara/RG que/CS era/VS inferior/AQ a/SP Menandre/NP ,/FF va/VA ser/VS el/DA favorit/NC de/SP el/DA públic/NC i/CC va/VA derrotar/VM a/SP Menandre/NP en/SP alguns/DI concursos/NC ./FF
+Fou/VS convidat/VM a/SP la/DA cort/NC de/SP el/DA rei/NC Ptolemeu_I_Sòter/NP ./FF
+Va/VA escriure/VM una/DI comèdia/NC on/PR ridiculitzava/VM a/SP Magas/NP governador/AQ o/CC rei/NC de/SP Cirene/NP ,/FF i/CC una_vegada_que/CS una/PI turmenta/VM va/VA portar/VM a/SP Filemó/NP a/SP les/DA costes/NC de/SP Cirene/NP ,/FF Magas/NP va/VA prendre/VM venjança/NC ridiculitzant/VM a/SP el/DA seu/PX tron/NC a/SP el/DA poeta/NC ,/FF per/SP després/RG deixar/VM -lo/PP anar/VM ./FF
+Diodor/NP diu/VM que/CS va/VA escriure/VM 97/ZZ comèdies/NC ;/FF els/DA nom/NC de/SP els/DA títols/NC conservat/VM són/VS 53/ZZ (/FF ni/CC a_més_a_més/RG alguns/PI de/SP dubtosos/AQ )/FF ;/FF Les/NP més/RG conegudes/VM d'/SP aquests/DD obres/NC són/VS ./FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF conegut/VM per/SP Filemó_el_Jove/NP ,/FF fou/VS un/DI poeta/NC grec/AQ de/SP la/DA nova/AQ comèdia/NC ,/FF fill/NC de/SP el/DA gran/AQ Filemó_el_Vell/NP ./FF
+Encara/RG que/CS fou/VS absorbit/VM per/SP la/DA fama/NC de/SP el/DA pare/NC ,/FF fou/VS un/DI autor/NC important/AQ que/PR va/VA deixar/VM escrites/NC (/FF segons/SP Suides/NP )/FF 54/ZZ comèdies/NC ,/FF de/SP els/DA que/PR només/RG reten/VM dos/ZZ fragments/NC curts/AQ i/CC cap/DI títol/NC ./FF
+Probablement/RG algunes/PI de/SP les/DA obres/NC considerades/VM de/SP Filemó/NP pare/NC pertanyien/VM a/SP el/DA fill/NC ./FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF fou/VS un/DI gramàtic/NC grec/AQ nadiu/AQ d'/SP Atenes/NP ,/FF autor/NC d'/SP una/DI obra/NC o/CC obres/NC sobre/SP el/DA dialecte/NC àtic/AQ ,/FF esmentada/VM sota/SP els/DA títols/NC de/SP ./FF
+Ateneu_de_Naucratis/NP esmenta/VM un/DI llibre/NC amb/SP el/DA títol/NC de/SP que/PR podria/VM ser/VS part/NC de/SP la/DA mateixa/DI obra/NC i/CC diu/VM que/CS coneixia/VM la/DA llengua/NC llatina/AQ ./FF
+Ceratophryinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC que/PR es/P0 troba/VM a/SP Sud-Amèrica/NP ./FF
+Gèneres/NP ./FF
+Ceratophrys/NP ;/FF Chacophrys/NP ;/FF Lepidobatrachus/NP ;/FF Macrogenioglottus/NP ;/FF Odontophrynus/NP ;/FF Proceratophrys/NP ;/FF Referències/NP ./FF
+Informació/NP taxonòmica/AQ d'/SP aquesta/DD subfamília/NC d'/SP amfibis/NC ./FF ;/FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF fou/VS un/DI escriptor/NC i/CC gramàtic/NC bizantí/AQ de/SP el/DA segle_VII/WW ,/FF autor/NC de/SP l'/DA obra/NC que/PR ell/PP mateix/DI diu/NC que/PR vol/VM ser/VS un/DI complement/NC de/SP el/DA lexicó/NC de/SP Hiperequi_d'_Alexandria/NP (/FF segle_V/WW )/FF anomenat/VM ./FF
+L'/DA obra/NC té/VM certa/DI vàlua/NC sobre/SP història/NC literària/AQ ;/FF només/RG se/P0 'n/PP conserva/VM el/DA primer/AO llibre/NC i/CC part/NC de/SP el/DA segon/AO ./FF
+Filemó/NP (/FF Philemon/NP ,/FF )/FF fou/VS un/DI fisiognòmic/AQ grec/NC ,/FF esmentat/VM per/SP Abul_Faraj/NP ,/FF que/PR explica/VM que/CS va/VA descriure/VM el/DA rostre/NC d/AQ '/FF Hipòcrates/NP con/NC el/DA d'/SP un/DI vell/AQ home/NC lasciu/AQ ./FF
+Va/VA escriure/VM un/DI llibre/NC sobre/SP fisiognomia/NC de/SP el/DA que/PR Abul_Faraj/NP va/VA disposar/VM en/SP la/DA seva/PX traducció/NC a/SP el/DA siríac/NC ./FF
+Onomàstica/NP :/FF Filèter_de_Pèrgam/NP ,/FF fundador/AQ de/SP el/DA regne/NC de/SP Pèrgam_Filèter/NP (/FF príncep/NC )/FF ,/FF fill/NC de/SP el/DA rei/NC Àtal_I_de_Pèrgam/NP ,/FF i/CC germà/NC de/SP el/DA rei/NC Èumenes_II_de_Pèrgam_Filèter_d'_Atenes/NP ,/FF poeta/VM còmic/NC atenenc/AQ
+Proceratophrys/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Comprèn/VM les/DA següents/AQ espècies/NC :/FF Proceratophrys/NP appendiculata/VM ;/FF Proceratophrys/NP avelinoi/NC ;/FF Proceratophrys/NP bigibbosa/VM ;/FF Proceratophrys/NP boiei/NC ;/FF Proceratophrys/NP brauni/AQ ;/FF Proceratophrys/NP concavitympanum/NC ;/FF Proceratophrys/NP cristiceps/NC ;/FF Proceratophrys/NP cururu/VM ;/FF Proceratophrys/NP fryi/VM ;/FF Proceratophrys/NP goyana/VM ;/FF Proceratophrys/NP laticeps/NC ;/FF Proceratophrys/NP melanopogon/NC ;/FF Proceratophrys/NP moehringi/NC ;/FF Proceratophrys/NP palustris/NC ;/FF Proceratophrys/NP phyllostomus/NC ;/FF Proceratophrys/NP schirchi/NC ;/FF Proceratophrys/NP subguttata/VM ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC d'/SP amfibis/NC ./FF ;/FF
+Filesi/NP (/FF Philesius/NP ,/FF )/FF fou/VS un/DI militar/AQ aqueu/NC que/PR va/VA formar_part/VM de/SP l'/DA exèrcit/NC mercenari/AQ de/SP Cir_el_Jove/NP ./FF
+Després/RG de/SP la/DA captura/NC a_traïció/RG de/SP Clearc_d'_Esparta/NP i/CC altres/DI generals/AQ per/SP Tisafernes/NP ,/FF fou/VS escollit/VM en_el_lloc_de/SP Menó_de_Larissa/NP ./FF
+Quans/NP els/DA deu_mil/ZZ ,/FF cansats/VM d'/SP esperar/VM la/DA tornada/NC de/SP Quirísop_d'_Esparta/NP ,/FF van/VA decidir/VM passar/VM a/SP Trebisonda/NP ,/FF Filesi/NP i/CC Sofenet/NP ,/FF els/DA generals/AQ més/RG antics/AQ ,/FF foren/VS nomenats/VM per/SP anar/VM en/SP vaixell/NC amb/SP els/DA vells/NC ,/FF dones/NC i/CC criatures/NC ./FF
+A/SP Cotyora/NP fou/VS un/PI de/SP els/DA que/PR va/VA atacar/VM a/SP Xenofont/NP per/SP haver/VA revelat/VM el/DA secret/NC de/SP el/DA projecte/NC de/SP fundació/NC d'/SP una/DI colònia/NC grega/AQ a/SP la/DA costa/NC de/SP l'/DA Euxí/NP ./FF
+En/SP aquest/DD mateix/DI lloc/NC una/DI cort/NC organitzada/VM per/SP jutjar/VM la/DA conducta/NC de/SP els/DA generals/AQ va/VA condemnar/VM a/SP Filesi/NP a/SP una/DI multa/NC de/SP 20/ZZ mines/NC per/SP deficiències/NC en/SP la/DA conducció/NC de/SP els/DA vaixells/NC ./FF
+A/SP Bizanci/NP ,/FF després/RG de/SP què/PR Xenofont/NP havia/VA calmat/VM el/DA tumult/NC organitzat/VM entre/SP els/DA mercenaris/NC per/SP la/DA traïció/NC d'/SP Anaxibi/NP ,/FF Filesi/NP fou/VS un/PI de/SP els/DA que/PR va/VA ser/VS enviats/VM amb/SP un/DI missatge/NC conciliador/AQ ./FF
+Proceratophrys/NP appendiculata/VM és/VS una/DI espècie/NC de/SP granota/NC endèmica/AQ de/SP Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Segalla/NP ,/FF M.V._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Proceratophrys/NP appendiculata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP avelinoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Garcia/NP ,/FF P._&_Faivovich/NP ,/FF J./NP 2004/ZZ ./FF
+Proceratophrys/NP avelinoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP bigibbosa/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Garcia/NP ,/FF P._&_Faivovich/NP ,/FF J./NP 2004/ZZ ./FF
+Proceratophrys/NP bigibbosa/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP boiei/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Borges-Najosa/NP ,/FF D._&_Skuk/NP ,/FF G./NP 2004/ZZ ./FF
+Proceratophrys/NP boiei/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP brauni/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Kwet/NP ,/FF A._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Proceratophrys/NP brauni/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP concavitympanum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Rodrigues/NP ,/FF M.T._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Proceratophrys/NP concavitympanum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+A

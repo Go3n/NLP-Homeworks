@@ -3523,4 +3523,101 @@ Proceratophrys/NP concavitympanum/NC és/VS una/DI espècie/NC de/SP granota/NC 
 Referències/NP ./FF
 Rodrigues/NP ,/FF M.T._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
 Proceratophrys/NP concavitympanum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
-A
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP cristiceps/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Carnaval/NP ,/FF A.C._&_Borges-Najosa/NP ,/FF D./NP 2004/ZZ ./FF
+Proceratophrys/NP cristiceps/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP cururu/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Eterovick/NP ,/FF P.C._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Proceratophrys/NP cururu/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP fryi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Proceratophrys/NP fryi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Robert_Indiana/NP ,/FF nascut/VM amb/SP el/DA nom/NC de/SP Robert_Clark/NP a/SP New_Castle/NP ,/FF Indiana/NP ,/FF el/DA 13_de_setembre_del_1928/WW )/FF és/VS un/DI artista/NC estatunidenc/AQ que/PR ha/VA estat/VS associat/VM amb/SP el/DA moviment/NC estilístic/AQ anomenat/VM Pop_Art._Indiana/NP va/VA traslladar/VM -se/P0 a/SP Nova_York/NP el/DA 1954/ZZ i/CC s'/P0 incorporà/VM a/SP el/DA moviment/NC Pop_Art/NP amb/SP una/DI iconografia/NC pròpia/AQ que/PR combina/VM l'/DA art/NC comercial/AQ amb/SP l'/DA existencialisme/NC ,/FF i/CC que/PR progressivament/RG va/VA derivar/VM en/SP el/DA que/PR Indiana/NP mateix/RG anomena/VM "/FF poemes/NC escultòrics/AQ "/FF ./FF
+Les/DA obres/NC de/SP R._Indiana/NP són/VS sovint/RG imatges/NC icòniques/AQ simples/AQ ,/FF atrevides/VM ,/FF sobretot/RG números/NC i/CC paraules/NC curtes/AQ com/CS ara/RG "/FF EAT/NP "/FF ,/FF "/FF HUG/NP "/FF ,/FF i/CC "/FF LOVE/NP "/FF (/FF de/SP l'/DA anglès/NC :/FF menjar/NC ,/FF abraçar/VM //FF da/VM i/CC amor/NC //FF estimar/VM respectivament/RG )/FF ./FF
+També/RG se/P0 'l/PP coneix/VM per/SP haver/VA pintat/VM la/DA pista/NC de/SP basquetbol/NC de/SP l'/DA US_Cellular_Arena/NP a/SP la/DA ciutat/NC de/SP Milwaukee/NP on/PR ,/FF en/SP el/DA passat/NC ,/FF havien/VA jugat/VM els/DA Milwaukee_Bucks/NP ./FF
+El/DA disseny/NC ,/FF molt/RG poc/RG habitual/AQ ,/FF és/VS una/DI gran/AQ M/NP que/PR s'/P0 estén/VM per/SP ambdues/DI meitats/NC de/SP la/DA pista/NC ./FF
+La/DA seva/PX escultura/NC 1-0/ZZ (/FF 2002/ZZ ,/FF en/SP alumini/NC )/FF i/CC que/PR es/P0 troba/VM en/SP la/DA planta/NC baixa/AQ de/SP el/DA gratacels/NC Taipei/NP 101/ZZ ,/FF està/VM composada/VM de/SP xifres/NC multicolors/AQ que/PR suggereixen/VM el/DA comportament/NC de/SP les/DA borses/NC mundials/AQ ensems/RG la/DA vida/NC humana/AQ ./FF
+Indiana/NP ha/VA estat/VS escenògraf/NC i/CC dissenyador/NC de/SP vestuari/NC en/SP diverses/DI ocasions/NC ,/FF com/CS ara/RG en/SP la/DA producció/NC per/SP l'/DA Òpera_de_Santa_Fe_de_The_Mother/NP of/NC Us_All_de_Virgil_Thomson/NP el/DA 1976/ZZ ,/FF basada/VM en/SP la/DA vida/NC de/SP la/DA sufragista/NC Susan_B._Anthony/NP ./FF
+Després/RG de/SP els/DA atacs/NC terroristes/AQ de/SP l/NC '/FF 11_de_setembre_de_2001/WW ,/FF Indiana/NP va/VA crear/VM una/DI sèrie/NC de/SP Peace_Paintings/NP (/FF pintures/NC de/SP pau/NC )/FF ,/FF que/PR varen/VM exhibir/VM -se/P0 el/DA 2004/ZZ a/SP Nova_York/NP ./FF
+Indiana/NP resideix/VM a/SP la/DA vila/NC insular/AQ de/SP Vinalhaven/NP ,/FF Maine/NP des_de/SP 1978/ZZ ./FF
+Va/VA protagonitzar/VM la/DA pel·lícula/NC d'/SP Andy_Warhol_Eat/NP (/FF 1964/ZZ )/FF ,/FF que/PR consisteix/VM en/SP un/DI únic/AQ pla/NC de/SP 45/ZZ minuts/NC on/PR apareix/VM Indiana/NP menjant/VM un/DI bolet/NC ./FF
+LOVE/NP ./FF
+L'/DA obra/NC més/RG famosa/AQ d'/SP Indiana/NP és/VS la/DA paraula/NC love/AQ en/SP majúscules/NC ,/FF disposada/VM en/SP forma/NC de/SP quadrat/NC i/CC amb/SP la/DA lletra/NC O/NP inclinada/VM ./FF
+Aquesta/DD imatge/NC va/VA ser/VS creada/VM per/SP a/SP una/DI postal/NC de/SP Nadal_de_el_Museu_d'_Art_Modern_de_Nova_York/NP el/DA 1964/ZZ ,/FF i/CC més/RG endavant/RG l'/DA United_States_Postal_Service/NP (/FF el/DA servei/NC de/SP correus/NC de/SP els/DA EUA/NP )/FF va/VA incloure/VM -la/PP en/SP un/DI segell/NC postal/AQ de/SP vuit/ZZ cèntims/NC de/SP dòlar/NC l'/DA any/NC 1973/ZZ ,/FF i/CC que/PR iniciaria/VM una/DI sèrie/NC regular/AQ de/SP "/FF love/NC stamps/NC "/FF (/FF segells/NC d'/SP amor/NC )/FF ./FF
+S'/P0 han/VA instal·lat/VM diverses/DI versions/NC escultòriques/AQ d'/SP aquesta/DD imatge/NC tant/RG a/SP els/DA EUA/NP :/FF Sisena/AO avinguda/NC de/SP Nova_York/NP ;/FF Biblioteca_E_W_Fairchild-Martindale/NP ,/FF campus/NC Asa_Packer_de_la_Lehigh_University/NP ;/FF Campus_de_el_Pratt_Institute/NP a/SP Brooklyn/NP ,/FF Nova_York/NP ;/FF Indianapolis_Museum/NP of/NC Art/NP ,/FF Indianapolis/NP ,/FF Indiana/NP ;/FF Scottsdale/NP 's/P0 Civic_Center/NP ;/FF "/FF LOVE_Park/NP "/FF a/SP Filadèlfia/NP ;/FF Jardí/NP d'/SP escultures/NC de/SP el/DA New_Orleans_Museum/NP of/NC Art/NP ;/FF Campus_de_el_Middlebury_College/NP ,/FF Vermont/NP ,/FF ;/FF Campus_de_la_University/NP of/NC Pennsylvania/NP ,/FF Filadèlfia/NP ;/FF Museu/NP d'/SP art/NC a/SP la/DA Brigham_Young_University/NP ,/FF Utah/NP ;/FF Campus_de_l'_Ursinus_College/NP a/SP Collegeville/NP ,/FF Pensilvània/NP ;/FF A/NP la/DA zona/NC de/SP la/DA piscina/NC de/SP el/DA Red_Rock_Resort_Spa/NP and/AQ Casino/NP a/SP Las_Vegas/NP ;/FF Campus_de_la_Wichita_State_University/NP a/SP Wichita/NP ,/FF Kansas/NP ;/FF City_Park_de_Nova_Orleans/NP ,/FF Louisiana/NP ;/FF com/CS a/SP d'/SP altres/DI països/NC de/SP el/DA món/NC :/FF Taipei/NP 101/ZZ a/SP Taipei/NP ,/FF Taiwan/NP (/FF també/RG s'/P0 hi/PP troba/VM l'/DA escultura/NC de/SP el/DA mateix/DI Indiana/NP 1-0/ZZ )/FF ;/FF Districte/NP d'/SP oficines/NC de/SP Shinjuku_Oest/NP a/SP Tòquio/NP ,/FF Japó/NP ;/FF Carretera_Orchard/NP a/SP Singapur/NP ;/FF Plaça_de_el_Sagrado_Corazón/NP a/SP Bilbo/NP ,/FF País_Basc/NP ;/FF Enfront/NP de/SP el/DA 1445/ZZ de/SP el/DA carrer/NC West_Georgia/NP a/SP Vancouver/NP ,/FF Canadà/NP ;/FF Plaça/NP do/NC Rossio/NP a/SP Lisboa/NP ,/FF Portugal/NP ;/FF Una/DI escultura/NC d'/SP Indiana/NP amb/SP la/DA paraula/NC amor/NC en/SP hebreu/NC (/FF ahava/VM )/FF està/VM exposada/VM a/SP el/DA Museu_d'_Israel_de_Jerusalem/NP ,/FF Israel/NP ./FF
+Estatus/NP de/SP el/DA copyright/NC ./FF
+Malauradament/RG ,/FF Indiana/NP no/RN va/VA registrar/VM el/DA copyright/NC per/SP a/SP la/DA seva/PX imatge/NC de/SP més/RG èxit/NC i/CC va/VA tenir/VM moltes/DI dificultats/NC per/SP aturar/VM -ne/PP l'/DA ús/NC sense/SP la/DA seva/PX autorització/NC ./FF
+S'/P0 ha/VA reproduït/VM i/CC parodiat/VM aquesta/DD imatge/NC en/SP infinitat/NC d'/SP escultures/NC ,/FF pòsters/NC ,/FF i/CC objectes/NC d'/SP escriptori/NC tridimensionals/AQ ./FF
+S'/P0 ha/VA traduït/VM a/SP l'/DA hebreu/NC ,/FF el/DA xinès/NC ,/FF i/CC a/SP el/DA castellà/NC ./FF
+També/RG va/VA influir/VM considerablement/RG la/DA coberta/NC original/AQ de/SP la/DA novel·la/NC Love_Story_d'_Erich_Segal/NP ./FF
+En/SP la/DA coberta/NC de/SP l'/DA àlbum/NC Renegades_de_els_Rage_Against/NP the/VM Machine/NP hi/PP apareix/VM una/DI paròdia/NC ,/FF així/RG com/CS en/SP la/DA coberta/NC de/SP el/DA single/NC de/SP l'/DA any/NC 2002/ZZ '/FF Little/NP by/NC Little/NP '/FF de/SP l'/DA àlbum/NC Heathen_Chemistry/NP de/SP el/DA grup/NC Oasis/NP ./FF
+L'/DA artista/NC londinenc/AQ D/NP */FF Face/NP va/VA parodiar/VM recentment/RG la/DA imatge/NC transformant/VM -la/PP en/SP hate/NC (/FF odi/NC )/FF amb/SP lA/DA inclinada/VM ./FF
+L'/DA artista/NC belga/AQ Eddy_Gabriel/NP va/VA fer/VM -ne/PP una/DI versió/NC usant/VM la/DA paraula/NC lost/NC (/FF perdut/NC )/FF ./FF
+Evan_Greenfield/NP l'/PP ha/VA actualitzat/VM amb/SP la/DA seva/PX escultura/NC "/FF I/CC 'm/P0 Lovin/NP '/FF It/NP "/FF ./FF
+Cultura_de_el_Skateboard/NP ./FF
+L'/DA emblema/NC LOVE/NP ha/VA estat/VS adoptat/VM per/SP els/DA practicants/NC de/SP el/DA skateboard/NC i/CC apareix/VM sovint/RG en/SP revistes/NC i/CC vídeos/NC especialitzades/VM ./FF
+Després/RG que/CS el/DA skateboard/NC fos/VS prohibit/VM en/SP el/DA LOVE_Park_de_Filadèlfia/NP ,/FF aquest/DD mateix/DI emblema/NC va/VA ser/VS usat/VM per/SP les/DA organitzacions/NC que/PR s'/P0 hi/PP oposaven/VM ./FF
+Enllaços/NC externs/AQ ./FF
+American_Dream/NP :/FF Col·laboració/NP amb/SP el/DA poeta/NC estatunidenc/AQ Robert_Creeley/NP a/SP 2River/ZZ ;/FF Obres/NP exposades/VM a/SP el/DA Smithsonian_Museum/NP of/NC American_Art/NP ;/FF Referències/NP ./FF
+Proceratophrys/NP goyana/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Colli/VM ,/FF G./NP ,/FF Bastos/NP ,/FF R._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Proceratophrys/NP goyana/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Partit_Regionalista_de_Mallorca/NP (/FF PRM/NP )/FF fou/VS un/DI partit/NC polític/AQ fundat/VM a/SP Mallorca/NP el/DA desembre_de_1930/WW com/CS a/SP Centre_Regionalista/NP per/SP antics/AQ mauristes/NC unit/VM a/SP el/DA Centre_Autonomista_de_Mallorca/NP ,/FF i/CC que/PR acceptà/VM la/DA direcció/NC política/AQ de/SP Francesc_Cambó/NP ./FF
+D'_antuvi/RG es/P0 mostrà/VM contrari/AQ a/SP el/DA caciquisme/NC polític/AQ ,/FF intentà/VM captar/VM els/DA vots/NC de/SP la/DA dreta/NC catòlica/AQ contra/SP la/DA coalició/NC de/SP conservadors/NC i/CC liberals/NC de/SP Joan_March_Ordinas/NP i/CC va/VA obtenir/VM 9.000/ZZ vots/NC a/SP les/DA eleccions/NC municipals/AQ de/SP l'/DA abril_del_1931/WW ./FF
+Nogensmenys/RG ,/FF a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1933/ZZ i/CC de/SP 1936/ZZ formà_part/VM de/SP les/DA coalicions/NC de/SP dretes/NC i/CC fou/VS elegit/NC diputat/NC el/DA seu/PX cap/NC Bartomeu_Fons/NP i/CC Jofre_de_Villegas/NP ./FF
+Fou/VS dissolt/VM després/RG de/SP el/DA triomf/NC de/SP la/DA rebelió/NC militar/AQ a/SP Mallorca/NP el/DA 18_de_juliol_de_1936/WW ./FF
+Proceratophrys/NP laticeps/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Proceratophrys/NP laticeps/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP melanopogon/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Proceratophrys/NP melanopogon/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP moehringi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Proceratophrys/NP moehringi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Bartomeu_Fons/NP i/CC Jofre_de_Villegas/NP (/FF Palma/NP ,/FF 1888/ZZ -/FF 1962/ZZ )/FF fou/VS un/DI polític/AQ i/CC advocat/NC mallorquí/AQ ./FF
+Dirigí/VM l'/DA empresa/NC mallorquina/AQ la/DA Salinera_Espanyola/NP ./FF
+Fou/VS regidor/NC de/SP l'/DA Ajuntament_de_Mallorca/NP des_de/SP el/DA 1918/ZZ ,/FF batlle/NC de/SP Palma_de_Mallorca/NP (/FF 1920/ZZ i/CC 1921-22/ZZ )/FF i/CC diputat/NC provincial/AQ (/FF 1923/ZZ ,/FF 1924/ZZ )/FF per/SP el/DA Partit_Conservador_d'_Antoni_Maura/NP ./FF
+Mort_Maura/NP ,/FF acceptà/VM la/DA disciplina/NC de/SP Francesc_Cambó/NP ,/FF i/CC el/DA 1931/ZZ fundà/VM el/DA Partit_Regionalista_de_Mallorca/NP ,/FF amb/SP el/DA què/PR fou/VS escollit/VM diputat/NC a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1933/ZZ i/CC 1936/ZZ ./FF
+Bartomeu_Fons/NP és/VS avantpassat/NC de/SP l'/DA expresident/NC balear/AQ Gabriel_Cañellas_Fons/NP ./FF
+Proceratophrys/NP palustris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Proceratophrys/NP palustris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP phyllostomus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Proceratophrys/NP phyllostomus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Proceratophrys/NP schirchi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pimenta/NP ,/FF B._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
+Proceratophrys/NP schirchi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Centre_Autonomista_de_Mallorca/NP fou/VS una/DI entitat/NC política/AQ formada/VM el/DA maig_del_1930/WW per/SP un/DI grup/NC d'/SP intel·lectuals/NC de/SP dreta/NC vinculats/VM a/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP i/CC encapçalats/VM per/SP Antoni_Salvà/NP i/CC Ripoll/NP ,/FF que/PR reedità/VM el/DA per

@@ -3620,4 +3620,85 @@ Referències/NP ./FF
 Pimenta/NP ,/FF B._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
 Proceratophrys/NP schirchi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
-Centre_Autonomista_de_Mallorca/NP fou/VS una/DI entitat/NC política/AQ formada/VM el/DA maig_del_1930/WW per/SP un/DI grup/NC d'/SP intel·lectuals/NC de/SP dreta/NC vinculats/VM a/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP i/CC encapçalats/VM per/SP Antoni_Salvà/NP i/CC Ripoll/NP ,/FF que/PR reedità/VM el/DA per
+Centre_Autonomista_de_Mallorca/NP fou/VS una/DI entitat/NC política/AQ formada/VM el/DA maig_del_1930/WW per/SP un/DI grup/NC d'/SP intel·lectuals/NC de/SP dreta/NC vinculats/VM a/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP i/CC encapçalats/VM per/SP Antoni_Salvà/NP i/CC Ripoll/NP ,/FF que/PR reedità/VM el/DA periòdic/NC La_Veu_de_Mallorca/NP ./FF
+El/DA gener_de_1931/WW s'/P0 uní/VM amb/SP el/DA Centre_Regionalista/NP per/SP a/SP fundar/VM el/DA Partit_Regionalista_de_Mallorca/NP ./FF
+Proceratophrys/NP subguttata/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Proceratophrys/NP subguttata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Antoni_Salvà/NP i/CC Ripoll/NP (/FF Palma/NP ,/FF 1878/ZZ -/FF 1949/ZZ )/FF fou/VS un/DI polític/AQ i/CC advocat/NC mallorquí/AQ ,/FF germà/NC de/SP Maria_Antònia_Salvà/NP i/CC Ripoll/NP ./FF
+Fou/VS membre/NC de/SP l'/DA Associació_per_la_Cultura_de_Mallorca/NP i/CC director/NC de/SP la/DA revista/NC La_Nostra_Terra/NP en/SP 1929-1936/ZZ ./FF
+També/RG fou/VS un/PI de/SP els/DA fundadors/NC de/SP el/DA Centre_Autonomista_de_Mallorca/NP el/DA 1930/ZZ ,/FF que/CS el/DA 1931/ZZ esdevingué/VM Partit_Regionalista_de_Mallorca/NP ./FF
+Per/SP altra/DI banda/NC ,/FF també/RG fou/VS secretari/NC de/SP el/DA Banc_de_Crèdit_Balear/NP de/SP el/DA 1929/ZZ a/SP el/DA 1949/ZZ ,/FF i/CC president/NC de/SP el/DA Foment_de_Turisme_de_Mallorca/NP el/DA 1934/ZZ ./FF
+Odontophrynus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Odontophrynus/NP achalensis/NC ;/FF Odontophrynus/NP americanus/NC ;/FF Odontophrynus/NP barrioi/NC ;/FF Odontophrynus/NP carvalhoi/NC ;/FF Odontophrynus/NP cordobae/AQ ;/FF Odontophrynus/NP cultripes/NC ;/FF Odontophrynus/NP lavillai/NC ;/FF Odontophrynus/NP moratoi/NC ;/FF Odontophrynus/NP occidentalis/NC ;/FF Odontophrynus/NP salvatori/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+El/DA nombre/NC de/SP Strouhal/NP (/FF St/NP )/FF és/VS un/DI nombre/NC adimensional/AQ que/PR ,/FF en/SP mecànica/NC de/SP fluids/NC ,/FF relaciona/VM l'/DA oscil·lació/NC d'/SP un/DI flux/NC amb/SP la/DA seva/PX velocitat/NC mitjana/AQ ./FF
+Analíticament/RG s'/P0 expressa/VM com/CS a/SP :/FF ;/FF on/CS U/NP és/VS la/DA velocitat/NC de/SP el/DA flux/NC ./FF
+L/NP és/VS una/DI longitud/NC característica/AQ i/CC és/VS la/DA freqüència/NC angular/AQ de/SP el/DA flux/NC ./FF
+Sorgeix/VM de/SP processos/NC en/SP què/PT un/DI flux/NC es/P0 veu/VM interromput/VM per/SP un/DI objecte/NC sòlid/AQ ,/FF de_forma_que/CS ,/FF a/SP el/DA no/RN ser/VS el/DA fluïd/NC totalment/RG capaç/AQ de/SP rodejar/VM -lo/PP ,/FF la/DA capa/NC límit/AQ se/P0 separa/VM d'/SP aquest/DD amb/SP una/DI estela/NC de/SP forma/NC freqüencial/AQ ./FF
+És/VS fonamental/AQ considerar/VM -lo/PP de/SP cara/NC a/SP la/DA construcció/NC d'/SP edificis/NC i/CC estructures/NC ,/FF ja_que/CS de/SP no/RN fer/VM -ho/PP ,/FF podria/VM passar/VM com/CS en/SP el/DA cas/NC de/SP el/DA pont/NC de/SP Tacoma_Narrows/NP ,/FF en/SP què/PT l'/DA estructura/NC va/VA entrar/VM en/SP ressonància/NC amb/SP el/DA vent/NC ,/FF el/DA cabal/NC de/SP el/DA riu/NC ,/FF etc./FF ,/FF i/CC el/DA pont/NC va/VA col·lapsar/VM ./FF
+Josep_Duran/NP (/FF Cadaqués/NP ,/FF Alt_Empordà/NP ,/FF cap/NC a/SP el/DA 1730/ZZ -/FF Barcelona/NP ,/FF 24_de_gener_de_1802/WW )/FF fou/VS un/DI compositor/NC d'/SP òpera/NC i/CC música/NC religiosa/AQ català/AQ que/PR es/P0 va/VA moure/VM entre/SP el/DA Barroc/NP i/CC el/DA Classicisme/NP ./FF
+Des_de/SP 1755/ZZ fou/VS mestre/NC de/SP capella/NC de/SP el/DA Palau_de_la_Comtessa_de_Barcelona/NP ,/FF i/CC des_de/SP 1780/ZZ de/SP la/DA catedral/NC de/SP Barcelona/NP ./FF
+De/SP clara/AQ influència/NC italiana/AQ ,/FF fou/VS deixeble/NC de/SP Francesco_Durante/NP ,/FF a/SP Nàpols/NP ./FF
+Quan/CS tornà/VM a/SP Barcelona/NP ,/FF fou/VS mestre/NC de/SP capella/NC de/SP el/DA marquès/NC de/SP Los_Vélez/NP i/CC ,/FF segons/SP que/PR sembla/VM ,/FF també/RG de/SP la/DA catedral/NC ./FF
+Dirigí/VM sovint/RG l'/DA execució/NC d'/SP òperes/NC a/SP el/DA Teatre_de_la_Santa_Creu/NP ,/FF i/CC contribuí/VM a/SP afermar/VM -hi/PP el/DA gust/NC per/SP el/DA drama/NC líric/AQ italià/AQ ./FF
+La/DA primera/AO òpera/NC catalana/AQ ./FF
+Coetani/NP de/SP els/DA inicis/NC de/SP el/DA Classicisme/NP ,/FF va/VA compondre/VM molta/DI música/NC religiosa/AQ i/CC oratoris/AQ ,/FF activitats/NC que/PR va/VA alternar/VM amb/SP la/DA composició/NC d'/SP obres/NC no/RN religioses/AQ ,/FF com/CS dues/ZZ òperes/NC que/PR es/P0 van/VA estrenar/VM els/DA anys/NC 1760/ZZ i/CC 1762/ZZ ./FF
+A/SP més/RG de/SP el/DA Barroc/NP d'/SP origen/NC ,/FF Duran/NP es/P0 va/VA vincular/VM també/RG a/SP els/DA models/NC de/SP l'/DA època/NC en/SP el/DA camp/NC de/SP el/DA simfonisme/NC d'/SP aleshores/RG ,/FF tot_plegat/RG ,/FF però/CC ,/FF dins/RG l'/DA italianisme/NC de/SP el/DA qual/PR Duran/NP va/VA ser/VS un/DI representant/NC destacat/VM dins/SP l'/DA àmbit/NC hispànic/AQ ./FF
+Fou/VS l'/DA autor/NC de/SP la/DA primera/AO òpera/NC catalana/AQ estrenada/VM a/SP el/DA país/NC :/FF Antígona/NP ,/FF estrenada/VM el/DA 10_de_juliol_de_1760/WW a/SP el/DA Teatre_de_la_Santa_Creu/NP ./FF
+Una_segona/ZZ producció/NC ,/FF Temístocles/NP ,/FF basada/VM en/SP un/DI text/NC de/SP el/DA famós/AQ llibretista/NC Metastasio/NP ,/FF s'/P0 estrenà/VM el/DA 4_de_novembre_de_1762/WW «/FF en/SP ocasión/NC de/SP celebrar/VM el/DA día/NC de/SP el/DA glorioso/NC nombre/NC de/SP S._M._el_Rey/NP nuestro/NC señor/AQ Carlos_III/NP »/FF ./FF
+La/DA coincidència/NC de/SP les/DA estrenes/NC amb/SP els/DA sants/AQ deis/NC reis/NC respon/VM a/SP la/DA pràctica/NC ,/FF observada/VM en/SP aquelles/DD èpoques/NC ,/FF de/SP celebrar/VM les/DA onomàstiques/NC de/SP les/DA persones/NC reials/AQ amb/SP la/DA representació/NC d'/SP una/DI òpera/NC nova/AQ ./FF
+També/RG ens/PP ha/VA arribat/VM dues/ZZ obertures/NC ,/FF una/PI en/SP Re/NP major/AQ i/CC una/DI altra/PI en/SP Fa/NP major/AQ ./FF
+Referències/NP ./FF
+BOYD/NP ,/FF Malcom/NP ;/FF CARRERAS_LÓPEZ/NP ,/FF Juan_José/NP ./FF
+Music/NP in/VM Spain_During/NP the/AQ Eighteenth_Century/NP ./FF 2006/ZZ ./FF
+Cambridge_University_Press/NP ./FF
+Pàg/NP ./FF 159/ZZ ;/FF
+Rivas-Vaciamadrid/NP és/VS un/DI municipi/NC de/SP la/DA comunitat/NC autònoma/AQ de/SP Madrid/NP ,/FF que/PR es/P0 troba/VM situat/VM dins/RG de/SP l'/DA àrea/NC metropolitana/AQ de/SP la/DA capital/NC ,/FF entre/SP els/DA rius/NC Manzanares/NP i/CC Jarama/NP ./FF
+Limita/VM a/SP el/DA nord/NC amb/SP Madrid/NP (/FF zona/NC de/SP el/DA districte/NC de/SP Vicálvaro/NP )/FF i/CC San_Fernando_de_Henares/NP ,/FF a/SP el/DA sud/NC amb/SP Arganda_de_el_Rey/NP i/CC San_Martín_de_la_Vega/NP ,/FF a/SP l'/DA este/NC amb/SP Mejorada_de_el_Campo/NP i/CC Velilla_de_San_Antonio/NP ,/FF i/CC a/SP l'/DA oest/NC amb/SP Getafe/NP i/CC Madrid/NP (/FF districte/NC de/SP Villa_de_Vallecas/NP ./FF
+A_causa_de/SP la/DA proximitat/NC amb/SP la/DA capital/NC ,/FF és/VS la/DA població/NC que/PR més/RG ràpidament/RG ha/VA crescut/VM a/SP Europa/NP en/SP els/DA darrers/AO anys/NC ./FF
+Ha/VA passat/VM de/SP 500/ZZ habitants/NC el/DA 1980/ZZ a/SP els/DA 50.000/ZZ actuals/AQ ./FF
+Hi/PP destaca/VM la/DA indústria/NC alimentària/AQ i/CC química/AQ ,/FF tot_i_que/CS encara/RG s/NC hi/PP pot/VM trobar/VM una/DI certa/DI dedicació/NC a/SP l'/DA agricultura/NC i/CC la/DA ramaderia/NC ./FF
+És/VS un/DI municipi/NC de/SP grans/AQ contrastos/NC i/CC d/NC insòlites/AQ peculiaritats/NC ,/FF amb/SP un/DI inestimable/AQ valor/NC ecològic/AQ ,/FF ja_que/CS tres_quartes_parts/ZZ de/SP el/DA terme/NC municipal/AQ formen_part/VM de/SP el/DA Parque_Regional_de_el_Sureste/NP ./FF
+Història/NP ./FF
+Els/DA municipis/NC de/SP Rivas_de_Jarama/NP i/CC de/SP Vaciamadrid/NP es/P0 van/VA unir/VM en/SP un_de_sol/ZZ el/DA 1845/ZZ ./FF
+Eren/VS dos/ZZ pobles/NC petits/AQ amb/SP població/NC molt/RG disseminada/VM ./FF
+Aquests/DD pobles/NC van/VA quedar/VM destruïts/VM durant/SP la/DA Guerra_Civil_Espanyola/NP perquè/CS es/P0 trobaven/VM enmig_de/SP el/DA front/NC ,/FF però/CC els/PP reconstruïren/VM l/NC any/NC 1954/ZZ tot/RG formant/VM un/DI únic/AQ nucli/NC ./FF
+A_partir_de/SP la/DA dècada/NC de/SP el/DA 1980/ZZ es/P0 van/VA començar/VM a/SP construir/VM urbanitzacions/NC a/SP 4_km/ZZ de/SP el/DA poble/NC en/SP direcció/NC Madrid/NP ./FF
+Ben/RG aviat/RG aquest/DD nucli/NC ,/FF conegut/VM com/CS a/SP Rivas_Urbanizaciones/NP ,/FF va/VA tenir/VM més/RG població/NC que/CS el/DA nucli/NC històric/AQ ./FF
+Des/SP d/NC aleshores/RG el/DA planejament/NC urbanístic/AQ ha/VA anat/VM encaminat/VM a/SP unir/VM els/DA dos/ZZ nuclis/NC ,/FF cosa/NC que/PR s/NC ha/VA aconseguit/VM a_causa_de/SP el/DA fort/AQ creixement/NC poblacional/AQ de/SP el/DA municipi/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP de/SP l/NC Ajuntament_de_Rivas-Vaciamadrid/NP ;/FF
+Messier/NP 4/ZZ o/CC M4/ZZ és/VS un/DI cúmul/NC globular/AQ que/PR es/P0 troba/VM en/SP la/DA constel·lació/NC d'/SP Escorpió/NP ./FF
+Va/VA ser/VS descobert/VM per/SP Philippe_Loys_de_Chéseaux/NP en/SP l'/DA any/NC 1746/ZZ i/CC més/RG tard/RG catalogat/VM per/SP Charles_Messier/NP en/SP 1764/ZZ ./FF
+Aquest/DD va/VA ser/VS el/DA primer/AO cúmul/NC globular/AQ en/SP què/PT es/P0 van/VA distingir/VM estrelles/NC individuals/AQ ./FF
+En/SP la/DA frontera/NC de/SP visió/NC a/SP ull/NC nu/AQ ,/FF M4/ZZ s'/P0 observa/VM en/SP els/DA telescopis/NC més/RG petits/AQ com/CS una/DI borrosa/AQ bola/NC de/SP llum/NC ./FF
+En/SP telescopis/NC de/SP grandària/NC mitjana/AQ és/VS possible/AQ distingir/VM estrelles/NC individuals/AQ ,/FF les/DA quals/PR posseeixen/VM una/DI magnitud/NC aparent/AQ de/SP 10,8/ZZ ./FF
+Està/VM situat/VM a/SP 7.200/ZZ anys/NC llum/NC i/CC ,/FF per/SP tant/RG ,/FF ha/VA de/SP ser/VS el/DA cúmul/NC globular/AQ més/RG proper/AQ a/SP el/DA nostre/PX Sistema_Solar/NP ./FF
+S'/P0 han/VA observat/VM com/CS a/SP mínim/RG 43/ZZ estrelles/NC variables/AQ en/SP aquest/DD cúmul/NC ;/FF totes/DI són/VS assequibles/AQ per/SP a/SP l'/DA aficionat/NC ,/FF sempre/RG que/CS s'/P0 utilitzi/VM una/DI càmera/NC CCD/NP per/SP a/SP estudiar/VM -les/PP (/FF apareixen/VM amb/SP magnituds/NC a_partir_de/SP la/DA 10ª/ZZ )/FF ./FF
+De/SP la/DA seva/PX velocitat/NC radial/AQ ,/FF 70,4_km_/_s/ZZ ,/FF es/P0 dedueix/VM que/CS s'/P0 allunya/VM de/SP la/DA Terra/NP a/SP més/RG de/SP 253.400_km_/_h/ZZ :/FF aquesta/DD velocitat/NC es/P0 deu/VM tant/RG a/SP el/DA seu/PX moviment/NC propi/AQ a/SP el/DA voltant/NC de/SP el/DA nucli/NC de/SP la/DA Via_Làctia/NP com/CS a/SP el/DA moviment/NC orbital/AQ de/SP el/DA Sol/NP i/CC la/DA Terra/NP ./FF
+La/DA seva/PX magnitud/NC conjunta/AQ en/SP banda/NC B/NP (/FF llum/NC blava/AQ )/FF és/VS igual/AQ a/SP 8,13/ZZ ,/FF la/DA seva/PX magnitud/NC conjunta/AQ en/SP banda/NC V/NP (/FF llum/NC verda/AQ )/FF és/VS igual/AQ a/SP 7,12/ZZ ;/FF el/DA seu/PX tipus/NC espectral/AQ és/VS F8/ZZ (/FF fotogràficament/RG apareix/VM groguenc/AQ ,/FF a_causa_de/SP la/DA gran/AQ quantitat/NC d'/SP estrelles/NC gegants/AQ vermelles/AQ que/PR posseeix/VM )/FF ./FF
+En/SP 1987/ZZ es/P0 va/VA descobrir/VM un/DI púlsar/VM en/SP M4/ZZ amb/SP un/DI període/NC de/SP 3,0_mil·lisegons/ZZ ./FF
+Fotografies/NP preses/NC per/SP el/DA Telescopi_Espacial_Hubble/NP en/SP 1995/ZZ han/VA revelat/VM estrelles/NC nanes/AQ blanques/NC que/PR estan/VM entre/SP les/DA més/RG velles/AQ de/SP la/DA Via_Làctia/NP (/FF la/DA seva/PX edat/NC s'/P0 estima/VM en/SP uns/DI 13.000_milions/ZZ d'/SP anys/NC )/FF ./FF
+Una/PI d'/SP elles/PP és/VS una/DI estrelles/NC binàries/AQ amb/SP un/DI púlsar/VM com/CS a/SP company/NC ,/FF PSR/NP B1620-26/ZZ i/CC un/DI planeta/NC orbitant/VM -la/PP amb/SP una/DI massa/DI 2,5/ZZ vegades/NC superior/AQ a/SP Júpiter/NP ./FF
+En/SP l'/DA actualitat/NC (/FF 2006/ZZ )/FF s'/P0 han/VA catalogat/VM fins/RG a/SP 74/ZZ estrelles/NC variables/AQ ,/FF la/DA majoria/NC d'/SP elles/PP de/SP tipus/NC RR_Lyrae/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Messier/NP 4/ZZ -/FF SEDS_Messier/NP (/FF en/SP anglès/NC )/FF ;/FF Paràmetres/NP de/SP les/DA variables/NC de/SP M4/ZZ ;/FF
+Narcís_Casanoves/NP i/CC Bertran/NP (/FF Sabadell/NP ,/FF 1747/ZZ -/FF la/DA Vinya_Vella/NP ,/FF Esparreguera/NP ,/FF 1799/ZZ )/FF fou/VS un/DI compositor/NC català/AQ de/SP l'/DA escola/NC de/SP Montserrat/NP ./FF
+Estudià/VM música/NC a/SP l'/DA escolania/NC de/SP Montserrat/NP sota/SP el/DA mestratge/NC de/SP Josep_Martí/NP i/CC Benet_Julià/NP ./FF
+L'/DA any/NC 1763/ZZ va/VA ingressar/VM com/CS a/SP monjo/NC a/SP el/DA monestir/NC ./FF
+Va/VA excel·lir/VM com/CS a/SP organista/NC ,/FF com/CS a/SP hàbil/AQ improvisador/NC i/CC com/CS a/SP compositor/NC ,/FF emmarcat/VM dins/RG l'/DA anomenat/VM estil/NC galant/AQ ,/FF precursor/AQ de/SP el/DA Classicisme/NP ./FF
+Els/DA darrers/AO anys/NC de/SP la/DA seva/PX vida/NC ,/FF es/P0 dedicà/VM a/SP formar/VM musicalment/RG els/DA escolans/NC ./FF
+Va/VA escriure/VM música/NC vocal/AQ en/SP llatí/NC ,/FF a/SP veus/NC soles/AQ ,/FF amb/SP acompanyament/NC d'/SP orgue/NC i/CC d'/SP orquestra/NC i/CC moltes/DI obres/NC per/SP a/SP tecla/NC ./FF
+Se/P0 li/PP coneixen/VM misses/NC ,/FF magníficats/NC ,/FF responsoris/NC ,/FF lamentacions/NC ,/FF antífones/NC marianes/AQ i/CC lletanies/NC ./FF
+Destaquen/VM especialment/RG els/DA 18/ZZ Responsoris/NP per/SP a/SP el/DA tridduum/NC pasqual/AQ i/CC els/DA Responsoris_de_Nadal/NP ./FF
+La/DA penectomia/NC (/FF falectomia/NC )/FF és/VS l'/DA amputació/NC de/SP el/DA penis/NC per/SP cirurgia/NC per/SP raons/NC mèdiques/AQ ./FF
+El/DA càncer/NC ,/FF per_exemple/RG ,/FF de/SP vegades/NC necessita/VM que/CS es/P0 remogui/VM parcial/AQ o/CC totalment/RG el/DA penis/NC ./FF
+En/SP molt/DI rares/AQ ocasions/NC ,/FF la/DA circumcisió/NC pot/VM resultar/VM en/SP una/DI penectomia/NC total/AQ o/CC parcial/AQ ./FF
+Els/DA procediments/NC quirúrgics/AQ per/SP a/SP transformar/VM un/DI home/NC en/SP dona/NC ,/FF amb/SP una/DI vaginoplàstia/NC de/SP reasignament/NC genital/AQ ,/FF no/RN involucra/VM la/DA remoció/NC completa/AQ de/SP el/DA penis/NC ;/FF part/NC o/CC tot/DI el/DA gland/NC és/VS usualment/RG protegit/VM i/CC rearmat/VM per/SP a/SP resultar/VM un/DI clítoris/NC ,/FF i/CC la/DA pell/NC escrotal/AQ de/SP el/DA penis/NC resultar/VM en/SP vagina/NC ./FF
+Quan/CS aquests/DD procediments/NC no/RN són/VS possibles/AQ ,/FF es/P0 pot/VM fer/VM una/DI colovaginoplàstia/NC per/SP a/SP reemplaçar/VM els/DA teixits/NC que/PR no/RN es/P0 posseïxen/VM per/SP la/DA penectomia/NC total/AQ ./FF
+Aquesta/DD remoció/NC de/SP el/DA penis/NC involucra/VM la/DA psicologia/NC ,/FF per/S

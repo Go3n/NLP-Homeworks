@@ -4080,4 +4080,174 @@ Referències/NP ./FF
 Lavilla/NP ,/FF E./NP ,/FF di/VM Tada/NP ,/FF I._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
 Odontophrynus/NP barrioi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
-Odontophrynus/NP carvalhoi/RG és/VS una/DI e
+Odontophrynus/NP carvalhoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Skuk/NP ,/FF G./NP ,/FF Borges-Najosa/NP ,/FF D._&_Pavan/NP ,/FF D./NP 2004/ZZ ./FF
+Odontophrynus/NP carvalhoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP cordobae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Odontophrynus/NP cordobae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP cultripes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Scott/NP ,/FF N./NP ,/FF Aquino/NP ,/FF L./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Pavan/NP ,/FF D._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Odontophrynus/NP cultripes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP lavillai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF di/VM Tada/NP ,/FF I./NP ,/FF Blotto/NP ,/FF B._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Odontophrynus/NP lavillai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP moratoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Odontophrynus/NP moratoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP occidentalis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Blotto/NP ,/FF B./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Odontophrynus/NP occidentalis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Lepidobatrachus/NP és/VS un/DI gènere/NC de/SP granotes/NC que/PR comprèn/VM 3/ZZ espècies/NC :/FF Lepidobatrachus/NP asper/AQ ;/FF Lepidobatrachus/NP laevis/NC ;/FF Lepidobatrachus/NP llanensis/NC ;/FF Distribució/NP territorial/AQ ./FF
+Aquest/DD gènere/NC es/P0 troba/VM a/SP Sud-Amèrica/NP ,/FF concretament/RG a/SP l'/DA Argentina/NP ,/FF Paraguai/NP i/CC Bolívia/NP ./FF
+Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Lepidobatrachus/NP asper/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF di/VM Tada/NP ,/FF I._&_Faivovich/NP ,/FF J./NP 2004/ZZ ./FF
+Lepidobatrachus/NP asper/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Lepidobatrachus/NP laevis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP i/CC Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF De_la_Riva/NP ,/FF I._&_Céspedez/NP ,/FF V./NP 2004/ZZ ./FF
+Lepidobatrachus/NP laevis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Lepidobatrachus/NP llanensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF di/VM Tada/NP ,/FF I._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Lepidobatrachus/NP llanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Gèneres/NP ./FF
+Crossodactylodes/NP ;/FF Crossodactylus/NP ;/FF Cycloramphus/NP ;/FF Hylodes/NP ;/FF Megaelosia/NP ;/FF Paratelmatobius/NP ;/FF Rupirana/NP ;/FF Scythrophrys/NP ;/FF Thoropa/NP ;/FF Zachaenus/NP ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD subfamília/NC de/SP granotes/NC ./FF ;/FF
+Khatshik_I_Archaruni/NP -/FF de/SP patriarque/RG d'/SP Armènia/NP 972-992/ZZ o/CC 990/ZZ (/FF potser/RG vacant/AQ de/SP el/DA 990-992/ZZ )/FF ;/FF Khatshik_II_Getadartz/NP -/FF de/SP patriarque/RG d'/SP Armènia/NP 1054-1060/ZZ ;/FF Khatshik_Gagik_III/NP -/FF senyor/NC de/SP Rechtuniq/NP 887-897/ZZ ,/FF princep/VM de/SP Vaspurakan/NP 904-908/ZZ (/FF a/SP el/DA nord-oest/NC )/FF ,/FF rei/NC d'/SP Vaspurakan/NP 908-943/ZZ (/FF germà/NC de/SP Sargis/NP )/FF ;/FF Gurgen_Khatshik/NP -/FF rei/NC d'/SP Vaspurakan/NP 983-1003/ZZ (/FF senyor/NC de/SP Antzevaziq/NP 972-983/ZZ )/FF (/FF germà/NC )/FF ;/FF
+Hylodes/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Hylodes/NP amnicola/NC ;/FF Hylodes/NP asper/AQ ;/FF Hylodes/NP babax/NC ;/FF Hylodes/NP charadranaetes/NC ;/FF Hylodes/NP dactylocinus/NC ;/FF Hylodes/NP glaber/VM ;/FF Hylodes/NP heyeri/NC ;/FF Hylodes/NP lateristrigatus/NC ;/FF Hylodes/NP magalhaesi/NC ;/FF Hylodes/NP meridionalis/NC ;/FF Hylodes/NP mertensi/NC ;/FF Hylodes/NP nasus/NC ;/FF Hylodes/NP ornatus/NC ;/FF Hylodes/NP otavioi/NC ;/FF Hylodes/NP perplicatus/NC ;/FF Hylodes/NP phyllodes/NC ;/FF Hylodes/NP regius/AQ ;/FF Hylodes/NP sazima/NC ;/FF Hylodes/NP uai/NC ;/FF Hylodes/NP vanzolinii/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Hylodes/NP amnicola/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Hylodes/NP amnicola/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP asper/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pavan/NP ,/FF D._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Hylodes/NP asper/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP babax/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Hylodes/NP babax/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP charadranaetes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Hylodes/NP charadranaetes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP dactylocinus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Narvaes/NP ,/FF P._&_Pavan/NP ,/FF D./NP 2004/ZZ ./FF
+Hylodes/NP dactylocinus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP glaber/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP glaber/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP heyeri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Segalla/NP ,/FF M.V._&_Pavan/NP ,/FF D./NP 2004/ZZ ./FF
+Hylodes/NP heyeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP lateristrigatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Narvaes/NP ,/FF P._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP lateristrigatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP magalhaesi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP magalhaesi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP meridionalis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P._&_Segalla/NP ,/FF M.V./NP 2004/ZZ ./FF
+Hylodes/NP meridionalis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP mertensi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP mertensi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP nasus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP ,/FF Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Hylodes/NP nasus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP ornatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Van/VA Sluys/NP ,/FF M._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP ornatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP otavioi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Bertoluci/NP ,/FF J./NP 2004/ZZ ./FF
+Hylodes/NP otavioi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP perplicatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Hylodes/NP perplicatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP phyllodes/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F./NP ,/FF Van_Sluys/NP ,/FF M./NP ,/FF Telles/NP ,/FF A.M._&_Bertoluci/NP ,/FF J./NP 2004/ZZ ./FF
+Hylodes/NP phyllodes/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP regius/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP 2004/ZZ ./FF
+Hylodes/NP regius/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP sazima/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Ga

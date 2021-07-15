@@ -3988,4 +3988,96 @@ Es/P0 van/VA fer/VM captures/NC selective/AQ :/FF només/RG interessaven/VM aque
 Les/DA peticions/NC d'/SP ajuda/NC de/SP el/DA comte/NC Borrell_II/NP van/VA ser/VS ignorades/VM per/SP el/DA rei/NC franc/AQ Lotari_I_de_França/NP que/PR en/SP aquells/DD moments/NC s'/P0 enfrontava/VM a/SP els/DA seus/PX propis/AQ problemes/NC a/SP el/DA Comtat_de_Verdun/NP ,/FF i/CC com/CS a/SP conseqüència/NC ,/FF afegint/VM -hi/PP el/DA creixent/AQ desarrelament/NC de/SP els/DA comtes/NC barcelonins/AQ respecte/NC a/SP els/DA seus/PX antics/AQ senyors/NC ,/FF el/DA 988/ZZ Borrell_II/NP es/P0 va/VA negar/VM a/SP renovar/VM el/DA pacte/NC de/SP vasallatge/NC amb/SP Hug_Capet/NP ,/FF el/DA nou/AQ rei/NC francès/AQ ,/FF i/CC va/VA instaurar/VM la/DA independència/NC de/SP fet/NC de/SP els/DA territoris/NC sota/SP el/DA seu/PX poder/NC ./FF
 Referències/NP ./FF
 Fidel_Fita/NP ,/FF Destrucció_de_Barcelona_per_Almanzor/NP ,/FF 6_de_juliol_de_985/WW ;/FF Gaspar_Feliu/NP i/CC Montfort/NP ,/FF La/NP presa/NC de/SP Barcelona_per_Almansor/NP :/FF història/NC i/CC mitificació/NC ;/FF
-Saraqusta/NP era/VS la/DA ciutat/NC musulmana/AQ que/CS amb/SP la/DA conquesta/NC cristiana/AQ es/P0 va/VA convertir/VM en/SP Saragossa_Fou/NP 
+Saraqusta/NP era/VS la/DA ciutat/NC musulmana/AQ que/CS amb/SP la/DA conquesta/NC cristiana/AQ es/P0 va/VA convertir/VM en/SP Saragossa_Fou/NP capital/NC de/SP l'/DA Emirat_de_Saraqusta/NP a/SP el/DA llarg/AQ de/SP el/DA segle_XI/WW ./FF
+Inicialment/RG restà/VM en/SP mans/NC de/SP els/DA Tugíbides/NP però/CC el/DA 1039/ZZ caigué/VM en/SP mans/NC de/SP els/DA Banu_Hud_de_l'_Emirat_de_Larida/NP ./FF
+Pere_el_Gran/NP va/VA continuar/VM l'/DA expansió/NC central/AQ i/CC oriental/AQ de/SP el/DA regne/NC atacant/VM la/DA taifa/NC de/SP Saragossa/NP i/CC va/VA posar/VM setge/NC a/SP Saragossa/NP el/DA 1104/ZZ ./FF
+Amb/SP aquesta/DD conquestes/NC es/P0 va/VA consolidar/VM la/DA supremàcia/NC militar/AQ de/SP les/DA tropes/NC cristianes/AQ sobre/SP les/DA musulmanes/NC ./FF
+La/DA taifa/NC fou/VS finalment/RG conquerida/VM l'/DA any/NC 1118/ZZ per/SP Alfons_I_d'_Aragó/NP ./FF
+Referències/NP ./FF
+La/DA muralla/NC de/SP el/DA segle_XIV/WW de/SP València/NP és/VS el/DA darrer/AO recinte/NC que/PR envoltava/VM la/DA ciutat/NC abans/RG que/CS durant/SP el/DA segle_XIX/WW fora/RG alliberada/VM de/SP murades/NC ./FF
+Fou/VS construït/VM el/DA 1356/ZZ ,/FF durant/SP el/DA regnat/NC de/SP el/DA rei/NC d'/SP Aragó_Pere_el_Cerimoniós/NP ,/FF que/PR donà/VM orde/NC a/SP el/DA Consell_General_de_la_Ciutat/NP de/SP bastir/VM un/DI nou/AQ recinte/NC murat/VM ,/FF amb/SP una/DI doble/AQ intenció/NC ./FF
+D/NP una/DI banda/NC ,/FF per/SP permetre/VM integrar/VM els/DA nous/AQ ravals/NC formats/NC extramurs/AQ ,/FF com/CS ara/RG el/DA de/SP la/DA Boatella/NP o/CC el/DA de/SP la/DA Xerea/NP ./FF
+De/SP l/NC altra/DI ,/FF per/SP protegir/VM millor/AQ la/DA ciutat/NC en_cas_que/CS el/DA rei/NC castellà/AQ Pedro_el_Cruel/NP tractara/VM d/RG atacar/VM -la/PP ,/FF com/CS era/VS previsible/AQ que/CS fera/AQ i/CC com/CS féu/VM el/DA 1363/ZZ i/CC el/DA 1364/ZZ ./FF
+Les/DA muralles/NC foren/VS bastides/NC el/DA 1356/ZZ per/SP Guillem_Nebot/NP ,/FF però/CC fou/VS tal/RG la/DA precipitació/NC en/SP la/DA seua/PX construcció/NC que/PR posteriorment/RG calgué/VM realitzar/VM diverses/DI actuacions/NC per/SP preservar/VM -les/PP ./FF
+La/DA urgència/NC derivava/VM de/SP la/DA necessitat/NC de/SP fortificar/VM la/DA ciutat/NC amb_motiu_de/SP la/DA guerra/NC amb/SP Castella/NP ,/FF coneguda/VM com/CS la/DA guerra/NC de/SP els/DA dos/ZZ Peres/NP ,/FF entre/SP el/DA rei/NC d'/SP Aragó_Pere_el_Cerimoniós/NP i/CC el/DA rei/NC de/SP Castella_Pere_I_el_Cruel/NP ./FF
+El/DA rei/NC castellà/AQ va/VA voler/VM recuperar/VM els/DA terrenys/NC de/SP el/DA migdia/WW valencià/AQ que/PR havien/VA estat/VS castellans/NC entre/SP 1248/ZZ i/CC 1296/ZZ ./FF
+Tot_i_que/CS el/DA regne/NC moro/AQ de/SP Múrcia/NP havia/VA estat/VS conquerit/VM i/CC repoblat/VM per/SP catalans/AQ ,/FF Jaume_I/NP l/NC havia/VA donat/VM a/SP el/DA seu/PX gendre/NC Alfons_X_el_Savi/NP ,/FF però/CC aprofitant/VM les/DA guerres/NC internes/AQ castellanes/AQ ,/FF part/NC d/AQ aquest/DD territori/NC (/FF Elda/NP ,/FF Alacant/NP ,/FF Elx/NP i/CC Oriola/NP ;/FF però/CC no/RN Múrcia/NP ni/CC Cartagena/NP ni/CC més/RG enllà/RG )/FF fou/VS després/RG incorporat/VM a/SP València_per_Jaume_II/NP ,/FF després/RG de/SP el/DA tractat/NC de/SP Torrellas/NP (/FF 1304/ZZ )/FF ./FF
+Pedro_el_Cruel/NP continuava/VM reivindicant/VM -lo/PP ,/FF però/CC ,/FF i/CC per/SP pressionar/VM a/SP el/DA rei/NC Pere_el_Cerimoniós/NP va/VA intentar/VM entrar/VM en/SP la/DA ciutat/NC de/SP València/NP dues/ZZ vegades/NC ,/FF el/DA 1363/ZZ i/CC el/DA 1364/ZZ ./FF
+Però/RG el/DA rei/NC Pere/NP ,/FF que/PR s/NC afanyà/VM a/SP alçar/VM la/DA nova/AQ murada/NC ,/FF va/VA rebutjar/VM la/DA invasió/NC castellana/AQ ,/FF gràcies/NC també/RG a/SP la/DA col·laboració/NC de/SP els/DA habitants/NC de/SP la/DA ciutat/NC ,/FF en/SP agraïment/NC a/SP els/DA quals/PR el/DA rei/NC Pere/NP els/PP va/VA atorgar/VM el/DA títol/NC de/SP "/FF dues/ZZ vegades/NC lleial/AQ "/FF ,/FF representat/VM per/SP les/DA dos/ZZ L/NP que/PR té/VM el/DA seu/PX escut/NC ./FF
+La/DA nova/AQ muralla/NC ,/FF amb/SP un/DI perímetre/NC d'/SP uns/DI quatre_quilòmetres/ZZ i/CC amb/SP 142_ha/ZZ ,/FF va/VA triplicar/VM la/DA superfície/NC interior/AQ ./FF
+Va/VA esdevindre/VM un/DI de/SP els/DA recintes/NC murats/VM més/RG grans/AQ de/SP la/DA Península_Ibèrica/NP ./FF
+S/NP hi/PP obrien/VM dotze/ZZ portes/NC -/FF distribuïdes/VM en/SP portals/NC grans/AQ i/CC portals/NC xics/AQ -/FF que/PR permetien/VM l'/DA accés/NC a/SP la/DA ciutat/NC ,/FF de/SP les/DA quals/PR només/RG en/PP perduren/VM dues/ZZ :/FF les/DA més/RG monumentals/AQ ./FF
+Ens/PP referim/VM a/SP les/DA portes/NC de/SP Quart/NP i/CC de/SP Serrans/NP ./FF
+En/SP la/DA seua/PX part/NC exterior/AQ la/DA muralla/NC estava/VM envoltada/VM d/RG un/DI amplia/VM vall/NC o/CC fossat/NC ,/FF que/PR encara/RG s/NC observa/VM a/SP la/DA porta/NC de/SP Serrans/NP ./FF
+Vegeu/VM també/RG ./FF
+Muralla/NP romana/AQ de/SP València/NP ;/FF Muralla/NP àrab/AQ de/SP València/NP ;/FF
+El/DA districte/NC de/SP Salamanca/NP és/VS un/PI de/SP els/DA 21/ZZ districtes/NC que/PR formen/VM el/DA municipi/NC de/SP Madrid/NP (/FF any/NC 2005/ZZ )/FF ./FF
+Deu/VM el/DA seu/PX nom/NC a/SP el/DA seu/PX constructor/NC ,/FF el/DA malagueny/NC José_de_Salamanca/NP i/CC Mayol/NP ,/FF Marquès_de_Salamanca/NP ,/FF que/PR el/PP va/VA erigir/VM en/SP el/DA segle_XIX/WW ./FF
+La/DA seva/PX ubicació/NC geogràfica/AQ ve/VM definida/VM per/SP els/DA carrers/NC limítrofs/AQ :/FF Per/SP l'/DA oest/NC ,/FF el/DA Passeig_de_Recoletos/NP i/CC el/DA Passeig_de_la_Castellana/NP ./FF ;/FF per/SP el/DA sud/NC ,/FF el/DA carrer/NC Alcalá/NP i/CC el/DA Carrer_O'Donnell/NP ./FF ;/FF Per/NP l'/DA est/NC ,/FF l'/DA Avinguda_de_la_Pau/NP (/FF M-30/ZZ )/FF ./FF ;/FF per/SP el/DA nord/NC ,/FF el/DA carrer/NC María_de_Molina/NP i/CC Avinguda_d'_Amèrica/NP ./FF
+Chamartín/NP és/VS un/DI districte/NC de/SP el/DA municipi/NC de/SP Madrid/NP ,/FF situat/VM a/SP el/DA nord/NC de/SP la/DA capital/NC i/CC compost/NC per/SP els/DA barris/NC de/SP El_Viso/NP (/FF 51/ZZ )/FF ,/FF Prosperidad/NP (/FF 52/ZZ )/FF ,/FF Ciutat_Jardí/NP (/FF 53/ZZ )/FF ,/FF Hispanoamèrica/NP (/FF 54/ZZ )/FF ,/FF Nueva_España/NP (/FF 55/ZZ )/FF i/CC Castella/NP (/FF 56/ZZ )/FF ./FF
+Limita/VM a/SP el/DA nord/NC amb/SP Fuencarral-El_Pardo/NP ,/FF a/SP l'/DA est/NC amb/SP Ciudad_Lineal/NP ,/FF a/SP el/DA sud/NC amb/SP el/DA districte/NC de/SP Salamanca/NP ,/FF a/SP el/DA sud-oest/NC amb/SP Chamberí/NP i/CC a/SP l'/DA oest/NC amb/SP Tetuán/NP ./FF
+Chamberí/NP és/VS el/DA nom/NC d'/SP un/DI districte/NC pertanyent/AQ a/SP la/DA ciutat/NC de/SP Madrid/NP i/CC organitzat/VM administrativament/RG en/SP sis/ZZ barris/NC (/FF Gaztambide/NP ,/FF Arapiles/NP ,/FF Trafalgar/NP ,/FF Almagro/NP ,/FF Ríos_Rosas/NP i/CC Vallehermoso/NP )/FF ./FF
+Compte/NP amb/SP una/DI població/NC propera/AQ a/SP els/DA 150.000/ZZ habitants/NC ./FF
+Carabanchel/NP és/VS el/DA nom/NC d'/SP un/DI districte/NC pertanyent/AQ a/SP la/DA ciutat/NC de/SP Madrid/NP ./FF
+La/DA seva/PX població/NC és/VS de/SP 250.000/ZZ habitants/NC i/CC està/VM organitzat/VM administrativament/RG en/SP els/DA barris/NC de/SP Comillas/NP (/FF 111/ZZ )/FF ,/FF Opañel/NP (/FF 112/ZZ )/FF ,/FF San_Isidre/NP (/FF 113/ZZ )/FF ,/FF Vista_Alegre/NP (/FF 114/ZZ )/FF ,/FF Puerta_Bonita/NP (/FF 115/ZZ )/FF ,/FF Buenavista/NP (/FF 116/ZZ )/FF i/CC Abrantes/NP (/FF 117/ZZ )/FF ./FF
+Francesc_Gònima/NP fou/VS un/DI compositor/NC català/AQ de/SP el/DA Classicisme/NP ,/FF pràcticament/RG desconegut/VM ,/FF de/SP el/DA qual/PR es/P0 coneix/VM ,/FF de/SP forma/NC incompleta/AQ ,/FF un/DI concert/NC per/SP oboè/NC i/CC corda/NC (/FF dos/ZZ violins/NC i/CC baix/AQ )/FF ./FF
+Referències/NP ./FF
+VILAR/NP ,/FF Josep_M./NP :/FF "/FF The_Symphony/NP in/VM Catalonia/NP ,/FF c/NC ./FF 1768-1808/ZZ "/FF ,/FF dins/RG de/SP BOYD/NP ,/FF Malcom/NP ;/FF CARRERAS_LÓPEZ/NP ,/FF Juan_José/NP ./FF
+Music/NP in/VM Spain_During/NP the/AQ Eighteenth_Century/NP ./FF 2000/ZZ ./FF
+Cambridge_University_Press/NP ./FF
+Pàg/NP ./FF 159/ZZ ;/FF
+Miquel_Junyer/NP fou/VS un/DI compositor/NC català/AQ de/SP el/DA Classicisme/NP ,/FF pràcticament/RG desconegut/VM ,/FF de/SP el/DA qual/PR es/P0 coneix/VM una/DI obertura/NC ./FF
+Es/P0 sap/VM que/CS tocava/VM el/DA violí/NC a/SP la/DA mateixa/DI orquestra/NC que/CS Josep_Fàbrega/NP ./FF
+El/DA 1791/ZZ era/VS un/DI músic/NC de/SP el/DA Palau_de_la_Comtessa/NP a/SP Barcelona/NP ,/FF on/PR devia/VM conèixer/VM a/SP Josep_Duran/NP ./FF
+Referències/NP ./FF
+BOYD/NP ,/FF Malcom/NP ;/FF CARRERAS_LÓPEZ/NP ,/FF Juan_José/NP ./FF
+Music/NP in/VM Spain_During/NP the/AQ Eighteenth_Century/NP ./FF 2006/ZZ ./FF
+Cambridge_University_Press/NP ./FF
+Pàg/NP ./FF 159/ZZ ;/FF
+Josep_Pons/NP (/FF Girona/NP ,/FF 8_d'_abril_de_1770/WW -/FF València/NP ,/FF 12_d'_agost_de_1818/WW )/FF fou/VS un/DI compositor/NC de/SP el/DA Classicisme/NP català/AQ ./FF
+Pons/VM va/VA pertànyer/VM a/SP el/DA cor/NC de/SP la/DA catedral/NC de/SP Girona/NP des_de/SP 1780/ZZ fins/SP 1784/ZZ ,/FF de/SP la/DA qual/PR en/PP fou/VS nomenat/VM mestre/NC de/SP capella/NC el/DA gener_de_1791/WW amb/SP només/RG 21/ZZ anys/NC ./FF
+Els/DA seus/PX mestres/NC allí/RG van/VA ser/VS l'/DA ancià/NC Emmanuel_Gònima/NP i/CC Jaume_Balius/NP ,/FF que/PR seria/VS decisiu/AQ en/SP la/DA seva/PX formació/NC i/CC la/DA influència/NC de/SP el/DA qual/PR marcaria/VM el/DA futur/NC de/SP la/DA seua/PX vocació/NC ./FF
+De/SP fet/NC entre/SP 1784/ZZ i/CC 1791/ZZ ,/FF anà/VM de/SP la/DA seva/PX mà/NC entre/SP Madrid/NP i/CC Còrdova/NP ,/FF on/PR el/DA mestre/NC Balius/NP fou/VS contractat/VM com/CS a/SP organista/NC ./FF
+El/DA 1786/ZZ ,/FF amb/SP només/RG setze/ZZ va/VA compondre/VM la/DA missa/NC sobre/SP l'/DA antífona/NC Ecce_Sacerdos_Magnus/NP ,/FF durant/SP la/DA seva/PX estada/NC a/SP la/DA catedral/NC de/SP Còrdova/NP i/CC on/PR en/SP guarden/VM una/DI còpia/NC ./FF
+El/DA 1791/ZZ aconsegueix/VM la/DA plaça/NC de/SP mestre/NC de/SP capella/NC de/SP la/DA catedral/NC de/SP València/NP ,/FF ciutat/NC en/SP la/DA qual/PR restaria/VM fins/SP la/DA seva/PX mort/NC el/DA 1818/ZZ ./FF
+Va/VA compondre/VM set/ZZ simfonies/NC i/CC dues/ZZ obertures/NC ./FF
+Josep_Melcior_Gomis/NP i/CC Colomer/NP (/FF 1791-1836/ZZ )/FF va/VA ser/VS alumne/NC seu/NC ./FF
+Referències/NP ./FF
+BOYD/NP ,/FF Malcom/NP ;/FF CARRERAS_LÓPEZ/NP ,/FF Juan_José/NP ./FF
+Music/NP in/VM Spain_During/NP the/AQ Eighteenth_Century/NP ./FF 2006/ZZ ./FF
+Cambridge_University_Press/NP ./FF
+Pàg/NP ./FF 159/ZZ ;/FF RAMIREZ_I_BENEYTO/NP ,/FF Ramon/NP ./FF
+El/DA compositor/NC Josep_Pons/NP i/CC el/DA llenguatge/NC musical/AQ per/SP a/SP la/DA litúrgia/NC de/SP l'/DA ordinarium/NC :/FF "/FF Missa/NC a/SP 4/ZZ ÿ/FF a/SP 8/ZZ con/NC oboes/NC ,/FF violines/AQ ÿ/FF trompas/NC sobre/SP l'/DA antífona/NC Ecce_Sacerdos_Magnus/NP "/FF (/FF 1786/ZZ )/FF ;/FF
+La/DA península/NC d'/SP Izu/NP (/FF en/SP japonès/NC ,/FF ,/FF Izu/NP hanto/NC )/FF està/VM situada/VM a/SP pocs/DI quilòmetres/NC de/SP Tòquio/NP (/FF Japó/NP )/FF ,/FF entre/SP el/DA mont/NC Fuji/NP i/CC l'/DA oceà/NC Pacífic/NP ,/FF a/SP l'/DA illa/NC japonesa/AQ de/SP Honshu/NP ./FF
+Aquesta/DD península/NC actualment/RG forma_part/VM de/SP la/DA prefectura/NC de/SP Shizuoka/NP ./FF
+a/SP el/DA sud/NC de/SP la/DA península/NC es/P0 troba/VM un/DI arxipèlag/NC volcànic/AQ de/SP vuit/ZZ illes/NC conegut/VM com/CS les/DA Illes_d'_Izu/NP (/FF en/SP japonès/NC ,/FF Izu/NP shoto/NC )/FF ./FF
+Izu/NP significa/VM "/FF lloc/NC d'/SP aigües/NC termals/AQ "/FF ./FF
+Tant/RG la/DA península/NC com/CS les/DA illes/NC són/VS un/DI lloc/NC de/SP destinació/NC turística/AQ popular/AQ no/RN només/RG per/SP a/SP els/DA japonesos/NC sinó/CC també/RG per/SP a/SP visitants/NC d'/SP altres/DI països/NC que/PR acudeixen/VM per/SP practicar/VM submarinisme/NC i/CC altres/DI esports/NC aquàtics/AQ ./FF
+Geografia/NP :/FF La/DA ciutat/NC d'/SP Izu/NP ,/FF que/PR es/P0 troba/VM a/SP la/DA prefectura/NC de/SP Shizuoka/NP ./FF ;/FF La/NP península/NC d'/SP Izu/NP ,/FF situada/VM a_prop/RG de/SP Tòquio/NP (/FF Japó/NP )/FF ./FF
+Les/DA illes/NC Izu/NP ,/FF localitzades/VM més/RG enllà/RG de/SP la/DA península/NC d'/SP Izu/NP ./FF ;/FF La/NP província/NC d'/SP Izu/NP ,/FF una/DI part/NC de/SP l'/DA actual/AQ prefectura/NC de/SP Shizuoka/NP ;/FF Izu/NP (/FF Navarra/NP )/FF ,/FF és/VS un/DI poblet/NC que/PR pertany/VM a/SP el/DA municipi/NC d'/SP Oltza_Zendea/NP ,/FF a/SP Navarra/NP ,/FF Espanya/NP ./FF
+Biografies/NP :/FF Miguel_Izu/NP :/FF polític/AQ i/CC jurista/NC navarrès/AQ ./FF
+Barris/NC i/CC entitats/NC de/SP població/NC :/FF Collblanc/NP (/FF Avinyonet_de_el_Penedès/NP )/FF ;/FF Collblanc/NP (/FF L'/DA Hospitalet_de_Llobregat/NP )/FF ;/FF
+Odontophrynus/NP salvatori/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Caramaschi/NP ,/FF U./NP ,/FF Colli/NP ,/FF G./NP ,/FF Bastos/NP ,/FF R._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Odontophrynus/NP salvatori/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP achalensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Odontophrynus/NP achalensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP americanus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP ,/FF Paraguai/NP ,/FF Uruguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D./NP ,/FF Scott/NP ,/FF N./NP ,/FF Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Odontophrynus/NP americanus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP barrioi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF di/VM Tada/NP ,/FF I._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Odontophrynus/NP barrioi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 15_de_gener_de_2008/WW ./FF
+Odontophrynus/NP carvalhoi/RG és/VS una/DI e

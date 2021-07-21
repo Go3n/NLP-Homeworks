@@ -4250,4 +4250,156 @@ Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
 Hylodes/NP sazima/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
 Referències/NP ./FF
-Ga
+Garcia/NP ,/FF P._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Hylodes/NP sazima/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP uai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Hylodes/NP uai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Hylodes/NP vanzolinii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Hylodes/NP vanzolinii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Megaelosia/NP apuana/NC ;/FF Megaelosia/NP bocainensis/NC ;/FF Megaelosia/NP boticariana/AQ ;/FF Megaelosia/NP goeldii/NC ;/FF Megaelosia/NP lutzae/AQ ;/FF Megaelosia/NP massarti/VM ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Megaelosia/NP apuana/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pombal/NP ,/FF J./NP 2004/ZZ ./FF
+Megaelosia/NP apuana/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP bocainensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Megaelosia/NP bocainensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP boticariana/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Megaelosia/NP boticariana/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP goeldii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Megaelosia/NP goeldii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP lutzae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Megaelosia/NP lutzae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Megaelosia/NP massarti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP ,/FF Telles/NP ,/FF A.M._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
+Megaelosia/NP massarti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Paratelmatobius/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Paratelmatobius/NP cardosoi/RG ;/FF Paratelmatobius/NP gaigeae/AQ ;/FF Paratelmatobius/NP lutzii/NC ;/FF Paratelmatobius/NP mantiqueira/NC ;/FF Paratelmatobius/NP poecilogaster/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Paratelmatobius/NP cardosoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Paratelmatobius/NP cardosoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Paratelmatobius/NP gaigeae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Paratelmatobius/NP gaigeae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Paratelmatobius/NP lutzii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Paratelmatobius/NP lutzii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Paratelmatobius/NP mantiqueira/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Paratelmatobius/NP mantiqueira/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Paratelmatobius/NP poecilogaster/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Paratelmatobius/NP poecilogaster/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Thoropa/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Thoropa/NP lutzi/VM ;/FF Thoropa/NP megatympanum/NC ;/FF Thoropa/NP miliaris/AQ ;/FF Thoropa/NP petropolitana/AQ ;/FF Thoropa/NP saxatilis/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Thoropa/NP lutzi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Carnaval/NP ,/FF A.C./NP 2004/ZZ ./FF
+Thoropa/NP lutzi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Thoropa/NP megatympanum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Caramaschi/NP ,/FF U./NP ,/FF Nascimento/NP ,/FF L.B._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Thoropa/NP megatympanum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Thoropa/NP miliaris/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P./NP ,/FF Peixoto/NP ,/FF O.L._&_Glaucia_Moreira/NP 2004/ZZ ./FF
+Thoropa/NP miliaris/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Thoropa/NP petropolitana/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Thoropa/NP petropolitana/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Thoropa/NP saxatilis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P./NP 2004/ZZ ./FF
+Thoropa/NP saxatilis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA Confederació_Sud-americana_de_el_Patí/NP (/FF CSP/NP )/FF (/FF en/SP castellà/NC :/FF Confederación_Sudamericana_de_Patín/NP )/FF ,/FF és/VS una/DI organització/NC independent/AQ ,/FF reconeguda/VM per/SP la/DA FIRS/NP ,/FF que/PR agrupa/VM les/DA federacions/NC de/SP patinatge_artístic/NC sobre/SP rodes/NC ,/FF hoquei/NC sobre/SP patins/NC i/CC patinatge/NC de/SP velocitat/NC a/SP el/DA sots-continent/NC sud-americà/AQ ,/FF creada/VM el/DA 1954/ZZ ./FF
+Actualment/RG la/PP composen/VM 9/ZZ federacions/NC ./FF
+Membres/NC ./FF
+La/DA CSP/NP contempla/VM la/DA possibilitat/NC d'/SP acollir/VM membres/NC de/SP ple/NC dret/AQ i/CC membres/VM adherits/VM ./FF
+Mentre/CS els/DA primers/AO tenen/VM dret/NC a/SP veu/NC i/CC vot/NC ,/FF els/DA segons/SP únicament/RG tenen/VM dret/NC a/SP expressar/VM els/DA seus/PX punts/NC de/SP vista/NC però/CC no/RN poden/VM exercir/VM el/DA vot/NC en/SP la/DA presa/NC de/SP decisions/NC ./FF
+Membres/NC de/SP ple/NC dret/AQ ./FF
+(/FF Confederació_Argentina_de_el_Patí/NP )/FF ;/FF (/FF Confederació_Brasilera_d'_Hoquei/NP i/CC Patinatge/NP )/FF ;/FF (/FF Federació_Colombiana_de_Patinatge/NP )/FF ;/FF (/FF Federació_Equatoriana_d'_Hoquei/NP i/CC Patí/NP )/FF ;/FF (/FF Associació_Panamenya_de_Patinatge/NP )/FF ;/FF (/FF Confederació_Paraguaiana_de_Patinatge_Artístic/NP i/CC Carreres/NP )/FF ;/FF (/FF Federació_Veneçolana_de_Patinatge/NP )/FF ;/FF (/FF Federació_Xilena_d'_Hoquei/NP i/CC Patí/NP )/FF ;/FF Membres/NP adherits/VM ./FF
+(/FF Federació_Catalana_de_Patinatge/NP )/FF ;/FF Presidents/NP ./FF
+?/FF ?/FF ?/FF -2007/ZZ :/FF Ernesto_Cajaravilla/NP ;/FF 2007/ZZ -/FF .../FF :/FF Armando_Quintanilla/NP ;/FF Enllaços/NP externs/AQ ./FF
+Web/NP oficial/AQ de/SP la/DA Confederació_Sud-americana_de_el_Patí/NP ;/FF
+Antoni_Muset/NP i/CC Ferrer/NP (/FF Igualada/VM ,/FF 1_de_gener_del_1892/WW Valls/NP ,/FF 15_de_juliol_del_1968/WW )/FF ,/FF escriptor/NC i/CC poeta/NC ./FF
+Visqué/VM a/SP Manresa/NP i/CC a/SP Valls/NP ./FF
+President/NP de/SP l'/DA entitat/NC esperantista/AQ Bela_Espero/NP ,/FF i/CC president/NC de/SP el/DA Centre_Excursionista_de_la_Comarca_de_Bages/NP (/FF de/SP el/DA 1934/ZZ a/SP el/DA 1937/ZZ )/FF ./FF
+Publicà/NP els/DA llibres/NC Quan/NP el/DA cor/NC i/CC el/DA cervell/NC parlen/VM (/FF 1931/ZZ )/FF ,/FF Cantos/NP idílicos/AQ (/FF 1946/ZZ )/FF ,/FF Igualada/NP ,/FF camí/NC d'/SP Europa/NP (/FF 1954/ZZ )/FF ,/FF La/NP luz/RG de/SP Tierra_Santa/NP :/FF el/DA crucero/NC por/NC el/DA Mediterráneo/NP (/FF 1956/ZZ )/FF ,/FF Vibracions/NP (/FF 1963/ZZ )/FF ,/FF Don_Listo/NP y/NC Bobalicón/NP ,/FF La/NP gesta/NC d'/SP en/SP Pamoressi/NP (/FF 1964/ZZ )/FF i/CC Romanç/NP d'/SP amor/NC (/FF 1966/ZZ )/FF ./FF
+Col·laborà/VM en/SP la/DA premsa/NC local/AQ ./FF
+Les/DA Andelys/NP és/VS una/DI població/NC i/CC comuna/NC francesa/AQ ,/FF en/SP la/DA regió/NC d'/SP Alta_Normandia/NP ,/FF departament/NC d'/SP Eure/NP ,/FF a/SP el/DA districte/NC de/SP els/DA Andelys/NP i/CC cantó/NC de/SP els/DA Andelys/NP ./FF
+És/VS format/NC per/SP dos/ZZ nuclis/NC separats/VM per/SP uns/DI aiguamolls/NC ,/FF el/DA Petit_Andely/NP i/CC el/DA Grand_Andely/NP ./FF
+Rabí/NP (/FF Hebreu/NP rabbí/NC ;/FF -/FF alguns/DI sefardites/NC ho/PP pronuncien/VM ribbí/NC ;/FF de/SP l'/DA Hebreu/NP gran/AQ )/FF en/SP el/DA Judaisme/NP significa/VM mon/DP mestre/NC o/CC ,/FF més/RG literalment/RG mon/DP major/AQ ,/FF ja_que/CS el/PP sufixe/VM pronominal/AQ -/FF í/RG denota/VM possessiu/AQ de/SP primera/AO persona/NC singular/AQ ./FF
+Existeix/VM igualment/RG el/DA terme/NC Rabenu/NP que/PR denota/VM el/DA possessiu/AQ de/SP primera/AO persona/NC plural/AQ ./FF
+És/VS un/DI de/SP els/DA termes/NC usats/VM per/SP denominar/VM els/DA Savis/NP jueus/AQ ,/FF junt/AQ amb/SP el/DA de/SP (/FF hakham/NC =/FF savi/AQ )/FF ./FF
+Rabinar/NP és/VS un/DI terme/NC usat/VM a/SP l'/DA edat_mitjana/NC per/SP denominar/VM la/DA degollina/AQ feta/NC per/SP un/DI xohet/NC ,/FF o/CC escorxador/NC segons/SP el/DA ritus/NC jueu/AQ ,/FF amb/SP la/DA qual/PR la/DA carn/NC de/SP l'/DA animal/NC es/P0 converteix/VM en/SP caixer/NC o/CC apta/AQ per/SP el/DA consum/NC ./FF
+El/DA Rabinisme/NP és/VS l'/DA equivalent/NC a/SP la/DA exègesi/NC jueva/AQ ,/FF o/CC sia/NC ,/FF l'/DA interpretació/NC de/SP els/DA textos/NC de/SP la/DA Torà/NP segons/SP les/DA normes/NC tradicionals/AQ de/SP l'/DA exègesi/NC ,/FF extensament/RG usada/VM en/SP el/DA Judaisme/NP tradicional/AQ ./FF
+Alguns/DI intèrprets/NC empren/VM aquest/DD terme/NC de/SP forma/NC pejorativa/AQ ./FF
+Zachaenus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Zachaenus/NP carvalhoi/RG ;/FF Zachaenus/NP parvulus/NC ;/FF Zachaenus/NP roseus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Zachaenus/NP carvalhoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Zachaenus/NP carvalhoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Zachaenus/NP parvulus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu

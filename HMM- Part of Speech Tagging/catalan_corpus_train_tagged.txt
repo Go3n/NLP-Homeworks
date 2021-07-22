@@ -4402,4 +4402,158 @@ Referències/NP ./FF
 Peixoto/NP ,/FF O.L._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
 Zachaenus/NP carvalhoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
-Zachaenus/NP parvulus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu
+Zachaenus/NP parvulus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Zachaenus/NP parvulus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Zachaenus/NP roseus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Lavilla/NP ,/FF E._&_Lynch/NP ,/FF J./NP 2004/ZZ ./FF
+Zachaenus/NP roseus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylodes/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP el/DA Brasil/NP ./FF
+Espècies/NP ./FF
+Crossodactylodes/NP bokermanni/NC ;/FF Crossodactylodes/NP izecksohni/AQ ;/FF Crossodactylodes/NP pintoi/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Crossodactylodes/NP bokermanni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Crossodactylodes/NP bokermanni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylodes/NP izecksohni/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Crossodactylodes/NP izecksohni/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylodes/NP pintoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
+Crossodactylodes/NP pintoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Crossodactylus/NP aeneus/NC ;/FF Crossodactylus/NP bokermanni/NC ;/FF Crossodactylus/NP caramaschii/NC ;/FF Crossodactylus/NP dantei/NC ;/FF Crossodactylus/NP dispar/AQ ;/FF Crossodactylus/NP gaudichaudii/NC ;/FF Crossodactylus/NP grandis/NC ;/FF Crossodactylus/NP lutzorum/NC ;/FF Crossodactylus/NP schmidti/NC ;/FF Crossodactylus/NP trachystomus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Crossodactylus/NP aeneus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pimenta/NP ,/FF B._&_Segalla/NP ,/FF M.V./NP 2004/ZZ ./FF
+Crossodactylus/NP aeneus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP bokermanni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pimenta/NP ,/FF B._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Crossodactylus/NP bokermanni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP caramaschii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Skuk/NP ,/FF G._&_Segalla/NP ,/FF M.V./NP 2004/ZZ ./FF
+Crossodactylus/NP caramaschii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP dantei/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Freire/NP ,/FF E.M.X./NP 2004/ZZ ./FF
+Crossodactylus/NP dantei/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP dispar/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E._&_Peixoto/NP ,/FF O.L./NP 2004/ZZ ./FF
+Crossodactylus/NP dispar/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP gaudichaudii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+da/VM Rocha/NP ,/FF C.F._&_Van_Sluys/NP ,/FF M./NP 2004/ZZ ./FF
+Crossodactylus/NP gaudichaudii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP grandis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Caramaschi/NP ,/FF U._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Crossodactylus/NP grandis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP lutzorum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Crossodactylus/NP lutzorum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP schmidti/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP i/CC Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Segalla/NP ,/FF M.V./NP ,/FF Garcia/NP ,/FF P./NP ,/FF Silvano/NP ,/FF D./NP ,/FF Lavilla/NP ,/FF E._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Crossodactylus/NP schmidti/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Crossodactylus/NP trachystomus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pimenta/NP ,/FF B._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Crossodactylus/NP trachystomus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Cycloramphus/NP acangatan/VM ;/FF Cycloramphus/NP asper/AQ ;/FF Cycloramphus/NP bandeirensis/NC ;/FF Cycloramphus/NP bolitoglossus/NC ;/FF Cycloramphus/NP boraceiensis/NC ;/FF Cycloramphus/NP brasiliensis/NC ;/FF Cycloramphus/NP carvalhoi/NC ;/FF Cycloramphus/NP catarinensis/NC ;/FF Cycloramphus/NP cedrensis/NC ;/FF Cycloramphus/NP diringshofeni/NC ;/FF Cycloramphus/NP dubius/AQ ;/FF Cycloramphus/NP duseni/NC ;/FF Cycloramphus/NP eleutherodactylus/NC ;/FF Cycloramphus/NP fulginosus/NC ;/FF Cycloramphus/NP granulosus/NC ;/FF Cycloramphus/NP izecksohni/AQ ;/FF Cycloramphus/NP jordanensis/NC ;/FF Cycloramphus/NP juimirim/NC ;/FF Cycloramphus/NP lutzorum/NC ;/FF Cycloramphus/NP migueli/NC ;/FF Cycloramphus/NP mirandaribeiroi/NC ;/FF Cycloramphus/NP ohausi/NC ;/FF Cycloramphus/NP rhyakonastes/NC ;/FF Cycloramphus/NP semipalmatus/NC ;/FF Cycloramphus/NP stejnegeri/NC ;/FF Cycloramphus/NP valae/AQ ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Cycloramphus/NP acangatan/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Verdade/NP ,/FF V./NP 2006/ZZ ./FF
+Cycloramphus/NP acangatan/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP asper/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Silvano/NP ,/FF D._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Cycloramphus/NP asper/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP bandeirensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Cycloramphus/NP bandeirensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP bolitoglossus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Segalla/NP ,/FF M.V./NP ,/FF Silvano/NP ,/FF D._&_Verdade/NP ,/FF V./NP 2004/ZZ ./FF
+Cycloramphus/NP bolitoglossus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP boraceiensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Cycloramphus/NP boraceiensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Cycloramphus/NP brasiliensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Cycloramphus/NP brasiliensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Palaeictops/NP és/VS un/DI gènere/NC de/SP petits/NC mamífers/AQ prehistòrics/AQ pertanyents/AQ a/SP la/DA família/NC Leptictidae/NP i/CC l'/DA ordre/NC Leptictida/NP ./FF
+Cycloramphus/NP carvalhoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Verdade/NP ,/FF V._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Cycloramphus/NP carvalhoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Prodiacodon/NP és/VS un/DI gènere/NC de/SP petits/NC mamífers/AQ prehistòrics/AQ pertanyents/AQ a/SP la/DA família/NC Leptictidae/NP i/CC l'/DA ordre/NC Leptictida/NP ./FF
+L'/DA obra/NC escrita/VM per/SP Todqueville/NP i/CC plublicada/VM el/DA 1835/ZZ ,/FF en/SP la/DA seua/PX estada/NC a/SP els/DA recents/AQ creats/VM Estats_Units/NP ,/FF és/VS un/DI anàlisi/NC que/PR fa/VM el/DA seu/PX autor/NC ,/FF polític/AQ i/CC jurista/NC francès/AQ ,/FF on/PR exposa/VM els/DA mèrits/NC de/SP el/DA règim/NC americà/AQ i/CC les/DA seues/PX bondats/NC ./FF
+Aquesta/DD obra/NC ha/VA passat/VM a/SP la/DA història/NC per/SP ser/VS una/DI de/SP les/DA més/RG valorades/VM en/SP els/DA mateixos/DI Estats_Units/NP ,/FF erigint/VM -se/PP com/CS un/PI de/SP els/DA clàssic/NC de/SP el/DA pensament/NC polític/AQ que/PR li/PP donà/VM honors/NC i/CC fama/NC a/SP l'/DA autor/NC ,/FF així/RG com/CS entrada/NC a/SP la/DA posteritat/NC ./FF
+Es/P0 considera/VM una/DI gran/AQ reflexió/NC i/CC síntesis/NC de/SP el/DA que/PR representava/VM a/SP els/DA anys/NC trenta/ZZ de/SP el/DA segle_XIX/WW ,/FF viure/VM en/SP el/DA sistema/NC polític/AQ més/RG avançat/VM de/SP el/DA món/NC ./FF
+Tocqueville/NP ,/FF fou/VS un/DI acèrrim/AQ crític/NC de/SP la/DA Revolució_Francesa/NP per/SP la/DA seua/PX redicalitat/NC ,/FF i/CC per/SP els/DA excessos/NC ;/FF sobretot/RG en/SP l'/DA època/NC de/SP el/DA terror/NC de/SP els/DA Jacobins/NP (/FF Roberspierre/NP a/SP el/DA cap/NC davant/RG )/FF ./FF
+Fou/VS un/DI gran/AQ teòric/NC de/SP la/DA democràcia/NC i/CC de/SP el/DA liberalisme/NC moderat/VM ;/FF visionari/NC d'/SP un/DI conservadurisme/NC gens/RG extremat/VM i/CC capaç/AQ d'/SP obrir/VM -se/P0 a/SP les/DA reformes/NC necessàries/AQ per/SP evitar/VM les/DA ruptures/NC ./FF
+en/SP el/DA llibre/NC hi/PP veiem/VM una/DI lloança/NC a/SP el/DA poble/NC americà/AQ ,/FF fruit/NC de/SP l'/DA esforç/NC colonitzador/AQ d'/SP una/DI època/NC molt/RG dura/AQ diu/VM que/CS les/DA claus/NC de/SP el/DA poble/NC americà/AQ ,/FF com/CS el/DA seu/PX individualisme/NC ,/FF pragmatisme/NC ,/FF capacitat/NC d/AQ iniciativa/NC i/CC superació/NC ,/FF ambició/NC i/CC desig/NC de/SP prosperitat/NC ,/FF la/DA seva/PX potència/NC imparable/AQ .../FF
+Cycloramphus/NP catarinensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Cycloramphus/NP catarinensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Xenacodon/NP és/VS un/DI gènere/NC de/SP petits/NC mamífer

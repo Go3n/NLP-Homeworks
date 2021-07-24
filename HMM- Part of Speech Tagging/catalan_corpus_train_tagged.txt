@@ -4706,4 +4706,132 @@ Phrynopus/NP barthlenae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu
 Referències/NP ./FF
 Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
 Phrynopus/NP barthlenae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
-A
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP bracki/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Arizabal/NP ,/FF W._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP bracki/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP brunneus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP i/CC Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S._&_Almeida/NP ,/FF D./NP 2004/ZZ ./FF
+Phrynopus/NP brunneus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP carpish/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP carpish/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Salvador_Estrem/NP i/CC Fa/NP (/FF Falset/NP ,/FF Priorat/NP ,/FF 1893/ZZ -/FF 14_de_setembre_de_1936/WW )/FF va/VA ser/VS un/DI polític/AQ ,/FF intel·lectual/AQ i/CC periodista/NC de/SP el/DA Priorat/NP ./FF
+Va/VA desenvolupar/VM la/DA seva/PX tasca/NC literària/AQ a/SP Falset/NP i/CC comarques/NC circumdants/AQ durant/SP els/DA anys/NC 20/ZZ i/CC 30/ZZ de/SP el/DA segle_XX/WW ,/FF tot/RG fent/VM llibres/NC d'/SP assaig/NC ,/FF poemes/NC i/CC articles/NC periodístics/AQ ./FF
+La/DA seva/PX vocació/NC literària/AQ li/PP vingué/VM de/SP ben/RG jove/NC :/FF a/SP els/DA dotze/ZZ anys/NC ja/RG va/VA col·laborar/VM en/SP la/DA revista/NC El_Patufet/NP )/FF ./FF
+A/SP banda/NC de/SP la/DA literatura/NC va/VA cultivar/VM altres/DI àrees/NC :/FF caricaturisme/NC ,/FF filosofia/NC (/FF sobretot/RG Sòcrates/NP )/FF ,/FF geografia/NC ,/FF etc./FF (/FF a/SP més/RG de/SP treballar/VM com/CS a/SP pagès/NC per/SP a/SP el/DA manteniment/NC de/SP la/DA seva/PX família/NC )/FF ./FF
+Va/VA col·laborar/VM amb/SP les/DA revistes/NC Priorat/NP (/FF que/PR va/VA dirigir/VM en/SP la/DA seva/PX tercera/AO etapa/NC )/FF ,/FF editada/VM a/SP Falset/NP ,/FF i/CC El_Llamp/NP ,/FF editada/VM a/SP Gandesa/NP ./FF
+Políticament/RG fou/VS representant/AQ de/SP la/DA Lliga_Regionalista/NP a/SP el/DA Priorat/NP i/CC es/P0 vinculà/VM fortament/RG a/SP el/DA catalanisme/NC ./FF
+Quant_a/SP l'/DA obra/NC ,/FF en/SP poesia/NC va/VA publicar/VM els/DA reculls/NC :/FF Les/DA hores/NC dolces/AQ (/FF 1920/ZZ )/FF ,/FF Elegia_de_el_Priorat/NP i/CC altres/DI versos/NC (/FF 1927/ZZ )/FF ,/FF La/NP mala/AQ collita/NC (/FF 1930/ZZ )/FF i/CC El_Crist/NP de/SP la/DA solitud/NC (/FF 1936/ZZ )/FF ./FF
+Aquesta/DD darrera/AO és/VS ,/FF potser/RG ,/FF la/DA seva/PX obra/NC més/RG important/AQ ./FF
+El/DA prestigi/NC que/PR va/VA adquirir/VM amb/SP les/DA seves/PX obres/NC van/VA fer/VM que/CS li/PP donessin/VM el/DA qualificatiu/NC de/SP "/FF El/DA poeta/NC de/SP el/DA Priorat/NP "/FF ./FF
+També/RG fou/VS força/RG variada/VM la/DA seva/PX obra/NC en/SP prosa/NC ./FF
+A/SP La/NP gent/NC de/SP el/DA Llamp/NP (/FF 1929/ZZ )/FF fa/VM un/DI report/NC biogràfic/AQ de/SP els/DA seus/PX companys/NC en/SP l/NC edició/NC de/SP l'/DA històric/AQ setmanari/NC gandesà/AQ ./FF
+També/RG va/VA fer/VM un/DI llibre/NC d'/SP articles/NC ,/FF Instants/NP (/FF 1932/ZZ )/FF ,/FF recull/VM de/SP les/DA aportacions/NC en/SP premsa/NC ,/FF i/CC un/DI llibre/NC de/SP viatges/NC ,/FF Terra_Castellana/NP (/FF 1935/ZZ )/FF ,/FF on/PR detalla/VM les/DA seves/PX vivències/NC durant/SP una/DI estada/NC a/SP Madrid/NP ./FF
+Quant_a/SP el/DA teatre/NC ,/FF publicà/NC La/NP vida/NC de/SP santa/NC Rosalia/NP i/CC El/NP viure/VM que/PR no/RN torna/VM ./FF
+També/RG va/VA ser/VS l'/DA introductor/NC a/SP el/DA Priorat/NP de/SP l'/DA ideari/NC lingüístic/AQ llengua/NC catalana/AQ de/SP Pompeu_Fabra/NP i/CC altres/DI intel·lectuals/NC de/SP el/DA seu/PX entorn/NC ./FF
+Fou/VS assassinat/NC el/DA 1936/ZZ per/SP escamots/NC revolucionaris/AQ ./FF
+Phrynopus/NP columbianus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Ramírez_Pinilla/NP ,/FF M.P./NP ,/FF Osorno-Muñoz/NP ,/FF M./NP ,/FF Rueda/NP ,/FF J.V./NP ,/FF Amézquita/NP ,/FF A._&_Ardila-Robayo/NP ,/FF M.C./NP 2004/ZZ ./FF
+Phrynopus/NP columbianus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP cophites/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Arizabal/NP ,/FF W./NP 2004/ZZ ./FF
+Phrynopus/NP cophites/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP dagmarae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP dagmarae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP fallaciosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP fallaciosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Lluís_Vicent_Aracil/NP i/CC Boned/NP (/FF València/NP ,/FF 1941/ZZ )/FF és/VS un/DI sociolingüista/NC valencià/AQ que/PR junt/AQ amb/SP Rafael_Ninyoles/NP va/VA establir/VM les/DA bases/NC de/SP la/DA sociolingüística/NC catalana/AQ durant/SP la/DA dècada/NC de/SP els/DA anys/NC 70/ZZ i/CC principis/NC de/SP els/DA 80/ZZ de/SP el/DA segle_XX/WW ./FF
+Estudià/VM dret/NC a/SP la/DA Universitat_de_València/NP ,/FF on/PR es/P0 mogué/VM en/SP el/DA cercle/NC de/SP Joan_Fuster/NP ./FF
+El/DA 1962/ZZ viatjà/VM a/SP Barcelona/NP amb/SP un/DI grup/NC d'/SP amics/NC i/CC es/P0 vinculà/VM ideològicament/RG a/SP el/DA Partit_Socialista_Valencià/NP ./FF
+El/DA 1970/ZZ fou/VS membre/NC de/SP el/DA Comitè_de_Recerca_Sociolingüística_de_l'_Associació_Sociològica_Internacional/NP ,/FF de/SP la/DA que/PR n'/PP ha/VA estat/VS vicepresident/NC el/DA 1974-1978/ZZ i/CC president/NC el/DA 1978-1982/ZZ ./FF
+El/DA 1973/ZZ fundà/VM el/DA Grup_Català_de_Sociolingüística/NP i/CC introduí/VM una/DI sessió/NC de/SP sociolingüística/NC catalana/AQ en/SP el/DA VIII_Congrés_de_Sociolingüística_de_Toronto/NP ./FF
+Ha/VA estat/VM professor/NC de/SP el/DA departament/NC de/SP filologia/NC catalana/AQ de/SP la/DA Universitat_de_Barcelona/NP des_de/SP el/DA 1976/ZZ fins/SP a/SP el/DA 1987/ZZ ./FF
+El/DA 1989/ZZ es/P0 va/VA allunyar/VM de/SP la/DA Universitat/NP i/CC dirigeix/VM seminaris/NC sobre/SP qüestions/NC sociològiques/AQ Obres/NP ./FF
+Papers/NP de/SP sociolingüística/NC (/FF 1982/ZZ )/FF ;/FF Dir/NP la/DA realitat/NC (/FF 1983/ZZ )/FF ;/FF La/NP mort/NC humana/AQ (/FF 1998/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NC personal/AQ ;/FF
+Phrynopus/NP flavomaculatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S._&_Almeida/NP ,/FF D./NP 2004/ZZ ./FF
+Phrynopus/NP flavomaculatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Sant_Feliuet_de_Terrassola/NP és/VS una/DI entitat/NC de/SP població/NC de/SP el/DA municipi/NC de/SP Santa_Maria_d'_Oló/NP a/SP la/DA comarca/NC de/SP el/DA Bages/NP ./FF
+En/SP el/DA cens/NC de/SP 2006/ZZ comptava/VM amb/SP 12/ZZ habitants/NC ./FF
+En/SP aquest/DD poble/NC hi/PP ha/VA l'/DA església/NC romànica/AQ de/SP Sant_Feliuet_de_Terrassola/NP ./FF
+Phrynopus/NP heimorum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP heimorum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP horstpauli/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP horstpauli/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP iatamasi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Phrynopus/NP iatamasi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP juninensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP juninensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP kauneorum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP kauneorum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP kempffi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Phrynopus/NP kempffi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP laplacai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Phrynopus/NP laplacai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Les/DA set/ZZ meravelles/NC poden/VM ser/VS :/FF Les/DA set/ZZ meravelles/NC de/SP el/DA món/NC clàssic/AQ ;/FF Les/NP set/NC noves/AQ meravelles/NC de/SP el/DA món/NC ;/FF
+Phrynopus/NP lucida/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Aguilar_Puntriano/NP ,/FF C._&_Arizabal/NP ,/FF W./NP 2004/ZZ ./FF
+Phrynopus/NP lucida/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA guerra/NC de/SP trinxeres/NC o/CC guerra/NC de/SP posicions/NC és/VS un/DI tipus/NC de/SP guerra/NC en/SP la/DA qual/PR els/DA exèrcits/NC combatents/AQ mantenen/VM línies/NC estàtiques/AQ de/SP fortificacions/NC excavades/VM a/SP el/DA terra/NC i/CC enfrontades/VM a/SP una/DI distància/NC relativament/RG propera/AQ ,/FF anomenades/NC trinxeres/NC ./FF
+La/DA guerra/NC de/SP trinxeres/NC va/VA sorgir/VM a/SP partir/VM d'/SP una/DI revolució/NC a/SP les/DA armes_de_foc/NC i/CC a/SP un/DI increment/NC en/SP el/DA seu/PX poder/NC ,/FF sense/SP que/PR hi/PP hagués/VM alhora/RG un/DI increment/NC en/SP la/DA mobilitat/NC i/CC en/SP les/DA comunicacions/NC ./FF
+Hi/PP va/VA haver/VA períodes/NC de/SP guerra/NC de/SP trinxeres/NC durant/SP la/DA Guerra_de_Crimea/NP (/FF 1853-1856/ZZ )/FF ,/FF durant/SP la/DA Guerra_Civil_Americana/NP (/FF 1861-1865/ZZ )/FF i/CC durant/SP la/DA Guerra_Russojaponesa/NP de/SP 1904-1905/ZZ ,/FF però/CC va/VA arribar/VM a/SP el/DA seu/PX màxim/AQ exponent/NC a/SP el/DA front/NC occidental/AQ durant/SP la/DA Primera_Guerra_Mundial/NP ./FF
+Orígens/NP ./FF
+Les/DA fortificacions/NC són/VS gairebé/RG tan/RG antigues/AQ com/CS la/DA guerra/NC ./FF
+Tanmateix/RG ,/FF a_causa_de/SP la/DA mida/NC relativament/RG petita/AQ de/SP els/DA exèrcits/NC i/CC de/SP el/DA poc/DI abast/NC de/SP les/DA armes/NC ,/FF tradicionalment/RG no/RN era/VS possible/AQ defensar/VM més/RG que/CS una/DI distància/NC curta/AQ o/CC una/DI fortalesa/NC aïllada/VM ./FF
+Les/DA grans/AQ fortificacions/NC de/SP el/DA món/NC antic/AQ ,/FF tals/PD com/PR la/DA Gran_Muralla_Xinesa/NP o/CC el/DA Mur_d'_Hadrià/NP ,/FF eren/VS excepcions/NC a/SP la/DA regla/NC general/AQ i/CC en/SP qualsevol/DI cas/NC no/RN s'/P0 havien/VA dissenyat/

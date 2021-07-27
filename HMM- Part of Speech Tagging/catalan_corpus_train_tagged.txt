@@ -4992,4 +4992,112 @@ Referències/NP ./FF
 Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
 Phrynopus/NP spectabilis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
-Mike_James/NP
+Mike_James/NP ,/FF nascut/VM el/DA 21_de_juliol_de_1973/WW a/SP Vancouver/NP (/FF Canadà/NP )/FF ,/FF és/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP retirat/VM ,/FF que/PR ocupava/VM la/DA posició/NC de/SP segona/AO línia/NC ./FF
+Va/VA ser/VS internacional/AQ amb/SP Canadà/NP ./FF
+Va/VA jugar/VM deu/ZZ anys/NC a/SP França/NP ,/FF entre/SP 1997/ZZ i/CC 2000/ZZ a/SP l'/DA USAP_de_Perpinyà/NP i/CC entre/SP 2000-2007/ZZ a/SP l'/DA Stade_Français/NP ./FF
+El/DA seu/PX darrer/AO partit/NC va/VA ser/VS a/SP l'/DA Estadi_de_França/NP contra/SP el/DA Clermont/NP ,/FF aconseguint/VM el/DA seu/PX tercer/AO títol/NC de/SP campió/NC de/SP França/NP ./FF
+Se/P0 'n/PP va/VA llavors/RG a/SP Vancouver/NP ,/FF on/PR treballa/VM com/CS a/SP director/NC comercial/AQ encarregat/NC de/SP el/DA desenvolupament/NC de/SP el/DA rugbi/NC per/SP a/SP la/DA Federació_Canadenca_de_Rugbi/NP ./FF
+Carrera/NP ./FF
+1997-2000/ZZ USAP/NP ;/FF 2000-2007/ZZ Stade_Français/NP ;/FF El/NP seu/PX debut/NC amb/SP la/DA selecció/NC de/SP rugbi/NC de/SP Canadà/NP va/VA ser/VS el/DA 21_de_maig_de_1994/WW contra/SP els/DA Estats_Units/NP ./FF
+Palmarès/NP ./FF
+En/SP club/NC ./FF
+Campionat_de_França/NP :/FF Campió/NP :/FF 2003/ZZ ,/FF 2004/ZZ ,/FF 2007/ZZ ./FF ;/FF Finalista/NP :/FF 1998/ZZ ,/FF 2005/ZZ ./FF
+Finalista_de_la_Copa_d'_Europa/NP :/FF 2001/ZZ ,/FF 2005/ZZ ./FF
+A/SP l'/DA equip/NC nacional/AQ ./FF
+56/ZZ partits/NC amb/SP la/DA selecció/NC de/SP Canadà/NP entre/SP 1994/ZZ et/PP 2007/ZZ ;/FF 4/ZZ assaigs/NC (/FF 20/ZZ punts/NC )/FF ;/FF Internacionalitats/NP per/SP any/NC :/FF 5/ZZ el/DA 1994/ZZ ,/FF 8/ZZ el/DA 1995/ZZ ,/FF 6/ZZ el/DA 1996/ZZ ,/FF 4/ZZ el/DA 1997/ZZ ,/FF 5/ZZ el/DA 1998/ZZ ,/FF 6/ZZ el/DA 1999/ZZ ,/FF 1/ZZ el/DA 2000/ZZ ,/FF 7/ZZ el/DA 2002/ZZ ,/FF 7/ZZ el/DA 2003/ZZ ,/FF 1/ZZ el/DA 2005/ZZ ,/FF 1/ZZ el/DA 2006/ZZ ,/FF 5/ZZ en/SP 2007/ZZ ./FF
+A/SP la/DA Copa_de_el_Món_de_Rugbi/NP :/FF 2007/ZZ :/FF 4/ZZ partits/NC (/FF Gal·les/NP ,/FF Fidji/NP ,/FF Japó/NP ,/FF Austràlia/NP )/FF ;/FF 2003/ZZ :/FF 2/ZZ partits/NC (/FF Gal·les/NP ,/FF Tonga/NP )/FF ;/FF 1999/ZZ :/FF 3/ZZ partits/NC (/FF França/NP ,/FF Fidji/NP ,/FF Namíbia/NP )/FF ;/FF 1995/ZZ :/FF 2/ZZ partits/NC (/FF Romania/VM ,/FF Austràlia/NP )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Estadístiques/NC a/SP scrum/NC ./FF com/CS ;/FF Fitxa/NP a/SP l'/DA equipe/VM ./FF fr/NC ;/FF Estadístiques/NP a/SP itsrugby/NC ;/FF Estadístiques/NP internacionals/AQ a/SP nivell/NC de/SP club/NC ;/FF
+Phrynopus/NP thompsoni/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP thompsoni/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Phrynopus/NP wettsteini/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Phrynopus/NP wettsteini/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Gèneres/NP ./FF
+Adenomera/NP ;/FF Edalorhina/NP ;/FF Hydrolaetare/NP ;/FF Leptodactylus/NP ;/FF Limnomedusa/NP ;/FF Lithodytes/NP ;/FF Physalaemus/NP ;/FF Pleurodema/NP ;/FF Pseudopaludicola/NP ;/FF Vanzolinius/NP ;/FF Referències/NP ./FF
+Informació/NP taxonòmica/AQ sobre/SP aquesta/DD subfamília/NC d'/SP amfibis/NC ./FF ;/FF
+Leptodactylus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Leptodactylus/NP albilabris/NC ;/FF Leptodactylus/NP bolivianus/NC ;/FF Leptodactylus/NP bufonius/AQ ;/FF Leptodactylus/NP caatingae/AQ ;/FF Leptodactylus/NP camaquara/RG ;/FF Leptodactylus/NP chaquensis/NC ;/FF Leptodactylus/NP colombiensis/NC ;/FF Leptodactylus/NP cunicularius/NC ;/FF Leptodactylus/NP didymus/NC ;/FF Leptodactylus/NP diedrus/NC ;/FF Leptodactylus/NP dominicensis/NC ;/FF Leptodactylus/NP elenae/AQ ;/FF Leptodactylus/NP fallax/NC ;/FF Leptodactylus/NP flavopictus/NC ;/FF Leptodactylus/NP fragilis/NC ;/FF Leptodactylus/NP furnarius/NC ;/FF Leptodactylus/NP fuscus/NC ;/FF Leptodactylus/NP gracilis/NC ;/FF Leptodactylus/NP griseigularis/AQ ;/FF Leptodactylus/NP hallowelli/VM ;/FF Leptodactylus/NP hylodes/NC ;/FF Leptodactylus/NP jolyi/VM ;/FF Leptodactylus/NP knudseni/NC ;/FF Leptodactylus/NP labrosus/NC ;/FF Leptodactylus/NP labyrinthicus/NC ;/FF Leptodactylus/NP laticeps/NC ;/FF Leptodactylus/NP latinasus/NC ;/FF Leptodactylus/NP lauramiriamae/AQ ;/FF Leptodactylus/NP leptodactyloides/AQ ;/FF Leptodactylus/NP lithonaetes/NC ;/FF Leptodactylus/NP longirostris/NC ;/FF Leptodactylus/NP magistris/NC ;/FF Leptodactylus/NP marambaiae/AQ ;/FF Leptodactylus/NP melanonotus/NC ;/FF Leptodactylus/NP myersi/NC ;/FF Leptodactylus/NP mystaceus/NC ;/FF Leptodactylus/NP mystacinus/NC ;/FF Leptodactylus/NP natalensis/NC ;/FF Leptodactylus/NP nesiotes/NC ;/FF Leptodactylus/NP notoaktites/AQ ;/FF Leptodactylus/NP ocellatus/NC ;/FF Leptodactylus/NP pallidirostris/NC ;/FF Leptodactylus/NP paraensis/NC ;/FF Leptodactylus/NP pascoensis/NC ;/FF Leptodactylus/NP pentadactylus/NC ;/FF Leptodactylus/NP peritoaktites/AQ ;/FF Leptodactylus/NP petersii/NC ;/FF Leptodactylus/NP plaumanni/NC ;/FF Leptodactylus/NP podicipinus/NC ;/FF Leptodactylus/NP poecilochilus/NC ;/FF Leptodactylus/NP pustulatus/NC ;/FF Leptodactylus/NP rhodomerus/NC ;/FF Leptodactylus/NP rhodomystax/NC ;/FF Leptodactylus/NP rhodonotus/NC ;/FF Leptodactylus/NP rhodostima/VM ;/FF Leptodactylus/NP riveroi/NC ;/FF Leptodactylus/NP rugosus/NC ;/FF Leptodactylus/NP sabanensis/NC ;/FF Leptodactylus/NP savagei/NC ;/FF Leptodactylus/NP sertanejo/NC ;/FF Leptodactylus/NP silvanimbus/NC ;/FF Leptodactylus/NP spixi/VM ;/FF Leptodactylus/NP stenodema/NC ;/FF Leptodactylus/NP syphax/NC ;/FF Leptodactylus/NP tapiti/VM ;/FF Leptodactylus/NP thomei/NC ;/FF Leptodactylus/NP troglodytes/NC ;/FF Leptodactylus/NP turimiquensis/NC ;/FF Leptodactylus/NP validus/NC ;/FF Leptodactylus/NP ventrimaculatus/NC ;/FF Leptodactylus/NP viridis/NC ;/FF Leptodactylus/NP wagneri/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Leptodactylus/NP albilabris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Puerto_Rico/NP ,/FF les/DA Illes_Verges_Britàniques/NP i/CC les/DA Illes_Verges_Nord-americanes/NP ./FF
+Referències/NP ./FF
+Hedges/NP ,/FF B./NP ,/FF Joglar/NP ,/FF R._&_Thomas/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP albilabris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP bolivianus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Costa_Rica/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Nicaragua/NP ,/FF Panamà/NP ,/FF Perú/NP ,/FF Surinam/NP ,/FF Trinitat/NP i/CC Tobago/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Solís/NP ,/FF F./NP ,/FF Ibáñez/NP ,/FF R./NP ,/FF Chaves/NP ,/FF G./NP ,/FF Savage/NP ,/FF J./NP ,/FF Jaramillo/NP ,/FF C./NP ,/FF Fuenmayor/NP ,/FF Q./NP ,/FF Reynolds/NP ,/FF R./NP ,/FF Caramaschi/NP ,/FF U./NP ,/FF Mijares/NP ,/FF A./NP ,/FF Acosta-Galvis/NP ,/FF A./NP ,/FF Hardy/NP ,/FF J./NP ,/FF La_Marca/NP ,/FF E._&_Manzanilla/NP ,/FF J./NP 2004/ZZ ./FF
+Leptodactylus/NP bolivianus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP bufonius/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP i/CC Paraguai/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Leptodactylus/NP bufonius/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP caatingae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R._&_Junca/NP ,/FF F./NP 2004/ZZ ./FF
+Leptodactylus/NP caatingae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP camaquara/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B./NP ,/FF Eterovick/NP ,/FF P.C._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP camaquara/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Querforadat/NP és/VS una/DI entitat/NC de/SP població/NC de/SP el/DA municipi/NC de/SP Cava/NP a/SP la/DA comarca/NC de/SP l'/DA Alt_Urgell/NP ./FF
+En/SP el/DA cens/NC de/SP 2005/ZZ comptava/VM amb/SP 15/ZZ habitants/NC ./FF
+Històricament/RG pertanyia/VM a/SP el/DA Baridà/NP (/FF comarca/NC natural/AQ )/FF ,/FF tot_i_que/CS la/DA resta/NC de/SP municipi/NC pertany/VM a/SP l'/DA Urgellet/NP ./FF
+Un/DI quer/NC (/FF d'/SP origen/NC preromà/AQ )/FF és/VS una/DI penya/NC ./FF
+Sobre/SP la/DA gran/AQ roca/NC hi/PP havia/VA el/DA castell/NC ./FF
+Segons/SP la/DA llegenda/NC ,/FF un/DI forat/NC comunicava/VM el/DA castell/NC amb/SP el/DA riu/NC permetent/VM esquivar/VM els/DA setges/NC ./FF
+Els/DA habitants/NC ensenyaven/VM a/SP diari/AQ truites/NC fresques/AQ per/SP desanimar/VM a/SP els/DA assetjadors/NC ./FF ./FF
+De/SP totes/DI formes/NC ,/FF les/DA dites/NC populars/AQ diuen/VM que/CS "/FF a/SP el/DA Quer/NP ,/FF el/DA forat/NC tothom/PI se/P0 'l/PP té/VM "/FF ./FF
+Referències/NP ./FF
+Leptodactylus/NP chaquensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP ,/FF Uruguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D./NP ,/FF Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Leptodactylus/NP chaquensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Josa_de_Cadí/NP és/VS un/DI poble/NC situat/VM a/SP la/DA cara/NC sud/AQ de/SP la/DA Serra_de_el_Cadí/NP ./FF
+Està/VM constituit/RG com/CS entitat/NC municipal/AQ descentralitzada/VM de/SP el/DA municipi/NC de/SP Josa/NP i/CC Tuixent/NP ,/FF comarca/NC de/SP l'/DA Alt_Urgell/NP ./FF
+Cultura/NP ./FF
+Festes/NP ./FF
+La/DA Festa_Major/NP es/P0 celebra/VM el/DA primer/AO cap/NC de/SP setmana/NC de/SP setembre/WW ./FF
+Vegeu/VM també/RG ./FF
+Municipi_de_Josa/NP i/CC Tuixent/NP ;/FF Tuixent/NP ;/FF
+Leptodactylus/NP colombiensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Castro/VM ,/FF F./NP ,/FF La_Marca/NP ,/FF E._&_Amézquita/NP ,/FF A./NP 2004/ZZ ./FF
+Leptodactylus/NP colombiensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Serrat_de_la_Capella/NP és/VS un/DI barri/NC de/SP la/DA Seu_d'_Urgell/NP ,/FF a/SP l'/DA Alt_Urgell/NP ,/FF el/DA 2001/ZZ tenia/VM 84/ZZ habitants/NC ./FF
+El/DA barri/NC es/P0 troba/VM a/SP el/DA nord/NC de/SP la/DA Seu_d'_Urgell/NP ,/FF força/RG separat/VM de/SP el/DA nucli/NC principal/AQ ./FF
+Es/P0 troba/VM sota/SP de/SP el/DA turó/NC de/SP el/DA pla/NC de/SP les/DA forques/NC ,/FF a_prop/RG de/SP el/DA riu/NC Valira/NP ,/FF per/SP damunt/RG de/SP la/DA rotonda/NC de/SP la/DA N-260/ZZ i/CC enmig_de/SP la/DA carretera/NC que/PR va/VA direcció/NC a/SP Andorra/NP ./FF
+En/SP l'/DA últim/AO Pla_General_d'_Organització_Urbanística_de_la_Seu_d'_Urgell/NP ,/FF es/P0 preveu/VM una/DI ampliació/NC de/SP el/DA barri/NC que/PR milloraria/VM els/DA equipaments/NC de/SP la/DA zona/NC i/CC les/DA connexions/NC amb/SP el/DA nucli/NC principal/AQ ./FF
+Leptodactylus/NP cunicularius/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B./NP ,/FF Eterovick/NP ,/FF P.C._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP cunicularius/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Torneig_de_Marsella/NP és/VS un/DI torneig/NC de/SP tennis/NC que/PR es/P0 disputa/VM a/SP Marsella/NP ,/FF França/NP ./FF
+A_dins_de/SP el/DA calendari/NC de/SP la/DA ATP/NP a/SP febrer/WW ./FF
+Es/P0 juga/VM sobre/SP carpeta/NC des_de/SP la/DA temporada/NC 1993/ZZ ./FF
+Campions/NP ./FF
+Individuals_Masculí/NP ./FF
+Dobles_Masculins/NP ./FF
+1993/ZZ :/FF Arnaud_Boetsch/NP //FF Olivier_Delaitre/NP ;/FF 1994/ZZ :/FF Jan_Siemerink/NP //FF Daniel_Vacek/NP ;/FF 1995/ZZ :/FF David_Adams/NP //FF Andrei_Olhovskiy/NP ;/FF 1996/ZZ :/FF Jean-Philippe_Fleurian/NP //FF Guillaume_Raoux/NP ;/FF 1997/ZZ :/FF Thomas_Enqvist/NP //FF Magnus_Larsson/NP ;/FF 1998/ZZ :/FF Donald_Johnson/NP //FF Francisco_Montana/NP ;/FF 1999/ZZ :/FF Max_Mirnyi/NP //FF Andrei_Olhovskiy/NP ;/FF 2000/ZZ :/FF Simon_Aspelin/NP //FF Johan_Landsberg/NP ;/FF 2001/ZZ :/FF Julien_Boutter/NP //FF Fabrice_Santoro/NP ;/FF 2002/ZZ :/FF Arnaud_Clement/NP //FF Nicolas_Escude/NP ;/FF 2003/ZZ :/FF Sébastien_Grosjean/NP //FF Fabrice_Santoro/NP ;/FF 2004/ZZ :/FF Mark_Knowles/NP //FF Daniel_Nestor/NP ;/FF 2005/ZZ :/FF Martin_Damm/NP //FF Radek_Stepanek/NP ;/FF 2006/ZZ :/FF Martin_Damm/NP //FF Radek_Stepanek/NP ;/FF 2007/ZZ :/FF Arnaud_Clement/NP //FF Michael_Llodra/NP ;/FF
+Leptodactylus/NP didymus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP i/CC Perú/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Reichle/NP ,/FF S._&_De_la_Riva/NP ,/FF I./NP 2004/ZZ ./FF
+Leptodactylus/NP didymus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP diedrus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Colòmbia/NP ,/

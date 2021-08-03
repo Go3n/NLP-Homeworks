@@ -5235,4 +5235,110 @@ Leptodactylus/NP gracilis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Spec
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
 Els/DA Caus/NP se/P0 situen/VM a/SP la/DA Vila_de_Vacarisses/NP ,/FF s'/P0 hi/PP arriba/VM des_de/SP el/DA nucli/NC urbà/AQ a_través_de/SP el/DA camí/NC de/SP l'/DA obac/NC ,/FF abans/RG d'/SP arribar/VM a/SP la/DA casa/NC nova/AQ de/SP l'/DA Obac/NP i/CC més_o_menys/RG entre/SP la/DA carena/NC de/SP el/DA Teix/NP i/CC el/DA Torrent_de_el_Llor/NP ,/FF just/RG a/SP el/DA límit/NC de/SP el/DA terme/NC municipal/AQ amb/SP Terrassa/NP ./FF
 Començat/VM a/SP urbanitzar/VM a/SP la/DA dècada/NC de/SP 1970-1980/ZZ ,/FF havia/VA estat/VS un/DI tros/NC de/SP vinya/NC pertanyent/AQ a/SP la/DA casa/NC Nova_de_l'_Obac/NP ,/FF aquesta/DD vinya/NC va/VA caure/VM en/SP desús/NC d'_ençà_de/SP la/DA plaga/NC de/SP fil·loxera/NC que/PR va/VA arrasar/VM les/DA vinyes/NC a/SP tota/DI Catalunya/NP a/SP principis/NC de/SP el/DA segle_XX/WW ./FF
-Malgrat_que/CS ha/VA desaparegut/VM qualsevol/DI activitat/NC agrícola/AQ a/SP la/DA zona/NC ,/FF encara/RG queden/VM restes/NC d'/SP aquella/DD com/CS
+Malgrat_que/CS ha/VA desaparegut/VM qualsevol/DI activitat/NC agrícola/AQ a/SP la/DA zona/NC ,/FF encara/RG queden/VM restes/NC d'/SP aquella/DD com/CS per_exemple/RG el/PP cupot/VM ,/FF de/SP el/DA qual/PR es/P0 conserven/VM les/DA runes/NC ./FF
+Els/DA cupots/NC eren/VS unes/DI construccions/NC per/SP abocar/VM el/DA raïm/NC un/DI cop/NC veremat/VM ,/FF per_tal_de/SP simplificar/VM les/DA feines/NC de/SP transport/NC cap/NC a/SP la/DA casa/NC de/SP l'/DA Obac/NP ./FF
+També/RG podem/VM trobar/VM restes/NC d'/SP alguna/DI barraca/NC de/SP vinya/NC feta/VM amb/SP la/DA tècnica/NC de/SP construcció/NC de/SP pedra/NC seca/AQ ./FF
+A/SP l'/DA actualitat/NC a/SP el/DA nucli/NC habitat/VM de/SP els/DA Caus/NP unes/DI 300/ZZ persones/NC (/FF any/NC 2007/ZZ )/FF tenen/VM fixada/VM la/DA seva/PX residència/NC habitual/AQ ./FF
+El/DA nom/NC de/SP els/DA Caus/NP prové/VM de/SP els/DA Caus_de_el_Guitard/NP ,/FF actualment/RG dintre/RG de/SP el/DA terme/NC municipal/AQ de/SP Terrassa/NP ./FF
+Situat/VM entre/SP les/DA cotes/NC 500/ZZ i/CC 650_metre/ZZ sobre/SP el/DA nivell/NC de/SP el/DA mar/NC fa/VM que/CS els/DA Caus/NP sigui/VS en/SP nucli/NC habitat/VM més/RG alt/AQ de/SP Vacarisses/NP i/CC un/DI de/SP els/DA més/RG alts/AQ de/SP la/DA comarca/NC de/SP el/DA Vallès_Occidental/NP ,/FF a_on/RG se/P0 situa/VM el/DA municipi/NC ./FF
+Entitats/NP :/FF Associació/NP de/SP propietaris/NC de/SP els/DA Caus/NP (/FF Plaça_de_els_Caus/NP s/NC //FF n/NC ,/FF elscaus@vacarisses.lamalla.net/NC )/FF Llocs/NP d'/SP interès/NC :/FF Cupot/NP ;/FF situat/VM just/RG a/SP l'/DA entrada/NC de/SP els/DA Caus/NP es/P0 troben/VM les/DA restes/NC de/SP el/DA cupot/VM ./FF
+Font_de_el_Roure_Monjo/NP ;/FF Es/NP troba/VM a/SP el/DA torrent/NC de/SP el/DA final/NC de/SP el/DA carrer/NC de/SP el/DA mateix/DI nom/NC ./FF
+El/DA Teix/NP ;/FF Estrany/NP exemplar/AQ centenari/NC de/SP teix/NC que/PR es/P0 pot/VM trobar/VM a/SP el/DA costat/NC de/SP la/DA carena/NC de/SP el/DA teix/NC ./FF
+Caus_de_el_Guitard/NP ;/FF (/FF terme/NC municipal/AQ de/SP Terrassa/NP )/FF Surgència/NP intermitent/NC d'/SP aigua/NC que/PR dóna/VM nom/NC a/SP els/DA Caus/NP ./FF
+Julia_Navarro/NP va/VA neixer/VM a/SP Madrid/NP l/NC '/FF any/NC 1953/ZZ i/CC ha/VA treballat/VM a/SP el/DA llarg/AQ de/SP la/DA seva/PX carrera/NC en/SP la/DA premsa/NC escripta/AQ ,/FF a/SP la/DA radio/VM i/CC a/SP la/DA televisió/NC ./FF
+Amb/SP la/DA seva/PX primera/AO novel/VM ./FF la/DA La_Hermandad_de_la_Sábana_Santa/NP va/VA arribar/VM a/SP els/DA primers/AO llocs/NC en/SP la/DA venta/VM d/AQ '/FF exemplars/NC dintre/RG i/CC fora/RG d/AQ '/FF Espanya/VM ./FF
+Amb/SP la/DA seva/PX segona/AO novel/VM ./FF la/DA ,/FF La_Biblia_de_Barro/NP ,/FF li/PP va/VA confirmar/VM el/DA seu/PX exit/NC públic/AQ i/CC crític/AQ ./FF
+Aquest/DD dos/ZZ llibres/NC han/VA venut/VM molts/DI exemplars/NC han/VA venut/VM uns/DI dos_milions/ZZ de/SP exemplar/NC aproximadament/RG en/SP tot/DI el/DA món/NC ./FF
+També/RG es/P0 l/NC '/FF autora/NC de/SP llibres/NC d/AQ '/FF actualitat/NC política/AQ com/CS Entre_Felipe/NP y/NC Aznar/NP ,/FF La/NP izquierda/AQ que/CS viene/NC i/CC Señora_Presidenta_Premis/NP literaris/AQ ./FF
+Premi/NC de/SP què/PT Leer/NP a/SP la/DA millor/AQ novel/VM ./FF la/DA espanyola/AQ (/FF 2004/ZZ )/FF ;/FF Premi/NP de/SP lectors/NC de/SP crisol/NC ;/FF Premi/NP ciutat/NC de/SP Cartagena/NP (/FF 2004/ZZ )/FF ;/FF Premi_Pluma/NP de/SP plata/NC de/SP la/DA feria/VM de/SP el/DA llibre/NC de/SP Bilbao/NP (/FF 2005/ZZ )/FF ;/FF Premi/NP protagonistes/NC de/SP literatura/NC ;/FF Premi_Més_Que_Música/NP de/SP els/DA llibres/NC (/FF 2006/ZZ )/FF ;/FF Títols/NP de/SP les/DA novel/VM ./FF les/DA ./FF
+La/DA Hemandad_de_la_Sábana_Santa/NP (/FF plaza/VM &/FF janés/VM 2004/ZZ )/FF ;/FF La_Biblia_de_Barro/NP (/FF plaza/VM &/FF janés/VM 2005/ZZ )/FF ;/FF La_Sangre/NP de/SP los/NC Inocentes/NP (/FF plaza/VM &/FF janés/VM 2007/ZZ )/FF ;/FF
+Leptodactylus/NP griseigularis/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP i/CC Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Köhler/NP ,/FF J./NP ,/FF Reichle/NP ,/FF S._&_Arizabal/NP ,/FF W./NP 2004/ZZ ./FF
+Leptodactylus/NP griseigularis/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP hallowelli/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP ./FF
+Referències/NP ./FF
+Castro/VM ,/FF F._&_Herrera/NP ,/FF M.I./NP 2004/ZZ ./FF
+Leptodactylus/NP hallowelli/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP hylodes/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP hylodes/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Tour_Down_Under/NP és/VS una/DI cursa/NC ciclista/AQ per/SP etapes/NC que/PR se/P0 celebra/VM cada/DI any/NC a/SP els/DA voltants/NC d'/SP Adelaida/NP ,/FF a/SP Austràlia/NP ./FF
+Comença/VM el/DA tercer/AO dimarts/WW de/SP gener/WW i/CC des_de/SP el/DA 2008/ZZ forma_part/VM de/SP l'/DA UCI_ProTour/NP ./FF
+Història/NP de/SP la/DA cursa/NC ./FF
+Creat/VM el/DA 1999/ZZ ,/FF el/DA Tour_Down_Under/NP es/P0 disputa/VM durant/SP la/DA segona/AO meitat/NC de/SP el/DA mes_de_gener/WW ,/FF cosa/NC que/PR permet/VM participar/VM -hi/PP a/SP molts/DI equips/NC europeus/AQ ,/FF que/PR busquen/VM una/DI bona/AQ posta/NC a_punt_de/SP cara/NC a/SP la/DA temporada/NC europea/AQ que/PR comença/VM un_mes/ZZ més/RG tard/RG ./FF
+per/SP els/DA ciclistes/NC australians/AQ és/VS una/DI bona/AQ ocasió/NC per/SP a/SP córrer/VM a/SP el/DA seu/PX país/NC ./FF
+Stuart_O'Grady/NP té/VM el/DA rècord/NC de/SP victòries/NC en/SP aquesta/DD carrera/NC ,/FF amb/SP 2/ZZ victòries/NC ,/FF el/DA 1999/ZZ i/CC el/DA 2001/ZZ ./FF
+Entre/SP el/DA 2005/ZZ i/CC el/DA 2007/ZZ el/DA Tour_Down_Under/NP va/VA formar_part/VM de/SP l'/DA UCI_Oceania_Tour/NP en/SP la/DA categoria/NC 2.HC/ZZ ./FF
+El/DA 2008/ZZ el/DA Tour_Down_Under/NP s'/P0 ha/VA convertit/VM en/SP la/DA primera/AO carrera/NC UCI_ProTour/NP situada/VM fora_de/SP el/DA continent/NC europeu/AQ ./FF
+Llistat/NC de/SP guanyadors/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NC oficial/AQ ;/FF
+Leptodactylus/NP jolyi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Eterovick/NP ,/FF P.C._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Leptodactylus/NP jolyi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP knudseni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP ,/FF Surinam/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Trinitat/NP i/CC Tobago/NP ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF La_Marca/NP ,/FF E._&_Hardy/NP ,/FF J./NP 2004/ZZ ./FF
+Leptodactylus/NP knudseni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP labrosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP i/CC a/SP Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Nogales/NP ,/FF F./NP ,/FF Cisneros-Heredia/NP ,/FF D./NP ,/FF Neira/NP ,/FF D._&_Almeida/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP labrosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP labyrinthicus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Mijares/NP ,/FF A._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP labyrinthicus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP laticeps/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP i/CC Paraguai/NP ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Aquino/NP ,/FF L./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Leptodactylus/NP laticeps/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+L'/DA edició/NC de/SP el/DA 2005/ZZ de/SP la/DA clàssica/AQ ciclista/NC Giro_de_Llombardia/NP es/P0 disputà/VM el/DA 15_d'_octubre_del_2005/WW ./FF
+Paolo_Bettini/NP va/VA aconseguir/VM guanyar/VM per/SP primera/AO vegada/NC una/DI cursa/NC que/CS molts/PI trobaven/VM massa/RG dura/VM per/SP a/SP el/DA ciclista/NC de/SP Cecina/NP ,/FF superant/VM a/SP l'/DA esprint/NC l'/DA escalador/NC Gilberto_Simoni/NP i/CC el/DA campió/NC luxemburguès/AQ Fränk_Schleck/NP ./FF
+Classificació_General/NP :/FF ./FF
+15-10-2005/ZZ :/FF Mendrisio-Como/NP ,/FF 256/ZZ km./NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP web/NC de/SP la/DA cursa/NC ;/FF Article/NP sobre/SP la/DA cursa/NC a/SP UCI_ProTour-Cycling/NP ;/FF
+La/DA placa/NC pacífica/AQ ,/FF o/CC placa/NC de/SP el/DA Pacífic/NP ,/FF és/VS una/DI placa/NC tectònica/AQ oceànica/AQ que/PR inclou/VM la/DA major/AQ part/NC de/SP l'/DA oceà/NC Pacífic/NP ./FF
+És/VS la/DA placa/NC més/RG gran/AQ de/SP el/DA planeta/NC amb/SP una/DI superfície/NC de/SP 2,576/ZZ 85_estereoradiants/ZZ ./FF
+Una/PI de/SP les/DA seves/PX principals/AQ característiques/NC és/VS el/DA punt/NC calent/AQ interior/NC que/PR va/VA donar/VM origen/NC a/SP les/DA Illes_Hawaii/NP i/CC a/SP nombrosos/AQ volcans/NC ./FF
+Les/DA plaques/NC amb/SP les/DA que/PR limita/VM són/VS :/FF a/SP el/DA nord/NC ,/FF amb/SP la/DA placa/NC nord-americana/AQ ,/FF amb/SP la/DA qual/PR té/VM una/DI vora/NC convergent/AQ que/PR forma/VM la/DA fossa/NC de/SP les/DA Aleutianes/NP i/CC les/DA Illes_Aleutianes/NP ./FF
+a/SP el/DA sud/NC ,/FF la/DA placa/NC antàrtica/AQ ,/FF amb/SP la/DA que/PR té/VM una/DI vora/NC divergent/AQ ./FF
+A/SP l'/DA est/NC ,/FF la/DA placa/NC de/SP l'/DA explorador/NC ,/FF la/DA placa/NC de/SP Juan_de_Fuca/NP i/CC la/DA placa/NC de/SP Gorda/NP ,/FF a/SP la/DA part/NC nord-est/NC ;/FF la/DA placa/NC nord-americana/AQ ,/FF a/SP el/DA llarg/AQ de/SP la/DA falla/NC de/SP San_Andrés/NP ,/FF i/CC la/DA placa/NC de/SP Cocos/NP a/SP el/DA centre/NC ;/FF a/SP el/DA sud-est/NC amb/SP la/DA placa/NC de/SP Nazca/NP ./FF
+En/SP tots/DI aquests/DD casos/NC es/P0 tracta/VM de/SP vores/NC divergents/AQ ./FF
+A/SP l'/DA oest/NC ,/FF la/DA placa/NC eurasiàtica/AQ ,/FF la/DA placa/NC filipina/AQ a_la_vora_de/SP la/DA qual/PR es/P0 forma/VM la/DA fossa/NC de/SP les/DA Marianes/NP ,/FF i/CC la/DA placa/NC indo-australiana/AQ ,/FF amb/SP la/DA qual/PR té/VM un/DI límit/NC generalment/RG convergent/AQ ,/FF però/CC que/CS en/SP altres/DI parts/NC és/VS una/PI vora/NC transformant/VM ,/FF com/CS per_exemple/RG ,/FF a/SP l'/DA altura/NC de/SP la/DA falla/NC Alpina/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Peter_Bird/NP :/FF "/FF An/NP updated/NC digital/AQ model/NC of/NC plate/NC boundaries/NC "/FF ,/FF Geochemistry_Geophysics_Geosystems/NP ,/FF 2003/ZZ ;/FF The_Physics/NP factbook/NC :/FF La/DA velocitat/NC de/SP les/DA plaques/NC tectòniques/AQ ;/FF Vegeu/NP també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Leptodactylus/NP latinasus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC Uruguai/NP ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Heyer/NP ,/FF R./NP ,/FF Kwet/NP ,/FF A._&_Langone/NP ,/FF J./NP 2004/ZZ ./FF
+Leptodactylus/NP latinasus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP leptodactyloides/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Azevedo-Ramos/NP ,/FF C._&_La_Marca/NP ,/FF E./NP 2004/ZZ ./FF
+Leptodactylus/NP leptodactyloides/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Miquel_Adlert/NP i/CC Noguerol/NP (/FF Paterna/NP ,/FF l'/DA Horta/NP 1911/ZZ -/FF València/NP 1988/ZZ )/FF fou/VS un/DI escriptor/NC i/CC editor/NC valencià/AQ ./FF
+Membre/NP de/SP l'/DA alta/AQ burgesia/NC valenciana/AQ i/CC profundament/RG cristià/AQ ,/FF estudià/VM dret/NC i/CC més/RG tard/RG exercí/VM com/CS a/SP jutge/NC ./FF
+El/DA 1935/ZZ fou/VS militant/NC d'/SP Acció_Nacionalista_Valenciana/NP ./FF
+En/SP acabar/VM la/DA guerra/NC civil/AQ espanyola/AQ formà_part/VM de/SP la/DA directiva/NC de/SP Lo_Rat_Penat/NP i/CC intentà/VM reconstituir/VM Acció_Valenciana/NP com/CS a/SP societat/NC adherida/VM a/SP el/DA Movimiento_Nacional/NP ,/FF alhora/RG que/PR contactà/VM amb/SP membres/NC de/SP la/DA Lliga_Catalana/NP i/CC d'/SP UDC/NP ,/FF però/CC el/DA 1940/ZZ fou/VS dissolta/VM per/SP ordre/NC governativa/AQ ./FF
+El/DA 1944/ZZ fundà/VM amb/SP Xavier_Casp/NP l'/DA editorial/AQ Torre/NP ,/FF de/SP València/NP ,/FF que/PR donà/VM a/SP conèixer/VM la/DA major/AQ part/NC de/SP els/DA escriptors/NC valencians/AQ de/SP postguerra/NC ,/FF així/RG com/CS la/DA revista/NC Esclat/NP (/FF 1948/ZZ )/FF ./FF
+El/DA 1956/ZZ s'/P0 enfrontà/VM dialècticament/RG Joan_Fuster/NP i/CC trencà/VM definitivament/RG amb/SP ell/PP després/RG de/SP la/DA publicació/NC de/SP Nosaltres/NP els/DA valencians/NC el/DA 1962/ZZ ./FF
+A/SP començament/NC de/SP els/DA anys

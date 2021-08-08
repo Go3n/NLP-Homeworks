@@ -5448,4 +5448,107 @@ Los_Balbos/NP y/NC el/DA Imperio_Romano/NP ./FF
 Buenos_Aires/NP :/FF Anales_de_Historia_Antigua/NP y/NC Medieval/NP ,/FF 1949/ZZ ./FF
 Tesi/NC doctoral/AQ ./FF
 i/CC Virgilio_Bejarano/NP ./FF
-Documenta/VM ad/SP linguae/VM latinae
+Documenta/VM ad/SP linguae/VM latinae/RG historiam/VM illustrandam/NC ./FF
+Madrid/NP :/FF CSIC/NP ,/FF 1955/ZZ ./FF
+Introducción/NP a/SP la/DA sintaxis/NC estructural/AQ de/SP el/DA latín/NC ./FF
+Barcelona/NP :/FF Ariel/NP ,/FF 1966/ZZ (/FF vol./NC I/NP )/FF i/CC 1976/ZZ (/FF vol./NC II/NP )/FF ./FF
+Apuleyo/NP ./FF
+El/DA asno/NC de/SP oro/NC ./FF
+Introducció/NP ,/FF traducció/NC i/CC notes/NC ,/FF Lisardo_Rubio_Fernández/NP ./FF
+Madrid/NP :/FF Biblioteca_Clásica_Gredos/NP ,/FF 1978/ZZ ./FF
+i/CC Pilar_Saquero_Suárez-Somonte/NP ./FF
+Latín/NP ./FF
+Saragossa/NP :/FF Luis_Vives/NP ,/FF 1979/ZZ ./FF
+Catálogo/NP de/SP los/NC manuscritos/AQ clásicos/NC latinos/NC existentes/NC en/SP España/NP ./FF
+Madrid/NP :/FF Editorial_de_la_Universidad_Complutense/NP ,/FF 1984/ZZ ./FF
+i/CC Tomás_González_Rolán/NP ./FF
+Nueva/NP gramática/AQ latina/NC ./FF
+Madrid/NP :/FF Coloquio/NP ,/FF 1985/ZZ ./FF
+Terencio/NP ./FF
+Comedias/NP ./FF
+Text/NP revisat/VM i/CC traduït/VM per/SP Lisardo_Rubio/NP ./FF
+Madrid/NP :/FF Consejo_Superior_de_Investigaciones_Científicas/NP ,/FF 1991/ZZ ./FF
+Petronio/NP ./FF
+El/DA satiricón/NC ./FF
+Introducció/NP ,/FF traducció/NC i/CC notes/NC de/SP Lisardo_Rubio_Fernández/NP ./FF
+Madrid/NP :/FF Biblioteca_Clásica_Gredos/NP ,/FF 1978/ZZ ./FF
+Nueva/NP sintaxis/NC latina/NC simplificada/VM ./FF
+Madrid/NP :/FF Ediciones_Clásicas/NP ,/FF 1995/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Currículum_de_Lisardo_Rubio/NP ./FF ;/FF Llibres_de_Lisardo_Rubio/NP en/SP el/DA catàleg/NC de/SP la/DA Biblioteca_Nacional_d'_Espanya/NP ./FF ;/FF Artícles_de_Lisardo_Rubio/NP a/SP Dialnet/NP ./FF ;/FF
+Leptodactylus/NP notoaktites/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Skuk/NP ,/FF G._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP notoaktites/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP ocellatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Paraguai/NP ,/FF Surinam/NP ,/FF Trinitat/NP i/CC Tobago/NP ,/FF Uruguai/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Langone/NP ,/FF J./NP ,/FF La_Marca/NP ,/FF E./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF di/VM Tada/NP ,/FF I./NP ,/FF Baldo/NP ,/FF D./NP ,/FF Lavilla/NP ,/FF E./NP ,/FF Scott/NP ,/FF N./NP ,/FF Aquino/NP ,/FF L._&_Hardy/NP ,/FF J./NP 2004/ZZ ./FF
+Leptodactylus/NP ocellatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Chevrolet_Celta/NP (/FF Suzuki_Fun/NP a/SP Argentina/NP )/FF és/VS un/DI automòbil/NC de/SP el/DA segment/NC B/NP de/SP baix/AQ cost/NC fabricat/VM per/SP Chevrolet/NP a/SP el/DA Brasil/NP per/SP a/SP Llatinoamèrica/NP ./FF
+És/VS en_realitat/RG una/DI reestilització/NC de/SP la/DA segona/AO generació/NC de/SP l'/DA Opel_Corsa/NP (/FF venut/NC a/SP Europa/NP entre/SP 1993/ZZ i/CC 2001/ZZ )/FF ./FF
+Els/DA seus/PX rivals/NC són/VS les/DA versions/NC econòmiques/AQ de/SP els/DA Fiat_Uno/NP ,/FF Fiat_Palio/NP i/CC Volkswagen_Gol/NP ./FF 700.000/ZZ Chevrolet_Celta/NP han/VA estat/VS construïts/VM a/SP Gravataí/NP ,/FF a/SP el/DA voltant/NC de/SP cent_mil/ZZ per/SP any/NC ./FF
+El/DA Celta/NP va/VA ser/VS llançat/NC a/SP el/DA Brasil/NP en/SP l'/DA any/NC 2000/ZZ amb/SP carrosseria/NC hatchback/NC de/SP tres/ZZ portes/NC ,/FF motor/NC davanter/AQ transversal/AQ i/CC tracció/NC davantera/AQ ./FF
+El/DA seu/PX motor/NC era/VS un/DI gasolina/NC de/SP 1.0_litres/ZZ de/SP cilindrada/NC i/CC 60/ZZ CV/NP de/SP potència/NC màxima/AQ ./FF
+El/DA 2002/ZZ el/DA cinc/ZZ portes/NC es/P0 va/VA posar/VM en/SP venda/NC ,/FF i/CC es/P0 va/VA portar/VM la/DA potència/NC màxima/AQ a/SP 70/ZZ CV/NP ./FF
+Un/DI 1.4_litres/ZZ de/SP 85/ZZ CV/NP es/P0 va/VA agregar/VM en/SP el/DA 2003/ZZ ./FF
+El/DA 2005/ZZ es/P0 va/VA distribuir/VM un/DI equip/NC d'/SP accessoris/NC "/FF Off-Road/NP "/FF per/SP a/SP els/DA Celta/NP nous/AQ i/CC usats/VM ./FF
+Aquell/DD mateix/DI any/NC ,/FF el/DA 1.0_litres/ZZ de/SP el/DA mercat/NC local/AQ va/VA ser/VS modificat/VM per/SP permetre/VM l'/DA ús/NC d'/SP etanol/NC i/CC gasolina/NC indistintament/RG (/FF "/FF motor/NC flexible/AQ "/FF )/FF ./FF
+El/DA Celta/NP va/VA ser/VS reestilitzat/VM el/DA 2006/ZZ ,/FF amb/SP un/DI frontal/NC que/PR s'/P0 assembla/VM a/SP el/DA de/SP el/DA Vectra/NP brasiler/AQ ./FF
+Es/P0 va/VA afegir/VM una/DI versió/NC sedan/NC de/SP quatre/ZZ portes/NC denominada/VM Chevrolet_Prisma/NP amb/SP un/DI motor/NC flexible/AQ de/SP 1.4_litres/ZZ de/SP cilindrada/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP oficial/AQ brasilenya/NC de/SP el/DA Chevrolet_Celta/NP ;/FF Pàgina/NP oficial/AQ argentina/AQ de/SP el/DA Suzuki_Fun/NP ;/FF Suzuki_Fun_Club_Argentina/NP ;/FF
+Leptodactylus/NP pallidirostris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Surinam/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Colòmbia/NP ./FF
+Referències/NP ./FF
+Reynolds/NP ,/FF R./NP ,/FF Rodrigues/NP ,/FF M.T./NP ,/FF Mijares/NP ,/FF A._&_MacCulloch/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP pallidirostris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP pascoensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP pascoensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP pentadactylus/AQ (/FF coneguda/VM popularment/RG com/CS a/SP granota/NC gegant/AQ )/FF és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Costa_Rica/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Honduras/NP ,/FF Nicaragua/NP ,/FF Panamà/NP ,/FF Perú/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Solís/NP ,/FF F./NP ,/FF Ibáñez/NP ,/FF R./NP ,/FF Chaves/NP ,/FF G./NP ,/FF Wilson/NP ,/FF L.D./NP ,/FF La_Marca/NP ,/FF E./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
+Leptodactylus/NP pentadactylus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP petersii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R._&_Rodrigues/NP ,/FF M.T./NP 2004/ZZ ./FF
+Leptodactylus/NP petersii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP plaumanni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP i/CC ,/FF possiblement/RG també/RG ,/FF Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Garcia/NP ,/FF P./NP ,/FF Kwet/NP ,/FF A._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP plaumanni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA bioètica/NC és/VS la/DA branca/NC de/SP l'/DA ètica/NC que/PR aspira/VM a/SP proveir/VM els/DA principis/NC orientadors/AQ de/SP la/DA conducta/NC humana/AQ en/SP el/DA camp/NC biomèdic/AQ ./FF
+Etimològicament/RG prové/VM de/SP el/DA grec/NC bios/AQ i/CC ethos/AQ :/FF "/FF ètica/NC de/SP la/DA vida/NC "/FF ,/FF l'/DA ètica/NC aplicada/VM a/SP la/DA vida/NC humana/AQ i/CC no/RN humana/AQ (/FF animals/NC ,/FF medi_ambient/NC )/FF ./FF
+En/SP un/DI sentit/NC més/RG ampli/AQ ,/FF la/DA Bioètica/NP no/RN es/P0 limita/VM a/SP l'/DA àmbit/NC mèdic/AQ ,/FF sinó/CC que/PR inclou/VM tots/DI els/DA problemes/NC morals/AQ que/PR tenen/VM a/SP veure/VM amb/SP la/DA vida/NC en_general/RG ,/FF estenent/VM d'/SP aquesta/DD manera/NC el/DA seu/PX camp/NC a/SP qüestions/NC relacionades/VM amb/SP el/DA medi_ambient/NC i/CC a/SP el/DA tractament/NC de/SP els/DA animals/NC ./FF
+La/DA bioètica/NC és/VS una/DI disciplina/NC relativament/RG nova/AQ i/CC l'/DA origen/NC de/SP el/DA terme/NC correspon/VM a/SP l'/DA oncòleg/NC nord-americà/AQ Van_Rensselaer_Potter/NP ,/FF qui/PR va/VA utilitzar/VM el/DA terme/NC per/SP primera/AO vegada/NC en/SP 1970/ZZ en/SP un/DI article/NC publicat/VM en/SP la/DA revista/NC de/SP la/DA Universitat_de_Wisconsin_Perspectives/NP in/VM Biology/NP and/AQ Medicine/NP i/CC el/DA títol/NC de/SP el/DA qual/PR ostentava/VM per/SP primera/AO vegada/NC aquest/DD terme/NC :/FF Bioètica/NC :/FF la/DA ciència/NC de/SP la/DA supervivència/NC ./FF
+Posteriorment/RG ,/FF l'/DA any/NC 1971/ZZ ,/FF Potter/NP publica/VM un/DI llibre/NC amb/SP el/DA títol/NC de/SP Bioètica/NP :/FF un/DI pont/NC cap/NC a/SP el/DA futur/NC (/FF Bioethics/NP :/FF Bridge/NC to/NC the/VM future/VM )/FF en/SP què/PR es/P0 recullen/VM diversos/DI de/SP els/DA seus/PX articles/NC ./FF
+Definició/NP i/CC àmbit/NC ./FF
+La/DA bioètica/NC abasta/VM les/DA qüestions/NC ètiques/AQ sobre/SP la/DA vida/NC que/PR sorgeixen/VM en/SP les/DA relacions/NC entre/SP biologia/NC ,/FF medicina/NC ,/FF política/NC ,/FF dret/NC ,/FF filosofia/NC ,/FF antropologia/NC i/CC teologia/NC ./FF
+Existeix/VM un/DI desacord/NC sobre/SP l'/DA àmbit/NC apropiat/VM per/SP a/SP l'/DA aplicació/NC de/SP l'/DA ètica/NC en/SP temes/NC biològics/AQ ./FF
+Alguns/DI bioétics/NC tendeixen/VM a/SP reduir/VM l'/DA àmbit/NC de/SP l'/DA ètica/NC a/SP la/DA moralitat/NC en/SP tractaments/NC mèdics/AQ o/CC en/SP la/DA innovació/NC tecnològica/AQ relacionant/VM -la/PP amb/SP la/DA tecnoètica/AQ ./FF
+Altres/PI ,/FF opinen/VM que/CS l'/DA ètica/NC ha/VA d'/SP incloure/VM la/DA moralitat/NC de/SP totes/DI les/DA accions/NC que/PR puguin/VM ajudar/VM o/CC danyar/VM organismes/NC capaços/AQ de/SP sentir/VM por/NC i/CC dolor/NC ./FF
+El/DA criteri/NC ètic/AQ fonamental/AQ que/PR regula/VM aquesta/DD disciplina/NC és/VS el/DA respecte/NC a/SP l'/DA ésser/NC humà/AQ ,/FF a/SP els/DA seus/PX drets/NC inalienables/AQ ,/FF a/SP el/DA seu/PX bé/NC veritable/AQ i/CC integral/AQ :/FF la/DA dignitat/NC de/SP la/DA persona/NC ./FF
+A_causa_de/SP l'/DA íntima/AQ relació/NC que/PR existeix/VM entre/SP la/DA bioètica/NC i/CC l'/DA antropologia/NC ,/FF la/DA visió/NC que/CS d'/SP aquesta/PD es/P0 tingui/VM condiciona/VM i/CC fonamenta/VM l'/DA anàlisi/NC de/SP cada/DI intervenció/NC tècnica/AQ sobre/SP l'/DA ésser/NC humà/AQ ./FF
+La/DA bioètica/NC és/VS amb/SP freqüència/NC material/AQ de/SP discussió/NC política/AQ ,/FF resultant/AQ en/SP crus/AQ enfrontaments/NC entre/SP aquells/PD que/PR defensen/VM el/DA progrés/NC tecnològic/AQ de/SP forma/NC incondicionada/AQ i/CC aquells/PD que/PR consideren/VM que/CS la/DA tecnologia/NC no/RN és/VS un/DI fi/NC en/SP si/CS ,/FF sinó/CC que/PR ha/VA d'/SP estar/VM a/SP el/DA servei/NC de/SP la/DA persona/NC humana/AQ ./FF
+Les/DA primeres/AO declaracions/NC de/SP bioètica/NC sorgeixen/VM amb/SP posterioritat/NC a/SP la/DA Segona_Guerra_Mundial/NP ,/FF quan/CS el/DA món/NC s'/P0 escandalitza/VM amb/SP el/DA descobriment/NC de/SP els/DA experiments/NC mèdics/AQ portats_a_terme/VM per/SP els/DA facultatius/NC de/SP el/DA règim/NC hitlerià/AQ amb/SP els/DA presoners/NC en/SP els/DA camps/NC de/SP concentració/NC ./FF
+Aquesta/DD situació/NC ,/FF a/SP la/DA qual/PR se/P0 suma/VM el/DA dilema/NC plantejat/VM per/SP l'/DA invent/NC de/SP la/DA fístula/NC per/SP a/SP diàlisi/NC renal/AQ de/SP Scribner/NP (/FF Seattle/NP ,/FF 1960/ZZ )/FF ,/FF les/DA pràctiques/NC de/SP l'/DA Hospital_Jueu_de_Malalties_Cròniques/NP (/FF Brooklyn/NP ,/FF 1963/ZZ )/FF o/CC l'/DA Escola_de_Willowbrook/NP (/FF Nova_York/NP ,/FF 1963/ZZ )/FF ,/FF van/VM configurant/VM un/DI panorama/NC on/PR es/P0 fa/VM necessària/AQ la/DA regulació/NC ,/FF o/CC almenys/RG ,/FF la/DA declaració/NC de/SP principis/NC a_favor_de/SP les/DA víctimes/NC d'/SP aquests/DD experiments/NC ./FF
+Això/PD determina/VM la/DA publicació/NC de/SP diverses/DI declaracions/NC i/CC documents/NC bioètics/NC ./FF
+Principis/NP fonamentals/AQ de/SP la/DA Bioètica/NP ./FF
+En/SP 1979/ZZ ,/FF els/DA bioeticistes/AQ Beauchamp/NP ,/FF T._L/NP i/CC Childress/NP ,/FF J._F/NP ,/FF van/VA establir/VM els/DA quatre/ZZ principis/NC de/SP la/DA Bioètica/NP :/FF autonomia/NC ,/FF no/RN maleficència/NC ,/FF beneficència/NC i/CC justícia/NC ./FF
+En/SP un/DI primer/AO moment/NC van/VA definir/VM que/CS aquests/DD principis/NC són/VS prima/AQ facie/NC ,/FF això/PD és/VS ,/FF que/PR vinculen/VM sempre/RG que/CS no/RN col·lisionin/VM entre/SP ells/PP ;/FF en/SP aquest/DD cas/NC caldrà/VM donar/VM prioritat/NC a/SP un/DI o/CC un/DI altre/PI depenent/VM de/SP el/DA cas/NC ./FF
+No/RN obstant/VM això/PD en/SP 2003/ZZ ,/FF Beauchamp/NP considera/VM que/CS els/DA principis/NC han/VA de/SP ser/VS especificats/VM per/SP aplicar/VM -los/PP a/SP les/DA anàlisis/NC de/SP els/DA casos/NC concrets/AQ ,/FF o_sigui/RG ,/FF han/VA de/SP ser/VS discutits/VM i/CC determinats/VM per/SP el/DA cas/NC concret/AQ a/SP nivell/NC casuístic/AQ ./FF
+Els/DA quatre/ZZ principis/NC definits/VM per/SP Beauchamp/NP i/CC Childress/NP són/VS :/FF Principi/NP d'/SP autonomia/NC ./FF
+Principi/NP de/SP respecte/NC a/SP les/DA persones/NC que/PR imposa/VM l'/DA obligació/NC d'/SP assegurar/VM les/DA condicions/NC necessàries/AQ perquè/CS actuïn/VM de/SP forma/NC autònoma/AQ ./FF
+L'/DA autonomia/NC implica/VM responsabilitat/NC i/CC és/VS un/DI dret/NC irrenunciable/AQ ,/FF fins_i_tot/RG per/SP una/DI persona/NC malalta/AQ ./FF
+Una/DI persona/NC autònoma/AQ té/VM capacitat/NC per/SP a/SP obrar/VM ,/FF facultat/NC d'/SP enjudiciar/VM raonablement/RG l'/DA abast/NC i/CC el/DA significat/NC de/S

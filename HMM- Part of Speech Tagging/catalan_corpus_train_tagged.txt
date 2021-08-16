@@ -5635,4 +5635,106 @@ ISBN/NP 84-8124-228-4/ZZ ;/FF Dworkin/NP ,/FF Ronald/NP :/FF El/DA dominio/NC de
 Una/DI discusión/NC acerca/NC de/SP el/DA aborto/NC ,/FF la/DA eutanasia/NC y/NC la/DA libertad/NC individual/AQ ./FF
 Versió/NP espanyola/AQ de/SP Ricardo_Caracciolo/NP y/NC Víctor_Ferreres/NP (/FF Universitat_Pompeu_Fabra/NP )/FF de/SP l'/DA original/AQ Life/NP 's/P0 Dominion/NP ,/FF 1ª/ZZ ed./NC 1993/ZZ ./FF
 Ed._Ariel/NP ,/FF Barcelona/NP ,/FF 1994/ZZ ./FF
-ISBN/NP 84-344-1115-6/ZZ ;/FF Dworkin/NP ,/FF Gerald/NP ;/FF Frey/NP ,/FF R._G./NP y/NC Bok/NP ,/FF Sissela/NP :/FF La/DA eutanasia/NC y/NC 
+ISBN/NP 84-344-1115-6/ZZ ;/FF Dworkin/NP ,/FF Gerald/NP ;/FF Frey/NP ,/FF R._G./NP y/NC Bok/NP ,/FF Sissela/NP :/FF La/DA eutanasia/NC y/NC el/PP auxilio/VM médico/NC a/SP el/DA suicidio/NC ./FF
+Traducció/NP de/SP la/DA primera/AO edició/NC en/SP Cambridge/NP (/FF 1998/ZZ )/FF per/SP Carmen_Francí_Ventosa/NP ./FF
+Cambridge_University_Press/NP ,/FF Madrid/NP ,/FF 2000/ZZ ./FF
+ISBN/NP 84-8323-109-3/ZZ ;/FF Singer/NP ,/FF Peter/NP :/FF Repensando/NP la/DA vida/NC y/NC la/DA muerte/NC ./FF
+Oxford_University_Press/NP ,/FF 1994/ZZ ./FF
+ISBN/NP 84-493-0414-8/ZZ ;/FF Thomasma/NP ,/FF David/NP y/NC Kushner/NP ,/FF Thomasine/NP :/FF De/SP la/DA vida/NC a/SP la/DA muerte/NC :/FF ciencia/VM y/NC bioética/AQ ./FF
+Traducció/NP espanyola/AQ de/SP la/DA primera/AO edició/NC (/FF 1999/ZZ )/FF per/SP Rafael_Herrera_Bonet/NP ./FF
+Cambridge_University_Press/NP ,/FF Madrid/NP ,/FF 1999/ZZ ./FF
+ISBN/NP 84-8323-073-9/ZZ ;/FF Genètica/NP ./FF
+Alonso_Bedate/NP ,/FF Carlos/NP y/NC Mayor_Zaragoza/NP ,/FF Federico/NP (/FF coord/NC ./FF )/FF :/FF Gen-Ética/NP ./FF
+Editorial_Ariel/NP ,/FF Barcelona/NP ,/FF 2003/ZZ ./FF
+ISBN/NP 84-344-1241-1/ZZ ;/FF Recerca/NP ./FF
+Levine/NP ,/FF Robert/NP :/FF Ethics/NP and/AQ regulation/VM of/NC Clinical_Research/NP ./FF
+Ed._Urban/NP y/NC Schwarzenberg/NP ,/FF Baltimore/NP ,/FF 1986/ZZ ./FF
+ISBN/NP 0-8067-1112-4/ZZ ;/FF Mediambient/NP i/CC Animals/NP ./FF
+Grupo_Ad_Hoc/NP sobre/SP Diversidad_Biológica/NP (/FF ILSA/NP ,/FF Instituto_de_Gestión_Ambiental/NP ,/FF Grupo_Semillas/NP ,/FF Fondo_Mundial/NP para/VM la/DA Naturaleza/NP )/FF :/FF Diversidad/NP biológica/AQ y/NC cultural/AQ ./FF
+Retos/NP y/NC propuestas/NC desde/NC América_Latina/NP ./FF
+Ed._ILSA/NP ,/FF Santa_Fe_de_Bogotá/NP ,/FF 1998/ZZ ./FF
+ISN/NP 958-9262-02-3/ZZ ;/FF Riechmann/NP ,/FF Jorge/NP :/FF Ética_Ecológica/NP :/FF propuestas/NC para/VM una/DI reorientación/NC ./FF
+Ed._Nordan/NP ,/FF Montevideo/NP ,/FF 2004/ZZ ./FF
+ISBN/NP 84-7426-697-1/ZZ ;/FF Riechmann/NP ,/FF Jorge/NP :/FF Todos/NP los/NC animales/NC somos/AQ hermanos/NC ./FF
+Ensayos/NP sobre/SP el/DA lugar/VM de/SP los/NC animales/NC en/SP las/AQ sociedades/NC industrializadas/NC ./FF
+Ed._Universidad_de_Granada/NP ,/FF 2003/ZZ ./FF
+ISBN/NP 978-84-338-3046-3/ZZ ;/FF Singer/NP ,/FF Peter/NP :/FF Liberación_Animal/NP ./FF
+Ed._Trotta/NP ,/FF Madrid/NP ,/FF 1999/ZZ ./FF
+ISBN/NP 978-84-8164-262-9/ZZ ;/FF Tafalla/NP ,/FF Marta/NP :/FF Los/NP derechos/AQ de/SP los/NC animales/NC ./FF
+Idea_Books/NP ,/FF Barcelona/NP ,/FF 2004/ZZ ./FF
+ISBN/NP 84-493-1433-X/ZZ ;/FF Velayos/NP ,/FF Carmen/NP :/FF La/DA dimensión/NC moral/AQ de/SP el/DA ambiente/VM natural/AQ :/FF ¿/FF Necesitamos/NP una/DI nueva/VM ética/AQ ?/FF ./FF
+Ed._Comares/NP ,/FF Granada/NP ,/FF 1996/ZZ ./FF
+ISBN/NP 84-8151-366-0/ZZ ;/FF Relació/NP mèdic-pacient/NC ./FF
+Beauchamp/NP ,/FF Tom/NP y/NC Childress/NP ,/FF James/NP :/FF "/FF Principios_de_Ética_Biomédica/NP "/FF ./FF
+Versió/NP espanyola/AQ de/SP la/DA quarta/AO edició/NC de/SP l'/DA obra/NC original/AQ en/SP llengua/NC anglesa/AQ Principles/NP of/NC Biomedical_Ethics/NP publicada/VM per/SP Oxford_University_Press/NP ,/FF Inc._de_Nova_York/NP (/FF 1994/ZZ )/FF Traducció_de_Teresa_García-Miguel/NP ,/FF Javier_Júdez/NP i/CC Lydia_Feito/NP ,/FF revisió/NC de/SP Diego_Gracia/NP i/CC Javier_Júdez/NP ./FF
+Ed._Masson/NP ,/FF Barcelona/NP ,/FF 1999/ZZ ./FF
+ISBN/NP 84-458-0480-4/ZZ ;/FF Cabré_Pericàs/NP ,/FF Lluís/NP (/FF coord/NC ./FF )/FF :/FF Decisiones/NP terapéuticas/NC a/SP el/DA final/NC de/SP la/DA vida/NC ./FF
+Ed._Edikamed/NP S._L/WW ,/FF Barcelona/NP ,/FF 2003/ZZ ./FF
+ISBN/NP 84-7877-344-4/ZZ ;/FF Tecnociències/NP ./FF
+Hottois/NP ,/FF Gilbert/NP :/FF El/DA paradigma/NC bioético/NC ./FF
+Una/DI ética/NC para/VM la/DA tecnociencia/VM ./FF
+Ed._Anthropos/NP ,/FF Barcelona/NP ,/FF 1991/ZZ ./FF
+ISBN/NP 84-7658-308-7/ZZ ;/FF Compilacions/NP de/SP diferents/DI temes/NC ./FF
+Gómez-Heras/NP ,/FF Jose_M.G._Bioética/NP ./FF
+Perspectivas/NP emergentes/NC y/NC nuevos/AQ problemas/NC ./FF
+Tecnos/NP ,/FF 2005/ZZ ./FF
+ISBN/NP 84-309-4282-3/ZZ ;/FF Gazzaniga/NP ,/FF Michael/NP :/FF El/DA cerebro/NC ético/NC ./FF
+Ed._Paidós/NP ,/FF Barcelona/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 84-493-7-1885-8/ZZ ;/FF Pardo_Sáenz/NP ,/FF José_María/NP ./FF
+Bioética/NP práctica/NC a/SP el/DA alcance/NC de/SP todos/AQ ./FF
+Ed._Rialp/NP ,/FF 2004/ZZ ./FF
+ISBN/NP 978-84-321-3513-2/ZZ ;/FF Singer/NP ,/FF Peter/NP :/FF Ética_Práctica/NP ./FF 2ª/ZZ Edició/NP ,/FF Cambridge_University_Press/NP ,/FF 2003/ZZ ./FF
+ISBN/NP 84-344-1027-3/ZZ ;/FF Tomás/NP y/NC Garrido/NP ,/FF Gloria_Mª/NP ./FF
+Cuestiones/NP actuales/NC de/SP bioética/NC ./FF
+EUNSA/NP ./FF 2006/ZZ ./FF
+ISBN/NP 84-313-2392-2/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Institut_Borja_de_Bioètica/NP (/FF Catalunya/NP -/FF Espanya/VM )/FF ;/FF Observatori_de_Bioètica/NP i/CC Dret/NP -/FF Universitat_de_Barcelona/NP ;/FF Associació_Catalana_de_Bioètica/NP ;/FF Revista_Bioètica_&_Debat/NP ;/FF Revista_de_Bioètica/NP i/CC Dret/NP ,/FF Observatori_de_Bioètica_Universitat_de_Barcelona/NP ;/FF Asociación_Internacional_Derecho/NP ,/FF Etica/NP y/NC Ciencia/NP ;/FF Pàgina/NP sobre/SP Bioètica_de_la_Margarita_Boladeras/NP ;/FF Instituto_de_Bioética/NP y/NC Ciencias_de_la_Salud/NP (/FF Escuela_Aragonesa_de_Cuidados_de_la_Salud/NP -/FF España/NP )/FF ;/FF ¿/FF Qué/NP es/P0 la/DA Bioética/NP ?/FF (/FF Proyecto_Chronos/NP -/FF España/NP )/FF ;/FF Bioética/NP en/SP la/DA Red/NP -/FF España/NP ;/FF Asociación_Española_de_Bioética/NP y/NC Ética_Médica/NP ;/FF Bioética/NP (/FF Organización_Panamericana_de_la_Salud/NP )/FF ;/FF La/NP bioética/AQ y/NC su/VM relación/NC con/NC la/DA tecnología/RG médica/AQ (/FF Monografías/NP ./FF com/CS )/FF ;/FF Departamento_de_Bioética/NP -/FF Universidad_El_Bosque/NP (/FF Colombia/NP )/FF ;/FF Centro_de_Documentación_de_Bioética/NP ;/FF Fondo/NP documental/AQ sobre/SP eutanasia/NC ConDignidad/NP ;/FF Centro_de_Estudios_de_Ética_Aplicada/NP -/FF Facultad_de_Filosofía/NP y/NC Humanidades/NP -/FF Universidad_de_Chile/NP ;/FF Sociedad_Internacional_de_Bioética/NP (/FF Gijón/NP -/FF España/NP )/FF ;/FF Observatorio_de_Bioética_de_la_Universidad_Católica_de_Valencia/NP -/FF España/NP ;/FF Bioética/NP -/FF UNESCO/NP (/FF en/SP inglés/RG )/FF ;/FF Asociación_de_Bioética_de_la_Comunidad_de_Madrid/NP -/FF ABIMAD/NP ;/FF
+Leptodactylus/NP podicipinus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP ,/FF Uruguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF Perú/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Baldo/NP ,/FF D_&_Gascon/NP ,/FF C./NP 2004/ZZ ./FF
+Leptodactylus/NP podicipinus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+D'/SP acord/NC amb/SP el/DA Diccionari_de_l'_Institut_d'_Estudis_Catalans/NP ,/FF la/DA norma/NC lingüística/AQ és/VS un/DI "/FF precepte/NC referit/VM a/SP el/DA bon/AQ ús/NC fonètic/AQ ,/FF morfològic/AQ ,/FF sintàctic/AQ ,/FF etc./FF ,/FF d/RG una/DI llengua/NC segons/SP la/DA gramàtica/NC normativa/AQ "/FF ./FF
+A/SP la/DA lingüística/NC moderna/AQ ,/FF el/DA concepte/NC va/VA prendre/VM força/RG a_partir_de/SP la/DA dicotomia/NC saussuriana/AQ entre/SP llengua/NC i/CC parla/VM i/CC fou/VS elaborat/VM per/SP lingüistes/NC estructuralistes/AQ com/CS Hjelmslev/NP i/CC Coseriu/NP ,/FF els/DA quals/PR l'/PP entengueren/VM com/CS la/DA part/NC de/SP el/DA sistema/NC de/SP la/DA llengua/NC que/PR és/VS sentida/VM com/CS a/SP comuna/NC per/SP la/DA majoria/NC de/SP parlants/NC ./FF
+En/SP lingüística/NC ,/FF les/DA normes/NC d'/SP ús/NC d'/SP una/DI llengua/NC estan/VM constituïdes/VM per/SP l'/DA ortografia/NC i/CC la/DA gramàtica/NC ./FF
+En/SP un/DI sentit/NC més/RG ampli/AQ ,/FF en_concret/RG sociològic/AQ ,/FF la/DA norma/NC lingüística/AQ també/RG hauria/VA de/SP contemplar/VM l'/DA adequació/NC funcional/AQ de/SP el/DA missatges/NC lingüístics/AQ ./FF
+Les/DA normes/NC lingüístiques/AQ són/VS producte/NC d'/SP una/DI convenció/NC i/CC d'/SP un/DI determinat/VM moment/NC històric/AQ ./FF
+Com/CS a/SP tals/PD ,/FF divergeixen/VM entre/SP llengües/NC i/CC poden/VM variar/VM a/SP el/DA llarg/AQ de/SP el/DA temps/NC ./FF
+No/RN són/VS immanents/AQ a/SP la/DA naturalesa/NC de/SP les/DA llengües/NC ,/FF però/CC per_tal_que/CS tinguin/VM eficàcia/NC i/CC acceptació/NC socials/AQ sí/RG que/CS hi/PP han/VA de/SP ser/VS coherents/AQ i/CC solidàries/AQ amb/SP el/DA context/NC cultural/AQ en/SP què/PR s'/P0 emmarquen/VM ./FF
+Com/CS totes/DI les/DA normes/NC ,/FF són/VS producte/NC d'/SP un/DI consens/NC socials/AQ sense/SP el/DA qual/PR no/RN tindrien/VM cap/DI mena/NC de/SP validesa/NC ni/CC eficàcia/NC ./FF
+Així_doncs/RG ,/FF en/SP qualsevol/DI norma/NC lingüística/AQ cal/VM tenir_en_compte/VM l'/DA element/NC de/SP gramaticabilitat/NC (/FF coherència/NC sistèmica/AQ )/FF i/CC el/DA d'/SP acceptació/NC (/FF viabilitat/NC de/SP l'/DA ús/NC social/AQ )/FF ./FF
+a/SP el/DA cas/NC de/SP el/DA català/NC ,/FF la/DA normativització/NC ,/FF és/VS a/SP dir/VM ,/FF el/DA procés/NC a_través_de/SP el/DA qual/PR s'/P0 estableixen/VM els/DA criteris/NC bàsics/AQ i/CC comuns/AQ d'/SP utilització/NC de/SP la/DA llengua/NC oral/AQ i/CC escrita/NC i/CC són/VS acceptats/VM socialment/RG ,/FF es/P0 va/VA dur_a_terme/VM a_partir_de/SP el/DA 1907/ZZ gràcies_a/SP l'/DA obra/NC de/SP Pompeu_Fabra/NP i/CC la/DA Secció_Filològica_de_l'_Institut_d'_Estudis_Catalans/NP ./FF
+Leptodactylus/NP poecilochilus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP ,/FF Costa_Rica/NP ,/FF Panamà/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF Nicaragua/NP ./FF
+Referències/NP ./FF
+Solís/NP ,/FF F./NP ,/FF Ibáñez/NP ,/FF R./NP ,/FF Chaves/NP ,/FF G./NP ,/FF Savage/NP ,/FF J./NP ,/FF Jaramillo/NP ,/FF C./NP ,/FF Fuenmayor/NP ,/FF Q./NP ,/FF Estupinan/NP ,/FF R.A._&_Mijares/NP ,/FF A./NP 2004/ZZ ./FF
+Leptodactylus/NP poecilochilus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP pustulatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Bastos/NP ,/FF R./NP ,/FF Heyer/NP ,/FF R._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Leptodactylus/NP pustulatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA casa/NC Fargas/NP es/P0 troba/VM situada/VM a/SP el/DA número/NC 47/ZZ de/SP la/DA Rambla_de_Catalunya/NP a/SP Barcelona/NP ./FF
+Realitzada/VM l'/DA any/NC 1904/ZZ ,/FF fou/VS un/DI encàrrec/NC de/SP el/DA doctor/NC Miquel_A._Fargas/NP a/SP l'/DA arquitecte/NC modernista/AQ Enric_Sagnier/NP i/CC Villavecchia/NP ,/FF que/PR la/PP va/VA construir/VM amb/SP una/DI línia/NC afrancesada/NC i/CC molt/RG més/RG continguda/VM que/CS altres/DI projectes/NC anteriors/AQ seus/PX ./FF
+La/DA façana/NC és/VS d'/SP una/DI austeritat/NC continguda/VM sense/SP grans/AQ ornamentacions/NC ,/FF però/CC de/SP gran/AQ qualitat/NC i/CC subtilesa/NC ,/FF les/DA seves/PX formes/NC ondulants/AQ són/VS ressaltades/VM per/SP la/DA tribuna/NC central/AQ que/PR recorre/VM tots/DI els/DA pisos/NC ,/FF realitzada/VM en/SP pedra/NC ,/FF els/DA ornaments/NC tallats/NC es/P0 mostren/VM sobretot/RG a/SP la/DA tribuna/NC i/CC a/SP les/DA balconades/NC de/SP la/DA primera/AO planta/NC ,/FF tenint/VM un/DI treball/NC de/SP ferro/NC forjat/NC a/SP les/DA baranes/NC de/SP la/DA resta/NC de/SP les/DA balconades/NC pertanyents/AQ a/SP les/DA altres/DI plantes/NC de/SP l'/DA edifici/NC ./FF
+Tota/DI la/DA façana/NC és/VS simètrica/AQ ,/FF excepte/SP la/DA porta/NC d'/SP entrada/NC col·locada/VM cap/NC a/SP la/DA part/NC dreta/AQ ./FF
+En/SP el/DA vestíbul/NC d'/SP entrada/NC ,/FF es/P0 troben/VM dos/ZZ arcs/NC trilobulats/NC per/SP a/SP repartir/VM l'/DA espai/NC de/SP l'/DA ascensor/NC i/CC l'/DA escala/NC de/SP marbre/NC blanc/AQ amb/SP un/DI sòcol/NC de/SP marbre/NC ocre/NC amb/SP ornaments/NC a/SP la/DA seva/PX part/NC alta/AQ ,/FF la/DA barana/NC és/VS de/SP ferro/NC forjat/NC amb/SP motius/NC florals/AQ ./FF
+a/SP el/DA pis/NC principal/AQ es/P0 troba/VM la/DA seu/NC de/SP la/DA fundació/NC Trias_Fargas/NP ./FF
+Es/P0 pot/VM veure/VM una/DI placa/NC posada/NC en/SP la/DA façana/NC on/PR aclareix/VM que/CS «/FF En/NP aquesta/DD casa/NC va/VA néixer/VM ,/FF va/VA viure/VM i/CC va/VA morir/VM Ramon_Trias_Fargas/NP (/FF 1922-1989/ZZ )/FF economista/NC i/CC polític/AQ que/PR va/VA ser/VS diputat/NC i/CC senador/NC ,/FF regidor/NC de/SP l'/DA ajuntament/NC de/SP Barcelona/NP i/CC conseller/NC de/SP la/DA Generalitat_de_Catalunya/NP »/FF ./FF
+Bibliografia/NP ./FF
+Permanyer/NP ,/FF Lluís/NP (/FF 1992/ZZ )/FF ,/FF Barcelona_Modernista/NP ,/FF Barcelona/NP ,/FF Ediciones_Polígrafa/NP ./FF
+ISBN/NP 84-344-0723-5/ZZ ./FF ;/FF Permanyer/NP ,/FF Lluís/NP (/FF 1998/ZZ )/FF ,/FF Un/DI passeig/NC per/SP la/DA Barcelona_Modernista/NP ,/FF Barcelona/NP ,/FF Ediciones_Polígrafa_SA/NP ./FF ./FF
+ISBN/NP 84-343-0877-0/ZZ ;/FF
+Leptodactylus/NP rhodomystax/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP i/CC Surinam/NP ./FF
+Referències/NP ./FF
+La/DA Marca/NP ,/FF E./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP rhodomystax/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP rhodonotus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP i/CC Perú/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF Reichle/NP ,/FF S._&_Gascon/NP ,/FF C./NP 2004/ZZ ./FF
+Leptodactylus/NP rhodonotus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Der_Kaiser/NP von/VM Atlantis/NP ,/FF oder/VM Die_Tod-Verweigerung/NP (/FF L'/DA emperador/NC de/SP l'/DA Atlàntida/NP ,/FF o/CC el/DA refús/NC de/SP la/DA Mort/NP )/FF és/VS una/DI òpera/NC en/SP un/DI acte/NC de/SP Viktor_Ullmann/NP sobre/SP llibret/NC alemany/AQ de/SP Peter_Kien/NP ./FF
+Tant/RG Ullmann/NP com/CS Kien/NP eren/VS presoners/AQ de/SP el/DA camp/NC de/SP concentració/NC nazi/AQ de/SP Theresienstadt/NP ,/FF on/PR van/VA crear/VM aquesta/DD òpera/NC a/SP el/DA voltant/NC de/SP l'/DA any/NC 1943/ZZ ./FF
+Tot_i_que/CS l'/DA òpera/NC va/VA ser/VS assajada/VM a/SP Theresienstadt/NP a/SP el/DA març_de_1944/WW ,/FF mai/RG no/RN hi/PP va/VA ser/VS 

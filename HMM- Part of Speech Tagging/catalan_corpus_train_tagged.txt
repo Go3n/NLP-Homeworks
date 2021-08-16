@@ -5551,4 +5551,88 @@ No/RN obstant/VM això/PD en/SP 2003/ZZ ,/FF Beauchamp/NP considera/VM que/CS el
 Els/DA quatre/ZZ principis/NC definits/VM per/SP Beauchamp/NP i/CC Childress/NP són/VS :/FF Principi/NP d'/SP autonomia/NC ./FF
 Principi/NP de/SP respecte/NC a/SP les/DA persones/NC que/PR imposa/VM l'/DA obligació/NC d'/SP assegurar/VM les/DA condicions/NC necessàries/AQ perquè/CS actuïn/VM de/SP forma/NC autònoma/AQ ./FF
 L'/DA autonomia/NC implica/VM responsabilitat/NC i/CC és/VS un/DI dret/NC irrenunciable/AQ ,/FF fins_i_tot/RG per/SP una/DI persona/NC malalta/AQ ./FF
-Una/DI persona/NC autònoma/AQ té/VM capacitat/NC per/SP a/SP obrar/VM ,/FF facultat/NC d'/SP enjudiciar/VM raonablement/RG l'/DA abast/NC i/CC el/DA significat/NC de/S
+Una/DI persona/NC autònoma/AQ té/VM capacitat/NC per/SP a/SP obrar/VM ,/FF facultat/NC d'/SP enjudiciar/VM raonablement/RG l'/DA abast/NC i/CC el/DA significat/NC de/SP les/DA seves/PX actuacions/NC i/CC respondre/VM per/SP les/DA seves/PX conseqüències/NC ./FF
+El/DA principi/NC d'/SP autonomia/NC té/VM caràcter/NC imperatiu/AQ i/CC ha/VA de/SP respectar/VM -se/P0 com/CS norma/NC ,/FF excepte/SP quan/PR es/P0 donen/VM situacions/NC que/CS les/DA persones/NC puguin/VM ser/VS no/RN autònomes/AQ o/CC presentin/VM una/DI autonomia/NC disminuïda/VM (/FF menors/NC d'/SP edat/NC ,/FF persones/NC en/SP estat/NC vegetatiu/AQ o/CC amb/SP dany/NC cerebral/AQ ,/FF etc./FF )/FF sent/VM necessari/AQ en/SP tal/PD cas/VM justificar/VM perquè/CS no/RN existeix/VM autonomia/NC o/CC perquè/CS aquesta/DD es/P0 troba/VM disminuïda/VM ./FF
+En/SP l'/DA àmbit/NC mèdic/AQ ,/FF el/DA consentiment/NC informat/VM és/VS la/DA màxima/AQ expressió/NC d'/SP aquest/DD principi/NC d'/SP autonomia/NC ,/FF constituint/VM un/DI dret/NC de/SP el/DA pacient/NC i/CC un/DI deure/NC de/SP el/DA metge/NC ,/FF car/CC les/DA preferències/NC i/CC els/DA valors/NC de/SP el/DA malalt/NC són/VS primordials/AQ des_de/SP el/DA punt/NC de/SP vista/NC ètic/AQ i/CC suposa/VM que/CS l'/DA objectiu/NC de/SP el/DA metge/NC és/VS respectar/VM aquesta/DD autonomia/NC perquè/CS es/P0 tracta/VM de/SP la/DA salut/NC de/SP el/DA pacient/NC ./FF
+Principi/NP de/SP beneficència/NC ./FF
+Obligació/NP d'/SP actuar/VM en/SP benefici/NC d'/SP altres/PI ,/FF promovent/VM els/DA seus/PX legítims/AQ interessos/NC i/CC evitant/VM perjudicis/NC ./FF
+En/SP medicina/NC ,/FF promou/VM el/DA millor/AQ interès/NC de/SP el/DA pacient/NC però/CC sense/SP tenir_en_compte/VM l'/DA opinió/NC d'/SP aquest/DD ./FF
+Suposa/VM que/CS el/DA metge/NC posseïx/VM una/DI formació/NC i/CC coneixements/NC de/SP els/DA quals/PR el/DA pacient/NC manca/NC ,/FF per/SP la/DA qualcosa/NC aquell/DD sap/NC (/FF i/CC per/SP tant/RG ,/FF decideix/VM )/FF el/DA més/RG convenient/AQ per/SP a/SP aquest/DD ./FF
+És/VS a/SP dir/VM "/FF tot/PI per/SP a/SP el/DA pacient/NC però/CC sense/SP contar/VM amb/SP el/DA pacient/NC "/FF ./FF
+Un/DI primer/AO obstacle/NC a/SP l'/DA analitzar/VM aquest/DD principi/NC és/VS que/CS desestima/VM l'/DA opinió/NC de/SP el/DA pacient/NC ,/FF primer/RG involucrat/VM i/CC afectat/VM per/SP la/DA situació/NC ,/FF prescindint/VM de/SP la/DA seva/PX opinió/NC a_causa_de/SP la/DA seva/PX falta/NC de/SP coneixements/NC mèdics/AQ ./FF
+No/RN obstant/VM això/PD ,/FF les/DA preferències/NC individuals/AQ de/SP metges/NC i/CC de/SP pacients/NC poden/VM discrepar/VM respecte/NC què/PR és/VS perjudici/NC i/CC què/PR és/VS benefici/NC ./FF
+Per/SP això/PD és/VS difícil/AQ defensar/VM la/DA primacia/NC d'/SP aquest/DD principi/NC ,/FF car/CC si/CS es/P0 prenen/VM decisions/NC mèdiques/AQ des/SP d'/SP aquest/PD ,/FF es/P0 deixen/VM de_costat/RG altres/DI principis/NC vàlids/AQ com/CS l'/DA autonomia/NC o/CC la/DA justícia/NC ./FF
+Principi/NP de/SP no/RN maleficència/NC (/FF Primum/NP non/VM nocere/RG )/FF ./FF
+Abstenir/VM -se/P0 intencionadament/RG de/SP realitzar/VM accions/NC que/PR puguin/VM causar/VM dany/NC o/CC perjudicar/VM a/SP altres/PI ./FF
+És/VS un/DI imperatiu/NC ètic/AQ vàlid/AQ per/SP a/SP tots/PI ,/FF no/RN només/RG en/SP l'/DA àmbit/NC biomèdic/AQ sinó/CC en/SP tots/DI els/DA sectors/NC de/SP la/DA vida/NC humana/AQ ./FF
+En/SP medicina/NC ,/FF aquest/DD principi/NC ha/VA de/SP trobar/VM una/DI interpretació/NC adequada/VM doncs/RG de/SP vegades/NC les/DA actuacions/NC mèdiques/AQ danyen/VM per/SP obtenir/VM un/DI bé/NC ./FF
+Llavors/RG ,/FF de/SP el/DA que/PR es/P0 tracta/VM és/VS de/SP no/RN perjudicar/VM innecessàriament/RG ./FF
+L'/DA anàlisi/NC d'/SP aquest/DD principi/NC va/VA de/SP la/DA mà/NC amb/SP el/DA de/SP beneficència/NC ,/FF perquè/CS prevalgui/VM el/DA benefici/NC sobre/SP el/DA perjudici/NC ./FF
+Les/DA implicacions/NC mèdiques/AQ de/SP el/DA principi/NC de/SP no/RN maleficència/NC són/VS vàries/AQ :/FF cal/VM tenir/VM una/DI formació/NC teòrica/AQ i/CC pràctica/NC rigorosa/AQ i/CC actualitzada/VM permanentment/RG per/SP dedicar/VM -se/P0 a/SP l'/DA exercici/NC professional/AQ ,/FF investigar/VM sobre/SP tractaments/NC ,/FF procediments/NC o/CC teràpies/NC noves/AQ ,/FF per/SP a/SP millorar/VM els/DA ja/RG existents/AQ a_fi_que/CS siguin/VS menys/RG dolorosos/AQ i/CC lesius/AQ per/SP a/SP els/DA pacients/NC ;/FF avançar/VM en/SP el/DA tractament/NC de/SP el/DA dolor/NC ;/FF evitar/VM la/DA medicina/NC defensiva/AQ i/CC la/DA multiplicació/NC de/SP procediments/NC i/CC //FF o/CC tractaments/NC innecessaris/AQ ./FF
+Principi/NP de/SP justícia/NC ./FF
+Tractar/VM cadascú/PI com/PR correspongui/VM amb/SP la/DA finalitat/NC de/SP disminuir/VM les/DA situacions/NC de/SP desigualtat/NC (/FF biològica/AQ ,/FF social/AQ ,/FF cultural/AQ ,/FF econòmica/AQ ,/FF etc./FF )/FF En/NP la/DA nostra/PX societat/NC ,/FF encara/RG que/CS en/SP l'/DA àmbit/NC sanitari/AQ la/DA igualtat/NC entre/SP tots/DI els/DA homes/NC és/VS només/RG una/DI aspiració/NC ,/FF es/P0 pretén/VM que/CS tots/DI siguin/VS menys/RG desiguals/AQ ,/FF per/SP la/DA qualcosa/NC s'/P0 imposa/VM l'/DA obligació/NC de/SP tractar/VM igual/AQ els/DA iguals/NC i/CC de/SP manera/NC desigual/AQ els/DA desiguals/AQ per/SP disminuir/VM les/DA situacions/NC de/SP desigualtat/NC ./FF
+El/DA principi/NC de/SP justícia/NC el/PP podem/VM diferenciar/VM en/SP :/FF un/DI principi/NC formal/AQ (/FF tractar/VM igual/AQ els/DA iguals/AQ i/CC desigual/AQ els/DA desiguals/AQ )/FF i/CC un/DI principi/NC material/NC (/FF determinar/VM les/DA característiques/NC rellevants/AQ per/SP a/SP la/DA distribució/NC de/SP els/DA recursos/NC sanitaris/AQ :/FF necessitats/NC personals/AQ ,/FF mèrit/NC ,/FF capacitat/NC econòmica/AQ ,/FF esforç/NC ,/FF etc./FF )/FF Les/NP polítiques/NC públiques/AQ es/P0 dissenyen/VM d'/SP acord/NC a/SP certs/DI principis/NC materials/AQ de/SP justícia/NC ./FF
+A/SP Espanya/NP per_exemple/RG ,/FF l'/DA assistència/NC sanitària/AQ és/VS teòricament/RG universal/AQ i/CC gratuïta/AQ ,/FF per/SP tant/RG basada/VM en/SP el/DA principi/NC de/SP necessitat/NC ./FF
+En_canvi/RG ,/FF a/SP els/DA Estats_Units/NP la/DA majoria/NC de/SP l'/DA assistència/NC sanitària/AQ de/SP la/DA població/NC està/VM basada/VM en/SP les/DA assegurances/NC individuals/AQ contractades/VM amb/SP companyies/NC privades/VM d'/SP assistència/NC mèdica/AQ ./FF
+Per/SP excloure/VM qualsevol/DI tipus/NC d'/SP arbitrarietat/NC és/VS necessari/AQ determinar/VM quines/DT igualtats/NC o/CC desigualtats/NC cal/VM tenir_en_compte/VM per/SP determinar/VM el/DA tractament/NC que/PR es/P0 doni/VM a/SP cadascú/PI ./FF
+El/DA malalt/NC espera/VM que/CS el/DA metge/NC faci/VM tot/DI el/DA possible/NC en/SP benefici/NC de/SP la/DA seva/PX salut/NC ,/FF però/CC també/RG ha/VA de/SP saber/VM que/CS les/DA actuacions/NC mèdiques/AQ estan/VM limitades/VM per/SP una/DI situació/NC imposada/VM a/SP el/DA metge/NC ,/FF per_exemple/RG per/SP interessos/NC legítims/AQ de/SP tercers/AO ./FF
+La/DA relació/NC metge-pacient/NC es/P0 basa/VM fonamentalment/RG en/SP els/DA principis/NC de/SP beneficència/NC i/CC d'/SP autonomia/NC ,/FF però/CC quan/CS aquests/DD principis/NC entren/VM en/SP conflicte/NC ,/FF sovint/RG per/SP l'/DA escassesa/NC de/SP recursos/NC ,/FF és/VS el/DA principi/NC de/SP justícia/NC el/DA que/PR entra/VM en/SP joc/NC ./FF
+En_canvi/RG ,/FF la/DA política/NC sanitària/AQ es/P0 basa/VM en/SP el/DA principi/NC de/SP justícia/NC ,/FF i/CC serà/VS tant/RG més/RG justa/AQ en/SP tant_que/CS aconsegueixi/VM una/DI major/AQ igualtat/NC d'/SP oportunitats/NC per/SP compensar/VM les/DA desigualtats/NC ./FF
+Principals/AQ regulacions/NC i/CC documents/NC ./FF
+Declaració_Universal_de_els_Drets_Humans/NP (/FF 1948/ZZ )/FF ;/FF Codi_de_Nuremberg/NP (/FF 1947/ZZ )/FF ;/FF Declaració_d'_Hèlsinki/NP (/FF 1964/ZZ )/FF ;/FF Declaració_de_Tòquio/NP (/FF 1975/ZZ )/FF ;/FF Informe_Belmont/NP (/FF 1979/ZZ )/FF ;/FF Declaració_de_Manila/NP (/FF 1980/ZZ )/FF ;/FF Conveni/NP per/SP a/SP la/DA protecció/NC de/SP els/DA Drets_Humans/NP i/CC la/DA Dignitat_de_l'_Ésser_Humà/NP per/SP el/DA que/PR fa/VM a/SP les/DA aplicacions/NC de/SP la/DA Biologia/NP i/CC la/DA Medicina/NP (/FF Conveni/NP sobre/SP Drets_Humans/NP i/CC Biomedicina/NP o/CC Conveni_d'_Oviedo/NP )/FF ,/FF Consell_d'_Europa/NP (/FF 1997/ZZ )/FF (/FF document/NC en/SP castellà/NC )/FF ;/FF Declaració_Universal/NP sobre/SP el/DA Genoma/NP i/CC els/DA Drets_Humans/NP (/FF en/SP castellà/NC )/FF ,/FF UNESCO/NP (/FF 1997/ZZ )/FF ;/FF Declaració_Internacional/NP sobre/SP les/DA Dades_Genètiques_Humans/NP (/FF en/SP castellà/NC )/FF ,/FF UNESCO/NP (/FF 2003/ZZ )/FF ;/FF Declaració_Internacional/NP sobre/SP Bioètica/NP i/CC Drets_Humans/NP (/FF en/SP castellà/NC )/FF ,/FF UNESCO/NP (/FF 2005/ZZ )/FF ;/FF Codis/NP deontològics/AQ professionals/NC ;/FF Problemes/NP bioètics/NC ./FF
+Algunes/DI qüestions/NC freqüentment/RG tractades/VM en/SP bioètica/NC són/VS les/DA següents/AQ :/FF Avortament/NP ;/FF Clonació/NP ;/FF Concepte/NP de/SP funcionalitat/NC conductual/AQ ;/FF Criónica/NP ;/FF Desenvolupament/NP sostenible/AQ ;/FF Donació/NP d'/SP òrgans/NC ;/FF Drets/NP de/SP els/DA animals/NC ;/FF Drogues/NP ;/FF Eutanàsia/NP ;/FF Ètica/NP mediambiental/AQ ;/FF Genètica/NP ;/FF Investigació/NP amb/SP cèl·lules/NC mare/NC ;/FF Investigació/NP i/CC assaigs/NC clínics/AQ ;/FF Mètodes/NP anticonceptius/NC ;/FF Qualitat/NP de/SP vida/NC ;/FF Quimera/NP ;/FF Reproducció/NP assistida/VM ;/FF Sanitat/NP ;/FF Sexualitat/NP ;/FF Sida/NP ;/FF Suïcidi/NP ;/FF Tecnoètica/NP ;/FF Tractament/NP de/SP el/DA dolor/NC ;/FF Transplantament/NP de/SP teixits/NC ;/FF Bioètics/NP destacats/VM ./FF
+Francesc_Abel/NP i/CC Fabre/NP ;/FF Maria_Casado/NP ;/FF Javier_Gafo/NP ;/FF André_Hellegers/NP ;/FF Jérôme_Lejeune/NP ;/FF Federico_Mayor_Zaragoza/NP ;/FF Javier_Sádaba/NP ;/FF Peter_Singer/NP ;/FF Mary_Warnock/NP ;/FF Ramon_Valls_Plana/NP ;/FF Referències/NP ./FF
+Bibliografia/NP ./FF
+Bioètica/NP en_general/RG ./FF
+Abel_Fabre/NP ,/FF Francesc/NP :/FF Bioética/NP :/FF orígenes/NC ,/FF presente/VM y/NC futuro/NC ./FF
+Instituto_Borja_de_Bioética/NP ./FF 2001/ZZ ./FF
+ISBN/NP 84-7100-799-1/ZZ ;/FF Beauchamp/NP ,/FF T._L/NP y/NC Childress/NP ,/FF J./NP :/FF Principios_de_Ética_Biomédica/NP ./FF
+Barcelona/NP ,/FF Masson/NP ,/FF 1999/ZZ ,/FF ISBN/NP 84-458-0480-4/ZZ ;/FF Casado/NP ,/FF María/NP :/FF Bioética/NP ,/FF Derecho/NP y/NC Sociedad/NP ./FF
+Trotta/NP ,/FF Madrid/NP ,/FF 1998/ZZ ./FF
+ISBN/NP :/FF 987-1145-10-1/ZZ ;/FF Gómez-Heras/NP ,/FF Jose_M.G._Bioética/NP ./FF
+Perspectivas/NP emergentes/NC y/NC nuevos/AQ problemas/NC ./FF
+Tecnos/NP ,/FF 2005/ZZ ./FF
+ISBN/NP 84-309-4282-3/ZZ ;/FF Sádaba/NP ,/FF Javier/NP :/FF Principios_de_Bioética_Laica/NP ./FF
+Gedisa/NP ,/FF Barcelona/NP ,/FF 2004/ZZ ./FF
+ISBN/NP :/FF 84-7432-996-5/ZZ ;/FF Singer/NP ,/FF Peter/NP :/FF Compendio/VM de/SP Ética/NP ./FF
+Ed._Alianza/NP ,/FF Madrid/NP ,/FF 1995/ZZ ./FF
+ISBN/NP 84-206-5249-0/ZZ ;/FF S._L._Jaki/NP ,/FF Fundamentos/NP éticos/NC de/SP la/DA bioética/NC ,/FF Ciencia/NP y/NC Cultura/NP ,/FF Madrid/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 978-84-934675-6-2/ZZ ;/FF Tomás/NP y/NC Garrido/NP ,/FF Gloria_Mª/NP ./FF
+Cuestiones/NP actuales/NC de/SP bioética/NC ./FF
+EUNSA/NP ./FF 2006/ZZ ./FF
+ISBN/NP 84-313-2392-2/ZZ ;/FF Valls/NP ,/FF Ramón/NP :/FF Ética/NP para/VM la/DA Bioética/NP ,/FF y/NC a/SP ratos/NC para/VM la/DA política/NC ./FF
+Gedisa/NP ,/FF Barcelona/NP ,/FF 2003/ZZ ./FF
+ISBN/NP :/FF 9788474329780/ZZ ;/FF Escríbar/NP ,/FF A./NP ,/FF Pérez/NP ,/FF M./NP ,/FF Villarroel/NP ,/FF R./NP (/FF comps/NC )/FF :/FF Bioética/NP ./FF
+Fundamentos/NP y/NC Dimensión/NP práctica/NC ./FF
+Mediterráneo/NP ,/FF Santiago/NP ,/FF 2004/ZZ ./FF
+ISBN/NP :/FF 95-622-0236-4/ZZ ;/FF Bioètica/NP aplicada/VM ./FF
+Avortament/NP ./FF
+Dworkin/NP ,/FF Ronald/NP :/FF El/DA dominio/NC de/SP la/DA vida/NC ./FF
+Una/DI discusión/NC acerca/NC de/SP el/DA aborto/NC ,/FF la/DA eutanasia/NC y/NC la/DA libertad/NC individual/AQ ./FF
+Versió/NP espanyola/AQ de/SP Ricardo_Caracciolo/NP y/NC Víctor_Ferreres/NP (/FF Universitat_Pompeu_Fabra/NP )/FF de/SP l'/DA original/AQ Life/NP 's/P0 Dominion/NP ,/FF 1ª/ZZ ed./NC 1993/ZZ ./FF
+Ed._Ariel/NP ,/FF Barcelona/NP ,/FF 1994/ZZ ./FF
+ISBN/NP 84-344-1115-6/ZZ ;/FF Singer/NP ,/FF Peter/NP :/FF Repensando/NP la/DA vida/NC y/NC la/DA muerte/NC ./FF
+Oxford_University_Press/NP ,/FF 1994/ZZ ./FF
+ISBN/NP 84-493-0414-8/ZZ ;/FF Thomasma/NP ,/FF David/NP y/NC Kushner/NP ,/FF Thomasine/NP :/FF De/SP la/DA vida/NC a/SP la/DA muerte/NC :/FF ciencia/VM y/NC bioética/AQ ./FF
+Traducció/NP espanyola/AQ de/SP la/DA primera/AO edició/NC (/FF 1999/ZZ )/FF per/SP Rafael_Herrera_Bonet/NP ./FF
+Cambridge_University_Press/NP ,/FF Madrid/NP ,/FF 1999/ZZ ./FF
+ISBN/NP 84-8323-073-9/ZZ ;/FF Vázquez/NP ,/FF Rodolfo/NP :/FF de/SP el/DA aborto/NC a/SP la/DA clonación/NC ./FF
+Principios/NP de/SP una/DI bioética/NC liberal/AQ ./FF
+Ed._Fondo_de_Cultura_Económica/NP ,/FF México_D._F/NP ,/FF 2004/ZZ ./FF
+ISBN/NP 968-16-7108-2/ZZ ;/FF Comitès_d'_Ètica/NP ./FF
+Bellver_Capella/NP ,/FF Vicente/NP :/FF Por/NP una/DI bioética/NC razonable/AQ ./FF
+Medios/NP de/SP comunicación/NC ,/FF comités/VM de/SP ética/AQ y/NC Derecho/NP ./FF
+Ed._Comares/NP ,/FF Granada/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 84-9836-017-X/ZZ ;/FF Herranz_Rodríguez/NP ,/FF Gonzalo/NP :/FF Comentarios/NP a/SP el/DA código/NC de/SP ética/AQ y/NC deontología/RG médica/AQ ./FF
+Eunsa/NP ,/FF 1995/ZZ ./FF
+ISBN/NP 978-84-313-1182-7/ZZ ;/FF Dret/NP i/CC legislació/NC ./FF
+Fundación_Fernando_Fueyo_Laneri/NP :/FF Derecho/NP ,/FF bioética/AQ y/NC genoma/NC humano/VM ./FF
+Editorial_Jurídica_de_Chile/NP ,/FF 2003/ZZ ./FF
+ISBN/NP 956-10-1497-1/ZZ ;/FF Eutanàsia/NP ./FF
+Comitè_Consultiu_de_Bioètica_de_Catalunya/NP :/FF Informe/NC sobre/SP l'/DA eutanàsia/NC i/CC l'/DA ajuda/NC a/SP el/DA suïcidi/NC ./FF
+Ed._Prous_Science/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 84-8124-228-4/ZZ ;/FF Dworkin/NP ,/FF Ronald/NP :/FF El/DA dominio/NC de/SP la/DA vida/NC ./FF
+Una/DI discusión/NC acerca/NC de/SP el/DA aborto/NC ,/FF la/DA eutanasia/NC y/NC la/DA libertad/NC individual/AQ ./FF
+Versió/NP espanyola/AQ de/SP Ricardo_Caracciolo/NP y/NC Víctor_Ferreres/NP (/FF Universitat_Pompeu_Fabra/NP )/FF de/SP l'/DA original/AQ Life/NP 's/P0 Dominion/NP ,/FF 1ª/ZZ ed./NC 1993/ZZ ./FF
+Ed._Ariel/NP ,/FF Barcelona/NP ,/FF 1994/ZZ ./FF
+ISBN/NP 84-344-1115-6/ZZ ;/FF Dworkin/NP ,/FF Gerald/NP ;/FF Frey/NP ,/FF R._G./NP y/NC Bok/NP ,/FF Sissela/NP :/FF La/DA eutanasia/NC y/NC 

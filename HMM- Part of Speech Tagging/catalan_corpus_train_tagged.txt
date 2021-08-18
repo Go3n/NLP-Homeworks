@@ -5737,4 +5737,107 @@ Leptodactylus/NP rhodonotus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Sp
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
 Der_Kaiser/NP von/VM Atlantis/NP ,/FF oder/VM Die_Tod-Verweigerung/NP (/FF L'/DA emperador/NC de/SP l'/DA Atlàntida/NP ,/FF o/CC el/DA refús/NC de/SP la/DA Mort/NP )/FF és/VS una/DI òpera/NC en/SP un/DI acte/NC de/SP Viktor_Ullmann/NP sobre/SP llibret/NC alemany/AQ de/SP Peter_Kien/NP ./FF
 Tant/RG Ullmann/NP com/CS Kien/NP eren/VS presoners/AQ de/SP el/DA camp/NC de/SP concentració/NC nazi/AQ de/SP Theresienstadt/NP ,/FF on/PR van/VA crear/VM aquesta/DD òpera/NC a/SP el/DA voltant/NC de/SP l'/DA any/NC 1943/ZZ ./FF
-Tot_i_que/CS l'/DA òpera/NC va/VA ser/VS assajada/VM a/SP Theresienstadt/NP a/SP el/DA març_de_1944/WW ,/FF mai/RG no/RN hi/PP va/VA ser/VS 
+Tot_i_que/CS l'/DA òpera/NC va/VA ser/VS assajada/VM a/SP Theresienstadt/NP a/SP el/DA març_de_1944/WW ,/FF mai/RG no/RN hi/PP va/VA ser/VS prepresentada/VM ,/FF atès/VM que/CS les/DA autoritats/NC nazis/AQ van/VA veure/VM en/SP la/DA figura/NC de/SP l'/DA emperador/NC un/DI retrat/NC satíric/AQ d'/SP Adolf_Hitler/NP i/CC van/VA censurar/VM -la/PP ./FF
+Tant/RG el/DA compositor/NC com/CS el/DA llibretista/NC van/VA morir/VM a/SP el/DA camp/NC de/SP concentració/NC d'/SP Auschwitz/NP ./FF
+L'/DA òpera/NC no/RN es/P0 va/VA estrenar/VM fins/SP el/DA 16_de_desembre_de_1975/WW a/SP el/DA Bellevue_Centre_d'_Amsterdam/NP ,/FF interpretada/VM per/SP De_Nederlandse_Opera/NP sobre/SP una/DI edició/NC de/SP Kerry_Woodward/NP ,/FF també/RG director/NC musical/AQ de/SP la/DA representació/NC ./FF
+Està/VM orquestrada/VM per/SP a/SP conjunt/NC de/SP cambra/NC i/CC empra/VM instruments/NC poc/RG habituals/AQ per/SP a/SP una/DI orquestra/NC operística/AQ ,/FF com/CS ara/RG el/DA banjo/NC ,/FF l'/DA harmònium/NC ,/FF el/DA saxòfon/NC contralt/AQ i/CC el/DA clavecí/NC ./FF
+Ullmann/NP va/VA usar/VM el/DA famós/AQ coral/NC luterà/AQ Ein/NP '/FF feste/NC Burg/NP ist/VM unser/RG Gott/NP com/CS a/SP motiu/NC melòdic/AQ ,/FF així/RG com/CS un/DI tema/NC de/SP la/DA Simfonia_Asrael_de_Josef_Suk/NP ./FF
+Sinopsi/NP ./FF
+L'/DA òpera/NC s'/P0 estructura/VM en/SP un/DI pròleg/NC i/CC tres/ZZ escenes/NC ./FF
+Pròleg/NP :/FF L'/DA altaveu/NC introdueix/VM l'/DA òpera/NC i/CC indica/VM que/CS hi/PP actuarà/VM com/CS a/SP comentarista/NC de/SP la/DA història/NC ./FF
+Escena/NP 1/ZZ :/FF Arlequí/NP (/FF que/PR representa/VM la/DA Vida/NP )/FF i/CC la/DA Mort/NP reflexionen/VM sobre/SP el/DA fet/NC que/CS ambdós/PI han/VA perdut/VM significat/NC en/SP el/DA món/NC modern/AQ ./FF
+Des_de/SP el/DA mític/AQ imperi/NC de/SP l'/DA Atlàntida/NP ,/FF l'/DA emperador/NC Overall/NP ha/VA dictat/VM ordres/NC per/SP a/SP una/DI guerra/NC perpètua/AQ ./FF
+La/DA soldat/NC tabaletera/NC intenta/VM reclutar/VM la/DA Mort/NP perquè/CS treballe/VM per/SP a/SP l'/DA exèrcit/NC de/SP l'/DA emperador/NC Overall/NP ./FF
+Però/RG la/DA Mort/NP es/P0 troba/VM tan/RG ofesa/VM per/SP la/DA grotesca/AQ conducta/NC de/SP l'/DA emperador/NC que/PR rebutja/VM l'/DA oferta/NC i/CC trenca/VM la/DA seua/PX dalla/NC ./FF
+Escena/NP 2/ZZ :/FF L'/DA emperador/NC Overall/NP està/VM donant/VM les/DA ordres/NC de/SP la/DA batalla/NC per/SP telèfon/NC des_de/SP el/DA seu/PX palau/NC ./FF
+Llavors/RG s'/P0 adona/VM de/SP els/DA estranys/AQ esdeveniments/NC que/PR ocorren/VM a/SP l'/DA exterior/NC ,/FF on/PR molta/DI gent/NC està/VM greument/RG ferida/NC ,/FF però/CC ningú/PI no/RN pot/VM morir/VM ./FF
+Escena/NP 3/ZZ :/FF Un/DI soldat/NC i/CC Bubikopf/NP ,/FF una/DI noia/NC pertanyent/AQ a/SP el/DA bàndol/NC enemic/AQ ,/FF es/P0 troben/VM ./FF
+No/RN obstant/VM això/PD ,/FF no/RN poden/VM matar/VM -se/P0 mutuament/RG ,/FF i/CC s'/P0 enamoren/VM ./FF
+La/DA tabaletera/NC intenta/VM endur/VM -se/P0 a/SP el/DA soldat/NC a/SP el/DA front/NC i/CC allunyar/VM -lo/PP de/SP la/DA noia/NC ,/FF però/CC el/DA soldat/NC hi/PP refusa/VM ./FF
+Escena/NP 4/ZZ :/FF L'/DA emperador/NC continua/VM embrancat/VM en/SP els/DA seus/PX càlculs/NC militars/AQ ./FF
+La/DA Mort/NP el/DA visita/NC ,/FF i/CC aquest/PD li/PP diu/VM que/CS la/DA gent/NC ha/VA deixat/VM de/SP morir/VM -se/PP ./FF
+a/SP el/DA seu/PX torn/NC ,/FF la/DA Mort/NP replica/VM que/CS ella/PP no/RN és/VS la/DA causa/NC de/SP les/DA misèries/NC humanes/AQ ,/FF sinó/CC el/DA refugi/NC final/AQ per/SP a/SP els/DA homes/NC ./FF
+Overall/NP li/PP demana/VM que/CS assumisca/VM de/SP nou/AQ els/DA seus/PX deures/NC ./FF
+La/DA Mort/NP hi/PP accepta/VM ,/FF però/CC sempre/RG que/CS l'/DA emperador/NC siga/AQ el/DA primer/AO a/SP morir/VM ./FF
+Inicialment/RG ,/FF Overall/NP hi/PP refusa/VM ,/FF i/CC la/DA Mort/NP l'/DA amenaça/NC amb/SP no/RN reprendre/VM el/DA seu/PX treball/NC ./FF
+Finalment/RG ,/FF l'/DA emperador/NC hi/PP accepta/VM ,/FF si/CS aquesta/PD és/VS l'/DA única/AQ esperança/NC per/SP a/SP la/DA humanitat/NC ,/FF i/CC canta/VM el/DA seu/PX darrer/AO comiat/NC ./FF
+L'/DA òpera/NC conclou/VM amb/SP un/DI quartet/NC ,/FF i/CC el/DA missatge/NC final/AQ :/FF "/FF Du/VM sollst/RG den/VM großen/NC Namen_Tod/NP nicht/RG eitel/NC beschwören/VM ./FF "/FF (/FF "/FF No/RN prendreu/VM el/DA gran/AQ nom/NC de/SP la/DA Mort/NP en/PP va/VA "/FF ./FF )/FF Enregistraments/NP ./FF
+Decca/NP 440/ZZ 854-2/ZZ :/FF Iris_Vermillion/NP ,/FF Michael_Kraus/NP ,/FF Herbert_Lippert/NP ,/FF Christiane_Oelze/NP ,/FF Walter_Berry/NP ,/FF Martin_Petzold/NP ,/FF Franz_Mazura/NP ;/FF Orquestra_de_el_Gewandhaus_de_Leipzig/NP ;/FF Lothar_Zagrosek/NP ,/FF director/NC (/FF empra/VM una/DI orquestració/NC ampliada/VM )/FF ;/FF Studio_Matou¨/NP 0022-2/ZZ 631/ZZ :/FF Stephen_Swanson/NP ,/FF Rupert_Bergmann/NP ,/FF Johannes_Strasser/NP ,/FF Stefani_Kahl/NP ,/FF Krassimir_Tassev/NP ,/FF Ingrid_Niedermayr/NP ;/FF Arbos_Gesellschaft/NP für/VM Musik/NP und/AQ Theater/NP //FF Ensemble_Kreativ/NP ;/FF Alexander_Dr/NP ar/VM ,/FF director/NC (/FF amb/SP l'/DA orquestració/NC original/NC )/FF ;/FF Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Rob/VM Barnett/NP ,/FF crítica/AQ a/SP l'/DA enregistrament/NC de/SP Studio_Matou¨/NP ,/FF a/SP Music_Web_International/NP ,/FF octubre_de_2003/WW ./FF ;/FF Bibliografia/NP ./FF
+Viking_Opera_Guide/NP ed./NC Holden/NP (/FF Viking/NP ,/FF 1993/ZZ )/FF ;/FF
+Leptodactylus/NP rhodostima/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Monteza/NP ,/FF J.I._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP rhodostima/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP riveroi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Colòmbia/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Mijares/NP ,/FF A./NP ,/FF Acosta-Galvis/NP ,/FF A._&_Manzanilla/NP ,/FF J./NP 2004/ZZ ./FF
+Leptodactylus/NP riveroi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP rugosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA Guyana/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+La/DA Marca/NP ,/FF E./NP ,/FF Hoogmoed/NP ,/FF M./NP ,/FF Señaris/NP ,/FF C._&_Reynolds/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP rugosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA placa/NC de/SP Juan_de_Fuca/NP és/VS una/DI placa/NC tectònica/AQ que/PR realitza/VM un/DI procés/NC de/SP subducció/NC sota/SP la/DA part/NC nord/AQ de/SP la/DA vora/NC occidental/AQ de/SP la/DA placa/NC nord-americana/AQ ./FF
+Porta/VM el/DA nom/NC de/SP l'/DA explorador/NC Juan_de_Fuca/NP ./FF
+a/SP el/DA sud/NC limita/VM amb/SP la/DA falla/NC de/SP San_Andrés/NP ,/FF i/CC a/SP l'/DA oest/NC amb/SP la/DA placa/NC pacífica/AQ ./FF
+La/DA placa/NC de/SP Juan_de_Fuca/NP es/P0 va/VA fracturar/VM en/SP tres/ZZ parts/NC ;/FF la/DA part/NC central/AQ és/VS la/DA que/PR porta/VM el/DA nom/NC de/SP Juan_de_Fuca/NP ,/FF la/DA part/NC meridional/AQ es/P0 coneix/VM com/CS a/SP placa/NC Gorda/NP ,/FF i/CC la/DA septentrional/NC rep/VM el/DA nom/NC de/SP placa/NC de/SP l'/DA Explorador/NP ./FF
+Amb/SP la/DA placa/NC de/SP Nazca/NP i/CC la/DA de/SP Cocos/NP ,/FF representa/VM una/DI de/SP les/DA últimes/AO restes/NC de/SP la/DA placa/NC de/SP Farallon/NP ./FF
+Aquesta/DD placa/NC ,/FF a/SP el/DA realitzar/VM una/DI subducció/NC ,/FF ha/VA format/VM la/DA cadena/NC volcànica/AQ de/SP Cascàdia/NP ,/FF que/PR forma_part/VM de/SP el/DA Cinturó/NP de/SP foc/NC de/SP el/DA Pacífic/NP ,/FF a/SP afecta/VM la/DA costa/NC oest/NC d'/SP Amèrica_de_el_Nord/NP des_de/SP el/DA sud/NC de/SP la/DA Colúmbia_Britànica/NP fins/SP a/SP el/DA nord/NC de/SP Califòrnia/NP ./FF
+L'/DA últim/AO gran/AQ terratrèmol/NC relacionat/VM amb/SP la/DA placa/NC de/SP Juan_de_Fuca/NP va/VA ser/VS el/DA terratrèmol/NC de/SP Cascàdia/NP ,/FF que/PR va/VA assolir/VM una/DI magnitud/NC 9/ZZ en/SP l'/DA escala/NC de/SP Richter/NP ./FF
+de/SP els/DA arxius/NC japonesos/AQ es/P0 dedueix/VM que/CS va/VA ocórrer/VM el/DA dimarts_26_de_gener_del_1700/WW ./FF
+Enllaços/NC externs/AQ ./FF
+Article/NP a/SP els/DA National_Geographic/NP sobre/SP els/DA registres/NC japonesos/AQ que/PR verifiquen/VM el/DA terratrèmol/NC de/SP Cascàdia/NP ;/FF Vegeu/NP també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF
+Leptodactylus/NP sabanensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Brasil/NP i/CC Guyana/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Señaris/NP ,/FF C._&_La_Marca/NP ,/FF E./NP 2004/ZZ ./FF
+Leptodactylus/NP sabanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP silvanimbus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Honduras/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cruz/NP ,/FF G._&_Wilson/NP ,/FF L.D./NP 2004/ZZ ./FF
+Leptodactylus/NP silvanimbus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Leptodactylus/NP spixi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Arzabe/NP ,/FF C._&_Carnaval/NP ,/FF A.C./NP 2004/ZZ ./FF
+Leptodactylus/NP spixi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Pere_Navarro/NP i/CC Morera/NP (/FF Terrassa/NP ,/FF 23_de_desembre_de_1959/WW )/FF és/VS l'/DA actual/AQ alcalde/NC de/SP Terrassa/NP ,/FF i/CC el/DA segon/NC democràtic/AQ de/SP la/DA ciutat/NC ./FF
+És/VS casat/NC i/CC té/VM dues/ZZ filles/NC ./FF
+És/VS llicenciat/NC en/SP Biologia_per_la_Universitat_Autònoma_de_Barcelona/NP ,/FF UAB/NP ,/FF i/CC militant/VM de/SP el/DA PSC/NP de/SP el/DA de/SP 1977/ZZ ./FF
+Biografia/NP ./FF
+Militant_de_el_PSC/NP des_de/SP 1977/ZZ ,/FF va/VA començar/VM la/DA seva/PX militància/NC a/SP l'/DA Institut_Arraona/NP i/CC la/PP va/VA seguir/VM a/SP la/DA universitat/NC ./FF
+És/VS un/DI de/SP els/DA fundadors/NC de/SP les/DA Juventuts_Socialistes_de_Terrassa/NP i/CC l'/DA any/NC 1982/ZZ va/VA ser/VS el/DA responsable/NC de/SP la/DA campanya/NC per/SP a/SP les/DA eleccions/NC de/SP l'/DA any/NC següent/AQ ./FF
+I/CC l'/DA any/NC 1983/ZZ va/VA integrar/VM de/SP el/DA llistes/NC de/SP el/DA PSC/NP a/SP les/DA eleccions/NC generals/AQ ./FF
+L'/DA any/NC 1987/ZZ va/VA entrar/VM com/CS a/SP regidor/NC de/SP l'/DA Ajuntament_de_Terrassa/NP com/CS a/SP adjunt/NC de/SP la/DA regidoria/NC d'/SP urbanisme/NC ./FF
+L'/DA any/NC 1991/ZZ va/VA ser/VS president/NC de/SP el/DA districte/NC V./NP a/SP el/DA 1994/ZZ va/VA ocupar/VM el/DA càrrec/NC de/SP Primer_Secretari_de_el_PSC_de_Terrassa/NP i/CC l'/DA any/NC següent/AQ va/VA ocupar/VM la/DA regidoria/NC de/SP participació/NC ciutadana/AQ i/CC joventut/NC ./FF
+Més/RG endevant/AQ ,/FF a/SP el/DA 1998/ZZ ocupa/VM una/DI altra/DI regidoria/NC ,/FF aquest/DD cas/NC la/DA de/SP cultura/NC ./FF
+L'/DA any/NC 1999/ZZ va/VA ser/VS nomenat/VM quart/AO tinent/NC d'/SP alcalde/NC ,/FF i/CC va/VA continuar/VM a/SP el/DA capdavant/RG de/SP cultura/NC ./FF
+A/SP les/DA eleccions/NC municipals/AQ de/SP 2003/ZZ va/VA ser/VS cap/NC de/SP llista/NC de/SP el/DA PSC/NP a/SP Terrassa/NP i/CC va/VA aconseguir/VM 13/ZZ de/SP els/DA 27/ZZ regidors/NC de/SP l'/DA ajuntament/NC i/CC va/VA ser/VS investit/VM com/CS alcalde/NC de/SP Terrassa/NP ,/FF gràcies_a/SP un/DI pacte/NC amb/SP ICV-EUiA/NP i/CC ERC/NP ./FF
+Resultat/NC que/PR va/VA repetir/VM l'/DA any/NC 2007/ZZ ./FF
+Marc_Juli_Filip/NP o/CC Marc_Juli_Sever_Filip/NP (/FF o/CC Felip/NP )/FF fou/VS fill/NC de/SP l'/DA emperador/NC Filip_l'_Àrab/NP (/FF Filip_I/NP )/FF ./FF
+Tenia/VM set/ZZ anys/NC quan/CS el/DA seu/PX pare/NC fou/VS proclamat/VM emperador/NC (/FF 244/ZZ )/FF i/CC el/DA noi/NC fou/VS proclamat/VM cèsar/NC ./FF
+Fou/VS cònsol/NC el/DA 247/ZZ amb/SP només/RG 10/ZZ anys/NC ,/FF any/NC en/SP què/PR fou/VS reconegut/VM com/CS august/NC (/FF Filip_II/NP )/FF ./FF
+Fou/VS altre/DI cop/NC cònsol/NC el/DA 248/ZZ ,/FF any/NC en/SP què/PT es/P0 va/VA celebrar/VM el/DA mil·lenari/NC de/SP Roma/NP ./FF
+La/DA tardor/NC de/SP el/DA 249/ZZ fou/VS assassinats/NC a/SP Roma/NP per/SP els/DA pretorians/NC a/SP el/DA conèixer/VM la/DA derrota/NC de/SP el/DA pare/NC (/FF segons/SP Víctor/NP )/FF o/CC va/VA morir/VM a/SP la/DA batalla/NC de/SP Verona/NP (/FF segons/SP Zòsim/NP )/FF quan/PR tenia/VM uns/DI 11/ZZ o/CC 12/ZZ anys/NC ./FF
+Tenia/VM la/DA característica/NC de/SP què/PR no/RN reia/VM mai/RG ./FF
+El/DA nom/NC de/SP Sever/NP se/P0 li/PP dona/NC a/SP algunes/DI monedes/NC trobades/NC a/SP Pamfília/NP i/CC derivaria/VM de/SP la/DA seva/PX mare/NC Otacília_Severa/NP ./FF
+Víctor/NP l'/PP anomena/VM Gai_Juli_Saturní_Filip/NP però/CC aquest/DD nom/NC no/RN té/VM confirmació/NC de/SP cap/DI medalla/NC o/CC moneda/NC ni/CC de/SP cap/DI altra/DI autor/NC ./FF
+Leptodactylus/NP stenodema/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP ,/FF Surinam/NP i/CC ,/FF possiblement/RG també/RG ,/FF Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Heyer/NP ,/FF R._&_Gascon/NP ,/FF C./NP 2004/ZZ ./FF
+Leptodactylus/NP stenodema/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Émile_Bernard/NP (/FF Lilla/NP ,/FF França/NP ,/FF 28_d'_abril_de_1868/WW 16_d'_abril_de_1941/WW )/FF ,/FF va/VA ser/VS un/DI pintor/NC postimpressionista/AQ francès/AQ ./FF
+Va/VA començar/VM els/DA seus/PX estudis/NC a/SP l'/DA Escola_de_Belles_Arts/NP ,/F

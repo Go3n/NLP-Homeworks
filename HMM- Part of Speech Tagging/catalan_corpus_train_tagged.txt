@@ -5840,4 +5840,99 @@ Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,
 Leptodactylus/NP stenodema/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
 Émile_Bernard/NP (/FF Lilla/NP ,/FF França/NP ,/FF 28_d'_abril_de_1868/WW 16_d'_abril_de_1941/WW )/FF ,/FF va/VA ser/VS un/DI pintor/NC postimpressionista/AQ francès/AQ ./FF
-Va/VA començar/VM els/DA seus/PX estudis/NC a/SP l'/DA Escola_de_Belles_Arts/NP ,/F
+Va/VA començar/VM els/DA seus/PX estudis/NC a/SP l'/DA Escola_de_Belles_Arts/NP ,/FF fent/VM -se/P0 amic/NC d'/SP artistes/NC com/CS Louis_Anquetin/NP i/CC Henri_de_Toulouse-Lautrec/NP ./FF
+Es/P0 va/VA unir/VM a/SP lAtelier/VM Cormon_de_París/NP el/DA 1884/ZZ on/PR va/VA experimentar/VM amb/SP l'/DA impressionisme/NC i/CC el/DA puntillisme/NC ./FF
+Després/RG que/CS li/PP suspenguessin/VM a/SP l'/DA École/NP des/SP Beaux-Arts/NP per/SP insubordinació/NC ,/FF va/VA viatjar/VM per/SP Bretanya/NP ,/FF on/PR va/VA quedar/VM enamorat/NC de/SP la/DA tradició/NC i/CC el/DA paisatge/NC ./FF
+Va/VA teoritzar/VM sobre/SP un/DI estil/NC de/SP pintures/NC de/SP formes/NC grolleres/AQ separades/VM per/SP contorns/NC foscs/AQ ,/FF que/PR va/VA ser/VS conegut/VM com/CS cloisonisme/NC ./FF
+La/DA seva/PX obra/NC va/VA mostrar/VM tendències/NC geomètriques/AQ que/PR apuntaven/VM les/DA influències/NC de/SP Paul_Cézanne/NP ,/FF i/CC va/VA col·laborar/VM amb/SP Paul_Gauguin/NP i/CC Vincent/NP van/VA Gogh/NP ./FF
+La/DA seva/PX correspondència/NC amb/SP aquests/DD artistes/NC és/VS de/SP gran/AQ interès/NC per/SP a/SP la/DA història/NC de/SP l'/DA art./NC El/NP 1891/ZZ es/P0 va/VA unir/VM a/SP un/DI grup/NC de/SP pintors/NC simbolistes/AQ ,/FF entre/SP els/DA quals/PR estaven/VM Odilon_Redon/NP i/CC Ferdinand_Hodler/NP ./FF
+El/DA 1893/ZZ va/VA començar/VM a/SP viatjar/VM per/SP Egipte/NP ,/FF Espanya/NP i/CC Itàlia/NP ,/FF i/CC després/RG d'/SP aquesta/DD experiència/NC el/DA seu/PX estil/NC es/P0 va/VA fer/VM més/RG eclèctic/AQ ./FF
+Va/VA tornar/VM a/SP París/NP el/DA 1904/ZZ ,/FF on/PR va/VA morir/VM el/DA 1941/ZZ ./FF
+Un/PI de/SP els/DA alumnes/NC d'/SP Émile_Bernard/NP va/VA ser/VS el/DA pintor/NC suec/AQ Ivan_Aguéli/NP ./FF
+Léonard_Ginsburg/NP és/VS un/DI paleontòleg/NC francès/AQ ,/FF professor/NC de/SP el/DA Muséum/NP national/AQ d'/SP histoire/NC naturelle/AQ de/SP París/NP ./FF
+Va/VA publicar/VM 327/ZZ treballs/NC sobre/SP diversos/DI temes/NC de/SP la/DA paleontologia/NC entre/SP el/DA 1949/ZZ i/CC el/DA 2001/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Fotos_de_Léonard_Ginsburg/NP a/SP el/DA MNHN/NP ;/FF
+Leptodactylus/NP syphax/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP i/CC Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D._&_Aquino/NP ,/FF L./NP 2004/ZZ ./FF
+Leptodactylus/NP syphax/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Filip_IV_de_Macedònia/NP fou/VS rei/NC de/SP Macedònia/NP el/DA 297/ZZ aC/NC ./FF
+Era/VS el/DA fill/NC gran/AQ de/SP Cassandre_de_Macedònia/NP ./FF
+Va/VA regnar/VM només/RG un_mesos/ZZ (/FF maig/WW a/SP agost_del_297/WW aC/NC ,/FF si/CS be/NC algunes/DI referències/NC situen/VM el/DA regnat/NC entre/SP 297/ZZ i/CC 296/ZZ aC/NC )/FF succeint/VM a/SP el/DA seu/PX pare/NC quan/CS aquest/DD va/VA morir/VM de/SP malaltia/NC ./FF
+No/RN s'/P0 esmenta/VM cap/DI fet/NC especial/AQ de/SP el/DA seu/PX període/NC de/SP regnat/NC i/CC va/VA morir/VM aviat/RG a/SP Elatea/NP a/SP Fòcida/NP ./FF
+Els/DA seus/PX dos/ZZ germans/NC Antípater_I_de_Macedònia/NP i/CC Alexandre_V_de_Macedònia/NP el/PP van/VA succeir/VM conjuntament/RG ./FF
+Leptodactylus/NP tapiti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Heyer/NP ,/FF R./NP ,/FF Silvano/NP ,/FF D._&_Colli/NP ,/FF G./NP 2004/ZZ ./FF
+Leptodactylus/NP tapiti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Filip/NP fou/VS un/DI príncep/NC de/SP Macedònia/NP ,/FF fill/NC de/SP Filip_V_de_Macedònia/NP d'/SP un/DI darrer/AO matrimoni/NC i/CC germanastre/NC de/SP Perseu_de_Macedònia/NP ./FF
+Era/VS molt/RG més/RG jove/AQ que/PR aquest/PD ,/FF que/CS el/PP va/VA adoptar/VM com/CS a/SP fill/NC i/CC el/PP va/VA considerar/VM com/CS el/DA seu/PX hereu/NC ,/FF fins_i_tot/RG després/RG de/SP el/DA naixement/NC d'/SP un/DI fill/NC propi/AQ de/SP nom/NC Alexandre/NP ./FF
+Filip/NP va/VA ocupar/VM diversos/DI lloc/NC preeminents/AQ a/SP la/DA cort/NC macedònia/AQ ,/FF ;/FF després/RG de/SP la/DA derrota/NC decisiva/AQ de/SP Pidna/NP va/VA acompanyar/VM a/SP Perseu/NP en/SP la/DA seva/PX fugida/NC ,/FF fins/SP a/SP refugiar/VM -se/P0 a/SP Samotràcia/NP ,/FF on/PR finalment/RG els/DA dos/ZZ es/P0 van/VA rendir/VM a/SP el/DA pretor/NC romà/AQ Gneu_Octavi/NP ./FF
+Fou/VS inclòs/VM a/SP el/DA triomf/NC d'/SP Emili_Paule/NP el/DA 167/ZZ aC/NC i/CC després/RG empresonat/VM a/SP Alba/NP ,/FF on/PR va/VA sobreviure/VM per/SP poc/DI temps/NC a/SP el/DA seu/PX germà/NC i/CC pare/NC adoptiu/AQ ./FF
+Segons/SP Polibi/NP només/RG tenia/VM 18/ZZ anys/NC quan/PR va/VA morir/VM ./FF
+Adrian_Lister/NP és/VS un/DI paleontòleg/NC britànic/AQ ,/FF catedràtic/NC de/SP paleobiologia/NC a/SP l'/DA University_College_London_de_Londres/NP ./FF
+L'/DA any/NC 1976/ZZ es/P0 graduà/VM en/SP zoologia/NC a/SP l'/DA Universitat_de_Cambridge/NP ,/FF on/PR es/P0 doctorà/VM el/DA 1981/ZZ ./FF
+La/DA seva/PX especialitat/NC és/VS l'/DA estudi/NC de/SP l'/DA evolució/NC de/SP les/DA espècies/NC de/SP mamífers/NC de/SP el/DA Quaternari/NP ./FF
+En/SP ocasions/NC apareix/VM en/SP programes/NC de/SP televisió/NC i/CC de/SP ràdio/NC a/SP parlar/VM de/SP paleontologia/NC o/CC l'/DA evolució/NC ./FF
+Fou/VS assessor/NC científic/AQ de/SP sèries/NC com/CS Walking/NP with/NC Beasts/NP o/CC Monsters_We_Met/NP ./FF
+En/SP aquesta/DD última/AO ,/FF el/DA treball/NC d'/SP investigació/NC de/SP Lister/NP se/P0 centrà/VM en/SP intentar/VM determinar/VM l'/DA element/NC desencadenador/NC de/SP l'/DA extinció/NC de/SP grans/AQ mamífers/NC europeus/AQ a/SP finals/NC de/SP l'/DA última/AO edat/NC de/SP gel/NC ./FF
+Analitzant/VM el/DA registre/NC fòssil/AQ d'/SP espècies/NC com/CS l'/DA ant/NC irlandès/AQ ,/FF el/DA rinoceront/NC llanut/AQ o/CC el/DA mamut/NC ,/FF Lister/NP i/CC Tony_Stuart/NP suggeriren/VM que/CS un/DI canvi/NC ecològic/AQ i/CC ambiental/AQ hauria/VA començat/VM a/SP delmar/VM les/DA poblacions/NC d'/SP aquests/DD animals/NC ,/FF i/CC que/CS els/DA humans/AQ de/SP la/DA prehistòria/NC els/PP haurien/VA donat/VM el/DA cop/NC de/SP gràcia/NC ./FF
+A/SP més/RG de/SP conduir/VM recerca/NC sobre/SP la/DA seva/PX extinció/NC ,/FF Lister/NP ha/VA conduït/VM altres/DI tipus/NC d'/SP investigació/NC sobre/SP els/DA mamuts/NC ./FF
+Lister/NP i/CC Andrei_V._Sher/NP ,/FF de/SP l'/DA Acadèmia_Russa_de_les_Ciències/NP ,/FF estudiaren/VM el/DA clima/NC de/SP Sibèria/NP durant/SP l'/DA última/AO edat/NC glacial/AQ ,/FF trobant/VM que/CS les/DA condicions/NC climàtiques/AQ periglacials/AQ hi/PP duraren/VM més/RG temps/NC que/CS a/SP Europa/NP ./FF
+També/RG determinaren/VM que/CS les/DA adaptacions/NC d'/SP algunes/DI espècies/NC de/SP mamut/NC per/SP pasturar/VM s'/P0 originaren/VM a/SP Sibèria/NP i/CC després/RG s'/P0 estengueren/VM a/SP Europa/NP ./FF
+Lister/NP descrigué/VM Leptictidium/NP nasutum/NC juntament/RG amb/SP Gerhard_Storch/NP ./FF
+Bibliografia/NP ./FF
+Aquestes/DD són/VS algunes/PI de/SP les/DA obres/NC d'/SP Adrian_Lister/NP :/FF Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web_d'_Adrian_Lister/NP a/SP el/DA web/NC de/SP l'/DA UCL/NP ;/FF
+Leptodactylus/NP troglodytes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Arzabe/NP ,/FF C._&_Heyer/NP ,/FF R./NP 2004/ZZ ./FF
+Leptodactylus/NP troglodytes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Filip_de_Tebes/NP fou/VS un/DI governant/NC tebà/AQ ./FF
+Fou/VS membre/NC de/SP el/DA govern/NC oligàrquic/AQ de/SP Tebes/NP establert/VM després/RG de/SP la/DA conquesta/NC espartana/AQ de/SP Cadmea_per_Febides/NP el/DA 382/ZZ aC/NC ./FF
+Va/VA morir/VM a/SP la/DA nit/NC en/SP què/PT Pelòpides/NP i/CC els/DA seus/PX van/VA fer/VM la/DA revolució/NC ,/FF quan/CS es/P0 trobava/VM en/SP un/DI banquet/NC a/SP casa/NC de/SP Fil·lides/NP ./FF
+Leptodactylus/NP ventrimaculatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP i/CC Equador/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Nogales/NP ,/FF F./NP ,/FF Cisneros-Heredia/NP ,/FF D./NP ,/FF Almeida/NP ,/FF D._&_Yánez-Muñoz/NP ,/FF M./NP 2004/ZZ ./FF
+Leptodactylus/NP ventrimaculatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Filip/NP fou/VS un/PI militar/AQ i/CC amic/AQ de/SP el/DA rei/NC selèucida/AQ Antíoc_III_el_Gran/NP ./FF
+Va/VA tenir/VM el/DA càrrec/NC de/SP comandant/NC de/SP els/DA elefants/NC o/CC magister/NC elephantorum/NC i/CC en/SP aquesta/DD condició/NC va/VA participar/VM a/SP la/DA batalla/NC de/SP Ràfia/NP contra/SP els/DA egipcis/NC (/FF 217/ZZ aC/NC )/FF i/CC a/SP la/DA batalla/NC de/SP Magnèsia_de_el_Sipilos/NP contra/SP els/DA romans/NC (/FF 190/ZZ aC/NC )/FF ./FF
+Leptodactylus/NP viridis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Leptodactylus/NP viridis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+El/DA Premi_Fernando_Lara_de_Novel·la/NP és/VS concedit/VM anualment/RG per/SP la/DA Fundació_José_Manuel_Lara/NP (/FF Sevilla/NP )/FF i/CC l'/DA Editorial_Planeta/NP a/SP una/DI novel·la/NC inèdita/AQ en/SP llengua/NC castellana/AQ ./FF
+No/RN es/P0 preveu/VM la/DA publicació/NC de/SP l'/DA obra/NC finalista/AQ ,/FF encara/RG que/CS en/SP ocasions/NC és/VS editada/VM per/SP la/DA pròpia/AQ Planeta/NP (/FF en/SP el/DA cas/NC de/SP L'/NP ombra/NC de/SP el/DA vent/NC ,/FF de/SP Carlos_Ruiz_Zafón/NP ,/FF finalista/NC el/DA 2000/ZZ ,/FF i/CC Vestida/NP de/SP núvia/NC ,/FF d'/SP Antonio_Hernández/NP ,/FF finalista/NC el/DA 2003/ZZ )/FF o/CC el/DA servei/NC de/SP publicacions/NC de/SP la/DA Fundació/NP ./FF
+Creat/VM el/DA 1996/ZZ ,/FF duu/VM el/DA nom/NC de/SP el/DA fill/NC menor/AQ de/SP José_Manuel_Lara_Hernández/NP ,/FF fundador/AQ de/SP l'/DA editorial/NC ,/FF i/CC que/PR va/VA ser/VS conseller/NC delegat/NC de/SP el/DA Grup_Planeta/NP fins/SP a/SP la/DA seva/PX defunció/NC ,/FF en/SP accident/NC de/SP trànsit/NC ,/FF l'/DA agost_de_1995/WW ./FF
+La/DA dotació/NC de/SP 2006/ZZ fou/VS de/SP 120.200_euros/ZZ ./FF
+Es/P0 lliura/VM en/SP maig/WW de/SP l'/DA any/NC respectiu/AQ ./FF
+Leptodactylus/NP wagneri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP i/CC Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Heyer/NP ,/FF R._&_Gascon/NP ,/FF C./NP 2004/ZZ ./FF
+Leptodactylus/NP wagneri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Filip/NP fou/VS un/PI de/SP els/DA ministres/NC de/SP el/DA rei/NC selèucida/AQ Antíoc_IV_Epífanes/NP (/FF 174/ZZ aC-164/ZZ aC/NC )/FF ./FF
+Quan/CS aquest/DD estava/VM a/SP el/DA seu/PX llit/NC de/SP mort/NC ,/FF durant/SP una/DI campanya/NC ,/FF el/PP va/VA nomenar/VM com/CS a/SP guardià/NC (/FF regent/NC )/FF de/SP el/DA seu/PX jove/NC fill/NC Antíoc_V_Eupator/NP (/FF 164/ZZ aC-162/ZZ aC/NC )/FF ./FF
+Filip/NP va/VA tornar/VM a/SP Antioquia/NP amb/SP el/DA segell/NC de/SP el/DA rei/NC difunt/AQ ./FF
+Mentre/CS el/DA ministre/NC Lísies/NP ,/FF que/PR havia/VA estat/VS nomenat/VM regent/AQ mentre/CS el/DA rei/NC era/VS absent/AQ ,/FF havia/VA proclamat/VM a/SP el/DA jove/NC príncep/NC i/CC mantenia/VM la/DA regència/NC i/CC el/DA poder/NC que/PR ja/RG no/RN li/PP pertocava/VM ./FF
+El/DA 163/ZZ aC/NC era/VS en/SP campanya/NC a/SP Judea/NP ,/FF que/PR estava/VM en/SP revolta/NC ,/FF acompanyat/VM de/SP el/DA jove/NC nou/AQ rei/NC ./FF
+Quan/CS Lísies/NP va/VA saber/VM que/CS Filip/NP havia/VA tornat/VM amb/SP el/DA segell/NC reial/AQ i/CC estava/VM reunint/VM un/DI exèrcit/NC ,/FF va/VA fer/VM un/DI pacte/NC desfavorable/AQ amb/SP els/DA jueus/NC ,/FF i/CC va/VA marxar/VM contra/SP el/DA nou/AQ regent/NC ,/FF el/PP va/VA derrotar/VM i/CC el/PP va/VA fer/VM matar/VM ./FF
+Filip/NP ,/FF fill/NC d'/SP Amintes/NP ,/FF fou/VS un/DI oficial/AQ macedoni/NC a/SP el/DA servei/NC d'/SP Alexandre_el_Gran_Va/NP dirigir/VM una/DI de/SP les/DA divisions/NC de/SP la/DA falange/NC a/SP la/DA batalla/NC de/SP el/DA Grànic/NP ./FF
+Encara/RG que/CS durant/SP les/DA campanyes/NC d'/SP Alexandre/NP apareixen/VM diversos/DI Filip/NP ,/FF no/RN es/P0 pot/VM determinar/VM si/CS algun/PI d'/SP aquestos/AQ és/VS aquest/DD mateix/DI Filip/NP ./FF
+És/VS possible/AQ que/CS sigui/VS el/DA mateix/DI Filip/NP que/PR va/VA dirigir/VM una/DI de/SP les/DA divisions/NC de/SP la/DA falange/NC a/SP la/DA batalla/NC d'/SP Arbela/NP ,/FF però/CC aquest/PD és/VS esmentat/VM com/CS a/SP fill/NC de/SP Bàlacros/NP ./FF
+En/SP la/DA tradició/NC catalana/AQ ,/FF la/DA setmana/NC de/SP els/DA barbuts/AQ és/VS la/DA que/PR inclou/VM els/DA dies/NC 15/ZZ ,/FF 16/ZZ i/CC 17_de_gener/WW ,/FF corresponents/AQ a/SP sant/NC Pau_Ermità/NP ,/FF sant/NC Mur/NP i/CC sant/NC Antoni_Abat/NP ./FF
+La/DA seva/PX denominació/NC prové/VM de/SP el/DA fet/NC que/CS aquests/DD tres/ZZ sants/NC són/VS representats/VM a/SP la/DA iconografia/NC lluint/VM llargues/AQ barbes/NC ./FF
+També/RG en/SP la/DA setmana/NC de/SP els/DA barbuts/AQ s'/P0 hi/PP inclouen/VM sant/AQ Fruitós/NP i/CC sant/NC Sebastià/NP ,/FF que/PR tenen/VM la/DA seva/PX diada/NC el/DA dia_20/WW i/CC sant/NC Vicenç/NP ,/FF el/DA dia_22/WW ./FF
+Tradicionalment/RG ,/FF la/DA setmana/NC de/SP els/DA barbuts/AQ era/VS considerada/VM una/DI de/SP les/DA més/RG fredes/AQ de/SP l'/DA any/NC ./FF
+Algunes/DI dites/NC populars/AQ referides/VM a/SP la/DA setmana/NC de/SP els/DA barbuts/AQ :/FF La/DA pluja/NC de/SP la/DA setmana/NC de/SP els/DA barbu

@@ -6121,4 +6121,100 @@ Enllaços/NC externs/AQ ./FF
 Fitxa_de_el_Senat/NP ;/FF
 Physalaemus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP l'/DA Amèrica_Central/NP i/CC Sud-Amèrica/NP ./FF
 Espècies/NP ./FF
-Physalaemus/NP aguirrei/NC ;/FF Physalaemus/NP albifrons/NC ;/FF Physalaemus/NP albonotatus/NC ;/FF Physalaemus/NP angrensis/NC ;/FF Physalaemus/NP atlanticus/NC ;/FF Physalaemus/NP barrioi/NC ;/FF Physalaemus/NP biligonigerus/NC ;/FF Physalaemus/NP bokermanni/NC ;/FF Physalaemus/NP caete/NC ;/FF Physalaemus/NP camacan/VM ;/FF Physalaemus/NP centralis/NC ;/FF Physalaemus/NP cicada/NC ;/FF Physalaemus/NP coloradorum/NC ;/FF Physalaemus/NP crombiei/NC ;/FF Physalaemus/NP cuqui/VM ;/FF Physalaemus/NP cuvieri/NC ;/FF Physalaemus/NP deimaticus/NC ;/FF Physalaemus/NP ephippifer/VM ;/FF Physalaemus/NP erythros/NC ;/FF Physalaemus/NP evangelistai/NC ;/FF Physalaemus/NP fernandezae/AQ ;/FF Physalaemus/NP fischeri/NC ;/FF Physalaemus/NP fuscomaculatus/NC ;/FF Physalaemus/NP gracilis/NC ;/FF Physalaemus/NP henselii/NC ;/FF Physalaemus/NP jordanensis/NC ;/FF Physalaemus/NP kroyeri/NC ;
+Physalaemus/NP aguirrei/NC ;/FF Physalaemus/NP albifrons/NC ;/FF Physalaemus/NP albonotatus/NC ;/FF Physalaemus/NP angrensis/NC ;/FF Physalaemus/NP atlanticus/NC ;/FF Physalaemus/NP barrioi/NC ;/FF Physalaemus/NP biligonigerus/NC ;/FF Physalaemus/NP bokermanni/NC ;/FF Physalaemus/NP caete/NC ;/FF Physalaemus/NP camacan/VM ;/FF Physalaemus/NP centralis/NC ;/FF Physalaemus/NP cicada/NC ;/FF Physalaemus/NP coloradorum/NC ;/FF Physalaemus/NP crombiei/NC ;/FF Physalaemus/NP cuqui/VM ;/FF Physalaemus/NP cuvieri/NC ;/FF Physalaemus/NP deimaticus/NC ;/FF Physalaemus/NP ephippifer/VM ;/FF Physalaemus/NP erythros/NC ;/FF Physalaemus/NP evangelistai/NC ;/FF Physalaemus/NP fernandezae/AQ ;/FF Physalaemus/NP fischeri/NC ;/FF Physalaemus/NP fuscomaculatus/NC ;/FF Physalaemus/NP gracilis/NC ;/FF Physalaemus/NP henselii/NC ;/FF Physalaemus/NP jordanensis/NC ;/FF Physalaemus/NP kroyeri/NC ;/FF Physalaemus/NP lisei/NC ;/FF Physalaemus/NP maculiventris/NC ;/FF Physalaemus/NP maximus/NC ;/FF Physalaemus/NP montubio/NC ;/FF Physalaemus/NP moreirae/AQ ;/FF Physalaemus/NP nanus/NC ;/FF Physalaemus/NP nattereri/NC ;/FF Physalaemus/NP obtectus/NC ;/FF Physalaemus/NP olfersii/NC ;/FF Physalaemus/NP petersi/NC ;/FF Physalaemus/NP pustulatus/NC ;/FF Physalaemus/NP pustulosus/NC ;/FF Physalaemus/NP randi/VM ;/FF Physalaemus/NP riograndensis/NC ;/FF Physalaemus/NP rupestris/NC ;/FF Physalaemus/NP santafecinus/NC ;/FF Physalaemus/NP signifer/VM ;/FF Physalaemus/NP soaresi/NC ;/FF Physalaemus/NP spiniger/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Physalaemus/NP aguirrei/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Physalaemus/NP aguirrei/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Godinotia/NP és/VS un/DI gènere/NC extingit/VM de/SP prosimis/NC semblants/AQ a/SP els/DA lèmurs/NC i/CC que/PR pertanyien/VM a/SP la/DA família/NC de/SP els/DA adàpids/AQ (/FF Adapidae/NP )/FF ./FF
+Visqueren/VM durant/SP l'/DA Eocè/NP (/FF fa/VM 49_milions/ZZ d'/SP anys/NC )/FF i/CC els/DA fòssils/NC que/PR se/P0 n'/PP ha/VA trobat/VM a/SP el/DA jaciment/NC de/SP Messel/NP mostren/VM que/CS ja/RG tenia/VM alguns/PI de/SP els/DA trets/NC de/SP els/DA homínids/NC que/PR convertirien/VM els/DA primats/NC en/SP un/DI grup/NC tan/RG reeixit/VM ./FF
+És/VS un/DI de/SP els/DA primats/NC més/RG primitius/AQ coneguts/NC ,/FF però/CC els/DA seus/PX orígens/NC continuen/VM sent/VS polèmics/AQ :/FF alguns/DI afirmen/VM que/CS el/DA primat/NC més/RG primitiu/AQ té/VM setanta_milions/ZZ d'/SP anys/NC ,/FF però/CC això/PD es/P0 basa/VM en/SP una/DI única/AQ dent/NC fossilitzada/VM ./FF
+Els/DA fòssils/NC de/SP primats/NC més/RG antics/AQ datats/VM sense/SP dubte/NC són/VS de/SP fa/VM uns/DI 55_milions/ZZ d'/SP anys/NC i/CC pertanyen/VM a/SP animals/NC similars/AQ a/SP Godinotia/NP ./FF
+Els/DA fòssils/NC també/RG mostren/VM que/CS Godinotia/NP era/VS especialment/RG vulnerable/AQ a/SP els/DA atacs/NC de/SP els/DA cocodrils/NC ,/FF que/PR els/PP podrien/VM haver/VA caçat/VM a/SP les/DA ribes/NC de/SP els/DA rius/NC quan/PR s'/P0 hi/PP acostaven/VM a/SP beure/VM ./FF
+Els/DA Godinotia/NP feien/VM uns/DI trenta_centímetres/ZZ de/SP llarg/AQ sense/SP comptar/VM la/DA cua/NC ;/FF eren/VS més/RG petits/AQ que/CS un/DI gat/NC domèstic/AQ ./FF
+Com/CS tots/DI els/DA primats/NC més/RG primitius/AQ ,/FF Godinotia/NP vivia/VM a/SP la/DA copa/NC de/SP els/DA arbres/NC ,/FF on/PR hi/PP havia/VA menjar/NC abundant/AQ i/CC hi/PP havia/VA pocs/DI predadors/NC grans/AQ ./FF
+Per/SP moure/VM 's/PP i/CC alimentar/VM -se/PP ,/FF utilitzava/VM la/DA seva/PX excel·lent/AQ visió/NC esteoroscòpica/AQ ,/FF llargues/AQ potes/NC i/CC mans/NC que/PR podien/VM agafar/VM coses/NC ,/FF de_manera_que/CS es/P0 podien/VM gronxar/VM a/SP les/DA branques/NC o/CC d'/SP arbre/NC en/SP arbre/NC ./FF
+Els/DA seus/PX ulls/NC eren/VS grans/AQ ,/FF cosa/NC que/PR fa/VM pensar/VM que/CS probablement/RG eren/VS nocturns/AQ ,/FF i/CC la/DA forma/NC de/SP les/DA seves/PX dents/NC suggereix/VM que/CS menjaven/VM insectes/NC i/CC fruita/NC ./FF
+El/DA mascle/NC i/CC la/DA femella/NC eren/VS més_o_menys/RG de/SP la/DA mateixa/DI mida/NC ,/FF cosa/NC que/PR ,/FF segons/SP l'/DA exemple/NC de/SP les/DA espècies/NC actuals/AQ ,/FF probablement/RG vol/VM dir/VM que/CS eren/VS animals/AQ solitaris/NC que/PR només/RG es/P0 trobaven/VM per/SP aparellar/VM -se/PP ./FF
+La/DA gran/AQ mida/NC de/SP l'/DA ós/NC de/SP el/DA penis/NC de/SP Godinotia/NP indica/VM que/CS l'/DA aparellament/NC durava/VM un/DI llarg/AQ temps/NC ,/FF possiblement/RG hores/NC ./FF
+El/DA mascle/NC ho/PP feia/VM per/SP assegurar/VM -se/P0 que/CS la/DA femella/NC es/P0 quedaria/VM embarassada/VM d'/SP ell/PP ./FF
+El/DA gènere/NC deu/VM el/DA seu/PX nom/NC a/SP l'/DA investigador/NC de/SP primats/NC Marc_Godinot/NP ./FF
+Physalaemus/NP albifrons/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Andrade/NP ,/FF G._&_Junca/NP ,/FF F./NP 2004/ZZ ./FF
+Physalaemus/NP albifrons/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP albonotatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF Uruguai/NP ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Silvano/NP ,/FF D._&_Langone/NP ,/FF J./NP 2004/ZZ ./FF
+Physalaemus/NP albonotatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP atlanticus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Cox/NP ,/FF N._&_Stuart/NP ,/FF S.N./NP 2004/ZZ ./FF
+Physalaemus/NP atlanticus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP barrioi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Verdade/NP ,/FF V./NP 2004/ZZ ./FF
+Physalaemus/NP barrioi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP biligonigerus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC Uruguai/NP ./FF
+Referències/NP ./FF
+Kwet/NP ,/FF A./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Aquino/NP ,/FF L./NP ,/FF Silvano/NP ,/FF D./NP ,/FF Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Physalaemus/NP biligonigerus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP bokermanni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Verdade/NP ,/FF V./NP 2004/ZZ ./FF
+Physalaemus/NP bokermanni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Deep_Blue/NP era/VS una/DI computadora/NC d'/SP IBM/NP que/PR jugava/VM a/SP els/DA escacs/NC ./FF
+El/DA seu/PX nom/NC es/P0 pot/VM traduïr/VM a/SP el/DA català/NC com/CS a/SP "/FF Blau_Fosc/NP "/FF ./FF
+Deep_Blue/NP va/VA ser/VS la/DA primera/AO computadora/NC que/PR va/VA guanyar/VM a/SP un/DI Campió_de_el_Món/NP ,/FF Garry_Kasparov/NP ,/FF amb/SP un/DI ritme/NC de/SP joc/NC lent/AQ ./FF
+Això/PD va/VA passar/VM el/DA 10_de_febrer_de_1996/WW ,/FF en/SP una/DI memorable/AQ partida/NC ./FF
+Tot/PI i/CC això/PD ,/FF Kasparov/NP va/VA guanyar/VM 3/ZZ i/CC va/VA empatar/VM 2/ZZ de/SP les/DA següents/AQ partides/NC ,/FF derrotant/VM a/SP Deep_Blue/NP per/SP 4-2/ZZ ./FF
+La/DA trobada/NC es/P0 va/VA acabar/VM el/DA 17_de_febrer_de_1996/WW ./FF
+Deep_Blue/NP va/VA anar/VM millorant/AQ i/CC va/VA jugar/VM de/SP nou/AQ contra/SP Kasparov/NP el/DA maig_de_1997/WW ,/FF guanyant/VM la/DA trobada/NC a/SP 6/ZZ partides/NC per/SP 3/ZZ '/FF 5-2/ZZ '/FF 5/ZZ ,/FF el/DA que/PR el/PP va/VA convertir/VM en/SP la/DA primera/AO computadora/NC en/SP derrotar/VM a/SP un/DI campió/NC de/SP el/DA món/NC ,/FF en/SP una/DI trobada/NC amb/SP un/DI ritme/NC de/SP joc/NC de/SP torneig/NC estàndar/NC ./FF
+La/DA trobada/NC va/VA acabar/VM el/DA 11_de_maig/WW ./FF
+El/DA sistema/NC treu/VM la/DA seva/PX força/NC de/SP joc/NC principalment/RG en/SP la/DA força/NC bruta/AQ que/PR calcula/VM el/DA sistema/NC central/AQ ./FF
+Era/VS una/DI potència/NC paral·lela/AQ ,/FF de/SP 30/ZZ nods/NC ,/FF RS/6000/ZZ ,/FF SP-based/NP el/DA sistema/NC informàtico/NC millorat/VM amb/SP 480/ZZ VLSI/NP amb/SP l'/DA objectiu/NC especial/AQ de/SP jugar/VM a/SP els/DA escacs/NC ./FF
+El/DA seu/PX programa/NC de/SP joc/NC d'/SP escacs/NC va/VA ser/VS escrit/VM en/SP C/NP i/CC va/VA funcionar/VM amb/SP el/DA sistema/NC operatiu/AQ AIX/NP ./FF
+Era/VS capaç/AQ de/SP calcular/VM 200/ZZ millons/NC de/SP posicions/NC per/SP segon/AO ,/FF dues/ZZ vegades/NC més/RG ràpid/AQ que/CS la/DA versió/NC de/SP 1996/ZZ ./FF
+El/DA juny_de_1997/WW ,/FF Deep_Blue/NP era/VS el/DA 259/ZZ super-ordinador/NC més/RG poderó/NC ,/FF capaç/AQ de/SP calcular/VM 11.38/ZZ gigaflops/NC ,/FF tot_i_que/CS tota/DI aquesta/DD potència/NC no/RN estava/VM pensada/NC en_realitat/RG per/SP jugar/VM a/SP els/DA escacs/NC ./FF
+Crítiques/NP ./FF
+Les/DA principals/AQ crítiques/NC de/SP Deep_Blue/NP tenen/VM a/SP veure/VM especialment/RG amb/SP les/DA actuacions/NC d'/SP IBM/NP després/RG de/SP la/DA partida/NC ,/FF Deep_Blue/NP va/VA ser/VS desmontada/VM ,/FF i/CC no/RN es/P0 va/VA acceptar/VM una/DI revenja/NC que/PR havia/VA demanat/VM Kasparov/NP ,/FF ja_que/CS ell/PP va/VA dir/VM que/CS en/SP el/DA joc/NC s'/P0 havien/VA fet/VM trampes/NC i/CC que/CS en_realitat/RG Deep_Blue/NP no/RN estava/VM en/SP capacitat/NC de/SP guanyar/VM -lo/PP ./FF
+Altres/DI problemes/NC amb/SP aquesta/DD computadora/NC és/VS que/CS la/DA lògica/NC de/SP el/DA seu/PX sistema/NC no/RN és/VS millor/AQ que/CS la/DA d'/SP un/DI insecte/NC ,/FF però/CC si/CS en_realitat/RG Deep_Blue/NP va/VA guanyar/VM Kasparov/NP nómes/NC ho/PP va/VA poder/VM fer/VM fent/VM càlculs/NC de/SP possibles/AQ partits/NC a/SP una/DI velocitat/NC que/PR sobrepassa/VM qualsevol/DI procés/NC humà/AQ ./FF
+Honori/VM Garcia/NP i/CC Garcia/NP (/FF La/DA Vall_d'_Uixó/NP ,/FF 23_de_febrer_de_1896/WW -/FF La/DA Vall_d'_Uixó/NP ,/FF 9_d'_octubre_de_1953/WW )/FF va/VA ser/VS un/DI notari/NC ,/FF historiador/NC i/CC publicista/NC valencià/AQ ./FF
+Va/VA estudiar/VM Dret/NP a/SP València/NP i/CC Saragossa/NP i/CC es/P0 va/VA doctorar/VM a/SP Madrid/NP ./FF
+L'/DA any/NC 1935/ZZ va/VA establir/VM -se/P0 com/CS a/SP notari/NC a/SP Vic/NP on/PR va/VA fundar/VM el/DA Patronat_d'_Estudis_Ausonencs/NP ./FF
+Va/VA publicar/VM diversos/DI treballs/NC sobre/SP Dret_Foral/NP a/SP el/DA Butlletí_de_la_Societat_Castellonenca_de_Cultura/NP i/CC va/VA col·laborar/VM en/SP diverses/DI publicacions/NC de/SP caràcter/NC periòdic/AQ ,/FF entre/SP elles/PP els/DA Estudis_Històrics/NP i/CC Documentals_de_els_Arxius_de_Protocol_de_el_Col·legi_Notarial_de_Barcelona/NP ./FF
+Des_de/SP l'/DA any/NC 1946/ZZ va/VA ser/VS membre/NC corresponent/AQ de/SP el/DA Centre_de_Cultura_Valenciana/NP ./FF
+També/RG va/VA formar_part/VM de/SP la/DA Junta_de_Cultura_de_el_Col·legi_Notarial_de_Barcelona/NP ./FF
+La/DA seua/PX obra/NC comprèn/VM més/RG 50/ZZ publicacions/NC sobre/SP dret/NC i/CC història/NC valenciana/AQ i/CC vigatana/AQ ./FF
+Va/VA ser/VS un/DI de/SP els/DA signataris/NC de/SP les/DA Normes_de_Castelló/NP ,/FF l'/DA any/NC 1932/ZZ ./FF
+Bibliografia/NP ./FF
+Lluís_Gimeno_Betí_Panorama/NP sumari/NC de/SP les/DA lletres/NC valencianes/AQ ./FF
+Escriptors/NP castellonencs/AQ de/SP els/DA segles/NC XIX/NP a/SP el/DA XX_Castelló_de_la_Plana/NP :/FF Societat_Castellonenca_de_Cultura/NP ,/FF 2006/ZZ ./FF
+ISBN/NP 8486113350/ZZ ;/FF Vicente_Gascón_Pelegrí/NP ./FF
+Prohombres/NP valencianos/NC en/SP los/NC últimos/AQ cien/VM años/AQ ,/FF 1878-1978/ZZ ./FF
+València/NP ./FF
+Caixa_d'_Estalvis_de_València/NP ,/FF 1978/ZZ ./FF
+ISBN/NP 845002603X/ZZ ;/FF
+Uranòpolis/NP fou/VS una/DI ciutat/NC de/SP la/DA Península_Calcídica/NP de/SP la/DA que/PR s'/P0 han/VA trobat/VM força/RG monedes/NC ./FF
+Fou/VS fundada/VM per/SP Alexarc_de_Macedònia/NP ,/FF germà/NC deCassandre/VM de/SP Macedònia/NP ./FF
+Uranòpolis/NP fou/VS també/RG el/DA nom/NC d'/SP un/DI bisbat/NC a/SP Galàcia/NP ,/FF deformació/NC de/SP el/DA nom/NC correcte/AQ de/SP Verinòpolis/NP ./FF
+Un/DI Registre_MX/NP o/CC Mail/NP eXchange/NC Record/NP (/FF registre/NC d'/SP intercanvi/NC de/SP correu/NC )/FF és/VS un/DI tipus/NC de/SP registre/NC ,/FF un/DI recurs/NC DNS/NP que/PR especifica/VM com_ha_de_ser/RG encaminat/VM un/DI correu/NC electrònic/AQ a/SP Internet/NP ./FF
+Els/DA registres/NC MX/NP apunten/VM a/SP els/DA servidors/NC a/SP els/DA quals/PR s'/P0 envia/VM un/DI correu/NC electrònic/AQ ,/FF i/CC a/SP quin/DT ha/VA de/SP ser/VS enviat/VM en/SP primer/AO lloc/NC ,/FF per/SP prioritat/NC ./FF
+Quan/CS un/DI missatge/NC de/SP correu/NC electrònic/AQ és/VS enviat/VM a/SP través/NC d'/SP Internet/NP ,/FF el/DA remitent/NC (/FF l'/DA agent/NC de/SP transferència/NC de/SP correu/NC -/FF MTA_Mail_Transfer_Agent/NP )/FF fa/VM una/DI petició/NC a/SP el/DA DNS/NP sol·licitant/VM el/DA registre/NC MX/NP per/SP a/SP els/DA noms/NC de/SP el/DA domini/NC de/SP destí/NC ./FF
+El/DA nom/NC de/SP domini/NC és/VS la/DA part/NC de/SP la/DA direcció/NC de/SP correu/NC que/PR va/VA a/SP continuació/NC de/SP la/DA "/FF @/FF "/FF ./FF
+Aquesta/DD consulta/NC retorna/VM una/DI llista/NC de/SP noms/NC de/SP dominis/NC de/SP servidors/NC d'/SP intercanvi/NC de/SP correu/NC que/PR accepten/VM correu/NC entrant/AQ per/SP a/SP dit/VM domini/NC ,/FF junt/AQ amb/SP un/DI número/NC de/SP preferència/NC ./FF
+LLavors/RG ,/FF l'/DA agent/NC emisor/NC (/FF o/CC remitent/NC )/FF intenta/VM establir/VM una/DI connexió/NC SMTP/NP (/FF Simple_Mail_Transfer_Protocol/NP -/FF Protocol_Simple_de_Transferència_de_Correu/NP )/FF cap/SP a/SP un/PI d'/SP aquests/DD servidors/NC ,/FF començant/VM amb/SP el/DA que/PR pot/VM establir/VM una/DI connexió/NC ./FF
+Si/CS no/RN hi/PP ha/VA registres/NC MX/NP disponibles/AQ ,/FF una_segona/ZZ petició/NC és/VS solicitada/VM per/SP el/DA registre/NC A/NP (/FF A/SP Record/NP )/FF de/SP el/DA domini/NC en/SP el/DA seu/PX lloc/NC ./FF
+El/DA mecanisme/NC MX/NP permet/VM utilitzar/VM múltiples/NC servidors/AQ de/SP correu/NC per/SP a/SP un_sol/ZZ domini/NC i/CC estableix/VM l'/DA ordre/NC en/SP el/DA qual/PR haurien/VA de/SP ser/VS interrogats/VM ,/FF augmentant/VM la/DA probabilitat/NC que/CS el/DA correu/NC pugui/VM ser/VS entregat/VM i/CC proporcionant/VM la/DA capacitat/NC de/SP distribuir/VM el/DA processament/NC de/SP el/DA correu/NC entrant/AQ a_través_de/SP múltiples

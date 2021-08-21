@@ -6217,4 +6217,131 @@ El/DA nom/NC de/SP domini/NC és/VS la/DA part/NC de/SP la/DA direcció/NC de/SP
 Aquesta/DD consulta/NC retorna/VM una/DI llista/NC de/SP noms/NC de/SP dominis/NC de/SP servidors/NC d'/SP intercanvi/NC de/SP correu/NC que/PR accepten/VM correu/NC entrant/AQ per/SP a/SP dit/VM domini/NC ,/FF junt/AQ amb/SP un/DI número/NC de/SP preferència/NC ./FF
 LLavors/RG ,/FF l'/DA agent/NC emisor/NC (/FF o/CC remitent/NC )/FF intenta/VM establir/VM una/DI connexió/NC SMTP/NP (/FF Simple_Mail_Transfer_Protocol/NP -/FF Protocol_Simple_de_Transferència_de_Correu/NP )/FF cap/SP a/SP un/PI d'/SP aquests/DD servidors/NC ,/FF començant/VM amb/SP el/DA que/PR pot/VM establir/VM una/DI connexió/NC ./FF
 Si/CS no/RN hi/PP ha/VA registres/NC MX/NP disponibles/AQ ,/FF una_segona/ZZ petició/NC és/VS solicitada/VM per/SP el/DA registre/NC A/NP (/FF A/SP Record/NP )/FF de/SP el/DA domini/NC en/SP el/DA seu/PX lloc/NC ./FF
-El/DA mecanisme/NC MX/NP permet/VM utilitzar/VM múltiples/NC servidors/AQ de/SP correu/NC per/SP a/SP un_sol/ZZ domini/NC i/CC estableix/VM l'/DA ordre/NC en/SP el/DA qual/PR haurien/VA de/SP ser/VS interrogats/VM ,/FF augmentant/VM la/DA probabilitat/NC que/CS el/DA correu/NC pugui/VM ser/VS entregat/VM i/CC proporcionant/VM la/DA capacitat/NC de/SP distribuir/VM el/DA processament/NC de/SP el/DA correu/NC entrant/AQ a_través_de/SP múltiples
+El/DA mecanisme/NC MX/NP permet/VM utilitzar/VM múltiples/NC servidors/AQ de/SP correu/NC per/SP a/SP un_sol/ZZ domini/NC i/CC estableix/VM l'/DA ordre/NC en/SP el/DA qual/PR haurien/VA de/SP ser/VS interrogats/VM ,/FF augmentant/VM la/DA probabilitat/NC que/CS el/DA correu/NC pugui/VM ser/VS entregat/VM i/CC proporcionant/VM la/DA capacitat/NC de/SP distribuir/VM el/DA processament/NC de/SP el/DA correu/NC entrant/AQ a_través_de/SP múltiples/NC servidors/AQ físics/AQ ./FF
+Aquesta/DD característica/NC resulta/VM molt/RG útil/AQ aplicada/VM a/SP un/DI clúster/NC d'/SP alta/AQ disponibilitat/NC amb/SP portes/NC d'/SP enllaços/NC de/SP correu/NC barates/AQ ,/FF que/PR són/VS capaces/AQ de/SP processar/VM cents/NC de/SP missatges/NC per/SP segon/NC (/FF a_més_a_més/RG de/SP posar/VM en/SP quarentena/NC o/CC remoure/VM spam/NC i/CC //FF o/CC virus/NC ./FF
+El/DA mecanisme/NC MX/NP no/RN garantitza/VM la/DA capacitat/NC de/SP proporcionar/VM un/DI servei/NC de/SP correu/NC a/SP els/DA ports/NC TCP/NP i/CC UDP/NP alternatius/AQ ,/FF ni/CC tampoc/RG la/DA de/SP el/DA balanç/NC de/SP càrrega/NC en/SP un/DI conjunt/NC de/SP servidors/NC d'/SP igual/AQ prioritat/NC (/FF per/SP mitjà/NC d'/SP assignació/NC de/SP valors/NC de/SP càrrega/NC per/SP a/SP cada/DI un/DI )/FF ./FF
+A/SP data/NC de/SP el/DA 2004/ZZ ,/FF alguns/DI MTA/NP (/FF Mail_Transfer_Agent/NP )/FF ,/FF el/DA més/RG notable/AQ d'/SP ells/PP exim/NC ,/FF suporten/VM l'/DA ús/NC de/SP SRV/NP records/NC per/SP a/SP la/DA publicació/NC de/SP direccions/NC IP/NP ,/FF ports/NC ,/FF prioritat/NC i/CC pes/NC de/SP els/DA servidors/NC de/SP correu/NC ./FF
+Prioritat_MX/NP ./FF
+Un/DI punt/NC principal/AQ de/SP confusió/NC és/VS el/DA funcionament/NC de/SP el/DA sistema/NC de/SP selecció/NC de/SP prioritat/NC MX/NP ./FF
+La/DA prioritat/NC relativa/AQ d'/SP un/DI servidor/NC MX/NP vé/VM determinada/VM per/SP el/DA número/NC de/SP preferència/NC present/AQ en/SP el/DA registre/NC MX_de_el_DNS/NP ./FF
+Quan/CS un/DI client/NC remot/AQ (/FF habitualment/RG un/DI altre/DI servidor/NC de/SP correu/NC )/FF fa/VM un/DI MX/NP lookup/NC (/FF operació/NC de/SP búsqueda/VM )/FF per/SP a/SP el/DA nom/NC de/SP domini/NC ,/FF aquest/PD aconsegueix/VM una/DI llista/NC de/SP servidors/NC i/CC els/DA seus/PX números/NC de/SP preferències/NC El/NP registre/VM MX/NP amb/SP un/DI número/NC de/SP preferència/NC més/RG petit/AQ té/VM la/DA major/AQ prioritat/NC i/CC serà/VS el/DA primer/AO en/SP ser/VS provat/VM ./FF
+El/DA client/NC remot/AQ continuarà/VM recorrent/VM ,/FF de/SP major/AQ a/SP menor/AQ prioritat/NC ,/FF la/DA llista/NC de/SP servidors/NC fins/SP que/PR aconsegueixi/VM entregar/VM amb/SP èxit/NC el/DA missatge/NC ,/FF o/CC aquest/PD estigui/VM permanentment/RG rebutjat/VM degut/VM a/SP un/DI missatge/NC de/SP el/DA servidor/NC incomunicable/AQ o/CC a/SP que/PR la/PP conta/VM de/SP correu/NC no/RN existeixi/VM en/SP el/DA servidor/NC ./FF
+Si/CS hi/PP ha/VA més/RG d'/SP una_sola/ZZ entrada/NC amb/SP el/DA mateix/DI número/NC de/SP preferència/NC ,/FF tots/DI ells/PP han/VA de/SP ser/VS provats/VM abans/RG de/SP desplaçar/VM -se/P0 a/SP una/DI entrada/NC amb/SP menor/AQ prioritat/NC ./FF
+Una/DI tècnica/NC habitual/AQ de/SP els/DA spammers/NC és/VS conectar/VM -se/P0 a/SP el/DA servidor/NC de/SP menor/AQ prioritat/NC MX/NP d'/SP un/DI domini/NC (/FF els/DA que/PR posseeixen/VM el/DA valor/NC numèric/AQ més/RG gran/AQ )/FF com/PR a/SP intent/NC d'/SP evitar/VM els/DA filtres/NC anti-spam/NC que/PR poden/VM ser/VS executats/VM a/SP el/DA servidor/NC MX/NP primari/AQ (/FF de/SP més/RG alta/AQ prioritat/NC )/FF ./FF
+Els/DA virus/NC informàtics/AQ també/RG han/VA sigut/VM coneguts/VM per/SP utilitzar/VM aquesta/DD tècnica/AQ en/SP un/DI esforç/NC per/SP evitar/VM els/DA programes/NC antivirus/AQ ./FF
+Vegi/VM 's/PP també/RG ./FF
+LOC/NP record/NC ;/FF SRV/NP record/NC ;/FF Email/NP hub/NC :/FF MX/NP basat/VM en/SP càrrega/NC balancejada/VM i/CC en/SP failover/NC simple/AQ ./FF
+Referències/NP ./FF
+RFC/NP 974/ZZ (/FF 1986/ZZ )/FF ,/FF Mail_Routing/NP and/AQ the/AQ Domain_System/NP (/FF obsolet/AQ )/FF ;/FF RFC/NP 2821/ZZ (/FF 2001/ZZ )/FF ,/FF Simple_Mail_Transfer_Protocol/NP (/FF protocol/NC simple/AQ de/SP transferència/NC de/SP correu/NC )/FF ;/FF Enllaços/NP externs/AQ ./FF
+"/FF Moving/NP a/SP message/NC closer/RG to/NC a/SP remote/NC recipient/AQ "/FF ,/FF part/NC de/SP la/DA guia/NC de/SP la/DA infraestructura/NC de/SP el/DA correu/NC de/SP Daniel_J._Bernstein/NP -/FF en/SP Anglès/NP ./FF
+Understanding_MX_Records/NP ;/FF Eines/NP per/SP trobar/VM els/DA servidors/NC de/SP correu/NC utilitzats/VM per/SP una/DI direcció/NC d'/SP e-mail/NC :/FF Mail_Test/NP tool/VM shows/NC the/AQ exact/VM order/VM that/NC MX/NP records/NC are/NC used/AQ ;/FF Domain_Mail_Server/NP //FF Exchanger/NP (/FF MX_Records/NP )/FF Lookup/NP ;/FF
+El/DA Muséum/NP national/AQ d'/SP histoire/NC naturelle/AQ (/FF Museu_Nacional_d'_Història_Natural/NP )/FF és/VS una/DI institució/NC pública/AQ d'/SP investigació/NC científica/AQ francesa/AQ ./FF
+Depèn/VM de/SP el/DA Ministeri_d'_Educació_General/NP ,/FF el/DA Ministeri_d'_Educació_Superior/NP i/CC el/DA Ministeri_de_Medi_Ambient/NP ./FF
+Les/DA seves/PX funcions/NC principals/AQ són/VS la/DA conservació/NC de/SP col·leccions/NC científiques/AQ ,/FF la/DA investigació/NC científica/AQ ,/FF la/DA formació/NC superior/AQ i/CC la/DA difusió/NC de/SP la/DA cultura/NC científica/AQ en/SP l'/DA especialitat/NC pròpia/AQ de/SP la/DA institució/NC :/FF la/DA història/NC natural/AQ ./FF
+La/DA Galérie_de_l'_Evolution/NP és/VS una/PI de/SP les/DA sales_d'_exposicions/NC més/RG visitades/VM de/SP París/NP ./FF
+Després/RG de/SP romandre/VM tancada/VM durant/SP més/RG de/SP trenta/ZZ anys/NC ,/FF la/DA renovació/NC de/SP la/DA Galérie/NP es/P0 transformà/VM en/SP un/DI de/SP els/DA grans/AQ projects/NC de/SP l'/DA estat/NC francès/AQ ./FF
+Els/DA arquitectes/NC Paul_Chemetov/NP i/CC Borja_Huidobro/NP ,/FF juntament/RG amb/SP l'/DA escenògraf/NC René_Allio/NP i/CC el/DA museuògraf/NC Roberto_Benavente/NP guanyaren/VM el/DA concurs/NC internacional/AQ organitat/NC per/SP el/DA Ministeri_d'_Educació_Nacional/NP ./FF
+Escolliren/VM el/DA tema/NC de/SP l'/DA evolució/NC com/CS a/SP exposició/NC principal/AQ ./FF
+Els/DA treballs/NC de/SP renovació/NC es/P0 feren/VM entre/SP el/DA 1991/ZZ i/CC el/DA 1994/ZZ i/CC el/DA seu/PX cost/NC fou/VS de/SP 400_milions_de_francs/ZZ ./FF
+Directors/NP de/SP el/DA museu/NC ./FF
+1793/ZZ -/FF 1794/ZZ :/FF Louis_Jean-Marie_Daubenton/NP ./FF
+1794/ZZ -/FF 1795/ZZ :/FF Antoine-Laurent_de_Jussieu/NP ./FF
+1795/ZZ -/FF 1796/ZZ :/FF Bernard_de_Lacépède/NP ./FF
+1796/ZZ -/FF 1797/ZZ :/FF Louis_Jean-Marie_Daubenton/NP ./FF
+1797/ZZ -/FF 1798/ZZ :/FF Louis_Jean-Marie_Daubenton/NP ./FF
+1798/ZZ -/FF 1799/ZZ :/FF Antoine-Laurent_de_Jussieu/NP ./FF
+1799/ZZ -/FF 1800/ZZ :/FF Antoine-Laurent_de_Jussieu/NP ./FF
+1800/ZZ -/FF 1801/ZZ :/FF Antoine-François_de_Fourcroy/NP ./FF
+1802/ZZ -/FF 1803/ZZ :/FF René_Desfontaines/NP ./FF
+1804/ZZ -/FF 1805/ZZ :/FF Antoine-François_de_Fourcroy/NP ./FF
+1806/ZZ -/FF 1807/ZZ :/FF René_Desfontaines/NP ./FF
+1808/ZZ -/FF 1809/ZZ :/FF Georges_Cuvier/NP ./FF
+1810/ZZ -/FF 1811/ZZ :/FF René_Desfontaines/NP ./FF
+1812/ZZ -/FF 1813/ZZ :/FF André_Laugier/NP ./FF
+1814/ZZ -/FF 1815/ZZ :/FF André_Thouin/NP ./FF
+1816/ZZ -/FF 1817/ZZ :/FF André_Thouin/NP ./FF
+1818/ZZ -/FF 1819/ZZ :/FF André_Laugier/NP ./FF
+1820/ZZ -/FF 1821/ZZ :/FF René_Desfontaines/NP ./FF
+1822/ZZ -/FF 1823/ZZ :/FF Georges_Cuvier/NP ./FF
+1824/ZZ -/FF 1825/ZZ :/FF Louis_Cordier/NP ./FF
+1826/ZZ -/FF 1827/ZZ :/FF Georges_Cuvier/NP ./FF
+1828/ZZ -/FF 1829/ZZ :/FF René_Desfontaines/NP ./FF
+1830/ZZ -/FF 1831/ZZ :/FF Georges_Cuvier/NP ./FF
+1832/ZZ -/FF 1833/ZZ :/FF Louis_Cordier/NP ./FF
+1834/ZZ -/FF 1835/ZZ :/FF Adrien_de_Jussieu/NP ./FF
+1836/ZZ -/FF 1837/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1838/ZZ -/FF 1839/ZZ :/FF Louis_Cordier/NP ./FF
+1840/ZZ -/FF 1841/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1842/ZZ -/FF 1843/ZZ :/FF Adrien_de_Jussieu/NP ./FF
+1844/ZZ -/FF 1845/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1846/ZZ -/FF 1847/ZZ :/FF Adolphe_Brongniart/NP ./FF
+1848/ZZ -/FF 1849/ZZ :/FF Adrien_de_Jussieu/NP ./FF
+1850/ZZ -/FF 1851/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1852/ZZ -/FF 1853/ZZ :/FF André_Marie_Constant_Duméril/NP ./FF
+1854/ZZ -/FF 1855/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1856/ZZ -/FF 1857/ZZ :/FF Marie_Jean_Pierre_Flourens/NP ./FF
+1858/ZZ -/FF 1859/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1860/ZZ -/FF 1861/ZZ :/FF Isidore_Geoffroy_Saint-Hilaire/NP ./FF
+1862/ZZ -/FF 1863/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1863/ZZ -/FF 1879/ZZ :/FF Michel-Eugène_Chevreul/NP ./FF
+1879/ZZ -/FF 1891/ZZ :/FF Edmond_Frémy/NP ./FF
+1891/ZZ -/FF 1900/ZZ :/FF Alphonse_Milne-Edwards/NP ./FF
+1900/ZZ -/FF 1919/ZZ :/FF Edmond_Perrier/NP ./FF
+1919/ZZ -/FF 1931/ZZ :/FF Louis_Mangin/NP ./FF
+1932/ZZ -/FF 1936/ZZ :/FF Paul_Lemoine/NP ./FF
+1936/ZZ -/FF 1942/ZZ :/FF Louis_Germain/NP ./FF
+1942/ZZ -/FF 1949/ZZ :/FF Achille_Urbain/NP ./FF
+1950/ZZ -/FF 1950/ZZ :/FF René_Jeannel/NP ./FF
+1951/ZZ -/FF 1965/ZZ :/FF Roger_Heim/NP ./FF
+1966/ZZ -/FF 1970/ZZ :/FF Maurice_Fontaine/NP ./FF
+1971/ZZ -/FF 1975/ZZ :/FF Yves_Le_Grand/NP ./FF
+1976/ZZ -/FF 1985/ZZ :/FF Jean_Dorst/NP ./FF
+1985/ZZ -/FF 1990/ZZ :/FF Philippe_Taquet/NP ./FF
+1994/ZZ -/FF 1999/ZZ :/FF Henry_de_Lumley/NP ./FF
+2002-2006/ZZ :/FF Bernard_Chevassus-au-Louis/NP ./FF
+2006/ZZ -/FF .../FF André_Menez/NP ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NP oficial/AQ de/SP el/DA museu/NC ;/FF
+Verinòpolis/NP fou/VS una/DI ciutat/NC d'/SP Àsia_Menor/NP a/SP Galàcia/NP ./FF
+Es/P0 pensa/VM que/CS fou/VS la/DA romana/NC Evagina/NP ,/FF nom/NC deformat/VM a/SP Phubagina/NP ./FF
+Sota/SP els/DA bizantins/NC es/P0 va/VA dir/VM Verinòpolis/NP en_honor_de/SP Verina/NP la/DA sogre/NC de/SP l'/DA emperador/NC Zenó/NP ,/FF nom/NC que/PR es/P0 va/VA deformar/VM a/SP Uranòpolis/NP ./FF
+Fou/VS seu/NC d'/SP un/DI bisbat/NC esmentat/VM entre/SP els/DA segles/NC VI/NP i/CC IX/NP ./FF
+Les/DA seves/PX ruïnes/NC foren/VS descobertes/NC a/SP el/DA sud-oest/NC de/SP Kehune/NP a/SP el/DA vilayat/VM d'/SP Ankara/NP ./FF
+Physalaemus/NP caete/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Freire/NP ,/FF E.M.X._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP caete/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP centralis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP i/CC Paraguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Colli/VM ,/FF G./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Aquino/NP ,/FF L./NP ,/FF Scott/NP ,/FF N._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP centralis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP cicada/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Arzabe/NP ,/FF C._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP cicada/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Els/DA Evangelis/NP parlen/VM de/SP els/DA Germans_de_Jesús/NP com/CS un/DI grup/NC ben/RG definit/VM que/CS es/P0 distingeix/VM de/SP els/DA deixebles/NC ,/FF aquells/PD que/PR Jesús/NP ha/VA cridat/VM per/SP compartir/VM la/DA seva/PX missió/NC ./FF
+Tots/DI dos/ZZ grups/NC apareixen/VM ben/RG diferenciats/VM a/SP l'/DA episodi/NC de/SP les/DA noces/NC de/SP Canaa/NP ,/FF que/PR s'/P0 acaba/VM així/RG :/FF Després/RG d'/SP això/PD va/VA baixar/VM a/SP Cafarnaüm/NP amb/SP la/DA seva/PX mare/NC ,/FF els/DA seus/PX germans/NC i/CC els/DA seus/PX deixebles/NC (/FF Joan/NP 2,12/ZZ )/FF ./FF
+Interpretacions/NC possibles/AQ ./FF
+Jesús/NP tingué/VM quatre/ZZ germans/NC ,/FF segons/SP els/DA Evangelis/NP :/FF (/FF .../FF )/FF els/DA seus/PX germans/NC Jaume/NP ,/FF Josep/NP ,/FF Simó/NP i/CC Judes/NP (/FF .../FF )/FF (/FF Mateu/VM 13,55/ZZ i/CC Marc/NP 6,3/ZZ )/FF ./FF
+I/CC també/RG dues/ZZ germanes/NC de/SP qui/PR desconeixem/VM els/DA noms/NC ./FF
+L'/DA existència/NC d'/SP aquests/DD germans/NC de/SP Jesús/NP planteja/VM una/DI controvèrsia/NC amb/SP la/DA suposada/VM virginitat/NC de/SP la/DA seva/PX mare/NC ,/FF Maria/NP ./FF
+Segons/SP Armand_Puig/NP i/CC Tàrrech/NP hi/PP ha/VA quatre/ZZ lectures/NC possibles/AQ :/FF Josep/NP i/CC Maria/NP serien/VS els/DA pares/NC biològics/AQ i/CC legals/AQ de/SP tots/DI ./FF
+Els/DA germans/NC de/SP Jesús/NP són/VS cosins/NC ;/FF Fills/NP d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ;/FF Maria/NP seria/VS la/DA mare/NC comuna/AQ de/SP tots/DI ells/PP ;/FF Josep/NP i/CC Maria/NP pares/NC biològics/AQ ./FF
+Aquesta/DD és/VS la/DA posició/NC que/PR defensen/VM els/DA autors/NC racionalistes/AQ i/CC alguns/DI crítics/NC ./FF
+Opinió/NP contraposada/VM a/SP els/DA Evangelis/NP i/CC a/SP la/DA tradició/NC cristiana/AQ primitiva/AQ ./FF
+Els/DA germans/NC de/SP Jesús/NP serien/VS doncs/RG ,/FF fills/NC de/SP Josep/NP i/CC Maria/NP i/CC ell/PP el/DA primogènit/NC de/SP el/DA seu/PX pare/NC ,/FF de/SP el/DA llinatge/NC de/SP David/NP i/CC ,/FF per/SP tant/RG ,/FF amb/SP pretensions/NC messiàniques/AQ ./FF
+Cosins_de_Jesús/NP ./FF
+Els/DA germans/NC de/SP Jesús/NP serien/VS en_realitat/RG cosins_germans/NC seus/PX ./FF
+Sant_Jeroni/NP defensà/VM aquesta/DD posició/NC a/SP finals/NC de/SP el/DA segle_IV/WW ./FF
+Josep/NP seria/VS un/DI «/FF guardià/NC més/RG que/CS no/RN pas/VM un/DI marit/NC »/FF ./FF
+L'/DA argumentació/NC de/SP Sant_Jeroni/NP es/P0 fonamenta/VM en/SP la/DA llengua/NC hebrea/AQ que/PR no/RN té/VM un/DI terme/NC definit/VM per/SP anomenar/VM els/DA cosins/NC ,/FF en/SP la/DA Bíblia/NP es/P0 parla/VM de/SP germans/NC quan/PR en_realitat/RG son/VM cosins/NC ./FF
+Els/DA germans/NC de/SP Jesús/NP serien/VS cosins/NC seus/PX i/CC ell/PP seria/VS fill/NC únic/AQ ./FF
+Versió/NP (/FF James_Tabor/NP )/FF ;/FF Fills/NP d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ./FF
+Per/SP defensar/VM el/DA dogma/NC de/SP la/DA virginitat/NC de/SP Maria/NP ,/FF mare/NC de/SP Jesús/NP ,/FF abans/RG i/CC després/RG de/SP el/DA part/NC ,/FF sorgí/VM en/SP els/DA autors/NC cristians/AQ l'/DA idea/NC de/SP què/PT els/DA germans/NC de/SP Jesús/NP eren/VS en_realitat/RG fills/NC d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ./FF
+Eren/VS ,/FF per/SP tant/RG ,/FF fills/NC biològics/AQ de/SP Josep/NP ,/FF però/CC no/RN de/SP Maria/NP ,/FF qui/PR hauria/VA estat/VS verge/NC fins/SP a/SP la/DA seva/PX mort/NC ./FF
+Des_de/SP el/DA punt/NC de/SP vista/NC cristi

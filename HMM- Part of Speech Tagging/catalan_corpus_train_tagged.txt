@@ -6344,4 +6344,104 @@ Els/DA germans/NC de/SP Jesús/NP serien/VS cosins/NC seus/PX i/CC ell/PP seria/
 Versió/NP (/FF James_Tabor/NP )/FF ;/FF Fills/NP d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ./FF
 Per/SP defensar/VM el/DA dogma/NC de/SP la/DA virginitat/NC de/SP Maria/NP ,/FF mare/NC de/SP Jesús/NP ,/FF abans/RG i/CC després/RG de/SP el/DA part/NC ,/FF sorgí/VM en/SP els/DA autors/NC cristians/AQ l'/DA idea/NC de/SP què/PT els/DA germans/NC de/SP Jesús/NP eren/VS en_realitat/RG fills/NC d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ./FF
 Eren/VS ,/FF per/SP tant/RG ,/FF fills/NC biològics/AQ de/SP Josep/NP ,/FF però/CC no/RN de/SP Maria/NP ,/FF qui/PR hauria/VA estat/VS verge/NC fins/SP a/SP la/DA seva/PX mort/NC ./FF
-Des_de/SP el/DA punt/NC de/SP vista/NC cristi
+Des_de/SP el/DA punt/NC de/SP vista/NC cristià/AQ ,/FF ja_que/CS Jesús/NP no/RN fou/VS en_realitat/RG fill/NC biològic/AQ de/SP Josep/NP ,/FF si/CS no/RN sols/RG de/SP Maria/NP ,/FF aquests/DD germans/NC ,/FF ho/PP serien/VM ,/FF sols/RG des_de/SP el/DA punt/NC de/SP vista/NC legal/AQ ,/FF com/CS fills/NC de/SP Josep/NP ,/FF però/CC no/RN tindrien/VM cap/DI vincle/NC de/SP parentesc/NC real/AQ amb/SP Jesús/NP ./FF
+Aquesta/DD posició/NC és/VS coneguda/VM com/CS la/DA "/FF solució/NC d'/SP Epifani/NP "/FF ,/FF per/SP el/DA nom/NC de/SP el/DA seu/PX defensor/NC més/RG destacat/VM ,/FF Epifani_de_Salamina/NP ,/FF qui/PR la/PP desenvolupa/VM en/SP la/DA seva/PX obra/NC Panarion/NP ./FF
+Però/RG no/RN hi/PP ha/VA cap/DI referència/NC en/SP el/DA Nou/AQ Testament/NP ,/FF d'/SP un/DI matrimoni/NC anterior/AQ de/SP Josep/NP ./FF
+I/CC a/SP més/RG ,/FF Jesús/NP era/VS el/DA primogènit/NC ,/FF per/SP tant/RG el/DA primer/AO fill/NC de/SP Josep/NP ,/FF per/SP això/PD va/VA oferir/VM l'/DA ofrena/NC en/SP el/DA Temple_de_Jerusalem/NP (/FF Lluc/NP 2,22/ZZ )/FF ./FF
+Si/CS hagués/VA tingut/VM germans/NC grans/AQ no/RN podria/VM haver/VA estat/VS el/DA primogènit/NC de/SP la/DA família/NC ./FF
+Maria/NP ,/FF mare/NC comuna/AQ ./FF
+Maria/NP seria/VS la/DA mare/NC biològica/AQ i/CC comuna/AQ a/SP tots/DI ells/PP ./FF
+Josep/NP seria/VS tan/RG sols/RG el/DA pare/NC legal/AQ (/FF no/RN el/DA biològic/AQ )/FF de/SP Jesús/NP ./FF
+Els/DA seus/PX germans/NC serien/VS fills/NC biològics/AQ de/SP Josep/NP i/CC Maria/NP i/CC per/SP tan/RG germanastres/NC de/SP Jesús/NP ./FF
+Tertul/NP ./FF lià/AQ ,/FF es/P0 el/DA primer/AO escriptor/NC cristià/AQ que/CS en/SP el/DA segle_II/WW proposa/VM i/CC defensa/VM aquesta/DD hipòtesi/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Tomba_de_Jesús/NP 1/ZZ ;/FF Tomba_de_Jesús/NP 2/ZZ ;/FF
+Physalaemus/NP coloradorum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Cisneros-Heredia/NP ,/FF D._&_Almandáriz/NP ,/FF A./NP 2004/ZZ ./FF
+Physalaemus/NP coloradorum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP crombiei/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Physalaemus/NP crombiei/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP cuqui/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Paraguai/NP ./FF
+Referències/NP ./FF
+Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Physalaemus/NP cuqui/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP cuvieri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ,/FF Guyana/NP ,/FF Uruguai/NP i/CC Veneçuela/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Mijares/NP ,/FF A./NP ,/FF Rodrigues/NP ,/FF M.T._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP cuvieri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP deimaticus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Caramaschi/NP ,/FF U./NP ,/FF Nascimento/NP ,/FF L.B._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP deimaticus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP ephippifer/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Reynolds/NP ,/FF R./NP ,/FF Rodrigues/NP ,/FF M.T./NP ,/FF Mijares/NP ,/FF A._&_MacCulloch/NP ,/FF R./NP 2004/ZZ ./FF
+Physalaemus/NP ephippifer/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP erythros/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Physalaemus/NP erythros/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP evangelistai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B./NP ,/FF Eterovick/NP ,/FF P.C./NP ,/FF Colli/NP ,/FF G._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP evangelistai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP fernandezae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Uruguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E._&_Langone/NP ,/FF J./NP 2004/ZZ ./FF
+Physalaemus/NP fernandezae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP fuscomaculatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ,/FF Bolívia/NP i/CC Uruguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Colli/VM ,/FF G./NP ,/FF Aquino/NP ,/FF L._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP fuscomaculatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+La/DA seixanta/ZZ quatrena/NC edició/NC de/SP la/DA Copa/NP espanyola/AQ d'/SP hoquei/NC patins/NC masculina/AQ (/FF en/SP el/DA moment/NC anomenada/NC ,/FF Copa_de_el_Rei/NP )/FF prengué_part/VM a/SP el/DA Pavelló_Francisco_Laporta/NP de/SP la/DA localitat/NC d'/SP Alcoi/NP entre/SP l/NC '/FF 1/ZZ i/CC el/DA 4_de_març_de_2007/WW ./FF
+Tots/DI els/DA partits/NC foren/VS retransmesos/VM a_través_de/SP la/DA web/NC de/SP la/DA Reial_Federació_Espanyola_de_Patinatge/NP ,/FF i/CC a_més_a_més/RG ,/FF les/DA semifinals/NC i/CC final/NC també/RG es/P0 van/VA emetre/VM per/SP TV3/ZZ i/CC per/SP Popular_TV/NP ./FF
+El/DA lliurament/NC de/SP medalles/NC i/CC guardons/NC va/VA ser/VS presidit/VM per/SP el/DA batlle/NC d'/SP Alcoi/NP ,/FF Jorge_Sedano/NP ,/FF i/CC per/SP el/DA president/NC de/SP la/DA Reial_Federació_Espanyola_de_Patinatge/NP ,/FF Carmelo_Paniagua/NP ./FF
+En/SP el/DA moment/NC de/SP sortir/VM a/SP la/DA pista/NC fou/VS escridassat/VM per/SP els/DA espectadors/NC arran_de/SP la/DA seva/PX oposició/NC a/SP el/DA reconeixement/NC de/SP la/DA Federació_Catalana_de_Patinatge/NP en/SP la/DA FIRS/NP i/CC la/DA Confederació_Sud-americana_de_el_Patí/NP ./FF
+L'/DA anècdota/NC es/P0 va/VA produir/VM quan/CS ,/FF en/SP el/DA moment/NC de/SP felicitar/VM el/DA capità/NC blaugrana/AQ ,/FF Panaigua/NP va/VA aparèixer/VM a/SP la/DA foto/NC a/SP el/DA costat/NC de/SP el/DA mapa/NC de/SP els/DA Països_Catalans/NP que/PR portava/VM la/DA bufanda/NC que/PR ,/FF moments/NC abans/RG ,/FF seguidors/AQ de/SP Sang_Culé/NP li/PP havien/VA regalat/VM a/SP José_Luis_Páez/NP ./FF
+Lspeaker/NP de/SP el/DA campionat/NC va/VA utilitzar/VM el/DA català/NC a/SP el/DA llarg/AQ de/SP els/DA quatre/ZZ dies/NC en/SP què/PT es/P0 va/VA disputar/VM l'/DA esdeveniment/NC ,/FF fins/SP a/SP el/DA moment/NC de/SP el/DA lliurament/NC de/SP medalles/NC ./FF «/FF Portava/NP tot/DI el/DA guió/NC en/SP català/NC ,/FF però/CC els/DA de/SP la/DA Federació/NP m'/PP han/VA obligat/VM a/SP fer/VM -ho/PP en/SP castellà/NC »/FF ,/FF va/VA afirmar/VM el/DA locutor/NC ./FF
+El/DA mateix/DI fet/NC es/P0 produí/VM durant/SP la/DA celebració/NC de/SP la/DA Copa/NP espanyola/AQ de/SP l'/DA any/NC 2005/ZZ a/SP el/DA Pavelló_Olímpic_de_Reus/NP ./FF
+Participants/NP ./FF
+Els/DA equips/NC classificats/VM com/CS a/SP caps/NC de/SP sèrie/NC tenen/VM un/DI estel/NC daurat/NC a/SP el/DA lateral/NC (/FF )/FF ./FF
+Resultats/NP ./FF
+Els/DA horaris/NC corresponen/VM a/SP l'/DA hora/NC d'/SP hivern/NC de/SP els/DA Països_Catalans/NP (/FF zona/NC horària/AQ :/FF UTC/NP +/FF 1/ZZ )/FF ./FF
+Quarts/NP de/SP final/NC ./FF
+Semifinals/NP ./FF
+Final/NP ./FF
+Màxims/AQ golejadors/NC ./FF
+Article/NC principal/AQ :/FF Llista/NC completa/AQ de/SP golejadors/NC Premis/NP ./FF
+Màxim/AQ golejador/NC :/FF Xavier_Caldú/NP (/FF Alnimar_Reus_Deportiu/NP )/FF i/CC David_Páez/NP (/FF Barcelona_Sorli_Discau/NP )/FF ;/FF Millor/NP jugador/NC :/FF Aitor_Egurrola/NP (/FF Barcelona_Sorli_Discau/NP )/FF ;/FF Referències/NP ./FF
+Quarts/NP de/SP final/NC :/FF ,/FF ,/FF ,/FF ,/FF ,/FF ;/FF Semifinals/NP :/FF ;/FF Final/NP :/FF ,/FF ,/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NP no/RN oficial/AQ de/SP el/DA campionat/NC ;/FF
+Federació_d'_Associacions_Culturals_de_l'_Aragó_Oriental/NP (/FF FACAO/NP )/FF representa/VM a/SP una/DI sèrie/NC d'/SP associacions/NC federades/VM ques/AQ defensen/VM que/CS les/DA modalitats/NC lingüístiques/AQ de/SP les/DA seves/PX localitats/NC i/CC comarques/NC respectives/AQ són/VS una/DI llengua/NC diferenciada/VM de/SP el/DA català/NC ./FF
+Aquest/DD punt/NC de/SP vista/NC s'/P0 oposa/VM a/SP l'/DA opinió/NC generalitzada/VM ,/FF tant/RG entre/SP lingüistes/NC ,/FF com/CS en/SP la/DA societat/NC (/FF vegeu/VM la/DA secció/NC Reconeixement/NP de/SP el/DA "/FF aragonès/NC oriental/AQ "/FF com/CS llengua/NC )/FF ,/FF que/CS les/DA llengües/NC de/SP Franja_de_Ponent/NP són/VS dialectes/NC de/SP el/DA català/NC ./FF
+Orígens/NP ./FF
+a/SP el/DA principi/NC la/DA federació/NC es/P0 va/VA dir/VM "/FF Coordinadora_d'_Associacions_Culturals_de_les_Comarques_de_l'_Aragó_Oriental/NP "/FF ,/FF i/CC va/VA néixer/VM a_partir_de/SP l'/DA agrupació/NC de/SP diferents/DI associacions/NC per/SP a/SP presentar/VM davant/SP la/DA Comissió_Especial/NP de/SP les/DA llengües/NC minoritàries/AQ d'/SP Aragó_de_les_Corts_d'_Aragó/NP les/DA seves/PX posicions/NC respecte/NC a/SP el/DA patrimoni/NC lingüístic/AQ aragonès/AQ ,/FF a/SP l'/DA octubre_de_1996/WW ./FF
+La/DA Coordinadora/NP es/P0 va/VA compondre/VM a_partir_de/SP les/DA següents/AQ associacions/NC les/DA quals/PR compartien/VM l'/DA ideal/NC comú/AQ que/CS les/DA modalitats/NC lingüístiques/AQ de/SP les/DA seves/PX respectives/AQ localitats/NC i/CC comarques/NC no/RN eren/VS de/SP filiació/NC catalana/AQ sinó/CC aragonesa/AQ ./FF
+La/DA Coordinadora/NP va/VA presentar/VM davant/SP la/DA Comissió_de_les_Corts_d'_Aragó/NP un/DI manifest/NC deixant/VM constància/NC de/SP la/DA seva/PX postura/NC i/CC les/DA seves/PX aspiracions/NC ./FF
+A/SP l'/DA any/NC següent/AQ la/DA Coordinadora/NP es/P0 va/VA consolidar/VM com/CS a/SP Federació_d'_Associacions_Culturals_de_l'_Aragó_Oriental/NP inscrivint/VM -se/P0 en/SP el/DA registre/NC d'/SP Associacions_Civils_d'_Aragó/NP amb/SP la/DA seva/PX nova/AQ denominació/NC ./FF
+Tesis/NC lingüístiques/AQ ,/FF culturals/AQ i/CC històriques/AQ ./FF
+Tesis/NC soci-lingüístiques/AQ ./FF
+A/SP Aragó/NP ni/CC es/P0 parla/VM un/DI suposat/VM aragonès/AQ en/SP alguns/DI municipis/NC altaragonesos/NC ni/CC el/DA català/NC a/SP les/DA comarques/NC orientals/AQ ,/FF sinó/CC modalitats/NC lingüístiques/AQ aragoneses/AQ que/PR deriven/VM de/SP l'/DA antic/AQ romanç/NC aragonès/AQ ./FF ;/FF La/NP proposta/NC actual/AQ d'/SP una/DI llengua/NC aragonesa/AQ suposa/VM un/DI idioma/NC artificial/AQ creat/VM com/CS instrument/VM polític/AQ a/SP el/DA servei/NC de/SP el/DA nacionalisme/NC aragonès/AQ i/CC que/PR exclou/VM a/SP tot/DI l'/DA Aragó/NP oriental/AQ ./FF ;/FF El/NP català/AQ és/VS aliè/AQ a/SP l'/DA Aragó_Oriental/NP ,/FF i/CC el/DA seu/PX reconeixement/NC oficial/AQ suposaria/VM posar/VM en/SP risc/NC la/DA supervivència/NC de/SP les/DA modalitats/NC aragoneses/AQ d'/SP aquesta/DD àrea/NC ,/FF a/SP les/DA quals/PR FACAO/NP denomina/VM en/SP el/DA seu/PX conjunt/NC "/FF aragonès/NC oriental/AQ "/FF ./FF ;/FF Les/NP modalitats/NC lingüístiques/AQ de/SP l'/DA est/NC de/SP l'/DA Aragó/NP són/VS equiparables/AQ i/CC tan/RG aragoneses/AQ com/CS les/DA pirinenques/AQ (/FF cheso/NC ,/FF chistabino/NC ,/FF patués/VM ,/FF etc/FF .../FF )/FF ./FF ;/FF El/NP 1995/ZZ ,/FF la/DA Universitat_de_Saragossa/NP per/SP encàrrec/NC de/SP el/DA Govern_d'_Aragó/NP va/VA realitzar/VM un/DI Estudi/NP sociolingüístic/AQ de/SP la/DA Franja_Oriental_d'_Aragó/NP a/SP la/DA pregunta/NC "/FF de/SP el/DA nom/NC de/SP el/DA parla/NC de/SP la/DA seva/PX localitat/NC "/FF el/DA 47_%/ZZ va/VA respondre/VM chapurreau/NC ,/FF el/DA 32_%/ZZ conforme/RG a/SP el/DA gentilici/NC de/SP la/DA seva/PX localitat/NC ,/FF l/NC '/FF 11_%/ZZ va/VA utilitzar/VM altres/DI denominacions/NC (/FF patuès/NC ,/FF aragonès/NC ,/FF valencià/AQ ,/FF .../FF )/FF i/CC un/DI 10_%/ZZ el/DA va/VA denominar/VM català/AQ ./FF ;/FF En/NP l'/DA anterior/AQ estudi/NC també/RG es/P0 va/VA preguntar/VM sobre/SP la/DA cooficialitat/NC de/SP el/DA català/NC a/SP la/DA Franja_de_Ponent/NP ,/FF a/SP la/DA qual/PR el/DA 75_%/ZZ es/P0 va/VA manifestar/VM el/DA seu/PX rebuig/NC ./FF
+Tesis/NC històriques/AQ ./FF
+FACAO/NP parteix/VM de/SP la/DA tesi/NC que/PR a/SP l'/DA edat_mitjana/NC es/P0 parlaven/VM distintes/AQ llengües/NC romanços/NC similars/AQ a/SP la/DA Corona_d

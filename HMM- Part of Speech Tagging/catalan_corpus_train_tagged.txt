@@ -6602,4 +6602,77 @@ La/DA definició/NC global/AQ de/SP el/DA que/PR se/P0 suposa/VM que/CS el/DA pr
 Un/DI component/NC major/AQ de/SP l'/DA abast/NC és/VS la/DA qualitat/NC de/SP el/DA producte/NC final/AQ ./FF
 La/DA quantitat/NC de/SP temps/NC posada/NC en/SP les/DA tasques/NC individuals/AQ determina/VM la/DA qualitat/NC total/AQ de/SP el/DA projecte/NC ./FF
 Algunes/DI tasques/NC poden/VM requerir/VM una/DI quantitat/NC donada/VM de/SP temps/NC per/SP a/SP ser/VS acomplertes/VM adequadament/RG ,/FF pero/NC donat/VM més/RG temps/NC poden/VM ser/VS acomplertes/VM millor/AQ ./FF
-a/SP el/DA llarg/AQ de/SP el/DA curs/NC d'/SP un/DI gran/AQ projecte/NC ,/FF la/DA qualitat/NC pot/VM tenir/VM un/DI impacte/NC significatiu/AQ en/SP el/DA temps/NC i/CC el/DA cost/NC (/FF o/CC vice/NC versa/VM )/FF .
+a/SP el/DA llarg/AQ de/SP el/DA curs/NC d'/SP un/DI gran/AQ projecte/NC ,/FF la/DA qualitat/NC pot/VM tenir/VM un/DI impacte/NC significatiu/AQ en/SP el/DA temps/NC i/CC el/DA cost/NC (/FF o/CC vice/NC versa/VM )/FF ./FF
+Definicions/NP ./FF
+PMI/NP (/FF Project/VM Management_Institute/NP )/FF El_PMI/NP és/VS una/DI associació/NC professional/AQ sense/SP ànim/NC de/SP lucre/NC fundada/VM el/DA 1969/ZZ ./FF
+La/DA seva/PX missió/NC és/VS millorar/VM la/DA pràctica/NC ,/FF la/DA ciència/NC i/CC la/DA professió/NC de/SP la/DA gerència/NC de/SP projectes/NC a_través_de/SP el/DA món/NC amb/SP una/DI actitud/NC conscient/AQ i/CC proactiva/AQ ,/FF amb/SP l'/DA objectiu/NC que/CS les/DA organitzacions/NC adoptin/VM ,/FF valorin/VM i/CC utilitzin/VM la/DA gerència/NC de/SP projectes/NC i/CC ,/FF a/SP més/RG ,/FF li/PP atribueixin/VM el/DA seu/PX èxit/NC ./FF ;/FF PMBOK/NP (/FF Project/VM Management_Body/NP of/NC Knowledge/NP )/FF és/VS una/DI col·lecció/NC de/SP processos/NC i/CC àrees_de_coneixement/NC generalment/RG acceptades/VM com/CS a/SP les/DA millors/AQ pràctiques/NC dins/SP la/DA gestió/NC de/SP projectes/NC ./FF
+Vegeu/VM també/RG ./FF
+Megaprojecte/NP ;/FF Trepatge/NP d'/SP abast/NC ;/FF Enllaços/NP externs/AQ ./FF
+PM_Bones_Pràctiques/NP ;/FF Project_Management_Institute/NP ;/FF Aprén/NP a/SP Gestionar_Projectes_Jugant/NP ./FF
+Un/DI megaprojecte/NC és/VS un/DI projecte/NC amb/SP una/DI inversió/NC extremadament/RG gran/AQ ./FF
+Altshuler/NP i/CC Luberoff/NP (/FF 2003/ZZ )/FF defineixen/VM els/DA megaprojectes/NC com/CS a/SP "/FF iniciatives/NC que/CS són/VS físiques/AQ ,/FF molt/RG cares/AQ ,/FF i/CC públiques/AQ "/FF ./FF
+a/SP el/DA seu/PX lloc/NC web/NC megaprojects/AQ ,/FF Bent_Flyvbjerg/NP defineix/VM megaprojectes/NC com/CS els/DA que/PR generalment/RG costen/VM més/RG de/SP 1.000/ZZ millions/NC de/SP dolars/NC i/CC atrauen/VM molta/DI atenció/NC pública/AQ a_causa_de/SP el/DA seu/PX impacte/NC substancial/AQ en/SP les/DA comunitats/NC ,/FF el/DA medi_ambient/NC i/CC els/DA pressupostos/NC ./FF
+Els/DA megaprojectes/NC inclouen/VM ponts/NC ,/FF túnels/NC ,/FF autopistes/NC ,/FF ferrocarrils/NC ,/FF aeroports/NC ,/FF ports/NC ,/FF plantes/NC energètiques/AQ ,/FF preses/NC ,/FF projectes/NC de/SP tractament/NC d'/SP aigua/NC ,/FF projectes/NC d'/SP extracció/NC de/SP petroli/NC i/CC gas/NC natural/AQ ,/FF edificis/NC públics/AQ ,/FF sistemes/NC de/SP tecnologies/NC de/SP la/DA informació/NC ,/FF projectes/NC aeroespacials/AQ ,/FF i/CC sistemes/NC d'/SP armes/NC ./FF
+Jon_Krakauer/NP (/FF Brookline/NP ,/FF Massachusetts/NP ,/FF 12_d'_abril_de_1954/WW )/FF és/VS periodista/NC i/CC escalador/NC nord-americà/AQ ./FF
+L'/DA any/NC 1996/ZZ un/DI encàrrec/NC de/SP la/DA revista/NC Outside/NP el/PP va/VA portar/VM a/SP participar/VM en/SP una/DI expedició/NC de/SP les/DA anomenades/NC comercials/AQ a/SP l'/DA Everest/NP ,/FF durant/SP la/DA qual/PR va/VA ser/VS testimoni/NC de/SP la/DA massificació/NC i/CC mercantilització/NC de/SP la/DA muntanya/NC més/RG alta/AQ de/SP el/DA món/NC ,/FF i/CC en/SP la/DA que/PR va/VA viure/VM de/SP molt_a_prop/RG la/DA temporada/NC més/RG tràgica/AQ de/SP la/DA mítica/AQ muntanya/NC des/SP que/CS els/DA britànics/NC hi/PP van/VA posar/VM els/DA peus/NC per/SP primer/AO cop/NC ,/FF el/DA 1921/ZZ ./FF
+Llibres/NP ./FF
+Un/DI projecte/NC és/VS una/DI empresa/NC temporal/AQ assumida/VM per/SP crear/VM un/DI producte/NC o/CC un/DI servei/NC ./FF
+Origen/NP ./FF
+La/DA paraula/NC projecte/NC prové/VM de/SP el/DA terme/NC llatí/AQ projectum/NC de/SP projicere/RG ,/FF "/FF llançar/VM quelcom/RG endavant/RG "/FF que/CS a/SP el/DA seu/PX temps/NC prové/VM de/SP pro/SP -/FF ,/FF que/PR denota/VM quelcom/PI que/PR precedeix/VM l'/DA acció/NC de/SP la/DA següent/AQ part/NC de/SP la/DA paraula/NC en/SP qüestió/NC (/FF com/CS a/SP el/DA grec/NC )/FF i/CC jacere/RG ,/FF "/FF llençar/VM "/FF ./FF
+La/DA paraula/NC "/FF projecte/NC "/FF originalment/RG significa/VM "/FF quelcom/RG que/PR ve/VM abans/RG de/SP res/PI quedi/VM fet/NC "/FF ./FF
+Quan/CS la/DA paraula/NC va/VA ser/VS adoptada/VM inicialment/RG ,/FF es/P0 referia/VM a/SP fer/VM a/SP planejar/VM quelcom/RG ,/FF no/RN a/SP l'/DA acte/NC de/SP portar_a_terme/VM aquest/DD pla/NC realment/RG ./FF
+Quelcom/PI fet/NC d'/SP acord/NC amb/SP un/DI projecte/NC va/VA ser/VS anomenat/VM objecte/NC ./FF
+Aquest/DD ús/NC de/SP "/FF projecte/NC "/FF va/VA canviar/VM a/SP els/DA anys/NC 50/ZZ ,/FF quan/CS es/P0 van/VA introduir/VM diverses/DI tècniques/NC per/SP a/SP la/DA gestió/NC de/SP projectes/NC ./FF
+Amb/SP aquest/DD fet/NC la/DA paraula/NC va/VA canviar/VM lleugerament/RG el/DA seu/PX significat/NC per/SP a/SP cobrir/VM tant/RG els/DA projectes/NC com/CS els/DA objectes/NC ./FF
+No/RN obstant/VM això/PD ,/FF en/SP certs/DI projectes/NC poden/VM existir/VM els/DA anomenats/VM objectes/NC i/CC directors/NC d'/SP objecte/NC ./FF
+Característiques/NP ./FF
+Temporal/NP vol/VM dir/VM que/CS qualsevol/DI projecte/NC tindrà/VM una/DI data/NC de/SP començament/NC i/CC una/DI data/NC d'/SP acabament/NC ,/FF la/DA qual/DR cosa/NC no/RN vol/VM pas/RN dir/VM que/CS tingui/VM una/DI durada/NC curta/AQ ./FF
+Els/DA projectes/NC són/VS caracteritzats/VM per/SP l'/DA elaboració/NC progressiva/AQ :/FF a_causa_de/SP la/DA unicitat/NC i/CC major/AQ incertesa/NC els/DA projectes/NC no/RN poden/VM ser/VS entesos/VM enterament/RG durant/SP o/CC abans/RG que/CS el/DA projecte/NC comenci/VM ,/FF i/CC per/SP això/PD la/DA planificació/NC i/CC l'/DA execució/NC de/SP projectes/NC ocorre/VM molts/DI cops/NC en/SP passos/NC o/CC fases/NC separades/VM ./FF
+A_mesura_que/CS el/DA projecte/NC progressa/VM ,/FF l'/DA equip/NC de/SP projecte/NC entén/VM les/DA següents/AQ passes/NC ,/FF objectius/NC i/CC la/DA forma/NC d'/SP execució/NC molt/RG millor/AQ ./FF
+Basat/VM en/SP aquest/DD coneixement/NC els/DA membres/NC de/SP l'/DA equip/NC elaboren/VM plans/AQ esborrany/NC inicials/AQ ,/FF i/CC executen/VM la/DA següent/AQ fase/NC de/SP el/DA projecte/NC basant/VM -se/P0 en/SP aquests/DD plans/NC detallats/VM ./FF
+Els/DA projectes/NC difereixen/VM de/SP les/DA operacions/NC ,/FF perquè/CS les/DA operacions/NC son/NC contínues/AQ i/CC repetitives/AQ (/FF els/DA projectes/NC són/VS temporals/AQ )/FF ,/FF i/CC les/DA operacions/NC donen/VM els/DA mateixos/DI o/CC gairebé/RG els/DA mateixos/DI resultats/NC (/FF per_contra/RG ,/FF els/DA resultats/NC de/SP els/DA projectes/NC són/VS únics/AQ )/FF ./FF
+Un/DI projecte/NC usualment/RG necessita/VM recursos/NC per/SP a/SP entregar/VM els/DA seus/PX resultats/NC ./FF
+La/DA majoria/NC de/SP el/DA temps/NC ,/FF l'/DA execució/NC de/SP el/DA projecte/NC està/VM basada/VM en/SP un/DI pla/NC detallat/VM ,/FF que/PR considera/VM també/RG factors/NC externs/AQ i/CC restriccions/NC ./FF
+La/DA planificació/NC ,/FF execució/NC i/CC control/NC de/SP el/DA projecte/NC és/VS el/DA camp/NC primari/AQ de/SP la/DA gestió/NC de/SP projectes/NC ./FF
+Per/SP a/SP projectes/NC majors/AQ a/SP vegades/NC és/VS necessari/AQ crear/VM una/DI organització/NC temporal/AQ ,/FF consistent/AQ d'/SP un/DI equip/NC de/SP projecte/NC i/CC un/DI o/CC més/RG equip/NC de/SP treball/NC ./FF
+Els/DA projectes/NC majors/AQ poden/VM ser/VS dividits/NC en/SP subprojectes/NC ,/FF que/PR de/SP fet/NC són/VS una/DI col·lecció/NC de/SP projectes/NC relacionats/VM ./FF
+Típicament/RG ,/FF la/DA col·laboració/NC entre/SP membres/NC d'/SP un/DI equip/NC de/SP projecte/NC és/VS necessària/AQ per/SP a/SP un/DI resultat/NC exitòs/NC ./FF
+Avantatges/NP ./FF
+L'/DA enfocament/NC basat/VM en/SP projectes/NC és/VS particularment/RG apreciat/VM per/SP negocis/NC occidentals/AQ ,/FF que/PR són/VS caracteritzats/VM per/SP una/DI organització/NC en/SP matriu/NC i/CC una/DI cultura/NC de/SP la/DA cooperació/NC ./FF
+En/SP el/DA cas/NC d'/SP organitzacions/NC autoritàries/AQ i/CC burocràtiques/AQ amb/SP estructura/NC rígida/AQ i/CC jeràrquica/AQ ,/FF el/DA treball/NC basat/VM en/SP projectes/NC és/VS menys/RG popular/AQ ,/FF o/CC no/RN funciona/VM com/CS s'/P0 espera/VM a_causa_de/SP el/DA conflicte/NC entre/SP diferents/DI cultures/NC organitzacionals/AQ ./FF
+Vegeu/VM també/RG ./FF
+Megaprojecte/NP ;/FF Procés/NP ;/FF Gestió/NP de/SP projectes/NC ;/FF Diagrama_de_Gantt/NP ;/FF Referències/NP ./FF
+EDUNET_EUNET/NP is/NC a/SP platform/AQ of/NC services/AQ and/AQ resources/NC for/NC the/RG promotion/VM of/NC lifelong/NC education/AQ ,/FF for/NC supporting/NC professional/AQ education/NC ,/FF the/RG education/VM for/NC active/VM citizenship/NC and/AQ for/NC lasting/NC development/RG
+En/SP música/NC ,/FF l'/DA estil/NC galant/AQ és/VS un/DI moviment/NC que/PR sorgeix/VM cap/DI el/DA 1730/ZZ com/CS a/SP reacció/NC a/SP la/DA complexitat/NC de/SP la/DA música/NC de/SP l'/DA ultim/VM Barroc/NP ./FF
+Representa/VM un/DI retorn/NC a/SP la/DA simplicitat/NC i/CC preten/VM apropar/VM la/DA música/NC a/SP la/DA naturalitat/NC que/CS segons/CS ells/PP havia/VA abandonat/VM la/DA música/NC barroca/AQ ./FF
+El/DA terme/NC galant/AQ prové/VM de/SP el/DA francès/NC i/CC es/P0 va/VA utilitzar/VM abundantment/RG per/SP a/SP designar/VM tot/DI allò/PD que/PR es/P0 creia/VM modern/AQ ,/FF alegre/AQ ,/FF elegant/AQ ,/FF exquisit/AQ ,/FF fàcil/AQ i/CC civilitzat/VM ./FF
+S'/P0 extendrà/VM per/SP tot/DI Europa/NP però/CC serà/VS especialment/RG a/SP França/NP i/CC Alemanya/NP on/PR tindrà/VM un/DI major/AQ seguiment/NC ./FF
+Podem/VM definir/VM la/DA música/NC galant/AQ com/CS una/DI música/NC agradable/AQ ,/FF espontània/AQ ,/FF entretinguda/VM i/CC facilment/RG comprensible/AQ ./FF
+Més/RG dirigida/VM a/SP els/DA aficionats/NC que/PR a/SP els/DA experts/NC i/CC s'/P0 aplica/VM especialment/RG a/SP la/DA música/NC per/SP a/SP teclat/NC i/CC a/SP la/DA música_de_cambra/NC ./FF
+L'/DA estil/NC galant/AQ és/VS un/PI de/SP els/DA estils/NC precursors/AQ de/SP el/DA Classicisme/NP ./FF
+Dona/NP preponderància/NC a/SP la/DA melodia/NC ,/FF que/PR ha/VA de/SP ser/VS senzilla/AQ ,/FF cantable/AQ i/CC susceptible/AQ a/SP ser/VS embellida/VM per/SP l'/DA ornamentació/NC que/PR habitualment/RG es/P0 deixa/VM a/SP el/DA criteri/NC de/SP l'/DA interpret/VM ,/FF amb/SP un/DI fraseig/NC regular/AQ ,/FF propi/AQ de/SP la/DA música/NC de/SP dansa/NC ./FF
+A/SP nivell/NC harmònic/AQ ,/FF defuig/VM els/DA excessos/NC contrapuntistics/AQ de/SP el/DA Barroc/NP ,/FF substituint/VM -lo/PP amb/SP la/DA presentació/NC d'/SP unes/DI funcions/NC tonals/AQ clares/AQ que/PR s'/P0 expressen/VM de/SP manera/NC contundent/AQ en/SP la/DA línia/NC de/SP el/DA baix/AQ ,/FF molt/RG clarament/RG diferenciada/VM de/SP la/DA línia/NC melòdica/AQ principal/AQ ./FF
+Cap/PI de/SP els/DA grans/AQ compositors/NC de/SP el/DA segle_XVIII/WW adopta/VM aquest/DD estil/NC com/CS a/SP propi/AQ i/CC únic/AQ ,/FF però/CC es/P0 poden/VM considerar/VM galants/AQ algunes/PI de/SP les/DA obres/NC de/SP François_Couperin/NP i/CC Jean-Philippe_Rameau/NP ,/FF a/SP França/NP ,/FF Giovanni_Battista_Sammartini/NP i/CC Baldassare_Galuppi/NP ,/FF a/SP Itàlia/NP ,/FF Georg_Philipp_Telemann/NP i/CC Carl_Philipp_Emanuel_Bach/NP a/SP Alemanya/NP i/CC Thomas_Augustine_Arne/NP ,/FF William_Boyce/NP i/CC Johann_Christian_Bach/NP a/SP Anglaterra/NP ./FF
+La/DA pràctica/NC d'/SP anomenar/VM la/DA música/NC de/SP l'/DA estil/NC galant/AQ com/CS a/SP rococó/NC ha/VA caigut/VM en/SP desús/NC ,/FF ja_que/CS si_bé/CS son/VM moviments/NC coetanis/AQ ,/FF el/DA terme/NC rococó/AQ es/P0 propi/AQ de/SP les/DA arts/NC plàstiques/AQ i/CC decoratives/AQ mentre_que/CC galant/AQ és/VS utilitzat/VM per/SP tractadistes/NC rellevants/AQ de/SP l'/DA època/NC com/CS ara/RG Marpurg/NP ,/FF Quantz/NP i/CC C.P.E._Bach/NP ,/FF entre/SP d'/SP altres/PI ./FF
+Bibliografia/NP ./FF
+Grout/NP ,/FF Donald_J./NP i/CC Claude_V._Palisca/NP ./FF
+Historia/VM de/SP la/DA música/NC occidental/AQ ,/FF 2/ZZ ./FF 3a/AO ./FF ed./NC Alianza_Editorial/NP ,/FF Madrid/NP ,/FF 2001/ZZ ;/FF Pestelli/NP ,/FF G._Historia/NP de/SP la/DA música/NC ,/FF 7/ZZ -/FF La/DA época/NC de/SP Mozart/NP y/NC Beethoven_Ed._Turner_Música/NP ,/FF Madrid/NP 1986/ZZ ./FF
+Michels/NP ,/FF U._Atlas/NP de/SP música/NC ,/FF II/NP ./FF
+Alianza_Editorial/NP ,/FF Madrid/NP ,/FF 1992/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Ressenya/NP en/SP castellà/NC de/SP el/DA llibre/NC de/SP Daniel_Heartz/NP :/FF Music/NP in/VM European_Capitals/NP :/FF The_Galant_Style/NP ,/FF 1720/ZZ -/FF 1780/ZZ ;/FF
+Meskowski/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Meskowski/NP va/VA competir/VM a/SP 1/ZZ cursa/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ la/DA temporada/NC 1960/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Trevis/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Trevis/NP va/VA competir/VM a/SP varies/VM curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ ,/FF de/SP la/DA temporada/NC 1951/ZZ a/SP la/DA temporada/NC 1960/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Christensen/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Christensen/NP va/VA competir/VM a/SP dues/ZZ curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ ,/FF de/SP la/DA temporada/NC 1959/ZZ i/CC la/DA temporada/NC 1960/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+L'/DA escut/NC de/SP Botswana/NP consisteix/VM en/SP un/DI camper/NC ovalat/VM d'/SP argent/NC d'/SP extrems/NC punteguts/AQ on/PR figuren/VM tres/ZZ faixes/NC ondades/VM d'/SP atzur/NC a/SP el/DA centre/NC que/PR representen/VM la/DA confiança/NC de/SP Bostwana/NP en/SP l'/DA aigua/NC ,/FF tres/ZZ rodes/NC dentades/NC acoblades/VM a/SP el/DA cap/NC que/PR representen/VM la/DA indústria/NC i/CC un/DI cap/NC de/SP toro/NC a/SP la/DA punta/NC que/PR simbolitza/VM la/DA ramaderia/NC ./FF
+L'/DA escut/NC està/VM sostingut/NC per/SP dues/ZZ zebres/NC ,/FF una/DI que/PR sosté/VM un/DI ullal/NC d'/SP elefant/NC ,/FF en_representació_de/SP la/DA fauna/NC natural/AQ de/SP el/DA país/NC ,/FF i/CC altra/PI que/PR sosté/VM una/DI espiga/NC de/SP sorgo/NC ,/FF un/DI producte/NC agrícola/AQ important/AQ de/SP el/DA país/NC ./FF
+A/SP la/DA part/NC inferior/AQ ,/FF un/DI pergamí/NC on/PR es/P0 llegix/VM el/DA lema/NC nacional/AQ Pula/NP (/FF «/FF pluja/NC »/FF )/FF ./FF
+Aquest/DD lema/NC ressalta/VM la/DA import

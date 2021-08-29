@@ -6783,4 +6783,143 @@ Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
 Physalaemus/NP montubio/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
 Physalaemus/NP moreirae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
-Es/P0 troba/VM amenaçada/VM d'
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Verdade/NP ,/FF V./NP 2004/ZZ ./FF
+Physalaemus/NP moreirae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP nanus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Garcia/NP ,/FF P._&_Kwet/NP ,/FF A./NP 2004/ZZ ./FF
+Physalaemus/NP nanus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 16_de_gener_de_2008/WW ./FF
+Physalaemus/NP nattereri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Bolívia/NP i/CC Paraguai/NP ./FF
+Referències/NP ./FF
+Physalaemus/NP obtectus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Gonçalves/NP da/VM Cruz/NP ,/FF C.A./NP ,/FF Bertoluci/NP ,/FF J._&_Nascimento/NP ,/FF L.B./NP 2004/ZZ ./FF
+Physalaemus/NP obtectus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP olfersii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Segalla/NP ,/FF M.V._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
+Physalaemus/NP olfersii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP petersi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP i/CC Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Azevedo-Ramos/NP ,/FF C./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S._&_Reynolds/NP ,/FF R./NP 2004/ZZ ./FF
+Physalaemus/NP petersi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP pustulatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP i/CC Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Almeida/NP ,/FF D./NP ,/FF Nogales/NP ,/FF F._&_Cisneros-Heredia/NP ,/FF D./NP 2004/ZZ ./FF
+Physalaemus/NP pustulatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP pustulosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Belize/NP ,/FF Colòmbia/NP ,/FF Costa_Rica/NP ,/FF El_Salvador/NP ,/FF Guatemala/NP ,/FF Honduras/NP ,/FF Mèxic/NP ,/FF Nicaragua/NP ,/FF Panamà/NP ,/FF Trinitat/NP i/CC Tobago/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF Guyana/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Santos-Barrera/NP ,/FF G./NP ,/FF Solís/NP ,/FF F./NP ,/FF Ibáñez/NP ,/FF R./NP ,/FF Wilson/NP ,/FF L.D./NP ,/FF Savage/NP ,/FF J./NP ,/FF Lee/NP ,/FF J./NP ,/FF Chaves/NP ,/FF G./NP ,/FF Señaris/NP ,/FF C./NP ,/FF Acosta-Galvis/NP ,/FF A._&_Hardy/NP ,/FF J./NP 2004/ZZ ./FF
+Physalaemus/NP pustulosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP randi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP ./FF
+Referències/NP ./FF
+Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
+Physalaemus/NP randi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP riograndensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC Uruguai/NP ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Scott/NP ,/FF N./NP ,/FF Aquino/NP ,/FF L./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Baldo/NP ,/FF D._&_Langone/NP ,/FF J./NP 2004/ZZ ./FF
+Physalaemus/NP riograndensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP rupestris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Pimenta/NP ,/FF B./NP 2004/ZZ ./FF
+Physalaemus/NP rupestris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP santafecinus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF Uruguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Kwet/NP ,/FF A./NP ,/FF Langone/NP ,/FF J./NP ,/FF Faivovich/NP ,/FF J._&_Lajmanovich/NP ,/FF R./NP 2004/ZZ ./FF
+Physalaemus/NP santafecinus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP signifer/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Van/VA Sluys/NP ,/FF M./NP &/FF da/VM Rocha/NP ,/FF C.F./NP 2004/ZZ ./FF
+Physalaemus/NP signifer/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Physalaemus/NP soaresi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B._&_Potsch_de_Carvalho-e-Silva/NP ,/FF S./NP 2004/ZZ ./FF
+Physalaemus/NP soaresi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Un/DI animal/NC bípede/AQ és/VS el/DA que/PR utilitza/VM dues/ZZ extremitats/NC per/SP desplaçar/VM -se/PP ./FF
+Alguns/DI exemples/NC d'/SP animal/NC bípede/AQ són/VS els/DA humans/AQ i/CC alguns/PI de/SP els/DA seus/PX parents/NC propers/AQ ,/FF o/CC les/DA aus/NC ,/FF que/PR descendeixen/VM de/SP dinosaures/NC bípedes/AQ de/SP el/DA Juràssic/NP ./FF
+La/DA hipòtesi/NC més/RG acceptada/VM per/SP explicar/VM el/DA bipedisme/NC és/VS la/DA necessitat/NC de/SP canvis/NC en/SP el/DA moviment/NC i/CC la/DA recerca/NC d'/SP aliments/NC per/SP un/DI canvi/NC climàtic/AQ que/PR va/VA tenir_lloc/VM fa/VM uns/DI 6_milions/ZZ d'/SP anys/NC ./FF
+Végeu/NP també/RG ./FF
+Quadrupedisme/NP ;/FF
+Un/DI animal/NC quadrúpede/AQ és/VS el/DA que/PR utilitza/VM quatre/ZZ extremitats/NC per/SP desplaçar/VM -se/PP ./FF
+La/DA gran/AQ majoria/NC d'/SP animals/NC caminadors/AQ són/VS quadrúpedes/AQ ,/FF com/CS els/DA gossos/NC ,/FF cavalls/NC ,/FF llangardaixos/NC o/CC la/DA mantis/NC religiosa/AQ ./FF
+Végeu/NP també/RG ./FF
+Bipedisme/NP ;/FF
+Pleurodema/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP Sud-Amèrica/NP ./FF
+Espècies/NP ./FF
+Pleurodema/NP bibroni/NC ;/FF Pleurodema/NP borellii/NC ;/FF Pleurodema/NP brachyops/NC ;/FF Pleurodema/NP bufonina/AQ ;/FF Pleurodema/NP cinerea/NC ;/FF Pleurodema/NP diplolistris/NC ;/FF Pleurodema/NP guayapae/AQ ;/FF Pleurodema/NP kriegi/VM ;/FF Pleurodema/NP marmorata/AQ ;/FF Pleurodema/NP nebulosa/NC ;/FF Pleurodema/NP thaul/NC ;/FF Pleurodema/NP tucumana/AQ ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+En/SP biomecànica/NC ,/FF la/DA locomoció/NC animal/AQ és/VS l'/DA estudi/NC de/SP com/CS es/P0 mouen/VM els/DA animals/NC ./FF
+No/RN tots/DI els/DA animals/NC es/P0 mouen/VM ,/FF però/CC la/DA capacitat/NC de/SP moure/VM 's/P0 està/VM estesa/NC arreu/RG de/SP el/DA regne/NC animal/AQ ./FF
+Com/CS que/CS tots/DI els/DA animals/NC són/VS heteròtrofs/AQ ,/FF han/VA d'/SP obtenir/VM aliment/NC de/SP el/DA seu/PX entorn/NC ./FF
+Alguns/DI animals/NC com/CS ara/RG les/DA esponges/NC de/SP mar/NC són/VS sèssils/AQ ,/FF i/CC mouen/VM el/DA fluïd/NC en/SP què/PR viuen/VM a_través_de/SP el/DA seu/PX cos/NC (/FF això/PD es/P0 coneix/VM com/CS a/SP alimentació/NC per/SP filtratge/NC )/FF ./FF
+Tanmateix/RG ,/FF la/DA majoria/NC d'/SP animals/NC s'/P0 ha/VA de/SP moure/VM per/SP trobar/VM aliment/NC ,/FF una/DI parella/NC i/CC altres/DI necessitats/NC ./FF
+Per/SP tant/RG ,/FF la/DA capacitat/NC de/SP moure/VM 's/P0 eficientment/RG és/VS essencial/AQ per/SP la/DA seva/PX supervivència/NC ./FF
+La/DA locomoció/NC requereix/VM energia/NC per/SP superar/VM la/DA fricció/NC i/CC sovint/RG també/RG la/DA gravetat/NC ./FF
+En/SP un/DI medi/NC terrestre/AQ ,/FF cal/VM superar/VM la/DA gravetat/NC de/SP l'/DA entorn/NC ,/FF tot_i_que/CS la/DA fricció/NC de/SP l'/DA aire/NC és/VS una/DI qüestió/NC molt/RG menor/AQ (/FF excepte/SP per/SP els/DA animals/NC reptadors/AQ com/CS els/DA cucs/NC ,/FF per/SP a/SP els/DA quals/PR la/DA fricció/NC és/VS molt/RG més/RG alta/AQ )/FF ./FF
+En/SP medis/NC aquosos/AQ ,/FF en_canvi/RG ,/FF la/DA fricció/NC esdevé/VM l'/DA obstacle/NC principal/AQ ,/FF i/CC la/DA gravetat/NC és/VS menys/RG important/AQ ./FF
+Alguns/DI animals/NC amb/SP una/DI flotabilitat/NC innata/AQ no/RN han/VA de/SP gastar/VM moltes/DI energies/NC per/SP mantenir/VM una/DI posició/NC vertical/AQ ,/FF mentre_que/CC d'/SP altres/DI s'/P0 enfonsen/VM i/CC han/VA d'/SP esforçar/VM -se/P0 per/SP mantenir/VM -se/P0 en/SP l'/DA aigua/NC ./FF
+La/DA fricció/NC pot/VM ser/VS un/DI problema/NC en/SP el/DA vol/NC ,/FF i/CC els/DA cossos/NC aerodinàmicament/RG eficients/AQ de/SP els/DA ocells/NC subratllen/VM aquest/DD punt/NC ./FF
+El/DA vol/NC presenta/VM un/DI problema/NC diferent/AQ de/SP el/DA moviment/NC dins/SP l'/DA aigua/NC ,/FF ja_que/CS no/RN hi/PP ha/VA cap/DI manera/NC que/PR un/DI organisme/NC vivent/AQ sigui/VS menys/RG dens/AQ que/CS l'/DA aire/NC ./FF
+Pleurodema/NP bibroni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Uruguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP ,/FF Lavilla/NP ,/FF E./NP ,/FF Garcia/NP ,/FF P._&_Langone/NP ,/FF J./NP 2004/ZZ ./FF
+Pleurodema/NP bibroni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP borellii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF Köhler/NP ,/FF J._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Pleurodema/NP borellii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP brachyops/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Colòmbia/NP ,/FF Guyana/NP ,/FF Antilles_Holandeses/NP ,/FF Panamà/NP ,/FF Veneçuela/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Surinam/NP ./FF
+Referències/NP ./FF
+La/DA Marca/NP ,/FF E./NP ,/FF Solís/NP ,/FF F./NP ,/FF Ibáñez/NP ,/FF R./NP ,/FF Jaramillo/NP ,/FF C./NP ,/FF Fuenmayor/NP ,/FF Q./NP ,/FF Reynolds/NP ,/FF R./NP ,/FF Rodrigues/NP ,/FF M.T./NP ,/FF Mijares/NP ,/FF A._&_MacCulloch/NP ,/FF R./NP 2004/ZZ ./FF
+Pleurodema/NP brachyops/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP bufonina/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Lavilla/NP ,/FF E._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Pleurodema/NP bufonina/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Serviettenknödel/NP és/VS una/DI recepta/NC típica/AQ d'/SP Àustria/NP ,/FF Txèquia/NP i/CC de/SP el/DA sud/NC d'/SP Alemanya/NP ./FF
+En/SP alemany/AQ ,/FF Knödel/NP significa/VM mandonguilla/NC o/CC bola/NC ,/FF i/CC Serviette/NP ,/FF tovalló/NC ./FF
+La/DA massa/NC de/SP pa/NC i/CC altres/DI ingredients/NC es/P0 bullen/VM fent_servir/VM un/DI tovalló/NC ./FF
+Sovint/RG es/P0 menja/VM com/CS a/SP plat/NC principal/AQ ,/FF però/CC també/RG es/P0 pot/VM menjar/VM com/PT a/SP postre/VM ,/FF en/SP versions/NC dolces/AQ ./FF
+Existeixen/VM moltes/DI receptes/NC regionals/AQ diferents/AQ ,/FF amb/SP modificacions/NC de/SP la/DA massa/NC de/SP base/NC ,/FF la/DA preparació/NC de/SP la/DA pasta/NC i/CC les/DA espècies/NC utilitzades/VM ./FF
+Pleurodema/NP cinerea/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Perú/NP i/CC ,/FF possiblement/RG també/RG ,/FF Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Köhler/NP ,/FF J./NP ,/FF Arizabal/NP ,/FF W._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Pleurodema/NP cinerea/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP diplolistris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Peixoto/NP ,/FF O.L./NP ,/FF Arzabe/NP ,/FF C._&_Andrade/NP ,/FF G./NP 2004/ZZ ./FF
+Pleurodema/NP diplolistris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Acce

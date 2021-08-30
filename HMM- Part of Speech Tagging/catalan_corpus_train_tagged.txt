@@ -7007,4 +7007,99 @@ Història/NP ./FF
 La/DA línia/NC de/SP tren/NC Barcelona-Mataró/NP va/VA ser/VS inaugurada/VM el/DA 28_d'_octubre_de_1848/WW ,/FF i/CC va/VA ser/VS la/DA primera/AO línia/NC de/SP ferrocarril/NC de/SP la/DA península/NC ibèrica/AQ ./FF
 En/SP aquesta/DD línia/NC hi/PP ha/VA el/DA túnel/NC de/SP Montgat/NP ,/FF el/DA més/RG antic/AQ de/SP tota/DI la/DA xarxa/NC espanyola/AQ ./FF
 Aquest/DD ferrocarril/NC va/VA ser/VS promogut/VM per/SP el/DA mataroní/NC Miquel_Biada/NP i/CC Bunyol/NP ./FF
-Les/DA obres/NC ,/FF les/PP van/VA realitzar/
+Les/DA obres/NC ,/FF les/PP van/VA realitzar/VM enginyers/NC catalans/AQ i/CC anglesos/AQ ./FF
+Totes/DI les/DA locomotores/NC també/RG van/VA ser/VS portades/VM d'/SP Anglaterra/NP ./FF
+El/DA 1992/ZZ es/P0 va/VA eliminar/VM el/DA ramal/NC Marina/NP (/FF R1/ZZ tram/NC Sant_Adrià/NP -/FF estació/NC de/SP França/NP )/FF per/SP alliberar/VM sól/AQ a/SP la/DA costa/NC de/SP el/DA Poblenou/NP on/PR es/P0 va/VA construir/VM la/DA Vila_Olímpica/NP i/CC va/VA servir/VM per/SP regenerar/VM aquest/DD districte/NC de/SP Barcelona/NP ./FF
+Per/SP tornar/VM a/SP unir/VM Barcelona/NP amb/SP la/DA línia/NC de/SP el/DA Maresme/NP (/FF R1/ZZ )/FF és/VS va/VA construir/VM el/DA ramal/NC Besòs/NP que/PR enllaça/VM Sant_Adrià/NP amb/SP la/DA Sagrera/NP ./FF
+a/SP el/DA ramal/NC Marina/NP s'/P0 hi/PP trobaven/VM dues/ZZ estacions/NC ,/FF l'/DA estació/NC de/SP Bogatell/NP i/CC Poblenou/NP ,/FF que/PR es/P0 van/VA eliminar/VM ./FF
+El/DA ramal/NC Glòries/NP ,/FF que/PR uneix/VM l'/DA estació/NC de/SP França/NP amb/SP els/DA túnels/NC de/SP Passeig_de_Gràcia/NP i/CC Catalunya/NP ,/FF es/P0 va/VA soterrar/VM ./FF
+Actualment/RG ,/FF la/DA línia/NC de/SP tren/NC encara/RG funciona/VM ,/FF englobada/VM en/SP el/DA sistema/NC de/SP rodalies/NC de/SP Barcelona/NP ,/FF encara/RG que/CS s'/P0 ha/VA allargat/VM de/SP Mataró/NP fins/SP a/SP Maçanet-Massanes/NP ./FF
+Futur/NC ./FF
+En/SP el/DA Pla_de_Transports_de_Viatgers/NP (/FF PTV/NP )/FF 2008-2012/ZZ es/P0 preveu/VM que/CS la/DA línia/NC incorpori/AQ el/DA tram/NC sud/AQ de/SP la/DA R2/ZZ ,/FF des_de/SP Sant_Vicenç_de_Calders/NP fins/SP Bellvitge/NP ./FF
+La/DA línia/NC Sant_Vicenç_de_Calders/NP -/FF Maçanet-Massanes/NP (/FF Línia/NP de/SP la/DA costa/NC )/FF englobaria/VM dos/ZZ tipus/NC de/SP serveis/NC :/FF Un/DI primer/AO Sant_Vicenç_de_Calders/NP -/FF Mataró/NP i/CC un_segon/ZZ des_de/SP l'/DA Aeroport/NP fins/SP a/SP Maçanet-Massanes/NP ./FF
+Aquest/DD segon/AO servei/NC de/SP la/DA R1/ZZ fins/SP a/SP l'/DA Aeroport/NP substituiria/VM ,/FF juntament/RG amb/SP el/DA nou/AQ servei/NC de/SP la/DA R4/ZZ (/FF Aeroport-Manresa/NP )/FF ,/FF l'/DA actual/AQ R10/ZZ que/PR tan/RG sols/RG dóna/VM servei/NC entre/SP Barcelona/NP i/CC l'/DA aeroport/NC de/SP el/DA Prat/NP ./FF
+Ambdós/PI a/SP Barcelona/NP passaran/VM per/SP l'/DA estació/NC de/SP Catalunya/NP ./FF
+Característiques/NP ./FF
+La/DA línia/NC disposa/VM de/SP via/NC doble/AQ fins/SP a/SP Arenys_de_Mar/NP ,/FF on/PR passa/VM a/SP ser/VS de/SP via/NC única/AQ ./FF
+La/DA línia/NC circula/VM vora/SP el/DA mar/NC des/SP que/PR surt/VM de/SP Sant_Adrià_de_Besòs/NP i/CC fins/SP a/SP Malgrat_de_Mar/NP ./FF
+És/VS habitual/AQ que/CS la/DA línia/NC resulti/VM pràctica/AQ en/SP aquest/DD tram/NC per/SP a/SP els/DA viatgers/NC interessats/NC en/SP anar/VM a/SP les/DA platges/NC de/SP el/DA Maresme/NP ,/FF però/CC no/RN tant/RG per/SP a/SP els/DA habitants/NC de/SP els/DA municipis/NC costaners/AQ els/DA centres/NC de/SP els/DA quals/PR són/VS bastant/RG allunyats/VM de/SP les/DA estacions/NC ./FF
+La/DA línia/NC discorre/VM gairebé/RG paral·lela/AQ a/SP la/DA carretera/NC A/NP -/FF 2/ZZ per/SP la/DA qual/DR cosa/NC per/SP a/SP accedir/VM a/SP les/DA estacions/NC des_de/SP els/DA centres/NC de/SP les/DA poblacions/NC a/SP la/DA costa/NC de/SP el/DA Maresme/NP cal/VM travessar/VM aquesta/DD carretera/NC ./FF
+Es/P0 pot/VM dir/VM que/PR dóna/VM servei/NC a/SP tots/DI els/DA municipis/NC costaners/AQ de/SP la/DA comarca/NC de/SP el/DA Maresme/NP ./FF
+Tot/RG i/CC començar/VM oficialment/RG a/SP Molins_de_Rei/NP (/FF des_de/SP 2007/ZZ )/FF i/CC acabar/VM a/SP Maçanet_de_la_Selva/NP són/VS pocs/DI els/DA trens/NC que/PR fan/VM tot/DI el/DA recorregut/NC sencer/AQ ./FF
+El/DA tram/NC més/RG concorregut/VM és/VS el/DA que/PR va/VA de/SP Mataró/NP a/SP L'_Hospitalet_de_Llobregat/NP ./FF
+Els/DA trens/NC poden/VM començar/VM //FF finalitzar/VM els/DA seu/PX recorregut/NC a/SP Molins_de_Rei/NP (/FF algunes/DI circulacions/NC ,/FF exclusivament/RG els/DA dies/NC feiners/AQ )/FF ,/FF l'/DA Hospitalet_de_Llobregat/NP ,/FF Mataró/NP ,/FF Arenys_de_Mar/NP (/FF les/DA menys/RG ,/FF només/RG dies/NC feiners/AQ ;/FF sortida/NC a/SP primeres/AO hores/NC de/SP el/DA matí/NC i/CC finalització/NC cap/NC a/SP el/DA vespre/NC ,/FF en/SP hores/NC d'/SP alta/AQ demanda/NC )/FF ,/FF Calella/NP (/FF només/RG dies/NC feiners/AQ )/FF ,/FF Blanes/NP i/CC Maçanet-Massanes/NP ./FF
+La/DA freqüencia/VM i/CC oferta/NC de/SP trens/NC ,/FF tot/PI i/CC ser/VS la/DA més/RG alta/AQ en/SP térmes/NC generals/AQ de/SP la/DA xarxa/NC metropolitana/AQ de/SP Barcelona/NP ,/FF és/VS molt/RG variada/NC i/CC oscil/VM -la/PP des_de/SP els/DA 5/ZZ minuts/NC d'/SP espera/NC en/SP la/DA relació/NC Mataró-Barcelona/NP //FF L'_Hospitalet/NP els/DA dies/NC feiners/AQ fins/SP a/SP superar/VM l'/DA hora/NC d'/SP espera/NC per/SP anar/VM de/SP l'/DA estació/NC de/SP Tordera/NP o/CC Maçanet-Massanes/NP fins/SP a/SP la/DA capital/NC catalana/AQ els/DA dies/NC festius/AQ ./FF
+Els/DA dies/NC feiners/AQ trobem/VM la/DA primera/AO sortida/NC de/SP Mataró/NP cap/NC a/SP L'_Hospitalet/NP pocs/DI minuts/NC abans/RG de/SP les/DA 5_del_matí/WW ,/FF i/CC la/DA última/AO des_de/SP la/DA capital/NC catalana/AQ fins/SP a/SP Mataró/NP ,/FF més/RG tard/VM mitjanit/WW ./FF
+Com/CS ja/RG s'/P0 ha/VA dit/VM ,/FF no/RN totes/DI les/DA circulacions/NC cobreixen/VM la/DA totalitat/NC de/SP la/DA línia/NC ,/FF tot_i_que/CS tres/ZZ estacions/NC (/FF Cabrera_de_Mar-Vilassar_de_Mar/NP ,/FF Montgat_Nord/NP i/CC Montgat/NP )/FF han/VA de/SP veure/VM passar/VM certes/DI circulacions/NC sense/SP que/PR efectuïn/VM parada/NC comercial/AQ ./FF
+Vegeu/VM També/NP ./FF
+Xarxa/NP ferroviària/AQ de/SP Catalunya/NP ;/FF Rodalies_Barcelona/NP ;/FF Referències/NP ./FF
+Pseudopaludicola/NP boliviana/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Guyana/NP ,/FF Paraguai/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Rodríguez/NP ,/FF L./NP ,/FF Acosta-Galvis/NP ,/FF A./NP ,/FF Lavilla/NP ,/FF E._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Pseudopaludicola/NP boliviana/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP canga/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Pseudopaludicola/NP canga/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP ceratophryes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ,/FF Colòmbia/NP i/CC Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rodríguez/NP ,/FF L./NP ,/FF Martinez/NP ,/FF J.L./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Cisneros-Heredia/NP ,/FF D./NP ,/FF Monteza/NP ,/FF J.I._&_Hoogmoed/NP ,/FF M./NP 2004/ZZ ./FF
+Pseudopaludicola/NP ceratophryes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP llanera/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP i/CC Veneçuela/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Señaris/NP ,/FF C._&_Rueda/NP ,/FF J.V./NP 2004/ZZ ./FF
+Pseudopaludicola/NP llanera/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP mineira/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Nascimento/NP ,/FF L.B./NP ,/FF Eterovick/NP ,/FF P.C._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Pseudopaludicola/NP mineira/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+L'/DA Art/NP de/SP la/DA caricatura/NC és/VS el/DA títol/NC de/SP el/DA volum/NC número/NC 66/ZZ de/SP la/DA col·lecció/NC popular/AQ Barcino/NP ,/FF de/SP l'/DA editorial/NC Barcino/NP ./FF
+Escrit/NC per/SP el/DA pintor/NC ,/FF dibuixant/NC i/CC crític/AQ Feliu_Elias/NP i/CC Bracons/NP ,/FF fa/VM un/DI repàs/NC en/SP les/DA seves/PX 84/ZZ pàgines/NC a/SP la/DA història/NC ,/FF les/DA tècniques/NC i/CC els/DA principals/AQ dibuixants/NC de/SP caricatura/NC de/SP Catalunya/NP i/CC el/DA món/NC ,/FF l'/DA any/NC 1931/ZZ ./FF
+Hi/PP apareixen/VM ressenyats/VM els/DA principals/AQ caricaturistes/NC estrangers/AQ (/FF Hogarth/NP ,/FF Forain/NP ,/FF Delaw/NP ,/FF Daumer/NP ,/FF Gavarni/NP ,/FF Gill/NP )/FF i/CC també/RG els/DA ninotaires/NC catalans/AQ :/FF Moliné/NP ,/FF Pellicer/NP ,/FF Apel/NP ./FF les/DA Mestres/NP ,/FF Junceda/NP ,/FF Xavier_Nogués/NP ,/FF Martrús/NP ,/FF o/CC Bagaria/NP entre/SP d'/SP altres/PI ./FF
+Sumari/NP ./FF
+I._De_l'_Humorisme/NP ;/FF II/NP ./FF
+De/SP la/DA tècnica/NC de/SP la/DA caricatura/NC ;/FF III/NP ./FF
+Història/NP de/SP la/DA caricatura/NC ;/FF
+Pseudopaludicola/NP mirandae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Paraguai/NP ./FF
+Referències/NP ./FF
+Baldo/VM ,/FF D./NP 2004/ZZ ./FF
+Pseudopaludicola/NP mirandae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA parc/NC nacional/AQ de/SP Phong_Nha_K_Bàng/NP (/FF en/SP vietnamita/NC V/NP n/NC qu/VM c/NC gia/NC Phong_Nha_K_Bàng/NP )/FF és/VS un/DI parc/NC nacional/AQ de/SP el/DA Vietnam/NP situat/VM a/SP la/DA província/NC de/SP Quang_Binh/NP ,/FF uns/DI 500_km/ZZ a/SP el/DA sud/NC de/SP Hanoi/NP ,/FF a/SP la/DA regió/NC de/SP B/NP c/NC Trung_B/NP ,/FF o/CC Costa_Central_de_el_Nord/NP ./FF
+Phong_Nha_K_Bàng/NP fou/VS declarat/VM patrimoni/NC de/SP la/DA Humanitat_per_la_UNESCO/NP el/DA 2003/ZZ i/CC és/VS una/PI de/SP les/DA destinacions/NC turístiques/AQ més/RG populars/AQ de/SP el/DA Vietnam/NP ./FF
+Gallery/NP ./FF
+El/DA Gasherbrum_IV/NP és/VS el/DA 17è/AO pic/NC en/SP la/DA Llista/NP de/SP les/DA muntanyes/NC més/RG altes/AQ de/SP la/DA terra/NC i/CC la/DA 6a/AO en/SP la/DA Llista/NP de/SP les/DA muntanyes/NC de/SP el/DA Pakistan/NP ./FF
+És/VS un/DI de/SP els/DA pics/NC de/SP el/DA massís/NC de/SP Gasherbrum/NP ./FF
+Els/DA Gasherbrums/NP són/VS un/DI remot/AQ grup/NC de/SP muntanyes/NC que/PR es/P0 troba/VM a/SP l'/DA extrem/NC nordest/AQ de/SP la/DA Glacera_de_Baltoro/NP a/SP la/DA serralada/NC de/SP el/DA Karakoram/NP ,/FF en/SP l'/DA extrem/NC occidental/AQ de/SP l'/DA Himàlaia/NP ./FF
+El/DA massís/NC conté/VM tres/ZZ de/SP els/DA cims/NC de/SP 8.000_metres/ZZ (/FF si/CS s'/P0 hi/PP inclou/VM el/DA Broad_Peak/NP )/FF ./FF
+Gasherbrum/NP sovint/RG es/P0 diu/VM que/CS significa/VM "/FF paret/NC brillant/AQ "/FF ,/FF pressumptament/RG una/DI referència/NC a/SP la/DA molt/RG visible/AQ cara/NC oest/NC de/SP el/DA Gasherbrum_IV/NP ,/FF però/CC en_realitat/RG prové/VM de/SP "/FF rgasha/AQ "/FF (/FF bonic/AQ )/FF +/FF "/FF brum/NC "/FF (/FF muntanya/NC )/FF en/SP baltí/NC Història/NP d'/SP ascensions/NC ./FF
+1958/ZZ Primera/NP ascensió/NC per/SP Walter_Bonatti/NP i/CC Carlo_Mauri/NP per/SP l'/DA aresta/NC nordest/AQ ./FF
+1985/ZZ Primera/NP ascensió/NC de/SP el/DA mur/NC de/SP més/RG de/SP 3.000m/ZZ ,/FF de/SP la/DA cara/NC oest/NC per/SP Robert_Schauer/NP i/CC Wojciech_Kurtyka/NP ./FF
+Malgrat/SP tot/PI ,/FF el/DA mal/NC temps/NC i/CC el/DA seu/PX estat/NC exhaust/AQ els/PP va/VA fer/VM arribar/VM a/SP la/DA cim/NC nord/AQ ,/FF deixant/VM el/DA veritable/AQ cim/NC ./FF
+1986/ZZ Primera/NP ascenció/NC per/SP l'/DA aresta/NC nordest/AQ per/SP Greg_Child/NP ,/FF Tim_Macartney-Snape/NP i/CC Tom_Hargis/NP ./FF
+Aquesta/DD és/VS també/RG la/DA segona/AO ascensió/NC de/SP el/DA Gasherbrum_IV/NP ./FF
+1997/ZZ Segona/NP ascensió/NC per/SP la/DA cara/NC oest/NC feta/VM per/SP un/DI equip/NC coreà/AQ (/FF tot_i_que/CS seguint/VM una/DI línia/NC diferent/AQ )/FF ./FF
+Referències/NP ./FF
+L'/DA Orgue/NP de/SP l'/DA abadia/NC de/SP Murbach/NP fou/VS construït/VM per/SP l'/DA orguener/NC Jean_Fickinger/NP l'/DA any/NC 1871/ZZ i/CC ha/VA estat/VS restaurat/VM recentment/RG ./FF
+El/DA 1691/ZZ ,/FF un/DI primer/AO orgue/NC ,/FF de/SP procedència/NC desconeguda/VM ,/FF va/VA ser/VS reconstruït/VM per/SP Antoine_Geiger/NP (/FF 1640-1711/ZZ ,/FF benedictí/AQ de/SP Faverney/NP )/FF ./FF
+Aquest/DD instrument/NC va/VA ser/VS potser/RG reemplaçat/VM abans/RG de/SP 1738/ZZ per/SP un/DI orgue/NC de/SP Johann_Friedrich_Macrander/NP ./FF
+El/DA 1738/ZZ ,/FF els/DA canonges/NC van/VA enderrocar/VM ells/PP mateixos/DI la/DA seva/PX abadia/NC per/SP ser/VS transferits/VM a/SP ciutat/NC ./FF
+El/DA que/PR quedava/VM de/SP l'/DA abadia/NC (/FF el/DA creuer/NC i/CC el/DA cor/NC )/FF va/VA esdevenir/VM església/NC parroquial/AQ el/DA 1820/ZZ ./FF
+El/DA 1871/ZZ ,/FF Jean_Fickinger/NP va/VA col·locar/VM un/DI orgue/NC nou/AQ a/SP Murbach/NP ./FF
+És/VS sobre/SP aquest/DD instrument/NC que/CS Edmond-Alexandre_Roethinger/NP hi/PP va/VA treballar/VM el/DA 1894/ZZ ./FF
+El/DA 6_de_maig_de_1906/WW ,/FF Martin_Rinckenbach/NP i/CC el/DA seu/PX fill/NC Joseph/NP hi/PP van/VA afegir/VM el/DA seu/PX Opus/NP 92/ZZ ,/FF de/SP 20/ZZ jocs/NC sobre/SP 2/ZZ teclats/NC i/CC pedal/NC ,/FF típic/AQ de/SP la/DA seva/PX producció/NC de/SP l'/DA època/NC ./FF
+Els/DA enfustats/VM de/SP la/DA tribuna/NC són/VS de/SP Boehm_de_Mulhouse/NP ./FF
+El/DA 1986/ZZ ,/FF abans/RG de/SP la/DA seva/PX restauració/NC ,/FF l'/DA orgue/NC era/VS intocable/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP de/SP els/DA orgues/NC d'/SP Alsàcia/NP ;/FF
+El/DA Partit_Liberal_d'_Àustria/NP (/FF en/SP alemany/NC ,/FF Freiheitliche_Partei/NP Österreichs/AQ ,/FF FPÖ/NP )/FF )/FF és/VS un/DI partit/NC polític/AQ austríac/AQ ./FF
+L/NP '/FF Aliança/NC per/SP a/SP el/DA Futur_d'_Àustria/NP (/FF en/SP alemany/NC ,/FF Bündnis_Zukunft/NP Österreich/NC ,/FF BZÖ/NP )/FF és/VS un/DI partit/NC polític/AQ austríac/AQ ./FF
+Pseudopaludicola/NP mystacalis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC ,/F

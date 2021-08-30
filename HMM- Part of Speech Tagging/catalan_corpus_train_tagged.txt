@@ -6922,4 +6922,89 @@ Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el
 Referències/NP ./FF
 Peixoto/NP ,/FF O.L./NP ,/FF Arzabe/NP ,/FF C._&_Andrade/NP ,/FF G./NP 2004/ZZ ./FF
 Pleurodema/NP diplolistris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
-Acce
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Vicent_González/NP i/CC Lizondo/NP (/FF Albacete/NP ,/FF 22_d'_agost_de_1942/WW -/FF València/NP ,/FF 23_de_desembre_de_1996/WW )/FF ,/FF polític/NC valencià/AQ i/CC figura/NC capdavantera/AQ de/SP el/DA blaverisme/NC ./FF
+El/DA 1982/ZZ funda/NC el/DA partit/NC Unió_Valenciana/NP com/CS a/SP president/NC ,/FF essent/VS -ne/PP regidor/NC a/SP la/DA ciutat/NC de/SP València/NP per/SP les/DA eleccions/NC municipals/AQ de/SP 1983/ZZ ,/FF càrrec/NC que/PR repetix/VM en/SP les/DA de/SP 1987/ZZ ./FF
+Quan/CS l'/DA alcalde/NC Ricard_Pérez_Casado/NP dimiteix/VM a/SP finals/NC de/SP 1988/ZZ ,/FF González_Lizondo/NP presenta/VM la/DA seua/PX candidatura/NC amb/SP el/DA suport/NC de/SP el/DA Partit_Popular/NP ,/FF però/CC és/VS derrotat/VM per/SP 14/ZZ vots/NC a/SP 13/ZZ ./FF
+En/SP les/DA eleccions/NC generals/AQ de/SP 1989/ZZ és/VS escollit/VM diputat/NC per/SP UV/NP ,/FF essent/VS portantveu/NC de/SP el/DA Grup_Mixt/NP ./FF
+Mercés/NP a/SP el/DA pacte/NC amb/SP el/DA PP/NP en/SP les/DA eleccions/NC munipals/AQ de/SP 1991/ZZ ,/FF Lizondo/NP és/VS primer/AO tinent/NC d'/SP alcalde/NC de/SP València/NP ,/FF però/CC en/PP dimiteix/VM a/SP l'/DA any/NC següent/AQ després/RG que/CS un/DI membre/NC d'/SP UV/NP dimitira/VM i/CC la/DA majoria/NC PP-UV/NP perguera/NC la/DA majoria/NC a/SP l'/DA Ajuntament/NP de/SP el/DA cap/NC i/CC casal/NC ./FF
+En/SP les/DA eleccions/NC generals/AQ de/SP 1993/ZZ González_Lizondo/NP torna/VM a/SP ser/VS diputat/VM ,/FF ara/RG en/SP solitari/NC ,/FF i/CC integrat/VM a/SP el/DA Grup_Mixt/NP ./FF
+Però/CC l'/DA octubre_de_1994/WW renuncia/VM a/SP el/DA seu/PX escó/NC de/SP diputat/NC ,/FF mesos/NC després/RG d'/SP haver/VA estat/VS intervingut/VM de/SP el/DA cor/NC i/CC fou/VS substituït/VM per/SP Josep_Maria_Chiquillo_Barber/NP ./FF
+Es/P0 presenta/VM ,/FF però/CC ,/FF a/SP les/DA eleccions/NC autonòmiques/AQ de/SP 1995/ZZ ,/FF i/CC aconsegueix/VM ser/VS diputat/NC ./FF
+Mercés/NP a/SP el/DA pacte/NC de/SP el/DA pollastre/NC (/FF tal/RG com/CS ell/PP mateix/DI l'/DA anomenà/VM )/FF Eduardo_Zaplana_de_el_Partit_Popular/NP abasta/VM la/DA presidència/NC de/SP la/DA Generalitat_Valenciana/NP ,/FF Lizondo/NP és/VS nomenat/VM president/NC de/SP les/DA Corts_Valencianes/NP ,/FF i/CC Unió_Valenciana/NP la/DA "/FF Conselleria_de_Medi_Ambient/NP "/FF (/FF reanomenada/NC com/CS a/SP "/FF de/SP Mig_Ambient/NP "/FF )/FF ./FF
+El/DA novembre_de_1996/WW González_Lizondo/NP és/VS expulsat/VM d'/SP Unió_Valenciana/NP per/SP els/DA seus/PX "/FF apropaments/NC "/FF a/SP el/DA Partit_Popular/NP ./FF
+Durant/SP un/DI ple/NC de/SP el/DA Parlament/NP el/DA 19_de_desembre/WW pateix/VM un/DI infart/NC ,/FF i/CC mor/VM quatre/ZZ dies/NC després/RG per/SP una/DI aturada/NC cardíaca/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Associació_Cultural_Amics_de_Vicent_González/NP i/CC Lizondo/NP ./FF ;/FF Mor_Vicent_González/NP i/CC Lizondo/NP ,/FF president/NC de/SP les/DA Corts_Valencianes/NP el/PP mundo/VM ./FF es/P0 ;/FF
+Pleurodema/NP guayapae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Bolívia/NP ./FF
+Referències/NP ./FF
+Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF Cortez/NP ,/FF C._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Pleurodema/NP guayapae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP kriegi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Pleurodema/NP kriegi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP marmorata/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Xile/NP i/CC Perú/NP ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF Sinsch/NP ,/FF U./NP ,/FF Köhler/NP ,/FF J./NP ,/FF Arizabal/NP ,/FF W./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Pleurodema/NP marmorata/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Ectotèrmia/NP és/VS un/DI terme/NC modern/AQ que/PR fa_referència/VM a/SP l'/DA estratègia/NC de/SP molts/DI éssers/NC vius/AQ per/SP optimitzar/VM la/DA seva/PX temperatura/NC corporal/AQ ,/FF antigament/RG coneguda/VM com/CS a/SP poiquilotèrmia/NC i/CC que/PR s'/P0 aplica/VM a/SP certs/DI animals/NC amb/SP una/DI temperatura/NC corporal/AQ variable/NC (/FF molt/RG incorrectament/RG agrupats/VM com/CS a/SP animals/NC de/SP sang_freda/NC o/CC poiquiloterms/NC )/FF ./FF
+L'/DA ectotèrmia/NC també/RG és/VS un/DI sistema/NC de/SP regulació/NC de/SP el/DA ritme/NC metabòlic/AQ ./FF
+Els/DA ectoterms/NC són/VS animals/AQ la/DA temperatura/NC de/SP els/DA quals/PR depèn/VM de/SP l'/DA ambient/NC ,/FF però/CC això/PD no/RN implica/VM que/CS la/DA seva/PX temperatura/NC sigui/VS exactament/RG la/DA mateixa/NC ./FF
+Per_exemple/RG ,/FF una/DI sargantana/NC ,/FF a/SP primera/AO hora/NC d'/SP un/DI fred/AQ matí/NC de/SP primavera/NC ,/FF aproximadament/RG 10º/ZZ C/NP ,/FF tindria/VM la/DA mateixa/DI temperatura/NC corporal/AQ que/CS l'/DA ambient/NC en/SP què/PR es/P0 mou/VM ./FF
+El/DA seu/PX metabolisme/NC i/CC moviment/NC quedarien/VM molt/RG ralentitzats/NC ./FF
+En/SP aquest/DD cas/NC ,/FF la/DA seva/PX regulació/NC corporal/AQ no/RN seria/VS per/SP mitjà/NC d'/SP un/DI procés/NC metabòlic/AQ ,/FF com/CS en/SP els/DA animals/NC endoterms/AQ ,/FF sinó/CC per/SP un/DI procés/NC de/SP comportament/NC ./FF
+Després/RG de/SP trobar/VM una/DI zona/NC adient/AQ per/SP posar/VM -se/P0 a/SP el/DA sol/NC ,/FF estendre/VM el/DA seu/PX ventre/NC i/CC colocar/VM -se/P0 de/SP manera/NC adequada/VM per/SP rebre/VM la/DA major/AQ radiació/NC solar/AQ possible/AQ ,/FF captaria/VM calor/NC fins/SP arribar/VM a/SP una/DI temperatura/NC òptima/AQ de/SP 37º/ZZ C/NP ,/FF a/SP la/DA qual/PR el/DA seu/PX metabolisme/NC i/CC locomoció/NC es/P0 trobarien/VM a/SP el/DA nivell/NC òptim/AQ ./FF
+Aquest/DD tipus/NC de/SP regulació/NC de/SP temperatura/NC basat/VM en/SP la/DA radiació/NC infrarroja/RG solar/AQ es/P0 coneix/VM com/CS a/SP heliotèrmia/NC ./FF
+Vegeu/VM també/RG ./FF
+Endotèrmia/NP ;/FF
+A/SP principis/NC de/SP el/DA segle_XX/WW hi/PP va/VA haver/VA molta/DI immigració/NC d'/SP altres/DI parts/NC d'/SP Espanya/NP més/RG empobrides/VM com/CS Extremadura/NP i/CC Andalusia/NP que/PR van/VA arribar/VM en/SP busca/NC de/SP feina/NC ,/FF noves/AQ possibilitats/NC o/CC per/SP escapar/VM de/SP els/DA conflictes/NC bèl·lics/AQ ./FF
+Catalunya/NP va/VA ser/VS la/DA comunitat/NC autònoma/AQ espanyola/AQ que/PR més/RG immigració/NC va/VA rebre/VM d'/SP aquests/DD llocs/NC i/CC per/SP tant/RG els/DA pobles/NC es/P0 van/VA haver/VA d/NC industrialitzar/VM per/SP poder/VM donar/VM feina/NC a/SP tota/DI aquesta/DD gent/NC ./FF
+En/SP el/DA cas/NC de/SP Cerdanyola_de_el_Vallès/NP entre/SP d'/SP altres/PI es/P0 va/VA crear/VM la/DA important/AQ fàbrica/NC de/SP la/DA Uralita/NP que/PR va/VA donar/VM molts/DI llocs/NC de/SP treball/NC ./FF
+La/DA fàbrica/NC Uralita/NP produïa/VM diversos/DI materials/AQ fets/NC d/AQ uralita/NC així/RG com/CS sostres/NC i/CC canonades/NC ./FF
+Anys/NP després/RG es/P0 van/VA començar/VM a/SP denunciar/VM problemes/NC per/SP la/DA malaltia/NC de/SP l'/DA amiant/NC ,/FF que/PR consistia/VM en/SP la/DA saturació/NC de/SP les/DA vies/NC respiratòries/AQ ./FF
+Aquesta/DD malaltia/NC era/VS deguda/VM a/SP la/DA inhalació/NC de/SP fibres/NC d'/SP amiant/NC ./FF
+Una/DI vegada/NC tancada/VM el/DA terreny/NC va/VA estar/VM anys/NC sense/SP utilitzar/VM -se/P0 ,/FF fins/SP l'/DA any/NC 2000/ZZ en/SP què/PR van/VA començar/VM a/SP construir/VM -hi/PP vivendes/NC de/SP protecció/NC oficial/AQ ./FF
+La/DA fi/NC de/SP el/DA Paleocè/NP (/FF fa/VM 55,5/ZZ -/FF 54,8_milions/ZZ d'/SP anys/NC )/FF va/VA ser/VS marcada/VM per/SP un/DI de/SP els/DA períodes/NC de/SP canvi/NC global/AQ més/RG significatius/AQ de/SP el/DA Cenozoic/NP ./FF
+Un/DI canvi/NC climàtic/AQ sobtat/VM ,/FF el/DA màxim/NC tèrmic/AQ de/SP el/DA Paleocè-Eocè/NP (/FF MTPE/NP )/FF ,/FF va/VA trastocar/VM la/DA circulació/NC oceànica/AQ i/CC atmosfèrica/AQ ,/FF provocant/VM l'/DA extinció/NC de/SP molts/DI foraminífers/NC bentonítics/AQ i/CC grans/AQ canvis/NC en/SP els/DA mamífers/NC terrestres/AQ que/PR marcaren/VM l'/DA aparició/NC de/SP els/DA llinatges/NC de/SP mamífers/NC d'/SP avui/RG en/SP dia/NC ./FF
+En/SP un/DI esdeveniment/NC que/PR va/VA marcar/VM l'/DA inici/NC de/SP l'/DA Eocè/NP ,/FF la/DA temperatura/NC de/SP el/DA planeta/NC va/VA augmentar/VM en/SP un/DI de/SP els/DA escalfaments/NC globals/AQ més/RG ràpids/AQ i/CC extrems/AQ registrats/VM en/SP la/DA història/NC geològica/AQ ,/FF conegut/VM com/CS a/SP '/FF màxim/NC tèrmic/AQ de/SP el/DA Paleocè-Eocè/NP '/FF o/CC '/FF màxim/NC tèrmic/AQ de/SP l'/DA Eocè/NP inferior/AQ '/FF ./FF
+També/RG ha/VA rebut/VM el/DA nom/NC de/SP màxim/NC tèrmic/AQ de/SP el/DA Paleocè/NP superior/AQ ,/FF segons/SP una/DI interpretació/NC lleugerament/RG diferent/AQ de/SP el/DA registre/NC estratigràfic/AQ ./FF
+La/DA temperatura/NC de/SP la/DA superfície/NC marina/NC augmentà/VM entre/SP cinc/ZZ i/CC vuit/ZZ graus/NC en/SP un/DI període/NC d'/SP uns/DI quants/DI milers/NC d'/SP anys/NC ,/FF i/CC a/SP les/DA altes/AQ latituds/NC de/SP l'/DA oceà/NC Àrtic/NP ,/FF la/DA temperatura/NC de/SP la/DA superfície/NC marina/AQ va/VA arribar/VM a/SP 23ºC/ZZ ,/FF una/DI temperatura/NC subtropical/AQ ./FF
+El/DA 1990/ZZ ,/FF els/DA científics/NC marins/AQ James_Kennett/NP i/CC Lowell_Stott/NP ,/FF ambdós/PI de/SP la/DA Universitat_de_Califòrnia/NP ,/FF van/VA dur_a_terme/VM anàlisis/NC de/SP sediments/NC marins/AQ que/PR van/VA mostrar/VM que/CS no/RN només/RG la/DA superfície/NC de/SP l'/DA Àrtic/NP s'/P0 havia/VA escalfat/VM uns/DI deu/NC graus/NC a/SP principis/NC de/SP l'/DA Eocè/NP ,/FF sinó/CC que/CS l'/DA oceà/NC s'/P0 havia/VA escalfat/VM fins/SP les/DA seves/PX regions/NC més/RG profundes/AQ ,/FF canviant/VM -ne/PP radicalment/RG la/DA composició/NC química/AQ ./FF
+El/DA contingut/NC d'/SP oxigen/NC de/SP les/DA aigües/NC profundes/AQ va/VA quedar/VM dràsticament/RG reduït/VM ,/FF fent/VM que/CS entre/VM un/DI 30/ZZ i/CC un/DI 40_%/ZZ de/SP els/DA foraminífers/NC d'/SP aigües/NC profundes/AQ s'/P0 extingissin/VM ./FF
+El/DA geòleg/NC Jim_Zachos/NP va/VA relacionar/VM l'/DA ona/NC de/SP calor/NC de/SP l'/DA Eocè/NP a/SP canvis/NC dràstics/AQ en/SP la/DA composició/NC química/AQ de/SP l'/DA oceà/NC que/PR van/VA desencadenar/VM una/DI gran/AQ extinció/NC a/SP escala/NC global/AQ ./FF
+Les/DA causes/NC ./FF
+La/DA causa/NC de/SP l'/DA MTPE/NP no/RN està/VM clara/AQ ./FF
+Les/DA reserves/NC de/SP gas/NC metà/NC atrapades/NC en/SP clatrats/NC podrien/VM haver/VA sigut/VM alliberades/VM per/SP les/DA altes/AQ temperatures/NC ,/FF i/CC la/DA combustió/NC tèrmica/AQ de/SP matèria/NC sedimentària/AQ orgànica/AQ i/CC de/SP dipòsits/NC de/SP torba/NC podria/VM haver/VA contribuït/VM a/SP incrementar/VM la/DA quantitat/NC de/SP gasos/NC d'/SP efecte/NC hivernacle/NC ,/FF provocant/VM un/DI augment/NC de/SP les/DA temperatures/NC ./FF
+Una/DI altra/DI teoria/NC és/VS que/CS l'/DA impacte/NC d'/SP un/DI cometa/NC va/VA provocar/VM l'/DA MTPE/NP ./FF
+Pleurodema/NP nebulosa/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Pleurodema/NP nebulosa/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP thaul/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Pleurodema/NP thaul/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pleurodema/NP tucumana/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP &/FF di/VM Tada/NP ,/FF I./NP 2004/ZZ ./FF
+Pleurodema/NP tucumana/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP Sud-Amèrica/NP ./FF
+Espècies/NP ./FF
+Pseudopaludicola/NP boliviana/NC ;/FF Pseudopaludicola/NP canga/NC ;/FF Pseudopaludicola/NP ceratophryes/NC ;/FF Pseudopaludicola/NP falcipes/NC ;/FF Pseudopaludicola/NP llanera/NC ;/FF Pseudopaludicola/NP mineira/NC ;/FF Pseudopaludicola/NP mirandae/AQ ;/FF Pseudopaludicola/NP mystacalis/NC ;/FF Pseudopaludicola/NP pusilla/NC ;/FF Pseudopaludicola/NP riopiedadensis/NC ;/FF Pseudopaludicola/NP saltica/NC ;/FF Pseudopaludicola/NP ternetzi/VM ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+La/DA línia/NC 1/ZZ de/SP Rodalies_Barcelona/NP (/FF R1/ZZ )/FF ,/FF és/VS una/DI línia/NC de/SP Renfe/NP coneguda/VM com/CS a/SP línia/NC de/SP el/DA Maresme/NP o/CC línia/NC de/SP la/DA costa/NC ,/FF els/DA trens/NC circulen/VM entre/SP l'/DA Hospitalet_de_Llobregat/NP i/CC Maçanet-Massanes/NP ./FF
+Actualment/RG ,/FF amb/SP la/DA incorporació/NC de/SP els/DA trens/NC Civia/NP ,/FF i/CC només/RG per/SP a/SP aquest/DD material/NC ,/FF s'/P0 ha/VA ampliat/VM el/DA recorregut/NC fins/SP a/SP Molins_de_Rei/NP ./FF
+Història/NP ./FF
+La/DA línia/NC de/SP tren/NC Barcelona-Mataró/NP va/VA ser/VS inaugurada/VM el/DA 28_d'_octubre_de_1848/WW ,/FF i/CC va/VA ser/VS la/DA primera/AO línia/NC de/SP ferrocarril/NC de/SP la/DA península/NC ibèrica/AQ ./FF
+En/SP aquesta/DD línia/NC hi/PP ha/VA el/DA túnel/NC de/SP Montgat/NP ,/FF el/DA més/RG antic/AQ de/SP tota/DI la/DA xarxa/NC espanyola/AQ ./FF
+Aquest/DD ferrocarril/NC va/VA ser/VS promogut/VM per/SP el/DA mataroní/NC Miquel_Biada/NP i/CC Bunyol/NP ./FF
+Les/DA obres/NC ,/FF les/PP van/VA realitzar/

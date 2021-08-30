@@ -7102,4 +7102,106 @@ Enllaços/NC externs/AQ ./FF
 Pàgina/NP de/SP els/DA orgues/NC d'/SP Alsàcia/NP ;/FF
 El/DA Partit_Liberal_d'_Àustria/NP (/FF en/SP alemany/NC ,/FF Freiheitliche_Partei/NP Österreichs/AQ ,/FF FPÖ/NP )/FF )/FF és/VS un/DI partit/NC polític/AQ austríac/AQ ./FF
 L/NP '/FF Aliança/NC per/SP a/SP el/DA Futur_d'_Àustria/NP (/FF en/SP alemany/NC ,/FF Bündnis_Zukunft/NP Österreich/NC ,/FF BZÖ/NP )/FF és/VS un/DI partit/NC polític/AQ austríac/AQ ./FF
-Pseudopaludicola/NP mystacalis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC ,/F
+Pseudopaludicola/NP mystacalis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF Uruguai/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Colli/NP ,/FF G./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF Faivovich/NP ,/FF J._&_Baldo/NP ,/FF D./NP 2004/ZZ ./FF
+Pseudopaludicola/NP mystacalis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP pusilla/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Colòmbia/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+Acosta-Galvis/NP ,/FF A._&_La_Marca/NP ,/FF E./NP 2004/ZZ ./FF
+Pseudopaludicola/NP pusilla/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP riopiedadensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Garcia/NP ,/FF P._&_Carnaval/NP ,/FF A.C./NP 2004/ZZ ./FF
+Pseudopaludicola/NP riopiedadensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP saltica/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Colli/VM ,/FF G._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Pseudopaludicola/NP saltica/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pseudopaludicola/NP ternetzi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Bastos/NP ,/FF R._&_Caramaschi/NP ,/FF U./NP 2004/ZZ ./FF
+Pseudopaludicola/NP ternetzi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Tractat_de_Bucarest/NP de/SP 1916/ZZ és/VS un/DI tractat/NC internacional/AQ signat/VM el/DA 27_d'_agost_de_1916/WW a/SP la/DA ciutat/NC de/SP Bucarest/NP entre/SP el/DA Regne_de_Romania/NP i/CC la/DA Triple_Entesa/NP ./FF
+Orígens/NP ./FF
+Des_de/SP els/DA inicis/NC de/SP el/DA segle_XIX/WW els/DA moviments/NC populars/AQ nacionalistes/AQ anaren/VM en/SP augment/NC a/SP Romania/NP ,/FF tenint/VM el/DA somni/NC d'/SP un/DI Estat-nació/NP ,/FF i/CC la/DA creació/NC d'/SP una/DI nació/NC romanesa/AQ es/P0 van/VA anar/VM desenvolupant/VM ./FF
+Amb/SP la/DA disminució/NC de/SP l'/DA Imperi_Otomà/NP els/DA principats/NC de/SP Valàquia/NP i/CC Moldàvia/NP es/P0 van/VA unir/VM per/SP acabar/VM formant/VM el/DA Regne_de_Romania/NP el/DA 1881/ZZ ./FF
+Primera/AO Guerra_Mundial/NP ./FF
+Després/RG de/SP dos/ZZ anys/NC de/SP curosa/AQ neutralitat/NC ,/FF el/DA 1916/ZZ Romania/NP es/P0 va/VA unir/VM a/SP la/DA Primera_Guerra_Mundial/NP a/SP el/DA costat/NC de/SP el/DA Triple_Entente/NP amb/SP la/DA finalitat/NC d'/SP obtenir/VM Transsilvània/NP ,/FF un/DI territori/NC governat/VM per/SP Hongria/NP ,/FF però/CC amb/SP una/DI població/NC majoritàriament/RG romanesa/AQ ./FF
+Segons/SP el/DA tractat/NC ,/FF Romania/NP havia/VA d'/SP atacar/VM l'/DA Imperi/NP austrohongarès/NC per/SP el/DA sud/NC i/CC a/SP canvi/NC les/DA potencies/VM aliades/NC es/P0 comprometien/VM a/SP cedir/VM -li/PP la/DA Transilvània/NP a/SP el/DA final/NC de/SP la/DA guerra/NC ./FF
+Romania/VM va/VA declarar/VM la/DA guerra/NC el/DA dia_27_d'_agost/WW i/CC va/VA llançar/VM tres/ZZ exèrcits/NC de/SP 440.000/ZZ homes/NC la/DA mateixa/DI nit/NC a_través_de/SP els/DA passatges/NC de/SP els/DA Carpats/NP de/SP el/DA sud/NC ./FF
+L'/DA avanç/NC de/SP l'/DA exèrcit/NC romanès/AQ va/VA ser/VS fàcil/AQ per/SP el/DA fet/NC que/CS l'/DA imperi/NC austrohongarès/NC no/RN havia/VA situat/VM grans/AQ forces/NC a/SP la/DA frontera/NC romanesa/AQ ./FF
+A/SP mitjans/NC de/SP el/DA mes_de_setembre/WW ,/FF però/RG ,/FF l'/DA atac/NC va/VA ser/VS aturat/NC per/SP les/DA tropes/NC alemano-búlgares/NC ,/FF les/DA quals/PR van/VA començar/VM a/SP amenaçar/VM les/DA possicions/NC de/SP l'/DA exèrcit/NC romanès/AQ ./FF
+A/SP finals/NC d'/SP octubre/WW l'/DA exèrcit/NC romanès/AQ va/VA ser/VS empès/VM fora_de/SP Transilvania/NP gràcies_a/SP els/DA reforços/NC alemanys/AQ que/PR arribaren/VM per/SP ajudar/VM el/DA debilitat/NC exèrcit/NC austrohongarès/NC ./FF
+A/SP finals/NC de/SP 1916/ZZ la/DA ciutat/NC de/SP Bucarest/NP va/VA caure/VM ,/FF havent/VM de/SP fugir/VM el/DA govern/NC a/SP Ia/NP i/CC (/FF ciutat/NC de/SP Moldàvia/NP que/PR va/VA esdevenir/VM la/DA capital/NC de/SP Romania/NP fins/SP a/SP el/DA final/NC de/SP la/DA Guerra_Mundial/NP )/FF ./FF
+La/DA Valàquia/NP quedà/VM sota/SP el/DA control/NC de/SP les/DA Potències_Centrals/NP ./FF
+El/DA nombre/NC de/SP víctimes/NC de/SP la/DA campanya/NC fou/VS d'/SP aproximadament/RG 100.000/ZZ morts/NC per/SP a/SP Romania/NP ,/FF la/DA qual/DR a/SP el/DA final/NC de/SP la/DA guerra/NC aconseguí/VM guanyar/VM la/DA regió/NC de/SP Transilvània/NP ./FF
+Notes/NP ./FF
+Adenomera/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP l'/DA est/NC de/SP la/DA serralada/NC de/SP els/DA Andes/NP a/SP Sud-Amèrica/NP ./FF
+Espècies/NP ./FF
+Adenomera/NP andreae/RG ;/FF Adenomera/NP araucaria/VM ;/FF Adenomera/NP bokermanni/NC ;/FF Adenomera/NP diptyx/VM ;/FF Adenomera/NP heyeri/NC ;/FF Adenomera/NP hylaedactyla/NC ;/FF Adenomera/NP lutzi/VM ;/FF Adenomera/NP marmorata/AQ ;/FF Adenomera/NP martinezi/VM ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Andrei_Kolkutin/NP ,/FF de/SP vegades/NC conegut/VM com/CS a/SP Andrei_Kolkoutine/NP segons/SP la/DA transcripció/NC afrancesada/NC de/SP el/DA rus/NC (/FF nascut/VM el/DA 1957/ZZ a/SP Smoliàninovo/NP ,/FF Primórie/NP )/FF ,/FF és/VS un/DI famós/AQ artista/NC rus/AQ conegut/VM per/SP les/DA seves/PX habilitats/NC tècniques/AQ i/CC les/DA seves/PX característiques/NC artístiques/AQ ./FF
+A/SP vegades/NC els/DA motius/NC són/VS la/DA gent/NC treballadora/AQ normal/AQ i/CC corrent/AQ de/SP Rússia/NP ,/FF que/PR per/SP altra/DI banda/NC tenen/VM un/DI caràcter/NC indefinit/AQ ,/FF amb/SP humor/NC i/CC amabilitat/NC ./FF
+A/SP vegades/NC els/DA elements/NC suprematistes/NC es/P0 combinen/VM amb/SP els/DA elements/NC figuratius/AQ ./FF
+A/SP la/DA part/NC inferior/AQ de/SP els/DA quadres/NC poden/VM aparèixer/VM edificis/NC distorsionats/VM o/CC cartes/NC que/PR completen/VM la/DA composició/NC ./FF
+Kolkutin/NP es/P0 va/VA graduar/VM a/SP el/DA 1982/ZZ a/SP l'/DA Acadèmia_d'_Arts_Repin/NP ,/FF a/SP Leningrad/NP ./FF
+Actualment/RG viu/AQ i/CC treballa/VM a/SP Nàltxik/NP ,/FF a/SP la/DA República_de_Kabardino-Balkària_de_la_Federació_Russa/NP ./FF
+Kolkutin/NP ha/VA desenvolupat/VM la/DA seva/PX pròpia/AQ tècnica/AQ barrejant/VM tradicions/NC de/SP les/DA icones/NC russes/AQ amb/SP el/DA suprematisme/NC de/SP Malèvitx/NP ,/FF el/DA cubisme/NC i/CC l'/DA art/NC naïf/AQ ./FF
+El/DA mitjà/NC acostuma/VM a/SP ser/VS la/DA pintura/NC a/SP l'/DA oli/NC ,/FF però/CC Kolkutin/NP també/RG ha/VA fet/VM escultures/NC i/CC treballs/NC gràfics/AQ ./FF
+Segons/CS afirma/VM ,/FF Kolkutin/NP buscava/VM els/DA tons/NC de/SP colors/NC tan/RG especials/AQ que/PR es/P0 troben/VM a/SP les/DA antigues/AQ icones/NC russes/AQ i/CC va/VA desenvolupar/VM un/DI mètode/NC per/SP fer/VM aquests/DD tons/NC enganxant/VM una/DI capa/NC de/SP pintura/NC grisa/AQ a/SP la/DA tela/NC abans/RG de/SP pintar/VM els/DA colors/NC ,/FF cosa/NC que/PR dóna/VM a/SP els/DA colors/NC una/DI càlida/AQ claredat/NC ,/FF distintiva/AQ de/SP Kolkutin/NP ./FF
+Aquesta/DD barreja/NC de/SP les/DA antigues/AQ tradicions/NC russes/AQ per/SP confegir/VM un/DI nou/AQ estil/NC ha/VA estat/VS controvertida/VM ./FF
+Els/DA quadres/NC de/SP Kolkutin/NP són/VS àmpliament/RG exposats/VM en/SP museus/NC ,/FF institucions/NC i/CC col·leccions/NC privades/VM de/SP tot/DI el/DA món/NC :/FF a/SP Rússia/NP ,/FF França/NP ,/FF els/DA Estats_Units/NP ,/FF Alemanya/NP ,/FF Dinamarca/NP o/CC Suïssa/NP ,/FF entre/SP d'/SP altres/PI ./FF
+Col·leccions/NP ./FF
+L'/DA art/NC de/SP Kolkutin/NP és/VS exposat/VM ,/FF entre/SP altres/DI llocs/NC ,/FF a/SP les/DA següents/AQ institucions/NC :/FF Galeria_Estatal_Tretiakov_de_Moscou/NP ;/FF Museu_Estatal_de_Kabardino-Balkària/NP ;/FF Galeria_de_Pintura_de_Volgograd/NP ;/FF Museu_d'_Art_de_Tula/NP ;/FF Col·lecció_de_el_Banc_Moskóvia/NP ;/FF Col·lecció_de_l'_Inkombank/NP (/FF Moscou/NP )/FF ;/FF Col·lecció_de_el_Banc_Stolitxni/NP (/FF Moscou/NP )/FF ;/FF Sala_d'_exposicions_Olimp/NP (/FF Moscou/NP )/FF ;/FF Sygeplejeskolen/NP ,/FF Århus/AQ (/FF Dinamarca/NP )/FF ;/FF Museu_de_l'_Art_Religiós/NP ,/FF Lemvig/NP (/FF Dinamarca/NP )/FF ;/FF Kastrupgårdsamlingen/NP ,/FF Copenhaguen/NP (/FF Dinamarca/NP )/FF ;/FF Bibliografia/NP ./FF
+Bjørnager/NP ,/FF Kjeld/NP :/FF Andrei_Kolkoutine/NP :/FF Signs/NP and/AQ Deeds/NP from/NC the/AQ Russian_Province/NP ./FF
+Moscou/NP :/FF Ganimed/NP ,/FF 2006/ZZ ./FF
+Kolkutin/NP ,/FF Andrei/NP :/FF Pictures/NP from/NC the/AQ Russian_Province/NP //FF Les/NP tableaux/VM de/SP la/DA province/NC russe/NC //FF Kartini/NP rússkoi/RG províntsii/AQ ./FF
+Moscou/NP :/FF Ganimed/NP ,/FF 1997/ZZ ./FF ;/FF Selezniova/NP ,/FF Iekaterina/NP :/FF Andrei_Kolkoutine/NP ./FF
+Silkeborg/NP :/FF Galerie_Moderne/NP ,/FF 2007/ZZ ./FF ;/FF Galerie_Moderne_Silkeborg/NP :/FF '/FF Kolkoutine/NP '/FF ./FF
+Silkeborg/NP :/FF Galerie_Moderne/NP ,/FF 2001/ZZ ./FF
+Eveleigh/NP ,/FF Romilly/NP ./FF «/FF Postmodern_Icon/NP »/FF ,/FF dins/SP The_Moscow_Times/NP ,/FF 1_d'_abril_del_2005/WW ,/FF pàg/NC ./FF 102/ZZ (/FF Versió/NP online/NC )/FF ;/FF Six_Peintres_Sovietiques/NP d'/SP aujourd'hui/RG :/FF Andrei_Kolkoutine/NP ,/FF Dmitri_Krymov/NP ,/FF Leonide_Tichkov/NP ,/FF Grigori_Berstein/NP ,/FF Lev_Tabenkine/NP ./FF 8/ZZ ./FF mars/NC -/FF 7/ZZ avril/NC 1990/ZZ ,/FF Fondation_Mona_Bismarck/NP ,/FF 1990/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Andrei_Kolkutin/NP a/SP la/DA Galeria_Kino/NP ;/FF Andrei_Kolkutin/NP a/SP la/DA Galerie_Moderne_de_Silkeborg/NP ;/FF
+Adenomera/NP andreae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Perú/NP ,/FF Surinam/NP i/CC Veneçuela/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+La/DA Marca/NP ,/FF E./NP ,/FF Azevedo-Ramos/NP ,/FF C./NP ,/FF Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
+Adenomera/NP andreae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Adenomera/NP araucaria/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Kwet/NP ,/FF A./NP ,/FF Garcia/NP ,/FF P._&_Angulo/NP ,/FF A./NP 2004/ZZ ./FF
+Adenomera/NP araucaria/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Ed_Brubaker/NP (/FF 17_de_novembre_de_1966/WW )/FF és/VS un/DI guionista/NC nord-americà/AQ guanyador/AQ de/SP el/DA Premi_Eisner/NP ./FF
+Va/VA nàixer/VM a/SP el/DA Centre_Mèdic_Naval_Nacional/NP a/SP Bethesda/NP ,/FF Maryland/NP ./FF
+És/VS especialment/RG conegut/VM per/SP el/DA seu/PX treball/NC com/CS a/SP guionista/NC de/SP còmics/NC en/SP títols/NC com/CS Batman/NP ,/FF Daredevil/NP ,/FF Capità_Amèrica/NP ,/FF The_Immortal_Iron_Fist/NP ,/FF Catwoman/NP ,/FF Gotham_Central/NP ,/FF Sleeper/NP ,/FF Uncanny_X-Men/NP i/CC ,/FF i/CC The_Authority/NP :/FF Revolution/NP ,/FF i/CC per/SP ser/VS un/DI de/SP els/DA encarregats/NC a/SP revitalitzar/VM el/DA còmic/NC de/SP gènere/NC negre/AQ ./FF
+Des_de/SP el/DA 2007/ZZ viu/AQ a/SP Seattle/NP ,/FF Washington/NP ./FF
+Estil/NP d'/SP escriptura/NC ./FF
+El/DA primer/AO treball/NC de/SP Brubaker/NP en/SP el/DA món/NC de/SP el/DA còmic/NC va/VA ser/VS abans_que_res/RG en/SP el/DA gènere/NC negre/AQ amb/SP treballs/NC com/CS ara/RG Lowlife/NP ,/FF The_Fall/NP ,/FF Sandman_Presents/NP :/FF Dead_Boy_Detectius/NP i/CC Scene/NP of/NC the/AQ Crime/NP ./FF
+El/DA seu/PX primer/AO treball/NC de/SP superherois/NC tendia/VM a/SP incorporar/VM alguns/DI aspectes/NC de/SP el/DA gènere/NC negre/AQ -/FF exemples/NC com/CS Batman/NP (/FF històries/NC de/SP detectius/NC )/FF ,/FF Catwoman/NP i/CC Sleeper/NP ./FF
+Açò/PD ha/VA continuat/VM amb/SP el/DA seu/PX treball/NC a/SP Marvel/NP ,/FF com/CS en/SP Daredevil/NP i/CC Criminal/NP ./FF
+No/RN obstant/VM això/PD ,/FF també/RG ha/VA treballat/VM en/SP altres/DI sèries/NC superheròiques/AQ de/SP Marvel/NP com/CS Capità_Amèrica/NP i/CC Uncanny_X-Men/NP ./FF
+Referències/NP ./FF
+Pàgina/NP web/NC oficial/AQ ;/FF
+Adenomera/NP bokermanni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Telles/NP ,/FF A.M./NP 2004/ZZ ./FF
+Adenomera/NP bokermanni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Adenomera/NP diptyx/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Paraguai/NP i/CC ,/FF possiblement/RG també/RG ,/FF Brasil/NP ./FF
+Referències/NP ./FF
+Aquino/NP ,/FF L./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/FF Lavilla/NP ,/FF E._&_Céspedez/NP ,/FF V./NP 2004/ZZ ./FF
+Adenomera/NP diptyx/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Museu_Valencià/NP d/NC Etnologia/NP fou/VS creat/VM el/DA 1982/ZZ i/CC obrí/VM les/DA seues/PX portes/NC a/SP el/DA públic/NC el/DA 1983/ZZ ./FF
+Els/DA seus/PX objectius/NC són/VS la/DA investigació/NC i/CC difusió/NC en/SP el/DA camp/NC de/SP l/NC etnologia/NC i/CC l/NC antropologia/NC ,/FF posant/VM a/SP l/NC abast/NC de/SP el/DA públic/NC un/DI espai/NC dinàmic/AQ de/SP coneixement/NC i/CC reflexió/NC sobre/SP la/DA diversitat/NC cultural/AQ que/PR caracteritza/VM els/DA humans/AQ en/SP dos/ZZ àmbits/NC complementaris/AQ :/FF D/NP una/

@@ -7399,4 +7399,103 @@ Formas/NP ,/FF R._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
 Alsodes/NP monticola/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
 Alsodes/NP nodosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
-Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC 
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Alsodes/NP nodosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+La/DA Volta/NP a/SP Califòrnia/NP (/FF Tour/NP of/NC California/NP en/SP anglès/NC )/FF és/VS una/DI cursa/NC ciclista/AQ per/SP etapes/NC que/PR se/P0 celebra/VM el/DA febrer/WW de/SP cada/DI any/NC des_de/SP el/DA 2006/ZZ ./FF
+La/DA cursa/NC encara/RG no/RN ha/VA tingut/VM mai/RG una/DI etapa/NC amb/SP final/NC en/SP alt/AQ ,/FF s'/P0 ha/VA decidit/VM sempre/RG a/SP la/DA contrarellotge/NC llarga/AQ que/PR es/P0 fa/VM a/SP mitja/DI cursa/NC i/CC sempre/RG ha/VA estat/VS guanyada/VM per/SP ciclistes/NC estatunidencs/AQ ./FF
+Llistat/NC de/SP guanyadors/NC ./FF
+Altres/DI classificacions/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF
+Alsodes/NP pehuenche/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Xile/NP ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Alsodes/NP pehuenche/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+La/DA Volta/NP a/SP Geòrgia/NP (/FF Tour_de_Georgia/NP en/SP anglès/NC )/FF és/VS una/DI cursa/NC ciclista/AQ per/SP etapes/NC que/PR se/P0 celebra/VM l'/DA abril/WW de/SP cada/DI any/NC des_de/SP el/DA 2003/ZZ ./FF
+Llistat/NC de/SP guanyadors/NC ./FF
+Alsodes/NP tumultuosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Alsodes/NP tumultuosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP valdiviensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Alsodes/NP valdiviensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP vanzolinii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Alsodes/NP vanzolinii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP verrucosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Núñez/NP ,/FF H./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF J./NP ,/FF Formas/NP ,/FF R./NP ,/FF Úbeda/NP ,/FF C._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Alsodes/NP verrucosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP vittatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Alsodes/NP vittatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Österreichische/RG Bundesbahnen/NP (/FF ÖBB/NC )/FF és/VS el/DA nom/NC de/SP la/DA companyia/NC nacional/AQ de/SP ferrocarrils/NC austríacs/AQ ./FF
+Succeeix/VM a/SP l'/DA antiga/AQ companyia/NC Bundesbahn/NP Österreich/NC (/FF BBÖ/NP )/FF que/PR entre/VM el/DA 1938/ZZ i/CC el/DA 1945/ZZ formava_part/VM de/SP la/DA companyia/NC alemanya/AQ Deutsche_Reichsbahn/NP (/FF DRG/NP )/FF ./FF
+La/DA majoria/NC de/SP la/DA xarxa/NC de/SP ferrocarrils/NC austríaca/AQ està/VM electrificada/VM des_de/SP els/DA anys/NC 1950/ZZ ./FF
+L'/DA última/AO locomotora/NC de/SP vapor/NC en/SP servei/NC regular/AQ va/VA ser/VS retirada/VM el/DA 1978/ZZ ./FF ÖBB/NC gestiona/VM diverses/DI línies/NC de/SP via/NC estreta/NC ,/FF la/DA més/RG coneguda/VM de/SP les/DA quals/PR és/VS la/DA MariazellBahn/NP ./FF
+L/NP '/FF 1_de_gener_de_2005/WW ,/FF es/P0 va/VA realitzar/VM una/DI reestructuració/NC de/SP l'/DA ÖBB/NC en/SP diverses/DI empreses/NC :/FF ÖBB-Holding/NC AG/NP ;/FF ÖBB-Dienstleistungs/NC GmbH/NP ;/FF ÖBB-Personenverkehr/VM AG/NP (/FF Transport/NP de/SP passatgers/NC )/FF ;/FF Rail_Cargo_Austria_AG/NP (/FF Transport/NP de/SP mercaderies/NC )/FF ;/FF ÖBB-Personenverkehr/VM AG/NP i/CC Rail_Cargo_Austria_AG/NP tenen/VM les/DA següents/AQ filials/NC :/FF ÖBB-Traktion/NC GmbH/NP (/FF construcció/NC de/SP locomotores/NC )/FF ;/FF ÖBB-Technische/VM Services_GmbH/NP (/FF serveis/NC tècnics/AQ i/CC de/SP manteniment/NC de/SP el/DA material/NC mòbil/NC )/FF ;/FF Altres/NP companyies/NC relacionades/VM amb/SP l'/DA ÖBB/NC són/VS :/FF ÖBB-Infrastruktur/NC Betrieb_AG/NP (/FF manteniment/NC de/SP les/DA vies/NC i/CC estacions/NC )/FF ;/FF ÖBB-Infrastruktur/NC Bau_AG/NP (/FF noves/AQ línies/NC i/CC renovacions/NC )/FF ;/FF Brenner_Eisenbahn_GmbH/NP ;/FF ÖBB-Immobilienmanagement/NC GmbH/NP ;/FF ÖBB/NC en/SP xifres/NC ./FF
+44.000/ZZ empleats/NC (/FF ÖBB/NC és/VS una/PI de/SP les/DA companyies/NC austríaques/AQ amb/SP més/RG empleats/NC )/FF 5.700_km/ZZ de/SP vies/NC ,/FF de/SP les/DA quals/PR ,/FF el/DA 57_%/ZZ estan/VM electrificades/VM 1.230/ZZ locomotores/NC 3.136/ZZ vagons/NC de/SP passatgers/NC 220/ZZ automotores/AQ 145/ZZ autorails/NC 436.000.000/ZZ passatges/NC transportats/VM ,/FF de/SP els/DA quals/PR ,/FF 245.000.000/ZZ van/VA ser/VS transportats/VM en/SP autobús/NC Principals/NP línies/NC de/SP l'/DA ÖBB/NC ./FF
+Austrian_Eastern_Railway_Austrian_Northern_Railway_Austrian_Northwestern_Railway_Austrian_Southern_Railway_Austrian_Western_Railway_Franz_Josef_Railway_Brenner_Railway_Arlberg_Railway_Tauern_Railway_Pyhrn_Railway_Enllaços/NP externs/AQ ./FF
+pàgina/NC oficial/AQ de/SP l'/DA ÖBB/NC
+El/DA Club_de_Futbol_Lloret/NP és/VS un/DI club/NC de/SP futbol/NC català/AQ de/SP la/DA ciutat/NC de/SP Lloret_de_Mar/NP ./FF
+Història/NP ./FF
+El/DA Club_de_Futbol_Lloret/NP ,/FF fundat/VM en/SP el/DA 1921/ZZ ,/FF és/VS un/PI de/SP els/DA club/NC amb/SP més/RG antiguitat/NC de/SP la/DA Selva/NP ./FF
+El/DA formen/VM avui/RG en/SP dia_20/WW equips/NC de/SP diferents/DI categories/NC amb/SP més/RG de/SP 350/ZZ jugadors/NC federats/VM en/SP les/DA diferents/DI estructures/NC de/SP competició/NC i/CC formació/NC ./FF
+Hi/PP ha/VA 13/ZZ equips/NC de/SP futbol/NC 11/ZZ i/CC 8/ZZ de/SP Futbol/NP 7/ZZ més/RG una/DI escola/NC amb/SP nens/NC de/SP 4/ZZ i/CC 5/ZZ anys/NC ./FF
+Actualment/RG el/DA primer/AO equip/NC de/SP el/DA CF_Lloret_A/NP en/SP categoria/NC sènior/AQ ,/FF milita/VM a/SP la/DA Preferent_Catalana/NP ,/FF i/CC tots/DI els/DA equips/NC "/FF A/SP "/FF de/SP les/DA diferents/DI categories/NC juguen/VM a/SP la/DA primera/AO divisió/NC de/SP Girona/NP ./FF
+Els/DA partits/NC es/P0 juguen/VM a/SP el/DA Camp_Municipal/NP d'/SP esports/NC de/SP Lloret_de_Mar/NP i/CC a/SP el/DA Camp_Municipal_de_El_Molí_de_Lloret_Palmarès/NP ./FF
+2/ZZ Copes_Generalitat/NP :/FF 1987/ZZ ,/FF 1988/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF
+Botànica/NP :/FF cargola/NC de/SP roca/NC (/FF Erodium/NP foetidum/NC )/FF ./FF
+Empresa/NC :/FF Roca_Sanitario/NP ;/FF Geografia/NP :/FF Roca/NP o/CC l'/DA Alqueria_de_Roca/NP :/FF llogaret/NC de/SP el/DA municipi/NC de/SP Meliana/NP (/FF l'/DA Horta_Nord/NP )/FF ./FF
+La/DA Roca_de_el_Vallès/NP (/FF Vallès_Oriental/NP )/FF ;/FF La_Roca_d'_Albera/NP (/FF Rosselló/NP )/FF ;/FF Can_Roca/NP (/FF Terrassa/NP )/FF a/SP el/DA Vallès_Occidental/NP ./FF
+La/DA Roca/NP (/FF Vilallonga_de_Ter/NP )/FF a/SP el/DA Ripollès/NP ./FF
+La/DA Roca/NP (/FF Sant_Martí_Sarroca/NP )/FF a/SP l'/DA Alt_Penedès/NP ./FF
+Mas/NP d'/SP en/SP Roca/NP a/SP Manresa/NP (/FF Bages/NP )/FF ./FF
+Roca/NP d'/SP en/SP Toni/NP :/FF Dolmen_de_Vilassar_de_Dalt/NP (/FF Maresme/NP )/FF ;/FF Roca_Colom/NP :/FF Cim_de_el_Pirineu/NP entre/SP el/DA Ripollès/NP i/CC el/DA Vallespir/NP ./FF
+Hi/PP ha/VA molts/DI topònims/NC i/CC masies/NC anomenades/NC Can_Roca/NP ./FF
+Geologia/NP :/FF roca/NC ./FF
+Onomàstica/NP :/FF cognom/NC català/AQ ./FF
+Miquel_Roca/NP i/CC Junyent/NP ,/FF polític/AQ català/AQ ./FF
+Maria_Mercè_Roca/NP i/CC Perich/NP ,/FF escriptora/NC catalana/AQ ./FF
+Antoni_Roca_Várez/NP ,/FF escriptor/NC català/AQ ./FF
+Felipe_Agoncillo/NP (/FF 26_de_maig_de_1859/WW a/SP Taal/NP ,/FF Batangas/NP -/FF 29_de_setembre_de_1941/WW a/SP Manila/NP ,/FF Filipines/NP )/FF va/VA ser/VS el/DA primer/AO diplomàtic/NC filipí/AQ i/CC advocat/NC representant/AQ de/SP Filipines/NP a/SP les/DA negociacions/NC a/SP París/NP ,/FF que/PR va/VA portar/VM el/DA Tractat_de_París/NP (/FF 1898/ZZ )/FF ,/FF que/PR va/VA posar/VM final/NC a/SP la/DA Guerra_Hispano-Americana/NP ./FF
+Com/CS a/SP conseller/NC i/CC amic/NC de/SP la/DA família/NC de/SP el/DA general/AQ Emilio_Aguinaldo/NP i/CC el/DA general/AQ Antonio_Luna/NP durant/SP els/DA moments/NC crítics/AQ de/SP la/DA revolució/NC ,/FF Agoncillo/NP va/VA participar/VM activament/RG quan/CS va/VA presidir/VM la/DA junta/NC de/SP Hong_Kong/NP ./FF
+La/DA seva/PX contribució/NC més/RG important/AQ a/SP la/DA història/NC de/SP Filipines/NP va/VA ser/VS quan/CS el/PP van/VA assignar/VM perquè/CS negociés/VM amb/SP els/DA països/NC estrangers/AQ per/SP assegurar/VM la/DA independència/NC de/SP el/DA país/NC ,/FF l'/DA assignació/NC és/VS considerada/VM com/CS la/DA més/RG important/AQ assignació/NC donada/VM a/SP un/DI general/AQ ./FF
+Alto_Comedero/NP és/VS un/DI sector/NC situat/VM en/SP la/DA zona/NC sud/AQ de/SP la/DA ciutat/NC de/SP San_Salvador_de_Jujuy/NP a/SP 4_km/ZZ d'/SP aquesta/DD ciutat/NC ,/FF que/PR alberga/VM els/DA barris/NC Sargento_Cabral/NP ,/FF Exodo_Jujeño/NP ,/FF Balcon_de_el_Comedero/NP ,/FF entre/SP uns/DI altres/PI ./FF
+Alto_Comedero/NP concentra/VM aproximadament/RG la/DA tercera/AO part/NC de/SP la/DA poblacion/NC total/AQ de/SP San_Salvador_de_Jujuy/NP i/CC té/VM un/DI alt/AQ creixement/NC demogràfic/AQ ja_que/CS permanentment/RG rep/VM migrants/NC de/SP l'/DA interior/NC de/SP la/DA província/NC de/SP Jujuy/NP ,/FF de/SP la/DA veïna/AQ província/NC de/SP Salta/NP i/CC de/SP paises/NC amb/SP els/DA quals/PR limita/VM ./FF
+Aquest/DD sector/NC de/SP San_Salvador_de_Jujuy/NP conta/VM amb/SP els/DA serveis/NC d'/SP un/DI Hospital/NP ,/FF Cos_de_Bombers/NP ,/FF comissàries/NC policials/AQ i/CC escoles/NC d'/SP ensenyament/NC primari/AQ i/CC secundària/AQ ./FF
+Es/P0 va/VA desenvolupar/VM i/CC va/VA créixer/VM en/SP la/DA dècada/NC de/SP els/DA noranta/ZZ ,/FF més/RG precisament/RG en/SP l'/DA etapa/NC de/SP el/DA model/NC neoliberal/AQ en/SP l'/DA Argentina/NP ./FF
+La/DA casa/NC Juncosa/NP és/VS situada/VM a/SP el/DA número/NC 78/ZZ de/SP la/DA Rambla_de_Catalunya/NP a/SP Barcelona/NP ./FF
+Encarregada_per_Evarist_Juncosa/NP a/SP l'/DA arquitecte/NC modernista/AQ Salvador_Viñals/NP i/CC Sabaté/NP (/FF 1847-1926/ZZ )/FF ,/FF qui/PR va/VA fer/VM el/DA projecte/NC l'/DA any/NC 1909/ZZ ./FF
+La/DA façana/NC realitzada/VM en/SP pedra/NC és/VS d'/SP una/DI simetria/NC completa/AQ ,/FF ressaltant/VM la/DA tribuna/NC de/SP el/DA pis/NC principal/AQ amb/SP les/DA balconades/NC i/CC la/DA ornamentació/NC de/SP la/DA rematada/NC de/SP l'/DA edifici/NC ,/FF tot/DI això/PD amb/SP elements/NC escultòrics/AQ de/SP tipus/NC vegetal/AQ ./FF
+La/DA porta/NC d'/SP entrada/NC presenta/VM un/DI arc/NC trilobulat/VM amb/SP dues/ZZ fulles/NC de/SP fusta/NC ,/FF amb/SP motius/NC tallats/NC ./FF
+Existeixen/VM uns/DI vitralls/NC policroms/AQ a/SP el/DA buit/NC de/SP l'/DA escala/NC ./FF
+Bibliografia/NP ./FF
+Permanyer/NP ,/FF Lluís/NP (/FF 1992/ZZ )/FF ,/FF Barcelona_Modernista/NP ,/FF Barcelona/NP ,/FF Ediciones_Polígrafa/NP ./FF
+ISBN/NP 84-344-0723-5/ZZ ./FF ;/FF Permanyer/NP ,/FF Lluís/NP (/FF 1998/ZZ )/FF ,/FF Un/DI passeig/NC per/SP la/DA Barcelona_Modernista/NP ,/FF Barcelona/NP ,/FF Ediciones_Polígrafa_SA/NP ./FF ./FF
+ISBN/NP 84-343-0877-0/ZZ ;/FF
+Telmatobius/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP Sud-Amèrica/NP ./FF
+Espècies/NP ./FF
+Telmatobius/NP arequipensis/NC ;/FF Telmatobius/NP atacamensis/NC ;/FF Telmatobius/NP atahualpai/NC ;/FF Telmatobius/NP brevipes/NC ;/FF Telmatobius/NP brevirostris/NC ;/FF Telmatobius/NP carillae/AQ ;/FF Telmatobius/NP ceiorum/NC ;/FF Telmatobius/NP chusmisensis/NC ;/FF Telmatobius/NP cirrhacelis/NC ;/FF Telmatobius/NP colanensis/NC ;/FF Telmatobius/NP contrerasi/NC ;/FF Telmatobius/NP culeus/AQ ;/FF Telmatobius/NP dankoi/NC ;/FF Telmatobius/NP degener/VM ;/FF Telmatobius/NP edaphonastes/NC ;/FF Telmatobius/NP fronteriensis/NC ;/FF Telmatobius/NP gigas/NC ;/FF Telmatobius/NP halli/VM ;/FF Telmatobius/NP hauthali/NC ;/FF Telmatobius/NP hockingi/NC ;/FF Telmatobius/NP huayra/NC ;/FF Telmatobius/NP hypselocephalus/NC ;/FF Telmatobius/NP ifornoi/NC ;/FF Telmatobius/NP ignavus/NC ;/FF Telmatobius/NP intermedius/NC ;/FF Telmatobius/NP jahuira/NC ;/FF Telmatobius/NP jelskii/NC ;/FF Telmatobius/NP laticeps/NC ;/FF Telmatobius/NP latirostris/NC ;/FF Telmatobius/NP marmoratus/NC ;/FF Telmatobius/NP mayoloi/NC ;/FF Telmatobius/NP necopinus/NC ;/FF Telmatobius/NP niger/NC ;/FF Telmatobius/NP oxycephalus/NC ;/FF Telmatobius/NP pefauri/VM ;/FF Telmatobius/NP peruvianus/NC ;/FF Telmatobius/NP philippii/NC ;/FF Telmatobius/NP pinguiculus/NC ;/FF Telmatobius/NP pisanoi/NC ;/FF Telmatobius/NP platycephalus/NC ;/FF Telmatobius/NP rimac/NC ;/FF Telmatobius/NP schreiteri/NC ;/FF Telmatobius/NP scrocchii/NC ;/FF Telmatobius/NP sibiricus/NC ;/FF Telmatobius/NP simonsi/NC ;/FF Telmatobius/NP stephani/NC ;/FF Telmatobius/NP thompsoni/VM ;/FF Telmatobius/NP truebae/AQ ;/FF Telmatobius/NP vellardi/VM ;/FF Telmatobius/NP vilamensis/NC ;/FF Telmatobius/NP yuracare/NC ;/FF Telmatobius/NP zapahuirensis/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Telmatobius/NP arequipensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referèncie

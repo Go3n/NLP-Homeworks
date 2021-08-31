@@ -7295,4 +7295,108 @@ Estil/NP de/SP el/DA joc/NC ./FF
 Wario_Land/NP 2/ZZ comença/VM a/SP el/DA final/NC de/SP Wario_Land/NP :/FF Super/VM Mario_Land/NP 3/ZZ ./FF
 En/SP aquest/DD joc/NC ,/FF tal_i_com/CS en/SP el/DA seva/PX continuació/NC ,/FF Wario_Land/NP 3/ZZ ,/FF en/SP Wario/NP és/VS indestructible/AQ ./FF
 Per/SP tant/RG necessita/VM la/DA introducció/NC de/SP els/DA desafiants/NC i/CC originals/AQ elements/NC de/SP trencaclosques/NC que/PR s'/P0 aniran/VM trobant/VM en/SP els/DA diferents/DI nivells/NC de/SP el/DA joc/NC ./FF
-Els/DA atacs/NC de/SP els/DA enemics/NC poden/VM ser/VS tant/RG útils/AQ com/CS molests/AQ ;/FF per/SP una/DI part/NC ,/FF aquests/DD atacs/NC poden/VM canviar/VM l'/DA estat/NC d'/SP en/SP Wario/NP (/FF és/VS a/SP dir/VM ,/FF pot/VM estar/VM envoltat/VM de/SP flames/NC o/CC trobar/VM -se/P0 congelat/VM ,/FF per_exemple/RG )/FF o/CC fins_i_tot/RG poden/VM transformar/VM -lo/PP permetent/VM els/DA accesos/NC a/SP noves/AQ àrees/NC o/CC pantalles/NC -/FF per/SP altra/DI banda/NC tals/DD canvis/NC ,
+Els/DA atacs/NC de/SP els/DA enemics/NC poden/VM ser/VS tant/RG útils/AQ com/CS molests/AQ ;/FF per/SP una/DI part/NC ,/FF aquests/DD atacs/NC poden/VM canviar/VM l'/DA estat/NC d'/SP en/SP Wario/NP (/FF és/VS a/SP dir/VM ,/FF pot/VM estar/VM envoltat/VM de/SP flames/NC o/CC trobar/VM -se/P0 congelat/VM ,/FF per_exemple/RG )/FF o/CC fins_i_tot/RG poden/VM transformar/VM -lo/PP permetent/VM els/DA accesos/NC a/SP noves/AQ àrees/NC o/CC pantalles/NC -/FF per/SP altra/DI banda/NC tals/DD canvis/NC ,/FF de/SP fet/NC ,/FF prevenen/VM el/DA progrès/VM en/SP el/DA joc/NC i/CC necessiten/VM ser/VS evitats/VM ./FF
+A_més_a_més/RG ,/FF alguns/DI atacs/NC enemics/AQ ,/FF simplement/RG ,/FF atordeixen/VM a/SP en/SP Wario/NP i/CC li/PP fan/VM perdre/VM algunes/PI de/SP les/DA monedes/NC que/PR ha/VA aconseguit/VM anteriorment/RG ./FF
+Els/DA enemics/NC finals/AQ derroten/VM a/SP en/SP Wario/NP enviant/VM -lo/PP ,/FF a/SP la/DA força/NC ,/FF fora_de/SP la/DA zona/NC de/SP batalla/NC ./FF
+Aquest/DD fet/NC ,/FF fa/VM recuperar/VM la/DA força/NC que/PR anteriorment/RG se/P0 li/PP hauria/VA pogut/VM treure/VM a/SP l'/DA enemic/NC i/CC el/DA jugador/NC haurà/VA de/SP provar/VM -ho/PP de/SP nou/AQ ./FF
+Les/DA monedes/NC son/VM de/SP vital/AQ importància/NC per/SP fer/VM -les/PP servir/VM a/SP els/DA dos/ZZ mini-jocs/NC que/PR t'/PP ofereix/VM el/DA joc/NC -/FF un/PI d'/SP ells/PP ,/FF un/DI joc/NC de/SP memòria/NC ,/FF desbloquejen/VM els/DA tresors/NC de/SP cada/DI nivell/NC ,/FF mentre/CS l'/DA altre/DI mini-joc/NC és/VS un/DI joc/NC d'/SP endevinalles/NC ,/FF els/DA quals/PR desbloquejarà/VM peces/NC de/SP el/DA mapa/NC de/SP el/DA tresors/NC ./FF
+Tots/DI dos/ZZ jocs/NC requereixen/VM tenir/VM monedes/NC per/SP poder/VM jugar/VM ,/FF i/CC depèn/VM de/SP les/DA monedes/NC que/PR es/P0 tingui/VM ,/FF el/DA joc/NC ,/FF resultarà/VM més/RG senzill/AQ o/CC més/RG complicat/VM ./FF
+A_més_a_més/RG ,/FF aquests/DD han/VA de/SP ser/VS completats/VM en/SP cada/DI nivell/NC ,/FF i/CC així/RG ,/FF poder/VM desbloquejar/VM un/DI nivell/NC final/AQ especial/AQ (/FF '/FF El/DA vertader/AQ capítol/NC final/AQ '/FF )/FF ./FF
+Wario_Land/NP 2/ZZ no/RN es/P0 narra/VM de/SP manera/NC completament/RG lineal/AQ ,/FF cosa/NC estranya/AQ per/SP a/SP un/DI joc/NC de/SP plataformes/NC ./FF
+Assolir/VM un/DI de/SP els/DA enemics/AQ finals/NC descobrirà/VM un/DI '/FF mapa/NC '/FF de/SP el/DA joc/NC desprès/VM d'/SP haver/VA -lo/PP completat/VM un/DI cop/NC ,/FF des_de/SP el/DA qual/PR els/DA nivells/NC amb/SP sortides/NC secretes/AQ son/NC revelats/VM ,/FF i/CC el/DA jugador/NC pot/VM triar/VM a/SP quin/DT nivell/NC volen/VM entrar/VM d'/SP entre/SP tots/DI els/DA desbloquejats/VM ./FF
+Totes/DI les/DA sortides/NC secretes/AQ alteren/VM el/DA fil/NC de/SP la/DA història/NC (/FF que/PR es/P0 transmet/VM a_través_de/SP escenes/NC animades/VM )/FF ,/FF i/CC tots/PI menys/RG un/DI alteren/VM el/DA final/NC de/SP el/DA joc/NC ./FF
+Argument/NP ./FF
+El/DA joc/NC simbolitzà/VM el/DA retorn/NC de/SP el/DA nèmesi/NC d'/SP en/SP Wario/NP ,/FF La_Capitana_Syrup/NP ./FF
+A/SP primera/AO hora/NC d'/SP un/DI matí/NC ,/FF ella/PP i/CC un/DI gran/AQ número/NC de/SP els/DA seus/PX soldats/NC ,/FF els/DA Gooms_Pirates/NP ,/FF es/P0 colen/VM a/SP el/DA castell/NC d'/SP en/SP Wario/NP i/CC provoquen/VM el/DA caos/NC ./FF
+Roben/VM el/DA seu/PX tresor/NC més/RG valuós/AQ ,/FF fan/VM sonar/VM el/DA seu/PX despertador/NC gegant/AQ ,/FF i/CC deixen/VM l'/DA aixeta/NC oberta/NC ,/FF inundant/VM una/DI gran/AQ part/NC de/SP el/DA castell/NC ./FF
+Després/RG que/CS en/SP Wario/NP es/P0 despertés/VM i/CC es/P0 donés/VM conta/VM de/SP el/DA que/PR passava/VM ,/FF els/DA persegueix/VM arreu/RG de/SP les/DA terres/NC de/SP el/DA voltant/NC ./FF
+El/DA joc/NC és/VS molt/RG interessant/AQ gràcies_a/SP els/DA seus/PX camins/NC divergents/AQ ./FF
+Trobant/VM sortides/NC amagades/VM en/SP algunes/PI de/SP les/DA pantalles/NC ,/FF el/DA jugador/NC pot/VM canviar/VM el/DA rumb/NC de/SP l'/DA argument/NC de/SP el/DA joc/NC (/FF donada/NC la/DA seva/PX gran/AQ flexibilitat/NC )/FF i/CC descobrir/VM finals/NC alternatius/AQ ,/FF com/CS també/RG trobar/VM més/RG tresors/NC ./FF
+De/SP fet/NC ,/FF trobar/VM cada/DI un/PI de/SP els/DA finals/NC i/CC l'/DA autèntic/AQ capítol/NC final/AQ és/VS la/DA única/AQ manera/NC d'/SP acabar/VM el/DA joc/NC per/SP complet/AQ ./FF
+Desenvolupament/NP ./FF
+A_diferència_de/SP l'/DA anterior/AQ joc/NC de/SP la/DA saga/NC ,/FF Wario_Land/NP ,/FF a/SP Wario_Land/NP 2/ZZ ,/FF En_Wario/NP és/VS indestructible/AQ (/FF tot_i_que/CS no/RN insensible/AQ a/SP fer/VM -se/P0 mal/NC )/FF i/CC perd/VM monedes/NC en_lloc_de/SP vida/NC ,/FF igual/AQ que/CS Sonic/NP the/VM Hedgehog/NP ./FF
+En/SP comptes/NC d'/SP emprar/VM les/DA típiques/AQ reduccions/NC d'/SP habilitat/NC Mario-esques/NP ,/FF els/DA atacs/NC de/SP certs/DI enemics/NC transformen/VM la/DA forma/NC d'/SP en/SP Wario/NP ./FF
+En_lloc_de/SP el/DA món/NC navegable/AQ de/SP Wario_Land/NP :/FF Super/VM Mario_Land/NP 3/ZZ ,/FF a/SP Wario_Land/NP 2/ZZ si/CS acabes/VM el/DA joc/NC pots/VM triar/VM els/DA nivells/NC des/SP d'/SP un/DI punt/NC de/SP vista/NC sobre/SP el/DA mapa/NC ./FF
+En/SP forma/NC d'/SP una/DI història/NC amb/SP capítols/NC (/FF tot_i_que/CS l'/DA ordre/NC no/RN està/VM completament/RG fixat/VM )/FF ./FF
+Rebuda/NP ./FF
+El/DA llançament/NC de/SP Wario_Land/NP 2/ZZ va/VA ser/VS ampliament/RG aclamat/VM per/SP el/DA seus/PX inventius/AQ elements/NC de/SP jugabilitat/NC i/CC per/SP ser/VS un/DI '/FF gir/NC refrescant/AQ '/FF a/SP el/DA gènere/NC de/SP les/DA plataformes/NC ,/FF així/RG com/CS per/SP tenir/VM nivells/NC ben/RG disenyats/AQ i/CC per/SP ser/VS una/DI experiència/NC divertida/VM ./FF
+Referències/NP ./FF
+Gotham_City/NP és/VS la/DA ciutat/NC central/AQ de/SP l'/DA univers/NC de/SP Batman/NP ./FF
+És/VS una/DI ciutat/NC fictícia/AQ inspirada/VM en/SP Nova_York/NP ,/FF alterada/VM per/SP a/SP emfatitzar/VM -ne/PP el/DA "/FF costat/NC fosc/AQ "/FF ./FF
+Alsodes/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Espècies/NP ./FF
+Alsodes/NP australis/NC ;/FF Alsodes/NP barrioi/NC ;/FF Alsodes/NP gargola/NC ;/FF Alsodes/NP hugoi/NC ;/FF Alsodes/NP igneus/NC ;/FF Alsodes/NP kaweshkari/NC ;/FF Alsodes/NP laevis/NC ;/FF Alsodes/NP montanus/NC ;/FF Alsodes/NP monticola/NC ;/FF Alsodes/NP nodosus/NC ;/FF Alsodes/NP pehuenche/AQ ;/FF Alsodes/NP tumultuosus/NC ;/FF Alsodes/NP valdiviensis/NC ;/FF Alsodes/NP vanzolinii/NC ;/FF Alsodes/NP verrucosus/NC ;/FF Alsodes/NP vittatus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Alsodes/NP australis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Núñez/NP ,/FF J./NP ,/FF Basso/NP ,/FF N._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Alsodes/NP australis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP barrioi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Alsodes/NP barrioi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP gargola/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Xile/NP ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP ,/FF Úbeda/NP ,/FF C./NP ,/FF Basso/NP ,/FF N._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Alsodes/NP gargola/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP hugoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF J./NP 2004/ZZ ./FF
+Alsodes/NP hugoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP igneus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP 2006/ZZ ./FF
+Alsodes/NP igneus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Voitsberg/NP és/VS una/DI petita/AQ ciutat/NC de/SP el/DA districte/NC de/SP Voitsberg/NP a/SP Estíria/NP ,/FF Àustria/NP ./FF
+El/DA 2001/ZZ tenia/VM 10.074/ZZ habitants/NC ./FF
+Cresqué/VM a/SP el/DA voltant/NC de/SP l'/DA església/NC de/SP Santa_Margarida/NP a/SP la/DA riba/NC de/SP el/DA riu/NC Tregistbach/NP i/CC és/VS citada/VM per/SP primer/AO cop/NC el/DA 1245/ZZ ./FF
+S'/P0 hi/PP poden/VM veure/VM els/DA vestigis/NC de/SP el/DA palau/NC de/SP Greisenegg/NP i/CC de/SP el/DA castell/NC d'/SP Obervoitsberg/NP ./FF
+Un/DI altre/PI lloc/NC d'/SP interès/NC és/VS la/DA Rathaus/NP ,/FF dissenyada/VM per/SP el/DA cèlebre/AQ arquitecte/NC Arik_Brauer/NP ./FF
+Està/VM connectada/VM a/SP Köflach/NP per/SP el/DA ferrocarril/NC ./FF
+Alsodes/NP kaweshkari/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Alsodes/NP kaweshkari/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+L'/DA humor/NC negre/AQ ,/FF és/VS un/DI estil/NC de/SP fer/VM humor/NC ,/FF sàtira/NC o/CC comèdia/NC ,/FF on/PR els/DA temes/NC o/CC objectes/NC de/SP la/DA paròdia/NC són/VS els/DA relacionats/VM amb/SP la/DA mort/NC ,/FF desgràcies/NC ,/FF malaltia/NC ,/FF lletgesa/NC ,/FF suïcidi/NC ,/FF etc./FF Són/VS temes/NC políticament/RG incorrectes/AQ ,/FF tabú/NC ,/FF delicats/AQ ,/FF o/CC desagradables/AQ que/CS l'/DA humor/NC transgredeix/VM i/CC capgiversa/AQ ,/FF per/SP desvetllar/VM la/DA consciència/NC vers/SP aquests/DD fets/NC ./FF
+L'/DA humor/NC negre/AQ es/P0 pot/VM practicar/VM de/SP forma/NC intel·ligent/AQ i/CC de/SP forma/NC grollera/AQ ./FF
+Quan/CS l'/DA humor/NC negre/AQ es/P0 practica/VM de/SP manera/NC grollera/AQ ,/FF l'/DA element/NC humorístic/AQ el/PP produeix/VM un/DI element/NC desagradable/AQ que/PR s'/P0 utilitza/VM com/CS a/SP revulsiu/NC ,/FF i/CC produeix/VM l'/DA efecte/NC còmic/AQ ,/FF o/CC grotesc/AQ ./FF
+Si/CS es/P0 practica/VM de/SP forma/NC intel·ligent/AQ ,/FF la/DA ironia/NC prové/VM de/SP la/DA contraposició/NC entre/SP la/DA realitat/NC i/CC les/DA paradoxes/NC i/CC hipocresies/NC de/SP la/DA societat/NC ./FF
+Les/DA interconnexions/NC entre/SP els/DA temes/NC són/VS més/RG subtils/AQ ,/FF i/CC l'/DA efecte/NC còmic/AQ o/CC satíric/AQ ,/FF menys/RG aparatós/AQ ,/FF però/CC més/RG intens/AQ ./FF
+En/SP literatura/NC ,/FF han/VA practicat/VM humor/NC negre/AQ escriptors/NC com/CS Quim_Monzó/NP ,/FF Sebastià_Alzamora/NP ,/FF Josep_Maria_de_Sagarra/NP ,/FF Woody_Allen/NP ,/FF Kurt_Vonnegut/NP ,/FF Thomas_de_Quincey/NP ,/FF Jonathan_Swift/NP ,/FF o/CC Oscar_Wilde/NP ./FF
+En/SP cinema/NC ,/FF hi/PP ha/VA un/DI seguit/NC de/SP magistrals/AQ exponents/NC com/CS Dr._Strangelove/NP or/VM :/FF How_I_Learned/NP to/NC Stop_Worrying/NP and/AQ Love/NP the/AQ Bomb/NP ,/FF de/SP Kubrik/NP ,/FF Little_Shop/NP of/NC Horrors/NP ,/FF tant/RG en/SP la/DA versió/NC de/SP Roger_Corman/NP ,/FF com/CS la/DA musical/AQ de/SP Frank_Oz/NP ,/FF Ladykillers_de_Alexander_Mackendrick/NP ,/FF o/CC Little_Miss_Sunshine/NP ./FF
+Altres/DI directors/NC que/PR utilitzen/VM l'/DA humor/NC negre/AQ són/VS Tim_Burton/NP ,/FF Terry_Gilliam/NP ,/FF els/DA germans/NC Coen/NP ,/FF Martin_Scorsese/NP ,/FF Ralph_Bakshi/NP ,/FF Takeshi_Kitano/NP ,/FF o/CC Peter_Jackson/NP ./FF
+En/SP humorisme/NC gràfic/AQ ,/FF hi/PP ha/VA tota/DI una/DI escola/NC que/PR desenvolupa/VM l'/DA humor/NC negre/AQ com/CS a/SP base/NC de/SP les/DA seves/PX creacions/NC gràfiques/AQ ./FF
+Segurament/RG ,/FF és/VS en/SP l'/DA humor/NC gràfic/AQ ,/FF on/PR l'/DA humor/NC negre/AQ s'/P0 ha/VA desenvolupat/VM de/SP manera/NC més/RG imaginativa/AQ ./FF
+L'/DA han/VA practicat/VM els/DA americans/NC Chas_Addams/NP (/FF creador/NC de/SP la/DA família/NC Addams/NP )/FF i/CC Gahan_Wilson/NP ;/FF els/DA francesos/NC Maurice_Henry/NP ,/FF Bosc/NP ,/FF Chaval/NP ,/FF Siné/NP i/CC Topor/NP ;/FF l'/DA alemany/AQ Tomi_Ungerer/NP ;/FF o/CC el/DA romanés/VM André_François/NP ./FF
+A/SP casa/NC nostra/PX hi/PP ha/VA grans/AQ dibuixants/NC d'/SP humor/NC negre/AQ com/CS ara/RG Cesc/NP o/CC Perich/NP ./FF
+A/SP Espanya/NP hi/PP destaquen/VM Chumy_Chúmez/NP ,/FF Gila/NP o/CC Ops/NP (/FF heterónim/NC de/SP El_Roto/NP )/FF o/CC Regueiro/NP ./FF
+Alsodes/NP laevis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP 2004/ZZ ./FF
+Alsodes/NP laevis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Pholidocercus/NP és/VS un/DI gènere/NC extingit/VM de/SP mamífer/NC relacionat/VM amb/SP i/CC semblant/NC a/SP els/DA eriçons/NC actuals/AQ ./FF
+Com/CS l'/DA eriçó/NC ,/FF Pholidocercus/NP estava/VM cobert/NC de/SP punxes/NC primes/AQ ,/FF però/CC a/SP diferència/NC d'/SP aquest/PD ,/FF tenia/VM escates/NC a/SP el/DA cap/NC com/CS si/CS fossin/VM un/DI casc/NC ,/FF i/CC tenia/VM una/DI llarga/AQ i/CC gruixuda/AQ cua/NC amb/SP escates/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Mikko/NP 's/P0 Phylogeny_Archive/NP ;/FF
+Alsodes/NP montanus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Alsodes/NP montanus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP monticola/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Formas/NP ,/FF R._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Alsodes/NP monticola/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Alsodes/NP nodosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC 

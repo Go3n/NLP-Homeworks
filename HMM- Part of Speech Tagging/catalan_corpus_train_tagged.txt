@@ -7204,4 +7204,95 @@ Aquino/NP ,/FF L./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I./NP ,/
 Adenomera/NP diptyx/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
 El/DA Museu_Valencià/NP d/NC Etnologia/NP fou/VS creat/VM el/DA 1982/ZZ i/CC obrí/VM les/DA seues/PX portes/NC a/SP el/DA públic/NC el/DA 1983/ZZ ./FF
-Els/DA seus/PX objectius/NC són/VS la/DA investigació/NC i/CC difusió/NC en/SP el/DA camp/NC de/SP l/NC etnologia/NC i/CC l/NC antropologia/NC ,/FF posant/VM a/SP l/NC abast/NC de/SP el/DA públic/NC un/DI espai/NC dinàmic/AQ de/SP coneixement/NC i/CC reflexió/NC sobre/SP la/DA diversitat/NC cultural/AQ que/PR caracteritza/VM els/DA humans/AQ en/SP dos/ZZ àmbits/NC complementaris/AQ :/FF D/NP una/
+Els/DA seus/PX objectius/NC són/VS la/DA investigació/NC i/CC difusió/NC en/SP el/DA camp/NC de/SP l/NC etnologia/NC i/CC l/NC antropologia/NC ,/FF posant/VM a/SP l/NC abast/NC de/SP el/DA públic/NC un/DI espai/NC dinàmic/AQ de/SP coneixement/NC i/CC reflexió/NC sobre/SP la/DA diversitat/NC cultural/AQ que/PR caracteritza/VM els/DA humans/AQ en/SP dos/ZZ àmbits/NC complementaris/AQ :/FF D/NP una/DI banda/NC ,/FF el/DA pròpiament/RG valencià/AQ ,/FF centrant/VM -se/P0 en/SP les/DA pautes/NC culturals/AQ de/SP la/DA societat/NC tradicional/AQ valenciana/AQ i/CC el/DA seu/PX procés/NC de/SP trànsit/NC cap/NC a/SP la/DA societat/NC industrialitzada/VM ,/FF sense/SP deixar_de_banda/VM les/DA noves/AQ formes/NC culturals/AQ de/SP la/DA contemporaneïtat/NC ./FF
+D/NP una/DI altra/DI banda/NC ,/FF l'/DA àmbit/NC general/AQ de/SP les/DA cultures/NC ,/FF des_de/SP les/DA Mediterrànies/NP ,/FF més/RG pròximes/AQ a/SP nosaltres/PP i/CC que/PR ens/PP emmarquen/VM directament/RG ,/FF fins/SP a/SP les/DA pròpies/AQ d/NC àmbits/NC geogràfics/AQ més/RG llunyans/AQ ./FF
+Aquest/DD centre/NC està/VM administrat/NC per/SP la/DA Diputació_de_València/NP i/CC la/DA seua/PX seu/NC és/VS el/DA Centre_Cultural_la_Beneficència/NP ./FF
+Activitats/NP ./FF
+El/DA Museu_Valencià_d'_Etnologia/NP presenta/VM l/NC exposició/NC permanent/AQ La/NP ciutat/NC viscuda/VM ./FF
+Ciutats/NP valencianes/NC en/SP trànsit/NC 1800-1940/ZZ ./FF
+A/SP més/RG ,/FF també/RG s'/P0 hi/PP organitzen/VM exposicions/NC temporals/AQ i/CC itinerants/AQ i/CC tallers/NC didàctics/AQ ./FF
+El/DA museu/NC també/RG realitza/VM una/DI activitat/NC investigadora/AQ que/PR es/P0 materialitza/VM en/SP distints/AQ projectes/NC i/CC en/SP la/DA convocatòria/NC de/SP el/DA Premi_Bernat_Capó/NP de/SP difusió/NC de/SP la/DA cultura/NC popular/AQ ./FF
+El/DA museu/NC edita/VM també/RG diverses/DI publicacions/NC periòdiques/AQ :/FF Revista/NC valenciana/AQ d/RG etnologia/NC ,/FF el/DA butlletí/NC electrònic/AQ BETNO/NP i/CC les/DA col·leccions/NC "/FF Temes/NC d'/SP etnografia/NC valenciana/AQ "/FF i/CC "/FF Ethnos/NP "/FF ./FF
+També/RG disposa/VM d/RG una/DI biblioteca/NC i/CC centre/NC de/SP documentació/NC especialitzada/VM en/SP etnologia/NC i/CC antropologia/NC ./FF
+Les/DA instal·lacions/NC de/SP el/DA museu/NC s/NC estenen/VM a/SP l'/DA antic/NC psiquiàtric/AQ de/SP Bétera/NP ,/FF on/PR s'/P0 emmagatzema/VM i/CC cataloga/VM una/DI col·lecció/NC d'/SP uns/DI 10.000/ZZ objectes/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Web_Oficial_ENDOFARTICLE/NP ./FF
+Adenomera/NP heyeri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA Guaiana_Francesa/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Brasil/NP i/CC Surinam/NP ./FF
+Referències/NP ./FF
+Reynolds/NP ,/FF R./NP ,/FF Hoogmoed/NP ,/FF M./NP ,/FF MacCulloch/NP ,/FF R._&_Gaucher/NP ,/FF P./NP 2004/ZZ ./FF
+Adenomera/NP heyeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Baró_György_Cseszneky/NP era/VS un/DI aristòcrata/NC hongarès/AQ de/SP el/DA segle_XVI/WW ./FF
+Membre/NP de/SP la/DA família/NC Cseszneky/NP ./FF
+L'/DA any/NC 1526/ZZ ,/FF quan/CS es/P0 va/VA lliurar/VM la/DA desastrosa/AQ batalla/NC amb/SP els/DA Turcs/NP i/CC Lluís_II_d'_Hongria/NP i/CC Bohèmia/NP va/VA morir/VM en/SP el/DA camp_de_batalla/NC ,/FF György_Cseszneky/NP va/VA ser/VS el/DA propietari/NC de/SP els/DA castells/NC Tata/NP i/CC Komárom/NP ./FF
+En/SP la/DA lluita/NC per/SP la/DA corona/NC hongaresa/AQ entre/SP el/DA cap/NC de/SP l'/DA exèrcit/NC John_Zapolya/NP i/CC l'/DA arxiduc/NC Ferran_d'_Habsburg/NP ,/FF va/VA suportar/VM l'/DA exigència/NC de/SP Ferran/NP ./FF
+No/RN obstant/VM ,/FF quan/CS el/DA comandant/NC de/SP Zápolya_Gáspár_Ráskai/NP va/VA assetjar/VM el/DA castell/NC de/SP Tata/NP ,/FF György/NP abdicar/VM forçadament/RG davant/RG de/SP la/DA superioritat/NC bèl/AQ ./FF lica/AQ i/CC va/VA haver/VA d'/SP entregar/VM el/DA castell/NC ./FF
+Després/RG ,/FF va/VA anar/VM a/SP Pozsony/NP a/SP demanar/VM ajuda/NC a/SP La_Reina_Maria/NP ./FF
+L'/DA any/NC 1528/ZZ ell/PP i/CC Tamás_Nádasdy/NP van/VA ocupar/VM el/DA castell/NC de/SP Gyor_per_Ferran_d'_Habsburg/NP ./FF
+La/DA reina/NC Maria/NP ,/FF vídua/AQ de/SP el/DA Rei_Lluís_II/NP i/CC germana/NC de/SP Ferran/NP ,/FF el/PP va/VA anomenar/VM Jutge/NP de/SP el/DA tribunal/NC reial/AQ de/SP Gyor/NP ./FF
+L'/DA any/NC 1532/ZZ ,/FF quan/CS l'/DA Emperador_Carles_V/NP havia/VA enviat/VM Garcilaso_de_la_Vega/NP a/SP l'/DA exili/NC en/SP una/DI illa/NC a/SP el/DA Danubi/NP ,/FF el/DA Baró_Cseszneky/NP va/VA ser/VS responsable/AQ de/SP el/DA proveïment/NC de/SP el/DA poeta/NC espanyol/AQ ./FF
+Més/RG tard/RG ,/FF György/NP va/VA esdevenir/VM un/DI seguidor/NC devot/AQ de/SP el/DA Protestantisme/NP i/CC defensor/AQ de/SP la/DA fe/NC Luterana/NP ./FF
+El/DA Rei_Ferran_I/NP li/PP va/VA atorgar/VM el/DA títol/NC de/SP Magnat_d'_Hongria/NP ,/FF concedit/VM a/SP ell/PP per/SP l'/DA ús/NC correcte/AQ de/SP el/DA vermell/NC lacrat/VM i/CC li/PP va/VA donar/VM alguns/DI estats/NC ,/FF entre/SP els/DA quals/PR :/FF Kisbabot/NP ,/FF Enese/NP ,/FF Rábacsécsény/NP i/CC els/DA pobles/NC d'/SP Utal/NP ./FF
+Fonts/NP ./FF
+Jászay_Pál/NP :/FF A/SP magyar/VM nemzet/RG napjai/NC a/SP mohácsi/NC vész/RG után/AQ ./FF
+Pest/NP ,/FF 1846/ZZ ./FF
+Bunyitay_Vince/NP :/FF Egyháztörténeti/NP emlékek/NC a/SP magyarországi/NC hitújítás/RG korából/AQ ;/FF Szávay_Gyula/NP :/FF Gyor/NP :/FF monográfia/NC a/SP város/NC jelenkoráról/AQ a/SP történelmi/NC idok/NC érintésével/NC ;/FF Payr_Sándor/NP :/FF A/SP dunántúli/NC evangélikus/AQ egyházkerület/AQ története/NC ;/FF
+Adenomera/NP hylaedactyla/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ,/FF Bolívia/NP ,/FF Brasil/NP ,/FF Colòmbia/NP ,/FF Equador/NP ,/FF Guaiana_Francesa/NP ,/FF Guyana/NP ,/FF Paraguai/NP ,/FF Perú/NP ,/FF Surinam/NP ,/FF Trinitat/NP i/CC Tobago/NP i/CC Veneçuela/NP ./FF
+Referències/NP ./FF
+La/DA Marca/NP ,/FF E./NP ,/FF Coloma/NP ,/FF L.A./NP ,/FF Ron/NP ,/FF S./NP ,/FF Azevedo-Ramos/NP ,/FF C._&_Silvano/NP ,/FF D./NP ,/FF Hardy/NP ,/FF J./NP 2004/ZZ ./FF
+Adenomera/NP hylaedactyla/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Adenomera/NP lutzi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA Guyana/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Reynolds/NP ,/FF R./NP ,/FF Hoogmoed/NP ,/FF M./NP ,/FF MacCulloch/NP ,/FF R._&_Gaucher/NP ,/FF P./NP 2004/ZZ ./FF
+Adenomera/NP lutzi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+REC/NP (/FF o/NC )/FF és/VS una/DI pel·lícula/NC de/SP terror/NC de/SP el/DA 2007/ZZ dirigida/VM per/SP Jaume_Balagueró/NP i/CC per/SP Paco_Plaza/NP ./FF
+La/DA pel·lícula/NC va/VA ser/VS estrenada/VM a/SP Espanya/NP en/SP novembre_del_2007/WW ./FF
+Balagueró/NP i/CC Plaza/NP anteriorment/RG ,/FF l'/DA any/NC 2002/ZZ ,/FF van/VA dirigir/VM un/DI documental/AQ OT/NP ,/FF la/DA Película/NP ./FF
+El/DA tipus/NC d'/SP ús/NC de/SP la/DA càmera/NC i/CC la/DA idea/NC bàsica/AQ és/VS semblant/AQ a/SP The_Blair_Witch_Project/NP la/DA qual/PR està/VM gravada/VM únicament/RG amb/SP càmeres/NC d'/SP amateur/NC ,/FF on/PR l'/DA operador/NC de/SP càmera/NC és/VS només/RG un/DI persontge/NC en/SP la/DA història/NC ./FF
+El/DA nom/NC de/SP la/DA pel·lícula/NC fa_referència/VM a/SP l'/DA enregistrament/NC constant/AQ de/SP el/DA que/PR ocorre/VM a/SP el/DA voltant/NC de/SP els/DA dos/ZZ protagonistes/NC ./FF
+La/DA pel·lícula/NC té/VM tres/ZZ avanços/NC ,/FF dos/ZZ d'/SP ells/PP mostren/VM imatges/NC de/SP la/DA pel·lícula/NC ;/FF l'/DA últim/AO és/VS característic/AQ ja_que/CS no/RN mostra/VM la/DA pel·lícula/NC ,/FF sinó/CC el/DA públic/NC aterrit/VM el/DA primer/AO dia/NC de/SP l'/DA estrena/NC en/SP una/DI visió/NC nocturna/AQ ./FF
+La/DA pel·lícula/NC ,/FF d'/SP una/DI manera/NC inusual/AQ ,/FF va/VA ser/VS comprada/VM per/SP una/DI nova/AQ versió/NC anomenada/NC Quarantine/NP el/DA 2008/ZZ -/FF abans/RG que/CS l'/DA original/AQ fos/VS estrenada/VM ./FF
+Sinopsi/NP ./FF
+REC/NP gira/VM entorn/NC d'/SP una/DI periodista/NC de/SP televisió/NC ,/FF Àngela/NP ,/FF i/CC el/DA seu/PX càmera/NC ,/FF Pablo/NP ,/FF el/DA qual/DR mostra/NC un/DI torn/NC de/SP nit/NC en/SP un/DI parc_de_bombers/NC de/SP Barcelona/NP ./FF
+El/DA parc_de_bombers/NC rep/VM una/DI trucada/NC d'/SP una/DI dona/NC gran/AQ ,/FF atrapada/NC a/SP casa/NC seva/PX ./FF
+Quan/CS la/DA parella/NC arriba/VM i/CC els/DA bombers/NC i/CC la/DA policia/NC derroquen/VM la/DA porta/NC ,/FF de_cop_i_volta/RG la/DA dona/NC ataca/VM i/CC mossega/VM un/DI de/SP els/DA policies/NC ,/FF i/CC es/P0 descobreix/VM que/CS una/DI desconeguda/VM i/CC virulenta/AQ malaltia/NC infecta/AQ a/SP la/DA gent/NC ,/FF convertint/VM -los/PP en/SP caníbals/NC ./FF
+La/DA policia/NC i/CC els/DA militars/NC tanquen/VM l'/DA edifici/NC i/CC l'/DA equip/NC de/SP càmera/NC queda/VM atrapat/VM a/SP dins/RG ,/FF gravant/VM constantment/RG tot/PI el/DA que/PR succeeix/VM ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF REC/NP a/SP imdb/NC ;/FF Quarantined/NP a/SP imdb/NC ;/FF REC/NP a/SP Rotten_Tomatoes/NP ;/FF
+Adenomera/NP marmorata/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Potsch_de_Carvalho-e-Silva/NP ,/FF S._&_Moreira/NP ,/FF G./NP 2004/ZZ ./FF
+Adenomera/NP marmorata/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Adenomera/NP martinezi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Brasil/NP ./FF
+Referències/NP ./FF
+Bastos/NP ,/FF R./NP ,/FF Pavan/NP ,/FF D._&_Silvano/NP ,/FF D./NP 2004/ZZ ./FF
+Adenomera/NP martinezi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Tractat_de_Bucarest/NP fou/VS un/DI tractat/NC de/SP pau/NC signat/VM el/DA 7_de_maig_de_1918/WW a/SP la/DA ciutat/NC de/SP Bucarest/NP entre/SP l'/DA Imperi_Alemany/NP i/CC el/DA Regne_de_Romania/NP a/SP el/DA finalitzar/VM la/DA campanya/NC romanesa/AQ 1916-1917/ZZ empresa/NC durant/SP la/DA Primera_Guerra_Mundial/NP ./FF
+Per/SP la/DA signatura/NC d'/SP aquest/DD tractat/NC Romania/NP hagué/VA de/SP fer/VM diverses/DI concessions/NC :/FF Va/VA haver/VA de/SP retornar/VM la/DA Dobrudja_Meridional/NP i/CC cedir/VM una/DI part/NC de/SP la/DA Dobrudja_Septentrional/NP a/SP Bulgària/NP ,/FF mentre_que/CC la/DA resta/NC de/SP la/DA província/NC restà/VM sota/SP el/DA control/NC conjunt/AQ de/SP les/DA Potències_Centrals/NP ./FF
+Va/VA haver/VA de/SP cedir/VM el/DA control/NC de/SP els/DA passos/NC de/SP muntanya/NC de/SP els/DA Carpats/NP a/SP l'/DA imperi/NC austrohongarès/NC ./FF
+Va/VA haver/VA d'/SP arrendar/VM els/DA seus/PX pous/NC de/SP petroli/NC a/SP Alemanya/NP durant/SP 90/ZZ anys/NC ./FF ;/FF No/NP obstant/VM això/PD ,/FF el/DA rei/NC Ferran_I_de_Romania/NP es/P0 va/VA negar/VM a/SP signar/VM el/DA tractat/NC (/FF ja/RG ratificat/VM per/SP el/DA Parlament_de_Romania/NP )/FF i/CC després/RG de/SP la/DA derrota/NC de/SP les/DA Potències_Centrals/NP a/SP el/DA finalitzar/VM la/DA Guerra_Mundial/NP va/VA ser/VS anul·lat/VM per/SP el/DA Primer_Minitres_Alexandru_Marghiloman/NP i/CC l'/DA armistici/NC signat/VM amb/SP Alemanya/NP l/NC '/FF 11_de_novembre_de_1918/WW ./FF
+L'/DA any/NC 1919/ZZ Alemanya/NP es/P0 va/VA veure/VM obligada/VM en/SP la/DA signatura/NC de/SP el/DA Tractat_de_Versalles/NP a/SP renunciar/VM a/SP tots/DI els/DA beneficis/NC que/PR va/VA obtenir/VM mitjançant/SP la/DA signatura/NC de/SP el/DA Tractat_de_Bucarest/NP de/SP 1918/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Text/NP complet/AQ de/SP el/DA Tractat_de_Bucarest/NP de/SP 1918/ZZ ;/FF
+Telmatobiinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP Sud-Amèrica/NP ./FF
+Gèneres/NP ./FF
+Alsodes/NP ;/FF Atelognathus/NP ;/FF Batrachophrynus/NP ;/FF Batrachyla/NP ;/FF Caudiverbera/NP ;/FF Eupsophus/NP ;/FF Hylorina/NP ;/FF Insuetophrynus/NP ;/FF Somuncuria/NP ;/FF Telmatobius/NP ;/FF Telmatobufo/NP ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD subfamília/NC de/SP granotes/NC ./FF ;/FF
+Wario_Land_II/NP és/VS un/DI videojoc/NC de/SP Game_Boy/NP llançat/NC el/DA 1998/ZZ ./FF
+Va/VA ser/VS el/DA darrer/AO títol/NC programat/VM per/SP la/DA mateixa/DI Nintendo_per_la_Game_Boy/NP i/CC fou/VS refet/VM per/SP aprofitar/VM el/DA hardware/NC de/SP la/DA Game_Boy_Color/NP ./FF
+Les/DA dues/ZZ versions/NC de/SP el/DA joc/NC poden/VM ser/VS millorades/VM amb/SP el/DA Super_Game_Boy/NP amb/SP unes/DI vores/NC de/SP pantalla/NC que/PR canvien/VM d'/SP acord/NC amb/SP les/DA situacions/NC de/SP el/DA joc/NC ./FF
+Els/DA colors/NC de/SP el/DA Super_Game_Boy/NP no/RN es/P0 poden/VM intercanviar/VM ja_que/CS la/DA possibilitat/NC de/SP canviar/VM -los/PP manualment/RG és/VS impedida/NC per/SP el/DA mateix/DI joc/NC tot_i_que/CS va/VA apareixer/VM un/DI codi/NC de/SP game/VM genie/NC per/SP permetre/VM canviar/VM els/DA colors/NC però/CC d'/SP aquesta/DD manera/NC les/DA vores/NC de/SP pantalla/NC no/RN apareixen/VM ./FF
+En/SP la/DA posterior/AQ versió/NC en/SP color/NC ,/FF però/CC ,/FF la/DA partida/NC guardada/VM s'/P0 ha/VA d'/SP esborrar/VM si/CS hi/PP ha/VA una/DI partida/NC Color/NP o/CC Super/NP abans/RG de/SP jugar/VM amb/SP l'/DA altra/PI ./FF
+En/SP aquest/DD joc/NC ,/FF En_Wario/NP ha/VA de/SP recuperar/VM el/DA seu/PX tresor/NC de/SP les/DA mans/NC de/SP la/DA Capitana_Syrup/NP i/CC la/DA seva/PX Banda_de_el_Sucre_de_Canya/NP (/FF anteriorment/RG coneguda/VM com/CS Els_Pirates_de_el_Sucre_de_Canya/NP )/FF ./FF
+Estil/NP de/SP el/DA joc/NC ./FF
+Wario_Land/NP 2/ZZ comença/VM a/SP el/DA final/NC de/SP Wario_Land/NP :/FF Super/VM Mario_Land/NP 3/ZZ ./FF
+En/SP aquest/DD joc/NC ,/FF tal_i_com/CS en/SP el/DA seva/PX continuació/NC ,/FF Wario_Land/NP 3/ZZ ,/FF en/SP Wario/NP és/VS indestructible/AQ ./FF
+Per/SP tant/RG necessita/VM la/DA introducció/NC de/SP els/DA desafiants/NC i/CC originals/AQ elements/NC de/SP trencaclosques/NC que/PR s'/P0 aniran/VM trobant/VM en/SP els/DA diferents/DI nivells/NC de/SP el/DA joc/NC ./FF
+Els/DA atacs/NC de/SP els/DA enemics/NC poden/VM ser/VS tant/RG útils/AQ com/CS molests/AQ ;/FF per/SP una/DI part/NC ,/FF aquests/DD atacs/NC poden/VM canviar/VM l'/DA estat/NC d'/SP en/SP Wario/NP (/FF és/VS a/SP dir/VM ,/FF pot/VM estar/VM envoltat/VM de/SP flames/NC o/CC trobar/VM -se/P0 congelat/VM ,/FF per_exemple/RG )/FF o/CC fins_i_tot/RG poden/VM transformar/VM -lo/PP permetent/VM els/DA accesos/NC a/SP noves/AQ àrees/NC o/CC pantalles/NC -/FF per/SP altra/DI banda/NC tals/DD canvis/NC ,

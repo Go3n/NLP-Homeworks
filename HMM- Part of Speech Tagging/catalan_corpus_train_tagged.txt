@@ -7498,4 +7498,99 @@ Telmatobius/NP arequipensis/NC ;/FF Telmatobius/NP atacamensis/NC ;/FF Telmatobi
 Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
 Telmatobius/NP arequipensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
-Referèncie
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Neira/NP ,/FF D._&_Sinsch/NP ,/FF U./NP 2004/ZZ ./FF
+Telmatobius/NP arequipensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP atacamensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP atacamensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP atahualpai/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Sinsch/NP ,/FF U._&_Lehr/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP atahualpai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP brevipes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Sinsch/NP ,/FF U./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Arizabal/NP ,/FF W._&_Córdova-Santa_Gadea/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP brevipes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP brevirostris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Telmatobius/NP brevirostris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP carillae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Aguilar_Puntriano/NP ,/FF C._&_Sinsch/NP ,/FF U./NP 2004/ZZ ./FF
+Telmatobius/NP carillae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Tractat_de_Fontainebleau/NP és/VS un/DI acord/NC secret/AQ signat/VM a/SP el/DA castell/NC de/SP Fontainebleau/NP el/DA 13_de_novembre_de_1762/WW entre/SP el/DA Regne_de_França/NP i/CC el/DA Regne_d'_Espanya/NP en/SP el/DA qual/PR el/DA primer/AO va/VA cedir/VM a/SP el/DA segon/AO la/DA Louisiana/NP ./FF
+El/DA tractat/NC va/VA seguir/VM a/SP la/DA Batalla_de_Signal_Hill/NP ,/FF emmarcada/VM en/SP els/DA actes/NC bèlics/AQ de/SP la/DA Guerra/NP de/SP els/DA Set/NC Anys/NP a/SP Amèrica_de_el_Nord/NP ./FF
+Així/RG enfront/VM a/SP certes/DI perspectives/NC de/SP perdre/VM el/DA seu/PX territori/NC a/SP el/DA Canadà/NP ,/FF el/DA rei/NC Lluís_XV_de_França/NP va/VA proposar/VM a/SP el/DA rei/NC Carles_III_d'_Espanya/NP la/DA cessió/NC de/SP la/DA Louisiana/NP francesa/AQ i/CC la/DA ciutat/NC de/SP Nova_Orleans/NP ./FF
+El/DA territori/NC en/SP la/DA forma/NC proposada/VM hauria/VA inclòs/VM el/DA vast/AQ territori/NC de/SP la/DA Louisiana/NP a_banda_i_banda/RG de/SP la/DA riu/NC Mississipí/NP (/FF incloent/VM el/DA que/CS en/SP aquells/DD moments/NC es/P0 coneixia/VM amb/SP el/DA nom/NC de/SP el/DA País_d'_Illinois/NP )/FF ./FF
+El/DA tractat/NC es/P0 va/VA mantenir/VM en/SP secret/NC fins_i_tot/RG a/SP la/DA signatura/NC de/SP el/DA Tractat_de_París/NP (/FF 1763/ZZ )/FF ,/FF que/PR formalment/RG va/VA posar/VM fi/NC a/SP la/DA Guerra/NP de/SP els/DA Set/NC Anys/NP ./FF
+Els/DA termes/NC específics/AQ de/SP el/DA tractat/NC de/SP 1763/ZZ escripturava/VM les/DA terres/NC a/SP l'/DA oest/NC de/SP el/DA Mississipi/NP a/SP els/DA francesos/NC i/CC les/DA terres/NC a/SP l'/DA est/NC (/FF incloent/VM Baton_Rouge/NP i/CC el/DA País_d'_Illinois/NP )/FF a/SP els/DA britànics/NC ./FF
+El/DA Tractat_de_París/NP va/VA proporcionar/VM un/DI període/NC de/SP 18_mesos/ZZ en/SP el/DA qual/PR els/DA francesos/NC canadencs/AQ poiden/VM emigrar/VM lliurement/RG ,/FF el/DA que/PR va/VA comportar/VM que/CS molts/PI de/SP els/DA anomenats/VM cajuns/AQ es/P0 traslladessin/VM a/SP la/DA regió/NC coneguda/VM amb/SP el/DA nom/NC d'/SP Acadiana/NP o/CC País_de_els_Cajun/NP ,/FF moment/NC en/SP el/DA qual/PR es/P0 va/VA descobrir/VM que/CS França/NP també/RG havia/VA cedit/VM a/SP Espanya_la_Louisiana/NP ./FF
+El/DA 21_d'_abril_de_1764/WW Lluís_XV/NP va/VA notificar/VM en/SP una/DI carta/NC a/SP el/DA Governador/NP colonial/AQ de/SP Louisiana_Charles_Philippe_Aubry/NP de/SP el/DA canvi/NC de/SP mans/NC de/SP el/DA territori/NC ,/FF iniciant/VM un/DI breu/AQ període/NC de/SP transició/NC ./FF
+Els/DA colons/NC ,/FF però/RG ,/FF no/RN van/VA acceptar/VM la/DA transició/NC i/CC fins_i_tot/RG van/VA expulsar/VM el/DA primer/AO governador/NC espanyol/AQ ,/FF Antonio_de_Ulloa/NP ./FF
+El/DA governador/NC Alejandro_O'Reilly/NP va/VA suprimir/VM la/DA Rebel·lió/NP de/SP 1768/ZZ i/CC va/VA plantar/VM formalment/RG la/DA bandera/NC espanyola/AQ a/SP el/DA territori/NC l'/DA any/NC 1769/ZZ ./FF
+Ambdues/DI parts/NC de/SP el/DA Mississipí/NP ,/FF inclosa/VM Baton_Rouge/NP la/DA qual/PR va/VA ser/VS cedida/VM a/SP els/DA britànics/NC i/CC després/RG retornada/VM a/SP la/DA Florida_de_l'_Oest/NP després/RG de/SP la/DA Guerra_d'_Independència_Americana/NP ,/FF es/P0 van/VA unir/VM de/SP nou/AQ mitjançant/SP la/DA Compra_de_Louisiana/NP de/SP 1803/ZZ i/CC el/DA Tractat_Adams-Onís/NP de/SP 1819/ZZ ./FF
+El/DA tractat/NC de/SP 1762/ZZ va/VA solidificar/VM l'/DA territoris/NC imperials/AQ de/SP Nova_Espanya/NP ,/FF que/PR s'/P0 estén/VM des_de/SP Florida/NP ,/FF passant/VM per/SP el/DA riu/NC Mississipí/NP fins/SP a/SP la/DA Oceà_Pacífic/NP ./FF
+El/DA tractat/NC també/RG va/VA mantenir/VM el/DA catòlic/AQ control/NC social/AQ i/CC cultural/AQ de/SP la/DA regió/NC ,/FF en/SP oposició/NC a/SP les/DA perspectives/NC protestants/AQ de/SP control/NC britànic/AQ ./FF
+Miguel_A._Torres/NP (/FF 1.941/ZZ -/FF )/FF ,/FF actual/AQ President/NP i/CC Conseller_Delegat_de_Bodegas_Torres/NP ,/FF pertany/VM a/SP la/DA quarta/AO generació/NC de/SP el/DA negoci/NC familiar/AQ ./FF
+Així/RG mateix/RG dirigeix/VM les/DA seves/PX vinyes/NC a/SP Xile/NP i/CC col·labora/VM amb/SP la/DA seva/PX germana/NC Marimar_Torres/NP a/SP Califòrnia/NP ./FF
+Biografia/NP ./FF
+El/DA 1957/ZZ va/VA iniciar/VM els/DA seus/PX estudis/NC de/SP Ciències_Químiques/NP a/SP la/DA Universitat_de_Barcelona/NP ,/FF per/SP ingressar/VM dos/ZZ anys/NC més/RG tard/VM a/SP la/DA Universitat_de_Dijon/NP (/FF Borgonya/NP )/FF on/PR va/VA cursar/VM l/NC '/FF especialització/NC d'/SP Enologia/NP i/CC Viticultura/NP ./FF
+El/DA 1962/ZZ ,/FF es/P0 va/VA incorporar/VM a/SP el/DA negoci/NC familiar/AQ sent/VM a/SP l'/DA actualitat/NC President/NP i/CC Conseller_Delegat/NP de/SP la/DA companyia/NC ./FF
+Cinc/ZZ anys/NC després/RG d'/SP incorporar/VM -se/P0 a/SP l/NC '/FF empresa/NC es/P0 va/VA casar/VM amb/SP Waltraud_Maczassed/NP ,/FF pintora/NC i/CC diplomada/NC en/SP belles/AQ arts/NC ,/FF que/PR ha/VA col·laborat/VM des_de/SP el/DA principi/NC en/SP la/DA direcció/NC de/SP ventes/VM de/SP el/DA mercat/NC alemany/AQ ./FF
+El/DA 1982-1983/ZZ va/VA ampliar/VM els/DA seus/PX estudis/NC de/SP viticultura/NC i/CC enologia/NC de/SP la/DA Universitat_de_Montpellier/NP (/FF França/NP )/FF durant/SP un/DI any_sabàtic/NC ./FF
+Miguel_A._Torres/NP ha/VA publicat/VM diversos/DI llibres/NC sobre/SP el/DA món/NC de/SP els/DA vins/NC ./FF
+El/DA seu/PX primer/AO llibre/NC Vinyes/NP i/CC Vins/NP ,/FF es/P0 troba/VM en/SP la/DA seva/PX quarta/AO edició/NC ,/FF revisada/VM i/CC actualitzada/VM per/SP Plaza/NP i/CC Janés/NP a/SP el/DA 1993/ZZ i/CC està/VM traduït/VM a/SP el/DA castellà/NC ,/FF francès/AQ ,/FF anglès/NC ,/FF alemany/AQ ,/FF noruec/AQ ,/FF finlandès/AQ i/CC japonès/AQ ./FF
+A/SP aquesta/DD obra/NC li/PP segueix/VM Vino/NP español/VM ,/FF un/DI incierto/NC futuro/NC (/FF 1979/ZZ )/FF ;/FF Manual/NP de/SP vinos/NC de/SP Catalunya/NP (/FF 1982/ZZ )/FF ;/FF Los_Vinos_de_España_Cata/NP (/FF 1984/ZZ )/FF ;/FF Guia_Folio/NP de/SP los/NC Vinos_de_España/NP (/FF 1985/ZZ )/FF ;/FF i/CC Els_Vins_de_el_Penedès/NP (/FF 1987/ZZ )/FF ./FF
+D/NP altra/DI banda/NC ha/VA dirigit/VM per/SP l'/DA editorial/NC Orbis_Enciclopedia_de_el_Vino/NP ./FF
+Reconeixements/NP ./FF
+a/SP el/DA 1996/ZZ el/DA Govern_Xilè/NP li/PP va/VA concedir/VM l/NC '/FF ordre/NC Bernardo_O_Higgins/NP en/SP el/DA grau/NC Gran_Oficial/NP agraint/VM els/DA seus/PX serveis/NC per/SP aconseguir/VM una/DI millor/AQ relació/NC entre/SP Espanya/NP i/CC Xile/NP ,/FF així/RG com/CS per/SP la/DA seva/PX contribució/NC a/SP el/DA desenvolupament/NC vitivinícola/AQ de/SP el/DA país/NC sudamericà/AQ ./FF
+L'/DA any/NC 2002/ZZ la/DA prestigiosa/AQ revista/NC Decanter/NP li/PP atorga/VM el/DA premi/NC Decanter_Man/NP of/NC the/AQ Year/NP 2002/ZZ ./FF ;/FF L'/NP any/NC 2005/ZZ rep/VM el/DA premi/NC Personality/NP of/NC the/AQ Year/NP ,/FF a/SP l'/DA apartat/NC d'/SP innovació/NC ,/FF concedit/VM per/SP la/DA revista/NC Wine_International/NP ./FF ;/FF Obra/NP ./FF
+Vinyes/NP i/CC vins/NC ./FF
+Miguel_A._Torres/NP ./FF (/FF Plaza_&_Janés_Editores/NP ,/FF 1996/ZZ )/FF ./FF
+ISBN/NP 84-01-00984-7/ZZ Traduït/NP a/SP el/DA castellà/NC ,/FF francès/AQ ,/FF anglès/NC ,/FF alemany/AQ ,/FF noruec/NC ,/FF finlandès/NC i/CC japonès/NC ;/FF Els/NP vins/NC de/SP el/DA Penedès/NP ./FF
+Miguel_A._Torres/NP ./FF (/FF Nuevo_Arte_Thor/NP ,/FF 1987/ZZ )/FF ./FF
+ISBN/NP 84-7327-150-5/ZZ ;/FF Los/NP vinos/NC de/SP España/NP ./FF
+Miguel_A._Torres/NP ./FF (/FF Ediciones_Catells/NP ,/FF 1983/ZZ )/FF ./FF
+ISBN/NP 84-7489-209-0/ZZ ;/FF Vino/NP español/VM :/FF un/DI incierto/NC futuro/NC ./FF
+Miguel_A._Torres/NP ./FF (/FF Editorial_Blume/NP ,/FF 1979/ZZ )/FF ./FF
+ISBN/NP 84-7031-101-7/ZZ ;/FF Manual/NP de/SP los/NC vinos/NC de/SP Cataluña/NP (/FF 1982/ZZ )/FF ;/FF Guía_Folio/NP de/SP los/NC vinos/NC de/SP España/NP (/FF 1985/ZZ )/FF ;/FF Referències/NP ./FF
+Diccionario_Salvat/NP de/SP el/DA vino/NC ./FF
+Mauricio_Wiesenthal/NP ./FF
+Salvat/SP editors/NC ,/FF 20001/ZZ ./FF
+ISBN/NP 84-345-0932-6/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Web_de_Bodegas_Torres/NP en/SP català/NC ;/FF
+La/DA Casa_Pomar/NP ,/FF és/VS un/DI edifici/NC modernista/AQ situat/VM a/SP el/DA número/NC 86/ZZ de/SP el/DA carrer/NC Girona_de_Barcelona/NP ./FF
+L'/DA arquitecte/NC Joan_Rubió/NP i/CC Bellver/NP (/FF 1871-1952/ZZ )/FF ,/FF fou/VS el/DA realitzador/NC de/SP el/DA projecte/NC l'/DA any/NC 1904/ZZ acabant/VM la/DA seva/PX construcció/NC el/DA 1906/ZZ ./FF
+A_pesar_de/SP l'/DA estretor/NC d'/SP espai/NC per/SP a/SP la/DA façana/NC ,/FF l'/DA arquitecte/NC va/VA assolir/VM ressaltar/VM -la/PP magníficament/RG amb/SP la/DA col·locació/NC d'/SP una/DI original/AQ tribuna/NC en/SP forma/NC escalonada/NC a/SP el/DA primer/AO pis/NC amb/SP el/DA seu/PX basament/NC de/SP ceràmica/NC verda/AQ i/CC els/DA ferros/NC forjats/NC ,/FF que/PR també/RG es/P0 veuen/VM a/SP les/DA balconades/NC de/SP la/DA resta/NC de/SP les/DA plantes/NC que/PR consta/VM l'/DA edifici/NC ./FF
+La/DA rematada/NC de/SP la/DA casa/NC es/P0 troba/VM inspirat/VM a/SP l'/DA estil/NC neogòtic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Arquitectura/NP Segle_XX/WW ,/FF Fitxa/NP ;/FF Bibliografia/NP ./FF
+Permanyer/NP ,/FF Lluís/NP (/FF 1992/ZZ )/FF ,/FF Barcelona_Modernista/NP ,/FF Barcelona/NP ,/FF Ediciones_Polígrafa/NP ./FF
+ISBN/NP 84-344-0723-5/ZZ ./FF
+El/DA Campionat_de_el_Món/NP de/SP billar/NC a/SP tres/ZZ bandes/NC (/FF oficialment/RG anomenat/VM UMB_World_Three-cushion_Championship/NP )/FF és/VS un/DI torneig/NC professional/AQ de/SP billar/NC a/SP tres/ZZ bandes/NC ,/FF organitzat/VM anualment/RG per/SP la/DA Unió_Mundial_de_Billar/NP ./FF
+Els/DA premis/NC per/SP a/SP els/DA campions/NC l'/DA any/NC 2007/ZZ han/VA estat/VM d'/SP un/DI total/NC de/SP 35.200_¤/ZZ (/FF 49.600/ZZ US/NP $/FF )/FF ,/FF amb/SP un/DI premi/NC per/SP el/DA primer/AO classificat/VM de/SP 4.800_¤/ZZ (/FF 6.750_$/ZZ )/FF ./FF
+Historial/NP ./FF
+Aquesta/DD és/VS la/DA llista/NC de/SP els/DA campions/NC de/SP el/DA món/NC de/SP billar/NC a/SP tres/ZZ bandes/NC de/SP la/DA UMB/NP ,/FF entre/SP 1928/ZZ i/CC 2007/ZZ (/FF els/DA anys/NC que/PR no/RN apareixen/VM no/RN es/P0 va/VA disputar/VM el/DA campionat/NC )/FF ./FF
+El/DA palmarès/NC ha/VA estat/VS majoritàriament/RG dominat/VM per/SP europeus/AQ destacant/VM per/SP damunt/RG de/SP tots/DI el/DA belga/NC Raymond_Ceulemans/NP ./FF
+Referències/NP ./FF
+El/DA Fernsehturm/NP (/FF en/SP alemany/NC ,/FF torre/NC de/SP televisió/NC )/FF és/VS una/DI torre/NC de/SP televisió/NC ubicada/VM a/SP el/DA centre/NC de/SP Berlín/NP ,/FF capital/NC d'/SP Alemanya/NP ./FF
+És/VS un/DI punt/NC de/SP referència/NC molt/RG conegut/NC ,/FF proper/AQ a/SP l'/DA Alexanderplatz/NP ./FF
+La/DA torre/NC va/VA ser/VS construïda/VM el/DA 1969/ZZ per/SP l'/DA extinta/AQ República_Democràtica_Alemanya/NP i/CC la/DA seva/PX imatge/NC va/VA ser/VS usada/VM des_de/SP llavors/RG per/SP el/DA govern/NC de/SP la/DA RDA/NP com/CS un/DI símbol/NC de/SP el/DA Berlín_Oriental/NP ./FF
+Des/SP d'/SP ella/PP es/P0 poden/VM veure/VM fàcilment/RG tots/DI els/DA districtes/NC de/SP el/DA centre/NC de/SP Berlín/NP i/CC continua/VM sent/VS un/DI símbol/NC de/SP la/DA ciutat/NC ./FF
+L'/DA altura/NC original/AQ de/SP el/DA Fernsehturm/NP era/VS de/SP 365_m/ZZ ,/FF però/CC va/VA passar/VM a/SP ser/VS de/SP 368/ZZ després/RG de/SP la/DA instal·lació/NC d'/SP una/DI nova/AQ antena/NC en/SP els/DA anys/NC 1990/ZZ ./FF
+És/VS actualment/RG el/DA segon/AO edifici/NC més/RG alt/AQ d'/SP Europa/NP ,/FF només/RG superat/VM per/SP la/DA Torre_Ostankino_de_Moscou/NP ,/FF i/CC la/DA dissetena/AO torre/NC més/RG alta/AQ de/SP el/DA món/NC ./FF
+A/SP la/DA cúspide/NC de/SP la/DA torre/NC hi/PP ha/VA una/DI gran/AQ esfera/NC en/SP la/DA qual/PR s'/P0 hi/PP ubiquen/VM un/DI mirador/NC i/CC un/DI restaurant/NC ;/FF el/DA mirador/NC està/VM a/SP una/DI altura/NC aproximada/VM de/SP 204_m/ZZ ./FF
+El/DA restaurant/NC ,/FF que/PR gira/VM 360/ZZ graus/NC cada/DI mitja/AQ hora/NC ,/FF s'/P0 ubica/VM uns/DI metres/NC per/SP sobre/SP de/SP el/DA mirador/NC ./FF
+Dins/RG de/SP el/DA cos/NC principal/AQ de/SP la/DA torre/NC hi/PP ha/VA dos/ZZ ascensors/NC que/PR porten/VM

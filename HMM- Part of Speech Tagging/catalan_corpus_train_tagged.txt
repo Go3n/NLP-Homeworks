@@ -7736,4 +7736,102 @@ Va/VA ser/VS enderrocada/VM l'/DA any/NC 2000/ZZ ,/FF afectada/VM per/SP la/DA c
 Referències/NP ./FF
 Masies_de_el_Prat/NP (/FF l'/DA Albufera/NP i/CC la/DA Ribera/NP )/FF ,/FF vol./NC 1/ZZ ,/FF de/SP Gerard/NP i/CC Teresa_Gimènez/NP i/CC Joan_Jordà/NP ,/FF Editorial_Efadós/NP ,/FF El_Papiol/NP ,/FF 2003/ZZ ,/FF pàg.130/ZZ ./FF
 San_Antonio_de_Jujuy/NP és/VS una/DI localitat/NC de/SP l'/DA extrem/NC sud/AQ de/SP la/DA província/NC de/SP Jujuy/NP i/CC capçalera/NC de/SP el/DA departament/NC homònim/AQ ./FF
-S'/P0 accedeix/VM a/SP el/DA poblat/NC
+S'/P0 accedeix/VM a/SP el/DA poblat/NC ,/FF a/SP 37_km/ZZ de/SP la/DA capital/NC provincial/AQ San_Salvador_de_Jujuy/NP ,/FF per/SP la/DA RN/NP 9/ZZ ./FF i/CC la/DA RP/NP 2/ZZ ./FF
+Història/NP ./FF
+Es/P0 troba/VM per/SP primera/AO vegada/NC el/DA nom/NC de/SP "/FF Perico_de_San_Antonio/NP "/FF en/SP l'/DA Expedient/NP 598/ZZ de/SP el/DA 8_de_maig_de_1663/WW ,/FF un/DI contracte/NC signat/VM en/SP l'/DA estada/NC de/SP San_Antonio_de_Perico/NP ./FF
+Capital_Nacional_de_el_Quesillo/NP ./FF
+San_Antonio/NP ,/FF poble/NC de/SP tradicions/NC ,/FF amb/SP veïns/NC criolls/AQ i/CC guachos/AQ en/SP la/DA seva/PX majoria/NC ,/FF té/VM uan/VM llegenda/NC entorn/NC de/SP la/DA producció/NC de/SP el/DA quesillo/NC
+El/DA cebuano/VM ,/FF també/RG conegut/VM com/CS a/SP sugbuanon/NC ,/FF és/VS una/DI llengua/NC que/PR pertany/VM a/SP la/DA família/NC austronèsia/NC ,/FF dins/RG de/SP la/DA branca/NC occidental/AQ malaiopolinèsia/AQ i/CC de/SP el/DA grup/NC visayo/AQ (/FF Binisayâ/NP )/FF ./FF
+És/VS parlada/NC a/SP les/DA Filipines/NP per/SP vora/SP 18.000.000/ZZ de/SP persones/NC ./FF
+El/DA nom/NC prové/VM de/SP el/DA nom/NC de/SP l'/DA illa/NC filipina/AQ de/SP Cebú/NP ./FF
+Se/P0 li/PP ha/VA donat/VM el/DA codi/NC de/SP tres/ZZ lletres/NC ISO/NP 639-2/ZZ '/FF ceb/NC '/FF ,/FF però/CC no/RN té/VM codi/NC de/SP dues/ZZ lletres/NC ISO/NP 639-1/ZZ ./FF
+El/DA cebuano/VM és/VS la/DA llengua/NC nativa/AQ de/SP els/DA habitants/NC de/SP Cebú/NP ,/FF de/SP Bohol/NP ,/FF de/SP la/DA part/NC oriental/AQ de/SP l'/DA illa/NC de/SP Negros/NP i/CC de/SP l'/DA occidental/AQ de/SP Leyte/NP i/CC Biliran/NP ,/FF de/SP el/DA sud/NC de/SP Masbate/NP i/CC de/SP la/DA major/AQ part/NC de/SP Mindanao/NP ./FF
+També/RG es/P0 parla/VM a/SP algunes/DI parts/NC de/SP Samar/NP ./FF
+Fins/SP a/SP els/DA anys/NC 1980/ZZ ,/FF el/DA cebuano/VM sobrepassava/VM a/SP el/DA tagàlog/NC en/SP termes/NC de/SP parlants/NC ./FF
+El/DA dialecte/NC utilitzat/VM a/SP Bohol/NP és/VS conegut/VM com/CS el/PP boholano/VM i/CC a/SP vegades/NC es/P0 considera/VM un/DI idioma/NC separat/VM ./FF
+Nombres/NP ./FF
+1/ZZ ./FF usá/VM 2/ZZ ./FF duhá/VM 3/ZZ ./FF tulú/AQ 4/ZZ ./FF upát/VM 5/ZZ ./FF limá/VM 6/ZZ ./FF unúm/AQ 7/ZZ ./FF pitú/AQ 8/ZZ ./FF walú/AQ 9/ZZ ./FF siyám/AQ 10/ZZ ./FF napúlu/VM 11/ZZ ./FF napúlu'g/NC usá/NC 11/ZZ ./FF onse/NC (/FF sovint/RG es/P0 fa_servir/VM el/DA castellà/NC per/SP a/SP nombres/NC superiors/AQ a/SP 10/ZZ )/FF 20/ZZ ./FF kawhaan/VM 30/ZZ ./FF katloan/VM 40/ZZ ./FF kaapatan/VM //FF kap'atan/VM 50/ZZ ./FF kalimaan/VM //FF kalim'an/VM 60/ZZ ./FF kaunuman/VM //FF kan'uman/VM 70/ZZ ./FF kapituan/VM 80/ZZ ./FF kawaloan/VM 90/ZZ ./FF kasiyaman/VM 100/ZZ usá/NC ka/RG gatos/AQ 1.000/ZZ usá/NC ka/RG libo/VM 1.000.000/ZZ usa/VM ka/RG libo/VM ka/RG libo/VM Exemples/NP ./FF
+Sóc/VS en/SP Miguel_de_Guia/NP ./FF -/FF Ako/NP si/CS Miguel_de_Guia/NP ./FF
+Puc/VM fer/VM una/DI pregunta/NC ?/FF -/FF "/FF Mahimo/NP bang/NC mangutana/AQ ?/FF "/FF o/CC "/FF Puwede/NP '/FF ko/NC mangutana/AQ ?/FF "/FF ;/FF Com/NP estàs/VM ?/FF -/FF Kumusta/NP ka/RG ?/FF
+Bé/RG ./FF (/FF Estic/NP bé/NC ./FF )/FF -/FF Maayo/NP ./FF ;/FF Quants/NP anys/NC tens/AQ ?/FF -/FF Pila'y/NP imong/NC idad/AQ ?/FF
+Quant/RG ?/FF -/FF "/FF Pila/NP ?/FF "/FF o/CC "/FF Tag-pila/NP ?/FF "/FF ;/FF Quants/NP ?/FF -/FF Pila/NC ?/FF ;/FF No/NP ho/PP sé/VM ./FF -/FF "/FF Wala/NP ko/VM kahibalo/NC "/FF o/CC "/FF Ambut/NP "/FF ./FF ;/FF Bon/NP dia/NC !/FF -/FF Maayong/NP adlaw/NC !/FF
+Bona/II tarda/NC !/FF -/FF "/FF Maayong/NP hapon/VM !/FF "/FF o/CC "/FF Maayong_Palis/NP !/FF "/FF ;/FF Bona/NP nit/NC !/FF -/FF Maayong/NP gabii/RG !/FF ;/FF Qui/NP és/VS vostè/PP ?/FF -/FF "/FF Kinsa/NP ka/RG ?/FF "/FF (/FF informal/AQ )/FF ;/FF A_on/NP va/VA vostè/PP ?/FF -/FF Asa/NP ka/RG padulong/NC ?/FF ;/FF On/NP és/VS el/DA bany/NC ?/FF -/FF Asa/NP man/VM ang/NC CR/NP (/FF banyo/VM )/FF ?/FF ;/FF On/NP és/VS el/DA seu/PX bany/NC ?/FF -/FF Asa/NP man/VM ang/NC CR/NP (/FF banyo/VM )/FF '/FF ninyo/NC ?/FF ;/FF Com/NP es/P0 diu/VM ?/FF -/FF Unsay/NP ngalan/VM nimo/AQ ?/FF ;/FF On/NP és/VS el/DA mercat/NC ?/FF -/FF Asa/NP man/VM ang/NC merkado/NC ?/FF ;/FF Voldria/NP comprar/VM això/PD ./FF -/FF Paliton/NP na/NC nako/AQ ./FF ;/FF Voldria/NP aquests/DD dos/ZZ ./FF -/FF Gusto/VM ko/NC ug/AQ duha/RG ana/VM ./FF ;/FF Hola/NP ,/FF el/DA meu/PX nom/NC és/VS Joan/NP ./FF -/FF "/FF Kumusta/NP ./FF
+Joan/NP akong/NC ngalan/AQ "/FF ./FF o/CC ,/FF "/FF Ako/NP si/CS Joan/NP "/FF ;/FF Sí/NP ./FF -/FF Oo/NP ./FF
+No/RN ./FF -/FF Dili/NP ./FF
+Enllaços/NC externs/AQ ./FF
+BISAYA-Lunsayng_Binisaya/NP ;/FF El/NP cebuano/VM a/SP Ethnologue/NP ;/FF Diccionari/NP cebuano/VM -/FF anglès/AQ :/FF des_de/SP Diccionari_Webster/NP 's/P0 Online/NP -/FF Edició_Rosetta/NP ./FF
+Traducció/NP de/SP el/DA cebuano/VM ;/FF Sun_Star/NP ,/FF notícies/NC de/SP Cebú/NP ;/FF
+Telmatobius/NP ceiorum/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP ceiorum/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP cirrhacelis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Merino-Viteri/NP ,/FF A./NP ,/FF Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
+Telmatobius/NP cirrhacelis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP colanensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Telmatobius/NP colanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP contrerasi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP contrerasi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+La/DA placa/NC índica/AQ ,/FF o/CC placa/NC de/SP l'/DA Índia/NP és/VS una/DI placa/NC tectònica/AQ de/SP la/DA litosfera/NC terrestre/AQ ./FF
+La/DA seva/PX superfície/NC és/VS de/SP 0,306/ZZ 37_estereoradiants/ZZ ./FF
+Cobreix/VM :/FF les/DA planures/NC de/SP l'/DA Indus/NP ,/FF de/SP el/DA Ganges/NP ,/FF de/SP el/DA Brahmaputra/NP (/FF plana/NC indo-gangètica/AQ )/FF ,/FF de/SP l'/DA Irauadi/NP ,/FF el/DA Dekkan/NP i/CC de/SP Sri_Lanka/NP ;/FF l'/DA est/NC de/SP el/DA mar/NC d'/SP Aràbia/NP ,/FF el/DA nord/NC de/SP l'/DA oceà/NC Índic/NP i/CC el/DA golf/NC de/SP Bengala/NP ,/FF incloent/VM -hi/PP les/DA illes/NC Maldives/NP ,/FF i/CC el/DA nord/NC de/SP les/DA illes/NC Chagos/NP ./FF
+La/DA placa/NC índica/AQ està_en_contacte/VM amb/SP les/DA plaques/NC eurasiàtica/AQ ,/FF aràbiga/AQ ,/FF somali/AQ ,/FF australiana/AQ i/CC birmana/AQ ./FF
+Els/DA seus/PX límits/NC amb/SP les/DA altres/DI plaques/NC estan/VM formats/NC per/SP la/DA fossa/NC de/SP l'/DA arc/NC de/SP la/DA Sonda/NP sobre/SP la/DA costa/NC oest/NC de/SP les/DA illes/NC Andaman/NP i/CC de/SP la/DA dorsal/NC central/AQ de/SP l'/DA oceà/NC Índic/NP ./FF
+El/DA desplaçament/NC de/SP la/DA placa/NC índica/AQ és/VS en/SP direcció/NC nord/AQ ,/FF a/SP una/DI velocitat/NC de/SP 6,00_cm/ZZ a/SP l'/DA any/NC ,/FF a/SP una/DI velocitat/NC de/SP rotació/NC d/AQ '/FF 1,1034°/ZZ cada/DI milió/NC d'/SP anys/NC segons/SP un/DI pol/NC eulerià/AQ situat/VM a/SP 60°/ZZ 49/ZZ '/FF de/SP latitud/NC Nord/NP i/CC 30°/ZZ 40/ZZ '/FF de/SP longitud/NC Oest/NP (/FF referència/NC :/FF placa/NC pacífica/AQ )/FF ./FF
+Els/DA geòlegs/NC consideraven/VM que/CS la/DA placa/NC índica/AQ i/CC la/DA placa/NC australiana/AQ eren/VS una_sola/ZZ placa/NC i/CC l'/DA anomenaven/VM placa/NC indo-australiana/AQ ./FF
+Des_de/SP el/DA descobriment/NC d'/SP una/DI zona/NC de/SP falles/NC i/CC de/SP deformacions/NC a/SP l'/DA oceà/NC Índic/NP entre/SP Sumatra/NP i/CC les/DA illes/NC Chagos/NP ,/FF les/DA dues/ZZ plaques/NC es/P0 consideren/VM com/CS entitats/NC diferenciades/VM ./FF
+Enllaços/NC externs/AQ ./FF
+Peter_Bird/NP :/FF "/FF An/NP updated/NC digital/AQ model/NC of/NC plate/NC boundaries/NC "/FF ,/FF Geochemistry_Geophysics_Geosystems/NP ,/FF 2003/ZZ ;/FF "/FF Velocitat/NC de/SP les/DA plaques/NC tectòniques/AQ "/FF ,/FF aThe/AQ Physics/NP factbook/NC ;/FF Vegeu/NP també/RG ./FF
+Tectònica/NP de/SP plaques/NC ;/FF Placa/NP australiana/NC ;/FF Placa/NP indo-australiana/AQ ;/FF
+Purmamarca/NP és/VS una/DI localitat/NC de/SP el/DA departament/NC de/SP Tumbaya/NP ,/FF en/SP la/DA província/NC Argentina_de_Jujuy/NP ./FF
+Geografia/NP ./FF
+El/DA poble/NC de/SP Purmamarca/NP ,/FF (/FF llengua/NC Aimara/NP "/FF poble/NC de/SP la/DA Terra_Verge/NP "/FF i/CC en/SP quichua/NC poble/NC de/SP el/DA lleó/NC )/FF sobre/SP la/DA Ruta_Provincial_Nº/NP 16/ZZ ,/FF a/SP 3_km/ZZ a/SP l'/DA oest/NC de/SP la/DA Ruta/NP 9/ZZ ,/FF a/SP 65_km/ZZ de/SP San_Salvador_de_Jujuy/NP i/CC a/SP 22_km/ZZ de/SP Tilcara/NP ./FF
+Potser/RG sigui/VS el/DA més/RG pintoresc/AQ i/CC encantador/AQ poble/NC de/SP la/DA trencada/NC de/SP Humahuaca/NP encara/RG que/CS geogràficament/RG pertanyi/VM a/SP altra/DI trencada/NC transversal/AQ homònima/AQ ,/FF envoltada/VM per/SP serres/NC multicolors/AQ ./FF
+L'/DA ampla/AQ Trencada_de_Purmamarca/NP ,/FF assembla/VM una/DI gran/AQ vall/NC enfront/NC de/SP el/DA riu/NC Gran/NP ./FF
+Són/VS típics/AQ els/DA cardones/NC de/SP l'/DA ecosistema/NC de/SP els/DA turons/NC i/CC donen/VM una/DI característica/NC pròpia/AQ a/SP la/DA regió/NC ./FF
+Historia/VM ./FF
+L'/DA Església/NP és/VS de/SP 1648/ZZ ,/FF (/FF bella/AQ llinda/NC de/SP la/DA seva/PX porta/NC principal/AQ )/FF ./FF
+Consagrada/VM a/SP Santa_Rosa_de_Lima/NP ./FF
+La/DA seva/PX festa/NC patronal/NC se/P0 celebra/VM el/DA 30_d'_agost/WW ,/FF compte/NC amb/SP actes/NC religiosos/AQ ,/FF sikuris/NC ,/FF misachicos/NC amb/SP acompanyament/NC de/SP erkes/NC i/CC bombos/NC ./FF
+Va_Ser/NP declarada/VM Monument_Històric_Nacional/NP en/SP 1941/ZZ ,/FF d'/SP arquitectura/NC senzilla/AQ ,/FF murs/NC d'/SP atovó/NC ,/FF sostre/NC de/SP cardón/NC i/CC coca/NC de/SP fang/NC ,/FF una/DI nau/NC única/AQ i/CC estreta/NC ./FF
+En/SP l'/DA interior/NC hi/PP ha/VA pintures/NC de/SP l'/DA Escola_Cuzqueña/NP de/SP el/DA s/NC XVIII/NP ,/FF i/CC objectes/NC de/SP valor/NC artístic/AQ ./FF
+Obre/VM de/SP dilluns/WW a/SP dissabtes/NC de/SP 8/ZZ a/SP 12:30/ZZ i/CC de/SP 16/ZZ a/SP 20/ZZ ./FF
+Diumenges/NP 9/ZZ a/SP 12/ZZ i/CC de/SP 18/ZZ a/SP 21/ZZ ./FF
+Turisme/NP ./FF
+L'/DA entorn/NC de/SP Purmamarca/NP és/VS bellíssim/RG :/FF turons/NC policromos/AQ i/CC el/DA ric/AQ Purmamarca/NP ./FF
+La/DA imponent/AQ bellesa/NC de/SP els/DA turons/NC "/FF vermells/AQ "/FF és/VS un/DI recorregut/NC obligat/VM per/SP a/SP tots/PI ./FF
+Es/P0 realitza/VM en/SP vehicle/NC ,/FF o/CC a/SP peu/NC ./FF
+S'/P0 ingressa/VM des_de/SP l'/DA entrada/NC de/SP el/DA poble/NC ,/FF són/VS 4_km/ZZ i/CC per/SP a/SP vianants/NC ,/FF existeixen/VM camins/NC secundaris/AQ i/CC tallades/NC ./FF
+La/DA Fira_Artesanal/NP funciona/VM en/SP forma/NC permanent/AQ ./FF
+A/SP poca/DI distància/NC cap/NC a/SP Susques/NP ,/FF està/VM el/DA Jaciment_Arqueològic_de_Huachichocana/NP ./FF
+El/DA culte/NC a/SP els/DA morts/NC té/VM una/DI gran/AQ significancia/NC entre/SP els/DA habitants/NC de/SP els/DA pobles/NC de/SP la/DA trencada/NC ./FF
+Visitar/VM el/DA cementiri/NC és/VS una/DI trobada/NC amb/SP el/DA passat/NC i/CC sensacions/NC oposades/VM en/SP l'/DA originalitat/NC de/SP les/DA construccions/NC en/SP honor/NC a/SP el/DA difunt/NC ./FF
+Cal/VM Joan_de_el_Carro/NP és/VS una/DI masia/NC que/PR es/P0 va/VA construir/VM l'/DA any/NC 1879/ZZ a/SP el/DA Prat_de_Llobregat/NP i/CC que/PR tenia/VM una/DI estructura/NC molt/RG típica/AQ :/FF planta/NC baixa/AQ i/CC pis/NC ,/FF de/SP terra/NC premsada/NC ;/FF rellotge_de_sol/NC a/SP la/DA façana/NC .../FF És/VS propietat/NC ,/FF juntament/RG amb/SP deu/ZZ mujades/NC de/SP terreny/NC ,/FF de/SP Joan_Bosch/NP i/CC Muns/NP i/CC de/SP la/DA seva/PX esposa/NC ,/FF Maria_Salom/NP i/CC Piguillem/NP ,/FF els/DA quals/PR la/PP tenen/VM arrendada/VM a/SP Ignasi_Bernardino/NP i/CC Malaguilla/NP que/PR va/VA reformar/VM -la/PP per/SP muntar/VM -hi/PP un/DI restaurant/NC ./FF
+S'/P0 hi/PP conserva/VM la/DA palmera/NC a/SP l'/DA entrada/NC en/SP senyal/NC d'/SP acollida/NC ,/FF en/SP aquest/DD cas/NC un/DI símbol/NC necessari/AQ per/SP a/SP el/DA negoci/NC ./FF
+Referències/NP :/FF ./FF
+Masies_de_el_Prat/NP ,/FF volum/NC 1/ZZ ,/FF de/SP Gerard_Giménez/NP i/CC Mor/NP i/CC Joan_Jordà/NP i/CC Domènech/NP ,/FF Efadós_Editorial/NP ,/FF col·lecció/NC El_Pòsit/NP 2003/ZZ ,/FF pàg/NC ./FF 114/ZZ ;/FF
+Torre_de_la_Ricarda/NP és/VS una/DI masia/NC de/SP el/DA Prat_de_Llobregat/NP ./FF
+Aquesta/DD torre/NC es/P0 coneguda/VM com/CS la/DA Torre_de_Cristal/NP i/CC es/P0 troba/VM a/SP la/DA finca/NC de/SP Can_Bertrand/NP ,/FF a/SP l'/DA estany/NC de/SP la/DA Ricarda/NP ./FF
+Té/VM unes/DI 150_hectàrees/ZZ de/SP bosc/NC ,/FF llacs/NC i/CC marines/NC ./FF
+No/RN és/VS ben_bé/RG una/DI masia/NC ,/FF sinó/CC una/DI gran/AQ mansió/NC de/SP tres/ZZ plantes/NC ,/FF envoltada/VM de/SP jardins/NC i/CC una/DI pineda/NC ./FF
+Va/VA ser/VS construïda/VM a/SP el/DA començament/NC de/SP el/DA segle_XX/WW per/SP Manuel_Bertrand/NP i/CC Salsas/NP ./FF
+Bibliografia/NP ./FF
+Masies_de_el_Prat/NP ,/FF volum/NC 1/ZZ ,/FF de/SP Gerard_Giménez/NP i/CC Mor/NP -/FF Teresa_Giménez/NP i/CC Pérez/NP ./FF
+Ed._Efadós/NP 2003/ZZ ,pàg.92/ZZ ./FF
+Telmatobius/NP culeus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA llac/NC Titicaca/NP (/FF Perú/NP i/CC Bolívia/NP )/FF ./FF
+Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD espècie/NC de/SP granota/NC ./FF ;/FF
+Cal/VM Saio/NP fou/VS una/DI masia/NC de/SP el/DA Prat_de

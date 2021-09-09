@@ -7834,4 +7834,109 @@ Ed._Efadós/NP 2003/ZZ ,pàg.92/ZZ ./FF
 Telmatobius/NP culeus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA llac/NC Titicaca/NP (/FF Perú/NP i/CC Bolívia/NP )/FF ./FF
 Referències/NP ./FF
 Informació/NP sobre/SP aquesta/DD espècie/NC de/SP granota/NC ./FF ;/FF
-Cal/VM Saio/NP fou/VS una/DI masia/NC de/SP el/DA Prat_de
+Cal/VM Saio/NP fou/VS una/DI masia/NC de/SP el/DA Prat_de_Llobregat/NP construïda/VM totalment/RG en/SP pedra/NC de/SP pedrera/NC durant/SP el/DA segle_XIX/WW amb/SP cert/DI aire/NC senyorial/AQ ./FF
+El/DA propietari/NC de/SP la/DA finca/NC ,/FF composta/NC de/SP 166/ZZ mujades/NC de/SP terra/NC de/SP conreu/NC i/CC bosc/NC era/VS ,/FF el/DA 1872/ZZ ,/FF Ferran_Puig/NP i/CC Gibert/NP ./FF
+Any/NP s/NC més/RG tard/RG va/VA vendre/VM la/DA casa/NC i/CC 46/ZZ mujades/NC de/SP terra/NC i/CC un/DI petit/AQ bosc/NC de/SP salzes/NC a/SP antonio/NC Roig/NP i/CC Rey/NP ./FF
+Quan/CS la/DA casa/NC ja/RG era/VS propietat/NC de/SP la/DA família/NC de/SP Missé_Casamada/NP i/CC Roig/NP ,/FF sembla/VM que/CS va/VA ser/VS reformada/NC ./FF
+Els/DA primers/AO masovers/NC procedien/VM de/SP Sant_Martí_de_Torrelles/NP i/CC eren/VS la/DA família/NC de/SP Joan_Farrés/NP ,/FF que/PR es/P0 van/VA anar/VM succeint/VM durant/SP diverses/DI generacions/NC fins/SP arribar/VM a/SP la/DA darrera/AO que/PR va/VA treballar/VM a/SP la/DA finca/NC ,/FF que/PR va/VA ser/VS la/DA de/SP Guillem_Farrés/NP i/CC Comas/NP ,/FF la/DA seva/PX esposa/NC ,/FF Antònia_Torné/NP i/CC Carreras/NP ,/FF i/CC el/DA fill/NC ,/FF Xavier/NP ./FF
+La/DA casa/NC feia/VM 359/ZZ m²/NC i/CC ,/FF a/SP més/RG de/SP la/DA planta/NC baixa/AQ i/CC el/DA pis/NC ,/FF tenia/VM unesventilades/NC golfes/NC ./FF
+A/SP les/DA 20/ZZ mujades/NC de/SP terra/NC de/SP conreu/NC ,/FF a/SP més/RG de/SP les/DA clàsiques/AQ verdures/NC pròpies/AQ de/SP la/DA nostra/PX comarca/NC ,/FF hi/PP cultivaven/VM dues/ZZ mujades/NC de/SP presseguers/NC de/SP molt/DI bona/AQ qualitat/NC ./FF
+L'/DA any/NC 1974/ZZ ,/FF la/DA propietària/NC Mercedes_Casamada/NP i/CC Roig/NP ,/FF va/VA vendre/VM tota/DI la/DA hisenda/NC (/FF 13.542/ZZ m²/NC )/FF i/CC a/SP el/DA seu/PX lloc/NC ss/AQ 'hi/PP van/VA construir/VM blocs/NC de/SP pisos/NC i/CC el/DA polígon/NC industrial/AQ que/PR porta/VM el/DA nom/NC de/SP la/DA casa/NC ;/FF tot/RG el/DA conjunt/NC està/VM situat/VM entre/SP el/DA carrer/NC de/SP el/DA Gaiter_de_el_Llobregat/NP ,/FF la/DA carretera/NC de/SP la/DA Marina/NP i/CC l'/DA avinguda/NC de/SP la/DA Verge_de_Montserrat/NP ./FF
+La/DA casa/NC va/VA ser/VS enderrocada/VM el/DA 20_de_febrer_de_1974/WW ./FF
+Bibliografia/NP ./FF
+Masies_de_el_Prat/NP (/FF L'/DA Albufera/NP i/CC La_Ribera/NP )/FF ,/FF vol/VM I/NP ,/FF de/SP Gerard/NP i/CC Teresa_Giménez/NP i/CC Joan_Jordà/NP ,/FF Editorial_Efadós/NP ,/FF El_Papiol/NP ,/FF 2003/ZZ pàg/NC 132/ZZ ./FF
+Cal/VM Monés/NP és/VS una/DI masia/NC situada/VM a/SP el/DA Prat_de_Llobregat/NP (/FF Baix_Llobregat/NP )/FF ./FF
+Va/VA ser/VS propietat/NC de/SP Na_Maria_Salom/NP i/CC Ribas/NP i/CC els/DA seus/PX fills/NC ./FF
+Fa/VM poc/RG l'/DA Ajuntament_de_el_Prat/NP la/PP va/VA adquirir/VM per/SP protegir/VM -la/PP de/SP el/DA vandalisme/NC i/CC els/DA robatoris/NC ./FF
+Les/DA terres/NC de/SP la/DA finca/NC encara/RG es/P0 cultiven/VM avui/RG dia/NC ./FF
+Antigament/RG la/DA masia/NC destacava/VM per/SP el/DA seu/PX pou/NC d'/SP aigües/NC freàtiques/AQ (/FF de/SP primera/AO aigua/NC )/FF de/SP el/DA tipus/NC anomenat/VM de/SP semicapella/NC ,/FF construït/VM amb/SP maons/NC ,/FF tapat/VM per/SP dalt/NC ,/FF amb/SP forma/NC esfèrica/AQ i/CC dues/ZZ sortides/NC ,/FF una/DI que/PR omplia/VM la/DA pica/NC i/CC el/DA safareig/NC ,/FF i/CC l'/DA altre/PI que/PR anava/VM cap/NC a/SP el/DA rec/NC de/SP les/DA plantes/NC de/SP l'/DA horta/NC ./FF
+a/SP el/DA Prat/NP només/RG se/P0 'n/PP coneixen/VM dos/ZZ pous/NC d'/SP aquest/DD tipus/NC :/FF aquest/DD i/CC el/DA de/SP Can_Dan/NP ,/FF tots/DI dos/ZZ ja/RG enderrocats/VM ./FF
+En/SP la/DA part/NC de/SP el/DA darrere_de/SP la/DA casa/NC també/RG hi/PP havia/VA una/DI cisterna/NC ,/FF emprada/VM ja/RG per/SP romans/AQ i/CC àrabs/AQ ,/FF per/SP recollir/VM l'/DA aigua/NC de/SP la/DA pluja/NC ./FF
+Referències/NP ./FF
+Masies_de_el_Prat/NP (/FF L'/DA Albufera/NP i/CC La_Ribera/NP )/FF ,/FF vol./NC I/NP ,/FF de/SP Gerard/NP i/CC Teresa_Giménez/NP i/CC Joan_Jordà/NP ,/FF Editorial_Efadós/NP ,/FF El_Papiol/NP ,/FF 2003/ZZ ,/FF pàg/NC ./FF 66/ZZ ./FF
+Telmatobius/NP dankoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Telmatobius/NP dankoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP degener/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Aguilar_Puntriano/NP ,/FF C./NP ,/FF Sinsch/NP ,/FF U._&_Lehr/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP degener/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP edaphonastes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP edaphonastes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Abra_Pampa/NP és/VS la/DA ciutat/NC capçalera/NC de/SP el/DA departament/NC de/SP Cochinoca/NP ,/FF en/SP la/DA província/NC argentina/AQ de/SP Jujuy/NP ./FF
+És/VS un/DI centre/NC de/SP serveis/NC de/SP la/DA Puna/NP ,/FF la/DA 2º/ZZ població/NC en/SP importància/NC de/SP la/DA regió/NC ,/FF després/RG de/SP La_Quiaca/NP de/SP la/DA qual/PR es/P0 troba/VM 73_km/ZZ a/SP el/DA sud/NC ,/FF per/SP la/DA RN/NP 9/ZZ ,/FF pavimentada/VM ,/FF que/CS també/RG la/PP comunica/VM amb/SP la/DA capital/NC provincial/AQ ,/FF distant/VM 224/ZZ km./NC Es/NP troba/VM situada/VM en/SP l'/DA entrada/NC meridional/AQ de/SP la/DA gran/AQ altiplanicie/NC coneguda/VM com/CS la/DA Puna_Argentina/NP ,/FF a/SP el/DA peu/NC de/SP turó/NC Huancar/NP ./FF
+Historia/VM ./FF
+La/DA localitat/NC va/VA ser/VS fundada/VM el/DA 30_d'_agost_de_1883/WW com/CS nova/AQ capital/NC de/SP el/DA departament/NC ,/FF 22_km/ZZ a/SP l'/DA aquest/DD de/SP l'/DA antic/AQ poble/NC de/SP Cochinoca/NP ./FF
+Població/NP ./FF
+Si_bé/CS d'/SP acord/NC a/SP fonts/NC periodístiques/AQ recents/AQ (/FF revesteixi/VM Rumbs/NP 1/ago/2004/WW )/FF tindria/VM 16.000/ZZ hab/AQ ./FF ,/FF el/DA cens/NC INDEC/NP de/SP 2001/ZZ li/PP assigna/VM 7.496/ZZ hab/AQ ./FF a/SP l'/DA àrea/NC urbana/AQ i/CC 9.425/ZZ hab/AQ ./FF a/SP tot/DI el/DA municipi/NC ./FF
+Abra_Pampa/NP és/VS nexe/NC d'/SP unió/NC entre/SP la/DA Puna/NP ,/FF les/DA selves/NC i/CC les/DA valls/NC ,/FF Abra_Pampa/NP és/VS una/DI ciutat/NC netament/RG comercial/AQ ,/FF malgrat/SP això/PD el/DA seu/PX indice/NC de/SP desocupació/NC és/VS alt/AQ ./FF
+És/VS una/DI ciutat/NC cosmopolita/AQ amb/SP una/DI població/NC de/SP 9.425/ZZ habitants/NC ,/FF la/DA seva/PX principal/AQ activitat/NC és/VS el/DA comerç/NC que/PR s'/P0 està/VM veient/VM afavorit/VM per/SP la/DA seva/PX ubicació/NC geogràfica/AQ ./FF
+Economia/NP ./FF
+La/DA ramaderia/NC es/P0 veu/VM representada/VM per/SP caprinos/NC ,/FF camélidos/AQ i/CC ovinos/NC i/CC és/VS de/SP vital/AQ importacia/NC per/SP a/SP la/DA ciutat/NC que/PR va/VA ser/VS fundada/VM un/DI 30_d'_agost_de_1883/WW amb/SP el/DA nom/NC de/SP Sibèria_Argentina/NP ,/FF la/DA ciutat/NC està/VM situada/VM a/SP 3.484/ZZ msnm/NC i/CC va/VA ser/VS declarada/VM com/CS capital/NC de/SP la/DA Puna/NP un/DI 30_d'_agost_de_1973/WW ./FF
+En/SP el/DA marge/NC esquerre/AQ de/SP el/DA rio/NC Miraflores/NP ,/FF es/P0 troba/VM assentada/NC sobre/SP una/DI altiplanicie/NC extensa/AQ que/PR pot/VM ser/VS situada/VM entre/SP les/DA últimes/AO estribaciones/NC de/SP la/DA serra/NC El_Aguilar/NP i/CC les/DA serres/NC de/SP Cochinoca/NP ./FF
+El/DA clima/NC és/VS propi/AQ de/SP la/DA altiplanicie/NC ;/FF és/VS fred/AQ i/CC sec/AQ ,/FF els/DA voltants/NC d'/SP Abra_Pampa/NP són/VS àrids/AQ ,/FF sorrencs/AQ i/CC plans/AQ ./FF
+Les/DA cases/NC es/P0 troben/VM emplaçades/VM a_banda_i_banda/RG de/SP la/DA RN/NP 9/ZZ ./FF
+Telmatobius/NP fronteriensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Telmatobius/NP fronteriensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP gigas/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP gigas/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP halli/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Telmatobius/NP halli/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Josep_Bonet/NP i/CC Cufí/NP (/FF Fonteta/NP ,/FF 1913/ZZ Girona/NP ,/FF 1982/ZZ )/FF fou/VS un/DI polític/NC gironí/AQ ./FF
+Llicenciat/NP en/SP Ciències/NP ./FF
+Delegat_de_l'_Instituto_Nacional_d'_Estadística/NP ./FF
+Excombatent/NP i/CC afiliat/NC a/SP la/DA Falange/NP des_de/SP 1940/ZZ ./FF
+En/SP les/DA eleccions/NC municipals/AQ de/SP 1957/ZZ va/VA ser/VS candidat/NC per/SP el/DA terç/NC familiar/AQ ,/FF però/CC va/VA ser/VS superat/VM per/SP la/DA resta/NC d'/SP aspirants/NC ./FF
+de/SP el/DA 1958/ZZ a/SP el/DA 1964/ZZ s'/P0 encarregà/VM de/SP la/DA delegació/NC provincial/AQ d'/SP Associacions_de_el_Movimiento/NP ./FF
+També/RG ocupà/VM la/DA vicepresidència/NC de/SP la/DA Junta_Provincial_d'_Educació_Física/NP i/CC Esports/NP i/CC la/DA vicesecretaria/NC provincial/AQ d'/SP Ordenació_Econòmica/NP ./FF
+de/SP el/DA febrer_de_1967/WW a/SP el/DA febrer_de_1972/WW va/VA ser/VS alcalde/NC de/SP Girona/NP ,/FF i/CC gestionà/VM la/DA transformació/NC desmesurada/AQ de/SP la/DA ciutat/NC ,/FF castigada/VM un/DI altres/DI cop/NC per/SP les/DA inundacions/NC ./FF
+Morí/VM a/SP Girona/NP l'/DA any/NC 1982/ZZ ./FF
+Referències/NP ./FF
+Telmatobius/NP hauthali/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP hauthali/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP hockingi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Aguilar_Puntriano/NP ,/FF C._&_Sinsch/NP ,/FF U./NP 2004/ZZ ./FF
+Telmatobius/NP hockingi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Joan_Maria_de_Ribot/NP i/CC de/SP Balle/NP va/VA néixer/VM a/SP Girona/NP el/DA 24_de_febrer_de_1919/WW ./FF
+Llicenciat/NP en/SP Arquitectura/NP i/CC també/RG en/SP Urbanisme/NP ./FF
+També/RG doctor/NC en/SP Arquitectura/NP ./FF
+Germà/NC de/SP el/DA també/RG alcalde/NC ,/FF Ignasi_de_Ribot/NP i/CC de/SP Balle/NP ,/FF exercí/VM d'/SP alcalde/NC de/SP la/DA ciutat/NC de/SP Girona/NP tan/RG sols/VM un/DI any/NC ./FF
+Ha/VA dedicat/VM la/DA major/AQ part/NC de/SP la/DA seva/PX vida/NC a/SP l'/DA arquitectura/NC ,/FF amb/SP alguns/DI edificis/NC emblemàtics/AQ com/CS el/DA garatge/NC Forné/NP ./FF
+També/RG ha/VA dut_a_terme/VM nombroses/AQ restauracions/NC d'/SP edificis/NC de/SP el/DA patrimoni/NC de/SP la/DA ciutat/NC com/CS el/DA Claustre/NP i/CC la/DA Torre_de_Carlemany_de_la_Catedral_de_Girona/NP ,/FF l'/DA església/NC de/SP Sant_Nicolau/NP ,/FF el/DA monestir/NC de/SP Sant_Pere_de_els_Galligans/NP ,/FF la/DA Fontana_d'_Or/NP o/CC les/DA Torres_de_Palau/NP ./FF
+Referències/NP ./FF
+Joan_Ballesta/NP i/CC Molinas/NP (/FF l'/DA Escala/NP ,/FF 1893/ZZ -/FF Chânes/NP ,/FF França/NP ,/FF 1962/ZZ )/FF fou/VS un/DI polític/NC gironí/AQ que/PR esdevingué/VM el/DA darrer/AO alcalde/NC republicà/AQ de/SP Girona/NP ./FF
+Va/VA ser/VS elegit/VM president/NC local/AQ de/SP el/DA Partit_Republicà_Federal_Nacionalista/NP de/SP les/DA comarques/NC de/SP Girona/NP ,/FF partit/NC sorgit/VM de/SP la/DA coordinació/NC de/SP la/DA Unió_Federal_Nacionalista_Republicana_de_l'_Alt/NP i/CC el/DA Baix_Empordà/NP i/CC de/SP el/DA Centre_d'_Unió_Republicana_de_Girona/NP ./FF
+Aquest/DD partit/NC més/RG la/DA Federació_Republicana_Socialista_de_l'_Empordà/NP conformarien/VM més/RG tard/RG ERC/NP ./FF
+Fou/VS representant/NC sindical/AQ de/SP el/DA CADCI/NP ./FF
+El/DA 19_d'_octubre_de_1936/WW esdevenia/VM president/NC de/SP el/DA Consell_Municipal_de_Palau-sacosta/NP en/SP nom/NC d'/SP ERC/NP ./FF
+Llavors/RG encara/RG militava/VM a/SP el/DA PRFN/NP integrat/VM dins/SP ERC/NP ./FF
+El/DA 14_de_desembre/WW d'/SP aquell/DD mateix/DI any/NC ,/FF en/SP dissoldre/VM 's/P0 el/DA Comitè_Antifeixista/NP que/PR regia/VM la/DA població/NC es/P0 modificà/VM el/DA consistori/NC però/CC ell/PP continuà/VM d'/SP alcalde/NC ,/FF ara/RG en_nom_de/SP el/DA PSUC/NP (/FF Partit_Socialista_Unificat_de_Catalunya/NP )/FF ./FF
+Quinze/ZZ dies/NC abans/RG de/SP la/DA ocupació/NC de/SP la/DA ciutat/NC ,/FF en/SP un/DI intent/NC desesperat/VM per/SP constituir/VM el/DA darrer/AO Ajuntament_de_Girona/NP ,/FF ja_que/CS Pere_Cerezo/NP havia/VA marxat/VM a/SP l'/DA exili/NC ,/FF els/DA representants/NC de/SP CNT/NP ,/FF UGT/NP ,/FF PSU/NP i/CC JSU/NP el/PP van/VA elegir/VM alcalde/NC el/DA dia_28_de_gener_de_1939/WW ./FF
+Finalment/RG ,/FF marxà/VM a/SP l'/DA exili/NC i/CC morí/VM l'/DA any/NC 1962/ZZ a/SP la/DA vila/NC francesa/AQ de/SP Chânes/NP ./FF
+Referències/NP ./FF
+Calilegua/NP és/VS una/DI ciutat/NC i/CC municipi/NC de/SP el/DA sud-est/NC de/SP la/DA província/NC argentina/AQ de/SP Jujuy/NP ,/FF a/SP el/DA departament/NC Ledesma/NP ./FF
+Aquesta/DD ciutat/NC se/P0 situa/VM a/SP uns/DI 170_km/ZZ a/SP el/DA nord-est/NC de/SP l

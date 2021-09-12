@@ -8363,4 +8363,77 @@ Compté/NP una/DI col·lecció/NC de/SP 64.000/ZZ monedes/NC gregues/AQ ,/FF d'/
 Té/VM 360.000/ZZ monedes/NC d'/SP Europa_Occidental/NP ,/FF sobretot/RG de/SP els/DA segles/NC XVII/NP i/CC XVIII/NP ,/FF 220.000/ZZ d'/SP Orient_Mitjà/NP i/CC Extrem_Orient/NP ,/FF i/CC 300.000/ZZ russes/NC ./FF
 A/SP més/RG ,/FF té/VM una/DI col·lecció/NC d'/SP insígnies/NC i/CC medalles/NC de/SP més/RG de/SP 80.000/ZZ objectes/NC i/CC 2000/ZZ segells/NC ./FF
 Directors/NP de/SP el/DA museu/NC ./FF
-Florian_Antonovich_Gilles/NP ;/FF Stepan_Alexandrovich_Gedeonov/NP (/FF 1863/ZZ 78/ZZ )/FF ;/FF Aleksandr_Alexeyevich_Vasilchikov/NP (/FF 1879/ZZ 88/ZZ )/FF ;/FF Sergei_Nikitich_Trubetskoi/NP (/FF 1888/ZZ 99/ZZ )/FF ;/FF Ivan_Alexandrovich_Vsevolozhsky/NP (/FF 1899/ZZ 1909/ZZ )/FF ;/FF Dmitry_Ivanovich_Tolstoi/NP (/FF 1909/ZZ 
+Florian_Antonovich_Gilles/NP ;/FF Stepan_Alexandrovich_Gedeonov/NP (/FF 1863/ZZ 78/ZZ )/FF ;/FF Aleksandr_Alexeyevich_Vasilchikov/NP (/FF 1879/ZZ 88/ZZ )/FF ;/FF Sergei_Nikitich_Trubetskoi/NP (/FF 1888/ZZ 99/ZZ )/FF ;/FF Ivan_Alexandrovich_Vsevolozhsky/NP (/FF 1899/ZZ 1909/ZZ )/FF ;/FF Dmitry_Ivanovich_Tolstoi/NP (/FF 1909/ZZ 18/ZZ )/FF ;/FF Boris_Vasilievich_Legran/NP (/FF 1931-1934/ZZ )/FF ;/FF Iosif_Abgarovich_Orbeli/NP (/FF 1934-1951/ZZ )/FF ;/FF Mikhail_Artamonov/NP (/FF 1951/ZZ 1964/ZZ )/FF ;/FF Boris_Borisovich_Piotrovsky/NP (/FF 1964-1990/ZZ )/FF ;/FF Mikhail_Borisovich_Piotrovsky/NP (/FF 1990-avui/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NP oficial/AQ de/SP l'/DA Ermitage/NP ;/FF
+El/DA Tractat_de_Fontainebleau/NP fou/VS un/DI tractat/NC signat/VM a/SP el/DA castell/NC de/SP Fontainebleau/NP el/DA 24_d'_octubre_de_1745/WW entre/SP el/DA rei/NC Lluís_XV_de_França/NP i/CC el/DA pretendent/NC a/SP el/DA tron/NC britànic/AQ Charles_Edward_Stuart/NP ./FF
+Sobre/SP la/DA base/NC de/SP els/DA termes/NC de/SP l'/DA acord/NC ,/FF els/DA signants/NC van/VA acordar/VM establir/VM una/DI aliança/NC militar/AQ en/SP contra/SP de/SP Jordi_II_de_el_Regne_Unit/NP ,/FF que/PR era/VS l'/DA avi/NC de/SP el/DA pretendent/NC i/CC alhora/RG elector/NC de/SP Hannover/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Text_de_el_Tractat_de_Fontainebleau/NP de/SP 1745/ZZ ;/FF
+Manuel_Pizarro_Moreno/NP (/FF Terol/NP ,/FF 29_de_setembre_del_1951/WW )/FF és/VS un/DI empresari/NC i/CC polític/NC espanyol/AQ ./FF
+Advocat_de_l'_Estat/NP ,/FF agent/NC borsari/AQ i/CC expresident/NC d'/SP Endesa/NP ./FF
+Va/VA ser/VS el/DA número/NC 2/ZZ a/SP les/DA llistes/NC de/SP el/DA Partit_Popular_de_Madrid/NP per/SP les/DA eleccions/NC generals/AQ de/SP el/DA 2008/ZZ ./FF
+El/DA seu/PX avi/NC ,/FF el/DA General_Manuel_Pizarro_Cenjor/NP ,/FF va/VA ser/VS un/DI militar/AQ destacat/VM en/SP la/DA repressió/NC de/SP el/DA maquis/NC a/SP la/DA zona/NC de/SP Terol/NP ./FF
+Biografia/NP ./FF
+Nascut/VM a/SP el/DA 29_de_setembre_de_1951/WW a/SP Terol/NP ./FF
+Va/VA estudiar/VM dret/NC a/SP la/DA Universitat_Complutense_de_Madrid/NP ./FF
+L'/DA any/NC 1978/ZZ va/VA opositar/VM ,/FF amb/SP èxit/NC ,/FF per/SP a/SP advocat/NC de/SP l'/DA estat/NC ./FF
+El/DA desembre_del_1995/WW va/VA ser/VS nomenat/VM vice-president/NC de/SP la/DA Borsa_de_Madrid/NP ./FF
+Va/VA ser/VS criticat/VM durament/RG l'/DA any/NC 2006/ZZ quan/CS no/RN va/VA acceptar/VM una/DI OPA/NP sobre/SP Endesa/NP (/FF d'/SP on/PR n'/PP era/VS president/NC )/FF per/SP part/NC de/SP Gas_Natural/NP ./FF
+Posteriorment/RG ,/FF l'/DA alemanya/AQ E._ON/NP va/VA fer/VM una/DI contra-oferta/NC ,/FF que/CS no/RN fou/VS suficient/AQ davant/SP d'/SP una/DI tercera/AO OPA/NP presentada/VM per/SP ENEL/NP i/CC Acciona/NP ,/FF que/PR fou/VS la/DA preferida/VM per/SP els/DA accionistes/NC ./FF
+El/DA 17_de_gener_del_2008/WW va/VA ser/VS presentat/VM oficialment/RG com/CS a/SP número/NC 2/ZZ de/SP el/DA Partit_Popular/NP ,/FF Mariano_Rajoy/NP va/VA assegurar/VM que/CS era/VS un/PI de/SP els/DA homes/NC mes/NC entesos/NC en/SP economia/NC espanyola/AQ ./FF
+Vegeu/VM també/RG ./FF
+Manuel_Pizarro_Cenjor/NP ;/FF
+Monika_Helfer/NP (/FF */FF 18_d'_octubre_del_1947/WW a/SP Au/NP (/FF Vorarlberg/NP )/FF )/FF és/VS una/DI escriptora/NC austríaca/AQ ./FF
+Casada/NP amb/SP l'/DA escriptor/NC Michael_Köhlmeier/NP ,/FF viu/AQ i/CC treballa/VM a/SP Hohenems/NP (/FF Vorarlberg/NP //FF Àustria/NP )/FF ./FF
+Obra/NC (/FF en/SP alemany/NC )/FF ./FF
+Novel·la/NP ./FF
+Die/NP wilden/VM Kinder/NP (/FF 1984/ZZ )/FF ;/FF Mulo/NP ./FF
+Eine_Sage/NP (/FF 1986/ZZ )/FF ;/FF Ich/NP lieb/NC Dich/NP überhaupt/RG nicht/RG mehr/AQ (/FF 1989/ZZ )/FF ;/FF Der_Neffe/NP (/FF 1991/ZZ )/FF ;/FF Oskar/NP und/AQ Lilli/NP (/FF 1994/ZZ )/FF ;/FF Kleine_Fürstin/NP (/FF 1995/ZZ )/FF ;/FF Wenn/NP der/VM Bräutigam/NP kommt/RG (/FF 1998/ZZ )/FF ;/FF Bestien/NP im/AQ Frühling/NP (/FF 1999/ZZ )/FF ;/FF Mein_Mörder/NP (/FF 1999/ZZ )/FF ;/FF Rosie/NP in/VM New_York/NP (/FF 2002/ZZ )/FF ;/FF Rosie/NP in/VM Wien/NP (/FF 2004/ZZ )/FF ;/FF Teatre/NP ./FF
+Die_Aufsässige/NP (/FF 1992/ZZ )/FF ;/FF Bestien/NP im/AQ Frühling/NP (/FF 1999/ZZ )/FF ;/FF Radiocomèdia/NP ./FF
+Der_Zorn/NP des/SP Meisters/NP (/FF 1979/ZZ )/FF ;/FF Indische_Tempeltänzerin/NP (/FF 1981/ZZ )/FF ;/FF Oskar/NP und/AQ Lilli/NP (/FF 1994/ZZ )/FF (/FF premi/NC de/SP la/DA televisió/NC austríaca/NC )/FF ;/FF Premis/NP ./FF
+Ehrengabe/NP für/VM Kunst/NP und/AQ Wissenschaft/NP de/SP la/DA província/NC Vorarlberg/NP (/FF 1973/ZZ )/FF ;/FF Staatsstipendium/NP de/SP el/DA govern/NC austríac/AQ (/FF 1980/ZZ )/FF ;/FF Franz-Michael-Felder-Medaille/NP für/VM Verdienste/NP um/NC die/NC Literatur_Vorarlbergs/NP (/FF 1985/ZZ )/FF ;/FF Literaturstipendium_de_Vorarlberg/NP (/FF 1989/ZZ )/FF ;/FF Förderungspreis/NP de/SP el/DA govern/NC austríac/AQ (/FF 1991/ZZ )/FF ;/FF Dramatikerstipendium/NP de/SP el/DA govern/NC austríac/AQ (/FF 1992/ZZ )/FF ;/FF Österreichischer/VM Würdigungspreis/NP für/VM Literatur/NP (/FF 1997/ZZ )/FF ;/FF
+El/DA Tractat_de_Fontainebleau/NP (/FF en/SP alemany/NC :/FF Vertrag/NP von/VM Fontainebleau/NP )/FF fou/VS un/DI tractat/NC signat/VM el/DA 30_de_maig_de_1631/WW entre/SP Maximilià_I_de_Baviera/NP i/CC el/DA Cardenal_Richelieu/NP ./FF
+L'/DA acord/NC va/VA establir/VM una/DI aliança/NC secreta/AQ entre/SP els/DA dos/ZZ estats/NC catòlics/AQ durant/SP la/DA Guerra/NP de/SP els/DA Trenta/ZZ Anys/NP ./FF
+Acord/NP ./FF
+El/DA tractat/NC ,/FF que/PR tindrà/VM una/DI validesa/NC de/SP vuit/ZZ anys/NC ,/FF va/VA obrir/VM el/DA camí/NC a/SP un/DI acostament/NC entre/SP els/DA estats/NC de/SP l'/DA Estat_Lliure_de_Baviera/NP i/CC el/DA Regne_de_França/NP i/CC va/VA preveure/VM una/DI assistència/NC militar/AQ mútua/AQ en/SP cas/NC d'/SP agressió/NC ./FF
+En_particular/RG ,/FF la/DA signatura/NC d'/SP aquest/DD tractat/VM havia/VA de/SP comportar/VM l'/DA ajuda/NC de/SP Baviera/NP en/SP cas/NC d'/SP un/DI atac/NC per/SP part/NC de/SP els/DA Habsburgs/NP contra/SP França/NP ,/FF així/RG com/CS el/DA reconeixement/NC per/SP part/NC de/SP els/DA francesos/NC de/SP l'/DA articulació/NC de/SP l'/DA estat/NC de/SP Baviera/NP com/CS un/DI electorat/NC i/CC de/SP la/DA seva/PX tutela/NC a/SP l'/DA Alt_Palatinat/NP ./FF
+Per/SP la/DA seva/PX banda/NC Maximilià/NP es/P0 va/VA comprometre/VM a/SP no/RN donar_suport/VM a/SP els/DA enemics/NC de/SP França/NP ./FF
+Conseqüències/NP ./FF
+a/SP el/DA tractat/NC realment/RG va/VA mancar/VM valor/NC ,/FF ja_que/CS el/DA mateix/DI any/NC 1631/ZZ el/DA rei/NC Gustau_II_Adolf_de_Suècia/NP ,/FF de/SP religió/NC protestant/AQ i/CC aliat/NC de/SP França/NP ,/FF atacà/VM Baviera/NP ,/FF la/DA qual/PR no/RN rebé/VM ajuda/NC francesa/AQ ./FF
+En/SP les/DA argumentacions/NC posteriors/AQ ,/FF França/NP adduí/VM que/CS fou/VS Baviera/NP la/DA que/PR havia/VA iniciat/VM el/DA conflicte/NC amb/SP el/DA Regne_de_Suècia/NP ,/FF i/CC com/CS a/SP tal/PD s'/P0 anul·là/VM el/DA tractat/NC d'/SP ajuda/NC mútua/AQ ./FF
+En/SP aquell/DD moment/NC ,/FF i/CC preveient/VM més/RG atacs/NC suecs/AQ contra/SP Baviera/NP ,/FF Maximilià_I/NP buscà/VM l'/DA aliança/NC amb/SP el/DA Sacre_Imperi_Romanogermànic/NP ./FF
+Vegeu/VM també/RG ./FF
+Guerra/NP de/SP els/DA Trenta/ZZ Anys/NP ;/FF
+Villanueva_Mesía/NP és/VS un/DI municipi/NC de/SP la/DA província/NC de/SP Granada/NP ,/FF situat/VM en/SP la/DA comarca/NC de/SP Loja/NP ,/FF té/VM 11/ZZ km²/NC i/CC una/DI població/NC de/SP 2.127/ZZ habitants/NC ./FF (/FF 2005/ZZ )/FF ./FF
+a/SP el/DA nord/NC limita/VM amb/SP el/DA municipi/NC de/SP Montefrío/NP ,/FF a/SP l'/DA est/NC amb/SP el/DA municipi/NC de/SP Íllora/NP ,/FF a/SP el/DA sud/NC amb/SP el/DA municipi/NC de/SP Moraleda_de_Zafayona/NP ,/FF a/SP el/DA sud-oest/NC amb/SP Huétor_Tájar/NP ,/FF i/CC a/SP l'/DA oest/NC amb/SP Loja/NP ./FF
+Un/DI speakeasy/NC (/FF speakeasies/NC en/SP plural/NC )/FF era/VS un/DI establiment/NC il·legal/AQ on/PR es/P0 venia/VM i/CC es/P0 consumia/VM alcohol/NC a/SP els/DA Estats_Units/NP durant/SP els/DA anys/NC de/SP la/DA anomenada/NC Llei/NP seca/AQ ,/FF quan/CS la/DA fabricació/NC ,/FF el/DA transport/NC i/CC la/DA venta/VM d'/SP alcohol/NC era/VS il·legal/AQ ./FF
+El/DA nom/NC prové/VM de/SP el/DA costum/NC de/SP els/DA amos/NC de/SP els/DA establiments/NC d'/SP anar/VM dient/VM a/SP els/DA clients/NC que/PR parlessin/VM fluixet/AQ (/FF speak/NC easy/NC en/SP anglès/NC )/FF ./FF
+Els/DA speakeasies/NC van/VA esdevenir/VM cada/DI cop/NC més/RG populars/AQ i/CC nombrosos/AQ durant/SP aquests/DD anys/NC ,/FF i/CC van/VA començar/VM a/SP ser/VS controlats/VM per/SP la/DA màfia/NC i/CC el/DA crim/NC organitzat/VM ./FF
+Sovint/RG també/RG oferien/VM altres/DI serveis/NC com/CS restauració/NC ,/FF concerts/NC de/SP jazz/NC o/CC pistes/NC per/SP a/SP ballar/VM ./FF
+Els/DA speakeasies/NC es/P0 van/VA estendre/VM per/SP tots/DI els/DA Estats_Units/NP malgrat/SP les/DA detencions/NC de/SP patrons/NC i/CC clients/NC ./FF
+La/DA policia/NC ,/FF moltes/DI vegades/NC corrupta/AQ per/SP els/DA amos/NC de/SP els/DA establiments/NC ,/FF no/RN hi/PP intervenia/VM o/CC avançava/VM les/DA seves/PX actuacions/NC a/SP els/DA diferents/DI locals/NC ./FF
+a/SP els/DA Estats_Units/NP encara/RG queden/VM trenta-set/ZZ speakesasies/NC de/SP els/DA anys/NC 20/ZZ ,/FF vint-i-tres/ZZ a/SP Nova_York/NP ,/FF tretze/ZZ a/SP Pennsylvania/NP i/CC un/DI a/SP Washington_DC._ENDOFARTICLE/NP ./FF
+Giacomo_Balla/NP (/FF Torí/NP ,/FF 1871/ZZ -/FF Roma/NP ,/FF 1958/ZZ )/FF ,/FF pintor/NC italià/AQ ,/FF un/PI de/SP els/DA fundadors/NC de/SP el/DA moviment/NC futurista/AQ ./FF
+Molt/RG influenciat/VM per/SP els/DA puntillistes/NC parisencs/AQ ,/FF des_de/SP 1909/ZZ ho/PP va/VA estar/VM en_particular/RG per/SP l'/DA obra/NC de/SP el/DA poeta/NC Filippo_Marinetti/NP ,/FF amb/SP qual/PR va/VA publicar/VM el/DA Manifest_Futurista/NP aquell/DD mateix/DI any/NC ./FF
+a/SP el/DA contrari/AQ que/CS altres/PI de/SP el/DA seu/PX mateix/DI gènere/NC ,/FF Balla/NP va/VA ser/VS un/DI pintor/NC líric/AQ ,/FF aliè/AQ a/SP la/DA violència/NC ./FF
+Les/DA seves/PX obres/NC més/RG reconegudes/VM tracten/VM la/DA dinamicitat/NC de/SP la/DA llum/NC i/CC el/DA moviment/NC simultani/AQ ,/FF com/CS "/FF Dinamisme/NC de/SP gos/NC amb/SP corretja/NC "/FF (/FF 1912/ZZ )/FF ./FF
+A/SP l'/DA octubre_de_1918/WW va/VA publicar/VM el/DA seu/PX "/FF Manifest/NC de/SP el/DA color/NC "/FF ,/FF una/DI anàlisi/NC de/SP el/DA color/NC en/SP la/DA pintura/NC d'/SP avantguarda/NC ./FF
+En/SP la/DA dècada/NC de/SP 1930/ZZ es/P0 va/VA distanciar/VM de/SP el/DA futurisme/NC ,/FF havent/VM estat/VS un/PI de/SP els/DA seus/PX exponents/NC més/RG destacats/VM ./FF
+Umberto_Boccioni/NP (/FF Reggio_de_Calàbria/NP ,/FF 19_d'_octubre_de_1882/WW -/FF Sorte/NP ,/FF Verona/NP ,/FF 16_d'_agost_de_1916/WW )/FF va/VA ser/VS un/DI pintor/NC i/CC escultor/NC italià/AQ ,/FF teòric/AQ i/CC principal/AQ exponent/NC de/SP el/DA moviment/NC futurista/AQ ./FF
+Després/RG de/SP la/DA seva/PX arribada/NC a/SP Milà/NP i/CC la/DA seva/PX trobada/NC amb/SP els/DA divisionistas/NC i/CC amb/SP Filippo_Tommaso_Marinetti/NP ,/FF va/VA escriure/VM ,/FF juntament/RG amb/SP Carlo_Carrà/NP ,/FF Luigi_Russolo/NP ,/FF Giacomo_Balla/NP i/CC Gino_Severini/NP ,/FF el/DA Manifest/NP de/SP els/DA pintors/NC futuristes/AQ (/FF 1910/ZZ )/FF ,/FF a/SP el/DA com/PR va/VA seguir/VM el/DA Manifest/NP tècnic/AQ de/SP el/DA moviment/NC futurista/AQ (/FF 1910/ZZ )/FF ./FF
+Segons/SP dites/NC manifestes/AQ ,/FF l'/DA artista/NC modern/AQ havia/VA d'/SP alliberar/VM -se/P0 de/SP els/DA models/NC i/CC les/DA tradicions/NC figuratives/AQ de/SP el/DA passat/NC ,/FF per/SP a/SP centrar/VM -se/P0 únicament/RG en/SP el/DA món/NC contemporani/AQ ,/FF dinàmic/AQ i/CC en/SP contínua/AQ evolució/NC ./FF
+Com/CS temes/NC artístics/AQ proposaven/VM la/DA ciutat/NC ,/FF els/DA automòbils/NC i/CC la/DA caòtica/AQ realitat/NC quotidiana/AQ ./FF
+Luigi_Russolo/NP (/FF 30_d'_abril_de_1885/WW -/FF 4_de_febrer_de_1947/WW )/FF va/VA ser/VS un/DI pintor/NC futurista/AQ i/CC compositor/NC italià/AQ ./FF
+a/SP el/DA començament/NC de/SP la/DA seva/PX carrera/NC va/VA emprar/VM una/DI tècnica/NC divisionista/AQ ,/FF i/CC els/DA seus/PX temes/NC giraven/VM entorn/NC de/SP la/DA ciutat/NC i/CC la/DA civilització/NC industrial/AQ ./FF
+Entre/SP les/DA seves/PX obres/NC més/RG interessants/AQ destaca/VM Els_Llampecs/NP de/SP 1909-10/ZZ ./FF
+El/DA 1910/ZZ va/VA signar/VM el/DA Manifest_Futurista/NP i/CC va/VA tenir/VM una/DI participació/NC activa/AQ en/SP aquest/DD grup/NC ./FF
+Encara/RG que/CS els/DA seus/PX quadres/NC no/RN van/VA tenir/VM una/DI àmplia/AQ ressonància/NC ,/FF no/RN obstant/VM això/PD ,/FF la/DA seva/PX música/NC i/CC els/DA seus/PX instruments/NC per/SP a/SP fer/VM sorolls/NC van/VA contribuir/VM significativament/RG a/SP el/DA moviment/NC futurista/AQ ./FF
+A/SP més/RG ,/FF va/VA exposar/VM els/DA seus/PX principis/NC en/SP el/DA llibre/NC "/FF L'/DA Art_de_la_Remor/NP "/FF de/SP 1916/ZZ ./FF
+La/DA Quiaca/NP és/VS una/DI ciutat/NC situada/VM a/SP el/DA nord/NC de/SP la/DA província/NC de/SP Jujuy/NP ,/FF Argentina/NP capçalera/NC de/SP el/DA departament/NC de/SP Yavi/NP ;/FF serveix/VM de_passada/RG fronterer/AQ amb/SP Bolívia/NP ./FF
+Dista/VM per/SP carretera/NC 290_km/ZZ de/SP San_Salvador_de_Jujuy/NP ./FF
+La/DA Quiaca/NP es/P0 troba/VM comunicada/VM amb/SP les/DA altres/DI poblacions/NC i/CC zones/NC d'/SP Argentina/NP mitjançant/SP la/DA Ruta_Nacional/NP 9/ZZ i/CC el/DA Ferrocarril_General_Belgrano/NP ;/FF mentre_que/CC les/DA Rutes_Provincials/NP :/FF RP/NP 5/ZZ la/DA comunica/VM amb/SP Santa_Catalina/NP ,/FF Santa_Victoria/NP ,/FF Iruya/NP i/CC altres/DI poblacions/NC de/SP l'/DA extrem/NC nord/AQ argentí/NC ;/FF RP/NP 69/ZZ fins/SP a/SP Còndor/NP i/CC la/DA RP/NP 67/ZZ a/SP Cangrejillos/NP i/CC Crancs/NP ./FF
+La/DA Quiaca/NP té/VM a/SP més/RG importància/NC turística/AQ per/SP la/DA cultura/NC de/SP la/DA gent/NC que/PR l'/PP habita/VM ,/FF i/CC per/SP estar/VM situada/VM en/SP les/DA àrides/AQ terres/NC de/SP l'/DA altiplà/NC de/SP la/DA puna/NC i/CC en/SP el/DA nord/NC de/SP la/DA Trencada_de_Humahuaca/NP ./FF
+Història/NP ./FF
+El/DA primer/AO antecedent/NC de/SP La_Quiaca/NP ho/PP vam/VA trobar/VM en/SP l'/DA any/NC 1772/ZZ ,/FF quan/CS el/DA comissionat/NC Alonso_Carrió_de_la_Vandera/NP va/VA crear/VM una/DI posta/NC propera/AQ a/SP la/DA posta/NC de/SP els/DA Colorits/NP ./FF
+El/DA lloc/NC va/VA ser/VS punt/NC de/SP disputa/NC ,/FF ja_que/CS es/P0 considerava/VM que/CS allí/RG acabava/VM la/DA jurisdicció/NC de/SP Buenos_Aires/NP i/CC començava/VM la/DA de/SP Potosí/NP ,/FF donant/VM lloc/NC a/SP intenses/AQ batalles/NC que/PR van/VA acabar/VM quan/CS es/P0 va/VA ordenar/VM l'/DA habilitació/NC d'/SP una/DI oficina/NC telegràfica/AQ ./FF
+Pocs/DI anys/NC després/RG ,/FF es/P0 va/VA començar/VM amb/SP els/DA passos/NC per/SP a/SP fundar/VM oficialment/RG el/DA poble/NC i/CC va/VA anar/VM el/DA 10_de_setembre_de_1883/WW quan/CS ,/F

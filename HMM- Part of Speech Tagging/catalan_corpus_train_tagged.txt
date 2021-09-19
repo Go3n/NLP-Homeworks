@@ -8642,4 +8642,77 @@ Això/PD aixecà/VM moltíssima/DI polèmica/NC per/SP part/NC de/SP els/DA treb
 L/NP any/NC 1999/ZZ ,/FF per/SP acabar/VM el/DA mil·leni/NC ,/FF Seat/NP llança/NC a/SP el/DA mercat/NC el/DA Seat_León/NP ,/FF molt/RG semblant/VM a/SP el/DA Toledo_II/NP ./FF
 També/RG a/SP el/DA juny_de_1999/WW passa/VM a/SP presidir/VM l'/DA empresa/NC Bruno_Adelt/NP ./FF
 SEAT/NP a/SP l/NC actualitat/NC ./FF
-L'/DA any/NC 2000/ZZ Seat/NP compleix/VM el/DA seu/PX 50è/ZZ aniversari/NC i/CC amb/SP aquest/DD motiu/NC el/DA Rei_Juan_Carlos_I/NP rep/VM en/SP audiència/NC a/SP el/DA president/NC de/SP Seat/N
+L'/DA any/NC 2000/ZZ Seat/NP compleix/VM el/DA seu/PX 50è/ZZ aniversari/NC i/CC amb/SP aquest/DD motiu/NC el/DA Rei_Juan_Carlos_I/NP rep/VM en/SP audiència/NC a/SP el/DA president/NC de/SP Seat/NP ,/FF i/CC el/DA Príncep_d'_Astúries/NP visita/VM les/DA instal·lacions/NC de/SP Martorell/NP ./FF
+El/DA Centre_Tècnic/NP compleix/VM 25/ZZ anys/NC ./FF
+L/NP 1_de_Juliol/WW Bernd_Pischetsrieder/NP substitueix/VM a/SP l'/DA anterior/AQ president/NC ./FF
+Es/P0 presenta/VM el/DA Salsa/NP ,/FF un/DI prototip/NC que/PR servirà/VM per/SP donar/VM lloc/NC a/SP la/DA nova/AQ imatge/NC de/SP els/DA productes/NC de/SP la/DA marca/NC ./FF
+a/SP el/DA 2001/ZZ surt/NC de/SP la/DA línia/NC de/SP muntatge/NC de/SP la/DA fàbrica/NC de/SP Martorell/NP ,/FF la/DA primera/AO unitat/NC de/SP el/DA Toledo/NP després/RG de/SP el/DA trasllat/NC de/SP la/DA producció/NC des_de/SP Brussel·les/NP ./FF
+a/SP el/DA desembre/WW ,/FF a/SP el/DA Saló_de_l'_Automòbil_de_Bolonya/NP ,/FF es/P0 presenta/VM oficialment/RG el/DA nou/AQ Ibiza/NP ,/FF la/DA nova/AQ generació/NC de/SP el/DA cotxe/NC més/RG carismàtic/AQ de/SP la/DA marca/NC amb/SP unes/DI línies/NC trencadores/AQ i/CC molt/RG modernes/AQ ./FF
+La/DA producció/NC de/SP el/DA Ibiza/NP passarà/VM a/SP produir/VM -se/P0 en/SP un/DI 10_%/ZZ a/SP Eslovàquia/NP ./FF
+S'/P0 adopta/VM l'/DA euro/NC com/CS moneda/NC oficial/AQ interna/AQ de/SP la/DA companyia/NC ./FF
+L/NP any/NC 2002/ZZ ,/FF Andreas_Schleef/NP esdevindrà/VM nou/AQ president/NC de/SP Seat/NP ./FF
+La/DA filial/NC espanyola/AQ s'/P0 integra/VM en/SP el/DA Grup_Volkswagen/NP ./FF
+L/NP any/NC 2003/ZZ a/SP el/DA el/DA Saló_de_Frankfurt/NP es/P0 presenta/VM el/DA Seat_Altea_Prototip/NP ,/FF que/PR donarà/VM lloc/NC a/SP la/DA futura/AQ generació/NC de/SP la/DA seva/PX gamma/NC de/SP vehicles/NC ./FF
+En/SP l/NC '/FF àmbit/NC esportiu/AQ ,/FF Seat/NP participa/VM en/SP el/DA Campionat_Europeu_de_Turismes/NP i/CC el/DA Toledo_GT/NP assoleix/VM la/DA victòria/NC en/SP el/DA Campionat_d'_Espanya_de_Gran_Turisme/NP ./FF
+Seat/NP també/RG munta/VM la/DA competició/NC mono-marca/NC Supercopa_Seat_León/NP ./FF
+A/SP començaments/NC de/SP el/DA 2004/ZZ Seat/NP posa/VM en/SP producció/NC l/NC Altea/NP (/FF curt/RG )/FF ./FF
+A/SP l/NC estiu/NC es/P0 posa/VM en/SP venda/NC el/DA tercer/AO Seat_Toledo/NP ,/FF una/DI berlina/NC derivada/NC de/SP el/DA monovolum/NC Altea/NP ./FF
+En/SP aquest/DD mateix/DI any/NC ,/FF es/P0 trasllada/VM la/DA producció/NC de/SP el/DA Ibiza/NP que/CS Seat/NP tenia/VM a/SP Eslovàquia/NP cap/NC a/SP la/DA planta/NC barcelonesa/AQ de/SP Martorell/NP ./FF
+També/RG se/P0 celebra/VM a/SP el/DA setembre/WW el/DA 20è/AO aniversari/NC de/SP el/DA Seat_Ibiza/NP ./FF
+El/DA Seat_Altea/NP aconsegueix/VM 5/ZZ estrelles/NC a/SP el/DA crash/NC test/AQ EURONCAP/NP ,/FF destacant/VM en/SP protecció/NC frontal/AQ ,/FF lateral/AQ i/CC en/SP protecció/NC infantil/AQ ./FF
+L'/DA any/NC 2005/ZZ s'/P0 estrena/VM amb/SP un/DI lamentable/AQ accident/NC que/PR va/VA causar/VM la/DA mort/NC d'/SP un/DI operador/NC logístic/AQ de/SP el/DA departament/NC de/SP gestió/NC de/SP materials/NC i/CC transports/NC ./FF
+a/SP el/DA novembre/WW es/P0 presenta/VM la/DA versió/NC de/SP l'/DA Altea_FR/NP i/CC el/DA León_TFSI/NP a/SP el/DA saló/NC d'/SP Essen/NP i/CC alhora/RG Seat/NP té/VM seriosos/AQ problemes/NC a/SP el/DA no/RN poder/VM resoldre/VM de/SP forma/NC satisfactòria/AQ l'/DA excedent/NC de/SP personal/NC a/SP la/DA plantilla/NC i/CC avisa/VM que/CS perillen/VM les/DA inversions/NC en/SP l'/DA empresa/NC ./FF
+Volkswagen/NP es/P0 mostra/VM plenament/RG confiada/VM en/SP el/DA futur/NC de/SP Seat/NP ,/FF tot_i_que/CS l'/DA any/NC no/RN li/PP resultà/VM favorable/AQ per/SP a/SP l'/DA empresa/NC espanyola/AQ ./FF
+a/SP el/DA maig_del_2006/WW es/P0 presenta/VM a/SP el/DA saló/NC de/SP Madrid/NP el/DA nou/AQ Seat_León_FR/NP ,/FF alhora/RG que/CS s'/P0 inicia/VM la/DA gira/NC de/SP el/DA grup/NC La_Oreja_de_Van_Gogh/NP amb/SP la/DA imatge/NC de/SP l'/DA Ibiza/NP ./FF
+a/SP el/DA saló/NC de/SP París/NP es/P0 presentà/VM la/DA una/DI variant/NC allargada/NC de/SP el/DA Seat_Altea/NP ,/FF el/DA Seat_Altea_XL/NP ,/FF i/CC més/RG tard/RG apareix/VM el/DA primer/AO SUV/NP de/SP la/DA marca/NC ,/FF el/DA Seat_Altea_Freetrack/NP ./FF
+Caimancito/NP és/VS una/DI ciutat/NC i/CC municipi/NC de/SP el/DA sud-est/NC de/SP la/DA província/NC argentina/AQ de/SP Jujuy/NP ,/FF en/SP el/DA departament/NC Ledesma/NP ./FF
+Geografia/NP ./FF
+Aquesta/DD ciutat/NC se/P0 situa/VM a/SP uns/DI 145_km/ZZ a/SP el/DA noreste/NC de/SP la/DA capital/NC provincial/AQ ,/FF amb/SP la/DA qual/PR es/P0 comunica/VM principalment/RG a_través_de/SP la/DA RN/NP 34/ZZ i/CC un/DI petit/AQ accés/NC per/SP la/DA ruta/NC provincial/AQ RP/NP 1/ZZ ./FF
+La/DA regió/NC és/VS un/DI pedemonte/NC de/SP contacte/NC entre/SP les/DA yungas/NC i/CC la/DA plana/NC chaqueña/AQ ,/FF el/DA clima/NC és/VS tropical/AQ amb/SP elevades/VM temperatures/NC diürnes/AQ gairebé/RG tot/DI l'/DA any/NC (/FF a/SP l'/DA estiu/NC ,/FF especialment/RG durant/SP els/DA mesos/NC de/SP desembre/WW i/CC gener/WW ,/FF les/DA temperatures/NC absolutes/AQ poden/VM arribar/VM a/SP 46_ºC/ZZ ,/FF no/RN obstant/VM això/PD esporàdicament/RG ,/FF en/SP les/DA nits/NC invernales/NC juliol/WW i/CC juny/WW les/DA temperatures/NC baixen/VM de/SP els/DA 10_ºC/ZZ )/FF ./FF
+Història/NP ./FF
+Prehispànicament/NP el/DA territori/NC va/VA ser/VS poblat/NC per/SP les/DA ètnies/NC originàries/AQ de/SP els/DA ocloyas/NC (/FF una/DI parcialidad/NC de/SP els/DA omaguacas/NC )/FF ,/FF així/RG com/CS churumatas/NC ,/FF chanés/VM ,/FF chorotís/VM i/CC wichis/AQ ./FF
+La/DA presència/NC europea/AQ es/P0 va/VA iniciar/VM amb/SP els/DA realistes/NC en/SP el/DA s._XVI/WW ,/FF encara/RG que/CS la/DA consolidació/NC de/SP els/DA europeus/NC va/VA ser/VS lenta/AQ ,/FF en/SP gran/AQ mesura/NC per/SP les/DA dificultats/NC climàtiques/AQ i/CC d'/SP accessibilitat/NC ./FF
+Caimancito/NP va/VA ser/VS fundada/VM oficialment/RG en/SP 1859/ZZ per/SP Julio_Bracamonte/NP ,/FF i/CC a/SP el/DA llarg/AQ de/SP el/DA s._XX/WW ha/VA rebut/VM immigració/NC boliviana/AQ ./FF
+Economia/NP ./FF
+Es/P0 basen/VM encara/RG en/SP el/DA sector/NC primari/AQ ;/FF principalment/RG en/SP l'/DA agricultura/NC de/SP tomàquets/NC ,/FF blat_de_moro/NC ,/FF chauchas/NC ,/FF albergínies/NC ,/FF morrones/NC ,/FF cogombres/NC i/CC zapallitos/NC ./FF
+També/RG es/P0 conreen/VM ,/FF per/SP a/SP l'/DA exportació/NC diverses/DI flors/NC tropicals/AQ i/CC a/SP escala/NC reduïda/VM paltas/NC ,/FF bananes/NC ,/FF cítrics/NC ,/FF canya/NC de/SP sucre/NC i/CC cafè/NC ./FF
+Turisme/NP ./FF
+Encara/RG que/CS encara/RG a/SP (/FF 2006/ZZ )/FF té/VM poc/RG desenvolupada/VM la/DA seva/PX infraestructura/NC turística/AQ ,/FF posseïx/VM potencial/AQ per/SP a/SP el/DA turisme/NC d'/SP aventura/NC ja_que/CS es/P0 troba/VM prop/RG de/SP el/DA límit/NC sudoriental/AQ de/SP la/DA gran/AQ Reserva_de_Biosfera_de_la_Yunga/NP integrant/AQ de/SP el/DA sistema/NC Mab/NP ,/FF per/SP altra/DI banda/NC uns/DI 20_km/ZZ a/SP el/DA nord-oest/NC es/P0 troba/VM el/DA Parc_Nacional_Calilegua/NP ./FF
+Messier/NP 6/ZZ o/CC el/DA cúmul/NC de/SP la/DA papallona/NC (/FF M6/ZZ ,/FF NGC/NP 6405/ZZ )/FF és/VS un/DI cúmul/NC obert/VM a/SP la/DA constel·lació/NC d'/SP Escorpió/NP ./FF
+Visualment/RG és/VS l'/DA objecte/NC Mesier/NP més/RG proper/AQ en/SP distància/NC angular/AQ a/SP el/DA centre/NC de/SP la/DA Via_Làctia/NP ,/FF en/SP Sagitari/NP ./FF
+Moltes/PI de/SP les/DA estrelles/NC de/SP el/DA cúmul/NC són/VS estrelles/NC blaves/AQ calentes/AQ ,/FF de/SP tipus/NC B/NP ,/FF encara/RG que/CS la/DA més/RG brillant/AQ de/SP el/DA cúmul/NC és/VS una/DI estrella/NC gegant/AQ taronja/AQ de/SP el/DA tipus/NC K._Aquesta/NP estrella/NC ,/FF coneguda/VM com/CS a/SP BM_Scorpii/NP ,/FF està/VM classificada/VM com/CS a/SP estrella/NC variable/AQ semiregular/AQ ;/FF la/DA seva/PX lluentor/NC varia/VM des/SP d'/SP una/DI magnitud/NC +5,5/ZZ fins/SP a/SP magnitud/NC +7,0/ZZ ./FF
+En/SP les/DA fotografies/NC en/SP color/NC de/SP el/DA cúmul/NC de/SP la/DA papallona/NC aquesta/DD estrella/NC taronja/AQ contrasta/VM amb/SP les/DA seves/PX veïnes/NC blaves/AQ ./FF
+La/DA estrella/NC V862/ZZ Scorpii/NP és/VS una/DI variable/NC de/SP el/DA tipus/NC Gamma_Cassiopeiae/NP ;/FF la/DA seva/PX magnitud/NC varia/VM de/SP 2/ZZ a/SP 8,5/ZZ ./FF
+Les/DA estimacions/NC sobre/SP la/DA distància/NC de/SP el/DA cúmul/NC han/VA variat/VM a/SP el/DA llarg/AQ de/SP els/DA anys/NC ,/FF amb/SP un/DI valor/NC mitjà/AQ proper/AQ a/SP els/DA 1.600/ZZ anys/NC llum/NC ,/FF que/PR donava/VM una/DI dimensió/NC espacial/AQ d'/SP uns/DI 12/ZZ anys/NC llum/NC ./FF
+Mesures/NC més/RG modernes/AQ mostren/VM la/DA seva/PX lluentor/NC total/AQ amb/SP magnitud/NC 4,2/ZZ ./FF
+La/DA dimensió/NC aparent/AQ és/VS de/SP 25/ZZ minuts/NC d'/SP arc/NC ,/FF uns/DI 20/ZZ anys/NC llum/NC ./FF
+Història/NP ./FF
+Robert_Burnham/NP va/VA proposar/VM que/CS Ptolemeu/NP podia/VM haver/VA vist/VM el/DA cúmul/NC de/SP la/DA papallona/NC a/SP ull/NC nu/AQ mentre/CS observava/VM el/DA seu/PX veí/NC ,/FF actualment/RG conegut/VM com/CS a/SP cúmul/NC de/SP Ptolemeu/NP (/FF M7/ZZ )/FF ./FF
+Giovanni_Battista_Hodierna/NP va/VA ser/VS el/DA primer/AO astrònom/NC de/SP qui/PR es/P0 té/VM constància/NC que/PR va/VA veure/VM el/DA cúmul/NC de/SP la/DA papallona/NC abans/RG de/SP 1656/ZZ ./FF
+Charles_Messier/NP el/PP va/VA catalogar/VM el/DA 1764/ZZ ,/FF però/CC no/RN va/VA ser/VS fins/SP el/DA segle_XX/WW que/PR se/P0 'n/PP van/VA mesurar/VM algunes/DI propietats/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Messier/NP 6/ZZ -/FF SEDS_Messier/NP ./FF ;/FF
+La/DA Universitat_de_Garyunis/NP (/FF àrab/AQ :/FF )/FF ,/FF coneguda/VM abans/RG com/CS a/SP la/DA Universitat_de_Bengasi/NP ,/FF és/VS una/DI universitat/NC pública/AQ que/PR es/P0 troba/VM a/SP Bengasi/NP ,/FF Líbia/NP ./FF
+Història/NP ./FF
+La/DA universitat/NC es/P0 va/VA fundar/VM el/DA 15_de_desembre_de_1955/WW a/SP Bengasi/NP ,/FF la/DA segona/AO ciutat/NC més/RG gran/AQ de/SP Líbia/NP ,/FF sota/SP el/DA nom/NC de/SP "/FF Universitat_de_Líbia/NP "/FF ,/FF amb/SP una/DI matriculació/NC inicial/AQ de/SP 31/ZZ estudiants/NC inscrits/NC en/SP les/DA facultats/NC d'/SP art/NC i/CC educació/NC ./FF
+Desde/NP llavors/RG ,/FF la/DA universitat/NC va/VA creixér/VM establint/VM facultats/NC a/SP Trípoli/NP (/FF ciències/NC el/DA 1957/ZZ ,/FF agricultura/NC el/DA 1966/ZZ ,/FF petroli/NC i/CC minerals/NC el/DA 1972/ZZ )/FF i/CC a/SP Bengasi/NP (/FF economia/NC el/DA 1957/ZZ ,/FF dret/NC el/DA 1962/ZZ ,/FF medicina/NC el/DA 1970/ZZ )/FF ./FF
+El/DA 1967/ZZ el/DA Col·legi_d'_Estudis_Tècnics_Superiors/NP i/CC el/DA Col·legi_Superior_de_Professors/NP van/VA ser/VS incorporats/VM a/SP la/DA universitat/NC ./FF
+Els/DA noms/NC d'/SP aquests/DD dos/ZZ col·legis/NC després/RG van/VA canviar/VM per/SP els/DA de/SP Facultat_d'_Enginyeria/NP i/CC Facultat_d'_Educació/NP ./FF
+La/DA Universitat_de_Líbia/NP es/P0 va/VA separar/VM en/SP dues/ZZ institucions/NC diferents/AQ ,/FF la/DA "/FF Universitat/NC d'/SP a/SP el/DA Fateh/NP "/FF a/SP Trípoli/NP ,/FF i/CC la/DA "/FF Universitat_de_Garyunis/NP "/FF a/SP Bengasi/NP ./FF
+D'/SP aquesta/DD manera/NC la/DA Universitat_de_Garyunis/NP va/VA crear/VM noves/AQ facultats/NC :/FF ciències/NC ,/FF enginyeria/NC i/CC odontologia/NC el/DA 1974/ZZ ,/FF i/CC agricultura/NC el/DA 1976/ZZ ./FF
+Cochinoca/NP és/VS una/DI localitat/NC de/SP el/DA departament/NC de/SP Cochinoca/NP en/SP la/DA província/NC de/SP Jujuy/NP ./FF
+En/SP l'/DA hivern/NC el/DA fred/NC és/VS molt/RG intens/AQ i/CC sol/AQ haver/VA registres/NC de/SP fins/RG a/SP -20_ºC/ZZ ./FF
+En/SP la/DA epoca/NC precolombina/AQ s'/P0 estenia/VM per/SP Cochinoca/NP el/DA camí/NC d'/SP Inca/NP ./FF
+Demografia/NP ./FF
+Població/NP en/SP 1991/ZZ :/FF 85/ZZ habitants/NC (/FF INDEC/NP )/FF Població/NP és/VS 2001/ZZ :/FF 75/ZZ habitants/NC (/FF INDEC/NP )/FF ,/FF de/SP els/DA quals/PR el/DA 50,77_%/ZZ són/VS dones/NC i/CC el/DA 49,33_%/ZZ són/VS homes/NC ./FF
+Perico/NP és/VS una/DI ciutat/NC de/SP la/DA província/NC de/SP Jujuy/NP ,/FF Argentina/NP ./FF
+Es/P0 troba/VM en/SP el/DA nord-oest/NC de/SP el/DA departament/NC El_Carmen/NP ,/FF a/SP 30_km/ZZ de/SP la/DA capital/NC provincial/AQ San_Salvador_de_Jujuy/NP ,/FF i/CC en/SP la/DA denominada/VM vall/NC de/SP els/DA Pericos/NP ./FF
+El/DA riu/NC Perico/NP corre/VM pocs/DI quilòmetres/NC a/SP el/DA nord/NC de/SP la/DA ciutat/NC ,/FF a/SP escassos/AQ 10_km/ZZ de/SP la/DA seva/PX desembocadura/NC sobre/SP el/DA riu/NC Gran_de_Jujuy/NP ;/FF per/SP altra/DI banda/NC ,/FF els/DA terrenys/NC de/SP l'/DA aeroport/NC Internacional_Horacio_Guzmán/NP fixen/VM un/DI virtual/AQ límit/NC aquest/DD a/SP la/DA ciutat/NC ./FF
+Encara/RG que/CS jove/NC ,/FF Ciutat_Perico/NP és/VS una/PI de/SP les/DA localitats/NC més/RG importants/AQ de/SP la/DA província/NC ,/FF a/SP això/PD van/VM contribuir/VM la/DA seva/PX condició/NC de/SP nus/NC de/SP ferrocarril/NC ,/FF i/CC les/DA plantacions/NC tabacaleras/NC de/SP la/DA zona/NC ./FF
+En/SP els/DA últims/AO anys/NC la/DA seva/PX proximitat/NC a/SP la/DA capital/NC provincial/AQ amb/SP la/DA qual/PR es/P0 troba/VM vinculada/VM mitjançant/SP una/DI autopista/NC sobre/SP la/DA ruta/NC Nacional/NP 66/ZZ ,/FF i/CC la/DA seva/PX comunicació/NC aèria/AQ i/CC vial/NC han/VA impulsat/VM el/DA creixement/NC de/SP la/DA regió/NC ./FF
+Història/NP ./FF
+La/DA zona/NC de/SP la/DA vall/NC de/SP els/DA Pericos/NP va/VA ser/VS una/DI de/SP les/DA primeres/AO a/SP ser/VS colonizadas/NC per/SP els/DA espanyols/NC durant/SP el/DA segle_XVI/WW ,/FF prova/NC d'/SP això/PD és/VS que/CS la/DA zona/NC ja/RG era/VS cridada/VM amb/SP aquest/DD nom/NC un/DI temps/NC abans/RG de/SP la/DA fundació/NC de/SP San_Salvador_de_Jujuy/NP ./FF
+Diversos/DI espanyols/NC van/VA ser/VS beneficiats/NC amb/SP els/DA repartiments/NC de/SP terres/NC d'/SP aquestes/DD zones/NC en/SP aquesta/DD etapa/NC ,/FF les/DA quals/PR van/VA ser/VS conreades/VM amb/SP blat_de_moro/NC ,/FF vinyers/NC i/CC fruiters/NC fonamentalment/RG ./FF
+La/DA ubicació/NC en/SP l'/DA estratègica/AQ ruta/NC cap/NC a/SP Lima/NP ,/FF va/VA afavorir/VM el/DA desenvolupament/NC de/SP la/DA zona/NC ,/FF que/PR després/RG es/P0 va/VA convertir/VM en/SP una/DI important/AQ productora/NC de/SP mules/NC ./FF
+Encara/RG que/CS les/DA localitats/NC de/SP Perico_de_San_Antonio/NP i/CC El_Carmen_de_Perico/NP van/VA ser/VS fundades/VM un/DI segle/NC abans/RG ,/FF la/DA població/NC més/RG pròspera/AQ de/SP la/DA vall/NC no/RN seria/VS fundada/VM sinó/CC fins/SP a/SP el/DA segle_XX/WW ,/FF quan/CS la/DA Legislatura_Provincial/NP crea/VM mitjançant/SP la/DA Llei_Nº/NP 227/ZZ la/DA comissió/NC municipal/AQ d'/SP Estació_Perico/NP el/DA dia_29_d'_octubre_de_1913/WW ./FF
+Durant/SP els/DA anys/NC 1910/ZZ ,/FF comença/VM l

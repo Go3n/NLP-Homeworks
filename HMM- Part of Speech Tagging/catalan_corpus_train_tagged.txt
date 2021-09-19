@@ -8846,4 +8846,118 @@ Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el
 Referències/NP ./FF
 Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
 Telmatobius/NP scrocchii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
-Accedit/V
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP sibiricus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP sibiricus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP simonsi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP simonsi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Tractat_de_la_Haia/NP és/VS un/DI tractat/NC internacional/AQ signat/VM a/SP la/DA ciutat/NC neerlandesa/AQ de/SP la/DA Haia/NP el/DA 27_de_desembre_de_1949/WW entre/SP representants/NC d'/SP Indonèsia/NP i/CC els/DA Països_Baixos/NP ./FF
+Sobre/SP la/DA base/NC de/SP els/DA termes/NC de/SP el/DA tractat/NC ,/FF els/DA Països_Baixos/NP van/VA concedir/VM la/DA independència/NC a/SP Indonèsia/NP llevat/NC de/SP les/DA Moluques_de_el_Sud/NP i/CC la/DA Papua_Occidental/NP ./FF
+En/SP l'/DA acord/NC es/P0 va/VA establir/VM que/CS el/DA nom/NC oficial/AQ passava/VM de/SP ser/VS Països_Baixos-Unió_Indonèsia/NP a/SP Indonèsia/NP ,/FF convertint/VM -se/P0 aquest/DD país/NC en/SP una/DI federació/NC ./FF
+Telmatobius/NP stephani/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Telmatobius/NP stephani/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP thompsoni/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Sinsch/NP ,/FF U./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Neira/NP ,/FF D._&_Martinez/NP ,/FF J.L./NP 2004/ZZ ./FF
+Telmatobius/NP thompsoni/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP truebae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Monteza/NP ,/FF J.I./NP ,/FF Sinsch/NP ,/FF U./NP ,/FF Lehr/NP ,/FF E./NP ,/FF Neira/NP ,/FF D._&_Martinez/NP ,/FF J.L./NP 2004/ZZ ./FF
+Telmatobius/NP truebae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP vellardi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Equador/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Merino-Viteri/NP ,/FF A./NP ,/FF Coloma/NP ,/FF L.A._&_Ron/NP ,/FF S./NP 2004/ZZ ./FF
+Telmatobius/NP vellardi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Els/DA Pittsburgh_Steelers/NP són/VS un/DI equip/NC professional/AQ de/SP futbol_americà/NC amb/SP seu/NC a/SP Pittsburgh/NP ,/FF Pennsylvania/NP ./FF
+Formen_part/VM de/SP la/DA divisió/NC nord/AQ de/SP la/DA Conferència_Americana/NP (/FF AFC/NP )/FF dins/SP la/DA NFL/NP ./FF
+Els/DA Steelers/NP són/VS la/DA franquícia/NC més/RG antiga/AQ i/CC amb/SP més/RG títols/NC de/SP la/DA AFC/NP ,/FF ja_que/CS l'/DA equip/NC ha/VA aparegut/VM a/SP sis/NC Super_Bowls/NP i/CC juntament/RG amb/SP els/DA San_Francisco/NP 49ers/ZZ i/CC els/DA Dallas_Cowboys/NP és/VS un/PI de/SP els/DA tres/ZZ equips/NC que/PR han/VA aconseguit/VM guanyar/VM la/DA Super_Bowl/NP cinc/ZZ cops/NC ./FF
+Han/VA aparegut/VM a/SP 13/ZZ Finals_de_Conferència/NP i/CC han/VA jugat/VM a/SP casa/NC més/RG partits/NC de/SP Final_de_Conferència/NP que/CS cap/DI altra/DI franquícia/NC ./FF
+També/RG són/VS l'/DA únic/AQ equip/NC que/PR ha/VA pogut/VM guanyar/VM una/DI Super_Bowl/NP entrant/AQ en/SP sisè/AO lloc/NC a/SP els/DA play-offs/NC ,/FF després/RG d'/SP haver/VA guanyat/VM tres/ZZ partits/NC com/CS a/SP visitant/NC tot/RG just/AQ abans/RG de/SP la/DA Super_Bowl_XL/NP jugada/NC a/SP el/DA febrer_de_2006/WW a/SP Detroit/NP contra/SP els/DA Seattle_Seahawks/NP ./FF
+Originalment/RG s'/P0 anomenaven/VM Pittsburgh_Pirates/NP i/CC es/P0 van/VA unir/VM a/SP la/DA NFL/NP l'/DA any/NC 1933/ZZ quan/CS el/DA seu/PX propietari/NC ,/FF Art_Rooney/NP pare/NC va/VA pagar/VM 2.500_dòlars/ZZ per/SP a/SP entrar/VM -hi/PP com/CS a/SP franquícia/NC ./FF
+A/SP més/RG ,/FF els/DA Steelers/NP van/VA ser/VS el/DA primer/AO equip/NC en/SP comptar/VM amb/SP un/DI jugador/NC professional/AQ i/CC la/DA ciutat/NC de/SP Pittsburgh/NP va/VA ser/VS la/DA primera/AO que/PR va/VA acollir/VM un/DI partit/NC entre/SP equips/NC professionals/AQ a/SP a/SP dècada/NC de/SP 1880/ZZ ./FF
+La/DA franquícia/NC es/P0 va/VA reformar/VM i/CC renombrar/VM com/CS a/SP Steelers/NP (/FF treballadors/NC de/SP l'/DA acer/NC )/FF com/CS a/SP senyal/NC de/SP la/DA important/AQ posició/NC de/SP la/DA ciutat/NC de/SP Pittsburgh/NP en/SP el/DA camp/NC de/SP la/DA siderúrgia/NC ./FF
+Un/DI afeccionat/NC va/VA proposar/VM aquest/DD nom/NC en/SP un/DI concurs/NC organitzat/VM per/SP un/DI diari/NC de/SP la/DA ciutat/NC i/CC la/DA franquícia/NC ./FF
+La/DA Nikolaikirche/NP ,/FF construïda/VM el/DA 1230/ZZ ,/FF és/VS l'/DA edifici/NC més/RG antic/AQ de/SP Berlín/NP ,/FF Alemanya/NP ./FF
+Originalment/RG era/VS una/DI església/NC romànica/AQ ./FF
+S'/P0 ha/VA reformat/VM molt/RG amb/SP el/DA temps/NC ,/FF el/DA 1380/ZZ s'/P0 hi/PP afegí/VM el/DA cor/NC gòtic/AQ ,/FF i/CC el/DA 1480/ZZ les/DA seves/PX naus/NC típiques/AQ d'/SP església-mercat/NC ./FF
+En/SP el/DA moment/NC de/SP les/DA restauracions/NC de/SP 1876/ZZ se/P0 la/PP va/VA dotar/VM de/SP el/DA seu/PX doble/AQ campanar/NC ./FF
+Malmesa/VM en/SP el/DA moment/NC de/SP la/DA Segona_Guerra_Mundial/NP ,/FF no/RN fou/VS restaurada/VM fins/SP a/SP el/DA 1977/ZZ i/CC a/SP el/DA 1987/ZZ esdevé/VM un/DI annexe/VM de/SP el/DA Märkisches_Museum/NP ./FF
+Telmatobius/NP vilamensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Bolívia/NP ./FF
+Referències/NP ./FF
+Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Telmatobius/NP vilamensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Emilio_Attard_Alonso/NP (/FF València/NP 1915/ZZ -/FF Rocafort/NP ,/FF l'/DA Horta/NP 1997/ZZ )/FF fou/VS un/DI advocat/NC i/CC polític/NC valencià/AQ ./FF
+Estudià/VM dret/NC i/CC periodisme/NC i/CC fou/VS company/NC de/SP promoció/NC de/SP Dionisio_Ridruejo/NP ./FF
+Fou/VS proper/AQ ideològicament/RG Ángel_Herrera_Oria/NP i/CC amic/NC de/SP Lluís_Lúcia/NP i/CC Lúcia/NP ;/FF milità/VM en/SP la/DA Dreta_Regional_Valenciana/NP i/CC durant/SP la/DA guerra/NC civil/AQ espanyola/AQ lluità/VM en/SP l'/DA exèrcit/NC republicà/AQ ,/FF tot_i_que/CS un/DI germà/NC seu/NC fou/VS afusellat/VM a/SP Nules/NP ./FF
+En/SP acabar/VM la/DA guerra/NC li/PP fou/VS prohibit/VM dedicar/VM -se/P0 a/SP el/DA notariat/NC i/CC va/VA obrir/VM un/DI despatx/NC d'/SP advocats/NC ./FF
+Fou/VS president/NC de/SP el/DA Consell_d'_Administració_de_el_Banc_de_l'_Exportació/NP i/CC degà/NC de/SP el/DA Col·legi_d'_Advocats_de_València/NP ./FF
+El/DA 1975/ZZ es/P0 dedicà/VM a/SP la/DA política/NC i/CC promogué/VM el/DA Partido_Popular_Regional_Valenciano/NP ,/FF que/PR s'/P0 integrà/VM poc/RG després/RG en/SP la/DA coalició/NC Unió_de_Centre_Democràtic/NP (/FF UCD/NP )/FF ./FF
+A/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1977/ZZ i/CC 1979/ZZ ,/FF fou/VS diputat/NC per/SP València/NP ,/FF president/NC de/SP la/DA Comissió_Constitucional/NP i/CC vicepresident/NC de/SP el/DA Congrés_de_els_Diputats/NP ./FF
+Alhora/RG ,/FF fou/VS el/DA màxim/AQ dirigent/NC de/SP la/DA dreta/NC valenciana/AQ ,/FF i/CC juntament/RG amb/SP Fernando/NP Abril/WW Martorell/NP i/CC la/DA col·laboració/NC de/SP el/DA diari/NC Las_Provincias/NP ,/FF l'/DA instigador/NC de/SP la/DA campanya/NC d'/SP hostigament/RG anticatalana/AQ coneguda/VM com/CS a/SP batalla/NC de/SP València/NP ,/FF en/SP la/DA que/PR aconseguí/VM imposar/VM en/SP l'/DA estatut/NC d'/SP autonomia/NC de/SP el/DA País_Valencià/NP de/SP 1982/ZZ bona/AQ part/NC de/SP la/DA simbologia/NC blavera/AQ ./FF
+Posteriorment/RG es/P0 retirà/VM de/SP la/DA política/NC i/CC fou/VS Conseller/NP d'/SP estat/NC (/FF 1982-1985/ZZ )/FF ,/FF professor/NC de/SP dret/NC polític/AQ i/CC doctor/NC honoris/VM causa/NC per/SP la/DA Universitat_Politècnica_de_València/NP el/DA 1993/ZZ Obres/NP ./FF
+Vida/NP y/NC muerte/NC de/SP UCD/NP (/FF 1983/ZZ )/FF ;/FF La/NP constitución/NC española/AQ por/NC dentro/NC ;/FF Diccionario/NP ideológico/NC político/NC de/SP la/DA transición/NC :/FF 60/ZZ años/NC en/SP las/NC provincias/NC (/FF 1995/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Biografia/NP ;/FF Necrològica/NP a/SP El_País/NP ;/FF
+Telmatobius/NP yuracare/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Bolívia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Cortez/NP ,/FF C./NP ,/FF Reichle/NP ,/FF S./NP ,/FF De_la_Riva/NP ,/FF I._&_Köhler/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobius/NP yuracare/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobius/NP zapahuirensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP el/DA Perú/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Telmatobius/NP zapahuirensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Atelognathus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM només/RG a/SP la/DA Patagònia/NP ./FF
+Espècies/NP ./FF
+Atelognathus/NP ceii/RG ;/FF Atelognathus/NP grandisonae/AQ ;/FF Atelognathus/NP nitoi/NC ;/FF Atelognathus/NP patagonicus/NC ;/FF Atelognathus/NP praebasalticus/NC ;/FF Atelognathus/NP reverberii/NC ;/FF Atelognathus/NP salai/NC ;/FF Atelognathus/NP solitarius/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Atelognathus/NP ceii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Atelognathus/NP ceii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Messier/NP 7/ZZ ,/FF el/DA cúmul/NC de/SP Ptolemeu/NP o/CC Akumen/NP (/FF M7/ZZ ,/FF NGC/NP 6475/ZZ )/FF és/VS un/DI cúmul/NC obert/VM en/SP la/DA constel·lació/NC d'/SP Escorpió/NP ./FF
+Història/NP ./FF
+Deu/VM el/DA seu/PX nom/NC a/SP el/DA fet/NC que/PR Claudi_Ptolemeu/NP va/VA ser/VS el/DA primer/AO en/SP descriure/VM 'l/PP com/CS a/SP nebulosa/NC l'/DA any/NC 130/ZZ aC/NC ./FF
+Giovanni_Batista_Hodierna/NP va/VA observar/VM el/DA cúmul/NC vers/SP el/DA 1654/ZZ i/CC hi/PP va/VA comptar/VM 30/ZZ estrelles/NC ./FF
+Charles_Messier/NP el/PP va/VA catalogar/VM en/SP el/DA 1764/ZZ i/CC el/DA va/VA incloure/VM en/SP la/DA seva/PX llista/NC d'/SP objectes/NC semblants/AQ a/SP cometes/NC amb/SP el/DA nom/NC de/SP M7/ZZ ./FF
+El/DA cúmul/NC és/VS fàcilment/RG detectable/AQ a/SP ull/NC nu/AQ prop/RG de/SP l'/DA agulló/NC d'/SP Escorpió/NP ./FF
+Observacions/NP telescòpiques/AQ de/SP el/DA cúmul/NC han/VA revelat/VM a/SP el/DA voltant/NC de/SP 80/ZZ estrelles/NC en/SP un/DI camp/NC de/SP visió/NC de/SP 1,3º/ZZ ./FF
+A/SP una/DI distància/NC estimada/VM de/SP 800/ZZ a/SP 1.000/ZZ anys/NC llum/NC això/PD correspon/VM a/SP un/DI diàmetre/NC de/SP 18/ZZ a/SP 25/ZZ anys/NC llum/NC ./FF
+L'/DA edat/NC de/SP el/DA cúmul/NC està/VM a/SP el/DA voltant/NC de/SP els/DA 220_milions/ZZ d'/SP anys/NC ./FF
+La/DA seva/PX estrella/NC més/RG brillant/AQ té/VM una/DI magnitud/NC aparent/AQ de/SP 5,6/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Messier/NP 7/ZZ ,/FF SEDS/NP pàgines/NC Messier/NP ;/FF SIMBAD/NP ;/FF
+Atelognathus/NP grandisonae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A._&_Núñez/NP ,/FF H./NP 2004/ZZ ./FF
+Atelognathus/NP grandisonae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Partido_Popular_Regional_Valenciano/NP (/FF PPRV/NP )/FF fou/VS un/DI partit/NC polític/AQ conservador/AQ i/CC regionalista/AQ de/SP dretes/NC fundat/VM a/SP València/NP el/DA 1975/ZZ per/SP l'/DA advocat/NC Emilio_Attard_Alonso/NP ./FF
+El/DA 1976/ZZ es/P0 va/VA integrar/VM en/SP la/DA UCD_d'_Adolfo_Suárez/NP ,/FF amb/SP la/DA que/PR es/P0 presentaren/VM a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1977/ZZ ./FF
+Atelognathus/NP nitoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Atelognathus/NP nitoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Es/P0 va/VA cridar/VM asi/RG a/SP el/DA segon/AO intento/VM fundar/VM una/DI ciutat/NC en/SP terres/NC jujeñas/NC el/DA 13_d'_octubre_de_1575/WW en/SP la/DA confluència/NC de/SP els/DA rius/NC Gran/NP i/CC Xibi_Xibi/NP per/SP don/NC Pedro_O._de_Zárate/NP ,/FF en/SP el/DA que/PR actualment/RG es/P0 denomina/VM Punta_de_Diamant/NP ./FF
+La/DA ciutat/NC va/VA arribar/VM escassament/RG un/DI any/NC de/SP vida/NC ,/FF ja_que/CS no/RN va/VA poder/VM suportar/VM les/DA hordes/NC salvatges/AQ que/PR es/P0 resistian/VM a/SP la/DA conquest

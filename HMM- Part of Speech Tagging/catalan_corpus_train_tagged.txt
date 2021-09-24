@@ -8960,4 +8960,103 @@ Referències/NP ./FF
 Atelognathus/NP nitoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
 Es/P0 va/VA cridar/VM asi/RG a/SP el/DA segon/AO intento/VM fundar/VM una/DI ciutat/NC en/SP terres/NC jujeñas/NC el/DA 13_d'_octubre_de_1575/WW en/SP la/DA confluència/NC de/SP els/DA rius/NC Gran/NP i/CC Xibi_Xibi/NP per/SP don/NC Pedro_O._de_Zárate/NP ,/FF en/SP el/DA que/PR actualment/RG es/P0 denomina/VM Punta_de_Diamant/NP ./FF
-La/DA ciutat/NC va/VA arribar/VM escassament/RG un/DI any/NC de/SP vida/NC ,/FF ja_que/CS no/RN va/VA poder/VM suportar/VM les/DA hordes/NC salvatges/AQ que/PR es/P0 resistian/VM a/SP la/DA conquest
+La/DA ciutat/NC va/VA arribar/VM escassament/RG un/DI any/NC de/SP vida/NC ,/FF ja_que/CS no/RN va/VA poder/VM suportar/VM les/DA hordes/NC salvatges/AQ que/PR es/P0 resistian/VM a/SP la/DA conquesta/NC de/SP els/DA espanyols/NC ./FF
+La/DA importància/NC de/SP fundar/VM una/DI ciutat/NC en/SP l'/DA entrada/NC de/SP la/DA Trencada_de_Humahuaca/NP radicava/VM en/SP la/DA necessitat/NC de/SP sotmetre/VM a/SP els/DA omaguacas/NC ,/FF que/PR impedian/VM el/DA desenvolupament/NC de/SP la/DA ruta/NC procedent/AQ de/SP el/DA Perú/NP que/PR duia/VM a/SP el/DA port/NC de/SP Buenos_Aires/NP ,/FF porta/VM de/SP el/DA Atlantico/NP ./FF
+Atelognathus/NP patagonicus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Atelognathus/NP patagonicus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Atelognathus/NP praebasalticus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E./NP ,/FF Basso/NP ,/FF N._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Atelognathus/NP praebasalticus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Atelognathus/NP reverberii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Atelognathus/NP reverberii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Atelognathus/NP salai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Xile/NP ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Atelognathus/NP salai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Atelognathus/NP solitarius/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E./NP ,/FF Basso/NP ,/FF N._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Atelognathus/NP solitarius/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Maria_Consuelo_Reyna_Doménech/NP és/VS una/DI periodista/NC valenciana/AQ ./FF
+Membre/NP de/SP la/DA família/NC Doménech/NP ,/FF accionista/NC minoritària/AQ de/SP el/DA diari/NC Las_Provincias/NP ,/FF el/DA 1978/ZZ en/SP fou/VS nomenada/VM directora/NC ,/FF càrrec/NC que/PR ocupà/VM fins/SP el/DA 1999/ZZ ./FF
+Inicialment/RG coquetejà/VM amb/SP el/DA catalanisme/NC ,/FF i/CC fins_i_tot/RG el/DA 1978/ZZ fou/VS jurat/NC de/SP els/DA Premis/NP Octubre/WW ./FF
+No/RN obstant/VM això/PD ,/FF poc/RG després/RG decidí/VM variar/VM la/DA línia/NC editorial/AQ de/SP el/DA periòdic/AQ cap/NC a/SP postures/NC anticatalanistes/AQ ,/FF d'/SP acord/NC amb/SP la/DA línia/NC política/AQ de/SP la/DA UCD/NP valenciana/AQ dirigida/VM per/SP Emilio_Attard_Alonso/NP ./FF
+El/DA seu/PX diari/NC fou/VS un/PI de/SP els/DA actors/NC clau/AQ en/SP l'/DA anomenada/NC Batalla_de_València/NP ,/FF que/PR va/VA convertir/VM la/DA llengua/NC en/SP principal/AQ argument/NC polític/AQ de/SP les/DA campanyes/NC electorals/AQ de/SP la/DA ciutat/NC fins/SP a/SP els/DA anys/NC 1990/ZZ ./FF
+Els/DA principals/AQ actors/NC en/SP contra/SP de/SP el/DA nacionalisme/NC valencià/AQ d'/SP esquerres/NC van/VA usar/VM aquest/DD diari/NC per/SP a/SP difondre/VM el/DA seu/PX ideari/NC que/PR va/VA començar/VM a/SP atacar/VM en/SP els/DA seus/PX editorials/NC a/SP el/DA PSPV-PSOE/NP ./FF
+A/SP la/DA fi/NC de/SP els/DA 90/ZZ després/RG d'/SP una/DI ostensible/AQ caiguda/NC de/SP vendes/NC una/DI part/NC de/SP els/DA accionistes/NC de/SP el/DA diari/NC (/FF agrupada/VM entorn/NC de/SP la/DA família/NC Zarranz_Doménech/NP )/FF posà/VM en_dubte/RG la/DA seva/PX continuïtat/NC i/CC el/DA 14_de_setembre_de_1999/WW el/DA consell/NC d'/SP administració/NC de/SP Federico_Doménech_S._A./NP ,/FF editora/AQ de/SP el/DA diari/NC ,/FF la/PP va/VA destituir/VM de/SP el/DA seu/PX càrrec/NC ./FF
+El/DA 2000/ZZ es/P0 va/VA fer/VM amb/SP un/DI nou/AQ diari/NC que/PR va/VA adoptar/VM el/DA nom/NC de/SP l'/DA antic/AQ Diario_de_Valencia/NP ,/FF propietat/NC de/SP el/DA seu/PX exmarit/NC ,/FF Jesús_Sánchez_Carrascosa/NP ,/FF i/CC que/CS el/DA 2007/ZZ deixà/VM d'/SP editar/VM -se/P0 per/SP la/DA seva/PX baixa/AQ difusió/NC ./FF
+En/SP l'/DA actualitat/NC participa/VM en/SP tertúlies/NC a/SP la/DA Cadena_SER/NP i/CC a/SP Canal/NP 9/ZZ i/CC escriu/VM una/DI columna/NC a/SP la/DA secció/NC valenciana/AQ de/SP el/DA diari/NC El_Mundo/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia/NP ;/FF
+Eupsophus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP Xile/NP i/CC Argentina/NP ./FF
+Espècies/NP ./FF
+Eupsophus/NP calcaratus/NC ;/FF Eupsophus/NP contulmoensis/NC ;/FF Eupsophus/NP emiliopugini/NC ;/FF Eupsophus/NP insularis/AQ ;/FF Eupsophus/NP migueli/NC ;/FF Eupsophus/NP nahuelbutensis/NC ;/FF Eupsophus/NP roseus/NC ;/FF Eupsophus/NP vertebralis/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Eupsophus/NP calcaratus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Eupsophus/NP calcaratus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Tractat_de_la_Haia/NP de/SP 1895/ZZ és/VS un/DI tractat/NC internacional/AQ que/PR fou/VS signat/VM el/DA 16_de_maig/WW d'/SP aquell/DD any/NC entre/SP el/DA Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda/NP i/CC els/DA Països_Baixos/NP a/SP la/DA ciutat/NC neerlandesa/AQ de/SP la/DA Haia/NP ./FF
+Aquest/DD tractat/NC va/VA establir/VM les/DA fronteres/NC de/SP les/DA colònies/NC ubicades/VM a/SP l'/DA illa/NC de/SP Nova_Guinea/NP ,/FF concretament/RG entre/SP les/DA colònies/NC de/SP Nova_Guinea_Britànica/NP i/CC Nova_Guinea_Neerlandesa/NP ./FF
+Eupsophus/NP contulmoensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Eupsophus/NP contulmoensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Eupsophus/NP emiliopugini/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Formas/NP ,/FF R._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Eupsophus/NP emiliopugini/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+El/DA Dia_Gran_de_Jujuy/NP o/CC combat/NC de/SP León/NP fou/VS la/DA batalla/NC portada_a_terme/VM el/DA 1821/ZZ per/SP els/DA habitants/NC de/SP la/DA província/NC de/SP Jujuy/NP a/SP l'/DA actual/AQ República_Argentina/NP degut/VM a/SP un/DI intent/NC d'/SP invasió/NC per/SP part/NC de/SP tropes/NC realistes/AQ (/FF fidels/NC a/SP el/DA rei/NC d'/SP Espanya/NP )/FF ,/FF pocs/DI anys/NC després/RG de/SP la/DA independència/NC de/SP l'/DA Argentina/NP ./FF
+En/SP els/DA anys/NC anteriors/AQ s'/P0 havien/VA produït/VM gran/AQ nombre/NC d'/SP enfrontaments/NC entre/SP "/FF patriotes/NC "/FF argentins/AQ i/CC "/FF reialistes/AQ "/FF ;/FF en/SP aquell/DD moment/NC (/FF 1821/ZZ )/FF ,/FF la/DA província/NC estava/VM embolicada/VM en/SP conflictes/NC interns/AQ ,/FF situació/NC que/PR els/DA realistes/NC van/VA aprofitar/VM per/SP atacar/VM el/DA nord/NC ./FF
+Les/DA tropes/NC invasores/AQ a/SP el/DA comandament/NC de/SP el/DA brigadier/NC Pedro_Antonio_de_Olañeta/NP ,/FF entraren/VM a/SP el/DA territori/NC argentí/AQ per/SP la/DA Quebrada_de_Humahuaca/NP ./FF
+L'/DA avantguarda/NC realista/AQ ,/FF sota/SP el/DA comandament/NC de/SP el/DA coronel/NC Guillermo_Marquiegui/NP ,/FF arribà/VM a/SP la/DA ciutat/NC de/SP San_Salvador_de_Jujuy/NP ,/FF però/CC només/RG s'/P0 hi/PP estigué/VM tres/ZZ dies/NC ,/FF ja_que/CS l'/DA oberta/NC hostilitat/NC de/SP els/DA habitants/NC els/PP va/VA fer/VM témer/VM ser/VS envoltats/VM ./FF
+Acamparen/VM a/SP el/DA marge/NC de/SP el/DA riu/NC Yala/NP ,/FF en/SP espera/NC d'/SP Olañeta/NP i/CC els/DA seus/PX homes/NC ./FF
+A_causa_de/SP la/DA indecisió/NC de/SP el/DA govern/NC de/SP Salta/NP d'/SP enviar/VM -hi/PP més/RG tropes/NC ,/FF els/DA patriotes/NC jujenys/RG van/VA decidir/VM per/SP iniciativa/NC pròpia/AQ reunir/VM les/DA seves/PX forces/NC ,/FF constituïdes/VM per/SP sis-cents/ZZ homes/NC ,/FF i/CC el/DA coronel/NC José_Ignacio_Gorriti/NP en/SP fou/VS designat/VM el/DA cap/NC ./FF
+Durant/SP la/DA matinada/NC de/SP el/DA 27_d'_abril/WW van/VA caure/VM per/SP sorpresa/NC sobre/SP l'/DA enemic/NC ./FF
+Una/DI hora/NC d'/SP aferrissat/VM combat/NC va/VA donar/VM com/CS resultat/VM la/DA victòria/NC a/SP les/DA tropes/NC jujenyes/NC ./FF
+Olañeta/NP ,/FF assabentat/VM d'/SP aquest/DD desastre/NC ,/FF va/VA intentar/VM una/DI contraofensiva/NC ,/FF però/CC Gorriti/NP l'/PP ordenà/VM de/SP retirar/VM -se/P0 sota/SP l'/DA amenaça/NC formal/AQ d'/SP afusellar/VM els/DA caps/NC i/CC oficials/NC presoners/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+www.nuestrojujuy.com.ar/VM Descripció/NP de/SP el/DA fet/NC ;/FF
+Joaquín_Muñoz_Peirats/NP (/FF València/NP ,/FF 1931/ZZ -/FF Conakry/NP ,/FF Guinea/NP ,/FF 1987/ZZ )/FF fou/VS un/DI advocat/NC i/CC polític/NC valencià/AQ ./FF
+De/SP família/NC de/SP comerciants/NC ,/FF va/VA ser/VS membre/NC de/SP el/DA consell/NC privat/NC de/SP Joan_de_Borbó/NP ,/FF comte/NC de/SP Barcelona/NP ,/FF i/CC de/SP la/DA Federació_de_Partits_Demòcrates_Liberals/NP ,/FF que/PR el/DA 1976/ZZ s'/P0 integrà/VM a/SP la/DA UCD/NP ./FF
+Fou/VS escollit/VM diputat/NC per/SP València/NP a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1977/ZZ i/CC 1979/ZZ ./FF
+Membre/NP de/SP el/DA sector/NC renovador/AQ ,/FF juntament/RG amb/SP el/DA seu/PX amic/NC Francesc_de_Paula_Burguera/NP i/CC Escrivà/NP fou/VS relegat/VM per/SP Emilio_Attard_Alonso/NP durant/SP l'/DA anomenada/NC Batalla_de_València/NP ./FF
+Fou/VS diputat/NC a/SP l'/DA Assemblea_de_el_Consell_d'_Europa/NP ,/FF conseller/NC de/SP el/DA Grup_Prisa/NP i/CC lligat/NC a/SP els/DA cercles/NC liberals/AQ de/SP Joaquín_Garrigues_Walker/NP ./FF
+Va/VA morir/VM d'/SP un/DI vessament/NC cerebral/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Necrològica/NP a/SP El_País/NP ;/FF
+Pucara/NP millor/AQ que/PR pucará/VM terme/NC d'/SP origen/NC runa/NC simi/NC que/PR al·ludeix/VM a/SP tota/DI fortificació/NC realitzada/VM per/SP els/DA aborígens/NC de/SP les/DA cultures/NC andines/AQ centrals/NC ,/FF és/VS a/SP dir/VM :/FF des_de/SP l'/DA actual/AQ Equador/NP fins/SP a/SP la/DA Vall_Central_de_Xile/NP i/CC el/DA Nord-oest_Argentí/NP )/FF ./FF
+Fortificaciónes_Inques/NP ,/FF Districtes/NP peruans/AQ i/CC Cantó/NP equatorià/AQ ./FF
+Perú/NP ./FF
+Puca_Pucara/NP ,/FF una/DI construcció/NC militar/AQ situada/VM prop/RG de/SP el/DA Cusco/NP ./FF ;/FF Districte_de_Pucará/NP districte/NC i/CC cabdal/NC de/SP la/DA Província_de_San_Román/NP en/SP el/DA Departament_de_Puno/NP ./FF ;/FF Districte_de_Pucará/NP districte/NC de/SP la/DA Província_de_Huancayo/NP en/SP el/DA Departament_de_Junín/NP ./FF ;/FF Districte_de_Pucará/NP districte/NC de/SP la/DA Província_de_Jaén/NP en/SP el/DA Departament_de_Cajamarca/NP ./FF
+Argentina/NP ./FF
+El/DA Pucará_de_Tilcara/NP és/VS una/DI fortalesa/NC construïda/VM per/SP els/DA tilcaras/NC ,/FF una/DI parcialidad/NC de/SP els/DA indis/AQ omaguacas/NC ,/FF en/SP un/DI punt/NC estratègic/AQ sobre/SP la/DA Trencada_de_Humahuaca/NP ./FF
+Es/P0 troba/VM a/SP el/DA sud/NC de/SP la/DA ciutat/NC de/SP Tilcara/NP ,/FF sobre/SP un/DI morro/NC ,/FF a/SP 80_m/ZZ d'/SP altura/NC sobre/SP el/DA Riu_Gran_de_Jujuy/NP ./FF
+Les/DA ruïnes/NC de/SP el/DA Pucara_de_Titiconte/NP ,/FF en/SP les/DA proximitats/NC de/SP Iruya/NP ,/FF un/DI poble/NC de/SP la/DA província/NC de/SP Salta/NP ./FF
+Pucara_de_Aconquija/NP en/SP la/DA província/NC de/SP Catamarca/NP volta/NC de/SP el/DA límit/AQ sud-oest/NC de/SP la/DA província/NC de/SP Tucumán/NP ./FF ;/FF Pucara_de_Shincal/NP en/SP l'/DA oest/NC de/SP la/DA província/NC de/SP Catamarca/NP ;/FF Pucara_de_Motimo/NP en/SP les/DA proximitats/NC de/SP la/DA petita/AQ ciutat/NC de/SP San_Isidro/NP ,/FF província/NC de/SP Catamarca/NP ;/FF Pucara/NP (/FF Humahuaca/NP )/FF en/SP el/DA Departament_Humahuaca/NP ,/FF província/NC de/SP Jujuy/NP ;/FF Equador/NP ./FF
+Pucará/NP ,/FF un/PI de/SP els/DA cantons/NC de/SP la/DA província/NC d'/SP Azuay/NP ;/FF Xile/NP ./FF
+Pucará_San_Lorenzo/NP a/SP Arica/NP ;/FF Pucará_de_Turi/NP en/SP Calama/NP ;/FF Pucará_de_Quitor/NP en/SP San_Pedro_d'_Atacama/NP ;/FF Pucará_de_Lasana/NP en/SP San_Pedro_d'_Atacama/NP ;/FF Pucará_de_Cerro_Chena/NP a/SP Santiago_de_Xile/NP ;/FF Pucará_de_La_Companyia/NP en/SP Graners/NP ;/FF
+Alexandre_de_Cabanyes/NP i/CC Marquès/NP (/FF Barcelona/NP ,/FF 1877/ZZ -/FF Vilanova/NP i/CC la/DA Geltrú/NP ,/FF 1972/ZZ )/FF és/VS el/DA pintor/NC vilanoví/AQ més/RG important/AQ de/SP la/DA primera/AO meitat/NC de/SP el/DA segle_XX/WW ./FF
+El/DA pare/NC ,/FF l'/DA avi/NC ,/FF l'/DA oncle/NC i/CC d'/SP altres/DI avantpassats/NC d'/SP Alexandre_de_Cabanyes/NP també/RG eren/VS pintors/NC ./FF
+Les/DA pintures/NC més/RG conegudes/NC d'/SP Alexandre_de_Cabanyes/NP són/VS les/DA marines/NC de/SP la/DA platja/NC de/SP Vilanova/NP i/CC la/DA Geltrú/NP ,/FF població/NC a/SP la/DA que/PR sempre/RG va/VA estar/VM molt/RG lligat/NC ./FF
+Va/VA e

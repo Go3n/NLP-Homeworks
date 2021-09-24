@@ -9059,4 +9059,76 @@ Pucará_San_Lorenzo/NP a/SP Arica/NP ;/FF Pucará_de_Turi/NP en/SP Calama/NP ;/F
 Alexandre_de_Cabanyes/NP i/CC Marquès/NP (/FF Barcelona/NP ,/FF 1877/ZZ -/FF Vilanova/NP i/CC la/DA Geltrú/NP ,/FF 1972/ZZ )/FF és/VS el/DA pintor/NC vilanoví/AQ més/RG important/AQ de/SP la/DA primera/AO meitat/NC de/SP el/DA segle_XX/WW ./FF
 El/DA pare/NC ,/FF l'/DA avi/NC ,/FF l'/DA oncle/NC i/CC d'/SP altres/DI avantpassats/NC d'/SP Alexandre_de_Cabanyes/NP també/RG eren/VS pintors/NC ./FF
 Les/DA pintures/NC més/RG conegudes/NC d'/SP Alexandre_de_Cabanyes/NP són/VS les/DA marines/NC de/SP la/DA platja/NC de/SP Vilanova/NP i/CC la/DA Geltrú/NP ,/FF població/NC a/SP la/DA que/PR sempre/RG va/VA estar/VM molt/RG lligat/NC ./FF
-Va/VA e
+Va/VA estudiar/VM a/SP l'/DA Escola_d'_Arts/NP i/CC Oficis/NP i/CC a/SP el/DA Cercle_Artístic_de_Sant_Lluc/NP ./FF
+Va/VA freqüentar/VM Els/NP Quatre/ZZ Gats/NP ,/FF lloc/NC de/SP trobada/NC d'/SP artistes/NC i/CC intel/NC ./FF lectuals/AQ de/SP la/DA Barcelona/NP modernista/AQ a/SP principis/NC de/SP el/DA segle_XX/WW i/CC es/P0 va/VA relacionar/VM amb/SP d'/SP altres/DI pintors/NC a/SP París/NP i/CC a/SP Munic/NP ./FF
+La/DA primera/AO exposició/NC d'/SP Alexandre/NP va/VA tenir_lloc/VM a/SP finals/NC de/SP l'/DA any/NC 1900/ZZ ,/FF a/SP Vilanova/NP i/CC la/DA Geltrú/NP ,/FF i/CC el/DA 1904/ZZ va/VA exposar/VM a/SP la/DA sala/NC Parés/NP ,/FF de/SP Barcelona/NP ,/FF on/PR hi/PP va/VA realitzar/VM d'/SP altres/DI exposicions/NC ./FF
+També/RG va/VA exposar/VM a/SP les/DA Galeries_Laietanes/NP ./FF
+L'/DA any/NC 1913/ZZ participarà/VM a/SP l'/DA Exposició_de_Artistas_Catalanes/NP a/SP Montevideo/NP ./FF
+El/DA 1957/ZZ va/VA ser/VS nomenat/VM fill/NC predilecte/AQ de/SP Vilanova/NP i/CC la/DA Geltrú/NP ,/FF i/CC el/DA 1972/ZZ li/PP va/VA ser/VS concedida/VM l'/DA Encomienda_de_Alfonso_X_el_Sabio/NP ./FF
+Alexandre_de_Cabanyes/NP va/VA morir/VM el/DA 23_de_març_de_1972/WW a/SP Vilanova/NP i/CC la/DA Geltrú/NP ./FF
+Actualment/RG es/P0 poden/VM trobar/VM pintures/NC seves/PX a/SP el/DA Museu_Nacional_d'_Art_de_Catalunya/NP ,/FF a/SP el/DA Museu_d'_Art_Modern_de_Madrid/NP i/CC a/SP el/DA Saló_de_Sant_Jordi_de_el_Palau_de_la_Generalitat_de_Catalunya/NP ./FF
+Bibliografia/NP ./FF
+Pi_de_Cabanyes/NP ,/FF Oriol/NP :/FF Alexandre_de_Cabanyes/NP (/FF 1877-1972/ZZ )/FF ./FF
+Retrat/NP núm/NC ./FF 14/ZZ ,/FF novembre/WW 2000/ZZ ;/FF
+El/DA Pucará_de_Tilcara/NP és/VS una/DI fortalesa/NC construïda/VM per/SP els/DA tilcaras/NC ,/FF una/DI parcialidad/NC de/SP els/DA indis/AQ omaguacas/NC ,/FF en/SP un/DI punt/NC estratègic/AQ sobre/SP la/DA Trencada_de_Humahuaca/NP ,/FF en/SP la/DA província/NC de/SP Jujuy/NP ,/FF Argentina/NP ./FF
+Es/P0 troba/VM a/SP el/DA sud/NC de/SP la/DA ciutat/NC de/SP Tilcara/NP ,/FF sobre/SP un/DI morro/NC ,/FF a/SP 80_m/ZZ d'/SP altura/NC sobre/SP el/DA Riu_Gran_de_Jujuy/NP ,/FF que/PR allí/RG corre/VM a/SP 2.450/ZZ msnm/NC ./FF
+Va/VA ser/VS un/DI lloc/NC ideal/AQ per/SP a/SP defensar/VM -se/P0 de/SP els/DA atacs/NC ;/FF dominava/VM l'/DA encreuament/NC de/SP els/DA dos/ZZ únics/AQ camins/NC de/SP el/DA lloc/NC i/CC d'/SP una/DI banda/NC la/DA defensen/VM els/DA penya-segats/NC sobre/SP el/DA Riu_Gran_de_Jujuy/NP i/CC per/SP l'/DA altre/PI els/DA aspres/NC vessants/AQ ./FF
+En/SP els/DA faldeos/AQ més/RG accessibles/AQ van/VA construir/VM altes/AQ muralles/NC ./FF
+És/VS una/DI de/SP les/DA més/RG importants/AQ i/CC conegudes/NC de/SP les/DA antigues/AQ poblacions/NC prehispánicas/NC de/SP la/DA regió/NC Humahuaca/NP ./FF
+Té/VM una/DI extensió/NC de/SP 8/ZZ a/SP 15_hectàrees/ZZ i/CC aproximadament/RG 900/ZZ anys/NC d'/SP antiguitat/NC ./FF
+En/SP el/DA pucará/NC s'/P0 identifiquen/VM diversos/DI barris/NC d'/SP habitatges/NC ,/FF corrals/NC ,/FF una/DI necròpoli/NC i/CC un/DI lloc/NC per/SP a/SP cerimònies/NC sagrades/AQ ,/FF entre/SP altres/DI espais/NC ./FF
+Troballa/NP i/CC reconstrucció/NC ./FF
+Va/VA ser/VS descobert/VM per/SP l'/DA etnógrafo/VM Juan_Bautista_Ambrosetti/NP en/SP una/DI de/SP les/DA seves/PX investigacions/NC arqueològiques/AQ en/SP la/DA zona/NC de/SP el/DA nord-oest/NC argentí/AQ ,/FF en/SP 1908/ZZ ,/FF en_companyia_de/SP el/DA seu/PX deixeble/NC ,/FF després/RG continuador/NC de/SP la/DA seva/PX obra/NC Salvador_Debenedetti/NP ./FF
+Durant/SP els/DA estius/NC de/SP els/DA tres/ZZ anys/NC següents/AQ van/VA explorar/VM el/DA Pucará/NP i/CC van/VA extreure/VM unes/DI tres_mil/ZZ peces/NC ./FF
+Aquests/DD materials/NC i/CC les/DA seves/PX observacions/NC van/VA permetre/VM formar/VM -se/PP una/DI idea/NC de/SP com/PT era/VS la/DA vida/NC de/SP els/DA seus/PX habitants/NC abans/RG de/SP l'/DA arribada/NC de/SP els/DA espanyols/NC ./FF
+Cap/PI a/SP 1911/ZZ Debenedetti/NP va/VA tenir/VM l'/DA ocurrència/NC de/SP restaurar/VM les/DA ruïnes/NC ./FF
+Amb/SP l'/DA aprovació/NC de/SP Ambrosetti/NP (/FF qui/PR era/VS Director_de_el_Museu_Etnográfico_de_la_Facultat_de_Filosofia/NP i/CC Lletres_de_la_Universitat_de_Buenos_Aires/NP ,/FF es/P0 va/VA procedir/VM a/SP netejar/VM el/DA terreny/NC en/SP una/DI extensió/NC d'/SP uns/DI 2000_m2/ZZ i/CC aixecar/VM les/DA parets/NC fins/SP a/SP una/DI altura/NC de/SP poc/RG més/RG d'/SP un_metre/ZZ ./FF
+Però/CC Debenedetti/NP no/RN estava/VM conforme/AQ amb/SP realitzar/VM solament/RG aquesta/DD neteja/NC i/CC en/SP 1929/ZZ (/FF ja/RG director/NC de/SP el/DA Museu_Etnográfico/NP ,/FF a/SP el/DA succeir/VM a/SP Ambrosetti/NP que/PR havia/VA mort/VM )/FF va/VA realitzar/VM una/DI nova/AQ exploració/NC de/SP el/DA lloc/NC a/SP el/DA costat/NC de/SP el/DA seu/PX deixeble/NC Eduardo_Casanova/NP amb/SP el/DA propòsit/NC de/SP portar_a_terme/VM el/DA seu/PX objectiu/NC ,/FF però/CC a/SP el/DA morir/VM a/SP l'/DA any/NC següent/AQ ,/FF aquest/DD projecte/NC va/VA quedar/VM trunco/VM ./FF
+En/SP 1948/ZZ Casanova/NP ,/FF a/SP càrrec/NC de/SP la/DA càtedra/NC d'/SP Arqueologia_Americana/NP en/SP la/DA Facultat_de_Filosofia/NP i/CC Lletres/NP (/FF UBA/NP )/FF ,/FF va/VA reprendre/VM el/DA projecte/NC i/CC va/VA completar/VM la/DA reconstrucció/NC ,/FF amb/SP ajuda/NC de/SP la/DA Universitat_de_Buenos_Aires/NP ./FF
+El/DA govern/NC Jujeño/NP donó/NC a/SP la/DA Facultat/NP les/DA terres/NC de/SP el/DA Pucará/NP amb/SP el/DA compromís/NC que/PR creés/VM un/DI Museu_Arqueològic/NP ./FF
+Això/PD es/P0 va/VA complir/VM recién/VM en/SP 1966/ZZ amb/SP la/DA inauguració/NC de/SP la/DA primera/AO part/NC ,/FF que/PR es/P0 va/VA completar/VM dos/ZZ anys/NC després/RG amb/SP el/DA nom/NC de/SP Dr._Eduardo_Casanova/NP ./FF
+També/RG es/P0 va/VA crear/VM un/DI Jardí_Botànic/NP d'/SP altura/NC ./FF
+Situació/NC actual/AQ ./FF
+Solament/RG han/VA quedat/VM com/CS registres/VM de/SP la/DA reconstrucció/NC alguns/DI esments/NC en/SP textos/NC i/CC les/DA petjades/NC en/SP el/DA terreny/NC ./FF
+El/DA mètode/NC utilitzat/VM es/P0 va/VA basar/VM en/SP mètodes/NC arqueològics/AQ de/SP principis/NC de/SP el/DA segle_XX/WW i/CC en/SP el/DA seu/PX bon/AQ sentit/NC ./FF
+En/SP l'/DA actualitat/NC es/P0 consideren/VM adequats/VM el/DA plantejament/NC de/SP el/DA recorregut/NC intern/AQ i/CC les/DA reconstruccions/NC de/SP els/DA sostres/NC ./FF
+Per_contra/RG la/DA reconstrucció/NC de/SP els/DA murs/NC i/CC l'/DA accés/NC vehicular/VM va/VA provocar/VM modificacions/NC notòries/AQ ./FF
+En/SP el/DA lloc/NC es/P0 troba/VM a/SP més/RG una/DI piràmide/NC trunca/VM que/CS no/RN guarda/VM relació/NC amb/SP la/DA tradició/NC arquitectònica/AQ de/SP la/DA regió/NC ./FF
+Amb/SP l'/DA anàlisi/NC actual/AQ de/SP fotografies/NC ,/FF plans/NC ,/FF croquis/NC i/CC publicacions/NC que/CS hagin/VA estat/VS realitzades/VM abans/RG de/SP 1910/ZZ en/SP el/DA Pucará/NP ,/FF s'/P0 intenta/VM identificar/VM part/NC de/SP les/DA transformacions/NC realitzades/VM a/SP el/DA realitzar/VM la/DA reconstrucció/NC ./FF
+El/DA relevamiento/NC planimétrico/NC permetrà/VM controlar/VM l'/DA impacte/NC de/SP el/DA recorregut/NC turístic/AQ ,/FF factors/NC climàtics/AQ ,/FF etc./FF per/SP a/SP així/RG estudiar/VM com/CS preservar/VM millor/AQ el/DA lloc/NC ./FF
+El/DA Museu_Arqueològic_Dr._Eduardo_Casanova/NP conta/VM en/SP l'/DA actualitat/NC amb/SP 7/ZZ sales/NC d'/SP exposició/NC tradicional/AQ i/CC altres/DI 3/ZZ temporarias/NC ,/FF i/CC en/SP ell/PP es/P0 busca/VM que/CS el/DA visitant/NC interactui/RG amb/SP la/DA mostra/NC i/CC dialogui/VM amb/SP els/DA guies/NC i/CC investigadors/NC ./FF
+En/SP l'/DA actualitat/NC és/VS una/DI important/AQ atracció/NC turística/AQ ,/FF més/RG encara/RG des/SP que/CS la/DA Trencada_de_Humahuaca/NP va/VA ser/VS declarada/VM part/NC de/SP el/DA Patrimoni_Mundial_de_la_Humanitat/NP ./FF
+José_Antonio_Noguera_de_Roig/NP (/FF València/NP ,/FF 10_d'_abril_de_1918/WW -/FF 9_de_desembre_de_2003/WW )/FF fou/VS un/DI polític/NC valencià/AQ ./FF
+Va/VA estudiar/VM el/DA batxillerat/NC en/SP el/DA Col·legi_de_els_Jesuïtes_de_València/NP ./FF
+Es/P0 llicencià/VM en_Dret/RG la/PP va/VA fer/VM en/SP la/DA Universitat_de_València/NP i/CC es/P0 va/VA doctorar/VM per/SP la/DA Universitat_Complutense_de_Madrid/NP ./FF
+de/SP el/DA 1968/ZZ a/SP el/DA 1978/ZZ fou/VS president/NC de/SP la/DA Cambra_de_Comerç/NP ,/FF Indústria/NP i/CC Navegació_de_València/NP ,/FF i/CC de/SP el/DA 1968/ZZ a/SP el/DA 1984/ZZ fou/VS president/NC de/SP la/DA Fira_de_Mostres_de_València/NP ./FF
+També/RG fou/VS president/NC de/SP l'/DA Associació_de_Fires_Espanyoles/NP (/FF 1978-1980/ZZ )/FF ./FF
+També/RG ha/VA estat/VS soci/NC de/SP l'/DA Ateneu_Mercantil_de_València/NP i/CC ha/VA col·laborat/VM a/SP els/DA diaris/NC Levante-EMV/NP i/CC Las_Provincias_Fou/NP vicepresident/NC de/SP la/DA primera/AO Conferència_Permanent_de_Cambres_de_Comerç_de_el_Sud_de_França/NP i/CC Nord/NP i/CC Est_d'_Espanya/NP ,/FF conseller/NC delegat/NC i/CC president/NC d'/SP Aceiteras_Reunidas/NP ,/FF d'/SP Estación_de_Descarga/NP y/NC Carga/NP ,/FF S.A._A/NP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1977/ZZ fou/VS escollit/VM senador/NC per/SP la/DA província/NC de/SP València_per_la_UCD/NP ./FF
+Juntament/RG amb/SP Joaquim_Muñoz_Peirats/NP i/CC Francesc_de_Paula_Burguera/NP van/VA proposar/VM que/CS una/DI disposició/NC transitòria/AQ segona/AO de/SP Constitució_Espanyola/NP de/SP 1978/ZZ reconegués/VM el/DA País_Valencià/NP com/CS a/SP nacionalitat/NC històrica/AQ ./FF
+L'/DA oposició/NC de/SP Fernando/NP Abril/WW Martorell/NP provocà/VM que/CS no/RN es/P0 presentés/VM a/SP les/DA eleccions/NC de/SP 1979/ZZ i/CC abandonés/VM la/DA política/NC ./FF
+de/SP el/DA 1998/ZZ fins/SP a/SP el/DA 2003/ZZ fou/NC Sindic_Major_de_Comptes_de_la_Generalitat_Valenciana/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Obituari/NP a/SP El_País/NP ;/FF
+Lesovsky/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Lesovsky/NP va/VA competir/VM a/SP varies/VM curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ ,/FF de/SP la/DA temporada/NC 1950/ZZ a/SP la/DA temporada/NC 1960/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Resum/NC a/SP la/DA F1/ZZ ./FF
+Curses/NP :/FF 9/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Podiums/NP :/FF 1/ZZ ;/FF Punts/NP :/FF 11/ZZ ;/FF
+L'/DA Illa_de_el_Descobridor/NP és/VS un/DI illot/NC situat/VM immediatament/RG a/SP el/DA sud/NC de/SP el/DA Cap_de_la_Nau/NP (/FF País_Valencià/NP )/FF ,/FF en/SP el/DA terme/NC municipal/AQ de/SP Xàbia/NP ./FF
+Es/P0 tracta/VM d'/SP una/DI illa/NC allargada/NC que/PR posseïx/VM una/DI extensió/NC de/SP 2,5_hectàrees/ZZ ./FF
+És/VS plenament/RG pedregosa/AQ ,/FF rodejada/VM de/SP penya-segats/NC el/DA que/PR la/PP fa/VM gairebé/RG inaccessible/AQ ./FF
+Posseïx/VM una/DI encara/RG important/AQ colònia/NC de/SP corbs/NC marins/AQ i/CC els/DA seus/PX fons/NC són/VS molt/RG benvolguts/AQ i/CC freqüentats/VM per/SP els/DA bussejadors/NC ,/FF està/VM sota/SP la/DA protecció/NC de/SP la/DA Reserva/NP marina/NC de/SP el/DA Cap_de_Sant_Antoni/NP ./FF
+L'/DA Illa_de_el_Portitxol/NP és/VS un/DI illot/NC situat/VM entre/SP els/DA caps/NC de/SP Martí/NP a/SP el/DA nord/NC i/CC de/SP la/DA Nau/NP a/SP el/DA sud/NC ./FF
+És/VS a/SP la/DA badia/NC de/SP el/DA Portixol/NP ,/FF davant/SP la/DA platja/NC de/SP el/DA Portixol/NP ,/FF en/SP el/DA terme/NC municipal/AQ de/SP Xàbia/NP ./FF
+Es/P0 tracta/VM d'/SP una/DI illa/NC massissa/AQ de/SP forma/NC rodona/AQ amb/SP una/DI superfície/NC de/SP 8,3_hectàrees/ZZ ./FF
+La/DA seva/PX orografia/NC és/VS muntanyenca/AQ i/CC rocosa/AQ ,/FF arribant/VM a/SP arribar/VM a/SP els/DA 75_metres/ZZ d'/SP altura/NC ,/FF malgrat/SP la/DA qual/DR cosa/NC va/VA arribar/VM a/SP estar/VM en/SP temps/NC habitada/VM periòdicament/RG ,/FF havent/VM -se/P0 trobat/VM fins_i_tot/RG soterraments/NC i/CC importants/AQ restes/NC arqueològics/AQ de/SP l'/DA època/NC romana/AQ ./FF
+En/SP la/DA seva/PX part/NC més/RG alta/AQ existeix/VM una/DI petita/AQ construcció/NC i/CC tota/DI la/DA illa/NC està/VM travessada/NC per/SP senderes/NC fetes/VM per/SP excursionistes/NC ./FF
+En/SP els/DA informes/NC de/SP el/DA Grup_Intergovernamental/NP sobre/SP Canvi_Climàtic/NP ,/FF la/DA sensibilitat/NC climàtica/AQ en/SP equilibri/NC és/VS el/DA canvi/NC de/SP la/DA temperatura/NC superficial/AQ mitjana/NC global/AQ en/SP equilibri/NC després/RG de/SP doblar/VM la/DA concentració/NC atmosfèrica/AQ de/SP diòxid_de_carboni/NC (/FF equivalent/NC )/FF ./FF
+Aquest/DD valor/NC s'/P0 ha/VA estimat/VM ,/FF en/SP el/DA Quart_Informe_d'_Avaluació_de_el_GIECC/NP de/SP ser/VS probablement/RG en/SP l'/DA interval/NC 2,1/ZZ a/SP 4,4°C/ZZ ,/FF amb/SP una/DI mitjana/NC de/SP 3,2ºC/ZZ ./FF ./FF
+Això/PD és/VS un/DI lleuger/AQ canvi/NC respecte/NC a/SP el/DA Tercer_Informe_d'_Avaluació_de_el_GIECC/NP ,/FF que/PR deia/VM que/CS era/VS "/FF probablement/RG en/SP un/DI interval/NC d/AQ '/FF 1,5/ZZ a/SP 4,5°C/ZZ "/FF ./FF
+Més/RG generalment/RG ,/FF la/DA sensibilitat/NC climàtica/AQ en/SP equilibri/NC es/P0 refereix/VM a/SP el/DA canvi/NC de/SP la/DA temperatura/NC d'/SP equilibri/NC l'/DA aire/NC superficial/AQ que/PR segueix/VM un/DI canvi/NC d'/SP unitat/NC en/SP el/DA forçant/VM radiatiu/AQ ,/FF expressada/VM en/SP unitats/NC de/SP °C/NC //FF (/FF W/NC //FF m²/NC )/FF ./FF
+En/SP la/DA pràctica/NC ,/FF l'/DA avaluació/NC de/SP la/DA sensibilitat/NC climàtica/AQ en/SP equilibri/NC exigeix/VM simulacions/NC molt/RG llargues/AQ amb/SP models/NC climàtics/AQ globals/AQ acoblats/VM ,/FF o/CC es/P0 pot/VM deduir/VM d'/SP observacions/NC ./FF
+Gregory/NP et/PP a/SP el/DA ./FF (/FF 2002/ZZ )/FF estimen/VM una/DI fita/NC inferior/AQ de/SP 1,6°C/ZZ calculant/VM el/DA canvi/NC en/SP el/DA balanç/NC de/SP radiació/NC de/SP Terra/NP i/CC comparant/VM -ho/PP amb/SP l'/DA escalfament/NC global/AQ observat/VM durant/SP el/DA 20è/AO segle/NC ./FF
+El/DA treball/NC recent/AQ fet/NC per/SP Annan/NP i/CC Hargreaves/NP combina/VM observacions/NC i/CC estimacions/NC fetes/VM per/SP models/NC independents/AQ per/SP produir/VM una/DI mitjana/NC d'/SP uns/DI 3°C/ZZ ,/FF i/CC només/RG una/DI probabilitat/NC d'/SP un/DI 5_%/ZZ d'/SP excedir/VM de/SP 4,5°C/ZZ ./FF
+Shaviv/NP (/FF 2005/ZZ )/FF ha/VA fet/VM una/DI anàlisi/NC similar/AQ per/SP a

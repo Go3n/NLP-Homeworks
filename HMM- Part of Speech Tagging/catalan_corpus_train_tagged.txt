@@ -9204,4 +9204,135 @@ Segons/SP la/DA Wikipedia/NP en/SP anglès/NC ,/FF amb/SP 1.374.294/ZZ habitants
 Segons/SP l'/DA Entitat_de_Transport_Metropolità_de_València/NP l'/DA àrea/NC metropolitana/AQ de/SP València/NP està/VM constituïda/VM per/SP 59/ZZ municipis/NC que/PR es/P0 corresponen/VM amb/SP tots/DI els/DA de/SP la/DA comarca/NC de/SP la/DA Horta_de_València/NP ,/FF gran/AQ part/NC de/SP els/DA de/SP el/DA Camp_de_Túria/NP ,/FF tres/ZZ de/SP la/DA Ribera_Alta/NP ,/FF dos/ZZ de/SP la/DA Ribera_Baixa/NP i/CC un/DI de/SP el/DA Camp_de_Morvedre/NP ./FF
 Corones/NP de/SP l'/DA àrea/NC metropolitana/AQ ./FF
 Podem/VM diferenciar/VM tres/ZZ zones/NC :/FF El/DA nucli/NC urbà/AQ de/SP València/NP :/FF a/SP més/RG de/SP la/DA ciutat/NC sense/SP incloure/VM -hi/PP els/DA pobles/NC de/SP el/DA sud/NC (/FF Pinedo/NP ,/FF Castellar/NP i/CC l/NC Oliveral/NP ,/FF el/DA Forn/NP d/AQ Alcedo/NP ,/FF la/DA Torre/NP ,/FF Faitanar/NP ,/FF el/DA Saler/NP ,/FF el/DA Palmar/NP i/CC el/DA Perellonet/NP )/FF ,/FF nord/AQ (/FF Massarrojos/NP ,/FF el/DA Poblenou/NP ,/FF Benifaraig/NP ,/FF Borbotó/NP ,/FF Carpesa/NP i/CC les/DA Cases_de_Bàrcena/NP )/FF i/CC de/SP l/NC oest/NC (/FF Benimàmet/NP ,/FF Beniferri/NP )/FF -/FF ,/FF també/RG inclou/VM el/DA municipi/NC de/SP Mislata/NP i/CC una/DI part/NC de/SP els/DA termes/NC de/SP Alboraia/NP (/FF la/DA platja/NC )/FF i/CC Xirivella/NP (/FF barri/NC de/SP la/DA Llum/NP )/FF totalment/RG conurbats/NC amb/SP ella/PP ./FF
-Es/P0 troba/VM limitada/VM per/SP el/DA nou/A
+Es/P0 troba/VM limitada/VM per/SP el/DA nou/AQ llit/NC de/SP el/DA riu/NC Túria/NP a/SP el/DA sud/NC i/CC a/SP l'/DA oest/NC ,/FF per/SP el/DA mar/NC Mediterrani/NP a/SP l'/DA est/NC i/CC per/SP la/DA ronda/NC nord/AQ a/SP el/DA nord/NC ./FF
+En/SP ella/PP s'/P0 observa/VM una/DI clara/AQ especialització/NC econòmica/AQ en/SP el/DA sector/NC serveis/NC ./FF
+La/DA densitat/NC de/SP població/NC és/VS molt/RG elevada/VM ,/FF superant/VM els/DA 20.000_hab_/_km2/ZZ ./FF
+La/DA primera/AO corona/NC metropolitana/AQ :/FF es/P0 troba/VM limitada/VM per/SP el/DA bypass/NC o/CC autovia/NC A/NP -/FF 7/ZZ ,/FF que/PR és/VS el/DA tram/NC lliure/AQ de/SP peatge/NC de/SP l'/DA AP/NP -/FF 7/ZZ entre/SP Puçol/NP i/CC Picassent/NP i/CC comprén/VM la/DA major/AQ part/NC de/SP municipis/NC de/SP l'/DA Horta/NP ./FF
+En/SP aquesta/DD zona/NC s'/P0 observa/VM una/DI major/AQ concentració/NC industrial/AQ ./FF
+El/DA sector/NC primari/AQ ,/FF molt/RG important/AQ tradicionalment/RG (/FF especialment/RG l'/DA agricultura/NC )/FF ,/FF ha/VA perdut/VM importància/NC a_causa_de/SP el/DA canvi/NC d'/SP ús/NC de/SP el/DA sòl/NC que/PR s'/P0 ha/VA urbanitzat/VM en/SP la/DA gran/AQ part/NC ./FF
+La/DA densitat/NC ací/RG és/VS menor/AQ ,/FF entorn/NC de/SP 1.100_hab_/_km2/ZZ ./FF
+A_diferència_de/SP l'/DA àrea/NC metropolitana/AQ de/SP Barcelona/NP no/RN hi/PP ha/VA cap/DI municipi/NC d'/SP una/DI grandària/NC molt/RG destacada/VM ,/FF sent/VM el/DA més/RG poblat/NC Torrent/NP amb/SP 72.660/ZZ hab/AQ ./FF
+Això/PD és/VS deu/NC en/SP part/NC a/SP l'/DA escàs/AQ terme/NC municipal/AQ de/SP la/DA majoria/NC de/SP localitats/NC ./FF
+No/RN obstant/VM això/PD sí/RG que/CS hi/PP ha/VA diverses/DI conurbacions/NC que/PR en/SP conjunt/NC compten/VM amb/SP una/DI gran/AQ quantitat/NC de/SP població/NC com/CS poden/VM ser/VS Benimàmet-Burjassot-Godella-Rocafort/NP ,/FF Alaquàs-Aldaia/NP ,/FF Manises-Quart_de_Poblet/NP ,/FF Alfafar-Benetússer-Llocnou_de_la_Corona-Sedaví/NP o/CC Paiporta-Picanya/NP ./FF
+A_causa_de/SP el/DA creixement/NC urbà/AQ i/CC la/DA millora/NC de/SP les/DA infraestructures/NC (/FF construcció/NC de/SP la/DA ronda/NC Nord_de_València/NP ,/FF i/CC futur/AQ soterrament/NC de/SP les/DA línies/NC 1/ZZ i/CC 3/ZZ de/SP el/DA metro/NC en/SP Burjassot/NP i/CC Alboraia/NP respectivament/RG )/FF provocarà/VM en/SP poc/RG de/SP temps/NC la/DA conurbació/NC de/SP diverses/AQ d'/SP aquestes/DD localitats/NC amb/SP la/DA ciutat/NC de/SP València/NP ./FF
+En_concret/RG Alboraia/NP ,/FF Tavernes_Blanques/NP i/CC el/DA conjunt/NC Benimàmet-Burjassot-Godella-Rocafort/NP ./FF
+La/DA segona/AO corona/NC metropolitana/AQ :/FF ací/RG s'/P0 inclouen/VM les/DA poblacions/NC de/SP l'/DA Horta/NP exteriors/AQ a/SP l'/DA A/NP -/FF 7/ZZ junt/NC amb/SP les/DA de/SP la/DA resta/NC de/SP comarques/NC ./FF
+Aquesta/DD zona/NC s'/P0 ha/VA incorporat/VM recentment/RG a/SP l'/DA àrea/NC metropolitana/AQ a_causa_de/SP la/DA millora/NC de/SP les/DA comunicacions/NC i/CC a/SP l'/DA increment/NC de/SP el/DA preu/NC de/SP l'/DA habitatge/NC en/SP zones/NC més/RG pròximes/AQ a/SP la/DA capital/NC ./FF
+El/DA creixement/NC s'/P0 ha/VA basat/VM sobretot/RG en/SP la/DA construcció/NC d'/SP urbanitzacions/NC d'/SP adossats/VM per/SP la/DA qual/DR cosa/NC la/DA densitat/NC de/SP població/NC és/VS menor/AQ que/CS en/SP la/DA primera/AO corona/NC ./FF
+Aquesta/DD és/VS la/DA zona/NC més/RG difusa/AQ de/SP l'/DA àrea/NC metropolitana/AQ a_causa_de/SP la/DA dificultat/NC de/SP trobar/VM el/DA seu/PX límit/NC ,/FF És/NP per/SP això/PD que/PR ,/FF segons/SP quin/DT estudi/NC ,/FF s'/P0 incorporen/VM més_o_menys/RG localitats/NC ./FF
+Municipis/NP de/SP l/NC àrea/NC metropolitana/AQ ./FF
+Nucli/NP urbà/AQ de/SP València/NP ;/FF Primera/NP corona/NC metropolitana/AQ ;/FF Segona/NP corona/NC metropolitana/AQ ;/FF Vegeu/NP també/RG ./FF
+Àrea/NC metropolitana/AQ ;/FF
+Eupsophus/NP insularis/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Núñez/NP ,/FF J._&_Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Eupsophus/NP insularis/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Eupsophus/NP migueli/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Eupsophus/NP migueli/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Eupsophus/NP nahuelbutensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Núñez/NP ,/FF J._&_Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Eupsophus/NP nahuelbutensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Eupsophus/NP roseus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Núñez/NP ,/FF J._&_Ortiz/NP ,/FF J.C./NP 2004/ZZ ./FF
+Eupsophus/NP roseus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Eupsophus/NP vertebralis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Núñez/NP ,/FF J./NP ,/FF Ortiz/NP ,/FF J.C._&_Úbeda/NP ,/FF C./NP 2004/ZZ ./FF
+Eupsophus/NP vertebralis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 17_de_gener_de_2008/WW ./FF
+Telmatobufo/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP el/DA sud/NC de/SP Xile/NP ./FF
+Espècies/NP ./FF
+Telmatobufo/NP australis/NC ;/FF Telmatobufo/NP bullocki/NC ;/FF Telmatobufo/NP venustus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Telmatobufo/NP australis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Formas/NP ,/FF R._&_Núñez/NP ,/FF J./NP 2004/ZZ ./FF
+Telmatobufo/NP australis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Telmatobufo/NP bullocki/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Telmatobufo/NP bullocki/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Specie/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Telmatobufo/NP venustus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Formas/NP ,/FF R./NP 2004/ZZ ./FF
+Telmatobufo/NP venustus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachyla/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP ./FF
+Espècies/NP ./FF
+Batrachyla/NP antartandica/VM ;/FF Batrachyla/NP fitzroya/NC ;/FF Batrachyla/NP leptopus/NC ;/FF Batrachyla/NP nibaldoi/NC ;/FF Batrachyla/NP taeniata/AQ ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Batrachyla/NP antartandica/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Díaz-Paéz/NP ,/FF H./NP ,/FF Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Batrachyla/NP antartandica/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachyla/NP fitzroya/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Lavilla/NP ,/FF E./NP ,/FF Basso/NP ,/FF N._&_Blotto/NP ,/FF B./NP 2004/ZZ ./FF
+Batrachyla/NP fitzroya/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachyla/NP leptopus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Formas/NP ,/FF R./NP ,/FF Díaz-Paéz/NP ,/FF H./NP ,/FF Lavilla/NP ,/FF E._&_Basso/NP ,/FF N./NP 2004/ZZ ./FF
+Batrachyla/NP leptopus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachyla/NP nibaldoi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Xile/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP l'/DA Argentina/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H._&_Díaz-Paéz/NP ,/FF H./NP 2004/ZZ ./FF
+Batrachyla/NP nibaldoi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachyla/NP taeniata/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP l'/DA Argentina/NP i/CC Xile/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Úbeda/NP ,/FF C./NP ,/FF Veloso/NP ,/FF A./NP ,/FF Núñez/NP ,/FF H./NP ,/FF Ortiz/NP ,/FF J.C./NP ,/FF Formas/NP ,/FF R._&_Lavilla/NP ,/FF E./NP 2004/ZZ ./FF
+Batrachyla/NP taeniata/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachophrynus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Leptodactylidae/NP que/PR es/P0 troba/VM a/SP els/DA Andes/NP de/SP el/DA sud/NC de/SP el/DA Perú/NP i/CC Bolívia/NP ./FF
+Espècies/NP ./FF
+Batrachophrynus/NP brachydactylus/NC ;/FF Batrachophrynus/NP macrostomus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Batrachophrynus/NP brachydactylus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Sinsch/NP ,/FF U._&_Lehr/NP ,/FF E./NP 2004/ZZ ./FF
+Batrachophrynus/NP brachydactylus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Batrachophrynus/NP macrostomus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Perú/NP ./FF
+Referències/NP ./FF
+Angulo/VM ,/FF A./NP ,/FF Sinsch/NP ,/FF U._&_Aguilar_Puntriano/NP ,/FF C./NP 2004/ZZ ./FF
+Batrachophrynus/NP macrostomus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+En/SP el/DA teatre/NC ,/FF l'/DA escenari/NC és/VS l'/DA espai/NC destinat/VM a/SP el/DA públic/NC per/SP a/SP la/DA interpretació/NC de/SP produccions/NC teatrals/AQ o/CC altres/DI esdeveniments/NC ./FF
+L'/DA escenari/NC serveix/VM com/CS espai/NC per/SP a/SP els/DA actors/NC o/CC intèrprets/NC i/CC com/CS un/DI punt/NC focal/AQ per/SP a/SP els/DA membres/NC de/SP el/DA públic/NC ./FF
+Com/CS tret/NC arquitectònic/AQ ,/FF l'/DA escenari/NC pot/VM consistir/VM en/SP una/DI plataforma/NC (/FF sovint/RG elevada/VM )/FF o/CC una/DI sèrie/NC de/SP plataformes/NC ./FF
+En/SP alguns/DI casos/NC ,/FF poden/VM ser/VS temporals/AQ o/CC ajustables/AQ ,/FF però/CC en/SP els/DA teatres/NC i/CC altres/DI edificis/NC dedicats/VM a/SP aquest/DD tipus/NC de/SP produccions/NC ,/FF l'/DA escenari/NC és/VS sovint/RG un/DI element/NC estable/AQ i/CC permanent/AQ ./FF
+Hi/PP ha/VA quatre/ZZ tipus/NC d'/SP escenaris/NC que/PR varien/VM quant_a/SP el/DA seu/PX ús/NC i/CC en_relació_amb/SP el/DA públic/NC ./FF
+La/DA forma/NC més/RG comuna/AQ a/SP Occident/NP és/VS l'/DA escenari/NC tipus/NC prosceni/NC ./FF
+En/SP aquest/DD tipus/NC ,/FF el/DA públic/NC es/P0 localitza/VM a_un_costat_de/SP l'/DA escenari/NC amb/SP la/DA resta/NC de/SP els/DA costats/NC ocults/AQ i/CC utilitzats/VM per/SP els/DA intèrprets/NC i/CC els/DA tècnics/NC ./FF
+Els/DA escenaris/NC centrals/AQ són/VS similars/AQ a/SP els/DA tipus/NC prosceni/NC ,/FF però/CC amb/SP una/DI plataforma/NC o/CC àrea/NC d'/SP interpretació/NC que/PR s'/P0 estén/VM cap/NC a/SP el/DA públic/NC de_manera_que/CS aquest/DD se/P0 situa/VM en/SP tres/ZZ costats/NC ./FF
+En/SP un/DI teatre/NC rodó/AQ ,/FF el/DA públic/NC es/P0 localitza/VM en/SP els/DA quatre/ZZ costats/NC de/SP l'/DA escenari/NC ./FF
+Un_quart/ZZ tipus/NC d'/SP escenari/NC és/VS aquell/PD que/PR es/P0 construïx/VM específicament/RG per/SP a/SP una/DI representació/NC o/CC que/PR involucra/VM un/DI espai/NC preexistent/AQ i/CC adaptat/VM com/CS escenari/NC ./FF
+Història/NP de/SP l'/DA escenari/NC ./FF
+a/SP el/DA començament/NC de/SP la/DA història/NC de/SP el/DA teatre/NC ,/FF els/DA escenaris/NC sovint/RG eren/VS simplement/RG àrees/NC triades/NC per/SP a/SP interpretacions/NC dintre/RG d'/SP un/DI poble/NC ./FF
+Com/CS el/DA teatre/NC deriva/VM de/SP els/DA ritus/NC i/CC cerimònies/NC religioses/AQ ,/FF aquestes/DD àrees/NC van/VA tenir/VM especial/AQ significació/NC per/SP a/SP la/DA tribu/NC ./FF
+Els/DA primers/AO escenaris/NC elaborats/VM van/VA ser/VS els/DA de/SP l'/DA Anti

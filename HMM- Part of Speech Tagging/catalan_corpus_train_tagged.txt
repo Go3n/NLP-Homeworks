@@ -9131,4 +9131,77 @@ Més/RG generalment/RG ,/FF la/DA sensibilitat/NC climàtica/AQ en/SP equilibri/
 En/SP la/DA pràctica/NC ,/FF l'/DA avaluació/NC de/SP la/DA sensibilitat/NC climàtica/AQ en/SP equilibri/NC exigeix/VM simulacions/NC molt/RG llargues/AQ amb/SP models/NC climàtics/AQ globals/AQ acoblats/VM ,/FF o/CC es/P0 pot/VM deduir/VM d'/SP observacions/NC ./FF
 Gregory/NP et/PP a/SP el/DA ./FF (/FF 2002/ZZ )/FF estimen/VM una/DI fita/NC inferior/AQ de/SP 1,6°C/ZZ calculant/VM el/DA canvi/NC en/SP el/DA balanç/NC de/SP radiació/NC de/SP Terra/NP i/CC comparant/VM -ho/PP amb/SP l'/DA escalfament/NC global/AQ observat/VM durant/SP el/DA 20è/AO segle/NC ./FF
 El/DA treball/NC recent/AQ fet/NC per/SP Annan/NP i/CC Hargreaves/NP combina/VM observacions/NC i/CC estimacions/NC fetes/VM per/SP models/NC independents/AQ per/SP produir/VM una/DI mitjana/NC d'/SP uns/DI 3°C/ZZ ,/FF i/CC només/RG una/DI probabilitat/NC d'/SP un/DI 5_%/ZZ d'/SP excedir/VM de/SP 4,5°C/ZZ ./FF
-Shaviv/NP (/FF 2005/ZZ )/FF ha/VA fet/VM una/DI anàlisi/NC similar/AQ per/SP a
+Shaviv/NP (/FF 2005/ZZ )/FF ha/VA fet/VM una/DI anàlisi/NC similar/AQ per/SP a/SP sis/ZZ intervals/NC de/SP temps/NC diferents/AQ ,/FF estenent/VM -se/P0 des_de/SP el/DA cicle/NC solar/AQ d'/SP onze/ZZ anys/NC a/SP les/DA variacions/NC de/SP clima/NC a/SP escales/NC geològiques/AQ ./FF
+Ha/VA trobat/VM una/DI sensibilitat/NC típica/AQ de/SP 2,0°C/ZZ (/FF oscil·lant/AQ entre/SP 0,9°C/ZZ i/CC 2,9°C/ZZ amb/SP una/DI confiança/NC d'/SP un/DI 99_%/ZZ )/FF si/CS no/RN hi/PP ha/VA cap/DI connexió/NC de/SP clima/NC de/SP raig/NC còsmic/AQ ,/FF o/CC una/DI sensibilitat/NC típica/AQ de/SP 1,3°C/ZZ (/FF entre/SP 0,9°C/ZZ i/CC 2,5°C/ZZ amb/SP una/DI confiança/NC d'/SP un/DI 99_%/ZZ )/FF ,/FF si/CS és/VS certa/DI la/DA relació/NC entre/SP la/DA variació/NC solar/AQ amb/SP els/DA raigs/NC còsmics/AQ ./FF
+Andronova/NP i/CC Schlesinger/NP (/FF 2001/ZZ )/FF (/FF utilitzant/VM models/NC climàtics/AQ simples/AQ )/FF han/VA trobat/VM que/CS podria/VM ser/VS entre/SP 1/ZZ i/CC 10°C/ZZ ,/FF amb/SP una/DI probabilitat/NC de/SP el/DA 54_per_cent/ZZ que/CS la/DA sensibilitat/NC climàtica/AQ sigui/VS a/SP fora_de/SP l'/DA interval/NC donat/VM per/SP el/DA GIECC/NP ./FF
+L'/DA interval/NC exacte/AQ depen/VM de/SP quins/DT factors/NC són/VS més/RG importants/AQ durant/SP el/DA període/NC instrumental/AQ :/FF "/FF Actualment/RG ,/FF l'/DA escenari/NC més/RG probable/AQ és/VS un/PI que/PR inclou/VM el/DA forçant/VM antropogènic/AQ per/SP els/DA aerosols/NC de/SP sulfat/NC però/CC no/RN la/DA variació/NC solar/AQ ./FF
+Encara/RG que/CS el/DA valor/NC de/SP la/DA sensibilitat/NC climàtica/AQ en/SP aquest/DD cas/NC és/VS més/RG incerta/AQ ,/FF hi/PP ha/VA una/DI probabilitat/NC de/SP el/DA 70_per_cent/ZZ que/PR excedeixi/VM el/DA màxim/NC valor/VM donat/VM per/SP el/DA GIECC/NP ./FF
+Això/PD no/RN són/VS bones/AQ notícies/NC ./FF "/FF deia/VM Schlesinger/NP ./FF
+Forest/NP et/PP a/SP el/DA ./FF (/FF 2002/ZZ )/FF emprant/VM patrons/NC de/SP canvi/NC i/CC el/DA MIT_EMIC/NP calculaven/VM un/DI interval/NC de/SP confiança/NC d'/SP un/DI 95_%/ZZ per/SP a/SP la/DA sensibilitat/NC climàtica/AQ d'/SP uns/DI 1,4-7,7°C/ZZ ,/FF i/CC una/DI probabilitat/NC d'/SP un/DI 30_%/ZZ que/CS la/DA sensibilitat/NC es/P0 trobés/VM fora_de/SP l'/DA interval/NC d/AQ '/FF 1,5/ZZ a/SP 4,5°C/ZZ ./FF
+Frame/NP et/PP a/SP el/DA ./FF (/FF 2005/ZZ )/FF i/CC Allen/NP et/PP a/SP el/DA ./FF assenyalen/VM que/CS la/DA mida/NC de/SP els/DA límits/NC de/SP confiança/NC són/VS dependents/AQ de/SP la/DA natura/NC de/SP les/DA suposicions/NC prèvies/AQ fetes/NC ./FF
+S'/P0 ha/VA d'/SP assenyalar/VM que/CS la/DA sensibilitat/NC climàtica/AQ no/RN és/VS el/DA mateix/PI que/CS el/DA canvi/NC climàtic/AQ esperat/VM ,/FF el/DA qual/PR depen/VM de/SP els/DA escenaris/NC possibles/AQ :/FF Per_exemple/RG el/DA Quart_Informe_d'_Avaluació_de_el_GIEEC/NP declara/VM que/CS per/SP l'/DA any/NC 2100/ZZ s'/P0 espera/VM un/DI augment/NC 2,4°C/ZZ a/SP 6,4°C/ZZ respecte/NC a/SP la/DA mitjana/NC 1980-1999/ZZ en/SP l'/DA escenari/NC A1F1/ZZ d'/SP emissions/NC de/SP gasos/NC hivernacle/NC altes/AQ ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Grup_Intergovernamental/NP sobre/SP Canvi_Climàtic/NP ;/FF How_Hot_Will_The_Greenhouse_World_Be/NP ;/FF Estimates/NP of/NC climate/AQ sensitivity/NC ,/FF 1896-2006/ZZ ;/FF On_Climate_Sensitivity/NP and/AQ why/NC it/VM is/NC probably/AQ small/NC ;/FF Climate/NP sensitivity/NC is/NC 3C/ZZ ;/FF
+Classificació/NC general/AQ ./FF
+Llegenda/NP :/FF J-partits/NP jugats/NC ,/FF G-guanyats/NP ,/FF E-empatats/NP ,/FF P-perduts/NP ,/FF GF-gols/NP a/SP favor/NC ,/FF GC-gols/NP en/SP contra/SP ,/FF DG-diferència/NP de/SP gols/NC ,/FF PTS-punts_Promoció/NP ./FF
+Resultats/NC finals/AQ ./FF
+Campió/NP :/FF València_CF/NP ./FF
+Descensos/NP :/FF Hèrcules_CF/NP i/CC Real_Sociedad/NP ./FF
+Ascensos/NP :/FF Betis/NP i/CC Real_Zaragoza/NP ./FF
+Màxim/NC golejador/AQ :/FF Mundo/VM (/FF València_CF/NP )/FF ./FF
+Porter/NP menys/RG golejat/VM :/FF Juan_Acuña/NP (/FF Deportivo_de_La_Coruña/NP )/FF ./FF
+Màxims/AQ golejadors/NC ./FF
+Porter/NP menys/RG golejat/VM ./FF
+Microsoft/NP windows/NC 7/ZZ ,/FF anteriorment/RG conegut/VM com/CS Blackcomb/NP i/CC més/RG tard/VM com/CS a/SP Vienna/NP ,/FF és/VS el/DA sistema/NC operatiu/AQ de/SP Microsoft/NP successor/AQ de/SP Windows_Vista/NP ./FF
+Segons/SP Microsoft/NP ,/FF Windows/NP 7/ZZ estarà/VM creat/VM amb/SP un/DI nou/AQ kernel/NC per/SP millorar/VM la/DA estabilitat/NC i/CC la/DA funcionalitat/NC de/SP els/DA sistemes/NC operatius/AQ de/SP Microsoft/NP ./FF
+Microsoft/NP té/VM previst/VM treure/VM el/DA nou/AQ sistema/NC el/DA 2010/ZZ ,/FF tot_i_que/CS Bill_Gates/NP fa/VM poc/RG ha/VA anunciat/VM que/CS es/P0 podria/VM llançar/VM a/SP mitjans/NC de/SP el/DA 2009/ZZ ./FF
+Fins/SP el/DA 2009/ZZ ,/FF Microsoft/NP no/RN va/VA mostrar/VM públicament/RG els/DA detalls/NC de/SP Windows/NP 7/ZZ ,/FF amb/SP la/DA idea/NC d'/SP enfocar/VM -se/P0 sobre/SP el/DA llançament/NC i/CC màrqueting/NC de/SP Windows_Vista/NP ,/FF encara/RG que/CS algunes/DI característiques/NC de/SP el/DA nucli/NC de/SP el/DA Sistema_Operatiu/NP han/VA emergit/VM com/CS resultat/NC de/SP diverses/DI conferències/NC tals/PD com/CS la/DA "/FF Windows_Maquinari_Conference/NP "/FF el/DA 2006/ZZ ./FF
+El/DA dia_10_de_gener_del_2009/WW ,/FF Microsoft/NP durà_a_terme/VM el/DA llançament/NC de/SP la/DA primera/AO versió/NC de/SP prova/NC de/SP el/DA Windows/NP 7/ZZ ,/FF disponible/AQ per/SP els/DA primers/AO 3_milions/ZZ d'/SP usuaris/NC que/PR ho/PP demanin/VM a/SP el/DA seu/PX lloc/NC web/NC ./FF
+Tot/RG i/CC estar/VM basat/VM en/SP l'/DA estructura/NC de/SP Windows_Vista/NP ,/FF ja/RG ha/VA transcendit/VM que/CS intenta/VM oposar/VM -se/P0 a/SP totes/DI les/DA crítiques/NC que/CS la/DA versió/NC anterior/AQ havia/VA suscitat/VM ./FF
+Per/SP això/PD s'/P0 ha/VA intentat/VM que/CS el/DA nou/AQ sistema/NC fos/VS lleuger/AQ per/SP carregar/VM -se/P0 més/RG ràpidament/RG i/CC per/SP poder/VM -se/P0 utilitzar/VM sense/SP problemes/NC en/SP ordinadors/NC menys/RG potents/AQ com/CS els/DA portàtils/AQ ./FF
+D'/SP altra/DI banda/NC ,/FF està/VM preparat/VM per/SP utilitzar/VM -se/P0 amb/SP pantalles/NC tàctils/AQ i/CC millora/VM la/DA relació/NC amb/SP els/DA perifèrics/NC ./FF
+Noves/AQ funcions/NC ./FF
+Nou/AQ nucli/NC ./FF
+Nou/AQ Hypervisor/NP ./FF
+Millores/NC a/SP la/DA estabilitat/NC i/CC seguretat/NC de/SP el/DA sistema/NC ./FF
+Inte/NP ligència/NC artificial/AQ millorada/VM ./FF
+Nova/AQ línia/NC de/SP comandaments/NC ./FF
+Versió/NP de/SP 32/ZZ i/CC 64_bits/ZZ ./FF
+Referències/NP ./FF
+La/DA consola/NC portàtil/AQ POP_Station/NP és/VS una/DI falsificació/NC de/SP la/DA Play_Station_Portable/NP (/FF PSP/NP )/FF de/SP Sony/NP que/PR es/P0 ven/VM a/SP les/DA fires/NC ,/FF per/SP Internet/NP o/CC en/SP botigues/NC de/SP manera/NC il·legal/AQ ,/FF ja_que/CS a/SP el/DA tractar/VM -se/P0 d'/SP una/DI falsificació/NC la/DA seva/PX venda/NC està/VM prohibida/VM ./FF
+La/DA falsificació/NC tan/RG sols/RG es/P0 produeix/VM en/SP l'/DA aspecte/NC extern/AQ de/SP la/DA consola/NC ,/FF ja_que/CS la/DA tecnologia/NC i/CC la/DA qualitat/NC de/SP els/DA materials/NC emprats/VM per/SP a/SP la/DA seva/PX construcció/NC són/VS d'/SP una/DI qualitat/NC només/RG comparable/AQ a/SP la/DA de/SP les/DA consoles/NC Game_&_Watch/NP de/SP principis/NC de/SP els/DA vuitanta/ZZ ./FF
+Entre/SP d'/SP altres/DI moltes/DI diferències/NC ,/FF com/CS el/DA fet/NC que/CS la/DA pantalla/NC només/RG tingui/VM tres/ZZ colors/NC o/CC que/CS li/PP manquin/VM els/DA botons/NC superiors/AQ ,/FF la/DA POP_Station/NP és/VS una/DI consola/NC amb/SP els/DA jocs/NC preinstal·lats/NC ,/FF és/VS a/SP dir/VM ,/FF que/CS la/DA consola/NC es/P0 ven/VM amb/SP un/DI joc/NC programat/VM a/SP el/DA seu/PX interior/NC que/CS no/RN es/P0 pot/VM canviar/VM mitjançant/SP la/DA inserció/NC de/SP cartutxos/NC o/CC discs/NC ./FF
+Això/PD fa/VM que/CS a/SP l'/DA hora/NC de/SP comprar/VM la/DA màquina/NC es/P0 pugui/VM triar/VM entre/SP quatre/ZZ models/NC diferenciats/VM entre/SP ells/PP per/SP el/DA joc/NC pre-programat/VM de/SP què/PR disposen/VM :/FF "/FF Soccer/NP "/FF ,/FF "/FF Street_Fighter/NP "/FF ,/FF "/FF Submarine_Invasion/NP "/FF i/CC "/FF Fortress_Guardian/NP "/FF ./FF
+Per/SP fer/VM -la/PP funcionar/VM cal/VM inserir/VM tres/ZZ piles/NC AAA/NP (/FF LR03/ZZ )/FF ./FF
+El/DA preu/NC de/SP venda/NC d'/SP aquest/DD producte/NC és/VS molt/RG més/RG baix/AQ que/CS el/DA de/SP la/DA consola/NC a/SP la/DA que/PR vol/VM imitar/VM degut/VM a/SP les/DA ja/RG esmentades/VM característiques/NC de/SP fabricació/NC ,/FF el/DA que/PR pot/VM dur/VM a/SP gent/NC sense/SP experiència/NC en/SP l'/DA àmbit/NC de/SP l'/DA oci/NC digital/AQ ,/FF com/CS ara/RG gent/NC gran/AQ ,/FF a/SP comprar/VM -la/PP com/CS a/SP regal/VM pensant/VM -se/PP que/CS és/VS la/DA original/AQ ./FF
+De/SP fet/NC ,/FF el/DA que/PR més/RG s'/P0 assembla/VM a/SP la/DA PSP/NP original/AQ és/VS l'/DA embolcall/NC (/FF amb/SP petites/AQ modificacions/NC per/SP a/SP evitar/VM les/DA lleis/NC internacionals/AQ sobre/SP el/DA Copyright/NP )/FF ,/FF cosa/NC que/PR agreuja/VM més/RG les/DA possibles/AQ confusions/NC entre/SP ambdós/DI productes/NC ./FF
+Tot/PI i/CC aquesta/DD sèrie/NC d'/SP irregularitats/NC a/SP certes/DI botigues/NC de/SP el/DA Japó/NP es/P0 ven/VM de/SP forma/NC legal/AQ ./FF
+Existeix/VM una/DI versió/NC més/RG avançada/NC de/SP la/DA POP_Station/NP que/PR incorpora/VM ràdio/NC FM/NP i/CC vint/ZZ jocs/NC pre-instal·lats/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Video/NP on/PR es/P0 pot/VM observar/VM la/DA POP_Station/NP en/SP funcionament/NC i/CC les/DA seves/PX caractrístiques/NC tècniques/AQ ./FF ;/FF Imatges/NP ./FF ;/FF
+Ewing/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Ewing/NP va/VA competir/VM a/SP 2/ZZ curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ la/DA temporada/NC 1950/ZZ i/CC la/DA 1960/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Phillips/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Phillips/NP va/VA competir/VM a/SP 7/ZZ curses/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ ,/FF de/SP la/DA temporada/NC 1954/ZZ a/SP la/DA 1960/ZZ ,/FF disputant/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ./FF
+Fora/RG d'/SP aquesta/DD cursa/NC no/RN va/VA tornar/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Resum/NC a/SP la/DA F1/ZZ ./FF
+Curses/NP :/FF 7/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Podiums/NP :/FF 2/ZZ ;/FF Punts/NP :/FF 7/ZZ ;/FF
+El/DA Nevà/NP (/FF en/SP rus/NC )/FF és/VS un/DI riu/NC de/SP Rússia/NP ,/FF de/SP 74_km/ZZ de/SP longitud/NC ,/FF que/PR va/VA des_de/SP el/DA llac/NC Làdoga/NP (/FF ,/FF Làdojskoie_Ózero/NP )/FF i/CC ,/FF després/RG de/SP passar/VM per/SP l'/DA itsme/NC de/SP Carèlia/NP (/FF ,/FF Karelski_Pereixèiek/NP )/FF i/CC la/DA ciutat/NC de/SP Sant_Petersburg/NP (/FF -/FF ,/FF Sankt_Peterburg/NP )/FF ,/FF desemboca/VM a/SP el/DA golf/NC de/SP Finlàndia/NP (/FF ,/FF Finski_Zaliv/NP )/FF ./FF
+A/SP l'/DA edat_mitjana/NC ,/FF el/DA riu/NC tenia/VM una/DI gran/AQ importància/NC ,/FF ja_que/CS en/SP ser/VS ample/AQ i/CC navegable/AQ constituïa/VM un/DI canal/NC de/SP comunicació/NC entre/SP el/DA mar/NC Bàltic/NP i/CC el/DA Volga/NP ,/FF cap/NC a/SP l'/DA orient/NC ./FF
+Va/VA ser/VS l'/DA escenari/NC de/SP la/DA Batalla_de_el_Nevà/NP (/FF 1240/ZZ )/FF ./FF
+Durant/SP el/DA segle_XVI/WW ,/FF la/DA desembocadura/NC de/SP el/DA Nevà/NP va/VA albergar/VM la/DA fortalesa/NC sueca/AQ de/SP Nyen/NP ,/FF i/CC un/DI entrant/NC de/SP terra/NC a/SP el/DA Làdoga/NP ,/FF la/DA fortalesa/NC russa/AQ d'/SP Orèixek/NP ,/FF després/RG anomenada/NC Schlüsselburg/NP ,/FF que/PR més/RG tard/RG canviaria/VM el/DA nom/NC per/SP el/DA de/SP Fortalesa_de_Sant_Pere/NP i/CC Sant_Pau/NP (/FF ,/FF Petropàvlovskaia_Krèpost/NP )/FF ,/FF el/DA 1703/ZZ ./FF
+Situada/VM a/SP l'/DA illa/NC de/SP la/DA Llebre/NP (/FF ,/FF Zaitxi_Óstrov/NP )/FF ,/FF actualment/RG la/DA fortalesa/NC es/P0 considera/VM la/DA primera/AO estructura/NC de/SP el/DA Sant_Petersburg/NP de/SP els/DA nostres/PX dies/NC ./FF
+El/DA clergue/NC rus/AQ Grigori_Rasputín/NP es/P0 va/VA ofegar/VM en/SP aquest/DD riu/NC el/DA 1916/ZZ ./FF
+L_Àrea_Metropolitana_de_València/NP es/P0 troba/VM en/SP la/DA costa/NC central/AQ de/SP el/DA País_Valencià/NP ,/FF a/SP l/NC entorn/NC de/SP la/DA seua/PX ciutat/NC principal/AQ :/FF València/NP ./FF
+Es/P0 tracta/VM de/SP la/DA primera/AO aglomeració/NC en/SP nombre/NC d'/SP habitants/NC de/SP el/DA País_Valencià/NP ./FF
+Com/CS en/SP tot/DI càlcul/NC d'/SP àrees/NC metropolitanes/AQ ,/FF les/DA dades/NC varien/VM segons/SP les/DA fonts/NC ./FF
+Segons/SP la/DA Wikipedia/NP en/SP anglès/NC ,/FF amb/SP 1.374.294/ZZ habitants/NC el/DA 2006/ZZ ocupava/VM el/DA lloc/NC 52é/ZZ en/SP el/DA rànquing/NC europeu/AQ ./FF
+Àrea/NC metropolitana/AQ ./FF
+Segons/SP l'/DA Entitat_de_Transport_Metropolità_de_València/NP l'/DA àrea/NC metropolitana/AQ de/SP València/NP està/VM constituïda/VM per/SP 59/ZZ municipis/NC que/PR es/P0 corresponen/VM amb/SP tots/DI els/DA de/SP la/DA comarca/NC de/SP la/DA Horta_de_València/NP ,/FF gran/AQ part/NC de/SP els/DA de/SP el/DA Camp_de_Túria/NP ,/FF tres/ZZ de/SP la/DA Ribera_Alta/NP ,/FF dos/ZZ de/SP la/DA Ribera_Baixa/NP i/CC un/DI de/SP el/DA Camp_de_Morvedre/NP ./FF
+Corones/NP de/SP l'/DA àrea/NC metropolitana/AQ ./FF
+Podem/VM diferenciar/VM tres/ZZ zones/NC :/FF El/DA nucli/NC urbà/AQ de/SP València/NP :/FF a/SP més/RG de/SP la/DA ciutat/NC sense/SP incloure/VM -hi/PP els/DA pobles/NC de/SP el/DA sud/NC (/FF Pinedo/NP ,/FF Castellar/NP i/CC l/NC Oliveral/NP ,/FF el/DA Forn/NP d/AQ Alcedo/NP ,/FF la/DA Torre/NP ,/FF Faitanar/NP ,/FF el/DA Saler/NP ,/FF el/DA Palmar/NP i/CC el/DA Perellonet/NP )/FF ,/FF nord/AQ (/FF Massarrojos/NP ,/FF el/DA Poblenou/NP ,/FF Benifaraig/NP ,/FF Borbotó/NP ,/FF Carpesa/NP i/CC les/DA Cases_de_Bàrcena/NP )/FF i/CC de/SP l/NC oest/NC (/FF Benimàmet/NP ,/FF Beniferri/NP )/FF -/FF ,/FF també/RG inclou/VM el/DA municipi/NC de/SP Mislata/NP i/CC una/DI part/NC de/SP els/DA termes/NC de/SP Alboraia/NP (/FF la/DA platja/NC )/FF i/CC Xirivella/NP (/FF barri/NC de/SP la/DA Llum/NP )/FF totalment/RG conurbats/NC amb/SP ella/PP ./FF
+Es/P0 troba/VM limitada/VM per/SP el/DA nou/A

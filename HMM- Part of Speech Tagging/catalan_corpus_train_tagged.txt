@@ -9563,4 +9563,120 @@ Referències/NP ./FF
 Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
 Arthroleptis/NP zimmeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
-Un/DI pol/NC geogràfic/AQ és/VS qualsevol/
+Un/DI pol/NC geogràfic/AQ és/VS qualsevol/PI de/SP els/DA dos/ZZ punts/NC fixes/AQ a/SP la/DA superfície/NC d'/SP un/DI cos/NC en/SP rotació/NC o/CC planeta/NC ,/FF a/SP noranta/ZZ graus/NC de/SP l'/DA equador/NC ,/FF basant/VM -se/P0 en/SP l'/DA eix/NC de/SP rotació/NC sobre/SP el/DA qual/DR gira/NC el/DA cos/NC ./FF
+Dins/SP l'/DA àmbit/NC de/SP la/DA cartografia/NC ,/FF els/DA pols/NC geogràfics/AQ serveixen/VM de/SP punt/NC de/SP mesura/NC absolut/AQ ./FF
+No/RN se/P0 'ls/PP ha/VA de/SP confondre/VM amb/SP els/DA pols/NC magnètics/AQ ,/FF que/PR també/RG poden/VM existir/VM en/SP un/DI planeta/NC ./FF
+A/SP la/DA Terra/NP ,/FF els/DA pols/NC geogràfics/AQ són/VS :/FF el/DA pol/NC nord/AQ ;/FF el/DA pol/NC sud/AQ ;/FF Vegeu/NP també/RG ./FF
+Regió/NC polar/AQ ;/FF
+Cardioglossa/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Arthroleptidae/NP que/PR es/P0 troba/VM a/SP l'/DA Àfrica_Occidental/NP i/CC central/AQ ./FF
+Espècies/NP ./FF
+Cardioglossa/NP aureoli/VM ;/FF Cardioglossa/NP cyaneospila/NC ;/FF Cardioglossa/NP elegans/NC ;/FF Cardioglossa/NP escalerae/AQ ;/FF Cardioglossa/NP gracilis/NC ;/FF Cardioglossa/NP gratiosa/AQ ;/FF Cardioglossa/NP leucomystax/NC ;/FF Cardioglossa/NP melanogaster/NC ;/FF Cardioglossa/NP nigromaculata/VM ;/FF Cardioglossa/NP oreas/NC ;/FF Cardioglossa/NP pulchra/NC ;/FF Cardioglossa/NP schioetzi/VM ;/FF Cardioglossa/NP trifasciata/AQ ;/FF Cardioglossa/NP venusta/AQ ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Cardioglossa/NP aureoli/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A._&_Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Cardioglossa/NP aureoli/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP cyaneospila/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burundi/NP ,/FF República_Democràtica_de_el_Congo/NP i/CC Rwanda/NP ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A._&_Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Cardioglossa/NP cyaneospila/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP elegans/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF Guinea_Equatorial/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
+Cardioglossa/NP elegans/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP escalerae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Guinea_Equatorial/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_de_el_Congo/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP escalerae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP gracilis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP ,/FF Nigèria/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_de_el_Congo/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
+Cardioglossa/NP gracilis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP gratiosa/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_Centreafricana/NP i/CC a/SP la/DA República_de_el_Congo/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A._&_Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Cardioglossa/NP gratiosa/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Un/DI corrent/NC oceànic/AQ (/FF o/CC corrent/NC marí/AQ )/FF és/VS una/DI massa/NC d'/SP aigua/NC marina/AQ en/SP moviment/NC respecte/NC a/SP l'/DA aigua/NC que/CS l'/DA envolta/AQ ;/FF les/DA masses/NC d'/SP aigua/NC tenen/VM diferents/DI densitat/NC ,/FF salinitat/NC i/CC temperatura/NC ./FF
+Hi/PP ha/VA diversos/DI tipus/NC de/SP corrents/NC oceànics/AQ ,/FF classificats/VM segons/SP diversos/DI criteris/NC :/FF procés/NC de/SP formació/NC (/FF corrents/NC de/SP gradient/NC ,/FF corrents/AQ de/SP deriva/NC )/FF ;/FF distància/NC a/SP el/DA fons/NC marí/AQ (/FF corrents/NC de/SP superfície/NC ,/FF de/SP profunditat/NC mitjana/AQ i/CC abissals/AQ )/FF ;/FF temperatura/NC mitjana/AQ interna/AQ ;/FF càlids/AQ :/FF corrents/NC superficials/AQ que/PR van/VM de/SP l'/DA equador/NC a/SP els/DA pols/NC ;/FF freds/NC :/FF corrents/NC superficials/AQ que/PR van/VM de/SP els/DA pols/NC a/SP l'/DA equador/NC ;/FF tipus/NC de/SP flux/NC ;/FF horitzontals/NC :/FF corrents/NC que/PR es/P0 mouen/VM en_paral·lel/RG a/SP la/DA superfície/NC ;/FF verticals/NC :/FF corrents/NC que/PR es/P0 mouen/VM en/SP perpendicular/NC a/SP la/DA superfície/NC ;/FF Els/NP corrents/AQ que/PR van/VM de/SP l'/DA equador/NC a/SP els/DA pols/NC també/RG porten/VM aire/NC càlid/AQ ,/FF com/CS el/DA corrent/NC de/SP el/DA Golf/NP ./FF
+Els/DA corrents/NC que/PR van/VM de/SP els/DA pols/NC a/SP l'/DA equador/NC refreden/VM la/DA zona/NC intertropical/AQ ./FF
+Aquest/DD tipus/NC de/SP corrents/NC ,/FF l'/DA origen/NC de/SP els/DA quals/PR és/VS essencialment/RG termohalí/AQ (/FF diferències/NC de/SP temperatura/NC i/CC salinitat/NC de/SP les/DA masses/NC d'/SP aigua/NC )/FF no/RN s'/P0 ha/VA de/SP confonde/NC amb/SP els/DA corrents/NC costaners/AQ ,/FF que/PR tenen/VM el/DA seu/PX origen/NC principalment/RG en/SP el/DA ventmoviment/NC de/SP les/DA onades/NC ./FF
+Cardioglossa/NP leucomystax/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_de_el_Congo/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Costa_d'_Ivori/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Libèria/NP ,/FF Nigèria/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Angola/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A./NP ,/FF Amiet/NP ,/FF J./NP -/FF L./NP ,/FF Burger/NP ,/FF M._&_Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Cardioglossa/NP leucomystax/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP melanogaster/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP melanogaster/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP nigromaculata/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP nigromaculata/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP oreas/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP oreas/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP pulchra/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A._&_Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Cardioglossa/NP pulchra/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+En/SP les/DA ciències/NC atmosfèriques/AQ (/FF meteorologia/NC ,/FF climatologia/NC i/CC altres/DI camps/NC relacionats/VM )/FF ,/FF el/DA gradient/NC tèrmic/AQ (/FF habitualment/RG de/SP l'/DA atmosfera/NC terrestre/AQ ,/FF més/RG en_general/RG de/SP qualsevol/DI fluid/NC )/FF és/VS una/DI quantitat/NC física/AQ que/PR descriu/VM en/SP quina/DT direcció/NC i/CC a/SP qui/PT ritme/VM canvia/VM més/RG ràpidament/RG la/DA temperatura/NC a/SP els/DA voltants/NC d'/SP un/DI punt/NC determinat/VM ./FF
+El/DA gradient/NC tèrmic/AQ és/VS una/DI quantitat/NC dimensional/AQ que/PR s'/P0 expressa/VM en/SP unitats/NC de/SP graus/NC (/FF en/SP una/DI escala/NC de/SP temperatura/NC )/FF per/SP unitat/NC de/SP distància/NC ./FF
+La/DA unitat/NC de/SP el/DA SI/NP és/VS kelvins/NC per/SP metre/NC (/FF K/NP //FF m/NC )/FF ./FF
+Cardioglossa/NP schioetzi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP schioetzi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP trifasciata/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Cardioglossa/NP trifasciata/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cardioglossa/NP venusta/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Schiøtz/NP ,/FF A._&_Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Cardioglossa/NP venusta/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+En/SP informàtica/NC un/DI port/NC sèrie/NC ,/FF és/VS un/DI tipus/NC de/SP maquinari/NC de/SP comunicació/NC sèrie/NC que/PR permet/VM la/DA transmissió/NC o/CC la/DA recepció/NC de/SP bits/NC un/DI darrera/AO de/SP l'/DA altre/PI ./FF
+Aquest/DD tipus/NC de/SP port/NC acostumava/VM a/SP ser/VS a/SP la/DA part/NC de/SP el/DA darrere_de/SP els/DA ordinadors/NC ./FF
+La/DA seva/PX forma/NC exterior/AQ és/VS la/DA d'/SP un/DI connector/NC amb/SP 9/ZZ (/FF DE/SP -/FF 9/ZZ )/FF o/CC 25/ZZ (/FF DB-25/ZZ )/FF contactes/NC ./FF
+Alguns/DI sistemes/NC operatius/AQ detecten/VM aquests/DD ports/NC com/CS a/SP COM1/ZZ ,/FF COM2/ZZ ,/FF COM3/ZZ ,/FF etc./FF Aquest/DD tipus/NC de/SP port/NC acostuma/VM a/SP utilitzar/VM -se/P0 per/SP a/SP la/DA configuració/NC de/SP enrutadors/NC ,/FF commutadors/NC ,/FF etc./FF La/DA seva/PX velocitat/NC de/SP transferència/NC de/SP dades/NC no/RN supera/VM els/DA 20/ZZ kbps/RG Atès/NP que/CS hi/PP ha/VA d'/SP altres/DI tipus/NC de/SP maquinari/NC que/PR transmet/VM dades/NC de/SP manera/NC seriada/VM com/CS Ethernet/NP ,/FF FireWire/NP o/CC USB/NP ,/FF el/DA terme/NC port/NC sèrie/NC acostuma/VM a/SP identificar/VM el/DA maquinari/NC que/PR segueix/VM l'/DA estàndard/NC RS-232/ZZ ./FF
+Astylosternus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Astylosternidae/NP ./FF
+Espècies/NP ./FF
+Astylosternus/NP batesi/NC ;/FF Astylosternus/NP diadematus/NC ;/FF Astylosternus/NP fallax/NC ;/FF Astylosternus/NP laurenti/VM ;/FF Astylosternus/NP montanus/NC ;/FF Astylosternus/NP nganhanus/NC ;/FF Astylosternus/NP occidentalis/NC ;/FF Astylosternus/NP perreti/VM ;/FF Astylosternus/NP ranoides/AQ ;/FF Astylosternus/NP rheophilus/NC ;/FF Astylosternus/NP schioetzi/VM ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Astylosternus/NP batesi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_de_el_Congo/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Guinea_Equatorial/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+AmphibiaWeb/NP ;/FF
+Palaeotis/NP és/VS un/DI gènere/NC extingit/VM d'/SP ocell/NC paleògnat/VM que/CS visqué/VM durant/SP l'/DA Eocè/NP ./FF
+a/SP el/DA principi/NC es/P0 va/VA pensar/VM que/CS era/VS una/DI avutarda/NC ,/FF i/CC d'/SP aquí/RG ve/VM el/DA seu/PX nom/NC (/FF Palaeotis/NP significa/VM avutarda/NC antiga/AQ )/FF ./FF
+Actualment/RG es/P0 creu/VM que/CS és/VS un/DI parent/NC de/SP l'/DA estruç/NC i/CC se/P0 l'/PP ha/VA classificat/VM a/SP la/DA mateixa/DI família/NC ./FF
+Altres/DI científics/NC el/PP classifiquen/VM com/CS a/SP un/DI estrutioniforme/NC més/RG basal/AQ ./FF
+Potser/RG està/VM relacionat/VM amb/SP el/DA misteriós/AQ Remiornis/NP ,/FF un/DI possible/AQ estrutioniforme/NC de/SP l'/DA Eocè/NP francès/

@@ -9952,4 +9952,129 @@ Phrynobatrachus/NP alleni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR v
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
 Referències/NP ./FF
 Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
-Phrynobatrachu
+Phrynobatrachus/NP alleni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Gastornis/NP és/VS un/DI gènere/NC extingit/VM d'/SP au/NC no/RN voladora/AQ que/PR existí/VM durant/SP el/DA Thanetià/NP i/CC l'/DA Eocè/NP a/SP Europa/NP ./FF
+Probablement/RG era/VS el/DA predador/NC més/RG important/AQ de/SP el/DA seu/PX hàbitat/NC ./FF
+Phrynobatrachus/NP annulatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Ghana/NP ,/FF Guinea/NP i/CC Libèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP annulatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP asper/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R._&_Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP asper/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Formicium/NP és/VS un/DI gènere/NC fòssil/AQ de/SP formiga/NC ./FF
+Se/P0 n'/PP ha/VA trobat/VM fòssils/AQ a/SP el/DA jaciment/NC de/SP Messel/NP (/FF Alemanya/NP )/FF ./FF
+Phrynobatrachus/NP auritus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_de_el_Congo/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP ,/FF Nigèria/NP ,/FF Rwanda/NP ,/FF Uganda/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Angola/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP ,/FF Burger/NP ,/FF M._&_Howell/NP ,/FF K./NP 2004/ZZ ./FF
+Phrynobatrachus/NP auritus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Daniel_Sánchez_Gálvez/NP ,/FF conegut/VM habitualment/RG com/CS Dani_Sánchez/NP ,/FF és/VS un/DI jugador/NC professional/AQ català/AQ de/SP billar/NC ,/FF principalment/RG en/SP la/DA modalitat/NC de/SP billar/NC a/SP tres/ZZ bandes/NC ./FF
+Va/VA néixer/VM el/DA 3_de_març_de_1974/WW a/SP Santa_Coloma_de_Gramenet/NP ./FF
+Els/DA seu/PX primer/AO gran/AQ èxit/NC internacional/AQ fou/VS el/DA 1996/ZZ quan/PR acabà/VM segon/NC de/SP el/DA Campionat/NP de/SP el/DA món/NC de/SP billar/NC a/SP tres/ZZ bandes/NC darrera/AO de/SP Christian_Rudolph/NP ./FF
+Dos/VM anys/NC més/RG tard/RG aconseguí/VM el/DA seu/PX primer/AO títol/NC mundial/AQ derrotant/VM el/DA 15/ZZ cops/NC campió/NC mundial/AQ Torbjörn_Blomdahl/NP ./FF
+Repetí/VM campionat/NC el/DA 2005/ZZ contra/SP Jean_Paul_de_Bruijn/NP ./FF
+També/RG ha/VA estat/VM dos/ZZ cops/NC campió/NC d'/SP Europa/NP el/DA 1997/ZZ el/DA 2000/ZZ entre/SP molts/PI d'/SP altres/DI títols/NC arreu/RG de/SP el/DA món/NC ./FF
+El/DA seu/PX rècord/NC per/SP el/DA que/PR fa/VM a/SP caramboles/NC és/VS de/SP 15/ZZ ,/FF i/CC la/DA seva/PX millor/AQ mitjana/NC en/SP un/DI partit/NC és/VS 5/ZZ (/FF 50/ZZ caramboles/NC en/SP 10/ZZ entrades/NC )/FF ./FF
+Com/CS a/SP curiositat/NC cal/VM esmentar/VM que/PR acostuma/VM a/SP vestir/VM de/SP vermell/NC ./FF
+Cada/DI any/NC acostuma/VM a/SP participar/VM a/SP el/DA programa/NC de/SP Nadal/NP de/SP TV3/ZZ Nadal/NP a/SP tres/ZZ bandes/NC ./FF
+Palmarès/NP ./FF
+2/ZZ Campionat_de_el_Món/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF 1998/ZZ ,/FF 2005/ZZ ./FF
+1/ZZ Copa_de_el_Món/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF 2004/05/ZZ ./FF
+Campió/NP de/SP moltes/DI proves/NC de/SP la/DA Copa_de_el_Món/NP ;/FF 2/ZZ Supercopa_de_el_Món/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF Anvers/NP 2004/05/ZZ ,/FF Anvers/NP 2005/06/ZZ ./FF
+2/ZZ medalles/NC d'/SP or/NC a/SP els/DA Jocs_Mundials/NP :/FF Akita/NP 2001/02/ZZ ,/FF Duisburg/NP 2005/06/ZZ ./FF
+2/ZZ Campionat_d'_Europa/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF 1997/ZZ ,/FF 2000/ZZ ./FF
+2/ZZ Campionat_d'_Europa_Júnior/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF Barcelona/NP 1991/92/ZZ ,/FF Budapest/NP 1994/95/ZZ ./FF
+2/ZZ Campionat_Iberoamericà/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF Porto/NP ,/FF Madrid/NP ./FF
+3/ZZ cops/NC Millor_Jugador/NP de/SP l'/DA any/NC de/SP el/DA circuit/NC internacional/AQ (/FF Anvers/NP ,/FF Bèlgica/NP )/FF :/FF 2004/ZZ ,/FF 2005/ZZ ,/FF 2006/ZZ ./FF
+10/ZZ Campionat_d'_Espanya/NP de/SP billar/NC a/SP tres/ZZ bandes/NC :/FF 1994/95/ZZ ,/FF 1997/98/ZZ ,/FF 1998/99/ZZ ,/FF 1999/00/ZZ ,/FF 2000/01/ZZ ,/FF 2001/02/ZZ ,/FF 2002/03/ZZ ,/FF 2003/04/ZZ ,/FF 2004/05/ZZ ,/FF 2006/07/ZZ ;/FF 1/ZZ Campionat_d'_Espanya/NP de/SP biatló/NC ;/FF 9/ZZ Campionat_d'_Espanya/NP de/SP billar/NC junior/AQ en/SP les/DA modalitats/NC a/SP tres/ZZ bandes/NC (/FF 3/ZZ )/FF ,/FF lliure/AQ (/FF 3/ZZ )/FF i/CC quadre/NC 47/2/ZZ (/FF 3/ZZ )/FF ./FF
+II_Trofeu_Fallas_de_València/NP ./FF ;/FF IV/NP ,/FF V/NP i/CC VI_Trofeu/NP memorial/NC "/FF Antonio_Córdoba/NP "/FF de/SP Barcelona/NP ./FF ;/FF I/NP i/CC II_Trofeu/NP "/FF Pedro_Nadal/NP "/FF de/SP Palma_de_Mallorca/NP ./FF ;/FF XI/NP i/CC XII_Trofeu/NP "/FF Taco/VM de/SP Oro/NP "/FF de/SP Palma_de_Mallorca/NP ./FF ;/FF I/NP ,/FF II/NP ,/FF III/NP ,/FF IV/NP ,/FF VII/NP ,/FF X/NP ,/FF XI/NP ,/FF XII/NP i/CC XIII_Trofeu/NP "/FF Príncipe_de_Asturias/NP "/FF ./FF ;/FF I/NP ,/FF IV/NP ,/FF VI/NP ,/FF VII/NP ,/FF VIII/NP i/CC X_Trofeu_Ciutat_de_Barcelona/NP ./FF ;/FF VII/NP ,/FF XI/NP ,/FF XII/NP i/CC XIII/NP "/FF Copa_Presidente_de_el_Gobierno/NP "/FF ./FF ;/FF I_Torneig_Diputació_de_Barcelona/NP ./FF ;/FF I_Torneig_Diputació_de_Girona/NP ./FF ;/FF I_Torneig_Diputació_de_Lleida/NP ./FF ;/FF I/NP i/CC II_Trofeu/NP "/FF Muralla_de_Lugo/NP "/FF ./FF ;/FF I_Trofeu_Ciudad_de_Canarias/NP ./FF ;/FF I_Trofeu_Ciudad_de_Écija/NP ./FF ;/FF Enllaços/NP externs/AQ ./FF
+Web/NP oficial/AQ de/SP Dani_Sánchez/NP ;/FF
+Phrynobatrachus/NP batesii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF Gabon/NP ,/FF Ghana/NP ,/FF Nigèria/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Guinea_Equatorial/NP i/CC Togo/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Phrynobatrachus/NP bequaerti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burundi/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Rwanda/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Uganda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Phrynobatrachus/NP bequaerti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP brevipalmatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Angola/NP ./FF
+Referències/NP ./FF
+Channing/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP brevipalmatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP bullans/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Tanzània/NP ./FF
+Referències/NP ./FF
+Moyer/NP ,/FF D./NP ,/FF Channing/NP ,/FF A._&_Howell/NP ,/FF K./NP 2004/ZZ ./FF
+Phrynobatrachus/NP bullans/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP calcaratus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF Costa_d'_Ivori/NP ,/FF Guinea_Equatorial/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Libèria/NP ,/FF Nigèria/NP ,/FF Senegal/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Gàmbia/NP ,/FF Guinea_Bissau/NP ,/FF Mali/NP ,/FF Sierra_Leone/NP i/CC Togo/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Phrynobatrachus/NP calcaratus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP congicus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Channing/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP congicus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP cornutus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_de_el_Congo/NP ,/FF Guinea_Equatorial/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP cornutus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP cricogaster/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Gartshore/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP cricogaster/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP cryptotis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Poynton/NP ,/FF J.C./NP 2004/ZZ ./FF
+Phrynobatrachus/NP cryptotis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP dalcqi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Phrynobatrachus/NP dalcqi/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP dendrobates/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ,/FF Uganda/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Tanzània/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R._&_Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP dendrobates/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Marimar_Estate/NP és/VS un/DI celler/NC situat/VM en/SP el/DA comtat/NC de/SP Sonoma/NP (/FF Califòrnia/NP )/FF ,/FF propietat/NC de/SP Marimar_Torres/NP ,/FF germana/NC de/SP Miguel_A._Torres_Riera/NP ,/FF President_de_Bodegas_Torres/NP ./FF
+a/SP el/DA 1986/ZZ Marimar_Torres/NP va/VA empendre/VM el/DA projecte/NC de/SP plantar/VM una/DI vinya/NC de/SP 24/ZZ Ha/NP en/SP els/DA pujols/NC occidentals/AQ de/SP la/DA Denominació_Russian_River_Valley/NP ,/FF a/SP Green_Valley/NP ,/FF Comtat_de_Sonoma/NP ,/FF molt/RG a_la_vora_de/SP el/DA Pacífic/NP :/FF un/DI microclima/NC fred/AQ i/CC ideal/AQ per/SP el/DA Chardonnay/NP i/CC el/DA Pinot_Noir/NP ./FF
+La/DA vinya/NC porta/VM el/DA nom/NC Don_Miguel/NP ,/FF en/SP honor/NC a/SP el/DA seu/PX pare/NC ,/FF Miquel_Torres/NP i/CC Carbó/NP ,/FF artífex/NC de/SP l/NC expansió/NC de/SP Torres/NP a/SP el/DA món/NC ./FF
+La/DA vinya/NC té/VM 24_ha/ZZ ,/FF de/SP les/DA quals/PR 12/ZZ estan/VM plantades/NC amb/SP Chardonnnay/NP i/CC 14/ZZ amb/SP Pinot_Noir/NP ./FF
+La/DA vinya/NC "/FF Doña_Margarita/NP "/FF ,/FF anomenada/NC així/RG en/SP honor/NC a/SP la/DA mare/NC de/SP Marimar/NP ,/FF es/P0 va/VA plantar/VM a/SP el/DA 2002/ZZ i/CC domina/VM la/DA Vall_de_Freestone/NP ,/FF a/SP la/DA denominació/NC Sonoma_Coast/NP ./FF
+Encara/RG que/CS la/DA propietat/NC té/VM 72_hectàrees/ZZ ,/FF només/RG vuit/ZZ d/NC elles/PP estan/VM dedicades/VM a/SP la/DA vinya/NC i/CC plantades/NC amb/SP Pinot_Noir/NP ./FF
+Gran/AQ part/NC de/SP la/DA finca/NC es/P0 manté/VM intocable/AQ i/CC és/VS lloc/NC d/AQ abundant/VM fauna/NC silvestre/AQ i/CC flora/NC indígena/AQ ./FF
+La/DA vinya/NC de/SP Sonoma/NP s/NC han/VA reproduït/VM experiències/NC ancestrals/AQ de/SP la/DA viticultura/NC mediterrània/AQ ,/FF com/CS la/DA conducció/NC vertical/AQ de/SP vinyes/NC ,/FF l/NC elecció/NC de/SP porta-empelts/NC més/RG resistents/AQ a/SP la/DA fil·loxera/NC o/CC un_marc/ZZ de/SP plantació/NC de/SP 2mx1m/ZZ (/FF 5.000/ZZ ceps/NC per/SP hectàrea/NC )/FF ./FF
+En/SP totes/DI dues/ZZ vinyes/NC es/P0 cultiva/VM orgànicament/RG des_de/SP el/DA 2003/ZZ ./FF
+El/DA celler/NC ,/FF amb/SP capacitat/NC per/SP 15.000/ZZ caixes/NC ,/FF està/VM situat/VM a/SP dalt/NC d/AQ un/DI pujol/NC enmig_de/SP la/DA vinya/NC ./FF
+Els/DA vins/NC Marimar_Estate/NP s/NC exporten/VM a/SP més/RG de/SP 40/ZZ països/NC ,/FF principalment/RG Suècia/NP ,/FF Espanya/NP ,/FF Regne_Unit/NP ,/FF Canadà/NP ,/FF Japó/NP ,/FF Islàndia/NP ,/FF entre/SP altres/PI ./FF
+Referèncias/NP ./FF
+Artícle/NP de/SP el/DA diario/NC El_Mundo/NP ./FF
+Magazine/NP ./FF "/FF La/DA española/NC que/PR triunfa/VM en/SP California/NP "/FF ./FF nº425/ZZ ./FF
+Diumenge_18_de_Novembre_del_2007/WW ;/FF Revista/NP todo/NC vino/NC ./FF com/CS ./FF
+Marimar_Torres/NP :/FF "/FF Soy/NP la/PP prueba/VM más/RG clara/AQ de/SP què/PT se/P0 puede/NC sobrevivir/VM si/CS Parker/NP "/FF ./FF
+Setembre_del_2007/WW ;/FF Revista/NP ask/NC !/FF ?/FF comer/RG &/FF beber/VM ./FF
+Marimar_Torres/NP ,/FF seducida/AQ por/NC California/NP ./FF
+Desembre_del_2006/WW ;/FF Mauricio_Wiesenthal/NP ./FF
+Salvat/SP Editores/NP ,/FF 2001/ZZ ./FF
+ISBN/NP :/FF 84-345-0932-6/ZZ ;/FF Artícle_La_Vanguardia/NP :/FF Torres/NP juega/VM fuerte/NC en/SP California/NP ./FF
+Fecha/NP :/FF 1/01/2003/WW ;/FF Enllaços/NP externs/AQ ./FF
+web/NC Marimar_Estate/NP ;/FF web/NC de/SP Bodegas_Torres/NP ;/FF web/NC Miguel_Torres_Xile/NP ;/FF
+C

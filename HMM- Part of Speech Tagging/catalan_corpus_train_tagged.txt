@@ -9833,4 +9833,123 @@ Referències/NP ./FF
 Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
 Leptodactylodon/NP boulengeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
-Aleksandr_Vassílievitx_Samsónov/NP (/FF rus/NC :/FF )/FF (/FF 2_de_novembre_de_1859/WW 29_d'_agost_de_1914/WW )/FF fou/VS un/DI militar/AQ rus/NC ,/FF general/AQ durant/SP la/DA
+Aleksandr_Vassílievitx_Samsónov/NP (/FF rus/NC :/FF )/FF (/FF 2_de_novembre_de_1859/WW 29_d'_agost_de_1914/WW )/FF fou/VS un/DI militar/AQ rus/NC ,/FF general/AQ durant/SP la/DA Primera_Guerra_Mundial/NP ./FF
+Després/RG de/SP participar/VM en/SP la/DA Guerra_Russoturca/NP ,/FF en/SP la/DA revolta/NC de/SP els/DA bòxers/NC i/CC en/SP la/DA Guerra_Russojaponesa/NP ,/FF adquirí/VM un/DI notable/AQ prestigi/NC ,/FF malgrat/SP les/DA desavinences/NC amb/SP altres/DI oficials/NC de/SP l'/DA exèrcit/NC ,/FF especialment/RG amb/SP Paul/NP von/VM Rennenkampf/NP ./FF
+En/SP esclatar/VM la/DA Primera_Guerra_Mundial/NP ,/FF Samsónov/NP rebé/VM el/DA comandament/NC de/SP el/DA segon/AO exèrcit/NC ,/FF encarregat/NC de/SP penetrar/VM a/SP Prússia_Oriental/NP per/SP l'/DA extrem/AQ sud-oest/NC i/CC trobar/VM -se/P0 amb/SP les/DA forces/NC de/SP Paul/NP von/VM Rennenkampf/NP ,/FF que/PR penetrarien/VM per/SP el/DA nord-est/NC ./FF
+Tot/PI i/CC la/DA manca/NC de/SP coordinació/NC entre/SP els/DA dos/ZZ generals/AQ les/DA operacions/NC començaren/VM amb/SP un/DI cert/AQ èxit/NC ./FF
+Poc/RG després/RG ,/FF però/RG ,/FF es/P0 trobà/VM envoltat/VM per/SP les/DA forces/NC alemanyes/AQ ,/FF que/PR interceptaven/VM fàcilment/RG les/DA comunicacions/NC russes/AQ ./FF
+Incapaç/NP de/SP poder/VM retirar/VM -se/P0 ,/FF el/DA seu/PX exèrcit/NC quedà/VM totalment/RG tancat/NC i/CC la/DA batalla/NC que/PR se/P0 'n/PP seguí/VM ,/FF la/DA batalla/NC de/SP Tannenberg/NP ,/FF fou/VS un/DI desastre/NC per/SP a/SP les/DA tropes/NC russes/AQ ./FF
+Davant/RG de/SP la/DA tragèdia/NC ,/FF Samsónov/NP se/P0 suicidà/NC d'/SP un/DI tret/NC a/SP el/DA cap/NC a_prop/RG de/SP Willenberg/NP ,/FF el/DA 29/ZZ o/CC el/DA 30_d'_agost_de_1914/WW ./FF
+Leptodactylodon/NP bueanus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP bueanus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP erythrogaster/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP erythrogaster/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP mertensi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP mertensi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP ornatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP ornatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP ovatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP ovatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP perreti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP perreti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP polyacanthus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP polyacanthus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP stevarti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Guinea_Equatorial/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Leptodactylodon/NP stevarti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP ventrimarmoratus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP ventrimarmoratus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Leptodactylodon/NP wildi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Leptodactylodon/NP wildi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Els/DA petropedètids/NC (/FF Petropedetidae/NP )/FF són/VS una/DI família/NC de/SP granotes/NC de/SP l'/DA ordre/NC de/SP els/DA anurs/NC ./FF
+Gèneres/NP ./FF
+Anhydrophryne/NP ;/FF Arthroleptella/NP ;/FF Arthroleptides/NP ;/FF Cacosternum/NP ;/FF Dimorphognathus/NP ;/FF Ericabatrachus/NP ;/FF Microbatrachella/NP ;/FF Natalobatrachus/NP ;/FF Nothophryne/NP ;/FF Petropedetes/NP ;/FF Phrynobatrachus/NP ;/FF Phrynodon/NP ;/FF Poyntonia/NP ;/FF Referències/NP ./FF
+Informació/NP d'/SP aquesta/DD família/NC de/SP granotes/NC ./FF ;/FF
+Phrynobatrachus/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Petropedetidae/NP ./FF
+Espècies/NP ./FF
+Phrynobatrachus/NP accraensis/NC ;/FF Phrynobatrachus/NP acridoides/AQ ;/FF Phrynobatrachus/NP acutirostris/NC ;/FF Phrynobatrachus/NP albolabris/NC ;/FF Phrynobatrachus/NP albomarginatus/NC ;/FF Phrynobatrachus/NP alleni/NC ;/FF Phrynobatrachus/NP annulatus/NC ;/FF Phrynobatrachus/NP asper/AQ ;/FF Phrynobatrachus/NP auritus/NC ;/FF Phrynobatrachus/NP batesii/NC ;/FF Phrynobatrachus/NP bequaerti/VM ;/FF Phrynobatrachus/NP brevipalmatus/NC ;/FF Phrynobatrachus/NP bullans/NC ;/FF Phrynobatrachus/NP calcaratus/NC ;/FF Phrynobatrachus/NP congicus/NC ;/FF Phrynobatrachus/NP cornutus/NC ;/FF Phrynobatrachus/NP cricogaster/NC ;/FF Phrynobatrachus/NP cryptotis/NC ;/FF Phrynobatrachus/NP dalcqi/NC ;/FF Phrynobatrachus/NP dendrobates/NC ;/FF Phrynobatrachus/NP dispar/AQ ;/FF Phrynobatrachus/NP elberti/VM ;/FF Phrynobatrachus/NP francisci/NC ;/FF Phrynobatrachus/NP fraterculus/NC ;/FF Phrynobatrachus/NP gastoni/NC ;/FF Phrynobatrachus/NP ghanensis/NC ;/FF Phrynobatrachus/NP giorgii/NC ;/FF Phrynobatrachus/NP graueri/NC ;/FF Phrynobatrachus/NP guineensis/NC ;/FF Phrynobatrachus/NP gutturosus/NC ;/FF Phrynobatrachus/NP hylaios/AQ ;/FF Phrynobatrachus/NP inexpectatus/NC ;/FF Phrynobatrachus/NP irangi/NC ;/FF Phrynobatrachus/NP keniensis/NC ;/FF Phrynobatrachus/NP kinangopensis/NC ;/FF Phrynobatrachus/NP krefftii/NC ;/FF Phrynobatrachus/NP liberiensis/NC ;/FF Phrynobatrachus/NP mababiensis/NC ;/FF Phrynobatrachus/NP manengoubensis/NC ;/FF Phrynobatrachus/NP minutus/NC ;/FF Phrynobatrachus/NP nanus/NC ;/FF Phrynobatrachus/NP natalensis/NC ;/FF Phrynobatrachus/NP ogoensis/NC ;/FF Phrynobatrachus/NP pakenhami/NC ;/FF Phrynobatrachus/NP parkeri/NC ;/FF Phrynobatrachus/NP parvulus/NC ;/FF Phrynobatrachus/NP perpalmatus/NC ;/FF Phrynobatrachus/NP phyllophilus/NC ;/FF Phrynobatrachus/NP plicatus/NC ;/FF Phrynobatrachus/NP pygmaeus/NC ;/FF Phrynobatrachus/NP rouxi/VM ;/FF Phrynobatrachus/NP rungwensis/NC ;/FF Phrynobatrachus/NP scapularis/AQ ;/FF Phrynobatrachus/NP steindachneri/NC ;/FF Phrynobatrachus/NP sternfeldi/NC ;/FF Phrynobatrachus/NP stewartae/AQ ;/FF Phrynobatrachus/NP sulfureogularis/AQ ;/FF Phrynobatrachus/NP taiensis/NC ;/FF Phrynobatrachus/NP tokba/VM ;/FF Phrynobatrachus/NP ukingensis/NC ;/FF Phrynobatrachus/NP uzungwensis/NC ;/FF Phrynobatrachus/NP versicolor/AQ ;/FF Phrynobatrachus/NP villiersi/NC ;/FF Phrynobatrachus/NP vogti/NC ;/FF Phrynobatrachus/NP werneri/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Asiatosuchus/NP és/VS un/DI gènere/NC extingit/VM de/SP crocodilis/NC que/PR visqueren/VM durant/SP l'/DA Eocè/NP ./FF
+Entre/SP altres/DI llocs/NC ,/FF se/P0 n'/PP ha/VA trobat/VM fòssils/AQ a/SP el/DA jaciment/NC de/SP Messel/NP (/FF Alemanya/NP )/FF ./FF
+Phrynobatrachus/NP accraensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burkina_Faso/NP ,/FF Camerun/NP ,/FF Costa_d'_Ivori/NP ,/FF Gàmbia/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Libèria/NP ,/FF Mali/NP ,/FF Nigèria/NP ,/FF Senegal/NP ,/FF Sierra_Leone/NP ,/FF Togo/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/FF Guinea_Bissau/NP i/CC Níger/NP ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP accraensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP acridoides/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Kenya/NP ,/FF Malawi/NP ,/FF Moçambic/NP ,/FF Somàlia/NP ,/FF Sud-Àfrica/NP ,/FF Tanzània/NP ,/FF Zimbabue/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Swazilàndia/NP ,/FF Uganda/NP i/CC Zàmbia/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP ,/FF Channing/NP ,/FF A./NP ,/FF Poynton/NP ,/FF J.C./NP ,/FF Balletto/NP ,/FF E./NP ,/FF Howell/NP ,/FF K._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP acridoides/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP acutirostris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burundi/NP ,/FF República_Democràtica_de_el_Congo/NP i/CC Rwanda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Phrynobatrachus/NP acutirostris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+El/DA canal/NC de/SP Beagle/NP és/VS un/DI accident/NC geogràfic/AQ de/SP l'/DA extrem/NC sud/AQ de/SP el/DA continent/NC americà/AQ ,/FF situat/VM entre/SP els/DA meridians/NC 68º36/ZZ '/FF 38,5W/ZZ i/CC 66º25/ZZ '/FF 00W/ZZ ./FF
+La/DA seva/PX part/NC oriental/AQ constitueix/VM el/DA límit/NC internacional/AQ entre/SP Xile/NP i/CC Argentina/NP ,/FF però/CC la/DA seva/PX part/NC occidental/AQ és/VS de/SP Xile/NP ./FF
+Es/P0 tracta/VM d'/SP un/DI estret/NC separant/VM illes/NC de/SP l'/DA arxipèlag/NC de/SP la/DA Terra_de_el_Foc/NP ,/FF a/SP l'/DA extrem/NC sud/AQ d'/SP Amèrica_de_el_Sud/NP ./FF
+Separa/VM l'/DA Isla_Grande_de_Tierra_de_el_Fuego/NP de/SP diverses/DI petites/AQ illes/NC a/SP el/DA sud/NC ./FF
+La/DA seva/PX denominació/NC procedeix/VM de/SP el/DA bergantí/NC HMS_Beagle/NP patronat/NC per/SP Robert_Fitz_Roy/NP que/PR va/VA arribar/VM a/SP el/DA lloc/NC el/DA 1830/ZZ ./FF
+El/DA descobridor/NC de/SP el/DA canal/NC va/VA ser/VS el/DA tinent/NC M._Murray/NP de/SP la/DA mateixa/DI nau/NC ./FF
+El/DA canal/NC de/SP Beagle/NP mesura/VM aproximadament/RG 240_km/ZZ de/SP longitud/NC i/CC la/DA seva/PX amplada/NC mínima/AQ és/VS d'/SP aproximadament/RG 5/ZZ km./NC A/NP l'/DA oest/NC ,/FF enllaça/VM a/SP el/DA Pacífic/NP per/SP el/DA canal/NC de/SP Darwin/NP ./FF
+Encara/RG que/CS sigui/VS navegable/AQ per/SP grans/AQ vaixells/NC ,/FF existeix/VM altres/DI carreteres/NC més/RG segures/AQ a/SP el/DA sud/NC (/FF passatge/NC de/SP Drake/NP )/FF i/CC a/SP el/DA nord/NC (/FF estret/NC de/SP Magallanes/NP )/FF ./FF
+Algunes/DI petites/AQ illes/NC prop/RG de/SP la/DA seva/PX extremitat/NC oriental/AQ van/VA ser/VS molt/RG de/SP temps/NC l'/DA objecte/NC d'/SP una/DI discussió/NC territorial/AQ entre/SP Xile/NP i/CC Argentina/NP ./FF
+Segons/SP el/DA tractat/NC de/SP 1985/ZZ ,/FF signat/VM entre/SP els/DA dos/ZZ països/NC després/RG de/SP l'/DA arbitratge/NC de/SP el/DA papa/NC Joan_Pau_II/NP ,/FF formen_part/VM actualment/RG de/SP Xile/NP (/FF Lennox/NP ,/FF Picton/NP i/CC Nueva/NP )/FF ./FF
+Phrynobatrachus/NP albolabris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Ghana/NP ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Phrynobatrachus/NP albolabris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Lesmesodon/NP és/VS un/DI gènere/NC extingit/VM de/SP creodonts/NC que/PR visqueren/VM durant/SP l'/DA Eocè/NP ./FF
+Entre/SP altres/DI llocs/NC ,/FF se/P0 n'/PP ha/VA trobat/VM fòssils/AQ a/SP el/DA jaciment/NC de/SP Messel/NP (/FF Alemanya/NP )/FF ./FF
+Phrynobatrachus/NP albomarginatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP albomarginatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP alleni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Libèria/NP ,/FF Nigèria/NP i/CC Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachu

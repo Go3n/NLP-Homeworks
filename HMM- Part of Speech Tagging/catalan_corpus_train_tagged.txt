@@ -10823,4 +10823,194 @@ Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
 Phrynobatrachus/NP keniensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Kenya/NP i/CC Tanzània/NP ./FF
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
 Referències/NP ./FF
-Msuya/NP ,/FF C./NP ,/FF Howell/NP ,/FF K./NP ,/FF Pickersgill/NP ,/FF M./NP ,/FF Drewes/NP ,/FF R._&_Lötters/NP ,/FF S./NP 200
+Msuya/NP ,/FF C./NP ,/FF Howell/NP ,/FF K./NP ,/FF Pickersgill/NP ,/FF M./NP ,/FF Drewes/NP ,/FF R._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP keniensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP kinangopensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Kenya/NP ./FF
+Referències/NP ./FF
+Msuya/NP ,/FF C./NP ,/FF Howell/NP ,/FF K./NP ,/FF Lötters/NP ,/FF S./NP ,/FF Pickersgill/NP ,/FF M._&_Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Phrynobatrachus/NP kinangopensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Hariyama/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC lluita/NC i/CC evoluciona/VM de/SP Makuhita/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP krefftii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Tanzània/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Loader/NP ,/FF S./NP ,/FF Poynton/NP ,/FF J.C._&_Howell/NP ,/FF K./NP 2004/ZZ ./FF
+Phrynobatrachus/NP krefftii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP liberiensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Libèria/NP i/CC Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP liberiensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Cascoon/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC evoluciona/VM de/SP Wurmple/NP ./FF
+Evoluciona/VM en/SP Dustox/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Silcoon/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC evoluciona/VM de/SP Wurmple/NP ./FF
+Evoluciona/VM en/SP Dustox/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP mababiensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Angola/NP ,/FF Botswana/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Kenya/NP ,/FF Malawi/NP ,/FF Moçambic/NP ,/FF Namíbia/NP ,/FF Sud-Àfrica/NP ,/FF Swazilàndia/NP ,/FF Tanzània/NP ,/FF Zàmbia/NP ,/FF Zimbabwe/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Etiòpia/NP ,/FF Sudan/NP i/CC Uganda/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP ,/FF Channing/NP ,/FF A./NP ,/FF Poynton/NP ,/FF J.C._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP mababiensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Pineco/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC evoluciona/VM en/SP Forretress/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Pinsir/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Illumise/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP manengoubensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Phrynobatrachus/NP manengoubensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Volbeat/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Wurmple/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC evoluciona/VM en/SP Cascoon/NP o/CC Silcoon/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Absol/VM és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC sinistre/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP minutus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Etiòpia/NP ,/FF Kenya/NP ,/FF Tanzània/NP i/CC Uganda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Largen/NP ,/FF M./NP ,/FF Howell/NP ,/FF K./NP ,/FF Pickersgill/NP ,/FF M._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP minutus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Mightyena/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC sinistre/AQ i/CC evoluciona/VM de/SP Poochyena/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Poochyena/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC sinistre/AQ i/CC evoluciona/VM en/SP Mightyena/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP nanus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Txad/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_Centreafricana/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP nanus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Bagon/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC drac/NC i/CC evoluciona/VM en/SP Shelgon/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Classificació/NC general/AQ ./FF
+Llegenda/NP :/FF J-partits/NP jugats/NC ,/FF G-guanyats/NP ,/FF E-empatats/NP ,/FF P-perduts/NP ,/FF GF-gols/NP a/SP favor/NC ,/FF GC-gols/NP en/SP contra/SP ,/FF DG-diferència/NP de/SP gols/NC ,/FF PTS-punts_Promoció/NP ./FF
+Resultats/NC finals/AQ ./FF
+Campió/NP :/FF València_CF/NP ./FF
+Descensos/NP :/FF Real_Sociedad/NP i/CC Celta_de_Vigo/NP ./FF
+Ascensos/NP :/FF Sporting_de_Gijón/NP i/CC Real_Múrcia/NP ./FF
+Màxim/NC golejador/AQ :/FF Mundo/VM (/FF València_CF/NP )/FF ./FF
+Porter/NP menys/RG golejat/VM :/FF Eizaguirre/NP (/FF València_CF/NP )/FF ./FF
+Màxims/AQ golejadors/NC ./FF
+Porter/NP menys/RG golejat/VM ./FF
+és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC drac/NC i/CC evoluciona/VM de/SP Bagon/NP ./FF
+Evoluciona/VM en/SP Salamence/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP natalensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Angola/NP ,/FF Benín/NP ,/FF Botswana/NP ,/FF Burundi/NP ,/FF Camerun/NP ,/FF República_Centreafricana/NP ,/FF República_de_el_Congo/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Costa_d'_Ivori/NP ,/FF Eritrea/NP ,/FF Etiòpia/NP ,/FF Gàmbia/NP ,/FF Ghana/NP ,/FF Guinea/NP ,/FF Guinea_Bissau/NP ,/FF Kenya/NP ,/FF Libèria/NP ,/FF Malawi/NP ,/FF Mali/NP ,/FF Moçambic/NP ,/FF Namíbia/NP ,/FF Nigèria/NP ,/FF Rwanda/NP ,/FF Senegal/NP ,/FF Sierra_Leone/NP ,/FF Sud-Àfrica/NP ,/FF Sudan/NP ,/FF Swazilàndia/NP ,/FF Tanzània/NP ,/FF Togo/NP ,/FF Uganda/NP ,/FF Zàmbia/NP ,/FF Zimbabwe/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Burkina_Faso/NP ,/FF Txad/NP ,/FF Lesotho/NP i/CC Mauritània/NP ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP ,/FF Msuya/NP ,/FF C./NP ,/FF Pickersgill/NP ,/FF M./NP ,/FF Minter/NP ,/FF L./NP ,/FF Largen/NP ,/FF M._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP natalensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP ogoensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Gabon/NP i/CC Libèria/NP ./FF
+Referències/NP ./FF
+Burger/NP ,/FF M._&_Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Phrynobatrachus/NP ogoensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Electrike/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ i/CC evoluciona/VM en/SP Manectric/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP pakenhami/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Tanzània/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Howell/NP ,/FF K./NP 2004/ZZ ./FF
+Phrynobatrachus/NP pakenhami/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Mareep/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ i/CC evoluciona/VM en/SP Flaaffy/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Minun/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Makuhita/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC lluita/NC i/CC evoluciona/VM en/SP Hariyama/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP parkeri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_de_el_Congo/NP i/CC Sudan/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP parkeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Entei/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Raikou/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP parvulus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Angola/NP ,/FF Botswana/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Malawi/NP ,/FF Tanzània/NP ,/FF Uganda/NP ,/FF Zàmbia/NP ,/FF Zimbabwe/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Moçambic/NP i/CC Namíbia/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP ,/FF Channing/NP ,/FF A._&_Vonesh/NP ,/FF J./NP 2004/ZZ ./FF
+Phrynobatrachus/NP parvulus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Slugma/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC i/CC evoluciona/VM en/SP Magcargo/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Torchic/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC i/CC evoluciona/VM en/SP Combusken/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Torkoal/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP perpalmatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ,/FF Malawi/NP ,/FF Moçambic/NP ,/FF Sudan/NP ,/FF Tanzània/NP ,/FF Zàmbia/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Burundi/NP i/CC Zimbabwe/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M._&_Channing/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP perpalmatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Duskull/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC fantasma/NC i/CC evoluciona/VM en/SP Dusclops/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Banette/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC fantasma/NC i/CC evoluciona/VM de/SP Shuppet/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP phyllophilus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Guinea/NP ,/FF Libèria/NP i/CC Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Phrynobatrachus/NP phyllophilus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Misdreavus/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC fantasma/NC i/CC evoluciona/VM en/SP Mismagius/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon

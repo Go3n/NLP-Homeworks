@@ -10502,4 +10502,104 @@ Comprèn/VM el/DA període/NC entre/SP fa/VM 171,6/ZZ ±/FF 3_milions/ZZ d'/SP a
 El/DA període/NC Aalenià/NP (/FF de/SP la/DA ciutat/NC d'/SP Aalen/NP ,/FF a/SP Alemanya/NP )/FF és/VS un/DI estatge/NC faunal/NC de/SP el/DA Juràssic/NP mitjà/AQ ./FF
 Comprèn/VM el/DA període/NC entre/SP fa/VM 175,6/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC i/CC fa/VM 171,6/ZZ ±/FF 3_milions/ZZ d'/SP anys/NC ./FF
 El/DA període/NC Toarcià/NP (/FF de/SP la/DA ciutat/NC de/SP Thouars/NP ,/FF a/SP França/NP )/FF és/VS un/DI estatge/NC faunal/NC de/SP el/DA Juràssic/NP inferior/AQ ./FF
-Comprèn/VM el/DA període/NC entre/SP fa/VM 183/ZZ ±/FF 1,5_milion
+Comprèn/VM el/DA període/NC entre/SP fa/VM 183/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC i/CC fa/VM 175,6/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Pliensbachià/NP (/FF de/SP la/DA ciutat/NC de/SP Pliensbach/NP ,/FF a/SP Alemanya/NP )/FF és/VS un/DI estatge/NC faunal/NC de/SP el/DA Juràssic/NP inferior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 189,6/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC i/CC fa/VM 183/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Sinemurià/NP (/FF de/SP la/DA ciutat/NC de/SP Semur/NP -en/PP -/FF Brionnais/NP ,/FF a/SP França/NP )/FF és/VS un/DI estatge/NC faunal/NC de/SP el/DA Juràssic/NP inferior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 196,5/ZZ ±/FF 1_milions/ZZ d'/SP anys/NC i/CC fa/VM 189,6/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Hettangià/NP (/FF de/SP la/DA ciutat/NC de/SP Hettange-Grande/NP ,/FF a/SP França/NP )/FF és/VS un/DI estatge/NC faunal/NC de/SP el/DA Juràssic/NP inferior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 199,6/ZZ ±/FF 0,6_milions/ZZ d'/SP anys/NC i/CC fa/VM 196,5/ZZ ±/FF 1_milions/ZZ d'/SP anys/NC ./FF
+Animals_de_el_Hettangià/NP ./FF
+Thalassiodracon/NP ;/FF
+El/DA període/NC Raetià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP superior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 203,6/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC i/CC fa/VM 199,6/ZZ ±/FF 0,6_milions/ZZ d'/SP anys/NC ./FF
+Animals_de_el_Raetià/NP ./FF
+Thalassiodracon/NP ;/FF
+El/DA període/NC Norià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP superior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 216,5/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC i/CC fa/VM 203,6/ZZ ±/FF 1,5_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Carnià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP superior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 228/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC i/CC fa/VM 216,5/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC ./FF
+Animals_de_el_Carnià/NP ./FF
+Eoraptor/NP ;/FF
+Llista/NC completa/AQ de/SP gols/NC marcats/VM a/SP la/DA Copa/NP espanyola/AQ d'/SP hoquei/NC patins/NC masculina/AQ 2007_segons/ZZ jugador/NC i/CC equip/NC corresponent/AQ :/FF Enllaços/NC externs/AQ ./FF
+Llista/NC de/SP golejadors/NC ;/FF
+El/DA període/NC Ladinià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP mitjà/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 237/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC i/CC fa/VM 228/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Ladinià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP mitjà/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 245/ZZ ±/FF 0,7_milions/ZZ d'/SP anys/NC i/CC fa/VM 237/ZZ ±/FF 2_milions/ZZ d'/SP anys/NC ./FF
+La/DA Univeristat_Catòlica_de_Lovaina/NP és/VS la/DA universitat/NC més/RG antiga/AQ de/SP els/DA Països_Baixos/NP ,/FF alhora/RG que/CS la/DA universitat/NC catòlica/AQ més/RG antiga/AQ en/SP actiu/NC a/SP dia/NC d'/SP avui/RG a/SP tot/DI el/DA món/NC ./FF
+Es/P0 troba/VM a/SP la/DA ciutat/NC de/SP Lovaina/NP ,/FF a/SP Bèlgica/NP ./FF
+Fundada/VM l'/DA any/NC 1425/ZZ per/SP encàrrec/NC de/SP el/DA duc/NC Jan_IV_de_Brabant/NP i/CC el/DA seu/PX vassall/NC el/DA senyor/NC d'/SP Asse/NP i/CC l'/DA abat/NC d'/SP Affligem/NP ,/FF Johannes/NP t'/PP Serjacobs/NP ,/FF canceller/NC de/SP Brabant/NP ,/FF sorgí/VM probablement/RG a/SP partir/VM d'/SP una/DI escola/NC capitular/AQ vinculada/VM a/SP l'/DA església/NC de/SP sant/NC Pere_de_Lovaina/NP ./FF
+Mitjançant/SP una/DI butlla/NC pasqual/AQ de/SP el/DA 9_de_desembre_de_1425/WW ,/FF la/DA Universitat_de_Lovaina/NP queda/VM establerta/VM com/CS a/SP Studium_Generale/NP per/SP el/DA papa/NC Martí_V._Durant/NP molts/DI anys/NC ,/FF romangué/VM l'/DA única/AQ universitat/NC de/SP els/DA Països_Baixos/NP ,/FF fins/SP que/PR no/RN va/VA constituir/VM -se/PP una/DI universitat/NC a/SP Douai/NP (/FF en/SP neerlandès/NC Dowaai/NP )/FF ,/FF avui/RG ciutat/NC francesa/AQ ./FF
+El/DA període/NC Olenekià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP inferior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 249,7/ZZ ±/FF 0,7_milions/ZZ d'/SP anys/NC i/CC fa/VM 245/ZZ ±/FF 0,7_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Induà/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Triàsic/NP inferior/AQ ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 251,4/ZZ ±/FF 0,7_milions/ZZ d'/SP anys/NC i/CC fa/VM 249,7/ZZ ±/FF 0,7_milions/ZZ d'/SP anys/NC ./FF
+El/DA període/NC Thanetià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Paleocè/NP ./FF
+Començà/VM fa/VM 58,7/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC ./FF
+És/VS l'/DA últim/AO estatge/NC faunal/NC de/SP el/DA Paleocè/NP ,/FF i/CC el/DA màxim/NC tèrmic/AQ de/SP el/DA Paleocè-Eocè/NP ,/FF un/DI episodi/NC d'/SP escalfament/NC global/AQ altament/RG intens/AQ i/CC ràpid/AQ (/FF en/SP termes/NC geològics/AQ )/FF tingué_lloc/VM a/SP finals/NC de/SP el/DA període/NC ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX inici/NC queda/VM marcat/VM per/SP una/DI de/SP les/DA aparicions/NC més/RG inferiors/AQ de/SP el/DA nanofòssil/NC calcari/AQ Chiasmolithus/NP oamaruensis/NC ./FF
+El/DA seu/PX inici/NC queda/VM marcat/VM per/SP una/DI cronozona/NC de/SP polaritat/NC magnètica/AQ ./FF
+El/DA seu/PX final/NC queda/VM marcat/VM per/SP la/DA base/NC d'/SP una/DI excursió/NC d'/SP isòtops/NC negatius/AQ de/SP carboni/NC ./FF
+S'/P0 acabà/VM fa/VM 55,8/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP els/DA estrats/NC situats/VM a_prop/RG de/SP l'/DA Illa_de_Thanet/NP (/FF Kent/NP ,/FF Regne_Unit/NP )/FF ./FF
+Referències/NP ./FF
+El/DA Selandià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Paleocè/NP ./FF
+Començà/VM fa/VM 61,7/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC ./FF
+És/VS en/SP aquest/DD període/NC que/PR apareixen/VM els/DA plesiadapiformes/NC ,/FF un/DI ordre/NC d'/SP euarcontoglirs/NC molt/RG propers/AQ a/SP els/DA primats/NC i/CC que/CS ,/FF segons/SP alguns/PI ,/FF podrien/VM ser/VS -ne/PP els/DA avantpassats/NC ./FF
+També/RG fou/VS en/SP aquest/DD estatge/NC que/PR aparegueren/VM els/DA primers/AO primats/NC autèntics/AQ ,/FF com/CS ara/RG els/DA de/SP el/DA gènere/NC Teilhardina/NP ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX final/NC queda/VM marcat/VM per/SP una/DI cronozona/NC de/SP polaritat/NC magnètica/AQ ./FF
+S'/P0 acabà/VM fa/VM 58,7/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP l'/DA illa/NC principal/AQ de/SP Dinamarca/NP ,/FF Sjælland/NP ./FF
+Referències/NP ./FF
+El/DA Danià/NP és/VS un/DI estatge/NC faunal/NC de/SP el/DA Paleocè/NP ./FF
+Començà/VM fa/VM 66,5/ZZ ±/FF 0,3_milions/ZZ d'/SP anys/NC amb/SP la/DA fi/NC de/SP l'/DA extinció/NC de/SP el/DA Cretaci-Terciari/NP ,/FF una/DI extinció/NC massiva/AQ que/PR eliminà/VM aproximadament/RG la/DA meitat/NC de/SP les/DA espècies/NC vivents/AQ en/SP aquell/DD temps/NC ,/FF entre/SP les/DA quals/PR es/P0 poden/VM destacar/VM els/DA dinosaures/NC no/RN aviaris/AQ ,/FF i/CC que/PR marcà/VM la/DA fi/NC de/SP el/DA Mesozoic/NP ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX inici/NC queda/VM marcat/VM per/SP una/DI anomalia/NC causada/VM per/SP un/DI nivell/NC inusualment/RG alt/AQ d'/SP iridi/NC ./FF
+S'/P0 acabà/VM fa/VM 61,7/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP l'/DA estat/NC de/SP Dinamarca/NP ./FF
+Referències/NP ./FF
+El/DA període/NC Ludià/NP és/VS un/DI estatge/NC faunal/NC europeu/AQ de/SP l'/DA Eocè/NP que/PR coincideix/VM aproximadament/RG amb/SP el/DA Priabonià/NP ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 37,2/ZZ ±/FF 0,1_milions/ZZ d'/SP anys/NC i/CC fa/VM 33,9/ZZ ±/FF 0,1_milions/ZZ d'/SP anys/NC ./FF
+Animals_de_el_Ludià/NP ./FF
+Leptictidium/NP ;/FF
+El/DA període/NC Bartonià/NP és/VS un/DI estatge/NC faunal/NC de/SP l'/DA Eocè/NP ./FF
+Començà/VM fa/VM 40,4/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC ./FF
+El/DA seu/PX nom/NC li/PP fou/VS donat/VM per/SP Karl_Mayer-Eymar/NP ,/FF que/PR en/SP definí/VM els/DA límits/NC l'/DA any/NC 1857/ZZ a_partir_de/SP sediments/NC argilosos/AQ de/SP el/DA sud/NC d'/SP Anglaterra/NP rics/AQ en/SP fòssils/NC ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX inici/NC queda/VM marcat/VM per/SP la/DA quasi-extinció/NC de/SP el/DA nanofòssil/NC calcari/AQ Reticulofenestra/NP reticulata/VM ./FF
+El/DA seu/PX final/NC queda/VM marcat/VM per/SP una/DI de/SP les/DA aparicions/NC més/RG inferiors/AQ de/SP el/DA nanofòssil/NC calcari/AQ Chiasmolithus/NP oamaruensis/NC ./FF
+S'/P0 acabà/VM fa/VM 37,2/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP la/DA localitat/NC de/SP Barton/NP (/FF Anglaterra/NP )/FF ./FF
+Animals_de_el_Bartonià/NP ./FF
+Basilosaure/NP ;/FF Leptictidium/NP ;/FF Referències/NP ./FF
+El/DA període/NC Lutecià/NP és/VS un/DI estatge/NC faunal/NC de/SP l'/DA Eocè/NP ./FF
+Començà/VM fa/VM 48,6/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC ./FF
+És/VS un/DI període/NC molt/RG ric/AQ en/SP invertebrats/NC marins/AQ (/FF mol·luscs/NC ,/FF coralls/NC o/CC eriçons/NC de/SP mar/NC )/FF i/CC que/PR es/P0 caracteritza/VM per/SP l'/DA abundància/NC de/SP mars/NC epicontinentals/AQ somers/NC sotmesos/VM a/SP les/DA influències/NC continentals/AQ ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX inici/NC queda/VM marcat/VM per/SP foraminífers/NC planctònics/AQ i/CC l'/DA aparició/NC més/RG inferior/AQ de/SP el/DA gènere/NC Hantkenina/NP ./FF
+El/DA seu/PX final/NC queda/VM marcat/VM per/SP la/DA quasi-extinció/NC de/SP el/DA nanofòssil/NC calcari/AQ Reticulofenestra/NP reticulata/VM ./FF
+S'/P0 acabà/VM fa/VM 40,4/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP l'/DA antic/AQ nom/NC romà/AQ de/SP París/NP ,/FF Lutècia/NP ./FF
+Animals_de_el_Lutecià/NP ./FF
+Basilosaure/NP ;/FF Leptictidium/NP ;/FF Miacis/NP ;/FF Teilhardina/NP ;/FF Referències/NP ./FF
+El/DA període/NC Ypresià/NP és/VS un/DI estatge/NC faunal/NC de/SP l'/DA Eocè/NP ./FF
+Començà/VM fa/VM 55,8/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC amb/SP l'/DA inici/NC de/SP el/DA màxim/NC tèrmic/AQ de/SP el/DA Paleocè-Eocè/NP ,/FF un/DI període/NC de/SP ràpid/AQ i/CC intens/AQ escalfament/NC global/AQ que/PR provocà/VM l'/DA extinció/NC de/SP nombrosos/AQ foraminífers/NC bentònics/AQ ,/FF però/CC que/PR coincidí/VM amb/SP un/DI episodi/NC de/SP gran/AQ evolució/NC i/CC radiació/NC de/SP els/DA mamífers/NC ./FF
+Estratigràficament/RG ,/FF el/DA seu/PX inici/NC queda/VM marcat/VM per/SP la/DA base/NC d'/SP una/DI excursió/NC negativa/AQ d'/SP isòtops/NC de/SP carboni/NC ./FF
+El/DA seu/PX final/NC queda/VM marcat/VM per/SP foraminífers/NC planctònics/AQ i/CC l'/DA aparició/NC més/RG inferior/AQ de/SP el/DA gènere/NC Hantkenina/NP ./FF
+S'/P0 acabà/VM fa/VM 48,6/ZZ ±/FF 0,2_milions/ZZ d'/SP anys/NC i/CC deu/VM el/DA seu/PX nom/NC a/SP la/DA localitat/NC d'/SP Ypres/NP (/FF Bèlgica/NP )/FF ./FF
+Animals_de_l'_Ypresià/NP ./FF
+Miacis/NP ;/FF Teilhardina/NP ;/FF Referències/NP ./FF
+El/DA període/NC Chattià/NP és/VS un/DI estatge/NC faunal/NC de/SP l'/DA Oligocè/NP ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 28,4/ZZ ±/FF 0,1_milions/ZZ d'/SP anys/NC i/CC fa/VM 23,03/ZZ ±/FF 0,05_milions/ZZ d'/SP anys/NC ./FF
+Animals_de_el_Rupelià/NP ./FF
+Borhyaena/NP ;/FF Hoplophoneus/NP ;/FF Leptictis/NP ;/FF Nimbacinus/NP dicksoni/VM ;/FF Pachyrukhos/NP ;/FF Proconsul/NP ;/FF Enllaços/NP externs/AQ ./FF
+Chattià/NP a/SP GeoWhen_Database/NP ;/FF
+El/DA període/NC Rupelià/NP ,/FF també/RG conegut/VM com/CS a/SP Estampià/NP ,/FF és/VS un/DI estatge/NC faunal/NC de/SP l'/DA Oligocè/NP ./FF
+Comprèn/VM el/DA període/NC entre/SP fa/VM 33,9/ZZ ±/FF 0,1_milions/ZZ d'/SP anys/NC i/CC fa/VM 28,4/ZZ ±/FF 0,1_milions/ZZ d'/SP anys/NC ./FF
+El/DA nom/NC de/SP l'/DA estatge/NC prové/VM de/SP el/DA riu/NC Rupel/NP a/SP Bèlgica/NP ./FF
+Animals_de_el_Rupelià/NP ./FF
+Aegyptopithecus/NP zeuxis/NC ;/FF Badjcinus/NP ;/FF Dinictis/NP ;/FF Ischyromys/NP ;/FF Nimravus/NP ;/FF Paracerateri/NP ;/FF Phiomia/NP ;/FF Presbyornis/NP ;/FF Enllaços/NP externs/AQ ./FF
+Rupelià/NP a/SP GeoWhen_Database/NP ;/FF
+El/DA Wii_Remote/NP ,/FF també/RG conegut/VM com/CS a/SP "/FF Wiimote/NP "/FF ,/FF és/VS el/DA controlador/NC principal/AQ de/SP la/DA consola/NC Wii_de_Nintendo/NP ./FF
+La/DA seva/PX característica/NC més/RG destacada/VM és/VS la/DA capacitat/NC de/SP detectar/VM el/DA moviment/NC ,/FF de_manera_que/CS permet/VM a/SP l'/DA usuari/NC interactuar/VM amb/SP les/DA aplicacions/NC movent/VM el/DA comandament/NC ./FF
+També/RG té/VM la/DA capacitat/NC de/SP detectar/VM cap/NC a_on/RG apunta/VM respecte/NC la/DA pantalla/NC ,/FF de_manera_que/CS es/P0 pot/VM fer_servir/VM per/SP assenyalar/VM objectes/NC de/SP la/DA pantalla/NC apuntant/VM directament/RG cap/PI a/SP ells/PP ./FF
+Per/SP a/SP la/DA detecció/NC de/SP moviment/NC el/DA Wii_Remote/NP fa_servir/VM acceleròmetres/NC ,/FF i/CC un/DI sensor/NC òptic/AQ d'/SP infraroigs/NC juntament/RG amb/SP la/DA "/FF Barra_de_Sensors/NP "/FF (/FF amb/SP LEDs/NP infraroigs/NC )/FF per/SP a/SP detectar/VM cap/NC a_on/RG apunta/VM ./FF
+A/SP més/RG d'/SP aquestes/DD capacitats/NC ,/FF el/DA wii/NC Remote/NP disposa/VM d'/SP un/DI port/NC d'/SP expansió/NC on/PR s'/P0 hi/PP poden/VM connectar/VM accessoris/AQ com/CS el/DA Nunchuk/NP o/CC el/DA Controlador_Clàssic/NP ./FF
+El/DA Wii_Remote/NP va/VA ser/VS anunciat/VM a/SP el/DA Tokyo_Game_Show/NP el/DA 16_de_setembre_del_2005/WW ./FF
+Des_de/SP llavors/RG ha/VA rebut/VM molta/DI atenció/NC per/SP les/DA seves/PX característiques/NC úniques/AQ i/CC el/DA seu/PX contrast/NC amb/SP els/DA controladors/NC típics/AQ ./FF
+També/RG ha/VA rebut/VM una/DI atenció/NC significativa/AQ per/SP part/NC de/SP hackers/NC que/PR el/PP fan_servir/VM per/SP a/SP controlar/VM altres/DI aplicacions/NC ./FF
+Estats/NC sobirans/AQ ./FF
+A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_Finlàndia/NP ;/FF República_de_França/NP ;/FF G._República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF Hejaz/NP i/CC Nejd_Regne_de_Hejaz/NP i/CC Nejd/NP ;/FF República_Hel·lènica/NP ;/FF República_d'_Hondures/NP 

@@ -10694,4 +10694,133 @@ Sembla/VM que/CS el/DA canvi/NC de/SP e/NC en/SP o/CC es/P0 va/VA produir/VM avi
 El/DA document/NC ha/VA estat/VS estudiat/VM per/SP Joan_Coromines/NP ,/FF Edward_J._Neugaard/NP i/CC Charlotte_S._Maneikis_Kniazzeh/NP ,/FF i/CC publicat/VM per/SP la/DA Fundació_Salvador_Vives_Casajuana/NP ./FF
 Enllaços/NC externs/AQ ./FF
 Vides_de_Sants_Rosselloneses_Traducció/NP catalana/AQ de/SP el/DA S._XIII/WW de/SP la/DA Llegenda_Daurada_de_Jacopo/NP da/VM Varazze/NP ,/FF Edició/NP a/SP càrrec/NC de/SP Charlotte_S._Maneikis_Kniazzeh/NP i/CC Edward_J._Neugaard/NP ,/FF amb/SP la/DA col·laboració/NC de/SP Joan_Coromines/NP ,/FF Fundació_Salvador_Vives_Casajuana/NP ,/FF Barcelona/NP ,/FF 1977/ZZ ,/FF p/NC ./FF 190-203/ZZ ./FF
-Phrynobatrachus/NP francisci/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burkina_Faso/NP ,/FF Costa_d'_Ivori/NP ,/FF Gàmbia/NP ,/FF Ghana/NP ,/FF Mali/NP ,/FF Nigèria/NP ,/FF Senegal/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/F
+Phrynobatrachus/NP francisci/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burkina_Faso/NP ,/FF Costa_d'_Ivori/NP ,/FF Gàmbia/NP ,/FF Ghana/NP ,/FF Mali/NP ,/FF Nigèria/NP ,/FF Senegal/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/FF Guinea/NP ,/FF Guinea_Bissau/NP ,/FF Mauritània/NP ,/FF Níger/NP ,/FF Sierra_Leone/NP i/CC Togo/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP francisci/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Donphan/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC terra/NC i/CC evoluciona/VM de/SP Phanpy/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP fraterculus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Guinea/NP ,/FF Libèria/NP ,/FF Sierra_Leone/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Guinea_Bissau/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP fraterculus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Delcatty/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Skitty/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP gastoni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP gastoni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP ghanensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP i/CC Ghana/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP ghanensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Linoone/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Zigzagoon/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Granbull/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Snubbull/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Ursaring/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Teddiursa/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP giorgii/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ./FF
+Referències/NP ./FF
+Channing/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP giorgii/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+El/DA Museu_Jueu/NP (/FF en/SP alemany/NC :/FF Jüdisches_Museum_Berlin/NP )/FF ,/FF està/VM ubicat/VM a/SP la/DA ciutat/NC de/SP Berlín/NP ,/FF Alemanya/NP ./FF
+Mostra/NC ,/FF a/SP través/NC d'/SP obres/NC artístiques/AQ i/CC objectes/NC de/SP la/DA vida/NC quotidiana/AQ ,/FF la/DA història/NC de/SP els/DA jueus/NC que/PR viuen/VM i/CC van/VA viure/VM a/SP Alemanya/NP durant/SP els/DA últims/AO dos_mil/ZZ anys/NC ./FF
+L'/DA edifici/NC que/PR acull/VM el/DA museu/NC està/VM dissenyat/VM per/SP l'/DA arquitecte/NC polonès/AQ Daniel_Libeskind/NP i/CC va/VA ser/VS inaugurat/VM el/DA 1999/ZZ ./FF
+L'/DA immoble/NC té/VM les/DA façanes/NC metàl·liques/AQ ,/FF finestres/NC amb/SP capritxoses/AQ formes/NC i/CC orientacions/NC ,/FF i/CC la/DA planta/NC amb/SP forma/NC de/SP llamp/NC ./FF
+La/DA idea/NC principal/AQ que/PR transmet/VM l'/DA edifici/NC és/VS el/DA buit/NC que/PR han/VA deixat/VM els/DA jueus/NC berlinesos/AQ desapareguts/NC durant/SP l'/DA Holocaust/NP nazi/AQ ./FF
+La/DA Torre_de_l'_Holocaust/NP i/CC el/DA Jardí_de_l'_Exili/NP són/VS altres/DI dues/ZZ construccions/NC pertanyents/AQ a/SP el/DA museu/NC ./FF
+Un/DI primer/AO museu/NC sobre/SP la/DA cultura/NC jueva/AQ fou/VS fundat/VM a/SP Berlín/NP el/DA 1933/ZZ a/SP Oranienburger_Strasse/NP ,/FF però/CC seria/VS tancat/VM el/DA 1938/ZZ per/SP el/DA règim/NC nazi/AQ ./FF
+La/DA idea/NC de/SP la/DA reobertura/NC de/SP el/DA museu/NC a/SP Alemanya/NP apareixerà/VM el/DA 1971/ZZ ,/FF prenent/VM forma/NC el/DA 1975/ZZ a_través_de/SP el/DA naixement/NC d'/SP una/DI associació/NC per/SP la/DA promoció/NC d'/SP aquest/DD projecte/NC ./FF
+El/DA 1978/ZZ ,/FF de_resultes/RG d'/SP una/DI exposició/NC sobre/SP la/DA història/NC jueva/AQ ,/FF el/DA museu/NC de/SP Berlín/NP obre/VM un/DI departament/NC especial/AQ ./FF
+El/DA 1989/ZZ es/P0 convoca/VM un/DI concurs/NC ./FF
+L'/DA edifici/NC és/VS lliurat/VM el/DA 1999/ZZ ,/FF però/CC a/SP el/DA començament/NC no/RN s'/P0 hi/PP exposa/VM ./FF
+En/SP un_segon/ZZ concurs/NC s'/P0 hi/PP van/VA traslladar/VM les/DA col·leccions/NC des_de/SP el/DA Martin-Gropius-Bau/NP on/PR eren/VS emmagatzemades/VM de/SP manera/NC provisional/AQ ./FF
+a/SP el/DA museu/NC s'/P0 entra/VM per/SP el/DA Kollegienhaus/NP ,/FF edificat/VM el/DA 1735/ZZ i/CC antiga/AQ seu/NC de/SP el/DA tribunal/NC prussià/AQ ./FF
+Fou/VS destruït/VM per/SP la/DA Segona_Guerra_Mundial/NP i/CC reconstruït/VM el/DA 1963/ZZ ./FF
+Abans/RG de/SP la/DA instal·lació/NC de/SP el/DA museu/NC jueu/AQ ,/FF fou/VS la/DA seu/NC de/SP el/DA museu/NC històric/AQ de/SP Berlín/NP ./FF
+Avui/RG és/VS l'/DA entrada/NC a/SP el/DA museu/NC ,/FF oficines/NC ,/FF auditori/NC ,/FF restaurant/NC ,/FF i/CC s'/P0 hi/PP fan/VM exposicions/NC especials/AQ ./FF
+Phrynobatrachus/NP graueri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ,/FF Kenya/NP ,/FF Rwanda/NP i/CC Uganda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R./NP ,/FF Pickersgill/NP ,/FF M._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP graueri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP guineensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Guinea/NP ,/FF Libèria/NP i/CC Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP guineensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Milotic/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Feebas/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Joan_Pons/NP i/CC Palacios/NP (/FF 8_d'_agost_del_1972/WW )/FF ,/FF pilot/NC de/SP trial/NC català/AQ i/CC formador/AQ de/SP pilots/NC d'/SP anomenada/NC ./FF
+Biografia/NP ./FF
+Començà/VM la/DA seva/PX formació/NC amb/SP la/DA pràctica/NC de/SP el/DA "/FF trialsin/VM "/FF (/FF bicitrial/NC )/FF ,/FF que/PR li/PP donà/VM una/DI formació/NC molt/RG tècnica/AQ que/CS més/RG tard/RG aplicà/VM a/SP el/DA trial/NC (/FF com/PR també/RG feren/VM pilots/NC com/CS Jordi_Tarrés/NP i/CC Toni_Bou/NP )/FF ./FF
+Fou/VS campió/NC d'/SP Europa/NP el/DA 1992/ZZ i/CC quatre/ZZ vegades/NC guanyador/AQ de/SP el/DA Trial_de_les_Nacions/NP en/SP l'/DA equip/NC espanyol/AQ (/FF 1992-1995/ZZ )/FF ./FF
+Participà/VM en/SP el/DA campionat/NC de/SP el/DA món/NC entre/SP els/DA anys/NC 1992/ZZ a/SP 1999/ZZ ,/FF amb/SP la/DA seva/PX millor/AQ actuació/NC el/DA 1994/ZZ ,/FF amb/SP un/DI tercer/AO lloc/NC ./FF
+A/SP l'/DA any/NC 1999/ZZ es/P0 retirà/VM de/SP la/DA competició/NC ./FF
+A/SP l'/DA any/NC 2001/ZZ fundà/VM el/DA Joan_Pons_Trial_Team/NP ,/FF on/PR formà/VM futures/AQ estrelles/NC com/CS Laia_Sanz/NP ,/FF Toni_Bou/NP ,/FF Dani_Oliveras/NP i/CC altres/PI ;/FF i/CC a_partir_de/SP l'/DA any/NC següent/AQ tornà/VM a/SP competir/VM ocasionalment/RG (/FF participació/NC en/SP el/DA campionat/NC italià/AQ de/SP el/DA 2003/ZZ )/FF ./FF
+En/SP l'/DA actualitat/NC (/FF 2007/ZZ )/FF dirigeix/VM la/DA "/FF JoanPonsTrialSchool/NP "/FF a/SP Canyamars/NP i/CC porta/VM la/DA direcció/NC de/SP la/DA "/FF Sherco_Academy/NP "/FF ./FF
+Palmarès/NP ./FF
+Darrera/AO l'/DA any/NC i/CC entre/SP parèntesis/NC ,/FF marca/NC amb/SP que/PR corria/VM aquella/DD temporada/NC 1992/ZZ (/FF Beta/NP )/FF :/FF Campió_d'_Europa/NP de/SP trial/NC ,/FF Guanyador_de_el_Trial_de_les_Nacions/NP amb/SP l'/DA equip/NC espanyol/AQ ,/FF 11è/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1993/ZZ (/FF Beta/NC //FF Gas_Gas/NP )/FF :/FF Guanyador_de_el_Trial_de_les_Nacions/NP amb/SP l'/DA equip/NC espanyol/AQ ,/FF 6è/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1994/ZZ (/FF Gas_Gas/NP )/FF :/FF Guanyador_de_el_Trial_de_les_Nacions/NP amb/SP l'/DA equip/NC espanyol/AQ ,/FF 3r/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC (/FF 2n/ZZ en/SP la/DA cursa/NC Donner_Sky_Ranch/NP ,/FF a/SP els/DA Estats_Units/NP )/FF ;/FF 1995/ZZ (/FF Gas_Gas/NP )/FF :/FF Guanyador_de_el_Trial_de_les_Nacions/NP amb/SP l'/DA equip/NC espanyol/AQ ,/FF 5è/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1996/ZZ (/FF Bultaco/NP //FF Fantic/NP //FF Gas_Gas/NP )/FF :/FF 12è/AO de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1997/ZZ (/FF Gas_Gas/NP )/FF :/FF 13è/AO de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1998/ZZ (/FF Gas_Gas/NP )/FF :/FF 27è/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 1999/ZZ (/FF Gas_Gas/NP )/FF :/FF 22è/ZZ de/SP el/DA Campionat/NP de/SP el/DA món/NC ;/FF 2003/ZZ (/FF Sherco/NP )/FF :/FF Participació/NC en/SP el/DA campionat/NC italià/AQ de/SP trial/AQ trofeu/NC internacional/AQ (/FF 1r/ZZ a/SP els/DA Scottish_Six_Day/NP ,/FF a/SP Brianza/NP i/CC a/SP Quartu_S._Elena/NP )/FF ;/FF 2004/ZZ (/FF Sherco/NP )/FF 1r/AO a/SP el/DA ralli/VM de/SP els/DA 3/ZZ días/NC de/SP Santigosa/NP ;/FF Enllaços/NP ./FF
+Classificacions_de_el_Campionat/NP de/SP el/DA món/NC ,/FF per/SP anys/NC ;/FF Equips/NP guanyadors/NC de/SP el/DA Trial_de_les_Nacions/NP ;/FF Fotografies/NP de/SP els/DA equips/NC guanyadors/AQ ,/FF per/SP anys/NC ;/FF Joan_Pons_Trial_School/NP ;/FF Sherco_Academy/NP ;/FF Fitxa_de_el_Consejo_Superior_de_Deportes/NP 1998-1999/ZZ ;/FF
+Gorebyss/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Clamperl/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Huntail/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Clamperl/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP gutturosus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP la/DA República_Democràtica_de_el_Congo/NP ,/FF Costa_d'_Ivori/NP ,/FF Ghana/NP ,/FF Libèria/NP ,/FF Nigèria/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/FF Burkina_Faso/NP ,/FF Guinea/NP ,/FF Mali/NP ,/FF Togo/NP i/CC Uganda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP gutturosus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP hylaios/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF República_de_el_Congo/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Angola/NP ,/FF República_Centreafricana/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP i/CC Nigèria/NP ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Phrynobatrachus/NP hylaios/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Manectric/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ i/CC evoluciona/VM d'/SP Electrike/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP inexpectatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Etiòpia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Largen/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP inexpectatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP irangi/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Kenya/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R./NP ,/FF Howell/NP ,/FF K._&_Lötters/NP ,/FF S./NP 2004/ZZ ./FF
+Phrynobatrachus/NP irangi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP keniensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Kenya/NP i/CC Tanzània/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Msuya/NP ,/FF C./NP ,/FF Howell/NP ,/FF K./NP ,/FF Pickersgill/NP ,/FF M./NP ,/FF Drewes/NP ,/FF R._&_Lötters/NP ,/FF S./NP 200

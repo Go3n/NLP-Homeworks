@@ -10602,4 +10602,96 @@ El/DA Wii_Remote/NP va/VA ser/VS anunciat/VM a/SP el/DA Tokyo_Game_Show/NP el/DA
 Des_de/SP llavors/RG ha/VA rebut/VM molta/DI atenció/NC per/SP les/DA seves/PX característiques/NC úniques/AQ i/CC el/DA seu/PX contrast/NC amb/SP els/DA controladors/NC típics/AQ ./FF
 També/RG ha/VA rebut/VM una/DI atenció/NC significativa/AQ per/SP part/NC de/SP hackers/NC que/PR el/PP fan_servir/VM per/SP a/SP controlar/VM altres/DI aplicacions/NC ./FF
 Estats/NC sobirans/AQ ./FF
-A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_Finlàndia/NP ;/FF República_de_França/NP ;/FF G._República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF Hejaz/NP i/CC Nejd_Regne_de_Hejaz/NP i/CC Nejd/NP ;/FF República_Hel·lènica/NP ;/FF República_d'_Hondures/NP 
+A._Regne_de_l'_Afganistan/NP ;/FF Regne_d'_Albània/NP ;/FF Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Imperi_d'_Etiòpia/NP ;/FF F._República_de_Finlàndia/NP ;/FF República_de_França/NP ;/FF G._República_de_Guatemala/NP ;/FF H._República_d'_Haití/NP ;/FF Hejaz/NP i/CC Nejd_Regne_de_Hejaz/NP i/CC Nejd/NP ;/FF República_Hel·lènica/NP ;/FF República_d'_Hondures/NP ;/FF Regne_d'_Hongria/NP ;/FF I._Regne_Mutawakkilita_de_el_Iemen/NP ;/FF Estat_Lliure_d'_Irlanda/NP ;/FF Regne_d'_Islàndia/NP ;/FF Regne_d'_Itàlia/NP ;/FF Regne_de_Iugoslàvia/NP ;/FF J._Imperi_de_el_Japó/NP ;/FF L./NP -/FF República_de_Letònia/NP ;/FF República_de_Libèria/NP ;/FF Principat_de_Liechtenstein/NP ;/FF República_de_Lituània/NP ;/FF Gran_Ducat_de_Luxemburg/NP ;/FF M._Estats_Units_de_Mèxic/NP ;/FF Principat_de_Mònaco/NP ;/FF República_Popular_de_Mongòlia/NP ;/FF N._Regne_de_el_Nepal/NP ;/FF República_de_Nicaragua/NP ;/FF Regne_de_Noruega/NP ;/FF -/FF Domini_de_Nova_Zelanda/NP ;/FF P._Regne_de_els_Països_Baixos/NP ;/FF República_de_el_Panamà/NP ;/FF República_de_el_Paraguai/NP ;/FF Pèrsia_Imperi_Persa/NP ;/FF República_Peruana/NP ;/FF República_de_Polònia/NP ;/FF República_Portuguesa/NP ;/FF R._Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda_de_el_Nord/NP ;/FF Regne_de_Romania/NP ;/FF S._República_de_el_Salvador/NP ;/FF Sereníssima_República_de_San_Marino/NP ;/FF -/FF Regne_de_Siam/NP ;/FF Sud-àfrica_Unió_de_Sud-àfrica/NP ;/FF Regne_de_Suècia/NP ;/FF Confederació/NP suïssa/NC ;/FF T._República_Popular_de_Tannu_Tuva/NP ;/FF Domini_de_Terranova/NP ;/FF República_de_Turquia/NP ;/FF República_Txecoslovaca/NP ;/FF U._Unió_de_Repúbliques_Socialistes_Soviètiques/NP ;/FF República_Occidental_de_l'_Uruguai/NP ;/FF V._Estat_de_la_Ciutat_de_el_Vaticà/NP ;/FF Estats_Units_de_Veneçuela/NP ;/FF X._República_de_Xile/NP ;/FF ;/FF Estats/NP que/PR proclamen/VM la/DA sobirania/NC ./FF
+Ararat_República_d'_Ararat/NP (/FF fins/SP el/DA 17_de_setembre/WW )/FF ;/FF Tavolara_Regne_de_Tavolara/NP ;/FF Tibet/NP ;/FF
+Aitor_González_Jiménez/NP (/FF nascut/VM el/DA 27_de_febrer_del_1975/WW a/SP Zumárraga/NP )/FF és/VS un/DI ciclista/NC espanyol/AQ ./FF
+Les/DA seves/PX victòries/NC més/RG destacades/VM són/VS la/DA Volta/NP a/SP Espanya/NP 2002/ZZ i/CC la/DA Volta/NP a/SP Suïssa/NP 2005/ZZ ./FF
+X-Moto/NP és/VS un/DI videojoc/NC de/SP codi/NC obert/VM i/CC lliure/VM de/SP plataformes/NC amb/SP motos/NC de/SP motocross/AQ en/SP 2D/ZZ desenvolupat/VM per/SP a/SP Linux/NP ,/FF FreeBSD/NP ,/FF Mac_OS_X/NP i/CC Microsoft_Windows/NP ,/FF en/SP el/DA qual/PR la/DA física/NC és/VS subtilment/RG diferent/AQ que/CS a/SP la/DA vida/NC real/AQ ./FF
+El/DA projecte/NC es/P0 va/VA inciar/VM el/DA 2005/ZZ i/CC està/VM llicenciat/NC sota/SP la/DA GPL/NP ./FF
+Està/VM basat/VM en/SP el/DA videojoc/NC Elasto_Mania/NP ./FF
+La/DA principal/AQ diferència/NC és/VS la/DA llicència/NC lliure/AQ ./FF
+Versions/NP ./FF
+La/DA versió/NC 1.0.0/ZZ de/SP X-Moto/NP sortirà/VM quan/CS els/DA autors/NC estiguin/VM satisfets/VM de/SP el/DA codi/NC ./FF
+Cada/DI canvi/NC de/SP versió/NC major/AQ (/FF 0.x/ZZ )/FF correspon/VM a/SP un/DI canvi/NC tècnic/AQ important/AQ :/FF 0.1/ZZ :/FF primera/AO versió/NC de/SP X-Moto/NP (/FF maig_de_2005/WW )/FF escrita/NC en/SP 1_mes/ZZ ./FF
+0.2.x/ZZ :/FF el/DA joc/NC es/P0 connecta/VM a/SP Internet/NP (/FF de/SP manera/NC inicial/AQ per/SP teleencarregar/VM la/DA llista/NC de/SP els/DA rècords/NC )/FF ;/FF 0.3.x/ZZ :/FF el/DA joc/NC administra/VM les/DA seves/PX dades/NC via/SP sqlite/NC ,/FF una/DI cop/NC donades/NC (/FF els/DA jugadors/NC retindran/VM sobretot/RG que/CS és/VS des/SP que/PR es/P0 pot/VM jugar/VM en/SP multijugadors/NC )/FF ;/FF 0.4.x/ZZ :/FF reescriptura/NC de/SP la/DA gestió/NC de/SP els/DA estats/NC de/SP el/DA joc/NC (/FF per_tal_de/SP permetre/VM un/DI major/AQ manteniment/NC de/SP el/DA joc/NC )/FF ./FF ;/FF Característiques/NP generals/AQ ./FF
+Jugabilitat/NP ./FF
+Tot/DI l'/DA interès/NC de/SP el/DA joc/NC resideix/VM en/SP la/DA seva/PX jugabilitat/NC ./FF
+Per/SP passar/VM els/DA diferents/DI obstacles/NC aixecats/VM en/SP un/DI nivell/NC ,/FF cal/VM manejar/VM a/SP el/DA millor/RG possible/AQ la/DA moto/NC ./FF
+Per/SP fer/VM allò/PD ,/FF s'/P0 utilitzen/VM els/DA cinc/ZZ controls/NC possibles/AQ sobre/SP la/DA moto/NC :/FF L'/DA acceleració/NC (/FF de/SP manera/NC única/AQ sobre/SP la/DA roda/NC darrere/NC )/FF ;/FF El/NP fre/NC (/FF sobre/SP les/DA dues/ZZ rodes/NC )/FF ;/FF L'/NP empenta/VM abans/RG (/FF el/DA pilot/NC empeny/VM el/DA manillar/NC i/CC provoca/VM una/DI rotació/NC cap/NC endavant/RG de/SP la/DA moto/NC )/FF ;/FF La/NP tirallonga/NC (/FF igual/AQ principi/NC que/CS l'/DA empenta/NC però/CC en/SP l'/DA altre/DI sentit/NC )/FF ;/FF El/NP tomb/VM (/FF o/CC looping/NC )/FF ;/FF Un/DI altre/DI interès/NC de/SP el/DA joc/NC ,/FF una/DI vegada/NC els/DA acabats/NC els/DA ,/FF és/VS d'/SP acabar/VM -los/PP el/DA més/RG ràpidament/RG possible/AQ ./FF
+També/RG és/VS possible/AQ en/SP el/DA joc/NC de/SP tenir/VM en/SP perspectiva/NC el/DA "/FF rècord/NC mundial/AQ "/FF de/SP temps/NC per/SP a/SP cada/DI nivell/NC ./FF
+A_més_a_més/RG de/SP els/DA rècords/NC mundials/AQ ,/FF és/VS possible/AQ crear/VM "/FF sales/NC "/FF (/FF rooms/NC )/FF ,/FF el/DA principi/NC és/VS el/DA mateix/PI que/CS els/DA rècords/NC mundials/AQ ,/FF però/CC aquestes/DD es/P0 limiten/VM a/SP un/DI grup/NC de/SP jugadors/NC ./FF
+Quan/CS el/DA jugador/NC comença/VM en/SP un/DI nivell/NC ha/VA de/SP recollir/VM totes/DI les/DA maduixes/NC que/PR hi/PP ha/VA escampades/NC ./FF
+Quan/CS les/DA ha/VA recollit/VM totes/DI pot/VM dirigir/VM -se/P0 cap/NC a/SP la/DA flor/NC per/SP passar/VM a/SP el/DA següent/AQ nivell/NC ./FF
+Hi/PP ha/VA diferents/DI obstacles/NC ,/FF entre/SP ells/PP mines/NC ,/FF ,/FF terreny/NC abrupte/AQ .../FF En/SP certs/DI nivells/NC hi/PP ha/VA objectes/NC que/PR es/P0 mouen/VM sols/RG ./FF
+El/DA conductor/NC només/RG es/P0 malmet/VM quan/CS el/DA seu/PX cap/NC xoca/VM contra/SP la/DA roca/NC o/CC algun/DI altre/DI objecte/NC ,/FF llavors/RG és/VS quan/CS s'/P0 ha/VA perdut/VM el/DA nivell/NC ./FF
+Controls/NC bàsics/AQ ./FF
+So/NC i/CC gràfics/NC ./FF
+LX-Moto/NP té/VM alta/AQ resolució/NC de/SP els/DA gràfics/NC ,/FF usant/VM acceleració/NC de/SP hardware/NC 3D/ZZ (/FF OpenGL/NP )/FF per/SP a/SP millorar/VM el/DA rendiment/NC ./FF
+El/DA joc/NC és/VS completament/RG en/SP 2D/ZZ ,/FF i/CC el/DA so/NC és/VS escàs/AQ :/FF només/RG hi/PP ha/VA sons/NC a/SP el/DA guanyar/VM o/CC perdre/VM un/DI nivell/NC ,/FF mentre/CS el/DA menú/NC té/VM una/DI banda_sonora/NC ./FF
+Els/DA nivells/NC poden/VM tenir/VM la/DA seva/PX pròpia/AQ música/NC ./FF
+Nivells/NP ./FF
+Hi/PP ha/VA nivells/NC per/SP defecte/NC ,/FF i/CC n'/PP hi/PP ha/VA d'/SP altres/PI que/PR poden/VM ser/VS descarregats/VM automàticament/RG ./FF
+Aquests/DD nivells/NC estan/VM creats/VM amb/SP l'/DA Inkscape/NP i/CC programats/VM en/SP Lua/NP ,/FF amb/SP l'/DA extensió/NC Inksmoto/NP ./FF
+També/RG hi/PP ha/VA un/DI editor/NC de/SP nivells/NC per/SP seperat/VM ,/FF anomenat/VM X-Moto/NP editor/AQ ,/FF però/CC està/VM obsolet/AQ :/FF aquí/RG sota/SP s'/P0 inclou/VM un/DI missatge/NC de/SP el/DA web/NC de/SP l'/DA X-Moto/NP respecte/VM l'/DA editor/NC de/SP nivells/NC :/FF Una/DI nova/AQ eina/NC per/SP a/SP crear/VM nivells/NC està/VM disponible/AQ :/FF Inksmoto_Level_Editor/NP ./FF
+Et/PP deixa/VM crear/VM millors/AQ nivells/NC ./FF (/FF Usa/VM l'/DA eina/NC Inkscape/NP )/FF ./FF
+L'/DA Xmoto-editor/NP està/VM obsolet/AQ ,/FF i/CC no/RN suporta/VM nivells/NC de/SP X-Moto/NP des_de/SP la/DA versió/NC 0.2.4/ZZ !/FF
+Si/CS us/P0 plau/VM utilitza/VM l'/DA Inksmoto/NP per/SP tenir/VM les/DA millors/AQ de/SP les/DA teves/PX idees/NC !/FF
+Quan/CS s'/P0 aconsegueix/VM un/DI nivell/NC ,/FF es/P0 desa/VM una/DI repetició/NC ,/FF que/PR podrà/VM ser/VS mostrada/VM més/RG endavant/RG ./FF
+Si/CS no/RN s'/P0 aconsegueix/VM el/DA nivell/NC es/P0 pot/VM desar/VM igualment/RG la/DA repetició/NC ./FF
+A/SP cada/DI nivell/NC es/P0 mostra/VM un/DI fantasma/NC que/PR simula/VM una/DI repetició/NC prèvia/AQ de/SP el/DA rècord/NC anterior/AQ ,/FF i/CC es/P0 pot/VM usar/VM com/CS a/SP referència/NC de/SP el/DA temps/NC ./FF
+Si/CS s'/P0 aconsegueix/VM un/DI rècord/NC mundial/AQ ,/FF la/DA repetició/NC es/P0 penjarà/VM a/SP Internet/NP ,/FF i/CC podrà/VM ser/VS descarregada/VM per/SP tothom/PI ./FF
+a/SP el/DA nivell/NC també/RG es/P0 mostrarà/VM el/DA rècord/NC ./FF
+Altres/DI dispositius/NC d'/SP entrada/NC ./FF
+A/SP part/NC de/SP el/DA teclat/NC ,/FF que/PR és/VS el/DA dispositiu/NC d'/SP entrada/NC per/SP defecte/NC ,/FF es/P0 pot/VM utilitzar/VM un/DI joystick/NC i/CC el/DA Wiimote/NP per/SP a/SP controlar/VM el/DA motorista/NC ./FF
+Joystick/NP ./FF
+LX-Moto/NP té/VM un/DI suport/NC experimental/AQ per/SP a/SP joystick/NC ./FF
+S'/P0 ha/VA d'/SP editar/VM l'/DA arxiu/NC config/AQ ./FF dat/VM per/SP això/PD ./FF
+Si/CS els/DA controls/NC no/RN son/NC suaus/AQ ,/FF s'/P0 han/VA de/SP modificar/VM més/RG coses/NC ./FF
+Es/P0 pot/VM abaixar/VM el/DA nivell/NC de/SP JoyPrimAxisMax1/ZZ per/SP a/SP incrementar/VM la/DA resposta/NC a/SP l'/DA acceleració/NC ,/FF o/CC JoyPrimAxisMin1/ZZ per/SP a/SP un/DI valor/NC mes/NC alt/AQ per/SP a/SP incrementar/VM la/DA frenada/NC ./FF
+Si/CS la/DA moto/NC encara/RG està/VM frenant/VM una/DI mica/NC sempre/RG ,/FF inclòs/VM quan/CS no/RN esta/VM fent/VM res/PI ,/FF s'/P0 ha/VA de/SP canviar/VM JoyPrimAxisLL1/ZZ a/SP un/DI valor/NC més/RG baix/AQ ./FF
+Malgrat/SP tot/PI ,/FF és/VS experimental/AQ i/CC encara/RG s'/P0 hi/PP estan/VM trobant/VM errors/NC (/FF bugs/NC )/FF ./FF
+Wiimote/NP ./FF
+També/RG es/P0 pot/VM utilitzar/VM el/DA "/FF Wiimote/NP "/FF (/FF el/DA control/NC de/SP la/DA Wii/NP )/FF com/CS a/SP dispositiu/NC d'/SP entrada/NC ./FF
+Per/SP a/SP fer/VM -ho/PP ,/FF es/P0 necessita/VM interfície/NC de/SP Bluetooth/NP ./FF
+Està/VM programat/VM per/SP a/SP la/DA versió/NC 0.1.0/ZZ de/SP lX-Moto/NC ./FF
+Els/DA controls/NC són/VS els/DA següents/AQ :/FF Requisits/NC de/SP el/DA sistema/NC ./FF
+Per/SP a/SP jugar/VM a/SP lX-Moto/NC es/P0 necessita/VM :/FF CPU/NP :/FF ~/FF 500/ZZ MHz._RAM/NP :/FF 128/ZZ MB/NP ./FF
+Gràfics/NP :/FF Targeta_GeForce-class/NP amb/SP 32/ZZ MB/NP de/SP memòria/NC de/SP vídeo/NC ./FF
+Disc_dur/NC :/FF 10/ZZ MB/NP lliures/AQ ./FF
+Programari/NP :/FF Microsoft_Windows/NP 2000/XP/ZZ ,/FF Linux/NP ,/FF Mac_OS_X/NP ,/FF o/CC FreeBSD/NP ,/FF i/CC OpenGL/NP ./FF
+Valoració/NP ./FF
+LX-Moto/NP ha/VA rebut/VM força/RG bones/AQ valoracions/NC :/FF una/DI nota/NC mitjana/AQ de/SP a/SP Softonic/NP ./FF
+Per/SP part/NC d'/SP aquesta/DD web/NC ,/FF s'/P0 ha/VA dit/VM que/CS no/RN posseeix/VM uns/DI bons/AQ gràfics/NC ,/FF però/CC continua/VM sent/VS divertit/VM ./FF
+També/RG s'/P0 han/VA criticat/VM els/DA nivells/NC ,/FF ja_que/CS són/VS molt/RG simples/AQ ./FF
+Aquí/RG sota/SP s'/P0 inclou/VM una/DI valoració/NC general/AQ de/SP diferents/DI webs/NC :/FF Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Pàgina/NP web/NC de/SP el/DA projecte/NC ;/FF
+Roberto_Heras/NP (/FF nascut/VM l/NC '/FF 1_de_febrer_del_1974/WW a/SP Béjar/NP )/FF és/VS un/DI ciclista/NC espanyol/AQ ./FF
+Les/DA seves/PX victòries/NC més/RG destacades/VM són/VS la/DA Volta/NP a/SP Espanya/NP 2000/ZZ ,/FF 2003/ZZ i/CC 2004/ZZ i/CC la/DA Volta/NP a/SP Catalunya/NP 2002/ZZ ./FF
+Ángel_Casero/NP (/FF nascut/VM el/DA 27_de_setembre_del_1972/WW a/SP València/NP )/FF és/VS un/DI ciclista/NC espanyol/AQ ./FF
+La/DA seva/PX victòria/NC més/RG destacada/VM és/VS la/DA Volta/NP a/SP Espanya/NP 2001/ZZ ./FF
+Quint/VM Pompeu_Ruf/NP fou/VS el/DA gendre/NC de/SP el/DA dictador/NC Luci_Corneli_Sul·la/NP gràcies_a/SP el/DA seu/PX matrimoni/NC amb/SP Cornèlia/NP ./FF
+Fou/VS assassinat/NC el/DA 88/ZZ aC/NC per/SP ordre/NC de/SP el/DA tribú/NC Sulpici/NP ./FF
+Phrynobatrachus/NP dispar/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP São_Tomé/NP i/CC Príncipe/NP ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R./NP 2004/ZZ ./FF
+Phrynobatrachus/NP dispar/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Phrynobatrachus/NP elberti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Txad/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP la/DA República_Centreafricana/NP ./FF
+Referències/NP ./FF
+Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP elberti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Les/DA Vides/NP de/SP sants/NC rossellonses/AQ és/VS un/DI text/NC en/SP català/NC de/SP el/DA segle_XIII/WW ./FF
+És/VS una/DI adaptació/NC a/SP el/DA català/NC de/SP la/DA Llegenda/NP àuria/AQ ./FF
+La/DA seva/PX importància/NC rau/VM en/SP l'/DA antiguitat/NC de/SP el/DA text/NC ,/FF que/PR permet/VM conèixer/VM bé/RG el/DA català/NC parlat/VM a/SP l'/DA extrem/NC nord/AQ de/SP el/DA domini/NC lingüístic/AQ en/SP una/DI època/NC tan/RG reculada/NC ./FF
+L'/DA obra/NC reflecteix/VM força/RG trets/NC lingüístics/AQ que/PR després/RG desapareixerien/VM o/CC quedarien/VM molt/RG reduïts/VM ./FF
+A/SP tall/NC d'/SP exemple/NC ,/FF els/DA verbs/NC de/SP la/DA II/NP conjugació/NC adopten/VM la/DA vocal/AQ temàtica/NC e/NC quan/PR reben/VM el/DA sufix/NC -/FF ment/NC (/FF rebement/NC )/FF ,/FF mentre_que/CC avui/RG dia/NC generalment/RG adopten/VM la/DA vocal/AQ temàtica/NC i/CC (/FF rebiment/NC )/FF ./FF
+Un/DI altre/DI exemple/NC és/VS el/DA plural/NC de/SP mots/NC acabats/NC en/SP -s/PP ./FF
+Avui/RG dia/NC es/P0 fa/VM amb/SP o/CC (/FF mes/NC >/FF mesos/NC )/FF ,/FF però/CC en/SP català/NC antic/AQ es/P0 feia/VM amb/SP e/NC (/FF mes/NC >/FF meses/NC )/FF ./FF
+El/DA mateix/DI títol/NC de/SP l'/DA obra/NC recull/VM aquest/DD tret/NC (/FF rossellonses/NC per/SP rossellonesos/AQ )/FF ./FF
+Sembla/VM que/CS el/DA canvi/NC de/SP e/NC en/SP o/CC es/P0 va/VA produir/VM aviat/RG ;/FF d'/SP aquí/RG la/DA importància/NC d'/SP aquest/DD testimoni/NC documental/AQ ./FF
+El/DA document/NC ha/VA estat/VS estudiat/VM per/SP Joan_Coromines/NP ,/FF Edward_J._Neugaard/NP i/CC Charlotte_S._Maneikis_Kniazzeh/NP ,/FF i/CC publicat/VM per/SP la/DA Fundació_Salvador_Vives_Casajuana/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Vides_de_Sants_Rosselloneses_Traducció/NP catalana/AQ de/SP el/DA S._XIII/WW de/SP la/DA Llegenda_Daurada_de_Jacopo/NP da/VM Varazze/NP ,/FF Edició/NP a/SP càrrec/NC de/SP Charlotte_S._Maneikis_Kniazzeh/NP i/CC Edward_J._Neugaard/NP ,/FF amb/SP la/DA col·laboració/NC de/SP Joan_Coromines/NP ,/FF Fundació_Salvador_Vives_Casajuana/NP ,/FF Barcelona/NP ,/FF 1977/ZZ ,/FF p/NC ./FF 190-203/ZZ ./FF
+Phrynobatrachus/NP francisci/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burkina_Faso/NP ,/FF Costa_d'_Ivori/NP ,/FF Gàmbia/NP ,/FF Ghana/NP ,/FF Mali/NP ,/FF Nigèria/NP ,/FF Senegal/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Benín/NP ,/F

@@ -11185,4 +11185,168 @@ Skitty/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
 És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM en/SP Delcatty/NP ./FF
 Enllaços/NC externs/AQ ./FF
 Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
-Phrynobatrachus/NP versicolor/
+Phrynobatrachus/NP versicolor/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Burundi/NP ,/FF República_Democràtica_de_el_Congo/NP ,/FF Rwanda/NP i/CC Uganda/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Drewes/NP ,/FF R._&_Pickersgill/NP ,/FF M./NP 2004/ZZ ./FF
+Phrynobatrachus/NP versicolor/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Slaking/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Vigoroth/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Slakoth/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM en/SP Vigoroth/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Smeargle/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP villiersi/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Ghana/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Libèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O._&_Schiøtz/NP ,/FF A./NP 2004/ZZ ./FF
+Phrynobatrachus/NP villiersi/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Snubbull/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM en/SP Granbull/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Spinda/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Stantler/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Tauros/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP vogti/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Ghana/NP ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Phrynobatrachus/NP vogti/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Salamence/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC drac/NC i/CC tipus/NC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Whismur/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM en/SP Loudred/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Zangoose/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Zigzagoon/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM en/SP Linoone/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Phrynobatrachus/NP werneri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Camerun/NP i/CC Nigèria/NP ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Phrynobatrachus/NP werneri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+El/DA Palau/NP Nou/AQ (/FF en/SP alemany/NC :/FF Neues_Palais/NP )/FF és/VS un/DI palau/NC situat/VM a/SP la/DA part/NC occidental/AQ de/SP el/DA parc/NC reial/AQ Sanssouci/NP a/SP Potsdam/NP ,/FF Alemanya/NP ./FF
+L'/DA edifici/NC fou/VS començat/VM el/DA 1763/ZZ ,/FF després/RG de/SP el/DA final/NC de/SP la/DA Guerra/NP de/SP els/DA Set/NC Anys/NP ,/FF governant/NC Frederic_el_Gran/NP i/CC es/P0 completava/VM el/DA 1769/ZZ ./FF
+Es/P0 considera/VM que/CS és/VS l'/DA últim/AO gran/AQ palau/NC barroc/AQ prussià/AQ ./FF
+Gulpin/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC verí/NC i/CC evoluciona/VM en/SP Swalot/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Swalot/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC verí/NC i/CC evoluciona/VM de/SP Gulpin/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Grimer/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC verí/NC i/CC evoluciona/VM en/SP Muk/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Muk/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC verí/NC i/CC evoluciona/VM de/SP Grimer/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Seviper/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC verí/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Caio_César_Alves/NP dos/VM Santos/NP és/VS un/DI futbolista/NC brasiler/AQ ./FF
+Va/VA començar/VM com/CS a/SP futbolista/NC a/SP el/DA Grêmio_Recreativo_Barueri/NP ./FF
+Chimecho/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM de/SP Chingling/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Gardevoir/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM de/SP Kirlia/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Grumpig/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM de/SP Spoink/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Spoink/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM en/SP Grumpig/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Mew/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ ./FF
+És/VS un/DI Pokémon/NP llegendari/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF Mew/NP a/SP Smogon/NP ;/FF arboleada/VM sagrada/AQ legendaria/VM
+Petropedetes/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Petropedetidae/NP ./FF
+Petropedetes/NP cameronensis/NC ;/FF Petropedetes/NP johnstoni/NC ;/FF Petropedetes/NP natator/NC ;/FF Petropedetes/NP newtoni/NC ;/FF Petropedetes/NP palmipes/NC ;/FF Petropedetes/NP parkeri/NC ;/FF Petropedetes/NP perreti/VM ;/FF Referències/NP ./FF
+Informació/NP d'/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Ralts/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM en/SP Kirlia/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Unown/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Un/DI huscarl/AQ fou/VS una/DI tropa/NC especial/AQ encarregada/NC de/SP la/DA guàrdia/NC personal/AQ de/SP el/DA reis/NC i/CC els/DA senyors/NC escandinaus/AQ durant/SP l'/DA Edat/NP antiga/AQ i/CC l'/DA Edat_mitjana/NP armats/NC amb/SP grans/AQ destrals/NC i/CC actuant/VM com/CS la/DA infanteria/NC d'/SP elit/NC ./FF
+La/DA paraula/NC huscarl/AQ prové/VM de/SP el/DA Nòrdic/NP antic/AQ huscarl/AQ o/CC huskarl/AQ que/PR significa/VM "/FF home/NC de/SP la/DA casa/NC "/FF ./FF
+Foren/VS els/DA únics/AQ soldats/NC professionals/AQ de/SP el/DA Regne/NP degut/VM a/SP que/CS la/DA resta/NC de/SP la/DA infanteria/NC solia/VM ser/VS milícia/NC o/CC mercenaris/NC contractats/VM ./FF
+Com/CS eren/VS tropes/NC d'/SP elit/NC ,/FF els/DA Regnes/NP no/RN solien/VM tenir/VM més/RG de/SP 3000/ZZ tropes/NC perquè/CS el/DA seu/PX manteniment/NC era/VS costós/AQ ./FF
+Foren/VS introduïts/VM a/SP Anglaterra/NP quan/CS la/DA conquerí/VM el/DA rei/NC danès/AQ Canut_II_de_Dinamarca/NP on/PR arribaren/VM a/SP els/DA 3000/ZZ efectius/NC (/FF degut/VM a/SP això/PD ,/FF es/P0 veren/VM obligats/VM a/SP imposar/VM un/DI impost/NC addicional/AQ per_tal_de/SP poder/VM pagar/VM el/DA seu/PX manteniment/NC )/FF ./FF
+En/SP temps/NC de/SP pau/NC ,/FF els/DA huscarls/AQ ocupaven/VM càrrecs/NC administratius/AQ com/CS representants/NC de/SP el/DA rei/NC però/CC la/DA seva/PX funció/NC principal/AQ era/VS la/DA de/SP defensa/NC de/SP els/DA Nobles/NP i/CC Senyors/NP ./FF
+Quan/CS els/DA reis/NC Saxons/NP recuperaren/VM un/DI altre/DI pic/NC el/DA poder/NC a/SP l'/DA illa/NC ,/FF conservaren/VM el/DA servici/NC de/SP els/DA huscarls/AQ com/CS a/SP infanteria/NC d'/SP elit/NC ./FF
+Emperò/RG ,/FF en/SP la/DA Batalla_de_Hastings/NP el/DA 1066/ZZ la/DA gran/AQ majoria/NC moriren/VM en/SP mans/NC de/SP els/DA normands/NC comandats/VM per/SP Guillem_I_d'_Anglaterra/NP ./FF
+No/RN obstant/VM això/PD ,/FF una/DI part/NC de/SP els/DA huscarls/AQ aconseguiren/VM fugir/VM cap/NC a/SP Europa/NP guanyant/VM -se/PP la/DA vida/NC com/CS a/SP mercenaris/AQ arribant/VM a/SP ser/VS la/DA guàrdia/NC personal/AQ de/SP l'/DA Imperi_Bizantí/NP (/FF Guàrdia_Varenga/NP )/FF o/CC de/SP Moscòvia/NP (/FF Druzhina/NP )/FF ./FF
+Petropedetes/NP cameronensis/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Camerun/NP ,/FF Guinea_Equatorial/NP i/CC Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Petropedetes/NP cameronensis/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Petropedetes/NP johnstoni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Petropedetes/NP johnstoni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Petropedetes/NP natator/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Costa_d'_Ivori/NP ,/FF Guinea/NP ,/FF Libèria/NP i/CC Sierra_Leone/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Rödel/NP ,/FF M./NP -/FF O./NP 2004/ZZ ./FF
+Petropedetes/NP natator/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Petropedetes/NP newtoni/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF Guinea_Equatorial/NP ,/FF Gabon/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Nigèria/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP ,/FF Schiøtz/NP ,/FF A./NP ,/FF Drewes/NP ,/FF R._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
+Petropedetes/NP newtoni/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+L'/DA estructura/NC interna/AQ de/SP la/DA Terra/NP comprèn/VM diversos/DI embolcalls/NC successius/AQ ,/FF de/SP els/DA quals/PR els/DA principals/AQ són/VS l'/DA escorça/NC terrestre/AQ ,/FF el/DA mantell/NC i/CC el/DA nucli/NC ./FF
+Aquesta/DD representació/NC està/VM molt/RG simplificada/VM ja_que/CS aquests/DD embolcalls/NC poden/VM presentar/VM subdivisions/NC ./FF
+Per/SP localitzar/VM aquestes/DD capes/NC ,/FF els/DA sismòlegs/NC utilitzen/VM les/DA ones/NC sísmiques/AQ ,/FF i/CC el/DA principi/NC que/CS quan/CS la/DA velocitat/NC d'/SP una/DI ona/NC sísmica/AQ canvia/VM bruscament/RG i/CC de/SP manera/NC important/AQ ,/FF és/VS que/CS hi/PP ha/VA un/DI canvi/NC de/SP medi/NC i/CC ,/FF per/SP tant/RG ,/FF de/SP capa/NC ./FF
+Aquest/DD mètode/NC ha/VA permès/VM ,/FF per_exemple/RG ,/FF determinar/VM l'/DA estat/NC de/SP la/DA matèria/NC a/SP profunditats/NC que/CS l'/DA ésser/NC humà/AQ no/RN pot/VM atènyer/VM ./FF
+Aquestes/DD capes/NC són/VS delimitades/VM per/SP discontinuïtats/NC com/CS la/DA de/SP Mohorovi/NP i/CC ,/FF la/DA de/SP Gutenberg/NP ,/FF o/CC la/DA de/SP Lehmann/NP ./FF
+Per/SP comprendre/VM aquesta/DD constitució/NC ,/FF cal/VM remuntar/VM -se/P0 a/SP la/DA formació/NC Terra/NP ,/FF que/PR s'/P0 ha/VA format/VM per/SP acreció/NC de/SP meteorits/NC i/CC ,/FF en/SP el/DA moment/NC d'/SP aquesta/DD formació/NC ,/FF les/DA diferents/DI capes/NC s'/P0 han/VA establert/VM com_a_conseqüència_de/SP la/DA diferent/AQ densitat/NC de/SP els/DA seus/PX constituents/NC ./FF
+Detall/NP de/SP l'/DA estructura/NC ./FF
+L'/DA anàlisi/NC de/SP la/DA composició/NC de/SP les/DA roques/NC terrestres/AQ i/CC meteòriques/AQ ,/FF així/RG com/CS la/DA mesura/NC de/SP la/DA densitat/NC mitjana/AQ de/SP el/DA globus/NC (/FF 5,5/ZZ )/FF han/VA influït/VM sobre/SP diversos/DI models/NC que/PR proposen/VM una/DI fina/AQ i/CC lleugera/AQ crosta/NC o/CC escorça/NC de/SP silicats/NC que/PR recobreix/VM un/DI nucli/NC metàl·lic/AQ més/RG dens/AQ i/CC voluminós/AQ ./FF
+L'/DA an

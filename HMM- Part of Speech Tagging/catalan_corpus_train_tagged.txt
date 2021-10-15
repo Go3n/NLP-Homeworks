@@ -11506,4 +11506,152 @@ Referències/NP ./FF
 Amiet/NP ,/FF J./NP -/FF L._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
 Petropedetes/NP parkeri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
 Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
-Gmina_Cewice/NP és/VS un/DI gmina/VM (/FF districte/NC administratiu/AQ )/FF rural/AQ a/SP el/DA voivodat/NC de/SP Pomerània/NP ,/FF a/SP el/DA comtat/NC de/SP L/NP bork/NC ,/FF a/SP el/DA nord/N
+Gmina_Cewice/NP és/VS un/DI gmina/VM (/FF districte/NC administratiu/AQ )/FF rural/AQ a/SP el/DA voivodat/NC de/SP Pomerània/NP ,/FF a/SP el/DA comtat/NC de/SP L/NP bork/NC ,/FF a/SP el/DA nord/NC de/SP Polònia/NP ./FF
+La/DA capital/NC és/VS Cewice/NP ,/FF que/PR està/VM aproximadament/RG a/SP 13_km/ZZ a/SP el/DA sud/NC de/SP L/NP bork/NC i/CC a/SP 59_km/ZZ a/SP l'/DA est/NC de/SP la/DA capitald/AQ e/NC la/DA regió/NC ,/FF Gda/NP sk/NC ./FF
+El/DA gmina/VM ocupa/VM una/DI àrea/NC de/SP 187/ZZ km²/NC i/CC a/SP el/DA 2006/ZZ ,/FF la/DA seva/PX població/NC total/AQ era/VS de/SP 6.891/ZZ habitants/NC ./FF
+Gmines/NP veïns/NC ./FF
+Gmina_Cewice/NP té/VM frontera/NC amb/SP el/DA poble/NC de/SP L/NP bork/NC i/CC amb/SP els/DA gmines/NC de/SP Czarna_D/NP brówka/RG ,/FF czyce/NC ,/FF Linia/NP ,/FF Nowa_Wie_L/NP borska/RG ,/FF Pot/NP gowo/AQ i/CC Sierakowice/NP ./FF
+Nosepass/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC roca/NC i/CC evoluciona/VM en/SP Probopass/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Petropedetes/NP perreti/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L./NP 2004/ZZ ./FF
+Petropedetes/NP perreti/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Azumarill/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Marill/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Clamperl/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Gorebyss/NP o/CC Huntail/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Corphish/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Crawdaunt/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Feebas/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Milotic/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Luvdisc/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Mudkip/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Marshtomp/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Octillery/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Remoraid/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Remoraid/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Octillery/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Suicune/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Premi/NP Octubre/WW de/SP teatre/NC és/VS un/PI de/SP els/DA Premis/NP Octubre/WW convocats/VM per/SP Edicions/NP Tres/ZZ i/CC Quatre/ZZ des_de/SP 2003/ZZ que/PR premia/VM obres/NC de/SP teatre/NC inèdites/AQ que/PR no/RN siguin/VS traduccions/NC ni/CC adaptacions/NC de/SP guions/NC cinematogràfics/AQ ./FF
+Està/VM dotat/VM amb/SP 4000_euros/ZZ i/CC una/DI esculptura/NC d'/SP Andreu_Alfaro/NP ./FF
+Guardonats/VM ./FF
+2003/ZZ -/FF Joan_Solana/NP i/CC Figueras_per_El/NP somni/NC de/SP el/DA bandoler/NC ;/FF 2004/ZZ -/FF Daniela_Freixas_Conte_per_Només/NP sexe/NC ;/FF 2005/ZZ -/FF Ignasi_Moreno_Gutiérrez_per_Jeff/NP ./FF
+Els/DA colors/NC de/SP la/DA bogeria/NC ./FF
+2006/ZZ -/FF Josep_Julien_per_Sex/NP 'n/PP '/FF drugs/AQ &/FF Johann_Cruyff/NP ./FF
+2007/ZZ -/FF Octavi_Egea/NP i/CC Climent_per_Lost/NP person/VM area/NC ./FF ;/FF 2008/ZZ -/FF Samuel_Sebastian_per_Les/NP habitacions/NC tancades/NC ./FF ;/FF
+Els/DA microhílids/NC (/FF Microhylidae/NP )/FF són/VS una/DI família/NC de/SP granotes/NC que/PR comprèn/VM 413/ZZ espècies/NC distribuïdes/VM en/SP 69/ZZ gèneres/NC ./FF
+Referències/NP ./FF
+;/FF ;/FF
+Wailmer/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM en/SP Wailord/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Wailord/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC evoluciona/VM de/SP Wailmer/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+David_Vives_Farrés/NP (/FF Valls/NP ,/FF 4_d'_octubre_de_1864/WW Barcelona/NP ,/FF 4_de_juliol_de_1936/WW )/FF fou/VS un/DI compositor/NC català/AQ ./FF
+Biografia/NP ./FF
+Fill_de_Josep_Vives/NP i/CC de/SP Josepa_Farrés/NP ,/FF família/NC de/SP la/DA burgesia/NC de/SP Valls/NP ,/FF començà/VM a/SP dedicar/VM -se/P0 a/SP el/DA negoci/NC familiar/AQ ,/FF que/PR eren/VS les/DA adoberies/NC i/CC hi/PP va/VA treballar/VM mentre/CS va/VA viure/VM a/SP Valls/NP ./FF
+De/SP formació/NC musical/AQ autodidacta/NC ,/FF aprengué/VM piano/RG i/CC violí/NC i/CC de/SP jove/NC començà/VM a/SP relacionar/VM -se/P0 amb/SP els/DA cercles/NC culturals/AQ de/SP la/DA ciutat/NC ,/FF on/PR féu/VM amistat/NC ,/FF entre/SP altres/PI ,/FF amb/SP l'/DA escriptor/NC Narcís_Oller/NP ,/FF el/DA poeta/NC mossèn/NC Anton_Navarro/NP ,/FF l'/DA escultor/NC Anselm_Nogués/NP i/CC el/DA pintor/NC Galofre_Ollé/NP ./FF
+Va/VA crear/VM un/DI quartet/NC format/NC per/SP nens/NC i/CC nois/NC joves/AQ de/SP la/DA família/NC i/CC també/RG va/VA donar/VM les/DA primeres/AO classes/NC de/SP música/NC a/SP el/DA seu/PX germà/NC Josep/NP ,/FF qui/PR més/RG tard/RG va/VA estudiar/VM a/SP el/DA Conservatori_de_Brussel·les/NP i/CC va/VA iniciar/VM una/DI carrera/NC destacada/VM com/CS a/SP concertista/NC ,/FF però/CC va/VA morir/VM a/SP els/DA 25/ZZ anys/NC ./FF
+El/DA 1916/ZZ es/P0 va/VA traslladar/VM amb/SP la/DA seva/PX família/NC a/SP Barcelona/NP ,/FF on/PR va/VA tenir/VM diversos/DI alumnes/NC a/SP els/DA quals/PR feia/VM classes/NC de/SP piano/RG ,/FF violí/NC ,/FF solfeig/NC i/CC cant/NC ,/FF entre/SP els/DA quals/PR diverses/DI figures/NC conegudes/VM de/SP el/DA panorama/NC musical/AQ de/SP l'/DA època/NC ,/FF com/CS ara/RG Raquel_Meller/NP i/CC Conxita_Supervia/NP ./FF
+Obra/NC musical/AQ ./FF
+L'/DA obra/NC musical/AQ de/SP David_Vives/NP s'/P0 emmarca/VM dins/RG de/SP la/DA tradició/NC romàntica/AQ catalana/AQ d'/SP Enric_Granados/NP i/CC Isaac_Albéniz/NP ./FF
+La/DA major/AQ part/NC de/SP l'/DA obra/NC de/SP Vives/NP és/VS per/SP a/SP piano/RG i/CC per/SP a/SP piano/RG i/CC veu/VM ,/FF a/SP més/RG d'/SP algunes/DI composicions/NC per/SP a/SP quartet/NC o/CC quintet/NC de/SP corda/NC i/CC per/SP a/SP petits/AQ conjunts/NC de/SP vent/NC ./FF
+Entre/SP les/DA obres/NC per/SP a/SP piano/RG destaquen/VM una/DI Serenata/NP per/SP a/SP piano/RG ,/FF diverses/DI havaneres/NC i/CC moltes/DI peces/NC ballables/AQ ,/FF com/CS ara/RG masurques/NC o/CC valsos/NC ./FF
+Per/SP a/SP veu/NC i/CC piano/RG destaca/VM el/DA recull/NC de/SP cançons/NC Brots/NP de/SP ginesta/NC ,/FF amb/SP poemes/NC musicats/VM de/SP Narcís_Oller/NP ,/FF Joan_Maragall/NP i/CC mossèn/NC Anton_Navarro/NP ,/FF entre/SP d'/SP altres/PI ,/FF generalment/RG per/SP a/SP soprano/NC i/CC piano/RG ./FF
+Roselia/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC planta/NC i/CC verí/NC i/CC evoluciona/VM de/SP Budew/NP ./FF
+Evoluciona/VM en/SP Roserade/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Asterophryinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC de/SP la/DA família/NC Microhylidae/NP ./FF
+Gèneres/NP ./FF
+Asterophrys/NP ;/FF Barygenys/NP ;/FF Callulops/NP ;/FF Hylophorbus/NP ;/FF Mantophryne/NP ;/FF Pherohapsis/NP ;/FF Xenobatrachus/NP ;/FF Xenorhina/NP ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD subfamília/NC de/SP granotes/NC ./FF ;/FF
+Roserade/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC planta/NC i/CC verí/NC i/CC evoluciona/VM de/SP Roselia/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Premi/NC de/SP periodisme/NC d'/SP investigació/NC Ramon_Barnils/NP és/VS un/PI de/SP els/DA Premis/NP Octubre/WW convocat/VM ,/FF però/CC ,/FF per/SP la/DA revista/NC El_Temps/NP des_de/SP el/DA 1986/ZZ ,/FF però/CC que/PR rep/VM el/DA nom/NC actual/AQ des_de/SP el/DA 2001/ZZ ,/FF en/SP homenatge/NC a/SP el/DA periodista/NC Ramon_Barnils/NP i/CC Folguera/NP ./FF
+Premia/VM treballs/NC inèdits/AQ escrits/NC en/SP català/NC sobre/SP temes/NC econòmics/AQ ,/FF polítics/AQ ,/FF socials/AQ o/CC culturals/AQ ,/FF sempre/RG des_de/SP el/DA vessant/NC de/SP el/DA periodisme/NC d'/SP investigació/NC ./FF
+Guardonats/VM ./FF
+1986/ZZ -/FF Jaume_Fernández/NP i/CC Calvet_per_L'_Ertzantza/NP ,/FF policía/RG de/SP substitució/NC ;/FF 2001/ZZ -/FF Antoni_Batista_per_Lladres/NP o/CC policies/NC ./FF
+2002/ZZ -/FF Jordi_Sebastià/NP i/CC Talavera_per_El/NP president/NC ,/FF les/DA falleres/NC ,/FF l/NC horta/NC i/CC la/DA carretera/NC ./FF
+2003/ZZ -/FF Marc_Roma/NP i/CC Roger_Palà_per_Presons/NP adolescents/NC ./FF
+2004/ZZ ;/FF 2005/ZZ -/FF Josep_Víctor_Gay/NP amb/SP Manuel_Azaña/NP que/PR estàs/VM en/SP el/DA cel/NC ./FF
+2006/ZZ -/FF Alfons_Llorenç/NP i/CC Gadea/NP ,/FF per/SP Una/DI història/NC silenciada/VM de/SP la/DA ràdio/NC ;/FF 2007/ZZ -/FF desert/NC ;/FF 2008/ZZ -/FF Mario_Reyes/NP ,/FF per/SP La_València_de_Hitler/NP ;/FF
+Xenobatrachus/NP és/VS un/DI gènere/NC de/SP granotes/NC endèmic/AQ de/SP Nova_Guinea/NP ./FF
+Espècies/NP ./FF
+Xenobatrachus/NP anorbis/AQ ;/FF Xenobatrachus/NP arfakianus/NC ;/FF Xenobatrachus/NP bidens/NC ;/FF Xenobatrachus/NP fuscigula/NC ;/FF Xenobatrachus/NP giganteus/NC ;/FF Xenobatrachus/NP huon/VM ;/FF Xenobatrachus/NP lanthanites/NC ;/FF Xenobatrachus/NP macrops/NC ;/FF Xenobatrachus/NP mehelyi/VM ;/FF Xenobatrachus/NP multisica/NC ;/FF Xenobatrachus/NP obesus/NC ;/FF Xenobatrachus/NP ocellatus/NC ;/FF Xenobatrachus/NP ophiodon/VM ;/FF Xenobatrachus/NP rostratus/NC ;/FF Xenobatrachus/NP scheepstrai/NC ;/FF Xenobatrachus/NP schiefenhoeveli/NC ;/FF Xenobatrachus/NP subcroceus/NC ;/FF Xenobatrachus/NP tumulus/NC ;/FF Xenobatrachus/NP zweifeli/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Larvitar/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC roca/NC i/CC terra/NC i/CC evoluciona/VM en/SP Pupitar/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Pupitar/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC roca/NC i/CC terra/NC i/CC evoluciona/VM de/SP Larvitar/NP ./FF
+Evoluciona/VM en/SP Tyranitar/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP anorbis/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP i/CC Papua_Nova_Guinea/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP anorbis/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP arfakianus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Menzies/NP ,/FF J./NP 2004/ZZ ./FF
+Xenobatrachus/NP arfakianus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Farfetch'd/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP bidens/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP i/CC Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP bidens/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Togetic/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC volador/AQ i/CC evoluciona/VM de/SP Togepi/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Taillow/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC volador/AQ i/CC evoluciona/VM en/SP Swellow/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP fuscigula/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Allison/NP ,/FF A./NP 2004/ZZ ./FF
+Xenobatrachus/NP fuscigula/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Filip_V_de_Macedònia/NP (/FF Philippus/NP ,/FF )/FF (/FF 237/ZZ aC-179/ZZ aC/NC )/FF fou/VS rei/NC de/SP Macedònia/NP ,/FF fill/NC de/SP Demetri_II_de_Macedònia/NP que/PR va/VA morir/VM el/DA 229/ZZ aC/NC ./FF
+El/DA tron/NC va/VA passar/VM llavors/RG a/SP el/DA seu/PX oncle/NC Antígon_III_Dosó/NP ,/FF més/RG com/CS a/SP rei/NC que

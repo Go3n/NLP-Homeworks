@@ -11349,4 +11349,78 @@ Aquestes/DD capes/NC són/VS delimitades/VM per/SP discontinuïtats/NC com/CS la
 Per/SP comprendre/VM aquesta/DD constitució/NC ,/FF cal/VM remuntar/VM -se/P0 a/SP la/DA formació/NC Terra/NP ,/FF que/PR s'/P0 ha/VA format/VM per/SP acreció/NC de/SP meteorits/NC i/CC ,/FF en/SP el/DA moment/NC d'/SP aquesta/DD formació/NC ,/FF les/DA diferents/DI capes/NC s'/P0 han/VA establert/VM com_a_conseqüència_de/SP la/DA diferent/AQ densitat/NC de/SP els/DA seus/PX constituents/NC ./FF
 Detall/NP de/SP l'/DA estructura/NC ./FF
 L'/DA anàlisi/NC de/SP la/DA composició/NC de/SP les/DA roques/NC terrestres/AQ i/CC meteòriques/AQ ,/FF així/RG com/CS la/DA mesura/NC de/SP la/DA densitat/NC mitjana/AQ de/SP el/DA globus/NC (/FF 5,5/ZZ )/FF han/VA influït/VM sobre/SP diversos/DI models/NC que/PR proposen/VM una/DI fina/AQ i/CC lleugera/AQ crosta/NC o/CC escorça/NC de/SP silicats/NC que/PR recobreix/VM un/DI nucli/NC metàl·lic/AQ més/RG dens/AQ i/CC voluminós/AQ ./FF
-L'/DA an
+L'/DA anàlisi/NC de/SP les/DA dades/NC sismològiques/AQ ,/FF cada/DI cop/NC més/RG precises/AQ ,/FF han/VA permès/VM establir/VM el/DA model/NC actual/AQ ./FF
+Escorça/NP continental/AQ ,/FF sòlida/AQ ,/FF essencialment/RG granítica/AQ ,/FF amb/SP roques/NC sedimentàries/AQ a/SP el/DA damunt/RG ./FF
+És/VS més/RG espessa/AQ que/CS l'/DA escorça/NC oceànica/AQ (/FF de/SP 30_km/ZZ a/SP 100_km/ZZ sota/SP les/DA cadenes/NC de/SP muntanyes/NC )/FF ./FF
+L'/DA escorça/NC terrestre/AQ representa/VM aproximadament/RG 1/ZZ '/FF 5_%/ZZ de/SP el/DA volum/NC terrestre/AQ ./FF
+Antigament/RG s'/P0 anomenava/VM SIAL/NP (/FF silici/NC +/FF alumini/NC )/FF ./FF
+Escorça/NP oceànica/AQ ,/FF sòlida/AQ ,/FF essencialment/RG composta/NC de/SP roques/NC basàltiques/AQ ./FF
+Relativament/RG fina/AQ (/FF aproximadament/RG 5_km/ZZ )/FF ./FF
+També/RG s'/P0 anomena/VM SIMA/NP (/FF silici/NC +/FF magnesi/NC )/FF ./FF
+Zona/NP de/SP subducció/NC ,/FF on/PR una/DI placa/NC s'/P0 enfonsa/VM de/SP vegades/NC fins/SP a/SP uns/DI quants/DI centenars/NC de/SP quilòmetres/NC dins/SP el/DA mantell/NC ./FF
+Mantell/NP superior/AQ ,/FF que/PR és/VS més/RG viscós/AQ que/CS el/DA mantell/NC inferior/AQ ja_que/CS les/DA restriccions/NC físiques/AQ que/PR hi/PP regnen/VM el/DA transformen/VM ,/FF en/SP part/NC ,/FF en/SP líquid/NC ./FF
+És/VS format/VM essencialment/RG de/SP roques/NC com/CS la/DA peridotita/NC (/FF els/DA seus/PX minerals/NC són/VS :/FF olivina/NC ,/FF piroxè/NC ,/FF granat/NC )/FF ./FF
+a/SP el/DA contacte/NC entre/SP l'/DA escorça/NC i/CC el/DA mantell/NC superior/AQ es/P0 pot/VM de/SP vegades/NC descobrir/VM una/DI zona/NC anomenada/NC LVZ/NP ./FF (/FF vegeu/VM el/DA númèro/NC 11/ZZ )/FF ./FF
+Erupcions/NP sobre/SP zones/NC de/SP vulcanisme/NC actiu/AQ ./FF
+Dos/VM tipus/NC de/SP vulcanismes/NC són/VS representats/VM aquí/RG ,/FF el/DA més/RG profund/AQ de/SP els/DA dos/ZZ és/VS anomenat/VM «/FF de/SP punt/NC conflictiu/AQ »/FF ./FF
+Es/P0 tractaria/VM de/SP volcans/NC de/SP els/DA quals/PR el/DA magma/NC provindria/VM de/SP les/DA profunditats/NC de/SP el/DA mantell/NC prop/RG de/SP el/DA límit/NC amb/SP el/DA nucli/NC líquid/AQ ./FF
+Aquests/DD volcans/NC no/RN serien/VS doncs/RG vinculats/VM a/SP les/DA plaques/NC tectòniques/AQ i/CC ,/FF no/RN seguint/VM doncs/RG els/DA moviments/NC de/SP l'/DA escorça/NC terrestre/AQ ,/FF serien/VS quasi/RG immòbils/AQ a/SP la/DA superfície/NC de/SP el/DA globus/NC ,/FF i/CC formarien/VM els/DA arxipèlags/NC d'/SP illes/NC com/CS les/DA Tahití/NP ./FF
+Mantell/NP inferior/AQ ,/FF que/PR presenta/VM les/DA propietats/NC d'/SP un/DI sòlid/NC elàstic/AQ ./FF
+El/DA mantell/NC no/RN és/VS líquid/AQ com/CS es/P0 podria/VM creure/VM mirant/VM els/DA corrents/NC de/SP lava/NC de/SP certes/DI erupcions/NC volcàniques/AQ però/CC és/VS menys/RG "/FF dur/VM "/FF que/CS les/DA altres/DI capes/NC ./FF
+El/DA mantell/NC representa/VM un/DI 84_%/ZZ de/SP el/DA volum/NC terrestre/AQ ./FF
+Matèria/NP més/RG calenta/AQ que/CS ,/FF partint/VM de/SP el/DA límit/NC amb/SP el/DA nucli/NC ,/FF es/P0 fon/VM parcialment/RG prop/RG de/SP la/DA superfície/NC de/SP la/DA Terra/NP i/CC produeix/VM el/DA vulcanisme/NC de/SP punt/NC conflictiu/AQ ./FF
+Nucli/NP extern/AQ ,/FF líquid/NC ,/FF essencialment/RG compost/NC de/SP ferro/NC (/FF aproximadament/RG 80_%/ZZ )/FF i/CC de/SP níquel/NC més/RG alguns/DI elements/NC més/RG lleugers/AQ ./FF
+La/DA seva/PX viscositat/NC és/VS similar/AQ a/SP la/DA de/SP l'/DA aigua/NC ,/FF la/DA seva/PX temperatura/NC mitjana/AQ ateny/VM els/DA 4000/ZZ °C/NC i/CC la/DA seva/PX densitat/NC és/VS de/SP 10/ZZ ./FF
+Aquesta/DD enorme/AQ quantitat/NC de/SP metall/NC en/SP fusió/NC és/VS remogut/VM (/FF per/SP convecció/NC ,/FF però/CC també/RG en/SP resposta/NC a/SP els/DA diversos/DI moviments/NC de/SP rotació/NC i/CC de/SP precessió/NC de/SP el/DA globus_terraqüi/NC )/FF ./FF
+Escolaments/NP de/SP ferro/NC líquid/AQ hi/PP poden/VM engendrar/VM corrents/NC elèctrics/AQ que/PR donen/VM lloc/NC a/SP camps/NC magnètics/AQ que/PR reforcen/VM els/DA corrents/NC que/PR creen/VM així/RG un/DI efecte/NC dinamo/NC mantenint/VM -se/PP els/DA uns/DI a/SP els/DA altres/PI ./FF
+El/DA nucli/NC líquid/AQ és/VS ,/FF doncs/RG ,/FF l'/DA origen/NC de/SP el/DA camp/NC magnètic/AQ terrestre/AQ ./FF
+Nucli/NP intern/VM ,/FF sòlid/NC ,/FF essencialment/RG metàl·lic/NC ,/FF constituït/VM per/SP cristal·lització/NC progressiva/AQ de/SP el/DA nucli/NC extern/AQ ./FF
+La/DA pressió/NC el/DA manté/VM en/SP un/DI estat/NC sòlid/AQ malgrat/SP una/DI temperatura/NC superior/AQ a/SP 5000/ZZ °C/NC i/CC una/DI densitat/NC d'/SP aproximadament/RG 13/ZZ ./FF
+El/DA nucli/NC intern/AQ i/CC extern/AQ representen/VM un/DI 15_%/ZZ de/SP el/DA volum/NC terrestre/AQ ./FF
+Cèl·lules/NP de/SP convecció/NC de/SP el/DA mantell/NC ,/FF on/PR la/DA matèria/NC és/VS en/SP moviment/NC lent/AQ ./FF
+El/DA mantell/NC és/VS la/DA seu/NC de/SP corrents/NC de/SP convecció/NC que/PR transfereixen/VM la/DA major/AQ part/NC de/SP l'/DA energia/NC calorífica/AQ de/SP el/DA nucli/NC de/SP la/DA Terra/NP cap/NC a/SP la/DA superfície/NC ./FF
+Aquests/DD corrents/NC provoquen/VM la/DA deriva/NC de/SP els/DA continents/NC però/CC les/DA seves/PX característiques/NC precises/AQ (/FF velocitat/NC ,/FF amplitud/NC ,/FF localització/NC )/FF són/VS encara/RG mal/AQ conegudes/NC ./FF
+Litosfera/NP ,/FF constituïda/VM per/SP l'/DA escorça/NC (/FF plaques/NC tectòniques/NC )/FF i/CC d'/SP una/DI part/NC de/SP el/DA mantell/NC superior/AQ ./FF
+El/DA límit/NC inferior/AQ de/SP la/DA litosfera/NC es/P0 troba/VM a/SP una/DI profunditat/NC compresa/NC entre/SP 100/ZZ i/CC 200_quilòmetres/ZZ ,/FF a/SP el/DA límit/NC on/PR els/DA peridotites/NC s'/P0 apropen/VM a/SP el/DA seu/PX punt/NC de/SP fusió/NC ./FF
+Es/P0 troba/VM de/SP vegades/NC a/SP la/DA base/NC de/SP la/DA litosfera/NC (/FF certs/DI geòlegs/NC la/PP hi/PP inclouen/VM )/FF una/DI zona/NC anomenada/NC LVZ/NP ,/FF o/CC Low_Velocity_Zone/NP ,/FF on/PR s'/P0 observa/VM una/DI disminució/NC de/SP la/DA velocitat/NC i/CC una/DI atenuació/NC marcada/VM de/SP les/DA ones/NC sísmiques/AQ P/NP i/CC S._Aquest/NP fenomen/NC és/VS degut/VM a/SP la/DA fusion/VM parcial/AQ de/SP la/DA peridotita/NC que/PR comporta/VM una/DI major/AQ fluïdesa/NC ./FF
+La/DA LVZ/NP no/RN està/VM generalment/RG present/AQ sota/SP les/DA arrels/NC de/SP les/DA cadenes/NC de/SP muntanyes/NC de/SP l'/DA escorça/NC continental/AQ ./FF
+Astenosfera/NP ,/FF o/CC zona/NC inferior/AQ de/SP el/DA mantell/NC superior/AQ ,/FF a/SP sota/NC de/SP la/DA litosfera/NC ./FF
+Discontinuïtat_de_Gutenberg/NP ,/FF o/CC zona/NC de/SP transició/NC de/SP el/DA mantell/NC a/SP el/DA nucli/NC ./FF
+Discontinuïtat_de_Mohorovicic/NP ,/FF o/CC zona/NC de/SP transició/NC entre/SP l'/DA escorça/NC i/CC el/DA mantell/NC ,/FF i/CC per/SP tant/RG ,/FF formant_part/VM de/SP la/DA litosfera/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Il·lustracions/NP sobra/VM l'/DA estructura/NC de/SP la/DA Terra/NP ;/FF International_Earth/NP and/AQ Reference_System_Service_IERS/NP ;/FF Planeta_Terra/NP (/FF Canadà/NP )/FF ;/FF El/NP planeta/NC Terra/NP ;/FF Història/NP de/SP el/DA descobriment/NC de/SP l'/DA estructura/NC interna/AQ de/SP la/DA Terra/NP en/SP el/DA transcurs/NC de/SP els/DA segles/NC ;/FF
+Petropedetes/NP palmipes/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP el/DA Camerun/NP ,/FF Guinea_Equatorial/NP i/CC Gabon/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Amiet/NP ,/FF J./NP -/FF L._&_Burger/NP ,/FF M./NP 2004/ZZ ./FF
+Petropedetes/NP palmipes/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+La/DA matèria/NC fosca/AQ (/FF en/SP anglès/NC His_Dark_Materials/NP )/FF és/VS una/DI trilogia/NC de/SP novel·les/NC fantàstiques/AQ ,/FF escrita/NC per/SP Philip_Pullman/NP ./FF
+La/DA trilogia/NC la/PP comprenen/VM :/FF 1.Llums/ZZ de/SP el/DA nord/NC (/FF Northern_Lights/NP ,/FF a/SP els/DA EUA/NP publicada/VM com/CS The_Golden_Compass/NP ,/FF La/NP brúixola/NC daurada/NC )/FF 2.La/ZZ daga/NC (/FF The_Subtle_Knife/NP )/FF 3.El/ZZ llargavistes/NC d'/SP ambre/NC (/FF The_Amber_Spyglass/NP )/FF Sota/NP l'/DA aparença/NC de/SP història/NC infantil/AQ ,/FF la/DA matèria/NC fosca/AQ resulta/VM atractiva/AQ també/RG per/SP els/DA adults/NC ,/FF tot_i_que/CS a/SP diferent/AQ nivell/NC ./FF
+La/DA història/NC comença/VM com/CS un/DI típic/AQ conte/NC de/SP fades/NC ,/FF però/CC a/SP mesrua/NC que/PR es/P0 desenvolupa/VM s'/P0 hi/PP poden/VM trobar/VM diferents/DI nivells/NC d/AQ al·legories/NC ./FF
+La/DA trilogia/NC tracta/VM temes/NC com/CS la/DA metafísica/NC ,/FF física/NC quàntica/AQ i/CC filosofia/NC (/FF especialment/RG filosofia/NC religiosa/AQ )/FF ./FF
+El/DA mateix/DI autor/NC descriu/VM la/DA seva/PX audiència/NC com/CS joves/NC adults/AQ ,/FF ja_que/CS el/DA contingut/NC de/SP La/NP matèria/NC fosca/AQ pot/VM resultar/VM massa/RG intel·lectual/AQ o/CC massa/RG madur/AQ per/SP la/DA majoria/NC de/SP nens/NC ./FF
+a/SP el/DA tenir/VM un/DI toc/NC juvenil/AQ ,/FF juntament/RG amb/SP grans/AQ dosis/NC de/SP filosofia/NC i/CC múltiples/AQ al·legories/NC ,/FF aquesta/DD obra/NC es/P0 pot/VM interpretar/VM de/SP diverses/DI maneres/NC en/SP funció/NC de/SP l'/DA edat/NC de/SP el/DA lector/NC ./FF
+Resum/NC de/SP l'/DA argument/NC ./FF
+Advertència/NP ,/FF aquest/DD espai/NC conté/VM detalls/NC de/SP el/DA desenllaç/NC ./FF
+----/FF La/NP història/NC passa/VM a/SP diversos/DI mons/NC paral·lels/AQ ./FF
+Llums/NP de/SP el/DA nord/NC ,/FF comença/VM en/SP un/DI món/NC semblant/AQ a/SP el/DA nostre/PX però/CC amb/SP algunes/DI diferències/NC ./FF
+La/DA daga/NC transcorre/VM entre/SP el/DA nostre/PX món/NC i/CC un/DI món/NC atacat/NC per/SP els/DA espectres/NC ./FF
+Finalment/RG ,/FF El/NP llargavistes/NC d'/SP ambre/NC passa/VM a/SP diversos/DI móns/NC a/SP la/DA vegada/NC ./FF
+Un/DI aspecte/NC significatiu/AQ de/SP La/NP matèria/NC fosca/AQ és/VS la/DA presència/NC de/SP els/DA daimonis/NC en/SP el/DA món/NC de/SP la/DA protagonista/NC ,/FF Lyra_Belacqua/NP ./FF
+Els/DA daimonis/NC són/VS la/DA manifestació/NC física/AQ de/SP l'/DA ànima/NC humana/AQ i/CC adopten/VM formes/NC d'/SP animals/NC ./FF
+En/SP la/DA infantesa/NC poden/VM canviar/VM de/SP forma/NC constantment/RG però/CC en/SP arribar/VM a/SP l'/DA adolescència/NC adopten/VM una/DI forma/NC definitiva/AQ ,/FF simbolitzant/VM la/DA diferència/NC entre/SP el/DA caos/NC infantil/AQ i/CC l'/DA estabilitat/NC de/SP l'/DA edat/NC adulta/AQ ./FF
+Llums/NP de/SP el/DA nord/NC Lyra_Belacqua/NP és/VS una/DI noia/NC que/PR ha/VA viscut/VM sempre/RG a/SP el/DA campus/NC de/SP el/DA Jordan_College_d'_Oxford/NP ,/FF amb/SP el/DA seu/PX daimoni/NC ,/FF Pantalàimon/NP ./FF
+Un/DI dia/NC descobreix/VM l'/DA existència/NC d'/SP una/DI partícula/NC que/PR els/DA científics/NC anomenen/VM Pols/NP ,/FF i/CC que/CS l'/DA Església/NP (/FF que/PR en/SP el/DA món/NC de/SP la/DA Lyra/NP té/VM un/DI gran/AQ poder/NC ,/FF )/FF considera/VM la/DA prova/NC de/SP el/DA Pecat/NP original/AQ ,/FF ja_que/CS la/DA Pols/NP només/RG es/P0 concentra/VM en/SP els/DA humans/AQ adults/NC ,/FF no/RN en/SP els/DA nens/NC ./FF
+Una/DI organització/NC anomenada/NC Junta_d'_Oblació/NP ,/FF dirigida/VM per/SP la/DA mare/NC de/SP la/DA Lyra/NP ,/FF Marissa_Coulter/NP ,/FF es/P0 dedica/VM a/SP segrestar/VM nens/NC i/CC portar/VM -los/PP a/SP el/DA Nord/NP ,/FF on/PR els/PP hi/PP fan/VM experiments/NC terribles/AQ relacionats/VM amb/SP la/DA Pols/NP ./FF
+Un/DI dia/NC ,/FF Roger_Parslow/NP ,/FF un/DI amic/NC de/SP la/DA Lyra/NP és/VS segrestat/VM ,/FF i/CC la/DA Lyra/NP viatja/VM cap/NC a/SP el/DA Nord/NP per_tal_de/SP salvar/VM -lo/PP a/SP ell/PP i/CC a/SP els/DA altres/DI nens/NC ./FF
+Alliberen/VM els/DA nens/NC i/CC estableixen/VM contacte/NC amb/SP els/DA ossos/NC cuirassats/NC (/FF Panserbjørne/NP )/FF i/CC les/DA brúixes/NC de/SP Lapònia/NP ,/FF de/SP el/DA clan/NC de/SP Serafina_Pekkala/NP ,/FF però/CC Roger/NP és/VS assassinat/VM per/SP el/DA propi/AQ pare/NC de/SP la/DA Lyra/NP ,/FF Lord_Asriel/NP ,/FF per/SP completar/VM un/DI experiment/NC que/PR li/PP permet/VM obrir/VM un/DI pont/NC cap/NC a/SP altres/DI móns/NC ./FF
+Intentant/VM comprendre/VM l'/DA origen/NC de/SP la/DA Pols/NP ,/FF Lord_Asriel/NP travessa/VM el/DA portal/NC i/CC la/DA Lyra/NP i/CC en/SP Pantalàimon/NP el/DA segueixen/VM ./FF
+La/DA daga/NC La/NP història/NC comença/VM a/SP el/DA nostre/PX món/NC ./FF
+Will_Parry/NP ,/FF fill/NC de/SP John_Parry/NP ,/FF un/DI famós/AQ explorador/NC desaparegut/NC ,/FF assassina/VM un/DI home/NC en/SP defensa/NC pròpia/AQ que/PR entra/VM a/SP casa/NC seva/PX d'_amagat/RG i/CC després/RG de/SP deixar/VM a/SP la/DA seva/PX mare/NC malalta/AQ amb/SP una/DI veïna/NC ,/FF fuig/VM i/CC decideix/VM anar/VM a/SP buscar/VM el/DA seu/PX pare/NC ./FF
+Will/NP troba/VM una/DI finestra/NC que/PR el/PP porta/VM a/SP una/DI ciutat/NC deserta/AQ ,/FF Cittàgazze/NP (/FF en/SP italià/NC Ciutat/NP de/SP les/DA garses/NC )/FF ,/FF on/PR troba/VM la/DA Lyra/NP i/CC el/DA Pantalàimon/NP ./FF
+A/SP la/DA ciutat/NC només/RG hi/PP queden/VM nens/NC ,/FF ja_que/CS tots/DI els/DA adults/NC han/VA fugit/VM per/SP uns/DI Espectres/NP que/PR s'/P0 alimenten/VM de/SP les/DA seves/PX ànimes/NC humanes/AQ ./FF
+Dos/VM nens/NC anomenats/VM Angela/NP i/CC Paolo/NP ,/FF li/PP parlen/VM de/SP La_Torre/NP degli/AQ Angeli/NP on/PR hi/PP queda/VM un/DI alquimista/NC ,/FF Giacomo_Paradisi/NP ,/FF l'/DA últim/AO de/SP el/DA grup/NC que/PR va/VA crear/VM una/DI daga/NC amb/SP poder/VM per/SP vèncer/VM a/SP els/DA Espectres/NP ./FF
+La/DA Lyra/NP i/CC en/SP Will/NP hi/PP van/VM i/CC es/P0 troben/VM a/SP el/DA germà/NC d'/SP Angelica/NP ,/FF Tullio/NP ,/FF que/PR ha/VA robat/VM la/DA daga/NC ./FF
+En/SP la/DA lluita/NC per/SP recuperar/VM la/DA daga/NC ,/FF Will/NP perd/VM el/DA dit_anular/NC i/CC el/DA dit_petit/NC de/SP la/DA mà/NC esquerra/AQ ,/FF que/CS Giacomo/NP considera/VM una/DI senyal/NC profètica/AQ de/SP què/PT ell/PP ha/VA de/SP ser/VS el/DA nou/AQ propietari/NC de/SP la/DA daga/NC i/CC després/RG d'/SP ensenyar/VM -li/PP a/SP obrir/VM forats/NC dimensionals/AQ amb/SP ella/PP ,/FF li/PP entrega/VM ./FF
+Tullio/NP mor/VM per_culpa_de/SP els/DA espectres/NC i/CC un/DI grapat/NC de/SP nens/NC ,/FF juntament/RG amb/SP els/DA germans/NC de/SP Tullio/NP ataquen/VM a/SP en/SP Will/NP i/CC la/DA Lyra/NP ,/FF però/CC llavors/RG ,/FF les/DA bruixes/NC de/SP el/DA clan/NC de/SP Serafina_Pekkala/NP arrib

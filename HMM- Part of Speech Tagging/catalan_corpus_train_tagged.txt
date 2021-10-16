@@ -11842,4 +11842,157 @@ Enllaços/NC externs/AQ ./FF
 Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
 Xenobatrachus/NP giganteus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
-Referències/NP 
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP giganteus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP huon/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Zweifel/NP ,/FF R./NP 2004/ZZ ./FF
+Xenobatrachus/NP huon/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP macrops/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Allison/NP ,/FF A./NP 2004/ZZ ./FF
+Xenobatrachus/NP macrops/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Onomàstica/NP :/FF Quint/VM Marci_Filip/NP (/FF cònsol/NC 281/ZZ aC/NC )/FF ,/FF cònsol/NC el/DA 281/ZZ aC/NC ;/FF Luci_Marci_Filip/NP (/FF amic/NC de/SP Filip_V/NP )/FF ,/FF romà/NC que/PR va/VA establir/VM llaços/NC d'/SP hospitalitat/NC amb/SP Filip_V_de_Macedònia/NP ;/FF Quint_Marci_Filip/NP (/FF cònsol/NC 186/ZZ aC/NC i/CC 169/ZZ aC/NC )/FF ,/FF cònsol/NC el/DA 186/ZZ aC/NC i/CC 169/ZZ aC/NC ;/FF Quint_Marci_Filip/NP (/FF militar/NC )/FF ,/FF militar/AQ romà/NC ;/FF Luci_Marci_Filip/NP (/FF cònsol/NC 91/ZZ aC/NC )/FF ,/FF tribú/NC de/SP la/DA plebs/NC el/DA 104/ZZ aC/NC i/CC cònsol/NC el/DA 91/ZZ aC/NC ;/FF Luci_Marci_Filip/NP (/FF cònsol/NC 56/ZZ aC/NC )/FF ,/FF cònsol/NC el/DA 56/ZZ aC/NC ;/FF Luci_Marci_Filip/NP (/FF tribú/NC )/FF ,/FF tribú/NC de/SP la/DA plebs/NC el/DA 49/ZZ aC/NC ;/FF Quint_Marci_Filip/NP (/FF procònsol/NC )/FF ,/FF procònsol/NC a/SP Àsia/NP el/DA 54/ZZ aC/NC ;/FF
+Xenobatrachus/NP mehelyi/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Bickford/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP mehelyi/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Articuno/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC gel/NC i/CC volador/AQ ./FF
+És/VS un/DI de/SP els/DA ocells/NC llegendaris/AQ de/SP Pokémon/NP ,/FF juntament/RG amb/SP Moltres/NP i/CC Zapdos/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Zapdos/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC elèctric/AQ i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Moltres/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP multisica/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP multisica/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Ho-Oh/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC foc/NC i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Lugia/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP obesus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP i/CC Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Zweifel/NP ,/FF R._&_Allison/NP ,/FF A./NP 2004/ZZ ./FF
+Xenobatrachus/NP obesus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+a/SP el/DA llarg/AQ de/SP els/DA anys/NC X_Japan/NP s'/P0 ha/VA convertit/VM en/SP un/DI de/SP els/DA grups/NC més/RG influents/AQ de/SP Japó/NP ,/FF cosa/NC que/PR ha/VA donat/VM lloc/NC a/SP diverses/DI referències/NC ,/FF tant/RG en/SP l'/DA àmbit/NC de/SP la/DA música/NC com/CS de/SP la/DA cultura/NC popular/AQ ./FF
+Membres_de_X_Japan/NP como/VM en/SP hide/NC o/CC en/SP Yoshiki/NP també/RG han/VA tingut/VM una/DI gran/AQ repercussió/NC ./FF
+X_Japan/NP ./FF
+X_Japan/NP es/P0 un/DI grup/NC japonès/AQ format/NC a/SP el/DA 1982/ZZ per/SP el/DA bateria/NC i/CC pianista/NC Yoshiki_Hayashi/NP i/CC el/DA vocalista/AQ Toshi/NP ./FF
+Després/RG de/SP diversos/DI canvis/NC de/SP membres/NC el/DA grup/NC quedaria/VM format/NC ,/FF a/SP més/RG d'/SP en/SP Toshi/NP i/CC en/SP Yoshiki/NP ,/FF per/SP en/SP hide/NC i/CC en/SP Pata/NP a/SP la/DA guitarra/NC i/CC en/SP Taiji/NP a/SP el/DA baix/AQ ,/FF aquest/DD últim/AO sent/VM remplaçat/VM per/SP en/SP Heath/NP a/SP el/DA 1992/ZZ ./FF
+Desprès/VM de/SP cinc/ZZ àlbums/NC es/P0 dissolen/VM a/SP el/DA 1997/ZZ ,/FF morint/VM en/SP hide/NC un/DI any/NC desprès/VM ./FF
+a/SP el/DA 2007/ZZ es/P0 reuneixen/VM indefinidament/RG ./FF
+Música/NP ./FF
+A/SP Itàlia/NP hi/PP ha/VA un/DI grup/NC anomenat/VM X_Italia/NP ,/FF el/DA qual/PR es/P0 dedica/VM a/SP versionar/VM cançons/NC de/SP X_Japan/NP i/CC d'/SP en/SP hide/NC ./FF
+Han/VA aparegut/VM diversos/DI cops/NC per/SP televisió/NC ./FF
+Forever_Love/NP fou/VS usada/VM com/CS a/SP ending/NC per/SP a/SP la/DA pel·lícula/NC basada/VM en/SP el/DA anime/VM X._També/NP fou/VS usada/VM como/VM a/SP cançó/NC principal/AQ de/SP "/FF We/NP never/NC forget/AQ "/FF ,/FF una/DI petita/AQ pel·licula/NC usada/VM a/SP el/DA museu/NC Yushukan/NP (/FF que/PR forma_part/VM de/SP el/DA Santuari_Yasukuni/NP )/FF per/SP a/SP recordar/VM a/SP les/DA víctimes/NC japoneses/AQ de/SP la/DA guerra/NC ./FF
+Tears/NP fou/VS la/DA primera/AO cançó/NC en/SP apareixer/VM en/SP la/DA banda_sonora/NC d'/SP una/DI pel·lícula/NC coreana/AQ ,/FF Windstruck/NP ./FF
+El/DA ex-Primer/RG Ministre/NP japonès/AQ Junichiro_Koizumi/NP ha/VA declarat/VM diversos/DI cops/NC que/CS el/DA seu/PX grup/NC preferit/VM es/P0 X_Japan/NP i/CC Forever_Love/NP i/CC Tears/NP les/DA seves/PX cançons/NC preferides/VM ./FF
+La/DA primera/AO fou/VS usada/VM per/SP a/SP els/DA anuncis/NC publicitaris/AQ de/SP el/DA PLD/NP en/SP què/PR Koizumi/NP va/VA fer/VM campanya/NC amb/SP en/SP Yoshiki/NP ./FF
+I.V./NP fou/VS composta/VM a/SP petició/NC de/SP el/DA director/NC de/SP Saw_IV/NP per/SP formar_part/VM de/SP la/DA pel·lícula/NC ./FF
+Finalment/RG la/DA cançó/NC va/VA sonar/VM en/SP totes/DI les/DA sales/NC de/SP el/DA món/NC ,/FF i/CC sent/VM la/DA primera/AO cançó/NC de/SP el/DA grup/NC en/SP deu/ZZ anys/NC ./FF
+Sonata_Arctica/NP va/VA versionar/VM el/DA principi/NC de/SP Silent_Jealousy/NP durant/SP una/DI gira/NC per/SP el/DA Japó/NP ./FF
+El/DA grup/NC francès/AQ Anorexia_Nervosa/NP va/VA incloure/VM una/DI versió/NC de/SP I'll_Kill_You/NP en/SP el/DA seu/PX àlbum/NC Redemption_Process/NP ./FF
+El/DA tercer/AO àlbum/NC de/SP Dragonland/NP ,/FF Starfall/NP ,/FF va/VA incloure/VM una/DI versió/NC de/SP Rusty_Nail/NP ./FF
+El/DA duo/NC català/AQ també/RG va/VA versionar/VM Rusty_Nail/NP ,/FF però/CC sota/SP el/DA nom/NC Marca_Cruel/NP ./FF
+Els/DA grups/NC coreans/AQ The_Trax/NP (/FF produïts/VM per/SP en/SP Yoshiki/NP )/FF i/CC MC_The_Max/NP han/VA versionat/VM diversos/DI cops/NC Tears/NP ./FF
+Durant/SP l'/DA estança/NC d'/SP en/SP Yoshiki/NP a/SP globe/NC van/VA gravar/VM una/DI versió/NC de/SP Say_Anything/NP ./FF
+Altres/PI ./FF
+a/SP el/DA 1988/ZZ X_Japan/NP va/VA aparèixer/VM en/SP la/DA pel·lícula/NC americana/AQ Tokyo_Pop/NP ./FF
+Sega/NP va/VA llençar/VM a/SP el/DA 1996/ZZ el/DA videojoc/NC X_Japan_Virtual_Shock/NP 001/ZZ ,/FF basat/VM ens/PP els/DA concerts/NC Aoi_Shiroi_Yoru/NP ./FF
+Hi/PP ha/VA un/DI restaurant/NC anomenat/VM "/FF X_Japan/NP "/FF a/SP Barcelona/NP ,/FF també/RG hi/PP han/VA diverses/DI cafeteries/NC anomenades/NC així/RG per/SP tota/DI Corea_de_el_Sud/NP ./FF
+S'/P0 organitzen/VM diversos/DI esdeveniments/NC en/SP tot/DI el/DA món/NC dedicats/VM a/SP X_Japan/NP ./FF
+El/DA grup/NC té/VM la/DA seva/PX pròpia/AQ línia/NC de/SP condons/NC ./FF
+Lapras/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC gel/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP ocellatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Iskandar/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP ocellatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP ophiodon/VM és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Menzies/NP ,/FF J./NP 2004/ZZ ./FF
+Xenobatrachus/NP ophiodon/VM ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Spheal/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC gel/NC ./FF
+Evoluciona/VM en/SP Sealeo/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Walrein/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC gel/NC ./FF
+Evoluciona/VM de/SP Sealeo/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+La/DA discontinuïtat/NC de/SP Mohorovi/NP i/CC és/VS una/DI zona/NC de/SP transició/NC entre/SP l'/DA escorça/NC i/CC el/DA mantell/NC terrestre/AQ ./FF
+Apareix/VM a/SP una/DI profunditat/NC mitjana/AQ d'/SP uns/DI 35_km/ZZ ,/FF podent/VM trobar/VM -se/P0 a/SP 70_km/ZZ de/SP profunditat/NC sota/SP els/DA continents/NC ,/FF o/CC tan/RG sols/RG a/SP 10_km/ZZ sota/SP de/SP els/DA oceans/NC ./FF
+Es/P0 posa/VM en/SP relleu/NC quan/CS les/DA ones/NC P/NP i/CC S/NP augmenten/VM bruscament/RG la/DA seva/PX velocitat/NC ./FF
+Constitueix/VM la/DA superfície/NC de/SP separació/NC entre/SP els/DA materials/NC rocosos/AQ menys/RG densos/AQ de/SP l'/DA escorça/NC ,/FF formada/VM fonamentalment/RG per/SP silicats/NC d'/SP alumini/NC ,/FF calci/NC ,/FF sodi/NC i/CC potassi/NC ,/FF i/CC els/DA materials/NC rocosos/AQ més/RG densos/AQ de/SP el/DA mantell/NC ,/FF constituït/VM per/SP silicats/NC de/SP ferro/NC i/CC magnesi/NC ./FF
+Va/VA ser/VS descrita/VM el/DA 1909/ZZ per/SP el/DA sismòleg/NC croat/AQ Andrija_Mohorovi/NP i/CC ./FF
+Xenobatrachus/NP rostratus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP i/CC Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Zweifel/NP ,/FF R./NP 2004/ZZ ./FF
+Xenobatrachus/NP rostratus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP scheepstrai/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP scheepstrai/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP schiefenhoeveli/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP schiefenhoeveli/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP subcroceus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Menzies/NP ,/FF J./NP 2004/ZZ ./FF
+Xenobatrachus/NP subcroceus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Registeel/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC acer/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Xenobatrachus/NP tumulus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S./NP ,/FF Allison/NP ,/FF A._&_Menzies/NP ,/FF J./NP 2004/ZZ ./FF
+Xenobatrachus/NP tumulus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Xenobatrachus/NP zweifeli/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Allison/NP ,/FF A._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Xenobatrachus/NP zweifeli/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Quint/VM Marci_Filip/NP (/FF Quintus_Marcius_Q._F._Q._N._Philippus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS cònsol/NC el/DA 281/ZZ aC/NC juntament/RG amb/SP Luci_Emili_Barbula/NP ,/FF i/CC va/VA fer/VM la/DA guerra/NC contra/SP els/DA etruscs/NC ./FF
+Va/VA celebrar/VM un/DI triomf/NC un/DI 1_d'_abril/WW ,/FF per/SP la/DA seva/PX victòria/NC a/SP aquesta/DD guerra/NC ./FF
+El/DA 263/ZZ aC/NC fou/VS magister/NC equitum/NC de/SP el/DA dictador/NC Gneu_Fulvi_Màxim_Centumal/NP ./FF
+El/DA nom/NC Filip/NP que/PR li/PP donen/VM els/DA Fasti/NP ,/FF és/VS probablement/RG un/DI anacronisme/NC i/CC el/DA nom/NC seria/VS només/RG Quint_Marci/NP ./FF
+Luci_Marci_Filip/NP (/FF Lucius_Marcius_Q._F._Philippus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Va/VA estar/VM lligats/NC per/SP llaços/NC d'/SP hospitalitat/NC amb/SP Filip_V_de_Macedònia/NP (/FF 220/ZZ aC-179/ZZ aC/NC )/FF però/CC no/RN se/P0 sap/VM a/SP que/PR fou/VS degut/VM ./FF
+Aquesta/PD circumstanc

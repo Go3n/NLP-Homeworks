@@ -12066,4 +12066,101 @@ El/DA seu/PX caràcter/NC polític/AQ dominant/AQ ,/FF tot_i_que/CS no/RN exclus
 Donat/VM el/DA pes/NC que/PR hi/PP representà/VM el/DA contingent/NC nord-americà/AQ i/CC en_concret/RG el/DA Batalló_Lincoln/NP ,/FF sovint/RG es/P0 designa/VM erròniament/RG la/DA Brigada/NP com/CS a/SP Brigada_Abraham_Lincoln/NP ,/FF si_bé/CS a/SP els/DA Estats_Units/NP ,/FF es/P0 coneix/VM com/CS a/SP Abraham_Lincoln_Brigade/NP el/DA conjunt/NC de/SP les/DA unitats/NC que/PR disposaren/VM de/SP contingents/NC nord-americans/AQ ./FF
 Els/DA altres/DI batallons/NC que/PR tingueren/VM una/DI continuïtat/NC clara/AQ a/SP el/DA llarg/AQ de/SP tot/DI el/DA període/NC de/SP permanència/NC de/SP els/DA brigadistes/NC foren/VS el/DA Mackenzie-Papineau/NP integrat/VM per/SP canadencs/NC ,/FF el/DA British/NP ,/FF format/NC per/SP britànics/NC i/CC el/DA Spanish/NP format/NC voluntaris/AQ de/SP diferents/DI països/NC llatinoamericans/AQ ./FF
 Història/NP ./FF
-El/DA 31_de_gener_del_1937/WW ,/FF va/VA néixer/VM a/SP Mahora/NP ,/FF Albacete/NP ,/FF formada/VM inicialment/RG per/SP dues/ZZ agrupacions/NC :/FF la/DA 1ª/ZZ ,/FF anglosaxona/NC ,/FF que/PR agrupava/VM els/DA batallons/NC Lincoln/NP ,/FF British/NP i/CC Washington/NP i/CC la
+El/DA 31_de_gener_del_1937/WW ,/FF va/VA néixer/VM a/SP Mahora/NP ,/FF Albacete/NP ,/FF formada/VM inicialment/RG per/SP dues/ZZ agrupacions/NC :/FF la/DA 1ª/ZZ ,/FF anglosaxona/NC ,/FF que/PR agrupava/VM els/DA batallons/NC Lincoln/NP ,/FF British/NP i/CC Washington/NP i/CC la/DA 2ª/ZZ ,/FF llatino-eslava/VM ,/FF amb/SP els/DA batallons/NC Spanish/NP ,/FF Galindo/NP ,/FF Six_Février/NP i/CC Dimitrov/NP ./FF
+La/DA Brigada/NP va/VA quedar/VM constituïda/VM oficialment/RG a/SP Albacete/NP el/DA 9_de_febrer_del_1937/WW i/CC la/DA llengua/NC que/PR hi/PP dominà/VM fou/VS l'/DA anglès/NC ./FF
+La/DA formaren/VM inicialment/RG els/DA batallons/NC Six_de_Février/NP (/FF integrada/VM fonamentalment/RG per/SP francòfons/NC )/FF ,/FF Dimitrov/NP (/FF multilingüe/AQ ,/FF però/CC integrada/VM majoritàriament/RG per/SP balcànics/NC )/FF i/CC el/DA British/NP ./FF
+També/RG s'/P0 hi/PP integraren/VM els/DA nord-americans/NC ,/FF l'/DA últim/AO contingent/NC en/SP aparèixer/VM ,/FF amb/SP una/DI aportació/NC propera/AQ a/SP els/DA 3.000/ZZ homes/NC ,/FF un_terç/ZZ de/SP els/DA quals/PR no/RN tornarien/VM vius/AQ ./FF
+S'/P0 agruparen/VM a/SP el/DA 1er/AO batalló/NC Abraham_Lincoln/NP i/CC es/P0 ponderà/VM la/DA creació/NC d'/SP un/DI Batalló/NP "/FF Washington/NP "/FF ./FF
+Quan/CS arribaren/VM els/DA canadencs/NC foren/VS integrats/VM a/SP el/DA Batalló_Mackenzie-Papineau/NP ./FF
+Amb/SP els/DA nord-americans/NC de/SP el/DA Lincoln/NP també/RG fou/VS integrat/VM el/DA nombrós/AQ contingent/NC de/SP cubans/NC que/PR havien/VA arribat/VM a/SP Espanya/NP ,/FF encara/RG que/CS ja/RG hi/PP havia/VA cubans/AQ lluitant/VM des_de/SP la/DA batalla/NC de/SP Madrid/NP ,/FF entre/SP els/DA quals/PR cal/VM citar/VM el/DA poeta/NC Pablo_de_la_Torriente_Brau/NP ,/FF mort/NC a/SP Majadahonda/NP (/FF front/NC de/SP Madrid/NP )/FF el/DA novembre_del_1936/WW ./FF
+En/SP aquells/DD moments/NC ,/FF la/DA frontera/NC franco-espanyola/AQ s'/P0 havia/VA tancat/VM ,/FF seguint/VM els/DA acords/NC de/SP el/DA Comitè_de_No-intervenció/NP ,/FF amb/SP la/DA qual/DR cosa/NC els/DA voluntaris/NC havien/VA de/SP passar/VM a/SP Espanya/NP amb/SP l'/DA ajut/NC de/SP guies/NC i/CC després/RG d'/SP una/DI esgotadora/AQ travessia/NC per/SP els/DA Pirineus/NP des_de/SP Perpinyà/NP ,/FF fins/SP arribar/VM a/SP Figueres/NP ./FF
+Allà/RG rebien/VM uns/DI dies/NC d'/SP instrucció/NC ,/FF fins/SP que/PR quedava/VM preparat/VM el/DA convoi/NC que/PR ,/FF després/RG de/SP diverses/DI jornades/NC de/SP viatge/NC en/SP tren/NC ,/FF els/DA portaria/VM a/SP Albacete/NP i/CC des/SP d'/SP allí/RG a/SP Tarazona_de_la_Mancha/NP i/CC Madrigueras/NP ,/FF o/CC a/SP Villanueva_de_la_Jara/NP ,/FF a/SP la/DA província/NC de/SP Conca/NP ./FF
+Els/DA brigadistes/NC internacionals/AQ de/SP la/DA XV_Brigada/NP ,/FF igual/AQ que/CS tots/DI els/DA altres/DI foren/VS retirats/VM de/SP el/DA front/NC el/DA 25_de_setembre_del_1938/WW ./FF
+Foren/VS confinats/NC en/SP diversos/DI camps/NC de/SP confinament/NC a/SP Catalunya/NP i/CC foren/VS objecte/NC de/SP diversos/DI actes/NC d'/SP homenatge/NC (/FF el/DA 16_d'_octubre/WW a/SP els/DA afores/NC de/SP Falset/NP ,/FF el/DA 25_d'_octubre/WW a/SP Montblanc/NP amb/SP presència/NC de/SP Negrín/NP ,/FF Líster/NP ,/FF Juan_Modesto/NP i/CC Vicent_Rojo/NP ,/FF etc./FF )/FF abans/RG de/SP la/DA gran/AQ desfilada/NC de/SP comiat/NC ,/FF a/SP Barcelona/NP ,/FF el/DA 28_d'_octubre/WW ./FF
+Després/RG d'/SP una/DI llarga/AQ i/CC dura/VM retirada/NC ,/FF la/DA XV_Brigada_Internacional/NP creuà/VM la/DA frontera/NC el/DA 7_de_febrer_del_1939/WW ,/FF per/SP el/DA Pertús/NP ./FF
+A/SP la/DA Serra_de_Pàndols/NP ,/FF un/PI de/SP els/DA escenaris/NC més/RG cruents/AQ de/SP la/DA Batalla_de_l'_Ebre/NP ,/FF encara/RG es/P0 conserva/VM ,/FF en_mig_de/SP el/DA bosc/NC ,/FF un/DI monòlit/NC construït/VM per/SP els/DA mateixos/DI combatents/NC de/SP la/DA Brigada/NP i/CC recentment/RG restaurat/VM per/SP grups/NC de/SP voluntaris/NC ,/FF un/DI monòlit/NC on/PR hi/PP figuren/VM el/DA nom/NC de/SP 37/ZZ companys/NC caiguts/VM en/SP combat/NC ./FF
+Relació/NP de/SP batallons/NC ./FF
+Sub-batallons/NP agregats/NC a/SP la/DA Brigada/NP ;/FF Companyia/NP "/FF Brigada_Anti-Tanc/NP "/FF ;/FF Unitat/NP fotogràfica/AQ de/SP la/DA XV_Brigada/NP (/FF agost/WW 1937/ZZ -/FF setembre/WW 1938/ZZ )/FF Arxiu/NP ;/FF Comandants/NP successius/AQ ./FF
+Els/DA caps/NC que/PR s'/P0 anaren/VM succeint/VM a/SP el/DA capdavant/RG de/SP la/DA XV_Brigada_Internacional/NP foren/VS :/FF Janos_Galicz/NP (/FF hongarès/NC )/FF ,/FF de/SP el/DA 31_de_gener_al_15/WW de/SP febrer_del_1937/WW ,/FF fou/VS ferit/NC ./FF
+Wladimir_Copic/NP (/FF iugoslau/NC ,/FF ex-president/NC de/SP el/DA Partit_Comunista_Iugoslau/NP en/SP el/DA Komintern/NP ,/FF executat/VM en/SP tornar/VM a/SP l'/DA URSS/NP el/DA 1938/ZZ )/FF ,/FF entre/SP el/DA 15_de_febrer/WW i/CC el/DA 10_de_juliol_del_1937/WW en/SP què/PR fou/VS ferit/VM ,/FF de/SP el/DA 5_d'_agost_del_1937_al_7/WW de/SP març_del_1938/WW i/CC de/SP l/NC '/FF 1_d'_abril/WW fins/SP el/DA maig_del_1938/WW ./FF
+Klaus_Becker/NP (/FF alemany/NC )/FF ,/FF entre/SP el/DA 10_de_juliol/WW i/CC el/DA 5_d'_agost_del_1937/WW ./FF
+Robert_Hale_Merriman/NP ,/FF de/SP el/DA 7_de_març/WW fins/SP el/DA 2_d'_abril_del_1938/WW en/SP què/PR fou/VS abatut/NC en/SP una/DI emboscada/NC entre/SP Batea/NP i/CC Gandesa/NP ,/FF a/SP la/DA Terra_Alta/NP ./FF
+José_Antonio_Valledor/NP (/FF espanyol/NC )/FF ,/FF entre/SP el/DA maig/WW i/CC el/DA 23_de_setembre_del_1938/WW ./FF
+Jorge_Agostino/NP "/FF Carlos/NP "/FF ,/FF entre/SP el/DA 21_de_gener/WW i/CC el/DA 4_de_febrer_del_1939/WW ./FF
+Jorge_Gay_Da_Cunha/NP (/FF brasiler/NC )/FF ,/FF entre/SP el/DA 4/ZZ i/CC el/DA 9_de_febrer_del_1939/WW ./FF
+Principals/AQ combats/NC ./FF
+La/DA XV_Brigada_Internacional/NP participà/VM en/SP els/DA més/RG cruents/AQ combats/NC de/SP la/DA guerra/NC i/CC fou/VS repetidament/RG desarborada/VM per/SP les/DA nombroses/AQ baixes/NC que/PR patí/VM ./FF
+Progressivament/RG anà/VM cobrint/VM cada/DI vegada/NC més/RG les/DA baixes/NC amb/SP reclutes/NC espanyols/AQ (/FF molts/DI catalans/NC )/FF i/CC anà/VM fusionant/VM els/DA diferents/DI batallons/NC ./FF
+Els/DA principals/AQ escenaris/NC on/PR combaté/VM la/DA XV_Brigada_Internacional/NP abans/RG que/CS se/P0 'ls/PP repatriés/VM foren/VS ,/FF per/SP ordre/NC cronològic/AQ :/FF Batalla_de_el_Jarama/NP ;/FF Batalla_de_Brunete/NP ;/FF Batalla_de_Belchite/NP ;/FF Batalla_de_Terol/NP ;/FF Retirada_d'_Aragó/NP ;/FF Batalla_de_l'_Ebre/NP ;/FF Personatges/NP destacats/VM ./FF
+Alguns/PI de/SP els/DA noms/NC més/RG recordats/VM de/SP la/DA XV_Brigada_Internacional/NP foren/VS :/FF Capità_George_Nathan/NP ,/FF antic/AQ membre/NC de/SP els/DA serveis/NC secrets/AQ anglesos/AQ ,/FF fou/VS membre/NC de/SP l'/DA Estat/NP major/AQ de/SP la/DA XV_Brigada/NP ./FF
+Personatge/NP mític/AQ per/SP la/DA seva/PX valentia/NC ,/FF que/PR ratllava/VM la/DA temeritat/NC ,/FF un/PI de/SP els/DA pocs/DI comandaments/NC escollit/VM per/SP els/DA seus/PX propis/AQ homes/NC ./FF
+Mort/NC a/SP Brunete/NP el/DA juliol_del_1937/WW ./FF
+Robert_Hale_Merriman/NP ,/FF cap/NC de/SP l'/DA Estat/NP major/AQ ./FF
+Fet/NC presoner/AQ a/SP Gandesa/NP i/CC afusellat/VM l/NC '/FF 1_d'_abril_del_1938/WW ./FF
+Milton_Wolff/NP ,/FF cap/NC de/SP el/DA Batalló_Lincoln/NP ./FF
+Steve_Nelson/NP ,/FF comissari/NC de/SP la/DA Brigada/NP ,/FF ferit/NC a/SP Belchite/NP ./FF
+Referències/NP ./FF
+Bibliografia/NP ./FF
+Las_Brigadas_Internacionales/NP ./FF
+Imágenes/NP recuperadas/NC ,/FF Michael_Lefebvre-Rémi_Skoutelsky/NP ./FF
+Lunwerg_Editores/NP ,/FF ISBN/NP :/FF 84-7782-000-7/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Breu/AQ història/NC de/SP la/DA Brigada/NP ,/FF amb/SP excel·lents/AQ fotografies/NC ;/FF Article/NP de/SP el/DA diari/NC El_País/NP dedicat/VM a/SP la/DA mort/NC de/SP Charles_Nusser/NP ,/FF voluntari/AQ de/SP la/DA XV_Brigada/NP ;/FF Enquadraments/NP successius/AQ de/SP la/DA Brigada/NP ,/FF a/SP càrrec/NC de/SP la/DA Societat_Catalana_de_Vexil·lologia/NP ;/FF
+Callulops/NP comptus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Parker/NP ,/FF F./NP 2004/ZZ ./FF
+Callulops/NP comptus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Kirlia/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC psíquic/AQ i/CC evoluciona/VM de/SP Ralts/NP ./FF
+Evoluciona/VM en/SP Gardevoir/NP o/CC Gallade/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Callulops/NP doriae/RG és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Bickford/NP ,/FF D./NP 2004/ZZ ./FF
+Callulops/NP doriae/RG ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Joan_Baptista_Estades_de_Moncaira/NP i/CC Montaner/NP (/FF Fornalutx/NP ,/FF 25_de_novembre_de_1831/WW -/FF Sóller/NP ,/FF 19_de_maig_de_1905/WW )/FF fou/VS un/DI terratinent/NC i/CC politic/AQ mallorquí/NC de/SP la/DA Vall_de_Sóller/NP ,/FF a/SP Mallorca/NP ./FF
+Fou/VS batlle/NC de/SP Fornalutx/NP a/SP la/DA segona/AO meitat/NC de/SP el/DA Segle_XIX/WW ./FF
+Fill/NP gran/AQ de/SP Bartomeu_Estades_de_Moncaira/NP i/CC Socies_de_Fangar/NP i/CC de/SP Catalina_Montaner_Socies_de_Fangar/NP ,/FF fou/VS el/DA darrer/AO propietari/NC de/SP les/DA possessions/NC Moncaira/NP i/CC Monnàber/NP de/SP el/DA terme/NC de/SP Fornalutx/NP de/SP la/DA família/NC Estades/NP ./FF
+Ocuparia/VM la/DA batlia/NC de/SP Fornalutx/NP repetides/VM èpoques/NC de/SP la/DA segona/AO meitat/NC de/SP el/DA XIX/NP ./FF
+Ho/PP era/VS concretament/RG quan/CS la/DA famosa/AQ inundació/NC de/SP el/DA 15_d'_octubre_de_1885/WW ./FF
+Durant/SP un/DI de/SP els/DA seus/PX mandats/NC com/CS batle/RG tingué_lloc/VM a/SP Fornalutx/NP la/DA canalització/NC i/CC conducció/NC de/SP l'/DA aigua/NC potable/AQ de/SP la/DA font/NC de/SP l'/DA Alqueria/NP cap/NC a/SP la/DA Plaça/NP principal/AQ de/SP el/DA Municipi/NP ./FF
+A/SP més/RG de/SP el/DA càrrec/NC de/SP batle/NC ,/FF Joan_Baptista_Estades_de_Moncaira/NP i/CC Montaner/NP ,/FF en/SP èpoques/NC diferents/AQ ,/FF fou/VS jutge/NC municipal/AQ de/SP el/DA mateix/DI lloc/NC ,/FF denominació/NC que/PR antigament/RG tenien/VM els/DA actuals/AQ jutges_de_Pau/NC ./FF
+Joan_Baptista_Estades_de_Moncaira/NP i/CC Montaner/NP pertanyia/VM a/SP el/DA Partit_Conservador/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Imatge/NP ;/FF
+Quint/VM Marci_Filip/NP (/FF Quintus_Marcius_Philippus/NP )/FF fou/VS un/DI militar/NC romà/AQ ,/FF fill/NC de/SP Quint_Marci_Filip/NP (/FF cònsol/NC 186/ZZ aC/NC i/CC 169/ZZ aC/NC )/FF (/FF Quintus_Marcius_L._F._Q._N._Philippus/NP )/FF ./FF
+Va/VA servir/VM amb/SP el/DA seu/PX pare/NC a/SP la/DA campanya/NC a/SP el/DA Regne_de_Macedònia/NP el/DA 169/ZZ aC/NC ./FF
+Probablement/RG és/VS el/DA mateix/DI personatge/NC esmentat/VM per/SP Ciceró/NP que/PR diu/VM que/CS havia/VA estat/VS condemnat/VM i/CC vivia/VM a/SP l'/DA exili/NC a/SP Nuceria_Alfaterna/NP ,/FF estat/NC de/SP el/DA que/PR va/VA assolir/VM la/DA ciutadania/NC ./FF
+Vigoroth/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Slakoth/NP ./FF
+Evoluciona/VM en/SP Slaking/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Loudred/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Whismur/NP ./FF
+Evoluciona/VM en/SP Exploud/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Callulops/NP dubius/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Iskandar/NP ,/FF D./NP 2004/ZZ ./FF
+Callulops/NP dubius/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Exploud/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC evoluciona/VM de/SP Loudred/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+L_Emotivisme_Moral/NP és/VS un/DI moviment/NC filosòfic/AQ que/PR considera/VM que/CS l'/DA autèntic/AQ fonament/NC bàsic/AQ de/SP el/DA judici/NC moral/AQ el/DA trobem/VM en/SP els/DA sentiments/NC ./FF
+Són/VS els/DA sentiments/NC els/DA que/PR poden/VM mostrar/VM la/DA bondat/NC o/CC maldat/NC de/SP les/DA accions/NC humanes/AQ ./FF
+Això/PD té/VM com/CS a/SP conseqüència/NC més/RG important/AQ la/DA no/RN existència/NC d'/SP una/DI moral/NC general/AQ basada/VM en/SP la/DA raó/NC ,/FF sinó/CC que/CS la/DA moral/NC està/VM basada/VM en/SP els/DA sentiments/NC ,/FF en/SP un/DI gust/NC similar/AQ a/SP el/DA gust/NC estètic/AQ ,/FF i/CC ,/FF per/SP tant/RG la/DA pretensió/NC de/SP crear/VM normes/NC morals/AQ racionals/AQ no/RN té/VM sentit/NC ./FF
+No/RN se/P0 sap/VM ,/FF racionalment/RG ,/FF que/CS una/DI acció/NC és/VS moralment/RG reprovable/AQ ,/FF sinó/CC que/PR se/P0 sent/VM ./FF
+David_Hume/NP ,/FF un/PI de/SP els/DA màxims/AQ exponents/NC de/SP l/NC Emotivisme_Moral/NP ,/FF no/RN nega/VM que/CS la/DA raó/NC intervingui/VM a/SP el/DA crear/VM el/DA judici/NC moral/AQ ./FF
+El/DA que/PR nega/VM és/VS que/CS sigui/VS l'/DA única/AQ que/PR intervé/VM ,/FF fins_i_tot/RG nega/VM que/CS sigui/VS l'/DA element/NC més/RG important/AQ ,/FF però/CC sense/SP arribar/VM a/SP afirmar/VM que/CS la/DA raó/NC estigui/VM totalment/RG fora_de/SP l'/DA elaboració/NC de/SP el/DA judici/NC moral/AQ ./FF
+La/DA postura/NC de/SP Hume/NP no/RN és/VS l'/DA única/AQ versió/NC de/SP l/NC Emotivisme_Moral/NP ./FF
+Existeixen/VM altres/DI autors/NC com/CS Shaftesbury/NP ,/FF Hutcheson/NP a/SP el/DA segle_XVIII/WW o/CC Ayer/NP a/SP el/DA segle_XX/WW ,/FF entre/SP d/NC altres/PI ./FF
+Referències/NP ./FF
+Bermudo/NP ,/FF J._M./NP ,/FF La_Filosofia/NP moderna/AQ y/NC su/VM proyección/NC contemporánea/NC ,/FF Barcanova/NP ,/FF Barcelona/NP ,/FF 1983/ZZ ;/FF Russell/NP ,/FF B./NP ,/FF Historia_de_la_Filosofia_Occidental/NP (/FF Vol_II/NP )/FF ,/FF Espasa-Calpe/NP ,/FF Madrid/NP ,/FF 1984/ZZ ;/FF Andaluz/NP ,/FF A._M./NP y/NC otros/NC ,/FF Historia_de_la_Filosofia/NP a_partir_de/SP los/NC textos/NC ,/FF Edelvives/NP ,/FF Zaragoza/NP ,/FF 1993/ZZ ;/FF
+Mawile/NP és/VS un/DI personatge/NC f

@@ -12506,4 +12506,82 @@ Forma_part/VM de/SP Gamla_Stan/NP ,/FF la/DA vella/AQ ciutat/NC d'/SP Estocolm/N
 El/DA Riksdag/NP ,/FF el/DA Parlament/NP suec/AQ ,/FF és/VS l'/DA únic/AQ edifici/NC de/SP la/DA illa/NC ./FF
 El/DA nom/NC de/SP Helgeandsholmen/NP es/P0 deriva/VM de/SP "/FF Den/NP helige/NC andes/NC holme/AQ "/FF ,/FF que/PR significa/VM lillot/NC de/SP el/DA Sant_Esperit/NP ./FF
 Filip_Gramàtic/NP o/CC Filip_Rector/NP o/CC Filip_Sofista/NP (/FF Philippus/NP ,/FF )/FF fou/VS un/DI escriptor/NC i/CC sofista/NC grec/AQ ./FF
-Suides/NP li/PP atribueix/VM una/DI obra/NC sobre/SP les/DA lletres/NC aspirades/VM ,/FF De_Spiritibus/N
+Suides/NP li/PP atribueix/VM una/DI obra/NC sobre/SP les/DA lletres/NC aspirades/VM ,/FF De_Spiritibus/NP ,/FF inspirat/VM en/SP Eli_Herodià/NP i/CC arranjat/VM alfabèticament/RG ;/FF i/CC també/RG una/DI obra/NC titulada/VM ,/FF De_Synaloepha/NP ./FF
+No/RN es/P0 coneix/VM la/DA seva/PX època/NC que/PR ha/VA de/SP ser/VS posterior/AQ a/SP Herodià/NP (/FF que/PR va/VA viure/VM a/SP el/DA segle_II/WW i/CC segle_III/WW )/FF ./FF
+Stadsholmen/NP és/VS una/DI illa/NC situada/VM a/SP el/DA centre/NC d/AQ '/FF Estocolm/NP ,/FF a/SP Suècia/NP ./FF
+Forma/NC amb/SP Riddarholmen/NP i/CC Helgeandsholmen/NP la/DA ciutat/NC vella/AQ d'/SP Estocolm/NP i/CC representa/VM la/DA part/NC major/AQ ./FF
+És/VS en/SP aquesta/DD illa/NC on/PR se/P0 situa/VM el/DA palau/NC reial/AQ ./FF
+Té/VM una/DI superfície/NC de/SP 33_hectàrees/ZZ ./FF
+Filip_Isàngel/NP (/FF Philippus_Isangelus/NP ,/FF )/FF fou/VS un/DI escriptor/NC grec/AQ de/SP data/NC desconeguda/VM ./FF
+És/VS esmentat/VM per/SP Plutarc/NP com/CS un/PI de/SP els/DA escriptors/NC grecs/AQ que/PR consideraven/VM la/DA suposada/VM visita/VM d'/SP Alexandre_el_Gran/NP a/SP la/DA reina/NC de/SP les/DA amazones/NC ,/FF con/NC una/DI faula/NC ,/FF com/CS el/DA temps/NC va/VA demostrar/VM ./FF
+El/DA seu/PX nom/NC podria/VM no/RN ser/VS ,/FF sinó/CC ./FF
+Filip_el_Macedoni/NP (/FF Philippus_Macedo/NP ,/FF )/FF fou/VS un/DI poeta/NC epigramàtic/AQ grec/AQ que/PR té/VM un/DI epigrama/NC a/SP l'/DA antologia/NC grega/AQ ./FF
+Fabricius/NP el/PP considera/VM diferent/AQ personatge/NC de/SP Filip_de_Tessalònica/NP i/CC pensa/VM que/CS hauria/VA viscut/VM a/SP el/DA segle/NC I._Jacobs/NP en_canvi/RG pensa/VM que/CS es/P0 tracta/VM de/SP la/DA mateixa/DI persona/NC ./FF
+Les/DA opinions/NC en_general/RG estan/VM repartides/VM en/SP les/DA dues/ZZ possibilitats/NC ./FF
+Ricard_Plantagenet/NP (/FF 21_de_setembre_de_1411/WW 30_de_desembre_de_1460/WW )/FF ,/FF va/VA ser/VS el/DA tercer/AO Duc_de_York/NP des_de/SP el/DA 1415/ZZ fins/SP a/SP la/DA seva/PX mort/NC ./FF
+Pertanyent/VM a/SP la/DA Casa_de_York/NP ,/FF una/DI branca/NC de/SP la/DA família/NC reial/AQ de/SP els/DA Plantagenet/NP ,/FF va/VA ocupar/VM càrrecs/NC oficials/AQ a/SP França/NP durant/SP la/DA Guerra/NP de/SP els/DA Cent/ZZ Anys/NP i/CC després/RG a/SP Anglaterra/NP ,/FF durant/SP la/DA bojeria/NC d/AQ Enric_VI/NP ./FF
+Les/DA seves/PX disputes/NC amb/SP Enric_VI/NP van/VA seu/PX una/DI de/SP les/DA principals/AQ causes/NC de/SP la/DA Guerra/NP de/SP les/DA Dues/ZZ Roses/NP ./FF
+Tot_i_que/CS no/RN va/VA arribar/VM a/SP acomplir/VM les/DA seves/PX pretensions/NC d/AQ ocupar/VM el/DA tron/NC ,/FF va/VA ser/VS pare/NC de/SP els/DA reis/NC Eduard_IV/NP i/CC de/SP Ricard_III/NP ./FF
+Biografia/NP ./FF
+Infància/NP ./FF
+Va/VA néixer/VM el/DA 1411/ZZ ,/FF fill/NC de/SP Ricard_de_Conisburgh/NP i/CC Anna_de_Mortimer/NP ./FF
+A_través_de/SP el/DA pare/NC era/VS l/NC hereu/NC de/SP la/DA poderosa/AQ Casa_de_York/NP ,/FF i/CC a_través_de/SP la/DA mare/NC descendia/VM de/SP el/DA rei/NC Eduard_III/NP a_través_de/SP el/DA seu/PX segon/AO fill/NC Lionel_d'_Anvers/NP ,/FF una/DI línea/NC que/PR precedia/VM la/DA de/SP els/DA reis/NC de/SP la/DA Casa_Lancaster/NP (/FF que/PR descendien/VM de/SP el/DA tercer/AO fill/NC )/FF ./FF
+Aparentment/RG la/DA seva/PX mare/NC va/VA morir/VM donant/VM a/SP llum/NC a/SP Ricard/NP ./FF
+L/NP agost_de_1415/WW ,/FF quan/CS era/VS tan/RG sols/RG un/DI noi/NC de/SP 5/ZZ anys/NC ,/FF el/DA seu/PX pare/NC va/VA ser/VS executat/VM per/SP haver/VA participat/VM a/SP el/DA Complot_de_Southampton/NP contra/SP Enric_V._El/NP comtat/NC de/SP Cambridge/NP que/PR tenia/VM el/DA seu/PX pare/NC va/VA aser/RG dissolt/VM de_manera_que/CS Ricard_Plantegenet/NP no/RN heretà/VM ni/CC terres/NC ni/CC títols/NC de/SP el/DA seu/PX pare/NC ./FF
+Però/RG l/NC octubre/WW de/SP el/DA mateix/DI any/NC el/DA seu/PX oncle/NC patern/AQ Eduard_de_Norwich/NP (/FF segon/AO Duc_de_York/NP )/FF va/VA morir/VM servint/VM Enric_V/NP a/SP la/DA Batalla/NP d/AQ Azencourt/NP ./FF
+Com/CS que/CS Eduard/NP encara/RG no/RN tenia/VM fills/NC i/CC Ricard/NP era/VS el/DA familiar/AQ viu/VM més/RG proper/AQ ,/FF després/RG de/SP superar/VM la/DA reticència/NC inicial/AQ Enric/NP va/VA permetre/VM que/CS heretés/VM el/DA ducat/NC de/SP York/NP ./FF
+També/RG se/P0 li/PP va/VA permetre/VM heretar/VM a/SP la/DA mort/NC de/SP el/DA seu/PX oncle/NC matern/AQ Edmund_Mortimer/NP el/DA 1425/ZZ el/DA títol/NC de/SP el/DA Ducat_de_March/NP (/FF menys/RG prestigiós/AQ ,/FF però/CC amb/SP més/RG terres/NC incorporades/VM )/FF ./FF
+Joventut/NP ./FF
+Com/CS a/SP orfe/NC que/PR era/VS ,/FF la/DA gestió/NC de/SP les/DA seves/PX terres/NC va/VA passar/VM a/SP ser/VS responsabilitat/NC de/SP la/DA corona/NC ./FF
+El/DA tutelatge/NC de/SP Ricard/NP va/VA ser/VS encarregat/VM a/SP el/DA comte/NC de/SP Westmoreland_Raül_Neville/NP ,/FF que/PR el/DA 1424/ZZ va/VA fer/VM prometre/VM a/SP Ricard/NP (/FF de/SP 13/ZZ anys/NC )/FF amb/SP la/DA seva/PX filla/NC Cecília_Neville/NP (/FF de/SP 9/ZZ )/FF ./FF
+Quan/CS Neville/NP va/VA morir/VM l/NC octubre_de_1425/WW va/VA llegar/VM el/DA tutelatge/NC a/SP la/DA seva/PX vídua/NC Joana_Beaufort/NP ./FF
+Es/P0 conserven/VM poques/DI dades/NC sobre/SP la/DA joventut/NC de/SP Ricard_de_York/NP ./FF
+El/DA 19_de_maig_de_1426/WW va/VA ser/VS nomenat/VM cavaller/NC a/SP Leicester_per_Joan_de_Lancaster/NP ./FF
+L/NP octubre_de_1429/WW va/VA tenir_lloc/VM el/DA seu/PX matrimoni/NC amb/SP Cecília_Neville/NP ,/FF i/CC el/DA 6_de_novembre/WW de/SP el/DA mateix/DI any/NC era/VS present/AQ a/SP la/DA coronació/NC d/AQ Enric_VI_d'_Anglaterra/NP a/SP l/NC Abadia_de_Westminster/NP ./FF
+Va/VA acompanyar/VM Enric/NP a/SP França/NP ,/FF o/CC també/RG va/VA ser/VS present/AQ el/DA 16_de_desembre/WW a/SP Notre-Dame_de_París/NP on/PR es/P0 feu/VM coronar/VM com/CS a/SP Rei_de_França/NP ./FF
+Finalment/RG ,/FF el/DA 12_de_maig_de_1432/WW ,/FF va/VA assolir/VM la/DA majoria/NC d/AQ edat/NC i/CC va/VA entrar/VM en/SP posessió/NC efectiva/AQ de/SP les/DA seves/PX terres/NC ./FF
+Campanyes/NP a/SP França/NP ./FF
+Ricard_de_York/NP va/VA ser/VS destacat/VM a/SP França/NP el/DA maig_de_1436/WW ./FF
+Durant/SP la/DA minoria/NC d/AQ edat/NC d/AQ Enric_VI_el_Consell/NP intentava/VM conservar/VM les/DA conquestes/NC fetes/VM per/SP el/DA seu/PX pare/NC ./FF
+Ricard/NP s/NC estava/VM dirigint/VM amb/SP el/DA seu/PX exèrcit/NC cap/NC a/SP París/NP quan/CS la/DA ciutat/NC va/VA caure/VM a/SP mans/NC de/SP els/DA francesos/NC ,/FF obligant/VM -lo/PP a/SP desviar/VM -se/P0 cap/NC a/SP Normandia/NP ./FF
+Va/VA obtenir/VM alguns/DI èxits/NC ,/FF recuperant/VM Fécamp/NP i/CC conservant/VM el/DA País_de_Caux/NP ,/FF tot/RG mantenint/VM l/NC ordre/NC i/CC la/DA justícia/NC a/SP el/DA Ducat/NP ./FF
+El/DA seu/PX destacament/NC es/P0 va/VA prorrogar/VM més/RG enllà/RG de/SP els/DA dotze_mesos/ZZ previstos/VM ,/FF i/CC no/RN va/VA tornar/VM a/SP Anglaterra/NP fins/SP el/DA novembre_de_1439/WW ./FF
+Tot/PI i/CC el/DA seu/PX relatiu/NC bon/AQ paper/NC a/SP França/NP i/CC la/DA seva/PX posició/NC destacada/VM entre/SP la/DA noblesa/NC ,/FF quan/CS va/VA tornar/VM no/RN se/P0 l/NC va/VA incorporar/VM a/SP el/DA Consell/NP d/AQ Enric_VI/NP ./FF
+El/DA 1440/ZZ ,/FF quan/CS les/DA negociacions/NC de/SP pau/NC amb/SP França/NP havien/VA fracassat/VM ,/FF Enric_VI/NP va/VA tornar/VM a/SP demanar/VM els/DA serveis/NC de/SP Ricard/NP ./FF
+El/DA va/VA nomenar/VM Lloctinent_de_França/NP el/DA 2_de_juliol/WW ,/FF amb/SP extensíssims/AQ poders/NC sobre/SP les/DA possessions/NC franceses/AQ ./FF
+Però/RG el/DA 1443/ZZ ,/FF el/DA rei/NC va/VA posar/VM sota/SP el/DA comandament/NC de/SP Joan_Beaufort/NP ,/FF Duc_de_Somerset/NP ,/FF un/DI exèrcit/NC de/SP 8.000/ZZ homes/NC que/PR en/SP un/DI principi/NC havien/VA d/RG estar/VM destinats/VM com/CS a/SP suport/NC per/SP a/SP Ricard/NP ./FF
+A_més_a_més/RG ,/FF els/DA termes/NC de/SP el/DA nomenament/NC de/SP Somerset/NP eren/VS tant/RG amplis/AQ que/CS York/NP podia/VM semblar/VM que/CS quedès/VM relegat/VM a/SP mer/AQ governador/NC de/SP la/DA Normandia/NP en_lloc_de/SP regent/NC de/SP tot/DI França/NP ./FF
+Aquest/DD incident/NC podia/VM haver/VA significat/VM l/NC inici/NC de/SP el/DA ressentiment/NC de/SP Ricard/NP contra/SP la/DA família/NC Beaufort/NP ,/FF que/PR més/RG tard/RG desembocaria/VM en/SP la/DA guerra/NC civil/AQ ./FF
+La/DA política/NC d/AQ Anglaterra/NP va/VA tornar/VM a/SP canviar/VM i/CC es/P0 va/VA buscar/VM una/DI pau/NC negociada/VM ,/FF de_manera_que/CS Ricard/NP va/VA dedicar/VM la/DA resta/NC de/SP el/DA temps/NC que/PR va/VA passar/VM a/SP França/NP a/SP l/NC administració/NC i/CC a/SP afers/NC domèstics/AQ rutinaris/AQ ./FF
+La/DA duquesa/NC Cecília/NP el/PP va/VA acompanyar/VM a/SP Normandia/NP ,/FF i/CC els/DA seus/PX fills/NC Eduard/NP ,/FF Edmund/NP i/CC Elizabet/NP van/VA néixer/VM a/SP Rouen/NP ./FF
+Líder/NC de/SP l/NC oposició/NC ./FF
+El/DA 1445/ZZ ,/FF a/SP el/DA finalitzar/VM el/DA terme/NC de/SP el/DA seu/PX nomenament/NC a/SP França/NP ,/FF Ricard/NP ja/RG s/NC identificava/VM amb/SP els/DA opositors/NC de/SP la/DA política/NC d/AQ Enric_VI/NP en/SP relació/NC a/SP la/DA guerra/NC ./FF
+Ricard/NP no/RN va/VA veure/VM renovat/VM el/DA seu/PX càrrec/NC i/CC la/DA lloctinència/NC va/VA ser/VS assignada/VM a/SP Edmund_Beaufort/NP ./FF
+Ricard/NP va/VA ser/VS nomenat/VM lloctinent/NC d/AQ Irlanda/NP ;/FF una/DI posició/NC que/PR l/NC apartava/VM alhora/RG de/SP la/DA cort/NC a/SP Anglaterra/NP i/CC de/SP la/DA guerra/NC a/SP França/NP ./FF
+El/DA terme/NC de/SP el/DA nomenament/NC era/VS de/SP deu/ZZ anys/NC ,/FF deixant/VM -lo/PP fora_de/SP concurs/NC per/SP qualsevol/DI altre/DI alt/AQ càrrec/NC durant/SP aquest/DD període/NC ./FF
+Ricard/NP va/VA retardar/VM la/DA seva/PX marxa/NC fins/SP el/DA juny_de_1449/WW ,/FF i/CC un/DI cop/NC allà/RG ,/FF aviat/RG va/VA decidir/VM tornar/VM a/SP Anglaterra/NP al·legant/VM manca/NC de/SP fons/NC per/SP defensar/VM les/DA possessions/NC angleses/AQ ./FF
+De/SP fet/NC ,/FF era/VS cert/AQ que/CS la/DA corona/NC li/PP debia/VM unes/DI 40.000_lliures/ZZ ./FF
+El/DA 1450/ZZ les/DA derrotes/NC a/SP França/NP i/CC els/DA fracassos/NC polítics/AQ de/SP els/DA anys/NC anteriors/AQ van/VA derivar/VM en/SP un/DI malestar/NC generalitzat/VM ./FF
+El/DA gener/WW el/DA bisbe/NC de/SP Chichester/NP va/VA ser/VS linxat/VM ,/FF el/DA maig/WW el/DA conseller/NC en/SP cap/NC de/SP el/DA rei/NC va/VA ser/VS exiliat/NC i/CC assassinat/NC ,/FF el/DA juny/WW les/DA comtats/NC de/SP Kent/NP i/CC Sussex/NP van/VA revoltar/VM -se/P0 i/CC l/NC agost/WW les/DA últimes/AO possessions/NC continentals/AQ a/SP Normandia/NP es/P0 van/VA perdre/VM ./FF
+Una/DI onada/NC de/SP refugiats/NC anglesos/AQ provinents/AQ de/SP França/NP va/VA arribar/VM a/SP Anglaterra/NP i/CC els/DA soldats/NC anglesos/AQ que/CS s/NC hi/PP havien/VA destacat/VM van/VA tornar/VM ./FF
+Erigint/VM -se/PP en/SP líder/NC de/SP l/NC oposició/NC ,/FF Ricard_de_York/NP va/VA entrar/VM a/SP Londres/NP el/DA 27_de_setembre/WW ./FF
+Després/RG d/AQ una/DI reunió/NC ,/FF probablement/RG violenta/AQ ,/FF amb/SP el/DA rei/NC Enric/NP ,/FF va/VA marxar/VM de/SP la/DA ciutat/NC tot/RG reclutant/VM descontents/AQ per/SP a/SP la/DA seva/PX causa/NC a_mesura_que/CS travessava/VM el/DA país/NC ./FF
+El/DA Parlament/NP va/VA mostrar/VM suport/NC a/SP Ricard/NP nomenant/VM com/CS a/SP portaveu/NC el/DA seu/PX camerlà/NC ./FF
+El/DA 1452/ZZ Ricard/NP va/VA intentar/VM ser/VS nomenat/VM hereu/NC d/AQ Enric_VI/NP ,/FF aleshores/RG sense/SP descendència/NC ./FF
+L/NP alternativa/NC hauria/VA pogut/VM ser/VS el/DA seu/PX rival/NC Edmund_Beaufort/NP ./FF
+Aplegant/VM els/DA seus/PX partidaris/NC ,/FF Ricard/NP va/VA marxar/VM amb/SP l/NC exèrcit/NC fins/SP a/SP Londres/NP per/SP trobar/VM -s/P0 hi/PP les/DA portes/NC tancades/VM per/SP ordre/NC d/AQ Enric/NP ./FF
+Essent/VS els/DA partidaris/NC de/SP el/DA rei/NC encara/RG molt/RG més/RG nombrosos/AQ ,/FF Ricard/NP es/P0 va/VA veure/VM obligat/VM a/SP arribar/VM un/DI acord/NC amb/SP Enric/NP ,/FF que/PR li/PP va/VA fer/VM renovar/VM el/DA jurament/NC de/SP fidelitat/NC ./FF
+Protector_de_el_Regne/NP ./FF
+A/SP l/NC estiu/NC de/SP 1453/ZZ ,/FF Ricard/NP semblava/VM haver/VA perdut/VM la/DA seva/PX lluita/NC per/SP el/DA poder/NC ./FF
+Havia/VA estat/VS relegat/VM de/SP els/DA seus/PX càrrecs/NC oficials/AQ ,/FF Enric/NP perseguia/VM tots/DI aquells/PD que/PR li/PP havien/VA donat_suport/VM en/SP la/DA seva/PX revolta/NC ,/FF i/CC la/DA reina/NC Margarida/NP d/RG Anjou/NP estava/VM embarassada/VM ./FF
+Fins_i_tot/RG la/DA guerra/NC contra/SP França/NP tornava/VM a/SP ser/VS favorable/AQ a/SP els/DA anglesos/NC (/FF s/NC havia/VA recuperat/VM Bordeus/NP )/FF ./FF
+Aleshores/RG ,/FF Enric_VI/NP va/VA patir/VM una/DI crisis/NC mental/AQ sobtada/NC ./FF
+Va/VA deixar/VM de/SP parlar/VM ,/FF de/SP reaccionar/VM estímuls/NC externs/AQ ,/FF i/CC havia/VA de/SP ser/VS guiat/VM per/SP anar/VM d/RG una/DI habitació/NC a/SP una/DI altra/PI ./FF
+Suposant/VM que/CS la/DA indisposició/NC de/SP el/DA rei/NC seria/VS breu/AQ ,/FF el/DA Consell/NP va/VA ocupar/VM -se/P0 de/SP el/DA govern/NC de/SP el/DA Regne/NP ./FF
+A/SP l/NC octubre/WW es/P0 va/VA convocar/VM un/DI Gran_Consell/NP de/SP tots/DI els/DA nobles/NC d/AQ Anglaterra/NP ,/FF i/CC tot_i_que/CS Edmund_Beaufort/NP va/VA intentar/VM excloure/VM n/NC Ricard/NP ,/FF no/RN va/VA poder/VM evitar/VM l/NC assistència/NC de/SP el/DA Duc/NP més/RG important/AQ de/SP el/DA regne/NC ./FF
+Els/DA temors/NC de/SP el/DA comte/NC de/SP Somerset/NP eren/VS fonamentats/VM ,/FF car/CC el/DA novembre/WW Beaufort/NP era/VS empresonat/VM a/SP la/DA Torre_de_Londres/NP i/CC el/DA març/WW ,/FF tot/PI i/CC l/NC oposició/NC de/SP la/DA reina/NC Margarida/NP ,/FF Ricard/NP era/VS nomenat/VM Protector_de_el_Regne/NP i/CC Conseller/NP en/SP Cap/NP ./FF
+De_mica_en_mica/RG ,/FF la/DA noblesa/NC es/P0 va/VA anar/VM polaritzant/VM entre/SP els/DA partidaris/NC de/SP Ricard_de_York/NP o/CC els/DA d/NC Edmund_Beaufort/NP (/FF que/PR s/NC identificava/VM amb/SP el/DA rei/NC )/FF ./FF
+Els/DA antic/AQ feus/NC entre/SP les/DA diferents/DI famílies/NC (/FF com/CS el/DA que/PR enfrontava/VM els/DA Percy/NP i/CC els/DA Neville/NP )/FF es/P0 van/VA anar/VM identificant/VM amb/SP els/DA dos/ZZ bàndols/NC enfrontats/VM ,/FF i/CC el/DA país/NC quedà/VM dividit/NC ./FF
+L'/DA enfrontament/NC armat/NC ./FF
+La/DA recuperació/NC d'/SP Enric_VI/NP el/DA gener_de_1455/WW va/VA canviar/VM la/DA situació/NC radicalment/RG ./FF
+El/DA rei/NC va/VA relegar/VM a/SP Ricard/NP de/SP tots/DI els/DA seus/PX càrrecs/NC ,/FF i/CC va/VA fer/VM alliberar/VM Somerset/NP de/SP l

@@ -12278,4 +12278,131 @@ Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smo
 Luci_Marci_Filip/NP (/FF Lucius_Marcius_L._F._Q._N._Philippus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP Luci_Marci_Filip/NP (/FF cònsol/NC 91/ZZ aC/NC )/FF (/FF Lucius_Marcius_Q._F._Q._N._Philippus/NP )/FF ./FF
 Fou/VS pretor/NC el/DA 60/ZZ aC/NC i/CC propretor/NC de/SP Síria/NP el/DA 59/ZZ aC/NC ./FF
 Fou/VS cònsol/NC romà/AQ el/DA 56/ZZ aC/NC amb/SP Gneu_Corneli_Lèntul_Marcel·lí/NP ./FF
-Estava/VM emparentat/VM amb/SP la/DA família/NC Júlia/NP :/FF a/SP la/DA mort/NC de/SP Gai_Octavi/NP (/FF pare/NC d'/SP August/NP )/FF ,/FF Filip/NP es/P0 va/VA casar/VM amb/SP la/DA seva/PX vídua/NC Àtia/NP ,/FF filla/NC de/SP Júlia_Menor/NP (/FF germana/NC de/SP Juli_Cèsar/NP )/FF ,/FF i/CC per/SP tant/RG va/VA esdevenir/VM padrastre/NC d'/SP Octavi/NP (/FF August/NP )/FF 
+Estava/VM emparentat/VM amb/SP la/DA família/NC Júlia/NP :/FF a/SP la/DA mort/NC de/SP Gai_Octavi/NP (/FF pare/NC d'/SP August/NP )/FF ,/FF Filip/NP es/P0 va/VA casar/VM amb/SP la/DA seva/PX vídua/NC Àtia/NP ,/FF filla/NC de/SP Júlia_Menor/NP (/FF germana/NC de/SP Juli_Cèsar/NP )/FF ,/FF i/CC per/SP tant/RG va/VA esdevenir/VM padrastre/NC d'/SP Octavi/NP (/FF August/NP )/FF ./FF
+Segons/SP Ovidi/NP es/P0 va/VA casar/VM amb/SP una/DI germana/NC de/SP la/DA mare/NC d'/SP Octavi/NP (/FF August/NP )/FF i/CC s'/P0 ha/VA suposat_que/CS es/P0 va/VA casar/VM amb/SP les/DA dues/ZZ germanes/NC successivament/RG ja_que/CS l'/DA enllaç/NC amb/SP la/DA primera/AO no/RN presenta/VM cap/DI dubte/NC ./FF
+Tot/PI i/CC el/DA seu/PX parentiu/NC va/VA restar/VM neutral/AQ a/SP les/DA guerres/NC civils/AQ (/FF 49/ZZ aC/NC i/CC després/RG de/SP el/DA 44/ZZ aC/NC )/FF ./FF
+Encara/RG que/CS no/RN va/VA donar_suport/VM a/SP Juli_Cèsar/NP quan/CS aquest/DD va/VA triomfar/VM li/PP va/VA continuar/VM mostrant/VM gran/AQ estimació/NC i/CC amistat/NC ./FF
+Fou/VS també/RG amic/AQ de/SP Ciceró/NP ./FF
+El/DA 44/ZZ aC/NC va/VA intentar/VM que/CS el/DA seu/PX fillastre/NC Octavi/NP no/RN acceptés/VM l'/DA herència/NC de/SP el/DA seu/PX oncle/NC ;/FF fou/VS ambaixador/NC de/SP el/DA senat/NC enviat/VM a/SP Mutina/NP on/PR era/VS Marc_Antoni/NP ./FF
+Va/VA viure/VM fins/SP avançada/NC edat/NC i/CC va/VA veure/VM el/DA triomf/NC de/SP el/DA seu/PX fillastre/NC ./FF
+Va/VA dedicar/VM un/DI temple/NC a/SP Hèrcules/NP i/CC un/DI a/SP les/DA Muses/NP ,/FF aquest/DD darrer/AO erigit/VM abans/RG per/SP Marc_Fulvi_Nobilior_I/NP (/FF cònsol/NC 189/ZZ aC/NC )/FF on/PR va/VA construir/VM una/DI columnata/NC coneguda/VM com/CS pòrtic/NC de/SP Filip/NP (/FF Porticus_Philippi/NP )/FF ./FF
+Va/VA deixar/VM dos/ZZ fills/NC :/FF Luci_Marci_Filip/NP (/FF Lucius_Marcius_L._F._L._N._Philippus/NP )/FF i/CC una/DI filla/NC de/SP nom/NC Màrcia/NP que/PR fou/VS la/DA segona/AO dona/NC de/SP Cató_d'_Útica/NP ./FF
+Callulops/NP robustus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Indonèsia/NP i/CC Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S./NP ,/FF Günther/NP ,/FF R._&_Price/NP ,/FF D./NP 2004/ZZ ./FF
+Callulops/NP robustus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Luci_Marci_Filip/NP (/FF Lucius_Marcius_L._F._L._N._Philippus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP Luci_Marci_Filip/NP (/FF cònsol/NC 56/ZZ aC/NC )/FF (/FF Lucius_Marcius_L._F._Q._N._Philippus/NP )/FF ./FF
+Fou/VS tribú/NC de/SP la/DA plebs/NC el/DA 49/ZZ aC/NC i/CC en/SP aquesta/DD condició/NC va/VA vetar/VM uns/DI nomenaments/NC que/PR volia/VM fer/VM el/DA senat/NC romà/AQ ./FF
+L'/DA any/NC 44/ZZ aC/NC fou/VS pretor/NC i/CC en/SP aquest/DD mateix/DI any/NC Ciceró/NP l'/PP esmenta/VM com/CS a/SP "/FF vir/VM patre/VM ,/FF avo/NC ,/FF majoribus/NC suis/NC dignissimus/AQ "/FF ./FF
+Callulops/NP sagittatus/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Indonèsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Bickford/NP ,/FF D./NP 2004/ZZ ./FF
+Callulops/NP sagittatus/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Quint/VM Marci_Filip/NP (/FF Quintus_Marcius_Philippus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS procònsol/NC (/FF governador/NC )/FF a/SP Àsia/NP l'/DA any/NC 54/ZZ aC/NC ./FF
+Ciceró/NP li/PP va/VA enviar/VM diverses/DI cartes/NC de/SP recomanació/NC ./FF
+La/DA seva/PX relació/NC amb/SP altres/DI membres/NC de/SP la/DA família/NC de/SP els/DA Marci_Filip/NP és/VS desconeguda/VM ./FF
+Callulops/NP slateri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Indonèsia/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Bickford/NP ,/FF D./NP 2004/ZZ ./FF
+Callulops/NP slateri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Beautifly/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC volador/AQ ./FF
+Evoluciona/VM de/SP Silcoon/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Callulops/NP stictogaster/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Papua_Nova_Guinea/NP ./FF
+Referències/NP ./FF
+Richards/NP ,/FF S._&_Parker/NP ,/FF F./NP 2004/ZZ ./FF
+Callulops/NP stictogaster/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Onomàstica/NP :/FF Quint/VM Marci_Rex/NP (/FF tribú/NC )/FF ,/FF tribú/NC de/SP la/DA plebs/NC el/DA 196/ZZ aC/NC ;/FF Quint_Marci_Rex/NP (/FF pretor/NC )/FF ,/FF pretor/NC el/DA 144/ZZ aC/NC ;/FF Quint_Marci_Rex/NP (/FF cònsol/NC 118/ZZ aC/NC )/FF ,/FF cònsol/NC el/DA 118/ZZ aC/NC ;/FF Quint_Marci_Rex/NP (/FF cònsol/NC 68/ZZ aC/NC )/FF ,/FF cònsol/NC el/DA 68/ZZ aC/NC ;/FF
+Yanma/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC volador/AQ ./FF
+Evoluciona/VM en/SP Yanmega/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Masquerain/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC volador/AQ ./FF
+Evoluciona/VM de/SP Surskit/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Joan_Torrens/NP i/CC Dagès/NP fou/VS un/DI sindicalista/NC català/AQ ./FF
+Fou/VS president/NC de/SP el/DA CADCI/NP de/SP el/DA 1919/ZZ a/SP el/DA 1921/ZZ i/CC per/SP la/DA seva/PX activitat/NC sindical/AQ en/SP la/DA secció/NC d'/SP organització/NC i/CC treball/NC fou/VS empresonat/VM durant/SP la/DA vaga/NC de/SP la/DA Canadenca/NP de/SP 1919/ZZ ./FF
+Forretress/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC acer/NC ./FF
+Evoluciona/VM de/SP Pineco/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Shuckle/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC insecte/NC i/CC roca/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Brevicipitinae/NP és/VS una/DI subfamília/NC de/SP granotes/NC de/SP la/DA família/NC Microhylidae/NP ./FF
+Gèneres/NP ./FF
+Balebreviceps/NP ;/FF Breviceps/NP ;/FF Callulina/NP ;/FF Probreviceps/NP ;/FF Spelaeophryne/NP ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquesta/DD subfamília/NC d'/SP amfibis/NC ./FF ;/FF
+Filip_Abucara/NP (/FF Philippus_Abucara/NP o/CC Abuvara/NP ,/FF )/FF fou/VS un/DI de/SP els/DA escolàstics/NC grecs/AQ de/SP l/NC '/FF Enehiridion/NP de/SP el/DA gramàtic/NC grec/AQ Hefestió_d'_Alexandria/NP ,/FF potser/RG el/DA compilador/NC de/SP l'/DA Escòlia_d'_Hefestió/NP que/PR es/P0 adscrita/VM a/SP Filip/NP a/SP la/DA biblioteca/NC de/SP el/DA rei/NC a/SP París/NP ./FF
+Klaus_Wowereit/NP (/FF 11_d'_octubre_de_1953/WW a/SP Berlín/NP )/FF és/VS un/DI polític/AQ d'/SP Alemanya/NP ,/FF membre/NC de/SP el/DA Partit_Socialdemòcrata_d'_Alemanya/NP (/FF SPD/NP )/FF ,/FF i/CC des_de/SP juny_de_2001/WW és/VS l'/DA alcalde/NC de/SP Berlín/NP ./FF
+És/VS un/DI de/SP els/DA polítics/AQ més/RG coneguts/NC d'/SP Alemanya/NP des/SP que/PR es/P0 va/VA declarar/VM homosexual/AQ amb/SP la/DA frase/NC "/FF Ich/NP bin/VM schwul/NC ,/FF und/AQ das/VM ist/VM auch/NC gut/NC so/NC ./FF "/FF (/FF literalment/RG :/FF "/FF Sóc/VS marieta/NC ,/FF i/CC està/VM bé/RG que/CS sigui/VS així/RG "/FF )/FF ./FF
+A/SP més/RG ,/FF va/VA ser/VS el/DA primer/AO polític/NC de/SP el/DA SPD/NP a/SP pactar/VM amb/SP el/DA Partit_de_el_Socialisme_Democràtic/NP a/SP nivell/NC de/SP Estat/NP federat/VM ./FF
+Filip_d'_Amfípolis/NP fou/VS un/DI escriptor/NC grec/AQ de/SP data/NC desconeguda/VM ./FF
+Fou/VS cèlebre/AQ per/SP les/DA seves/PX obres/NC històriques/AQ de/SP les/DA que/PR Suides/NP dona/NC algunes/DI referències/NC com/CS a/SP obres/NC obscenes/AQ ./FF
+El/DA metge/NC i/CC escriptor/NC Teodor_Priscià/NP el/PP qualifica/VM entre/SP els/DA escriptors/NC de/SP llibres/NC d'/SP amor/NC i/CC plaer/NC ./FF
+A/SP Suides/NP s'/P0 esmenten/VM com/CS obres/NC seves/PX :/FF ,/FF Rhodiaca_Libris_XIX/NP ,/FF història/NC de/SP Rodes/NP ;/FF ,/FF Coiaca_Libris/NP duobus/NC ,/FF història/NC de/SP Kos/NP ;/FF ,/FF De_Sacrificiis/NP ,/FF o/CC ,/FF Thasiaca/NP ,/FF història/NC de/SP Tasos/NP ;/FF
+Breviceps/NP és/VS un/DI gènere/NC de/SP granotes/NC de/SP la/DA família/NC Microhylidae/NP ./FF
+Espècies/NP ./FF
+Breviceps/NP acutirostris/NC ;/FF Breviceps/NP adspersus/NC ;/FF Breviceps/NP bagginsi/NC ;/FF Breviceps/NP fuscus/NC ;/FF Breviceps/NP gibbosus/NC ;/FF Breviceps/NP macrops/NC ;/FF Breviceps/NP maculatus/NC ;/FF Breviceps/NP montanus/NC ;/FF Breviceps/NP mossambicus/NC ;/FF Breviceps/NP namaquensis/NC ;/FF Breviceps/NP poweri/NC ;/FF Breviceps/NP rosei/NC ;/FF Breviceps/NP sopranus/NC ;/FF Breviceps/NP sylvestris/NC ;/FF Breviceps/NP verrucosus/NC ;/FF Referències/NP ./FF
+Informació/NP sobre/SP aquest/DD gènere/NC de/SP granotes/NC ./FF ;/FF
+Filip_Cesariense/NP (/FF Philippus_Cesariensis_Synodi_Relator/NP )/FF fou/VS un/DI escriptor/NC religiós/AQ grec/AQ ./FF
+A/SP aquest/DD escriptor/NC s'/P0 atribueix/VM alternativament/RG el/DA relat/NC de/SP el/DA concili/NC de/SP Cesarea/NP de/SP el/DA 196/ZZ ,/FF atribuït/VM majoritàriament/RG a/SP Teòfil_de_Cesarea/NP ,/FF però/CC publicat/VM per/SP el/DA jesuïta/NC Bucherius/NP com/CS obra/NC de/SP Felip/NP ,/FF probablement/RG degut/VM a/SP un/DI error/NC ./FF
+Relicanth/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC roca/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Filip_de_Calcis/NP (/FF Philippus/NP ,/FF )/FF fou/VS un/DI historiador/NC grec/AQ de/SP data/NC desconeguda/VM ./FF
+És/VS esmentat/VM per/SP Plutarc/NP com/CS un/PI de/SP els/DA diversos/DI escriptors/NC grecs/AQ que/PR consideraven/VM la/DA suposada/VM visita/VM de/SP el/DA rei/NC Alexandre_el_Gran/NP a/SP la/DA reina/NC de/SP les/DA amazones/NC ,/FF com/CS una/DI faula/NC ,/FF com/CS efectivament/RG el/DA temps/NC va/VA demostrar/VM que/CS era/VS ./FF
+Alberto_Martín-Artajo_Álvarez/NP (/FF Madrid/NP ,/FF 1905/ZZ 1979/ZZ )/FF fou/VS un/DI polític/NC espanyol/AQ ./FF
+Després/RG d'/SP estudiar/VM amb/SP els/DA jesuïtes/NC de/SP Chamartín/NP ,/FF es/P0 va/VA llicenciar/VM en_Dret/RG per/SP la/DA Universitat_de_Madrid/NP ./FF
+Va/VA ser/VS lletrat/NC de/SP el/DA Consell_d'_Estat/NP des_de/SP 1930/ZZ ./FF
+Durant/SP la/DA República/NP va/VA ser/VS estret/NC col·laborador/AQ d'/SP Ángel_Herrera_Oria/NP ,/FF director/NC de/SP el/DA diari/NC catòlic/AQ "/FF El/DA Debate/NP "/FF ,/FF i/CC membre/NC de/SP la/DA Associación_Católica_Nacional_de_Propagandistas/NP ./FF
+En/SP començar/VM la/DA guerra/NC civil/AQ ,/FF es/P0 va/VA passar/VM a/SP la/DA zona/NC insurgent/AQ ./FF
+Va/VA assessorar/VM com/CS a/SP jurista/NC la/DA Junta_Tècnica/NP i/CC el/DA Ministeri_de_Treball/NP nacionalista/AQ ,/FF i/CC va/VA participar/VM en/SP l'/DA elaboració/NC de/SP el/DA Fur_de_els_Espanyols/NP ./FF
+El/DA 1940/ZZ va/VA ser/VS nomenat/VM per/SP Franco/NP president/NC d'/SP Acció_Catòlica/NP ./FF
+El/DA juliol_de_1945/WW ,/FF després/RG de/SP consultar/VM amb/SP el/DA cardenal/NC Enric_Pla/NP i/CC Deniel/NP ,/FF va/VA acceptar/VM la/DA cartera/NC de/SP Afers/NP exteriors/AQ i/CC va/VA abandonar/VM el/DA seu/PX càrrec/NC a/SP Acció_Catòlica/NP ./FF
+Les/DA seves/PX gestions/NC diplomàtiques/AQ van/VA assolir/VM trencar/VM l'/DA aïllament/NC de/SP el/DA règim/NC amb/SP la/DA signatura/NC de/SP el/DA Concordat/NP amb/SP la/DA Santa_Seu/NP l'/DA agost_de_1953/WW ,/FF els/DA acords/NC hispano-nord-americans/AQ de/SP setembre/WW de/SP el/DA mateix/DI any/NC i/CC amb/SP l'/DA ingrés/NC d'/SP Espanya/NP a/SP la/DA ONU/NP ./FF
+Cessà/VM en/SP el/DA càrrec/NC el/DA 1957/ZZ ./FF
+Breviceps/NP acutirostris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Sud-Àfrica/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Minter/NP ,/FF L./NP ,/FF Channing/NP ,/FF A._&_Harrison/NP ,/FF J./NP 2004/ZZ ./FF
+Breviceps/NP acutirostris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Wooper/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC terra/NC ./FF
+Evoluciona/VM en/SP Quagsire/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Quagsire/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC terra/NC ./FF
+Evoluciona/VM de/SP Wooper/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Filip_Col·lideu/NP o/CC Filip_Col·lidense/NP (/FF Philippus_Chollideus/NP o/CC Chollidensis/NP ,/FF )/FF ,/FF fou/VS un/DI terratinent/NC grec/AQ ./FF
+Les/DA seves/PX terres/NC eren/VS a/SP el/DA costat/NC de/SP la/DA hisenda/NC de/SP Plató/NP (/FF hisenda/NC que/PR Plató/NP va/VA llegar/VM a/SP la/DA seva/PX mort/NC a/SP el/DA seu/PX fill/NC Adimant/NP )/FF ;/FF per/SP un/DI error/NC a/SP el/DA índex/NC de/SP Fabricius/NP apareix/VM com/CS filòsof/NC en/SP lloc/NC d'/SP un/DI terratinent/NC ./FF
+La/DA seva/PX fama/NC deriva/VM de/SP què/PT apareix/VM a/SP el/DA testament/NC de/SP Plató/NP ./FF
+Marshtomp/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC aigua/NC i/CC terra/NC ./FF
+Evoluciona/VM de/SP Mudkip/NP i/CC evoluciona/VM en/SP Swampert/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Breviceps/NP adspersus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Angola/NP ,/FF Botswana/NP ,/FF Moçambic/NP ,/FF Namíbia/NP ,/FF Sud-Àfrica/NP ,/FF Swazilàndia/NP ,/FF Zàmbia/NP i/CC Zimbabwe/NP ./FF
+Referències/NP ./FF
+Minter/NP ,/FF L./NP ,/FF Channing/NP ,/FF A./NP ,/FF Poynton/NP ,/FF J.C._&_Harrison/NP ,/FF J./NP 2004/ZZ ./FF
+Breviceps/NP adspersus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/

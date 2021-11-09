@@ -12828,3 +12828,124 @@ Breviceps/NP poweri/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM 
 Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
 Referències/NP ./FF
 Minter/NP ,/FF L./NP ,/FF Fretey/NP ,/FF T./NP ,/FF Channing/NP ,/FF A._&_Poynton/NP ,/FF J.C./NP 2004/ZZ ./FF
+Breviceps/NP poweri/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Skarmory/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC acer/NC i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Delibird/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC gel/NC i/CC volador/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Murkrow/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC sinistre/AQ i/CC volador/AQ ./FF
+Evoluciona/VM en/SP Honchkrow/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Gligar/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC terra/NC i/CC volador/AQ ./FF
+Evoluciona/VM en/SP Gliscor/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Breviceps/NP sopranus/AQ és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Sud-Àfrica/NP ,/FF Swazilàndia/NP i/CC ,/FF possiblement/RG també/RG ,/FF a/SP Moçambic/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Minter/NP ,/FF L./NP ,/FF Channing/NP ,/FF A._&_Harrison/NP ,/FF J./NP 2004/ZZ ./FF
+Breviceps/NP sopranus/AQ ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Girafarig/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC normal/AQ i/CC psíquic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Breviceps/NP sylvestris/NC és/VS una/DI espècie/NC de/SP granota/NC que/PR viu/VM a/SP Sud-Àfrica/NP ./FF
+Es/P0 troba/VM amenaçada/VM d'/SP extinció/NC per/SP la/DA pèrdua/NC de/SP el/DA seu/PX hàbitat/NC natural/AQ ./FF
+Referències/NP ./FF
+Minter/NP ,/FF L._&_Channing/NP ,/FF A./NP 2004/ZZ ./FF
+Breviceps/NP sylvestris/NC ./FF 2006/ZZ IUCN_Red_List/NP of/NC Threatened_Species/NP ./FF
+Accedit/VM a/SP data/NC 18_de_gener_de_2008/WW ./FF
+Lunatone/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC roca/NC i/CC psíquic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Solrock/NP és/VS un/DI personatge/NC fictici/AQ de/SP Pokémon/NP ./FF
+És/VS de/SP tipus/NC roca/NC i/CC psíquic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP oficial/AQ de/SP Pokémon/NP ;/FF a/SP la/DA Bulbapedia/NP ;/FF a/SP Smogon/NP ;/FF
+Iznogud/NP és/VS un/DI còmic/NC humorístic/AQ francès/AQ creat/VM per/SP el/DA guionista/NC René_Goscinny/NP i/CC el/DA dibuixant/NC Jean_Tabary/NP el/DA 1961/ZZ per/SP a/SP la/DA revista/NC Record/NP ./FF
+Inicialment/RG es/P0 va/VA titolar/VM Les/NP aventures/VM du/VM calife/NC Haroun_El_Poussah/NP ./FF
+Després/RG de/SP la/DA desaparició/NC de/SP la/DA revista/NC Record/NP ,/FF la/DA sèrie/NC va/VA començar/VM a/SP publicar/VM -se/P0 a/SP Pilote/NP el/DA 1968/ZZ ./FF
+Àlbums/NP ./FF
+1/ZZ ./FF
+Le_Grand_Vizir_Iznogoud/NP (/FF 1966/ZZ )/FF ;/FF 2/ZZ ./FF
+Les/DA Complots_d'_Iznogoud/NP (/FF 1967/ZZ )/FF ;/FF 3/ZZ ./FF
+Les/DA Vacances/NP du/VM calife/NC (/FF 1968/ZZ )/FF ;/FF 4/ZZ ./FF
+Iznogoud/NP l'/DA infâme/AQ (/FF 1969/ZZ )/FF ;/FF 5/ZZ ./FF
+Des/SP Astres/NP pour/NC Iznogoud/NP (/FF 1969/ZZ )/FF ;/FF 6/ZZ ./FF
+Iznogoud/NP et/PP l'/DA ordinateur/NC magique/RG (/FF 1970/ZZ )/FF ;/FF 7/ZZ ./FF
+Une_Carotte/NP pour/NC Iznogoud/NP (/FF 1971/ZZ )/FF ;/FF 8/ZZ ./FF
+Le_Jour/NP des/SP fous/NC (/FF 1972/ZZ )/FF ;/FF 9/ZZ ./FF
+Le_Tapis/NP magique/RG (/FF 1973/ZZ )/FF ;/FF 10/ZZ ./FF
+Iznogoud/NP l'/DA acharné/RG (/FF 1974/ZZ )/FF ;/FF 11/ZZ ./FF
+La/DA Tête/NP de/SP turc/NC d'/SP Iznogoud/NP (/FF 1975/ZZ )/FF ;/FF 12/ZZ ./FF
+Le_Conte/NP de/SP fées/NC d'/SP Iznogoud/NP (/FF 1976/ZZ )/FF ;/FF 13/ZZ ./FF
+Je/NP veux/VM être/VM calife/NC à/VM la/DA place/VM du/VM calife/NC (/FF 1978/ZZ )/FF ;/FF 14/ZZ ./FF
+Les/DA Cauchemars_d'_Iznogoud/NP (/FF Volum/NP 1/ZZ )/FF (/FF 1979/ZZ )/FF ;/FF 15/ZZ ./FF
+L'/DA Enfance_d'_Iznogoud/NP (/FF 1981/ZZ )/FF ;/FF 16/ZZ ./FF
+Iznogoud/NP et/PP les/DA femmes/NC (/FF 1983/ZZ )/FF ;/FF 17/ZZ ./FF
+Les/DA Cauchemars_d'_Iznogoud/NP (/FF Volum/NP 4/ZZ )/FF (/FF 1984/ZZ )/FF ;/FF 18/ZZ ./FF
+Le_Complice_d'_Iznogoud/NP (/FF 1985/ZZ )/FF ;/FF 19/ZZ ./FF
+L'/DA Anniversaire_d'_Iznogoud/NP (/FF 1987/ZZ )/FF ;/FF 20/ZZ ./FF
+Iznogoud/NP enfin/VM calife/NC !/FF (/FF 1989/ZZ )/FF ;/FF 21/ZZ ./FF
+Le_Piège/NP de/SP la/DA sirène/NC (/FF 1992/ZZ )/FF ;/FF 22/ZZ ./FF
+Les/DA Cauchemars_d'_Iznogoud/NP (/FF Volum/NP 2/ZZ )/FF (/FF 1994/ZZ )/FF ;/FF 23/ZZ ./FF
+Les/DA Cauchemars_d'_Iznogoud/NP (/FF Volum/NP 3/ZZ )/FF (/FF 1994/ZZ )/FF ;/FF 24/ZZ ./FF
+Les/DA Retours_d'_Iznogoud/NP (/FF 1994/ZZ )/FF ;/FF 25/ZZ ./FF
+Mais/NP qui/PR a/SP tué/RG le/AQ calife/NC ?/FF (/FF 1998/ZZ )/FF ;/FF 26/ZZ ./FF
+Un/DI Monstre/NP sympathique/RG (/FF 2000/ZZ )/FF ;/FF 27/ZZ ./FF
+La/DA Faute/NP de/SP l'/DA ancêtre/NC (/FF 2004/ZZ )/FF ;/FF 28/ZZ ./FF
+Les/DA Mille/NP et/PP Une_Nuits/NP du/VM Calife/NP (/FF 2008/ZZ )/FF ;/FF
+Little_Lulu/NP és/VS una/DI tira/NC còmica/AQ ,/FF creada/VM per/SP Marjorie_Henderson_Buell/NP ./FF
+Primer/RG va/VA a/SP aparéixer/VM com/CS a/SP còmic/NC d'/SP una/DI vinyeta/NC en/SP el/DA Saturday_Evening_Post/NP de/SP el/DA 23_de_febrer_del_1935/WW ./FF
+The_Katzenjammer_Kids/NP és/VS una/DI tira/NC còmica/AQ creada/VM per/SP l'/DA immigrant/NC alemany/AQ a/SP els/DA Estats_Units_Rudolph_Dirks/NP ./FF
+Va/VA debutar/VM el/DA 12_de_desembre_del_1897/WW en/SP l/NC '/FF American_Humorist/NP ,/FF en/SP un/DI suplement/NC dominical/AQ de/SP el/DA New_York_Journal/NP propietat/NC de/SP William_Randolph_Hearst/NP ./FF
+The_Katzenjammer_Kids/NP és/VS distribuït/VM actualment/RG per/SP King_Features_Syndicate/NP ,/FF convertint/VM -lo/PP en/SP la/DA tira/NC còmica/AQ sindicada/VM més/RG antiga/AQ que/PR està/VM en/SP actiu/NC ./FF
+King_Features_Syndicate/NP és/VS una/DI agència/NC de/SP premsa/NC estatunidenca/NC propietat/NC de/SP la/DA Hearst_Corporation/NP que/CS líder/NC en/SP la/DA distribució/NC de/SP tires/NC de/SP premsa/NC ,/FF columnes/NC periodístiques/AQ ,/FF i/CC passatemps/NC a/SP milers/NC de/SP diaris/NC de/SP tot/DI el/DA món/NC ./FF
+Daniel_el_Trapella/NP és/VS un/DI còmic/NC publicat/VM diàriament/RG en/SP la/DA premsa/NC ,/FF originalment/RG creat/VM ,/FF escrit/NC i/CC il·lustrat/NC per/SP Hank_Ketcham/NP des_de/SP el/DA 12_de_març_del_1951/WW ,/FF amb/SP un/DI debut/NC de/SP només/RG 16/ZZ diaris/NC ./FF
+Més/RG tard/RG va/VA passar/VM a/SP ser/VS distribuït/VM en/SP més/RG de/SP 10.000/ZZ diaris/NC en/SP 48/ZZ països/NC i/CC 19/ZZ llengües/NC per/SP el/DA King_Features_Syndicate/NP ./FF
+Flah/NP gordon/VM és/VS un/DI còmic/NC que/PR va/VA ser/VS creat/VM per/SP el/DA dibuixant/NC Alex_Raymond/NP el/DA 7_de_gener_del_1934/WW per/SP a/SP el/DA King_Features_Syndicate/NP ,/FF com/CS a/SP pàgina/NC dominical/AQ ./FF
+Malgrat/SP haver/VA estat/VS creat/VM inicialment/RG per/SP competir/VM amb/SP les/DA aventures/NC de/SP Buck_Rogers/NP en/SP el/DA terreny/NC de/SP la/DA ciència_ficció/NC ,/FF ràpidament/RG va/VA desenvolupar/VM més/RG popularitat/NC i/CC va/VA esdevenir/VM més/RG perdurable/AQ en/SP el/DA temps/NC ./FF
+Charles_Monroe_Schulz/NP (/FF 26_de_novembre_de_1922/WW ,/FF Minneapolis/NP ,/FF Califòrnia/NP ,/FF EUA/NP 12_de_febrer_del_2000/WW a/SP Santa_Rosa/NP ,/FF CA/NP ,/FF EUA/NP )/FF conegut/VM com/CS a/SP Schulz/NP ,/FF va/VA ser/VS un/DI ninotaire/NC estatunidenc/AQ ,/FF creador/NC i/CC autor/NC de/SP la/DA tira/NC còmica/AQ Peanuts/NP ./FF
+Charlie_Brown/NP és/VS el/DA personatge/NC principal/AQ de/SP la/DA tira/NC còmica/AQ -/FF i/CC la/DA seva/PX posterior/AQ entrada/NC en/SP el/DA camp/NC de/SP l'/DA animació/NC de/SP la/DA mà/NC de/SP Bill_Melendez/NP -/FF coneguda/NC per/SP el/DA nom/NC de/SP Peanuts/NP ,/FF creada/VM per/SP Charles_Schulz/NP ./FF
+L'/DA Snoopy/NP és/VS un/PI de/SP els/DA personatges/NC principals/AQ de/SP la/DA tira/NC còmica/AQ Peanuts/NP creada/VM per/SP Charles_Schulz/NP ./FF
+És/VS el/DA gos/NC d'/SP en/SP Charlie_Brown/NP ,/FF i/CC el/DA seu/PX excentricisme/NC el/DA converteix/VM en/SP el/DA seu/PX contrapunt/NC ./FF
+Va/VA aparèixer/VM per/SP primer/AO cop/NC el/DA 4_d'_octubre_de_1950/WW ./FF
+Enllaços/NC externs/AQ ./FF
+Plana/NP oficial/AQ de/SP "/FF Peanuts/NP "/FF ;/FF
+Blondie/NP és/VS una/DI tira/NC còmica/AQ creada/VM per/SP Chic_Young/NP i/CC sindicada/VM per/SP King_Features_Syndicate/NP ./FF
+S'/P0 ha/VA publicat/VM el/DA diaris/NC des_de/SP el/DA 8_de_setembre_del_1930/WW ./FF
+L'/DA èxit/NC de/SP la/DA tira/NC còmica/AQ va/VA conduir/VM a/SP una/DI sèrie/NC de/SP dibuixos/NC animats/VM (/FF 1938-1950/ZZ )/FF així/RG com/CS a/SP un/DI popular/AQ programa/NC de/SP ràdio/NC (/FF 1939-1950/ZZ )/FF ./FF
+Betty_Boop/NP és/VS un/DI personatge/NC de/SP ficció/NC de/SP dibuixos/NC animats/VM que/CS va/VA aparèixer/VM en/SP la/DA sèrie/NC Talkartoon/NP a/SP els/DA anys/NC 20/ZZ i/CC 30/ZZ ,/FF produïda/VM per/SP Max_Fleischer/NP i/CC distribuïda/VM per/SP Paramount_Pictures/NP ./FF
+Per/SP la/DA seva/PX oberta/NC sexualitat/NC ,/FF va/VA tenir/VM molt/RG èxit/NC en/SP el/DA cinema/NC ./FF
+Història/NP ./FF
+Orígens/NP ./FF
+Betty_Boop/NP va/VA ser/VS el/DA primer/AO dibuix/NC animat/VM flapper/AQ ./FF
+Va/VA ver/AQ la/DA seua/PX primera/AO aparició/NC el/DA 9_d'_agost_de_1930/WW ,/FF en/SP el/DA curt/AQ anomenat/VM Dizzy_Dishes/NP ,/FF a/SP la/DA sisè/AO Fleischer/NP 's/P0 Talkartoon/NP series/VM ./FF
+Grim_Natwick/NP ,/FF un/DI animador/NC veterà/AQ de/SP els/DA estudis/NC de/SP Walt_Disney/NP i/CC Ub_Iwerks/NP ,/FF va/VA ser/VS el/DA principal/AQ responsable/NC de/SP crear/VM el/DA personatge/NC animat/VM ,/FF modelat/NC en/SP base/NC a/SP la/DA figura/NC de/SP Helen_Kane/NP ,/FF cantant/NC i/CC actriu/NC de/SP els/DA Estat_Units/NP contractada/NC per/SP la/DA Paramount_Pictures/NP ,/FF el/DA estudio/VM que/CS distribuía/RG els/DA dibuixos/NC animats/VM de/SP Max_Fleischer/NP ./FF
+Seguint/VM la/DA pràctica/NC comú/AQ ,/FF Grim_Natwick/NP va/VA fer/VM un/DI nou/AQ personatge/NC ,/FF en/SP este/NC cas/NC ,/FF el/DA seu/PX nou/AQ personatge/NC era/VS un/DI gos/NC ./FF
+Començant/VM amb/SP este/NC dibuix/VM animat/VM ,/FF la/DA veu/NC de/SP el/DA personatge/NC va/VA ser/VS interpretada/VM per/SP diverses/DI actrius/NC diferents/AQ fins/SP a/SP que/PR Mae_Questel/NP va/VA aconseguir/VM el/DA paper/NC ,/FF a/SP el/DA 1931/ZZ ,/FF i/CC ho/PP va/VA mantenir/VM per/SP la/DA resta/NC de/SP la/DA sèrie/NC ./FF
+El/DA propi/AQ Natwick/NP va/VA reconèixer/VM després/RG que/CS l'/DA aspecte/NC original/AQ de/SP Betty_Boop/NP era/VS prou/RG lleig/AQ ,/FF i/CC ho/PP va/VA re-dissenyar/VM el/DA 1932/ZZ per/SP a/SP el/DA dibuix/NC Any_Rags/NP ./FF
+Les/DA seues/PX orelles/NC de/SP gos/NC se/P0 tornaren/VM pendents/AQ i/CC la/DA seua/PX pell/NC de/SP gos/NC es/P0 transformà/VM en/SP un/DI tall/NC de/SP monyo/NC ./FF
+Va/VA aparèixer/VM en/SP deu/ZZ dibuixos/NC com/CS a/SP personatge/NC secundari/AQ ,/FF una/DI xica/NC flapper/AQ amb/SP més/RG cor/NC que/CS intel·ligència/NC ./FF
+Va/VA tenir/VM alguns/DI noms/NC ,/FF com/CS "/FF Nancy_Lee/NP "/FF o/CC "/FF Nan_McGrew/NP "/FF ./FF
+Baby_Blues/NP és/VS una/DI tira/NC còmica/AQ produïda/VM per/SP Rick_Kirkman/NP i/CC Jerry_Scott/NP des_de/SP el/DA 7_de_gener_de_1990/WW i/CC que/PR té/VM com/CS a/SP tema/NC principal/AQ els/DA tòpics/NC que/PR giren/VM a/SP el/DA voltant/NC d'/SP un/DI matrimoni/NC que/PR té/VM nadons/NC petits/AQ ./FF
+Beetle_Bailey/NP (/FF començat/VM el/DA 4_de_setembre_del_1950/WW )/FF és/VS una/DI tira/NC còmica/AQ ambientada/VM en/SP un/DI campament/NC de/SP l'/DA Exèrcit_de_els_Estats_Units_d'_Amèrica/NP ,/FF creada/VM per/SP Mort_Walker/NP ./FF
+Es/P0 troba/VM entre/SP les/DA tires/NC més/RG antigues/AQ que/CS encara/RG són/VS dibuixades/VM per/SP el/DA creador/NC original/AQ ./FF
+Un/DI shmoo/NC és/VS una/DI criatura/NC fictícia/AQ ./FF
+Va/VA aparéixer/VM per/SP primer/AO cop/NC en/SP la/DA tira/NC còmica/AQ d'/SP a/SP el/DA Capp_Li/NP 'l/PP Abner/NP ,/FF el/DA 31_d'_agost/WW ,/FF de/SP el/DA 1948/ZZ ./FF
+Més/RG tard/RG va/VA sortir/VM com/CS a/SP un/DI de/SP els/DA personatges/NC de/SP els/DA Picapedra/NP ./FF
+Little_Nemo/NP in/VM Slumberland/NP (/FF literalment/RG ,/FF El/NP petit/AQ Nemo/NP a/SP el/DA País_de_els_Somnis/NP )/FF és/VS un/DI còmic/AQ obra/NC de/SP l'/DA estatunidenc/AQ Winsor_McCay/NP ,/FF que/PR es/P0 va/VA publicar/VM per/SP primera/AO vegada/NC en/SP l'/DA edició/NC dominical/AQ de/SP el/DA New_York_Herald/NP el/DA 15_d'_octubre_de_1905/WW ./FF
+Zits/NP és/VS una/DI tira/NC còmica/AQ escrita/NC per/SP Jerry_Scott/NP i/CC il·lustrada/NC per/SP Jim_Borgman/NP ,/FF que/PR relata/VM la/DA vida/NC d'/SP en/SP Jeremy_Duncan/NP ,/FF un/DI adolescent/NC de/SP quinze/ZZ anys/NC en/SP el/DA seu/PX primer/AO curs/NC de/SP l'/DA institut/NC ./FF
+La/DA tira/NC fa/VM tenir/VM el/DA seu/PX debut/NC el/DA juliol_del_1997/WW en/SP ,/FF aproximadament/RG ,/FF 200/ZZ diaris/NC ,/FF i/CC des_de/SP llavors/RG ha/VA passat/VM a/SP ser/VS molt/RG popular/AQ a/SP nivell/NC mundial/AQ ,/FF rebent/VM diversos/DI premis/NC ./FF
+A/SP data/NC de/SP el/DA 2007/ZZ ,/FF segueix/VM estant/VM sindicada/VM per/SP el/DA King_Features_Syndicate/NP ,/FF i/CC editada/VM per/SP l'/DA editorial/NC Andrews_McMeel_Publishing/NP ./FF
+La/DA tira/NC es/P0 desenvolupa/VM en/SP el/DA típic/AQ suburbi/NC estatunidenc/AQ i/CC els/DA diferents/DI llocs/NC (/FF casa/NC ,/FF col·legi/NC ,/FF botigues/NC )/FF on/PR en/SP Jeremy/NP prova/NC d'/SP equilibrar/VM la/DA seva/PX vida/NC passant/VM el/DA temps/NC amb/SP els/DA seus/PX amics/NC (/FF sobre/SP tot/RG amb/SP el/DA seu/PX millor/AQ amic/NC ,/FF Hector_García/NP )/FF ,/FF intentant/VM analitzar/VM la/DA seva/PX relació/NC maldestra/AQ amb/SP la/DA seva/PX xicota/NC ,/FF lluitant/VM amb/SP els/DA deures/NC ,/FF assajant/VM per/SP ser/VS un/DI futur/AQ déu/NC de/SP el/DA rock/NC ,/FF i/CC tolerant/VM els/DA seus/PX ridículs/NC pares/NC (/FF segons/SP el/DA seu/PX punt/NC de/SP vista/NC )/FF .

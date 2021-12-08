@@ -13627,4 +13627,77 @@ Així/RG ,/FF quan/CS és/VS associativa/AQ ,/FF no/RN cal/VM especificar/VM l'/
 Així/RG ,/FF es/P0 pot/VM escriure/VM simplement/RG ;/FF Tanmateix/NP ,/FF és/VS important/AQ destacar/VM que/CS canviar/VM l'/DA ordre/NC en/SP què/PR s'/P0 efectuen/VM les/DA operacions/NC no/RN implica/VM que/CS es/P0 pugui/VM canviar/VM les/DA operacions/NC pròpiament/RG tot/DI movent/NC els/DA operands/NC en/SP l'/DA expressió/NC ./FF
 Exemples/NP ./FF
 Els/DA següents/AQ són/VS alguns/DI exemples/NC d'/SP operacions/NC associatives/AQ ./FF
-En/SP aritmètica/NC ,/FF la/DA suma/NC i/CC la/DA multiplic
+En/SP aritmètica/NC ,/FF la/DA suma/NC i/CC la/DA multiplicació/NC de/SP nombres/NC reals/AQ és/VS associativa/AQ ./FF
+És/VS a/SP dir/VM ,/FF La/NP suma/VM i/CC multiplicació/NC de/SP nombres/NC complexos/AQ i/CC quaternions/NC és/VS associativa/AQ ./FF
+La/DA suma/NC d'/SP octonions/NC també/RG és/VS associativa/AQ ,/FF però/CC el/DA producte/NC d'/SP octonions/NC és/VS no-associativa/NC ./FF
+El/DA màxim/NC comú/AQ divisor/NC i/CC el/DA mínim_comú_múltiple/NC són/VS funcions/NC associatives/AQ ./FF
+Com/CS que/CS les/DA transformacions/NC lineals/AQ són/VS funcions/NC que/PR poden/VM ésser/VS representades/VM per/SP multiplicacions/NC de/SP matriu/NC ,/FF les/DA quals/PR representen/VM la/DA composició/NC funcional/AQ ,/FF es/P0 pot/VM deduir/VM directament/RG que/CS la/DA multiplicació/NC de/SP matrius/NC és/VS associativa/AQ ./FF
+La/DA intersecció/NC de/SP la/DA unió/NC de/SP conjunts/NC és/VS associativa/AQ :/FF Si/CS M/NP és/VS un/DI conjunt/NC i/CC S/NP denota/VM el/DA conjunt/NC de/SP totes/DI les/DA funcions/NC d/AQ '/FF M/NC a/SP M/NP ,/FF aleshores/RG la/DA composició/NC funcional/AQ en/SP S/NP és/VS associativa/AQ :/FF ;/FF Una/DI mica/NC més/RG generalment/RG ,/FF donats/NC quatre/ZZ conjunts/NC M/NP ,/FF N/NP ,/FF P/NP i/CC Q/NP ,/FF tals/PD que/PR h/NC :/FF M/NC a/SP N/NP ,/FF g/NC :/FF N/NC a/SP P/NP ,/FF i/CC f/NC :/FF P/NC a/SP Q/NP ,/FF aleshores/RG ;/FF ;/FF com/CS abans/RG ./FF
+En/SP resum/NC ,/FF la/DA composició/NC d'/SP aplicacions/NC sempre/RG és/VS associativa/AQ ./FF
+Si/CS es/P0 considera/VM un/DI conjunt/NC amb/SP tres/ZZ elements/NC A/NP ,/FF B/NP ,/FF i/CC C._La/NP següent/AQ operació/NC és/VS associativa/AQ :/FF Així/RG ,/FF per_exemple/RG ,/FF A/NP (/FF BC/NP )/FF =/FF (/FF AB/NP )/FF C._Aquesta/NP aplicació/NC no/RN és/VS commutativa/AQ ./FF
+No-associativitat/NP ./FF
+Una/DI operació/NC binària/AQ en/SP un/DI conjunt/NC S/NP que/CS no/RN satisfà/VM la/DA propietat/NC associativa/AQ se/P0 l'/PP anomena/VM no-associativa/NC ./FF
+Simbòlicament/RG ,/FF Per/NP una/DI operació/NC com/CS aquesta/DD ,/FF l'/DA ordre/NC en/SP què/PR s'/P0 efectuen/VM les/DA operacions/NC sí/RG que/PR influeix/VM en/SP el/DA resultat/NC ./FF
+La/DA resta/NC ,/FF la/DA divisió/NC i/CC l'/DA exponenciació/NC són/VS exemples/NC destacats/VM d'/SP operacions/NC no/RN associatives/AQ :/FF En_general/RG ,/FF els/DA parèntesis/NC s'/P0 usen/VM per/SP indicar/VM l'/DA ordre/NC en/SP què/PR s'/P0 efectuen/VM les/DA operacions/NC si/CS una/DI operació/NC no-associativa/NC apareix/VM més/RG d'/SP una/DI vegada/NC en/SP una/DI expressió/NC ./FF
+Tanmateix/RG ,/FF els/DA matemàtics/NC en_general/RG es/P0 posen/VM d'/SP acord/NC en/SP un/DI ordre/NC preestablert/VM en/SP diverses/DI operacions/NC no-associatives/NC ./FF
+Això/PD no/RN és/VS més/RG que/CS una/DI convenció/NC sintàctica/AQ per/SP tal/PD d'/SP evitar/VM haver/VA d'/SP escriure/VM parèntesis/NC ./FF
+Una/DI operació/NC associativa/AQ per/SP l'/DA esquerra/NC és/VS una/DI operació/NC no-associativa/NC que/PR per/SP convenció/NC s'/P0 avalua/VM d'/SP esquerra/NC a/SP dreta/NC ./FF
+Per_exemple/RG :/FF mentre_que/CC una/DI operació/NC associativa/AQ per/SP la/DA dreta/NC és/VS una/DI operació/NC que/PR s'/P0 avalua/VM de/SP dreta/NC a/SP esquerra/NC per/SP convenció/NC :/FF Existeixen/VM casos/NC d'/SP operacions/NC associatives/AQ tant/RG per/SP l'/DA esquerra/NC com/CS per/SP la/DA dreta/NC ./FF
+Més/RG endavant/RG se/P0 'n/PP mostren/VM alguns/DI exemples/NC ./FF
+Més/RG exemples/NC ./FF
+Algunes/DI operacions/NC associatives/AQ per/SP l'/DA esquerra/NC :/FF Resta/NC i/CC divisió/NC de/SP nombres/NC naturals/AQ :/FF ;/FF Algunes/NP operacions/NC associatives/AQ per/SP la/DA dreta/NC :/FF Exponenciació/NP de/SP nombres/NC reals/AQ :/FF ;/FF La/NP raó/NC per/SP la/DA qual/PR l'/DA exponenciació/NC és/VS associativa/AQ per/SP la/DA dreta/NC és/VS perquè/CS una/DI operació/NC d'/SP exponenciació/NC per/SP l'/DA esquerra/NC repetida/NC seria/VS menys/RG útil/AQ ./FF
+Múltiples/NP aparicions/NC es/P0 podrien/VM reescriure/VM amb/SP multiplicacions/NC :/FF ;/FF Operacions/NP no-associatives/NC per/SP les/DA que/PR no/RN existeixen/VM convencions/NC per/SP l'/DA ordre/NC d'/SP efectuar/VM les/DA operacions/NC inclouen/VM les/DA següents/AQ ./FF
+Prendre/VM la/DA mitjana/NC aritmètica/AQ de/SP nombres/NC reals/AQ :/FF Prendre/VM el/DA complementari/AQ de/SP conjunts/NC :/FF ;/FF La/NP part/NC verda/AQ de/SP el/DA diagrama/NC de/SP Venn/NP de/SP l'/DA esquerra/NC representa/VM (/FF A'B/NP )/FF C._La/NP part/NC verda/AQ de/SP el/DA diagrama/NC de/SP Venn/NP de/SP la/DA dreta/NC representa/VM A/NP (/FF B'C/NP )/FF ./FF
+Vegeu/VM també/RG ./FF
+Un/DI semigrup/NC és/VS un/DI conjunt/NC amb/SP una/DI operació/NC binària/AQ associativa/AQ i/CC tancada/NC ./FF
+La/DA commutativitat/NC i/CC distributivitat/NC són/VS les/DA altres/DI dues/ZZ propietats/NC de/SP les/DA operacions/NC binàries/AQ freqüentment/RG usades/VM ./FF
+L'/DA associativitat/NC de/SP les/DA potències/NC i/CC l'/DA alternativitat/NC són/VS formes/NC febles/AQ d'/SP associativitat/NC ./FF
+Segons/SP el/DA Nou/AQ Testament/NP ,/FF Jaume/NP (/FF en/SP arameu/NC Yaqob/NP bar/NC Yosef/NP ,/FF en/SP hebreu/NC -/FF Yah/NP q/RG b/AQ ben/RG Yôs/NP p/NC i/CC en/SP grec/NC I_Iàkovos/NP )/FF conegut/VM com/CS Jaume_el_Just/NP o/CC Jaume/NP ,/FF germà/NC de/SP el/DA Senyor/NP (/FF Natzaret/NP ?/FF ,/FF ?/FF -/FF Jerusalem/NP ,/FF 62/ZZ dC/NC )/FF fou/VS un/DI de/SP els/DA germans/NC de/SP Jesús_de_Natzaret/NP i/CC el/DA líder/NC de/SP la/DA comunitat/NC cristiana/AQ de/SP Jerusalem/NP després/RG de/SP la/DA partida/NC de/SP els/DA apòstols/NC de/SP Jesús/NP ./FF
+Cal/VM no/RN confondre/VM Jaume_el_Just/NP amb/SP els/DA apòstols/NC Jaume_el_Menor/NP i/CC Jaume_el_Major/NP ./FF
+En/SP l'/DA Evangeli/NP segons/SP Mateu/NP s'/P0 anomena/VM la/DA seva/PX família/NC ,/FF ja_que/CS tot/DI parlant/NC sobre/SP Jesús/NP es/P0 cita/VM que/CS la/DA gent/NC de/SP Galilea/NP deia/VM :/FF ¿/FF No/RN és/VS el/DA fill/NC de/SP el/DA fuster/NC ?/FF
+La/DA seva/PX mare/NC ,/FF ¿/FF no/RN s'/P0 anomena/VM Maria/NP ,/FF i/CC els/DA seus/PX germans/NC Jaume/NP ,/FF Josep/NP ,/FF Simó/NP i/CC Judes/NP ?/FF
+I/CC les/DA seves/PX germanes/NC ,/FF ¿/FF no/RN viuen/VM totes/DI aquí/RG amb/SP nosaltres/PP ?/FF (/FF Mateu/VM 13,55-56/ZZ )/FF ./FF
+Se/P0 'n/PP desconeix/VM qualsevol/DI dada/NC de/SP la/DA seva/PX biografia/NC fins/SP després/RG de/SP la/DA mort/NC de/SP el/DA seu/PX germà/NC Jesús/NP ,/FF quan/CS Sant_Pau/NP afirma/VM que/CS Després_de_Natzaret/NP ressuscitat/VM s'/P0 aparegué/VM a/SP Jaume/NP (/FF Corintis/NP 15,7/ZZ )/FF ./FF
+Quan/CS els/DA apòstols/NC van/VA escampar/VM -se/P0 per/SP el/DA món/NC a/SP predicar/VM l'/DA Evangeli/NP ,/FF Jaume/NP actuà/VM com/CS a/SP líder/NC de/SP la/DA comunitat/NC jueva/AQ cristiana/AQ de/SP Jerusalem/NP que/PR practicaven/VM escrupulosament/RG la/DA Llei_de_Moisès/NP ./FF
+Va/VA rebre/VM la/DA visita/NC de/SP Sant_Pau/NP en/SP una/DI ocasió/NC tal/RG com/CS es/P0 relata/VM a/SP el/DA llibre/NC de/SP els/DA Fets_de_els_Apòstols/NP :/FF A/SP l'/DA endemà/NC Pau/NP va/VA venir/VM (/FF .../FF )/FF a/SP veure/VM Jaume/NP ,/FF i/CC tots/DI els/DA ancians/NC eren/VS presents/AQ a/SP la/DA reunió/NC (/FF Fets/NC 21,18/ZZ )/FF ./FF
+Jaume/NP serà/VS el/DA dirigent/NC únic/AQ de/SP la/DA comunitat/NC de/SP Jerusalem/NP des/VM que/CS Sant_Pere/NP abandona/VM la/DA ciutat/NC l'/DA any/NC 43/ZZ o/CC 44/ZZ fins/SP que/PR mor/VM lapidat/VM l'/DA any/NC 62_segons/ZZ l'/DA historiador/NC jueu/AQ Flavi_Josep/NP en/SP la/DA seva/PX obra/NC Antiguitats/NP judaiques/AQ on/PR cita/VM :/FF Ananies/NP era/VS un/DI saduceu/NC sense/SP ànima/NC ./FF
+Va/VA convocar/VM astutament/RG a/SP el/DA Sanedrí/NP en/SP el/DA moment/NC propici/AQ ./FF
+El/DA procurador/NC Fest/NP havia/VA mort/VM ./FF
+El/DA successor/NC ,/FF Albí/NP ,/FF encara/RG no/RN havia/VA pres/VM possessió/NC ./FF
+Va/VA fer/VM que/CS el/DA sanedrí/NC jutgés/VM a/SP Jaume/NP ,/FF germà/NC de/SP Jesús/NP ,/FF qui/PR era/VS anomenat/VM Crist/NP ,/FF i/CC a/SP alguns/DI altres/PI ./FF
+Els/DA va/VA acusar/VM d'/SP haver/VA transgredit/VM la/DA llei/NC i/CC els/PP va/VA entregar/VM perquè/CS fossin/VS apedregats/VM (/FF Antiguitats/NC judaiques/AQ ,/FF XX/NP ,/FF ix/VM ,/FF 1/ZZ )/FF ./FF
+Hegesip/NP ,/FF cap/NC a/SP el/DA 180/ZZ dC/NC ,/FF l'/DA anomena/VM Jaume_el_Just/NP a/SP més/RG de/SP referir/VM -s/P0 'hi/PP com/CS Jaume/NP ,/FF el/DA germà/NC de/SP el/DA Senyor/NP (/FF Història_Eclesiàstica/NP 4,22,4/ZZ )/FF ./FF
+La/DA seva/PX festa/NC és/VS celebrada/VM en/SP diferents/DI dies/NC segons/SP diferents/DI ritus/NC de/SP el/DA cristianisme/NC :/FF L/NP '/FF 1_de_maig/WW el/DA commemora/VM l'/DA Església_Anglicana/NP ;/FF El/NP 3_de_maig/WW ho/PP celebra/VM l'/DA Església_Catòlica/NP ;/FF El/NP 23_d'_octubre/WW és/VS el/DA dia/NC escollit/VM per/SP els/DA luterans/NC ;/FF Vegeu/NP també/RG ./FF
+Epístola_de_Sant_Jaume/NP ;/FF Referències/NP ./FF
+Puig/NP i/CC Tàrrech/NP ,/FF Armand/NP ./FF
+Jesús/NP un/DI perfil/NC biogràfic/AQ ,/FF pàg.174/ZZ ;/FF
+Una/DI nebulosa/NC d'/SP emissió/NC és/VS un/DI núvol/NC de/SP gas/NC ionitzar/VM ,/FF és/VS a/SP dir/VM plasma/NC que/PR emet/VM llum/NC de/SP diferents/DI colors/NC ./FF
+Les/DA fonts/NC més/RG comunes/AQ d'/SP ionització/NC són/VS els/DA fotons/NC d'/SP alta/AQ energia/NC emesos/VM per/SP una/DI estrella/NC calenta/AQ propera/AQ ./FF
+Entre/SP altres/DI tipus/NC de/SP nebuloses/NC d'/SP emissió/NC hi/PP ha/VA regió/NC HII/NP on/PR s'/P0 està/VM produint/VM la/DA formació/NC estel·lar/AQ i/CC joves/AQ estrelles/NC massives/AQ són/VS les/DA fonts/NC de/SP fotons/NC ionitzats/VM ;/FF i/CC les/DA nebuloses/NC planetàries/AQ on/PR el/DA cor/NC calent/AQ d'/SP una/DI estrella/NC moribunda/AQ ionitza/VM les/DA capes/NC exteriors/AQ que/PR ha/VA expulsat/VM ./FF
+Informació/NC general/AQ ./FF
+Normalment/RG ,/FF una/DI estrella/NC jove/NC ionitzarà/VM part/NC de/SP el/DA núvol/NC on/PR va/VA néixer/VM ./FF
+Només/RG les/DA grans/AQ estrelles/NC calentes/AQ poden/VM despendre/VM la/DA quantitat/NC d'/SP energia/NC necessària/AQ per/SP ionitzar/VM una/DI part/NC significativa/AQ de/SP el/DA núvol/NC ./FF
+Sovint/RG es/P0 tracta/VM de/SP tot/DI un/DI cúmul/NC de/SP joves/NC estrelles/NC ./FF
+El/DA color/NC de/SP la/DA nebulosa/NC depèn/VM de/SP la/DA seva/PX composició/NC química/AQ i/CC de/SP la/DA quantitat/NC d'/SP ionització/NC ./FF
+La/DA majoria/NC de/SP les/DA nebuloses/NC d'/SP emissió/NC son/NC vermelles/AQ degut/VM a/SP el/DA predomini/NC d'/SP hidrogen/NC en/SP el/DA gas/NC interestel·lar/AQ ,/FF i/CC la/DA seva/PX relativament/RG baixa/AQ necessitat/NC d'/SP energia/NC per/SP la/DA ionització/NC ./FF
+Si/CS la/DA quantitat/NC d'/SP energia/NC és/VS més/RG gran/AQ ,/FF altres/DI elements/NC poden/VM ionitzar/VM fent/VM possible/AQ nebuloses/NC verdes/AQ i/CC blaves/AQ ./FF
+Examinant/VM l'/DA espectre/NC electromagnètic/AQ de/SP les/DA nebuloses/NC ,/FF els/DA astrònoms/NC dedueixen/VM el/DA contingut/NC químic/AQ ./FF
+La/DA majoria/NC de/SP les/DA nebuloses/NC d'/SP emissió/NC tenen/VM el/DA 90_%/ZZ d'/SP hidrogen/NC ,/FF i/CC la/DA resta/NC heli/NC ,/FF oxigen/NC ,/FF nitrogen/NC ,/FF i/CC altres/DI elements/NC ./FF
+Algunes/PI de/SP les/DA nebuloses/NC d'/SP emissió/NC visibles/AQ més/RG importants/AQ de/SP l'/DA hemisferi/NC nord/AQ són/VS :/FF NGC/NP 7000/ZZ i/CC NGC/NP 6960/6992/ZZ a/SP la/DA constel·lació/NC de/SP el/DA Cigne/NP ./FF
+Ben/RG visibles/AQ son/NC a/SP l'/DA hemisferi/NC sud/AQ :/FF la/DA nebulosa/NC de/SP la/DA Llacuna/NP M8/ZZ //FF NGC/NP 6523/ZZ a/SP Sagitari/NP i/CC la/DA nebulosa/NC Orió/NP M42/ZZ ./FF
+Més/RG lluny/RG a/SP l'/DA hemisferi/NC sud/AQ està/VM la/DA brillant/NC nebulosa/AQ Carina_NGC/NP 3372/ZZ ./FF
+Les/DA nebuloses/NC d'/SP emissió/NC tenen/VM sovint/RG punts/NC foscos/AQ resultant/AQ de/SP núvols/NC de/SP pols/NC que/PR bloquegen/VM la/DA llum/NC ./FF
+La/DA combinació/NC de/SP nebulosa/NC d'/SP emissió/NC i/CC núvol/NC de/SP pols/NC fa/VM que/CS es/P0 converteixin/VM en/SP objectes/NC interessant/AQ per/SP observar/VM ,/FF molts/PI d'/SP aquest/DD objectes/NC porten/VM el/DA nom/NC d'/SP objectes/NC a/SP els/DA quals/PR s'/P0 assemblen/VM com/CS la/DA nebulosa/NC de/SP el/DA con/NC o/CC la/DA NGC7000/ZZ coneguda/NC com/CS nebulosa/AQ Nord_Amèrica/NP ./FF
+Algunes/DI nebuloses/NC estan/VM compostes/NC de/SP components/NC de/SP reflexió/NC i/CC emissió/NC com/CS el/DA cas/NC de/SP la/DA nebulosa/NC Trífida_Classificació/NP de/SP les/DA nebuloses/NC d'/SP emissió/NC ./FF
+Es/P0 poden/VM classificar/VM en/SP quatre/ZZ categories/NC :/FF Les/DA nebuloses/NC difuses/AQ d'/SP emissió/NC o/CC regió/NC HII/NP //FF H/NP ;/FF La/NP nebulosa/AQ d'/SP Orió/NP (/FF M42/ZZ )/FF ,/FF la/DA nebulosa/NC Omega/NP (/FF M17/ZZ )/FF i/CC la/DA nebulosa/NC de/SP la/DA llacuna/NC (/FF M8/ZZ )/FF figuren/VM entre/SP les/DA nebuloses/NC difuses/AQ visibles/AQ des_de/SP l'/DA hemisferi/NC nord/AQ Sovint/NP s'/P0 oposen/VM a/SP les/DA nebuloses/NC de/SP reflexió/NC i/CC a/SP les/DA nebuloses/NC obscures/AQ encara/RG que/CS moltes/DI vegades/NC es/P0 troben/VM associades/NC ./FF
+Per/SP defecte/NC a/SP el/DA referir/VM -se/P0 a/SP la/DA nebulosa/NC d'/SP emissió/NC ,/FF se/P0 sobreentén/VM normalment/RG «/FF nebulosa/NC difusa/AQ d/AQ '/FF emissió/NC »/FF ./FF
+Els/DA tres/ZZ tipus/NC següents/AQ tenen/VM una/DI denominació/NC pròpia/AQ que/PR suposa/VM el/DA caràcter/NC emissiu/AQ de/SP la/DA nebulosa/NC ./FF
+Les/DA nebuloses/NC planetàries/AQ ;/FF Entre/NP les/DA més/RG conegudes/VM la/DA M27/ZZ o/CC la/DA M57/ZZ ./FF
+Les/DA romanents/NC de/SP supernova/NC ;/FF nebulosa/NC de/SP el/DA vel/NC i/CC la/DA nebulosa/NC de/SP el/DA Cranc/NP ./FF
+Les/DA nebuloses/NC de/SP Wolf-Rayet/NP ;/FF Poc/NP frequents/AQ ,/FF entre/SP elles/PP NGC/NP 2359/ZZ i/CC NGC/NP 6888/ZZ ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+L'/DA estructura/NC de/SP las/AQ regions/NC H_II/NP ;/FF
+La/DA Batalla_de_Cissa/NP es/P0 desenvolupà/VM dintre/RG de/SP la/DA Segona_Guerra_Púnica/NP ./FF
+Es/P0 lliurà/VM a/SP la/DA tardor/NC de/SP l'/DA any/NC 218/ZZ aC/NC ,/FF a/SP Cissa/NP prop/SP la/DA ciutat/NC grega/AQ de/SP Tàrraco/NP (/FF encara/RG que/CS hom/PI ha/VA pretés/VM identificar/VM -la/PP amb/SP Guissona/NP ./FF
+L'/DA exèrcit/NC romà/AQ ,/FF sota/SP Gneu_Corneli_Escipió/NP ,/FF derrotà/VM un/DI exèrcit/NC cartaginès/AQ en/SP desavantatge/NC numèric/AQ comandat/VM per/SP Hannó/NP i/CC per/SP tant/RG ,/FF obtingué/VM el/DA

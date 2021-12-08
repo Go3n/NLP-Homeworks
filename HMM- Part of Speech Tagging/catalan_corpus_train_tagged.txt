@@ -13700,4 +13700,85 @@ Enllaços/NC externs/AQ ./FF
 L'/DA estructura/NC de/SP las/AQ regions/NC H_II/NP ;/FF
 La/DA Batalla_de_Cissa/NP es/P0 desenvolupà/VM dintre/RG de/SP la/DA Segona_Guerra_Púnica/NP ./FF
 Es/P0 lliurà/VM a/SP la/DA tardor/NC de/SP l'/DA any/NC 218/ZZ aC/NC ,/FF a/SP Cissa/NP prop/SP la/DA ciutat/NC grega/AQ de/SP Tàrraco/NP (/FF encara/RG que/CS hom/PI ha/VA pretés/VM identificar/VM -la/PP amb/SP Guissona/NP ./FF
-L'/DA exèrcit/NC romà/AQ ,/FF sota/SP Gneu_Corneli_Escipió/NP ,/FF derrotà/VM un/DI exèrcit/NC cartaginès/AQ en/SP desavantatge/NC numèric/AQ comandat/VM per/SP Hannó/NP i/CC per/SP tant/RG ,/FF obtingué/VM el/DA
+L'/DA exèrcit/NC romà/AQ ,/FF sota/SP Gneu_Corneli_Escipió/NP ,/FF derrotà/VM un/DI exèrcit/NC cartaginès/AQ en/SP desavantatge/NC numèric/AQ comandat/VM per/SP Hannó/NP i/CC per/SP tant/RG ,/FF obtingué/VM el/DA control/NC de/SP el/DA territori/NC a/SP el/DA nord/NC de/SP l'/DA Ebre/NP ,/FF de/SP el/DA que/PR Anníbal/NP s'/P0 havia/VA apoderat/VM uns/DI mesos/NC abans/RG ,/FF l'/DA estiu/NC de/SP 218/ZZ aC/NC ./FF
+Aquesta/DD fou/VS la/DA primera/AO batalla/NC que/CS els/DA romans/NC disputaren/VM a/SP Catalunya/NP ./FF
+Situació/NC estratègica/AQ ./FF
+Després/RG de/SP la/DA conclusió/NC amb/SP èxit/NC de/SP el/DA Setge_de_Sagunt/NP ,/FF Anníbal/NP deixà/VM descansar/VM a/SP el/DA seu/PX exèrcit/NC ,/FF i/CC l'/DA estiu/NC de/SP 218/ZZ aC/NC ,/FF havien/VA començat/VM a/SP avançar/VM cap/DI la/DA Península_Itàlica/NP amb/SP 90.000/ZZ infants/NC i/CC 12.000/ZZ genets/NC (/FF segons/SP Polibi/NP )/FF ,/FF o/CC amb/SP 46.000/ZZ homes/NC a/SP peu/NC i/CC 10.000/ZZ a_cavall/RG ./FF
+Havia/VA passat/VM l'/DA estiu/NC conquerint/VM la/DA regió/NC situada/VM a/SP el/DA nord/NC de/SP l'/DA Ebre/NP ./FF
+Després/RG de/SP sotmetre/VM a/SP les/DA tribus/NC ibèriques/AQ ,/FF però/CC deixant/NC tranquil·les/AQ les/DA ciutats/NC gregues/AQ ,/FF Anníbal/NP creuà/VM la/DA Gàl·lia/NP per/SP continuar/VM la/DA seva/PX marxa/NC a/SP Itàlia/NP ,/FF deixant/VM un/DI contingent/NC de/SP guàrdia/NC de/SP els/DA territoris/NC recent/AQ conquerits/VM i/CC enviant/VM a/SP els/DA 10.000/ZZ soldats/NC menys/RG fiables/AQ cap/NC a/SP casa/NC ./FF
+Preparatius/NC romans/AQ ./FF
+L'/DA armada/NC romana/AQ mobilitzà/VM en/SP 219/ZZ aC/NC 220/ZZ quinquerems/NC per/SP a/SP donar_suport/VM a/SP els/DA seus/PX a/SP la/DA Segona_Guerra_Iliria/NP ./FF
+El/DA consul/NC Tiberi_Semproni_Llong_I/NP rebí/VM quatre/ZZ legions/NC (/FF dues/ZZ romanes/NC i/CC dues/ZZ aliades/NC ,/FF 8.000/ZZ romans/NC a/SP peu/NC i/CC 16.000/ZZ aliats/NC i/CC 600/ZZ genets/NC romans/AQ i/CC 1.800/ZZ aliats/NC )/FF i/CC les/DA instruccions/NC de/SP navegar/VM per/SP l'/DA Àfrica/NP acompanyat/VM per/SP 160/ZZ quinquerems/NC ./FF
+Publi_Corneli_Escipió/NP rebí/VM quatre/ZZ legions/NC (/FF 8.000/ZZ romans/NC i/CC 14.000/ZZ aliats/NC infants/NC i/CC 600/ZZ romans/NC i/CC 1.600/ZZ aliat/NC a_cavall/RG )/FF i/CC es/P0 dirigí/VM cap/NC a/SP Hispània/NP acompanyat/VM per/SP 60/ZZ vaixells/NC ./FF
+Nogensmenys/RG ,/FF les/DA tribus/NC gal·les/AQ de/SP els/DA Boii/NP i/CC Insúbri/NP havien/VA atacat/VM les/DA colònies/NC romanes/AQ de/SP el/DA nord/NC d'/SP Itàlia/NP ,/FF causant/VM que/CS Escipió/NP destinés/VM part/NC de/SP les/DA forces/NC allà/RG ,/FF amb/SP el/DA que/PR la/DA seva/PX substitució/NC per/SP legions/NC fresques/AQ retardà/VM la/DA seva/PX sortida/NC ./FF
+Si_bé/CS Anníbal/NP marxà/VM a_través_de/SP la/DA Gàl·lia/NP ,/FF Escipió/NP havia/VA desembarcat/VM amb/SP el/DA seu/PX exèrcit/NC a/SP la/DA ciutat/NC grega/AQ aliada/NC de/SP Massília/NP (/FF Marsella/NP )/FF ./FF
+A/SP continuació/NC ,/FF envià/VM una/DI patrulla/NC de/SP cavalleria/NC a/SP el/DA nord/NC fins/SP a/SP la/DA vora/NC oriental/AQ de/SP el/DA riu/NC Roine/NP ,/FF on/PR s'/P0 enfrontaren/VM amb/SP la/DA mateixa/DI força/NC a/SP la/DA cavalleria/NC lleugera/AQ númida/AQ ,/FF expulsant/VM els/DA cartaginesos/NC després/RG de/SP lluitar/VM una/DI dura/AQ escaramussa/NC ./FF
+Escipió/NP marxà/VM a/SP el/DA nord/NC des_de/SP la/DA seva/PX base/NC ,/FF mentre_que/CC Anníbal/NP ho/PP féu/VM vers/SP l'/DA est/NC de/SP els/DA Alps/NP ./FF
+Un/DI cop/NC a/SP el/DA desert/NC el/DA campament/RG cartaginès/AQ ,/FF Escipió/NP s'/P0 assabentà/VM de/SP què/PT Anníbal/NP es/P0 trobava/VM a/SP tres/ZZ dies/NC de/SP marxa/NC ,/FF i/CC decidí/VM enviar/VM les/DA seves/PX forces/NC a/SP Hispània/NP ,/FF sota/SP el/DA comandament/NC de/SP el/DA seu/PX germà/NC gran/AQ ,/FF Gneu/NP ,/FF que/PR era/VS cònsol/NC des_de/SP el/DA 221/ZZ aC/NC ,/FF en/SP tant_que/CS ell/PP mateix/DI tornà/VM a/SP organitzar/VM a/SP el/DA nord/NC d'/SP Itàlia/NP les/DA defenses/NC contra/SP Anníbal_Preludi/NP ./FF
+Àsdrubal_Barca/NP ,/FF germà/NC d'/SP Anníbal/NP ,/FF tenia/VM 12.650/ZZ soldats/NC d'/SP infanteria/NC ,/FF 2.550/ZZ a_cavall/RG i/CC 21/ZZ elefants/NC a/SP les/DA possessions/NC cartagineses/AQ a/SP el/DA sud/NC de/SP l'/DA Ebre/NP ./FF
+Anníbal/NP deixà/VM a/SP Hannó/NP amb/SP 10.000/ZZ infants/NC i/CC 1.000/ZZ genets/NC ,/FF guarnint/VM el/DA recent/AQ conquerit/VM territori/NC a/SP el/DA nord/NC de/SP l'/DA Ebre/NP ./FF
+Aquest/DD Hannó/NP ha/VA estat/VS identificat/VM per/SP diversos/DI autors/NC com/CS el/DA nebot/NC d'/SP Anníbal/NP (/FF fill/NC d'/SP Àsdrubal_el_Bell/NP )/FF ,/FF un/DI germà/NC o/CC sense/SP cap/DI relació/NC amb/SP els/DA Barcides/NP ./FF
+Gneu_Corneli_Escipió/NP ,/FF amb/SP 20.000/ZZ soldats/NC d'/SP infanteria/NC (/FF dues/ZZ legions/NC romanes/AQ i/CC dues/ZZ aliades/NC )/FF ,/FF 2.200/ZZ de/SP cavalleria/NC i/CC 60/ZZ quinquerems/NC ,/FF salpà/VM de/SP Massília/NP i/CC aterrà/VM a/SP Empúries/NP ./FF
+Les/DA ciutats/NC gregues/AQ de/SP Empúries/NP i/CC Tàrraco/NP donaren/VM la/DA benvinguda/NC a/SP els/DA romans/NC ,/FF i/CC Gneu/NP començà/VM a/SP guanyar/VM -se/P0 les/DA tribus/NC ibèriques/AQ a/SP el/DA nord/NC de/SP l'/DA Ebre/NP ./FF
+Àsdrubal_Barca/NP ,/FF després/RG de/SP ser/VS advertit/VM de/SP l'/DA expedició/NC romana/AQ ,/FF marxà/VM cap/DI el/DA nord/NC amb/SP un/DI exèrcit/NC de/SP 8.000/ZZ soldats/NC d'/SP infanteria/NC i/CC 1.000/ZZ de/SP cavalleria/NC a/SP unir/VM -se/P0 a/SP Hannó/NP ./FF
+La/DA batalla/NC ./FF
+Hannó/NP havia/VA estat/VM completament/RG sorprès/VM per/SP l'/DA arribada/NC de/SP els/DA romans/NC a/SP Hispània/NP ./FF
+En/SP veure/VM el/DA cessament/NC de/SP el/DA poder/NC cartaginès/AQ sobre/SP les/DA recent/AQ conquerides/VM tribus/NC de/SP el/DA nord/NC degut/VM a/SP les/DA activitats/NC d'/SP Escipió/NP ,/FF decidí/VM oferir/VM batalla/NC ./FF
+Hannó/NP avançà/VM i/CC atacà/VM els/DA romans/NC a/SP el/DA nord/NC de/SP Tàrraco/NP ,/FF a_prop/RG de/SP Cesse/NP ./FF
+Ni/CC hi/PP hagué/VA brillants/AQ maniobres/NC o/CC emboscades/VM ,/FF car/CC els/DA exèrcits/NC s'/P0 enfrontaren/VM a_camp_obert/RG ./FF
+a/SP el/DA comptar/VM amb/SP un/DI exèrcit/NC molt/RG inferior/AQ ,/FF Hannó/NP fou/VS derrotat/VM amb/SP relativa/AQ facilitat/NC ,/FF perdent/VM 6.000/ZZ homes/NC a/SP la/DA batalla/NC ./FF
+Per/SP altra/DI banda/NC ,/FF els/DA romans/NC aconseguiren/VM capturar/VM el/DA campament/RG cartaginès/AQ ,/FF junt/AQ amb/SP 2.000/ZZ presoners/NC (/FF entre/SP d'/SP ells/PP ,/FF el/DA propi/AQ Hannó/NP )/FF ./FF
+a/SP el/DA campament/RG figuraven/VM tots/DI els/DA equipatges/NC deixats/NC per/SP Anníbal/NP ./FF
+Entre/SP els/DA presos/NC també/RG s'/P0 incloïa/VM Indíbil/NP ,/FF un/DI influent/AQ cabdill/NC ilerget/AQ que/PR causaria/VM més/RG tard/RG greus/AQ problemes/NC a/SP els/DA romans/NC ./FF
+Aquests/DD també/RG irromperen/VM a/SP la/DA ciutat/NC de/SP Kesse/NP ,/FF malgrat_que/CS per/SP a/SP frustració/NC de/SP els/DA romans/NC no/RN contenia/VM cap/DI botí/NC valuós/AQ ./FF
+Consequències/NP ./FF
+Escipió/NP es/P0 convertí/VM en/SP amo/NC de/SP el/DA nord/NC de/SP l'/DA Ebre/NP ./FF
+Àsdrubal/NP ,/FF que/PR arribà/VM massa/RG tard/RG a/SP ajudar/VM a/SP Hannó/NP (/FF encara/RG que/CS no/RN era/VS suficientment/RG fort/AQ per/SP a/SP atacar/VM a/SP els/DA romans/NC )/FF ,/FF creuà/VM el/DA riu/NC i/CC envià/VM una/DI columna/NC que/PR assaltà/VM els/DA romans/NC a/SP una/DI escaramussa/NC ./FF
+Aquesta/DD força/NC capturà/VM mariners/NC romans/AQ i/CC infligí/VM un/DI dur/AQ colp/NC a/SP la/DA flota/NC romana/AQ ,/FF que/PR baixà/VM de/SP 60/ZZ a/SP 35/ZZ vaixells/NC ./FF
+Tanmateix/RG ,/FF la/DA flota/NC romana/AQ conquerí/VM les/DA possessions/NC cartagineses/AQ a/SP Hispània/NP ./FF
+El/DA prestigi/NC romà/AQ es/P0 restablí/VM a/SP Hispània/NP ,/FF mentre_que/CC els/DA cartaginesos/NC havien/VA patit/VM una/DI important/AQ derrota/NC ./FF
+Després/RG de/SP castigar/VM a/SP els/DA oficials/NC a/SP càrrec/NC de/SP els/DA contingents/NC navals/AQ per/SP la/DA laxitud/NC de/SP la/DA seva/PX disciplina/NC ,/FF Escipió/NP i/CC l'/DA exèrcit/NC romà/AQ hivernaren/VM a/SP Tàrraco/NP ./FF
+Àsdrubal/NP es/P0 retirà/VM a/SP Carthago_Nova/NP després/RG de/SP la/DA deserció/NC d'/SP algunes/DI ciutats/NC aliades/NC a/SP el/DA sud/NC de/SP l'/DA Ebre/NP ./FF
+Si/CS Hannó/NP hagués/VA guanyat/VM la/DA batalla/NC ,/FF hagués/VA estat/VS possible/AQ enviar/VM reforços/NC de/SP l'/DA Hispània/NP cartaginesa/AQ a/SP Anníbal/NP a_partir_de/SP 217/ZZ aC/NC ./FF
+Aquesta/DD batalla/NC dugué/VM a/SP els/DA mateixos/DI resultats/NC d'/SP Escipió/NP a/SP Hispània/NP com/CS la/DA batalla/NC de/SP Trèbia/NP duria/VM per/SP Anníbal/NP a/SP la/DA península/NC Itàlica/NP :/FF l'/DA assoliment/NC d'/SP una/DI base/NC d'/SP operacions/NC ,/FF guanyar/VM -se/P0 a/SP alguna/DI tribu/NC nadiua/AQ com/CS a/SP font/NC de/SP provisions/NC i/CC reclutes/NC ./FF
+També/RG tallà/VM la/DA comunicació/NC per/SP terra/NC d'/SP Anníbal/NP ./FF
+A/SP diferència/NC d'/SP aquest/PD ,/FF Escipió/NP no/RN posà/VM en/SP marxa/NC immediatament/RG una/DI campanya/NC en/SP territori/NC enemic/AQ a/SP el/DA sud/NC de/SP el/DA riu/NC ./FF
+Tampoc/RG no/RN s'/P0 arriscà/VM a/SP perdre/VM la/DA seva/PX base/NC ,/FF com/PT faria/VM Anníbal/NP en/SP un/DI futur/NC proper/AQ ./FF
+Escipió/NP prendrà/VM temps/NC per/SP a/SP consolidar/VM les/DA seves/PX explotacions/NC ,/FF subjugar/VM o/CC aliar/VM -se/P0 amb/SP les/DA tribus/NC ibèriques/AQ i/CC practicar/VM incursions/NC en/SP territori/NC cartaginès/AQ ./FF
+Aquestes/DD activitats/NC foren/VS la/DA base/NC per/SP a/SP les/DA futures/AQ operacions/NC a/SP Hispània/NP ./FF
+Classificació/NC general/AQ ./FF
+Llegenda/NP :/FF J-partits/NP jugats/NC ,/FF G-guanyats/NP ,/FF E-empatats/NP ,/FF P-perduts/NP ,/FF GF-gols/NP a/SP favor/NC ,/FF GC-gols/NP en/SP contra/SP ,/FF DG-diferència/NP de/SP gols/NC ,/FF PTS-punts_Promoció/NP ./FF
+Resultats/NC finals/AQ ./FF
+Campió/NP :/FF FC_Barcelona/NP ./FF
+Descensos/NP :/FF Granada_CF/NP ,/FF CE_Sabadell/NP i/CC Deportivo_de_La_Coruña/NP ./FF
+Ascensos/NP :/FF CD_Alcoià/NP ,/FF Hèrcules_CF/NP i/CC Celta_de_Vigo/NP ./FF
+Màxim/AQ golejador/NC :/FF Zarra/NP (/FF Athletic_de_Bilbao/NP )/FF ./FF
+Porter/NP menys/RG golejat/VM :/FF Eizaguirre/NP (/FF València_CF/NP )/FF ./FF
+Màxims/AQ golejadors/NC ./FF
+Porter/NP menys/RG golejat/VM ./FF
+El/DA terme/NC informívor/RG descriu/VM a/SP un/DI organisme/NC que/PR consumeix/VM informació/NC ./FF
+Està/VM pensat/VM per/SP a/SP ser/VS una/DI descripció/NC de/SP el/DA comportament/NC humà/AQ en/SP la/DA societat/NC de/SP la/DA informació/NC moderna/AQ ,/FF en/SP comparació/NC amb/SP omnívor/AQ ,/FF com/CS a/SP descripció/NC d'/SP humans/AQ consumint/VM menjar/NC ./FF
+George_A._Miller/NP va/VA encunyar/VM el/DA terme/NC en/SP 1983/ZZ com/CS una/DI analogia/NC de/SP com/CS els/DA organismes/NC sobreviuen/VM consumint/VM entropia/NC negativa/AQ (/FF com/PR suggereix/VM Erwin_Schrödinger/NP )/FF )/FF ./FF
+Miller/NP diu/VM ,/FF "/FF Tal_i_com/CS el/DA cos/NC sobreviu/VM ingerint/VM entropia/NC negativa/AQ ,/FF la/DA ment/NC sobreviu/VM ingerint/VM informacio/NC ./FF
+En/SP un/DI sentit/NC molt/RG general/AQ ,/FF tots/DI els/DA organismes/NC superiors/AQ són/VS informívors/RG ./FF "/FF Un/DI ús/NC recent/AQ de/SP el/DA terme/NC es/P0 va/VA fer/VM en/SP un/DI artícle/NC de/SP diari/NC per/SP Jonathan_Chevreau/NP on/PR cita/VM un/DI discurs/NC fet/VM per/SP Zenon_Pylyshyn/NP ./FF
+Poc/RG després/RG ,/FF el/DA terme/NC va/VA apareixer/VM en/SP la/DA introducció/NC de/SP el/DA llibre/NC de/SP Pylyshyn/NP sobre/SP Ciència_Cognitiva/NP ,/FF Computació/NP i/CC cognició/NC ./FF
+Més/RG recentment/RG el/DA terme/NC ha/VA estat/VS popularitzat/VM per/SP el/DA filòsof/NC Daniel_Dennett/NP a/SP el/DA seu/PX llibre/NC Tipus_de_Ments/NP and/AQ by/NC cognitive/VM scientist/VM Steven_Pinker/NP ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+"/FF informavore/VM "/FF a/SP Word_Spy/NP ;/FF
+L'/DA Institut_Karolinska/NP (/FF Karolinska_Institutet/NP en/SP suec/NC )/FF és/VS una/DI universitat/NC d/AQ '/FF Estocolm/NP (/FF Suècia/NP )/FF ./FF
+És/VS la/DA institució/NC universitària/AQ dalta/AQ educació/NC en/SP medicina/NC més/RG gran/AQ de/SP el/DA món/NC ./FF
+Un/DI comitè/NC d'/SP aquest/DD institut/NC és/VS l'/DA encarregat/NC de/SP la/DA designació/NC de/SP el/DA Premi_Nobel_de_Fisiologia/NP o/CC Medicina/NP ./FF
+L'/DA Hospital_Karolinska/NP està/VM associat/NC a/SP l'/DA Institut/NP ,/FF com/CS hospital/NC docent/AQ ./FF
+L'/DA institut/NC és/VS membre/NC de/SP la/DA Lliga_Europea_d'_Investigació_Universitària/NP ./FF
+El/DA Premi_Turing/NP és/VS considerat/VM per/SP molts/DI com/CS el/DA Premi_Nobel_de_la_Informàtica/NP ./FF
+És/VS atorgat/VM anualment/RG per/SP l'/DA Associació/NP per/SP a/SP la/DA Maquinària_Computacional/NP (/FF ACM/NP )/FF a/SP qui/PR hagi/VA contribuït/VM de/SP manera/NC transcendental/AQ a/SP el/DA camp/NC de/SP les/DA ciències/NC computacionals/AQ ./FF
+El/DA guardó/NC rendeix/VM tribut/NC a/SP Alan_Mathison_Turing/NP i/CC actualment/RG és/VS patrocinat/VM per/SP l'/DA empresa/NC Intel/NP ,/FF la/DA qual/PR aporta/VM una/DI borsa/NC de/SP cent_mil_dòlars_nord-americans/ZZ a/SP el/DA guanyador/NC ./FF
+Després/RG de/SP 40/ZZ anys/NC d'/SP existència/NC ,/FF el/DA 2006/ZZ es/P0 va/VA atorgar/VM el/DA guardó/NC a/SP la/DA primera/AO dona/NC ,/FF Frances_Allen/NP ./FF
+Nombre/NP de/SP guardons/NC per/SP nacionalitat/NC ./FF
+Aquesta/DD és/VS la/DA distribució/NC de/SP els/DA Premis_Turing/NP des_de/SP 1966/ZZ fins/SP a/SP 2006/ZZ ./FF
+Les/DA nacionalitats/NC de/SP els/DA guardonats/VM estan/VM basades/VM en/SP el/DA seu/PX lloc/NC (/FF l'/DA estat/NC )/FF de_naixença/RG ,/FF no/RN on/PR van/VA desenvolupar/VM el/DA seu/PX treball/NC com/CS investigadors/AQ ./FF
+EUA/NP :/FF 33/ZZ ;/FF Regne_Unit/NP :/FF 6/ZZ ;/FF Israel/NP :/FF 2/ZZ ;/FF Noruega/NP :/FF 2/ZZ ;/FF Canadà/NP :/FF 2/ZZ ;/FF Alemanya/NP :/FF 1/ZZ ;/FF Xina/NP :/FF 1/ZZ ;/FF Dinamarca/NP :/FF 1/ZZ ;/FF Letònia/NP :/FF 1/ZZ ;/FF Països_Baixos/NP :/FF 1/ZZ ;/FF Suïssa/NP :/FF 1/ZZ ;/FF Veneçuela/NP :/FF 1/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP el/DA Premi_Turing/NP ./FF
+Dades/NC de/SP el/DA museu/NC Telf./NP 96/ZZ 351/ZZ 63/ZZ 92/ZZ ;/FF http://mnceramica.mcu.es//AQ C/NP //FF Poeta_Querol/NP ,/FF 2/ZZ ;/FF 46002/ZZ València/NP (/FF la/DA Xerea/NP ,/FF Ciutat_Vella/NP )/FF Titularitat/NP i/CC Gestió/NP :/FF Ministeri_de_Cultura/NP ;/FF Direcció_General_de_Belles_Arts/NP i/CC Béns_Culturals/NP ;/FF Director/NP :/FF D._Jaume_Coll/NP i/CC Conesa/NP ;/FF El_Museu_de_Ceràmica_de_València/NP o/CC Museu_Nacional_de_Ceràmica/NP i/CC de/SP les/DA Arts_Sumptuàries/NP "/FF González_Martí/NP "/FF alberga/VM diverses/DI col·leccions/NC de/SP peces/NC ceràmiques/AQ d/AQ arreu/RG de/SP Valènc

@@ -14244,4 +14244,85 @@ Quan/CS N/NP =/FF S/NP ,/FF la/DA fórmula/NC es/P0 redueix/VM a/SP una/DI distr
 Vegeu/VM també/RG ./FF
 Erlang_B/NP ;/FF Erlang_C/NP ;/FF Càlcul_d'_Engset/NP ;/FF Centre/NP de/SP trucades/NC ;/FF Llenguatge/NP de/SP programació/NC Erlang/NP ;/FF Distribució_Erlang/NP ;/FF Distribució_de_Poisson/NP ;/FF Enllaços/NP externs/AQ ./FF
 Tècniques/NC d'/SP enginyeria/NC de/SP tràfic/NC en/SP telecomunicacions/NC ,/FF de/SP Richard_Parkinson/NP (/FF Conté/VM fórmules/NC i/CC termes/NC )/FF ;/FF Modelat/NP de/SP tràfic/NC i/CC Assignació_de_Recursos/NP en/SP Centres_de_Trucades_per_Estratègies_de_Diagnosi/NP (/FF Definicions/NP i/CC fórmules/NC )/FF ;/FF Eines/NP ./FF
-Calculadora_d'_Erlang_C/NP en/SP línia/NC de/SP Vrije_University/NP ,/FF Països_Baixos/NP ;/FF Calculadora_d'_Erlang_B/NP en/SP línia/NC amb/SP el/DA codi/NC font/NC en/SP C/NP i/CC JavaScript/NP ;/FF Una/DI calculadora/NC d'/SP Erlang_B/NP robusta/A
+Calculadora_d'_Erlang_C/NP en/SP línia/NC de/SP Vrije_University/NP ,/FF Països_Baixos/NP ;/FF Calculadora_d'_Erlang_B/NP en/SP línia/NC amb/SP el/DA codi/NC font/NC en/SP C/NP i/CC JavaScript/NP ;/FF Una/DI calculadora/NC d'/SP Erlang_B/NP robusta/AQ de/SP la/DA Universitat_de_McMaster/NP ,/FF Canada/NP ;/FF Erlang_C/NP utilitzant/VM fulles/NC de/SP càlcul/NC de/SP Mitan_Ltd._ENDOFARTICLE/NP ./FF
+El/DA Tractat_de_la_Haia/NP de/SP 1795/ZZ és/VS un/DI tractat/NC de/SP pau/NC signat/VM el/DA 16_de_maig/WW d'/SP aquell/DD any/NC a/SP la/DA ciutat/NC neerlandesa/AQ de/SP la/DA Haia/NP entre/SP representants/NC de/SP la/DA República_Batava/NP i/CC la/DA República_Francesa/NP ./FF
+Antecedents/NP ./FF
+L/NP '/FF 1_de_febrer_de_1793/WW la/DA Convenció_Nacional_de_França/NP va/VA declarar/VM la/DA guerra/NC a/SP el/DA Regne_Unit_de_la_Gran_Bretanya/NP i/CC Irlanda/NP així/RG com/CS a/SP els/DA seus/PX aliats/NC ,/FF les/DA Províncies_Unides/NP encapçalades/VM per/SP el/DA estatúder/NC Guillem_V_d'_Orange-Nassau/NP ./FF
+El/DA 8_de_gener_de_1795/WW l'/DA exèrcit/NC de/SP el/DA General_Jean-Charles_Pichegru/NP va/VA creuar/VM el/DA riu/NC Waal/NP gelat/NC ,/FF i/CC es/P0 va/VA fer/VM amb/SP el/DA control/NC d'/SP Amsterdam/NP en_nom_de/SP la/DA República_Batava/NP ,/FF estat/NC tributari/AQ de/SP França/NP ,/FF i/CC fent/VM fugir/VM a/SP Guillem_V/NP a/SP l'/DA exili/NC el/DA 18_de_gener/WW de/SP el/DA mateix/DI any/NC ./FF
+Ocupació/NC francesa/AQ ./FF
+El/DA 3_de_febrer/WW es/P0 va/VA proclamar/VM el/DA naixement/NC de/SP la/DA República_Batava/NP ./FF
+Els/DA ocupants/NC francesos/AQ però/CC es/P0 van/VA negar/VM a/SP reconèixer/VM aquest/DD nou/AQ sense/SP un/DI tractat/NC de/SP pau/NC ,/FF una/DI actitud/NC que/PR va/VA ser/VS vista/VM com/CS una/DI traïció/NC ,/FF però/CC en/SP la/DA qua/NC es/P0 va/VA amagar/VM la/DA normal/AQ intenció/NC de/SP continuar/VM la/DA lliure/AQ ocupació/NC militar/AQ ,/FF amb/SP el/DA consegüent/AQ poder/NC il·limitat/AQ per/SP part/NC de/SP la/DA Convenció_Terminoriana/NP ./FF
+El/DA tractat/NC de/SP pau/NC ./FF
+Les/DA negociacions/NC que/PR van/VA conduir/VM a/SP la/DA signatura/NC de/SP el/DA Tractat/NP ,/FF el/DA 16_de_maig_de_1795/WW van/VA imposar/VM un/DI tractat/NC de/SP pau/NC molt/RG dur/AQ ,/FF que/PR va/VA incloure/VM :/FF la/DA continuació/NC de/SP l'/DA ocupació/NC militar/AQ (/FF amb/SP un/DI petit/AQ exèrcit/NC de/SP 25.000/ZZ homes/NC )/FF ,/FF el/DA protectorat/NC (/FF en/SP la/DA forma/NC d'/SP una/DI aliança/NC militar/AQ defensiva/AQ i/CC ofensiva/AQ )/FF ,/FF una/DI contribució/NC única/AQ de/SP 100_milions_de_florins/ZZ (/FF una/DI gran/AQ quantitat/NC )/FF i/CC la/DA venda/NC de/SP les/DA províncies/NC a/SP el/DA sud/NC de/SP el/DA Rin/NP i/CC Mosa/NP :/FF el/DA Flandes_Zelandès/NP ,/FF la/DA ciutat/NC de/SP Maastricht/NP i/CC Venlo/NP ./FF
+Mickaël_Ladhuie/NP ,/FF nascut/VM el/DA 4_de_febrer_de_1982/WW a/SP Tolosa_de_Llenguadoc/NP ,/FF és/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP francès/AQ que/PR ocupa/VM la/DA posició/NC de/SP taloner/AQ a/SP el/DA sí/NC de/SP l'/DA efectiu/NC de/SP l'/DA USAP_de_Perpinyà/NP ./FF
+Equips/NP ./FF
+USOS_Colomiers/NP ;/FF 2005-2007/ZZ :/FF SC_Albi/NP ;/FF des_de/SP 2007/ZZ :/FF USAP/NP (/FF Perpinyà/NP )/FF ;/FF Palmarès/NP ./FF
+Vencedor/NP de/SP les/DA fases/NC finals/AQ de/SP el/DA campionat/NC de/SP França_Pro/NP D2/ZZ :/FF 2006/ZZ Enllaços/NP externs/AQ ./FF
+Perfil/NP de/SP el/DA jugador/NC a/SP lequipe/VM ./FF fr/NC ;/FF Estadístiques/NP a/SP itsrugby/NC ./FF fr/NC ;/FF Fitxa/NP a/SP el/DA lloc/NC web/NC de/SP l'/DA USAP/NP ;/FF
+Henry_Tuilagi/NP va/VA néixer/VM el/DA 12_d'_agost_de_1976/WW a/SP Fogapoa/NP (/FF Samoa/NP )/FF ./FF
+És/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP ,/FF que/PR ocupa/VM la/DA posició/NC de/SP tercera/AO línia/NC centre/NC en/SP l'/DA equip/NC de/SP l'/DA USAP_de_Perpinyà/NP i/CC a/SP la/DA selecció/NC de/SP Samoa/NP ./FF
+Anteriorment/RG havia/VA jugat/VM en/SP l'/DA equip/NC de/SP els/DA Leicester_Tigers/NP ./FF
+El/DA seu/PX germà/NC més/RG gran/AQ ,/FF Fereti/NP ,/FF també/RG va/VA formar_part/VM de/SP el/DA Leicester/NP ,/FF on/PR actualment/RG hi/PP juguen/VM els/DA seus/PX germans/NC Alesana/NP i/CC Anitelia/NP ./FF
+Carrera/NP ./FF
+En/SP club/NC ./FF
+Overmach_Parme/NP :/FF 2002-2003/ZZ ;/FF Leicester_Tigers/NP :/FF 2003-2007/ZZ ;/FF USAP/NP :/FF des_de/SP 2007/ZZ ;/FF En/NP equip/NC nacional/AQ ./FF
+El/DA seu/PX debut/NC internacional/AQ amb/SP Samoa/NP va/VA ser/VS l/NC '/FF 1_de_juny_de_2002/WW ,/FF en/SP ocasió/NC d'/SP un/DI partit/NC contra/SP l'/DA equip/NC de/SP Fiji/NP ./FF
+(/FF A/SP 1/01/2008/WW )/FF 6/ZZ partits/NC amb/SP la/DA selecció/NC de/SP Samoa/NP (/FF 4/ZZ el/DA 2002/ZZ ,/FF 2/ZZ el/DA 2007/ZZ a/SP la/DA Copa_de_el_Món/NP )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Estadístiques/NC a/SP itsrugby/NC ./FF com/CS ;/FF Fitxa/NP a/SP els/DA Tigers_de_Leicester/NP ;/FF Estadístiques/NP a/SP ercrugby/NC ./FF com/CS ;/FF
+Jacques_Brunel/NP ,/FF nascut/VM el/DA 14_de_gener_de_1954/WW a/SP Courrensan/NP (/FF Gers/NP )/FF ,/FF és/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP retirat/VM ,/FF que/PR exerceix/VM d'/SP entrenador/NC ./FF
+Com/CS a/SP jugador/NC va/VA formar_part/VM de/SP el/DA FC_Grenoble/NP ,/FF l'/DA USOS_Carcassone/NP i/CC el/DA FC_Auch/NP ,/FF on/PR es/P0 va/VA retirar/VM com/CS a/SP jugador/NC després/RG de/SP dotze/ZZ anys/NC a/SP el/DA club/NC ,/FF per/SP passar/VM a/SP ser/VS -ne/PP l'/DA entrenador/NC entre/SP 1988/ZZ i/CC 1995/ZZ ./FF
+Segueix/VM la/DA seva/PX carrera/NC com/CS a/SP entrenador/NC a/SP l'/DA USOS_Colomiers/NP entre/SP 1995/ZZ i/CC 1999/ZZ ,/FF després/RG a/SP la/DA Section/NP paloise/AQ de/SP Pau/NP ,/FF i/CC posteriorment/RG és/VS nomenat/VM entrenador/NC adjunt/AQ de/SP la/DA selecció/NC de/SP França/NP de/SP rugbi/NC a/SP XV/NP ,/FF encarregat/NC de/SP els/DA davants/NC ./FF
+En/SP aquesta/DD tasca/NC és/VS adjunt/AQ de/SP Bernard_Laporte/NP fins/SP la/DA Copa_de_el_Món_de_Rugbi/NP de/SP 2007/ZZ ./FF
+La/DA temporada/NC 2007-2008/ZZ passa/VM a/SP ser/VS entrenador/NC de/SP l'/DA USAP_de_Perpinyà/NP ,/FF de/SP el/DA qual/PR també/RG és/VS director/NC general/AQ ./FF
+Dins/SP l'/DA equip/NC tècnic/AQ també/RG compta/VM amb/SP Bernard_Goutta/NP ,/FF el/DA 3a/AO línia/NC i/CC capità/NC català/AQ acabat/VM de/SP retirar/VM ,/FF que/PR s'/P0 encarrega/VM de/SP els/DA davants/NC ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Fitxa/NP a/SP l'/DA USAP/NP ;/FF
+El/DA 22_de_gener_de_1905/WW (/FF 9_de_gener/WW segons/SP el/DA calendari/NC julià/AQ )/FF ,/FF dia/NC conegut/VM com/CS a/SP Diumenge/WW Sagnant/NP ,/FF va/VA haver/VA una/DI marxa/NC pacífica/AQ de/SP protesta/NC a/SP Sant_Petersburg/NP ./FF
+L'/DA objectiu/NC de/SP la/DA marxa/NC era/VS lliurar/VM a/SP el/DA tsar/NC una/DI petició/NC de/SP millores/NC laborals/AQ ,/FF i/CC la/PP formaven/VM famílies/NC treballadores/AQ senceres/AQ ./FF
+Anava/VM encapçalada/VM per/SP un/DI sacerdot/NC ,/FF i/CC no/RN responia/VM a/SP cap/DI consigna/NC política/AQ :/FF era/VS fonamentalment/RG obrera/AQ i/CC camperola/AQ ./FF
+Va/VA ser/VS salvatgement/RG aixafada/NC per/SP soldats/NC d'/SP infanteria/NC i/CC cosacs/NC ,/FF apostats/VM enfront/NC de/SP el/DA Palau_d'_Hivern/NP ,/FF cobrant/VM -se/PP un/DI nombre/NC de/SP víctimes/NC que/PR encara/RG avui/RG es/P0 discuteix/VM ;/FF els/DA periòdics/NC de/SP el/DA moment/NC van/VA parlar/VM de/SP milers/NC ./FF
+El/DA tsar/NC ,/FF mentrestant/RG ,/FF no/RN es/P0 trobava/VM a/SP la/DA ciutat/NC ;/FF l'/DA havia/VA abandonat/VM tement/VM per/SP la/DA seva/PX seguretat/NC ./FF
+La/DA sagnant/AQ repressió/NC va/VA provocar/VM una/DI onada/NC de/SP protestes/NC a/SP tota/DI Rússia/NP :/FF el/DA divorci/NC entre/SP el/DA tsar/NC i/CC la/DA massa/NC de/SP camperols/NC i/CC obrers/NC abocava/VM a/SP Rússia/NP a/SP el/DA pitjor/AQ ./FF
+Aquest/DD succés/NC va/VA fer/VM possible/AQ que/CS molts/DI elements/NC de/SP la/DA societat/NC russa/AQ emprenguessin/VM una/DI protesta/NC activa/AQ ./FF
+Cada/DI grup/NC tenia/VM els/DA seus/PX propis/AQ objectius/NC ,/FF i/CC fins_i_tot/RG dintre/RG de/SP classes/NC similars/AQ no/RN existia/VM un/DI lideratge/NC predominant/AQ ./FF
+La/DA Unió_Esportiva_L'_Estartit/NP és/VS un/DI club/NC de/SP futbol/NC femení/AQ català/AQ de/SP L'_Estartit/NP ,/FF Torroella_de_Montgrí/NP ./FF
+Història/NP ./FF
+La/DA UE_L'_Estartit/NP va/VA néixer/VM l'/DA any/NC 1979/ZZ com/CS un/DI equip/NC aficionat/NC encara/RG sense/SP federar/VM ./FF
+El/DA primer/AO uniforme/NC era/VS samarreta/NC groga/AQ i/CC pantaló/NC negre/AQ ./FF
+No/RN és/VS fins/SP el/DA 1983/ZZ que/PR el/DA club/NC ingressa/VM a/SP la/DA Federació_Catalana_de_Futbol/NP ./FF
+L'/DA uniforme/NC passà/VM a/SP ser/VS a/SP ratlles/NC vermelles/AQ i/CC blanques/AQ amb/SP pantaló/NC blanc/AQ ./FF
+Posteriorment/RG es/P0 canvià/VM el/DA color/NC de/SP el/DA pantaló/NC per/SP el/DA negre/NC ./FF
+L'/DA actual/AQ Camp_Municipal/NP s'/P0 inaugurà/VM l/NC '/FF 1_de_maig_de_1987/WW amb/SP un/DI partit/NC contra/SP els/DA veterans/NC de/SP l'/DA Espanyol/NP ./FF
+Els/DA equips/NC de/SP futbol/NC femení/AQ no/RN van/VA aparèixer/VM a/SP el/DA club/NC fins/SP l'/DA any/NC 1992/ZZ ./FF
+L'/DA equip/NC femení/AQ va/VA arribar/VM a/SP pujar/VM fins/SP a/SP la/DA màxima/AQ categoria/NC de/SP el/DA futbol/NC espanyol/AQ ./FF
+L'/DA equip/NC masculí/AQ va/VA arribar/VM a/SP pujar/VM dos/ZZ cops/NC a/SP Primera_Territorial/NP abans/RG de/SP desaparèixer/VM ./FF
+per/SP el/DA que/PR fa/VM a/SP el/DA futbol/NC base/NC ,/FF aquest/DD es/P0 va/VA fusionar/VM amb/SP el/DA futbol/NC base/NC de/SP el/DA Torroella/NP formant/VM la/DA E.F._Baix_Ter/NP ./FF
+D'/SP aquesta/DD manera/NC la/DA UE_L'_Estartit/NP esdevingué/VM un/DI club/NC de/SP futbol/NC específicament/RG femení/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF
+La/DA reacció/NC de/SP PAS/NP (/FF àcid/NC periòdic/AQ reactiu/AQ de/SP Schiff/NP )/FF és/VS una/DI tinció/NC emprada/VM en/SP la/DA contratació/NC de/SP preparacions/NC microscopiques/AQ ./FF
+Aquesta/DD tinció/NC es/P0 caracteritza/VM per/SP tenyir/VM els/DA carbohidrats/NC i/CC macromolècules/NC riques/AQ en/SP carbohidrats/NC ./FF
+Aquests/DD tècnica/AQ s/NC usa/VM per/SP a/SP detectar/VM glicogen/NC a/SP les/DA cèl·lules/NC ,/FF mucositats/NC i/CC mucílags/NC en/SP diferents/DI tipus/NC cel·lulars/AQ i/CC tissulars/AQ ,/FF la/DA membrana/NC bassal/NC subjacent/AQ a/SP els/DA epitelis/NC i/CC les/DA fibres/NC reticulars/AQ de/SP el/DA teixit/NC conjuntiu/AQ ./FF
+La/DA reacció/NC química/AQ es/P0 produeix/VM quan/CS l/NC àcid/AQ periòdic/AQ trenca/VM la/DA unió/NC de/SP els/DA anells/NC de/SP les/DA hexoses/NC i/CC de/SP les/DA hexosamines/NC amb/SP els/DA seus/PX carbonis/NC adjacents/AQ ,/FF i/CC després/RG en/SP forma/NC grups/NC aldehid/NC ./FF
+El/DA reactiu/NC de/SP Schiff/NP el/DA què/PR fa/VM és/VS donar/VM un/DI color/NC porpra/NC quan/PR reacciona/VM amb/SP els/DA grups/NC aldehid/NC ./FF
+Aquesta/DD tinció/NC és/VS una/DI alternativa/NC a/SP les/DA tècniques/NC d/AQ impregnació/NC argèntica/AQ ./FF
+GPSS/NP és/VS un/DI llenguatge/NC de/SP simulació/NC de/SP caire/NC generalista/AQ basat/VM en/SP un/DI conjunt/NC de/SP d'/SP instruccions/NC ,/FF anomenades/NC blocs/NC ,/FF que/PR permeten/VM descriure/VM els/DA processos/NC que/PR constitueixen/VM el/DA sistema/NC ./FF
+El/DA paradigma/NC de/SP simulació/NC sobre/SP el/DA que/PR es/P0 basa/VM es/P0 el/DA de/SP interacció/NC de/SP processos/NC ./FF
+Originàriament/RG GPSS/NP volia/VM dir/VM Gordon/NP s/NC Programmable_Simulation_System/NP ,/FF en/SP honor/NC a/SP Geoffrey_Gordon/NP ,/FF el/DA seu/PX creador/NC ./FF
+No/RN obstant/VM això/PD ,/FF quan/CS el/DA sistema/NC es/P0 va/VA alliberar/VM com/CS a/SP producte/NC ,/FF Geoffrey/NP va/VA decidir/VM canviar/VM el/DA seu/PX nom/NC a/SP General_Purpose_Simulation_System/NP ./FF
+El/DA 1961/ZZ IBM/NP va/VA llençar/VM la/DA primera/AO versió/NC de/SP el/DA sistema/NC GPSS/NP ,/FF desenvolupat/VM per/SP Geoffrey_Gordon/NP ./FF
+A_pesar_de/SP què/PR han/VA passat/VM ja/RG més/RG de/SP 40/ZZ anys/NC des_de/SP el/DA seu/PX llançament/NC ,/FF cal/VM remarcar/VM que/CS encara/RG s/NC estan/VM desenvolupant/VM de/SP forma/NC intensa/AQ noves/AQ versions/NC ,/FF com/CS per_exemple/RG el/DA GPSS_World/NP per/SP plataformes/NC Windows/NP ,/FF o/CC el/DA WebGPSS/NP per/SP entorn/NC Web/NP ,/FF o/CC mes/NC recentment/RG el/DA JGPSS/NP ,/FF un/DI editor/NC de/SP models/NC GPSS/NP basat/VM en/SP java/VM ./FF
+Tots/DI aquests/DD sistemes/NC GPSS/NP ,/FF tot_i_que/CS es/P0 basen/VM en/SP el/DA mateix/DI esquema/NC òbviament/RG presenten/VM diferències/NC sobretot/RG en/SP el/DA nombre/NC de/SP blocs/NC que/PR tenen/VM implementats/VM ./FF
+Enllaços/NC externs/AQ ./FF
+WebGPSS_Versió_Web/NP de/SP el/DA sistema/NC GPSS/NP ./FF
+Wolverine_Software_Versió_GPSS/NP //FF H._Minuteman_Software_Versió_Windows_de_GPSS/NP ;/FF
+En/SP telecomunicacions/NC ,/FF i/CC particularment/RG a/SP enginyeria/NC de/SP teletràfic/NC ,/FF la/DA qualitat/NC d'/SP un/DI servei/NC de/SP veu/NC s'/P0 especifica/VM per/SP dues/ZZ mesures/NC :/FF el/DA grau/NC de/SP servei/NC i/CC la/DA qualitat/NC de/SP servei/NC ./FF
+El/DA grau/NC de/SP servei/NC és/VS la/DA probabilitat/NC que/CS una/DI trucada/NC en/SP un/DI grup/NC de/SP circuits/NC sigui/VS bloquejada/VM o/CC demorada/VM en/SP un/DI temps/NC superior/AQ a/SP l'/DA especificat/VM ,/FF expressada/VM com/CS una/DI fracció/NC vulgar/AQ o/CC una/DI fracció/NC decimal/AQ ./FF
+Aquesta/DD probabilitat/NC sempre/RG fa_referència/VM a/SP l'/DA hora/NC carregada/NC quan/CS la/DA intensitat/NC de/SP tràfic/NC és/VS la/DA més/RG gran/AQ ./FF
+El/DA grau/NC de/SP servei/NC es/P0 pot/VM veure/VM independentment/RG des_de/SP la/DA perspectiva/NC de/SP les/DA trucades/NC entrants/AQ en/SP vers/SP les/DA trucades/NC sortints/AQ ,/FF i/CC no/RN és/VS necessàriament/RG igual/AQ en/SP ambdues/DI direccions/NC o/CC entre/SP parelles/NC diferents/AQ de/SP font-destí/NC ./FF
+Què/PT és/VS el/DA grau/NC de/SP servei/NC i/CC com/CS es/P0 calcula/VM ./FF
+Quan/CS un/DI usuari/NC intenta/VM fer/VM una/DI trucada/NC telefònica/AQ ,/FF l'/DA equip/NC d'/SP encaminament/NC que/PR cursa/VM la/DA trucada/NC ha/VA de/SP determinar/VM si/CS accepta/VM la/DA trucada/NC ,/FF l'/DA encamina/VM a/SP un/DI equip/NC alternatiu/AQ ,/FF o/CC rebutja/VM la/DA trucada/NC definitivament/RG ./FF
+Les/DA trucades/NC rebutjades/VM es/P0 produeixen/VM com/CS a/SP resultat/NC d'/SP una/DI càrrega/NC intensa/AQ de/SP tràfic/NC (/FF congestió/NC )/FF a/SP el/DA sistema/NC ,/FF i/CC poden/VM resultar/VM en/SP una/DI demora/NC o/CC en/SP una/DI pèrdua/NC de/SP la/DA trucada/NC ./FF
+Si/CS una/DI trucada/NC és/VS demorada/VM ,/FF l'/DA usuari/NC només/RG ah/II d'/SP esperar/VM que/CS el/DA tràfic/NC disminueixi/VM ,/FF mentre_que/CC si/CS una/DI trucada/NC és/VS perduda/NC ,/FF aquesta/DD s'/P0 elimina/VM de/SP el/DA sistema/NC ./FF
+El/DA grau/NC de/SP servei/NC és/VS un/DI aspecte/NC de/SP la/DA qualitat/NC que/CS un/DI usuari/NC pot/VM experimenta

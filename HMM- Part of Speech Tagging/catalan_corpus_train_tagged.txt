@@ -14796,4 +14796,109 @@ Comandants/NP ./FF
 SS-Oberführer_Herbert/NP von/VM Obwurzer/NP (/FF 1_d'_abril_de_1943/WW a/SP 9_d'_agost_de_1943/WW )/FF ;/FF SS-Gruppenführer_Karl-Gustav_Sauberzweig/NP (/FF 9_d'_agost_de_1943/WW a/SP juny_de_1944/WW )/FF ;/FF SS-Brigadeführer_Desiderius_Hampel/NP (/FF juny_de_1944/WW a/SP 8_de_maig_de_1945/WW )/FF ;/FF
 En/SP el/DA subcamp/NC matemàtic/AQ de/SP l'/DA anàlisi/NC numèrica/AQ ,/FF truncament/NC la/DA reducció/NC de/SP el/DA número/NC de/SP dígits/NC a/SP la/DA dreta/NC de/SP el/DA punt/NC decimal/AQ ,/FF descartant/VM els/DA menys/RG significatius/AQ ./FF
 Per_exemple/RG ,/FF donats/NC els/DA números/NC reals/AQ :/FF 3,14159265358979/ZZ .../FF ;/FF 32,438191288/ZZ ;/FF 6,3444444444444/ZZ ;/FF Per/NP truncar/VM aquests/DD números/NC a/SP dígits/NC decimals/AQ ,/FF solament/RG considerem/VM els/DA 4/ZZ dígits/NC a/SP la/DA dreta/NC de/SP la/DA coma/NC decimal/AQ ./FF
-El/DA resultat/NC és/VS :/FF 3,1415/ZZ ;/FF 32,4381/ZZ ;/FF 6,3444/ZZ ;/FF Fixeu
+El/DA resultat/NC és/VS :/FF 3,1415/ZZ ;/FF 32,4381/ZZ ;/FF 6,3444/ZZ ;/FF Fixeu/NP -vos/PP que/CS en/SP alguns/DI casos/NC ,/FF el/DA truncament/NC donarà/VM el/DA mateix/DI resultat/NC que/PR l'/DA arrodoniment/NC ,/FF però/CC el/DA truncament/NC no/RN arrodoneix/VM cap/DI amunt/RG ni/CC cap/NC abaix/VM els/DA dígits/NC ,/FF senzillament/RG els/DA talla/NC en/SP el/DA dígit/NC especificat/VM ./FF
+L'/DA error/NC de/SP truncament/NC pot/VM ser/VS fins/SP el/DA doble/NC de/SP l'/DA error/NC màxim/AQ que/PR es/P0 pot/VM tenir/VM usant/VM l'/DA arrodoniment/NC ./FF
+Arrodoniment/NP és/VS el/DA procés/NC mitjançant/SP el/DA qual/PR s'/P0 eliminen/VM decimals/NC poc/RG significatius/AQ en/SP un/DI número/NC decimal/AQ ./FF
+Regles/NP de/SP l'/DA arrodoniment/NC ./FF
+Mètode/NC comú/AQ ./FF
+Les/DA regles/NC d'/SP arrodoniment/NC s'/P0 apliquen/VM a/SP el/DA decimal/NC situat/VM a/SP la/DA següent/AQ posició/NC a/SP el/DA número/NC de/SP decimals/NC que/PR es/P0 vol/VM transformar/VM ,/FF és/VS a/SP dir/VM ,/FF si/CS tenim/VM un/DI número/NC de/SP 3/ZZ decimals/NC i/CC volem/VM arrodonir/VM a/SP 2/ZZ ,/FF s'/P0 aplicarà/VM les/DA regles/NC d'/SP arrodoniment/NC :/FF Dígit/NC menor/AQ que/PR 5/ZZ :/FF Si/CS el/DA següent/AQ decimal/NC és/VS menor/AQ que/CS 5/ZZ ,/FF l'/DA anterior/AQ no/RN es/P0 modifica/VM ./FF
+Exemple/NP :/FF 12,612/ZZ ./FF
+Arrodonint/VM a/SP 2/ZZ decimals/NC haurem/VA de/SP tenir_en_compte/VM el/DA tercer/AO decimal/NC :/FF 12,612/ZZ =/FF 12,61/ZZ ./FF
+Dígit/NP més/RG gran/AQ que/CS 5/ZZ :/FF Si/CS el/DA següent/AQ decimal/NC és/VS major/AQ o/CC igual/AQ que/PR 5/ZZ ,/FF l'/DA anterior/AQ s'/P0 incrementa/VM en/SP una/DI unitat/NC ./FF
+Exemple/NP :/FF 12,618/ZZ ./FF
+Arrodonint/VM a/SP 2/ZZ decimals/NC haurem/VA de/SP tenir_en_compte/VM el/DA tercer/AO decimal/NC :/FF 12,618/ZZ =/FF 12,62/ZZ ./FF
+Exemple/NP :/FF 12,615/ZZ ./FF
+Arrodonint/VM a/SP 2/ZZ decimals/NC haurem/VA de/SP tenir_en_compte/VM el/DA tercer/AO decimal/NC :/FF 12,615/ZZ =/FF 12,62/ZZ ./FF
+Altres/DI mètodes/NC ./FF
+Estadísticament/RG més/RG exactes/AQ :/FF ;/FF ;/FF Operacions/NP aritmètiques/AQ ./FF
+En/SP addicions/NC i/CC subtraccions/NC ,/FF el/DA resultat/NC final/AQ te/NC la/DA mateixa/DI quantitat/NC de/SP dígits/NC decimals/AQ que/CS el/DA factor/NC amb/SP menor/AQ quantitat/NC de/SP dígits/NC decimals/AQ ./FF
+Per_exemple/RG :/FF A/SP les/DA multiplicacions/NC ,/FF divisions/NC i/CC potències/NC ,/FF el/DA resultat/NC final/AQ tindrà/VM el/DA mateix/DI número/NC de/SP xifres/NC significatives/AQ que/CS el/DA factor/NC que/PR menys/RG xifres/NC significatives/AQ tingui/VM ./FF
+Per_exemple/RG :/FF
+Scherzi/NP a/SP Parte/NP és/VS el/DA títol/NC d'/SP un/DI programa/NC de/SP televisió/NC italià/AQ ideat/VM per/SP Fatma_Ruffini/NP ,/FF que/PR va/VA començar/VM a/SP emetres/NC el/DA 1992/ZZ ,/FF amb/SP interrupcions/NC de/SP dos/ZZ o/CC tres/ZZ anys/NC entre/SP les/DA diverses/DI edicions/NC ./FF
+El/DA programa/NC va/VA esdevenir/VM molt/RG popular/AQ desde/NC les/DA primeres/AO emisions/NC ,/FF tant_que/CS la/DA famosa/AQ frase/NC "/FF Ets/VS a/SP Scherzi/NP a/SP Parte/NP !/FF "/FF s'/P0 ha/VA convertit/VM en/SP una/DI molt/RG popular/AQ quan/CS algú/PI es/P0 troba/VM en/SP una/DI situació/NC absurda/AQ o/CC divertida/VM ./FF
+En/SP aquest/DD programa/NC ,/FF els/DA autors/NC de/SP les/DA bromes/NC es/P0 posen/VM d'/SP acord/NC amb/SP els/DA còmplices/NC per/SP fer/VM -la/PP a/SP la/DA víctima/NC seleccionada/VM ./FF
+El/DA programa/NC es/P0 un/DI hereu/NC directe/AQ de/SP el/DA famós/AQ show/NC americà/AQ Candid_Camera/NP ,/FF en/SP el/DA qual/PR ,/FF per/SP augmentar/VM l'/DA audiència/NC ,/FF les/DA víctimes/NC de/SP les/DA bromes/NC són/VS personatges/NC de/SP el_món_de_l'_espectacle/NC ,/FF de/SP el/DA cinema/NC ,/FF de/SP la/DA música/NC ,/FF de/SP el/DA periodisme/NC ,/FF de/SP la/DA política/NC ./FF
+S'/P0 emet/VM a/SP Canale/NP 5/ZZ ,/FF tot_i_que/CS a/SP el/DA canal/NC SKY_Show/NP es/P0 pot/VM veure/VM el/DA programa/NC "/FF Scherzi/NP a/SP Parte_Remix/NP "/FF ./FF
+Edicions/NP i/CC presentadors/AQ ./FF
+Primera/AO Edició/NP 1992/ZZ ./FF
+A/SP Italia/NP 1/ZZ des_de/SP l/NC '/FF 1_de_febrer/WW amb/SP 13/ZZ programes/NC ./FF
+Presentadors/NP :/FF Teo_Teocoli/NP i/CC Gene_Gnocchi/NP amb/SP Gabriella_Labate/NP ,/FF Angela_Melillo/NP i/CC Marco_Balestri/NP ./FF
+Amando_de_Miguel_Rodríguez/NP (/FF Pereruela/NP ,/FF província/NC de/SP Zamora/NP ,/FF 1937/ZZ )/FF és/VS un/DI sociòleg/NC espanyol/AQ ./FF
+És/VS col·laborador/NC habitual/AQ en/SP l'/DA emissora/NC de/SP ràdio/NC Cadena_COPE/NP ,/FF el/DA periòdic/NC La_Razón/NP i/CC el/DA periòdic/NC digital/AQ Libertad_Digital/NP ,/FF entre/SP altres/DI mitjans/NC ./FF
+Biografia/NP ./FF
+Catedràtic/NC emèrit/AQ de/SP Sociologia_de_la_Universitat_Complutense_de_Madrid/NP ,/FF càrrec/NC que/PR anteriorment/RG va/VA ocupar/VM en/SP les/DA de/SP València/NP i/CC Barcelona/NP ,/FF on/PR col·laborà/VM a/SP la/DA revista/NC El_Viejo_Topo/NP i/CC fou/VS un/PI de/SP els/DA signants/NC de/SP el/DA Manifest/NP de/SP els/DA 2.300/ZZ el/DA 1981/ZZ ./FF
+Després/RG de/SP l'/DA atemptat/NC de/SP Terra_Lliure/NP contra/SP Federico_Jiménez_Losantos/NP ,/FF un/DI altra/PI de/SP els/DA signants/NC ,/FF va/VA marxar/VM a/SP la/DA Universitat_de_Columbia/NP ,/FF on/PR cursà/VM un/DI postgrau/NC ./FF
+Va/VA exercir/VM com/CS a/SP professor/NC visitant/AQ a/SP les/DA universitats/NC de/SP Yale/NP i/CC Florida/NP i/CC ha/VA estat/VM professor/NC visitant/AQ en/SP El_Colegio_de_Mèxic/NP ./FF
+És/VS director/NC d'/SP estudis/NC de/SP Tábula-V/NP ,/FF un/DI institut/NC d'/SP opinió/NC pública/AQ que/PR ,/FF entre/SP altres/DI treballs/NC ,/FF ha/VA realitzat/VM la/DA sèrie/NC d'/SP informes/NC anuals/AQ sobre/SP la/DA societat/NC espanyola/AQ ./FF
+L'/DA últim/AO és/VS el/DA de/SP 1996-1997/ZZ ./FF
+Ha/VA publicat/VM més/RG de/SP vuitanta/ZZ llibres/NC i/CC milers/NC d'/SP articles/NC ./FF
+Ha/VA estat/VS guardonat/VM amb/SP els/DA premis/NC d'/SP assaig/NC Espasa/NP i/CC Jovellanos/NP i/CC els/DA de/SP periodisme/NC Continent/NP i/CC Fundació_Independent/NP ./FF
+Col·labora/VM habitualment/RG en/SP els/DA mitjans/NC de/SP comunicació/NC i/CC sent/VM una/DI particular/AQ fascinació/NC per/SP el/DA llenguatge/NC ,/FF de/SP el/DA que/PR donen/VM testimoniatge/NC diverses/AQ de/SP les/DA seves/PX obres/NC i/CC articles/NC periodístics/AQ ./FF
+Ha/VA estat/VS guardonat/VM amb/SP els/DA premis/NC d'/SP assaig/NC :/FF Espasa/NP (/FF 1988/ZZ )/FF ,/FF Jovellanos/NP (/FF 2001/ZZ )/FF ,/FF Miguel_Espinosa/NP (/FF 2003/ZZ )/FF i/CC Premi_de_Contes_Cafè_El_Pícaro/NP (/FF Toledo/NP ,/FF 2004/ZZ )/FF ./FF
+Actualment/RG és/VS també/RG membre/NC de/SP el/DA Consell_Econòmic/NP i/CC Social_de_la_Comunitat_de_Madrid/NP ./FF
+Obra/NC ./FF
+Carta/NP abierta/NC a/SP una/DI universitaria/NC (/FF Ediciones/NP 99/ZZ ,/FF 1973/ZZ )/FF ./FF
+Manual_de_Estructura_Social_de_España/NP (/FF Tecnos/NP ,/FF 1974/ZZ )/FF ./FF
+Sociología/NP o/CC Subversión/NP (/FF Plaza_&_Janés/NP ,/FF 1974/ZZ )/FF ./FF
+Sexo/VM ,/FF mujer/VM y/NC natalidad/AQ en/SP España/NP (/FF Cuadernos/NP para/VM el/DA diálogo/NC ,/FF 1974/ZZ )/FF ./FF
+Sociología/NP de/SP el/DA franquismo/NC (/FF Euros/NP ,/FF 1975/ZZ )/FF ./FF
+Desde_la_España/NP predemocrática/AQ (/FF Ediciones_Paulinas/NP ,/FF 1976/ZZ )/FF ./FF
+La/DA España/NP de/SP nuestros/NC abuelos/NC (/FF 1995/ZZ )/FF ./FF
+Con/NP sentido/NC común/NC (/FF 1996/ZZ )/FF ./FF
+Manual/NC de/SP el/DA perfecto/NC sociólogo/AQ (/FF 1996/ZZ )/FF ./FF
+Autobiografía/NP de/SP los/NC españoles/NC (/FF 1997/ZZ )/FF ./FF
+El/DA impacto/VM de/SP la/DA telefonía/NC móvil/AQ en/SP la/DA sociedad/NC española/AQ (/FF 1997/ZZ )/FF ./FF
+ABC/NP de/SP la/DA opinión/NC española/AQ ,/FF (/FF 1997/ZZ )/FF ./FF
+La/DA sociedad/NC española/NC 1996-97/ZZ (/FF 1997/ZZ )/FF ./FF ;/FF Opinión/NP pública/AQ y/NC nivel/NC de/SP vida/NC (/FF 1998/ZZ )/FF ./FF
+El/DA final/NC de/SP un/DI siglo/NC de/SP pesimismo/NC 1898-1998/ZZ ,/FF (/FF 1998/ZZ )/FF ./FF
+El/DA Sexo/NP de/SP nuestros/NC abuelos/NC ,/FF (/FF 1998/ZZ )/FF ./FF
+Los/NP españoles/NC y/NC los/NC libros/NC ,/FF (/FF 1998/ZZ )/FF ./FF
+La/DA movilidad/NC urbana/AQ y/NC los/NC vehículos/NC de/SP dos/ZZ ruedas/NC ,/FF (/FF 1998/ZZ )/FF ./FF
+Los/NP madrileños/AQ y/NC el/DA consumo/VM ,/FF (/FF 1998/ZZ )/FF ./FF
+El/DA libro/NC de/SP las/NC preguntas/NC (/FF 1999/ZZ )/FF ./FF
+Los/NP madrileños/AQ y/NC su/RG ciudad/AQ (/FF 1999/ZZ )/FF ./FF
+Los/NP derechos/AQ de/SP el/DA consumidor/NC en/SP el/DA municipio/NC de/SP Madrid/NP (/FF 1999/ZZ )/FF ./FF
+Estudio/VM Sociológico_SANOFI/NP :/FF Mujeres/NP e/NC hipertensión/NC (/FF 1999/ZZ )/FF ./FF
+Los/NP peatones/NC y/NC el/DA tráfico/NC urbano/VM (/FF 2000/ZZ )/FF ./FF ;/FF La/NP vida/NC cotidiana/AQ de/SP los/NC españoles/AQ en/SP el/DA siglo/NC XX/NP (/FF 2001/ZZ )/FF ./FF
+El/DA espíritu/NC de/SP Sancho_Panza/NP ./FF
+El/DA carácter/NC español/AQ a_través_de/SP los/NC refranes/AQ (/FF 2000/ZZ )/FF ./FF
+Saber/VM beber/VM ,/FF saber/VM vivir/VM (/FF 2002/ZZ )/FF ./FF
+El/DA idioma/NC español/AQ (/FF 2002/ZZ )/FF ./FF
+El/DA final/NC de/SP el/DA franquismo/NC :/FF testimonio/VM personal/AQ (/FF 2003/ZZ )/FF ./FF
+Las/AQ ideas/NC económicas/NC de/SP los/NC intelectuales/NC españoles/NC (/FF 2003/ZZ )/FF ./FF
+Sancho_Panza/NP lee/RG El_Quijote/NP (/FF 2004/ZZ )/FF ./FF
+La/DA mentalidad/NC de/SP los/NC españoles/AQ a/SP comienzos/AQ de/SP el/DA siglo/NC XXI/NP (/FF 2004/ZZ )/FF ./FF
+Sobre/SP gustos/NC y/NC sabores/AQ :/FF los/NC españoles/NC y/NC la/DA comida/NC (/FF 2004/ZZ )/FF ./FF
+Servir/VM a/SP el/DA rey/NC :/FF recuerdo/NC de/SP la/DA mili/NC :/FF 1938-2001/ZZ (/FF 2005/ZZ )/FF ./FF
+Secuestro/NP prolongado/NC (/FF 2005/ZZ )/FF ./FF
+El/DA joc/NC és/VS una/DI activitat/NC consistent/AQ en/SP apostar/VM un/DI be/NC material/AQ o/CC quantitat/NC monetària/AQ sobre/SP el/DA resultat/NC d/AQ un/DI esdeveniment/NC incert/AQ ./FF
+El/DA motiu/NC que/PR impulsa/VM a/SP el/DA jugador/NC és/VS el/DA d/NC obtenir/VM un/DI estímul/NC lúdic/AQ ./FF
+La/DA institució/NC pública/AQ responsable/NC de/SP regular/VM aquesta/DD activitat/NC a/SP Catalunya/NP és/VS la/DA Direcció_General_de_el_Joc/NP i/CC Espectacles/NP ./FF
+L_Entitat_Autònoma_de_Jocs/NP i/CC Apostes/NP s/NC encarrega/VM de/SP l/NC organització/NC i/CC la/DA gestió/NC de/SP els/DA jocs/NC explotats/VM per/SP la/DA Generalitat_de_Catalunya/NP ./FF
+Història/NP de/SP el/DA joc/NC ./FF
+Els/DA orígens/NC de/SP el/DA joc/NC estan/VM estretament/RG lligats/NC a/SP les/DA arts/NC endevinatòries/AQ ./FF
+Els/DA primers/AO artefactes/NC dissenyats/VM per/SP a/SP generar/VM resultats/NC aleatoris/AQ aplicables/AQ a/SP jocs/NC de/SP taula/NC van/VA ser/VS el/DA daus/NC (/FF Iran/NP ,/FF 3000/ZZ a/SP ./FF
+C/NP )/FF ./FF
+Posteriorment/RG es/P0 desenvoluparen/VM altres/DI ginys/NC (/FF naips/NC ,/FF ruletes/NC ,/FF bombos/NC .../FF )/FF que/PR permetien/VM desenvolupar/VM jocs/NC nous/AQ més/RG complexos/AQ ./FF
+A/SP finals/NC de/SP l'/DA edat_mitjana/NC ,/FF apareix/VM el/DA concepte/NC d/AQ envit/NC ,/FF segons/SP el/DA qual/DR l/NC aposta/NC pot/VM ser/VS incrementada/VM en/SP el/DA transcurs/NC de/SP la/DA partida/NC ;/FF jocs/NC com/CS primero/NC ,/FF flor/NC ,/FF predecessors/AQ de/SP el/DA pòquer/NC ,/FF introduïen/VM una/DI nova/AQ manera/NC de/SP jugar/VM ./FF
+Paral·lelament/RG a/SP els/DA jocs/NC d/AQ atzar/NC ,/FF els/DA jugadors/NC també/RG feien/VM apostes/NC mútues/AQ en/SP disciplines/NC esportives/AQ (/FF curses/NC ,/FF pilota/NC ,/FF tornejos/NC .../FF )/FF En/NP un/DI principi/NC els/DA jocs/NC enfrontaven/VM a/SP dos/ZZ o/CC més/RG jugadors/AQ en/SP iguals/AQ condicions/NC però/CC ,/FF durant/SP el/DA Renaixement/NP i/CC coincidint/VM amb/SP el/DA desenvolupament/NC de/SP la/DA teoria/NC de/SP el/DA càlcul/NC de/SP probabilitats/NC ,/FF el/DA joc/NC experimentà/VM un/DI canvi/NC radical/AQ ./FF
+El/DA concepte/NC d/AQ esperança/NC matemàtica/AQ ,/FF exposat/VM per/SP Blaise_Pascal/NP arran/VM d/RG un/DI estudi/NC sobre/SP els/DA jocs/NC de/SP daus/NC ,/FF havia/VA estat/VS aplicat/VM en/SP el/DA desenvolupament/NC d/AQ una/DI nova/AQ classe/NC d/AQ entreteniment/NC :/FF els/DA jocs/NC de/SP contrapartida/NC ./FF
+Aquest/DD tipus/NC de/SP joc/NC enfronta/VM un/DI banquer/NC contra/SP la/DA resta/NC de/SP jugadors/NC i/CC dona/NC certa/DI avantatge/NC a/SP el/DA primer/AO ./FF
+Aquest/DD fet/NC donà/VM lloc/NC a/SP la/DA creació/NC de/SP el/DA joc/NC professional/AQ ./FF
+A/SP Venècia/NP s/NC obriren/VM els/DA ridotti/NC ,/FF cases/NC de/SP joc/NC on/PR s/NC oferia/VM la/DA possibilitat/NC de/SP jugar/VM contra/SP un/DI empleat/NC que/PR feia/VM de/SP banquer/NC ./FF
+Junt/RG amb/SP els/DA casinos/NC també/RG aparegueren/VM les/DA primeres/AO rifes/NC i/CC la/DA loteria/NC de/SP l/NC estat/NC ./FF
+El/DA 1865/ZZ ,/FF Joseph_Oller/NP ideà/VM un/DI sistema/NC matemàtic/AQ segons/SP el/DA qual/PR tots/DI els/DA espectadors/NC d/AQ un/DI esdeveniment/NC esportiu/AQ podien/VM apostar/VM diferents/DI quantitats/NC de/SP diners/NC a/SP diversos/DI resultats/NC ,/FF per/SP mediació/NC d/AQ un/DI corredor/NC d/AQ apostes/NC ./FF
+Aquest/DD sistema/NC que/PR enfronta/VM a/SP tots/DI els/DA apostadors/NC entre/VM si/CS ,/FF permet/VM repartir/VM els/DA premis/NC proporcionalment/RG a/SP més/RG de/SP donar/VM un/DI marge/NC de/SP guany/NC a/SP el/DA corredor/NC ./FF
+A/SP partir/VM d/RG aquest/DD moment/NC les/DA curses/NC de/SP cavalls/NC ,/FF llebrers/NC o/CC els/DA partits/NC de/SP pilota_basca/NC obtingueren/VM gran/AQ popularitat/NC ./FF
+Durant/SP els/DA segles/NC XIX/NP i/CC XX/NP s/NC inventaren/VM nous/AQ jocs/NC (/FF ruleta/NC ,/FF màquines_escurabutxaques/NC ,/FF apostes/NC on-line/AQ )/FF i/CC el/DA joc/NC esdevingué/VM una/DI activitat/NC legal/AQ ,/FF regulada/VM i/CC subjecta/AQ a/SP pressió/NC fiscal/AQ en/SP la/DA majoria/NC de/SP països/NC ./FF
+A/SP Catalunya/NP ,/FF malgrat_que/CS sempre/RG s/NC ha/VA jugat/NC ,/FF els/DA jocs/NC d/AQ atzar/NC i/CC envit/NC van/VA estar/VM prohibits/VM fins/SP el/DA 1977/ZZ ./FF
+Les/DA apostes/NC esportives/AQ eren/VS legals/AQ però/CC limitades/VM ./FF
+Classes/NP de/SP jocs/NC ./FF
+Jocs/NP d/RG atzar/NC ./FF
+Els/DA jocs/NC d/AQ atzar/NC són/VS aquells/DD llur/PX resultat/NC està/VM fortament/RG influenciat/VM per/SP el/DA factor/NC sort/NC ./FF
+Jocs/NP de/SP contrapartida/NC ./FF
+Vint-i-u/ZZ ;/FF Pai/NP gow/NC ;/FF Bacarà/NP ;/FF Caribbean_Stud_Poker/NP ;/FF Craps/NP ;/FF Fan-Tan/NP ;/FF Let/NP it/VM ride/NC ;/FF Sic_Bo/NP ;/FF Ruleta/NP ;/FF Trenta/ZZ i/CC quaranta/ZZ ;/FF Màquines/NP recreatives/AQ tipus/NC C/NP o/CC d'/SP atzar/NC ;/FF Boule/NP ;/FF Faraó/NP (/FF joc/NC d'/SP atzar/NC )/FF ;/FF Trijoker/NP ;/FF Loteria/NP ./FF
+Bingo/NP ./FF
+Jocs/NC electrònics/AQ ./FF
+Màquines/NP recreatives/AQ tipus/NC B/NP o/CC recreatives/AQ amb/SP premi/NC ;/FF Jocs/NP de/SP sort/NC tradicionals/AQ ./FF
+Pedra/NP ,/FF paper/NC ,/FF 

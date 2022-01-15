@@ -15099,4 +15099,75 @@ Exemples/NP de/SP figures/NC geomètriques/AQ :/FF Punt/NP ,/FF línia/NC ,/FF a
 Ajoblanco/NP és/VS el/DA nom/NC d'/SP una/DI revista/NC espanyola/AQ mensual/AQ que/PR es/P0 va/VA publicar/VM entre/SP 1974/ZZ i/CC 1980/ZZ en/SP la/DA seva/PX primera/AO etapa/NC i/CC entre/SP 1987/ZZ i/CC 1999/ZZ en/SP la/DA segona/AO ./FF
 a/SP el/DA costat/NC d'/SP altres/DI capçaleres/NC com/CS Star/NP i/CC Nova_Lent/NP ,/FF Ajoblanco/NP va/VA ser/VS un/DI de/SP els/DA primers/AO punts/NC de/SP trobada/NC i/CC difusió/NC de/SP la/DA contracultura/NC a/SP Espanya/NP ./FF
 Primera/AO etapa/NC ./FF
-La/DA revista/NC va/VA aparèixer/VM per/SP l'/DA impuls/NC de/SP José_Ribas/NP ,/FF un/DI estudiant/NC barceloní/AQ de/SP 
+La/DA revista/NC va/VA aparèixer/VM per/SP l'/DA impuls/NC de/SP José_Ribas/NP ,/FF un/DI estudiant/NC barceloní/AQ de/SP Dret/NP procedent/AQ d'/SP una/DI família/NC burgesa/AQ ,/FF que/PR va/VA aglutinar/VM a/SP la/DA seva/PX a/SP el/DA voltant/NC a/SP filòsofs/NC ,/FF poetes/NC ,/FF arquitectes/NC ,/FF artistes/NC i/CC dibuixants/NC de/SP còmics/NC de/SP l'/DA escena/NC contracultural/AQ de/SP Barcelona/NP de/SP els/DA anys/NC 70/ZZ ./FF
+Tots/DI ells/PP van/VA participar/VM en/SP un/DI projecte/NC que/PR conjuminava/VM l'/DA oposició/NC a/SP el/DA règim/NC franquista/AQ amb/SP la/DA independència/NC de/SP els/DA partits/NC d'/SP esquerres/NC de/SP l'/DA oposició/NC (/FF especialment/RG ,/FF el/DA PSUC/NP ,/FF l'/DA Assemblea_de_Catalunya/NP i/CC Bandera_Roja/NP )/FF ./FF
+a/SP el/DA costat/NC de/SP la/DA política/NC ,/FF els/DA interessos/NC de/SP la/DA primera/AO etapa/NC d/AQ '/FF Ajoblanco/NP inclouen/VM continguts/NC socials/AQ inèdits/AQ fins/RG a/SP llavors/RG a/SP Espanya/NP com/CS l'/DA antipsiquiatria/NC ,/FF l'/DA ecologisme/NC ,/FF el/DA col·lectivisme/NC ,/FF el/DA moviment/NC gai/AQ i/CC l'/DA urbanisme/NC sostenible/AQ ./FF
+a/SP el/DA voltant/NC de/SP Ribas/NP s'/P0 establix/VM un/DI equip/NC de/SP redacció/NC no/RN jerarquitzat/VM que/CS incloia/NC Toni_Puig/NP ,/FF Fernando_Mir/NP (/FF Ribas/NP ,/FF Puig/NP i/CC Mir/NP eren/VS ,/FF en_realitat/RG ,/FF el/DA nucli/NC dur/AQ de/SP Ajoblanco/NP )/FF ,/FF Lluís_Racionero/NP ,/FF María_José_Ragué/NP ,/FF Quim_Monzó/NP ,/FF Santiago_Soler_Amigó/NP ,/FF Juanjo_Fernández/NP ,/FF Jordi_Alemany/NP ,/FF Ramon_Barnils/NP (/FF director/NC davant/SP les/DA autoritats/NC de/SP la/DA revista/NC )/FF ,/FF Ana_Castellar/NP ,/FF Albert/NP Abril/WW ,/FF Maria_Dolls_Nuria_Amat/NP ,/FF Karmele_Marchante/NP ,/FF Federico_Jiménez_Losantos/NP .../FF A/SP ells/PP es/P0 van/VA sumar/VM les/DA contribucions/NC de/SP els/DA lectors/NC de/SP la/DA revista/NC ,/FF fins/RG a/SP 2.000/ZZ a/SP el/DA llarg/AQ de/SP el/DA període/NC 1974-1980/ZZ (/FF segons/SP el/DA càlcul/NC de/SP Ribas/NP ,/FF expressat/VM en/SP una/DI en/SP una/DI entrevista/NC a/SP el/DA diari/NC El_Mundo/NP ,/FF el/DA 12_de_maig_de_2007/WW )/FF ./FF
+En/SP el/DA seu/PX moment/NC de/SP major/AQ èxit/NC (/FF cap/NC a/SP 1977/ZZ )/FF Ajoblanco/NP va/VA comptar/VM amb/SP un_milió/ZZ de/SP lectors/NC ,/FF a_pesar_que/CS les/DA seves/PX estructures/NC mai/RG van/VA arribar/VM a/SP professionalitzar/VM -se/P0 de/SP el/DA tot/PI ./FF
+De/SP fet/NC ,/FF van/VA ser/VS freqüents/AQ les/DA dissensions/NC dintre/RG de/SP la/DA redacció/NC de/SP la/DA revista/NC ,/FF on/PR convivien/VM l'/DA impuls/NC ácrata/AQ de/SP Ribas/NP (/FF que/PR va/VA arribar/VM a/SP afiliar/VM -se/P0 a/SP la/DA CNT/NP )/FF i/CC Racionero/NP ,/FF amb/SP altres/DI membres/NC de/SP l'/DA equip/NC ,/FF més/RG propers/AQ a/SP el/DA comunisme/NC o/CC a/SP el/DA catalanisme/NC ./FF
+A_partir_de/SP 1978/ZZ ,/FF la/DA revista/NC entra/VM en/SP una/DI crisi/NC que/PR s'/P0 accentua/VM quan/CS ,/FF en/SP 1979/ZZ ,/FF Ribas/NP (/FF que/PR pretenia/VM traslladar/VM una/DI part/NC de/SP la/DA redacció/NC a/SP Madrid/NP )/FF abandona/VM Ajoblanco/NP ./FF
+Un/DI any/NC després/RG ,/FF la/DA revista/NC deixa/VM de/SP publicar/VM -se/P0 per_culpa_de/SP els/DA seus/PX problemes/NC financers/AQ i/CC de/SP l'/DA enfrontament/NC entre/SP els/DA seus/PX dos/ZZ gerents/NC ./FF
+Segona/AO etapa/NC ./FF
+Ribas/NP ,/FF que/PR va/VA passar/VM quatre/ZZ anys/NC a/SP Madrid/NP i/CC dos/ZZ més/RG a/SP Londres/NP ,/FF va/VA regressar/VM a/SP Barcelona/NP en/SP 1986/ZZ amb/SP la/DA idea/NC de/SP reobrir/VM Ajoblanco/NP ./FF
+Per/SP a/SP això/PD va/VA contactar/VM amb/SP els/DA altres/DI membres/NC de/SP el/DA triumvirat/NC (/FF Toni_Puig/NP i/CC Fernando_Mir/NP )/FF que/PR van/VA començar/VM a/SP treballar/VM perquè/CS la/DA revista/NC tornés/VM a/SP els/DA kioscs/NC l'/DA octubre_de_1987/WW ./FF
+"/FF Si/CS el/DA primer/AO Ajoblanco/NP va/VA ser/VS el/DA de/SP el/DA descobriment/NC de/SP la/DA identitat/NC ,/FF el/DA segon/NC va/VA ser/VS el/DA de/SP el/DA rigor/NC i/CC el/DA de/SP la/DA lluita/NC "/FF ./FF
+La/DA revista/NC ,/FF en/SP aquesta/DD segona/AO etapa/NC ,/FF es/P0 professionalitza/VM a_través_de/SP la/DA creació/NC d'/SP una/DI empresa/NC editora/AQ (/FF Odeón/NP )/FF i/CC adopta/VM una/DI postura/NC molt/RG crítica/AQ amb/SP els/DA governs/NC de/SP el/DA PSOE/NP a/SP Espanya/NP i/CC de/SP CiU/NP a/SP Catalunya/NP ./FF
+Així/RG ,/FF en/SP 1996/ZZ ,/FF i/CC sense/SP abandonar/VM el/DA seu/PX equipatge/NC llibertari/AQ ,/FF Ajoblanco/NP arriba/VM a/SP un/DI acord/NC de/SP gestió/NC amb/SP Unitat_Editorial/NP (/FF l'/DA empresa/NC editora/AQ de/SP el/DA també/RG crític/AQ amb/SP el/DA PSOE/NP però/CC molt/RG més/RG conservador/AQ El_Mundo/NP )/FF ./FF
+L'/DA aliança/NC va/VA permetre/VM que/CS la/DA revista/NC ,/FF que/PR en/SP aquells/DD dies/NC havia/VA arribat/VM a/SP gran/AQ rellevància/NC a/SP Amèrica_Llatina/NP ,/FF sobrevisqui/VM tres/ZZ anys/NC més/RG a_pesar_de/SP la/DA seva/PX crisi/NC financera/AQ ./FF
+En/SP 1999/ZZ ,/FF el/DA nombre/NC de/SP 125/ZZ de/SP Ajoblanco/NP s'/P0 acomiada/VM de/SP els/DA seus/PX lectors/NC amb/SP la/DA promesa/NC de/SP retrobar/VM -los/PP a/SP internet/NC ./FF
+La/DA pàgina/NC de/SP la/DA revista/NC ,/FF no/RN obstant/VM això/PD ,/FF mai/RG arriba/VM a/SP oferir/VM continguts/NC inèdits/AQ ./FF
+Només/RG en/SP 2004/ZZ ,/FF Ajoblanco/NP va/VA tornar/VM a/SP els/DA kioscs/NC per/SP un_mes/ZZ amb/SP un/DI nombre/NC especial/AQ que/PR incloïa/VM una/DI recopilació/NC de/SP les/DA millors/AQ pàgines/NC de/SP la/DA seva/PX primera/AO època/NC ./FF
+En/SP 2007/ZZ ,/FF José_Ribas/NP publica/VM Los/NP 70/ZZ a/SP destajo/NC (/FF editat/VM per/SP RBA/NP edicions/NC )/FF ,/FF la/DA seva/PX crònica/NC de/SP els/DA anys/NC 70/ZZ i/CC de/SP la/DA primera/AO etapa/NC d/AQ '/FF Ajoblanco/NP ./FF
+Enllaços/NC externs/AQ ./FF
+La/DA història/NC d'/SP Ajoblanco/NP ;/FF
+Les/DA obligacions/NC o/CC bons/NC mobiliaris/AQ són/VS un/DI valor/NC mobiliari/AQ que/PR representa/VM la/DA part/NC alíquota/NC d'/SP un/DI emprèstit/NC i/CC que/PR dóna/VM dret/NC a/SP rebre/VM interessos/NC i/CC a/SP recuperar/VM el/DA capital/NC a/SP el/DA venciment/NC de/SP l'/DA obligació/NC a_partir_de/SP cinc/ZZ anys/NC ./FF
+Els/DA tipus/NC d'/SP obligació/NC que/PR podem/VM trobar/VM són/VS :/FF Obligació/NP amb/SP bo/AQ de/SP compra/NC o/CC warrant/NC :/FF Obligació/NP que/PR s'/P0 emet/VM amb/SP un/DI bo/NC de/SP compra/NC ./FF
+Un/DI bo/NC de/SP compra/NC és/VS una/DI opció/NC de/SP compra/NC sobre/SP accions/NC de/SP l'/DA empresa/NC emissora/AQ de/SP les/DA obligacions/NC ./FF
+En/SP el/DA bo/NC de/SP compra/NC es/P0 fixa/VM el/DA nombre/NC d'/SP accions/NC i/CC el/DA preu/NC de/SP compra/NC ./FF
+Obligació/NC convertible/AQ :/FF Obligació/NC que/PR dóna/VM dret/NC a/SP convertir/VM el/DA seu/PX valor/NC en/SP accions/NC en/SP una/DI data/NC concreta/AQ i/CC segons/SP una/DI relació/NC de/SP conversió/NC ./FF
+Paulí_II/NP (/FF Paulinus/NP ,/FF Paolino/NP )/FF (/FF mort/NC a/SP Aquileia/NP ,/FF 11_de_gener_del_802/WW )/FF ,/FF fou/VS un/DI religiós/NC italià/AQ ./FF
+Fou/VS nomenat/VM bisbe/NC patriarca/NC d'/SP Aquileia/NP el/DA 776/ZZ succeint/VM a/SP Siguald/NP ./FF
+Va/VA compondre/VM alguna/DI poesia/NC amb/SP notes/NC musicals/AQ ./FF
+Va/VA exercir/VM el/DA carrec/NC fins/SP a/SP la/DA seva/PX mort/NC ,/FF i/CC el/PP va/VA succeir/VM Ursus_I._ENDOFARTICLE/NP ./FF
+Carles_Trias_Bertrán/NP és/VS un/DI polític/NC espanyol/AQ ./FF
+Nascut/VM a/SP Barcelona/NP en/SP 1914/ZZ ,/FF va/VA estudiar/VM Dret/NP ./FF
+Pare/NP de/SP els/DA germans/NC Carlos/NP i/CC Eugenio_Trías_Sagnier/NP ,/FF va/VA pertànyer/VM a/SP la/DA burgesia/NC catalana/AQ ./FF
+Va/VA morir/VM en/SP 1969/ZZ ./FF
+Biografia/NP ./FF
+Nasqué/VM a/SP Barcelona/NP ,/FF fill/NC de/SP el/DA dirigent/NC carlí/AQ Bartomeu_Trias/NP i/CC Comas/NP ./FF
+El/DA 1930/ZZ ingressà/VM a/SP les/DA Joventuts_Tradicionalistes/NP i/CC el/DA 1931/ZZ fou/VS sotsecretari/NC de/SP Comunió_Tradicionalista/NP ,/FF que/PR abandonà/VM per/SP ingressar/VM a/SP Falange_Española/NP ,/FF constituïda/VM oficialment/RG el/DA 16_de_juliol_de_1934/WW amb/SP Robert_Bassas_Figa/NP (/FF Cap/NC Provincial/NP )/FF ,/FF José_Ribas_Seva/NP (/FF Cap/NC local/AQ de/SP Barcelona/NP )/FF ,/FF Raimundo_Frouchman_Roger/NP (/FF Secretari/NP local/NC )/FF i/CC Guillermo_Vázquez/NP (/FF Primera/AO Línia/NP local/NC )/FF ./FF
+La/DA seu/NC de/SP la/DA Falange/NP a/SP Barcelona/NP es/P0 va/VA obrir/VM en/SP un/DI local/NC de/SP la/DA //FF C_Rossic/NP nº4/ZZ ,/FF que/PR albergava/VM el/DA Centre_d'_Esports_Olímpics/NP ,/FF i/CC va/VA ser/VS inaugurada/VM per/SP José_Antonio_Primo_de_Rivera/NP el/DA 3_de_maig_de_1935/WW ./FF
+El/DA 1935/ZZ Bassas/NP el/PP nomenà/VM secretari/NC territorial/AQ ,/FF alhora/RG que/CS es/P0 llicenciava/VM en_dret/RG i/CC en/SP administració_pública/NC ./FF
+La/DA primavera/NC de/SP 1936/ZZ fou/VS detingut/VM amb/SP altres/DI dirigents/NC falangistes/AQ ./FF
+Participà/VM en/SP els/DA preparatius/NC de/SP el/DA 18_de_juliol_de_1936/WW a/SP Barcelona/NP i/CC en/SP la/DA sublevació/NC de/SP la/DA caserna/NC de/SP Pedralbes/NP ,/FF tot_i_que/CS no/RN hi/PP arribà/VM a/SP temps/NC per/SP a/SP participar/VM -hi/PP ./FF
+Aleshores/RG es/P0 va/VA amagar/VM i/CC el/DA novembre_de_1936/WW aconseguí/VM fugir/VM en/SP un/DI vaixell/NC cap/NC a/SP Itàlia/NP ,/FF des/SP d'/SP on/PR marxà/VM cap/NC a/SP Burgos/NP ./FF
+Allí/RG José_Ribas/NP el/PP nomenà/VM secretari/NC territorial/AQ de/SP la/DA Falange/NP catalana/AQ ,/FF però/CC el/DA febrer_de_1937/WW ingressà/VM a/SP l'/DA Acadèmia_d'_Alferes_Provisional/NP ;/FF fou/VS enviat/VM a/SP els/DA fronts/NC de/SP Somosierra/NP i/CC Guadalajara/NP ,/FF i/CC el/DA maig_de_1938/WW ingressà/VM a/SP un/DI tabor/NC de/SP Regulares/NP ./FF
+El/DA gener_de_1939/WW fou/VS designat/VM regidor/NC de/SP l'/DA ajuntament/NC de/SP Barcelona/NP i/CC secretari/NC de/SP el/DA Movimiento_Nacional/NP a/SP Girona/NP el/DA 1939-1941/ZZ ./FF
+El/DA 1942/ZZ fou/VS tinent/NC d'/SP alcalde/NC de/SP Barcelona/NP i/CC el/DA 1952/ZZ diputat/NC provincial/AQ ,/FF però/CC el/DA 1955/ZZ no/RN aconseguí/VM ser/VS nomenat/VM consejero/NC nacional/AQ per/SP oposició/NC de/SP el/DA governador/NC civil/AQ ,/FF Felipe_Acedo_Colunga/NP ./FF
+El/DA 1957/ZZ s'/P0 entrevistà/VM personalment/RG amb/SP Francisco_Franco/NP ,/FF a/SP qui/PR presentà/VM greuges/NC i/CC propostes/NC de/SP solució/NC a/SP la/DA situació/NC de/SP Catalunya/NP ./FF
+El/DA 1959/ZZ fou/VS nomenat/VM comissari/NC general/AQ d'/SP Ordenació_Urbana_de_Madrid/NP ,/FF on/PR es/P0 relacionà/VM amb/SP els/DA ministres/NC tecnòcrates/NC Alberto_Ullastres_Calvo/NP i/CC Laureà_López_Rodó/NP ./FF
+Fou/VS obra/NC seva/PX el/DA Plan_General_de_Ordenación_Urbana_de_Madrid/NP ,/FF elaborat/VM amb/SP la/DA col·laboració/NC d'/SP Eduardo_García_de_Enterría/NP i/CC altres/DI ./FF
+El/DA 1967/ZZ fou/VS nomenat/VM Consejero_Nacional_de_el_Movimiento/NP i/CC l'/DA octubre_de_1969/WW fou/VS proposat/VM com/CS a/SP ministre/NC d'/SP Habitatge/NP ,/FF però/CC morí/VM sobtadament/RG abans/RG de/SP poder/VM ocupar/VM el/DA càrrec/NC ./FF
+Sumaríssim/NP 477/37/ZZ ./FF
+En/SP 2004/ZZ ,/FF la/DA Sala_Primera_de_el_Tribunal_Constitucional_d'_Espanya/NP ha/VA desestimat/VM el/DA recurs/NC d'/SP empara/NC presentada/VM per/SP els/DA vuit/ZZ fills/NC de/SP Carlos_Trias_Bertrán/NP ,/FF per/SP l'/DA emissió/NC de/SP el/DA reportatge/NC en/SP TV3/ZZ Sumaríssim/NP 477/ZZ ,/FF elaborat/VM per/SP la/DA historiadora/NC i/CC guionista/NC Dolors_Genovès/NP i/CC Morales/NP ,/FF sobre/SP el/DA Consell_de_Guerra/NP i/CC consegüent/AQ condemna/NC a_mort/RG de/SP el/DA polític/NC català/AQ Manuel_Carrasco/NP i/CC Formiguera/NP ,/FF diputat/NC en/SP les/DA Corts_de_la_II_República/NP i/CC fundador/AQ de/SP el/DA partit/NC Unió_Democràtica_de_Catalunya/NP ,/FF afusellat/VM el/DA 9_d'_abril_de_1938/WW ./FF
+En/SP el/DA reportatge/NC es/P0 reproduïen/VM textos/NC de/SP la/DA declaració/NC de/SP Trías_Bertrán/NP en/SP el/DA judici/NC ./FF
+La/DA sentència/NC de/SP el/DA Tribunal_Constitucional/NP ,/FF de/SP la/DA qual/PR ha/VA estat/VM ponent/VM la/DA magistrada/NC María_Emilia_Casas/NP ,/FF avala/VM l'/DA actuació/NC de/SP TV3/ZZ i/CC la/DA Corporació_Catalana_de_Ràdio/NP i/CC Televisió/NP en/SP aquest/DD cas/NC ,/FF i/CC confirma/VM la/DA sentència/NC dictada/VM per/SP la/DA Sala_Primera_de_el_Tribunal_Suprem_d'_Espanya/NP ./FF
+Sentència/NP ./FF
+Sentència_de_el_Tribunal_Constitucional/NP de/SP 24_de_març_de_2004/WW ;/FF Bibliografia/NP ./FF
+Joan_Maria_Thomàs_Feixistes/NP !/FF
+Viatge/NP a/SP l'/DA interior/NC de/SP el/DA feixisme/NC català/AQ L'_Esfera_de_els_Llibres/NP ,/FF Barcelona/NP ,/FF 2008/ZZ ;/FF
+Per/SP centre/NC s'/P0 entén/VM ,/FF en_general/RG :/FF El/DA més/RG distant/AQ o/CC retirat/VM de/SP la/DA superfície/NC exterior/AQ d'/SP una/DI cosa/NC ./FF ;/FF Lloc/NP d'/SP on/PR surten/VM o/CC a_on/RG convergeixen/VM accions/NC particulars/AQ coordenades/NC ./FF
+A/SP Colòmbia/NP :/FF província/NC de/SP el/DA Departament_de_el_Cauca/NP ;/FF A_Cuba/NP :/FF terno/NC de/SP pantaló/NC ,/FF camisa/NC i/CC armilla/NC ./FF
+Seient/NP ,/FF peça/NC de/SP tela/NC ./FF
+A/SP Hondures/NP i/CC Mèxic/NP :/FF armilla/NC ;/FF Centre/NP (/FF com/CS lloc/NC de/SP reunió/NC )/FF :/FF punt/NC on/PR habitualment/RG es/P0 reuneixen/VM els/DA membres/NC d'/SP una/DI societat/NC o/CC corporació/NC ./FF
+Centre/NP (/FF àlgebra/NC )/FF ;/FF Centre/NP (/FF geometria/NC )/FF ;/FF Centre/NP d'/SP una/DI ciutat/NC :/FF el/DA punt/NC o/CC els/DA carrers/NC més/RG concorregudes/VM d'/SP una/DI població/NC ./FF
+Centre/NC polític/AQ :/FF tendència/NC o/CC agrupació/NC política/AQ la/DA ideologia/NC de/SP la/DA qual/PR és/VS un/DI entremig/NC entre/SP la/DA dreta/NC i/CC l'/DA esquerra/NC ./FF
+Centre/NP :/FF passi/VM de/SP pilota/NC des/SP d'/SP una/DI banda/NC a/SP el/DA centre/NC ./FF
+Centre/NP de/SP gravetat/NC ;/FF Centre/NP nerviós/AQ ;/FF Centre/NP òptic/NC ;/FF Centre/NP comercial/AQ ;/FF Centres/NP d'/SP interès/NC (/FF mètode/NC pedagògic/AQ )/FF ;/FF Divisions/NP administratives/AQ ./FF
+La/DA regió/NC francesa/AQ de/SP Centre/NP (/FF Centre/NP )/FF ./FF
+El/DA Districte_Centre/NP de/SP la/DA ciutat/NC de/SP Madrid/NP (/FF Espanya/VM )/FF ./FF
+El/DA Barri_Centre/NP de/SP la/DA ciutat/NC de/SP Getafe/NP (/FF Espanya/VM )/FF ./FF
+El/DA Centre/NP ,/FF barri/NC de/SP la/DA ciutat/NC de/SP Montevideo/NP (/FF Uruguay/NP )/FF ./FF
+Vegeu/VM també/RG ./FF
+Central/NP ;/FF
+Carlos_Trías_Sagnier/NP (/FF Barcelona/NP ,/FF 1946/ZZ -/FF 2007/ZZ )/FF fou/VS un/

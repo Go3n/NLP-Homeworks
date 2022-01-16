@@ -15404,4 +15404,95 @@ Gauß/NP va/VA estudiar/VM filologia/NC alemanya/AQ a/SP Salzburg/NP i/CC comen�
 Des_de/SP el/DA 1991/ZZ ,/FF Gauß/NP és/VS editor/NC de/SP la/DA revista/NC literària/AQ Literatur/NP und/AQ Kritik/NP de/SP l'/DA editorial/NC Otto_Müller_Verlag_de_Salzburg/NP ./FF
 Els/DA seus/PX temes/NC personals/AQ es/P0 mostren/VM també/RG a/SP la/DA revista/NC ./FF
 A/SP més/RG ,/FF escriu/VM articles/NC i/CC assaigs/NC per/SP a/SP diaris/NC i/CC revistes/NC a/SP tots/DI els/DA països/NC germanòfons/NC ,/FF per_exemple/RG per/SP a/SP Die_Zeit/NP ,/FF Frankfurter_Allgemeine_Zeitung/NP ,/FF Neue_Zürcher_Zeitung/NP ,/FF Salzburger_Nachrichten/NP i/CC Die_Presse/NP ./FF
-Des_de/SP el/DA 2006/ZZ ,/FF Karl-Markus_Gauß/NP és/VS membre/NC de/SP l'/DA Acadèmia_Alemanya/NP 
+Des_de/SP el/DA 2006/ZZ ,/FF Karl-Markus_Gauß/NP és/VS membre/NC de/SP l'/DA Acadèmia_Alemanya/NP per/SP a/SP la/DA Llengua/NP i/CC la/DA Literatura/NP (/FF Deutsche_Akademie/NP für/VM Sprache/NP und/AQ Dichtung/NP )/FF ,/FF i/CC el/DA 2007/ZZ fou/VS proclamat/VM doctor/NC honoris/VM causae/VM per/SP la/DA universitat/NC de/SP Salzburg/NP ./FF
+Obra/NC ./FF
+Gauß/NP és/VS conegut/VM sobretot/RG per/SP els/DA seus/PX assaigs/NC ./FF
+Escriu/VM per/SP a/SP un/DI món/NC humà/AQ i/CC mostra/NC amb/SP molta/DI ironia/NC les/DA paradoxes/NC i/CC les/DA perversions/NC de/SP la/DA vida/NC moderna/AQ ./FF
+Molts/PI de/SP els/DA seus/PX llibres/NC descriuen/VM minories/NC i/CC ètnies/NC ,/FF sobretot/RG de/SP l'/DA Europa/NP oriental/AQ ./FF
+Els/DA seus/PX assaigs/NC i/CC els/DA seus/PX llibres/NC de/SP viatges/NC han/VA presentat/VM a/SP el/DA públic/NC alemany/AQ nombrosos/AQ escriptors/NC de/SP els/DA països/NC de/SP el/DA centre/NC i/CC l'/DA est/NC d'/SP Europa/NP ./FF
+Premis/NP ./FF
+2007/ZZ Mitteleuropa-Preis/NP ;/FF 2006/ZZ Georg_Dehio-Buchpreis/NP ;/FF 2005/ZZ Manès-Sperber-Preis_Viena/NP ;/FF 2004/ZZ René-Marcic-Preis/NP ;/FF 2001/ZZ Ehrenpreis/NP des/SP österreichischen/NC Buchhandels/NP für/VM Toleranz/NP in/VM Denken/NP und/AQ Handeln/NP ;/FF 1998/ZZ Bruno-Kreisky-Preis/NP für/AQ das/VM politische/VM Buch/NP per/SP a/SP Ins/NP unentdeckte/AQ Österreich/NC ;/FF 1997/ZZ Europäischer_Essaypreis_Charles_Veillon/NP per/SP a/SP Das_Europäische_Alphabet/NP ;/FF 1994/ZZ Österreichischer/NC Staatspreis/NP für/AQ Kulturpublizistik/NP ;/FF 1994/ZZ Buchprämie/NP des/SP Bundesministeriums/NP für/VM Unterricht/NP und/AQ Kunst/NP ;/FF 1992/ZZ Literaturstipendium/NP der/AQ Stadt_Salzburg/NP ;/FF 1989/ZZ Buchprämie/NP des/SP Bundesministeriums/NP für/VM Unterricht/NP und/AQ Kunst/NP ;/FF 1988/ZZ Staatsstipendium/NP des/SP Bundesministeriums/NP für/VM Unterricht/NP und/AQ Kunst/NP ;/FF 1987/ZZ Internationaler_Preis/NP von/AQ Portoroz/NP für/AQ Essayistik/NP ;/FF Obra/NP traduïda/VM a/SP el/DA català/NC ./FF
+Europeus/AQ en/SP extinció/NC ./FF
+Trad/VM ./FF
+Meritxell_Serra/NP ./FF
+Barcelona/NP ,/FF Símbol/NP editors/AQ ,/FF 2007/ZZ ISBN/NP 978-84-95987-52-5/ZZ ;/FF Obres/NP en/SP alemany/NC (/FF tria/NC )/FF ./FF
+Die/NP versprengten/VM Deutschen/NP ./FF
+Unterwegs/NP in/VM Litauen/NP ,/FF durch/NC die/NC Zips/NP und/AQ am/NC Schwarzen_Meer/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 2005/ZZ ISBN/NP 3-552-05354-9/ZZ ;/FF Wirtshausgespräche/NP in/VM der/VM Erweiterungszone/NP ./FF
+Otto_Müller_Verlag/NP ,/FF Salzburg/NP 2005/ZZ ISBN/NP 3-7013-1102-1/ZZ ;/FF Die_Hundeesser/NP von/VM Svinia/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 2004/ZZ ISBN/NP 3-552-05292-5/ZZ ;/FF Von/NP nah/NC ,/FF von/VM fern/NC ./FF
+Ein_Jahresbuch/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 2003/ZZ ISBN/NP 3-552-05286-0/ZZ ;/FF Mit/NP mir/VM ,/FF ohne/AQ mich/NC ./FF
+Ein_Journal/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 2002/ZZ ISBN/NP 3-552-05181-3/ZZ ;/FF Kurt_Kaindl/NP :/FF Die/NP unbekannten/VM Europäer/NP ./FF
+Fotoreise/NP zu/RG den/VM Aromunen/NP ,/FF Sepharden/NP ,/FF Gottscheern/NP ,/FF Arbëreshe/NP und/AQ Sorben/NP ./FF
+Mit_Texten/NP von/VM Karl-Markus_Gauß/NP ./FF
+Otto_Müller_Verlag/NP ,/FF Salzburg/NP 2002/ZZ ISBN/NP 3-7013-1060-2/ZZ ;/FF Die/NP sterbenden/VM Europäer/NP ./FF ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 2001/ZZ ISBN/NP 3-552-05158-9/ZZ ;/FF Der_Mann/NP ,/FF der/VM ins/RG Gefrierfach/NP wollte/NC ./FF
+Albumblätter/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 1999/ZZ ISBN/NP 3-552-04936-3/ZZ ;/FF Ins/NP unentdeckte/NC Österreich/NC ./FF
+Nachrufe/NP und/AQ Attacken/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 1998/ZZ ISBN/NP 3-552-04878-2/ZZ ;/FF Das/NP europäische/VM Alphabet/NP ./FF
+Paul_Zsolnay_Verlag/NP ,/FF Viena/NP 1997/ZZ ISBN/NP 3-552-04827-8/ZZ ;/FF Inge_Morath/NP :/FF Donau/VM ./FF
+Mit/NP einem/VM Essay/NP von/VM Karl-Markus_Gauß/NP ./FF
+Otto_Müller_Verlag/NP ,/FF Salzburg/NP 1995/ZZ ISBN/NP 3-7013-0916-7/ZZ ;/FF Ritter/NP ,/FF Tod/NP und/AQ Teufel/NP ./FF
+Essay/NP ./FF
+Wieser_Verlag/NP ,/FF Klagenfurt/NP 1994/ZZ ISBN/NP 3-85129-149-2/ZZ ;/FF Die_Vernichtung_Mitteleuropas/NP ./FF
+Essays/NP ./FF
+Wieser_Verlag/NP ,/FF Klagenfurt/NP 1991/ZZ ISBN/NP 3-85129-043-7/ZZ ;/FF Der/NP wohlwollende/NC Despot/NP ./FF
+Über/NP die/NC Staatsschattengewächse/NP -/FF Essay/NP ./FF
+Wieser_Verlag/NP ,/FF Klagenfurt/NP 1989/ZZ ISBN/NP 3-85129-018-6/ZZ ;/FF Tinte/NP ist/VM bitter/NC ./FF
+Literarische_Porträts/NP aus/NC Barbaropa/NP -/FF Essays/NP ./FF
+Wieser_Verlag/NP ,/FF Klagenfurt/NP 1988/ZZ ISBN/NP 3-85129-003-8/ZZ ;/FF Wann/NP endet/VM die/NC Nacht/NP ./FF
+Über_Albert_Ehrenstein/NP -/FF ein/VM Essay/NP ./FF
+Edition_Moderne/NP ,/FF Zuric/NP 1986/ZZ ISBN/NP 3-907010-24-8/ZZ ;/FF Zu/NP früh/NC ,/FF zu/VM spät/RG ,/FF Zsolnay_Verlag/NP 2007/ZZ ,/FF Viena_ISBN/NP 3-552-05397-2/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Informació/NP sobre/SP Europeus/NP en/SP extinció/NC a/SP el/DA lloc/NC web/NC de/SP Símbol/NP editors/NC ;/FF Otto_Müller_Verlag/NP ,/FF Salzburg/NP ;/FF Wieser_Verlag/NP ,/FF Klagenfurt/NP ;/FF Paul_Zsolnay_Verlag/NP ,/FF Wien/NP ;/FF Georg_Dehio-Buchpreis/NP 2006/ZZ ;/FF
+L'/DA índex/NC FTSE/NP 100/ZZ ,/FF pronunciat/VM popularment/RG com/CS Footsie/NP 100/ZZ ,/FF és/VS publicat/VM per/SP el/DA Financial_Times/NP ./FF
+El/DA composen/VM els/DA 100/ZZ principals/AQ valors/NC (/FF "/FF blue/RG chips/NC "/FF )/FF de/SP la/DA Borsa_de_Londres/NP (/FF London_Stock_Exchange/NP )/FF ./FF
+Ftse/NP és/VS un/DI acrònim/NC de/SP Financial_Times_Stock_Exchange/NP ./FF
+El/DA principal/AQ indicador/NC de/SP el/DA FTSE/NP 100/ZZ és/VS el/DA FTSE/NP 100/ZZ Index/NP ./FF
+L'/DA índex/NC var/VM ser/VS desenvolupat/VM amb/SP un/DI nivell/NC base/NC de/SP 1000/ZZ a/SP data/NC 3_de_gener_de_1984/WW La/NP capitalització/NC de/SP les/DA empreses/NC que/PR composen/VM l'/DA índex/NC suposa/VM el/DA 70_%/ZZ de/SP el/DA valor/NC total/AQ de/SP el/DA mercat/NC ./FF
+Els/DA valors/NC ponderen/VM per/SP el/DA criteri/NC de/SP capitalització/NC ./FF
+Es/P0 revisa/VM trimestralment/RG ,/FF el/DA primer/AO divendres/WW de/SP març/WW ,/FF juny/WW ,/FF setembre/WW i/CC desembre/WW ./FF
+Les/DA sessions/NC es/P0 desenvolupen/VM de/SP dilluns/WW a/SP divendres/WW ./FF
+Cintra/NP ,/FF S.A./NP (/FF Concesiones_de_Infraestructuras_de_Transporte/NP )/FF és/VS un/DI operador/NC internacional/AQ d'/SP autopistes/NC de/SP peatge/NC ,/FF d'/SP aparcaments/NC i/CC d'/SP estacionament/NC regulat/VM ./FF
+Les/DA seves/PX accions/NC es/P0 negocien/VM a/SP la/DA Borsa_de_Madrid/NP i/CC formen_part/VM de/SP l'/DA índex/NC Ibex/NP 35/ZZ ./FF
+El/DA principal/AQ accionista/NC de/SP Cintra/NP és/VS Ferrovial/NP amb/SP un/DI 62.5_%/ZZ ./FF
+Les/DA carreteres/NC operades/VM per/SP Cintra/NP inclouen/VM l'/DA Autopista/NP 407/ZZ (/FF Ontario/NP )/FF ,/FF Chicago_Skyway/NP ,/FF la/DA carretera/NC de/SP peatge/NC d'/SP Indiana/NP i/CC nombroses/AQ carreteres/NC espanyoles/AQ ./FF
+Autopistes/NP dirigides/VM per/SP Cintra/NP ./FF
+Ausol/NP -/FF Ausol/NP ;/FF Autema/NP -/FF Autema/NP ;/FF Autopista/NP M-45/ZZ -/FF Autopista/NC M-45/ZZ ;/FF Autopista_R/NP -/FF 4/ZZ -/FF Autopista_R/NP -/FF 4/ZZ ;/FF Autopista_Madrid-Levante/NP -/FF Autopista_Madrid-Levante/NP ;/FF Autopista/NP M-203/ZZ ;/FF Eurolink/NP M4/ZZ -/FF Eurolink/NP M4/ZZ ;/FF 407/ZZ ETR/NP -/FF 407/ZZ ETR/NP ;/FF Euroscut_Algarve/NP ;/FF Euroscut_Norte_Litoral/NP ;/FF Chicago_Skyway/NP -/FF Chicago_Skyway/NP ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NP oficial/AQ de/SP Cintra/NP ;/FF Pàgina/NP oficial/AQ de/SP Cintra_Aparcaments/NP ;/FF Segon/NP enllaç/VM a/SP la/DA Pàgina/NP oficial/AQ de/SP Cintra_Aparcaments/NP ;/FF
+Joan_Pujol_Fontanet/NP és/VS el/DA nom/NC de/SP el/DA bandoler/NC de/SP les/DA Terres_de_el_Sud_de_Catalunya/NP ./FF
+Va/VA néixer/VM a/SP Alfara_de_Carles/NP el/DA 23_d'_abril_de_1857/WW i/CC morí/VM el/DA 16_de_juny_del_1883/WW ./FF
+Amb/SP el/DA malnom/NC de/SP "/FF Panxampla/NP "/FF era/VS famós/AQ i/CC conegut/NC per/SP els/DA pobles/NC d/AQ '/FF Alfara_de_Carles/NP ,/FF Reguers/NP ,/FF Beseit/NP i/CC per/SP les/DA muntanyes/NC de/SP els/DA Ports/NP i/CC fins_i_tot/RG a/SP les/DA terres/NC a/SP Espanya/NP ./FF
+Va/VA ser/VS sotmès/VM a/SP un/DI Consell_de_Guerra/NP i/CC sentenciat/NC a_mort/RG per/SP haver/VA ferit/VM un/DI guàrdia-civil/AQ ,/FF en/SP una/DI de/SP les/DA nombroses/AQ escaramusses/NC hagudes/VM per/SP els/DA Ports_de_Tortosa-Beseit/NP ./FF
+Després/RG d'/SP un/DI crim/NC de/SP taverna/NC que/PR probablement/RG no/RN havia/VA comès/VM ell/PP ,/FF fugí/VM a/SP la/DA muntanya/NC ,/FF on/PR s'/P0 amagà/VM i/CC sobrevisqué/VM uns/DI tres/ZZ anys/NC ./FF
+Finalment/RG va/VA passar/VM a/SP França/NP on/PR va/VA romandre/VM dos/ZZ anys/NC com/CS a/SP soldat/NC carlí/AQ exiliat/NC ./FF
+Va/VA conèixer/VM Victorine/NP ,/FF i/CC tingueren/VM un/DI fill/NC ./FF
+Fou/VS pres/VM per/SP dos/ZZ gendarmes/NC i/CC dos/ZZ guàrdia-civils/NC a/SP un/DI cafè/NC de/SP Carcassona/NP ,/FF el/DA 7_de_desembre_de_1882/WW ./FF
+Fou/VS afusselat/VM per/SP un/DI escamot/NC de/SP soldats/NC a/SP el/DA costat/NC de/SP la/DA porta/NC de/SP Sant_Antoni/NP a/SP la/DA ciutat/NC de/SP Tarragona/NP el/DA dia_16_de_juny_de_1883_a_les_8_del_matí/WW ./FF
+Segons/SP Vergés_Paulí/NP ,/FF Panxampla/NP "/FF feia/VM anar/VM esparverats/VM els/DA masovers/NC de/SP les/DA muntanyes/NC de/SP els/DA Ports/NP ,/FF tot_i_que/CS hi/PP havia/VA gent/NC que/PR el/PP defensava/VM ja_que/CS només/RG tenia/VM "/FF males/AQ entranyes/NC "/FF per/SP a/SP els/DA rics/NC i/CC per/SP a/SP els/DA que/PR el/PP perseguien/VM i/CC en_canvi/RG tenia/VM bon/AQ cor/NC per/SP a/SP els/DA pobres/NC "/FF ./FF
+Conta/VM la/DA tradició/NC oral/AQ que/PR només/RG portava/VM una/DI manta/NC ,/FF un/DI trabuc/NC i/CC un/DI punyal/NC ./FF
+Es/P0 pot/VM dir/VM que/CS la/DA seva/PX història/NC o/CC llegenda/NC sempre/RG ha/VA estat/VS present/AQ per/SP els/DA pobles/NC on/PR es/P0 va/VA moure/VM ,/FF fins_i_tot/RG el/DA grup/NC de/SP cantautors/NC de/SP les/DA Terres_de_l'_Ebre_Quico_el_Célio/NP ,/FF el/DA Noi/NP i/CC el/DA Mut_de_Ferreries/NP té/VM en/SP el/DA seu/PX repertori/NC una/DI cançó/NC dedicada/VM a/SP la/DA figura/NC de/SP el/DA bandoler/NC més/RG conegut/VM de/SP el/DA sud/NC de/SP Catalunya/NP ./FF
+Referències/NP ./FF
+Una/DI magnetosfera/NC és/VS una/DI regió/NC a/SP el/DA voltat/VM d'/SP un/DI objecte/NC astronòmic/AQ on/PR el/DA seu/PX camp/NC magnètic/AQ actua/VM com/CS escut/NC modificant/VM o/CC organitzant/VM les/DA partícules/NC carregades/NC d'/SP alta/AQ energia/NC procedents/AQ de/SP el/DA Sol/NP ./FF
+La/DA Terra/NP està/VM envoltada/VM per/SP una/DI magnetosfera/NC ,/FF com/CS també/RG ho/PP estan/VM els/DA planetes/NC Júpiter/NP ,/FF Saturn/NP ,/FF Urà/NP i/CC Neptú/NP ./FF
+Mercuri/NP i/CC la/DA lluna/NC de/SP Júpiter_Ganimedes/NP tenen/VM una/DI magnetosfera/NC massa/RG feble/AQ per/SP a/SP poder/VM atrapar/VM plasma/NC ./FF
+Mart/NP té/VM una/DI magnetosfera/NC de/SP superfície/NC irregular/AQ ./FF
+El/DA terme/NC magnetosfera/NC també/RG pot/VM descriure/VM les/DA regions/NC dominades/VM per/SP camp/NC magnètics/AQ d'/SP objectes/NC estel·lars/AQ ,/FF per_exemple/RG pulsars/AQ ./FF
+Història/NP de/SP la/DA física/NC magnetosfèrica/AQ ./FF
+La/DA magnetosfera/NC terrestre/AQ va/VA ser/VS descoberta/VM el/DA 1958/ZZ per/SP l'/DA Explorer/NP 1/ZZ ./FF
+Abans/RG es/P0 pensava/VM que/CS hi/PP havia/VA corrrents/NC elèctric/AQ fluint/VM per/SP l'/DA espai/NC ,/FF perquè/CS algunes/DI vegades/NC les/DA erupcions/NC solars/AQ produïen/VM a/SP tempestes/NC magnètiques/AQ a/SP la/DA Terra/NP ./FF
+Es/P0 desconeixia/VM d'/SP on/PT i/CC perquè/CS fluïen/VM ,/FF inclús/RG es/P0 desconeixia/VM l'/DA existència/NC de/SP el/DA vent/NC solar/AQ ./FF
+Va/VA ser/VS a/SP el/DA 1959/ZZ quan/PR Thomas_Gold/NP va/VA proposar/VM el/DA nom/NC magnetosfera/NC a/SP la/DA regió/NC per/SP sobre/SP de/SP la/DA ionosfera/NC i/CC fins/SP una/DI distància/NC de/SP 10/ZZ vegades/NC el/DA radi/NC de/SP la/DA Terra/NP ./FF
+Journal_Geophysical_Results_LXIV/NP ./FF 1219/1/ZZ Magnetosfera/NP terrestre/AQ ./FF
+La/DA magnetosfera/NC forma_part/VM de/SP l'/DA exosfera/NC ,/FF la/DA part/NC més/RG externa/AQ i/CC àmplia/AQ de/SP l'/DA atmosfera/NC terrestre/AQ ./FF
+Comença/VM a/SP uns/DI 500_km/ZZ d'/SP altura/NC ,/FF per/SP sobre/SP de/SP la/DA ionosfera/NC ,/FF on/PR les/DA partícules/NC ionitzades/VM de/SP l'/DA atmosfera/NC interaccionen/VM amb/SP major/AQ intensitat/NC amb/SP el/DA camp/NC magnètic/AQ terrestre/AQ ./FF
+La/DA magnetosfera/NC interacciona/VM amb/SP el/DA vent/NC solar/AQ en/SP una/DI regió/NC denominada/VM magnetopausa/NC que/PR es/P0 troba/VM a/SP uns/DI 60.000_km/ZZ de/SP la/DA Terra/NP en/SP direcció/NC Terra-Sol/NP i/CC a/SP molta/DI major/AQ distància/NC en/SP direcció/NC oposada/VM ./FF
+Per/SP davant/RG de/SP la/DA magnetopausa/NC es/P0 troba/VM la/DA superfície/NC de/SP xoc/NC entre/SP el/DA vent/NC solar/AQ i/CC el/DA camp/NC magnètic/AQ ./FF
+En/SP aquesta/DD regió/NC el/DA plasma/NC solar/AQ es/P0 frena/VM ràpidament/RG abans/RG de/SP ser/VS desviat/VM per/SP la/DA resta/NC de/SP la/DA magnetosfera/NC ./FF
+Les/DA partícules/NC carregades/NC de/SP el/DA vent/NC solar/AQ són/VS arrossegades/NC per/SP el/DA camp/NC magnètic/AQ sobre/SP els/DA pols/NC magnètics/AQ donant/VM lloc/NC a/SP la/DA formació/NC d'/SP aurores/NC polars/AQ ,/FF boreals/AQ en/SP l'/DA hemisferi/NC nord/AQ i/CC australs/AQ en/SP l'/DA hemisferi/NC sud/AQ ./FF
+En/SP el/DA costat/NC no/RN il·luminat/NC les/DA línies/NC de/SP camp/NC es/P0 deformen/VM i/CC allarguen/VM arrossegades/NC per/SP el/DA vent/NC solar/AQ arribant/VM a/SP una/DI grandària/NC de/SP 300.000_km/ZZ en/SP direcció/NC oposada/VM a/SP el/DA Sol/NP ./FF
+A/SP uns/DI pocs/DI milers/NC de/SP km/NC de/SP la/DA superfície/NC terrestre/AQ es/P0 troba/VM una/DI regió/NC en/SP l'/DA equador/NC magnètic/AQ en/SP el/DA qual/PR moltes/PI de/SP les/DA partícules/NC carregades/NC són/VS atrapades/VM i/CC accelerades/VM formant/VM els/DA cinturons/NC de/SP Van_Allen/NP o/CC cinturons/NC de/SP radiació/NC ./FF
+Alguns/DI científics/NC pensen/VM que/CS sense/SP la/DA magnetosfera/NC la/DA Terra/NP hagués/VA perdut/VM la/DA majoria/NC de/SP l'/DA aigua/NC de/SP l'/DA atmosfera/NC i/CC els/DA oceans/NC en/SP l'/DA espai/NC ,/FF a_causa_de/SP l'/DA impacte/NC de/SP partícules/NC energètiques/AQ que/PR dissociarien/VM els/DA àtoms/NC d'/SP hidrogen/NC i/CC oxigen/NC permetent/VM escapar/VM els/DA lleugers/AQ àtoms/NC d'/SP hidrogen/NC ,/FF amb/SP la/DA qual/DR cosa/NC el/DA planeta/NC se/P0 semblaria/VM molt/RG més/RG a/SP Mart/NP ./FF
+S'/P0 estima/VM que/CS aqu

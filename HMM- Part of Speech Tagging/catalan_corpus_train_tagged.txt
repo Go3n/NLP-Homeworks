@@ -15170,4 +15170,80 @@ El/DA Barri_Centre/NP de/SP la/DA ciutat/NC de/SP Getafe/NP (/FF Espanya/VM )/FF
 El/DA Centre/NP ,/FF barri/NC de/SP la/DA ciutat/NC de/SP Montevideo/NP (/FF Uruguay/NP )/FF ./FF
 Vegeu/VM també/RG ./FF
 Central/NP ;/FF
-Carlos_Trías_Sagnier/NP (/FF Barcelona/NP ,/FF 1946/ZZ -/FF 2007/ZZ )/FF fou/VS un/
+Carlos_Trías_Sagnier/NP (/FF Barcelona/NP ,/FF 1946/ZZ -/FF 2007/ZZ )/FF fou/VS un/DI escriptor/NC català/AQ en/SP llengua/NC castellana/AQ ,/FF fill/NC de/SP el/DA polític/NC falangista/AQ Carlos_Trías_Beltran/NP i/CC germà/NC de/SP el/DA filòsof/NC Eugenio_Trías_Sagnier/NP i/CC el/DA polític/AQ Jorge_Trías_Sagnier/NP ./FF
+Pertanyia/VM a/SP l'/DA alta/AQ burgesia/NC catalana/AQ ./FF
+Es/P0 va/VA llicenciar/VM en_Dret/RG ,/FF encara/RG que/CS mai/RG exerciria/VM ./FF
+Casat/NP amb/SP Cristina_Fernández_Cubas/NP ,/FF en/SP 1972/ZZ va/VA publicar/VM la/DA seva/PX primera/AO novel·la/NC ,/FF El/NP juego/VM de/SP el/DA lagarto/NC ,/FF a/SP Barral_Editors/NP ,/FF l'/DA editorial/NC de/SP el/DA poeta/NC i/CC polític/AQ Carlos_Barral/NP ./FF
+Va/VA morir/VM d'/SP un/DI càncer/NC de/SP pulmó/NC el/DA 19_d'_agost_de_2007/WW ./FF
+Obres/NC ./FF
+El/DA juego/NC de/SP el/DA lagarto/NC (/FF Barral/NP ,/FF 1972/ZZ )/FF ;/FF Hoy/NP he/VA decidido/NC (/FF Lumen/NP ,/FF 1974/ZZ )/FF ./FF
+¿/FF Qué/NP son/NC las/AQ organizaciones/NC marxistas-leninistas/NC ?/FF (/FF La/DA Gaya_Ciencia/NP ,/FF 1977/ZZ )/FF ./FF
+El/DA encuentro/NC (/FF 1985/ZZ )/FF ./FF
+El/DA círculo/NC de/SP la/DA luz/RG (/FF 1985/ZZ )/FF ;/FF Viaje/NP a/SP Delfos/NP (/FF Tusquets/NP ,/FF 1994/ZZ )/FF ./FF
+El/DA ausente/NC ,/FF premi/NC Juan_March_Cencillo/NP ,/FF (/FF 2001/ZZ )/FF ./FF
+Entre/SP les/DA seves/PX traduccions/NC destaca/VM la/DA de/SP La_Orestiada_d'_Èsquil/NP ,/FF que/PR també/RG adaptà/VM per/SP a/SP un/DI muntatge/NC teatral/AQ de/SP Mario_Gas/NP ./FF
+Necrològica/NP ./FF
+Carlos_Trías/NP ,/FF In_memoriam_per_Mario_Gas_ENDOFARTICLE/NP ./FF
+En/SP matemàtiques/NC ,/FF es/P0 diu/VM que/CS un/DI operador/NC té/VM la/DA propietat/NC distributiva/AQ sobre/SP un/DI operador/NC ,/FF o/CC que/CS és/VS distributiu/AQ respecte/NC de/SP en/SP un/DI conjunt/NC E/NP si/CS per/SP a/SP tots/DI x/NC ,/FF y/NC ,/FF z/RG de/SP E/NP ,/FF es/P0 tenen/VM les/DA propietats/NC següents/AQ :/FF (/FF distributiva/AQ a/SP la/DA dreta/NC )/FF ;/FF (/FF distributiva/AQ a/SP l/NC esquerra/NC )/FF ;/FF En/NP el/DA conjunt/NC R/NP ./FF
+Per_exemple/RG ,/FF en/SP el/DA conjunt/NC de/SP els/DA reals/NC ,/FF la/DA multiplicació/NC és/VS distributiva/AQ respecte/NC de/SP la/DA suma/NC (/FF és/VS un/PI de/SP els/DA axiomes/NC de/SP l/NC estructura/NC d/NC anell/NC )/FF :/FF I/CC igualment/RG :/FF de/SP el/DA fet/NC de/SP passar/VM de/SP el/DA producte/NC d/AQ un/DI nombre/NC per/SP la/DA suma/NC d/RG altres/DI dos/ZZ a/SP la/DA suma/NC de/SP dos/ZZ productes/NC se/P0 n/NC diu/VM desenvolupar/VM l'/DA expressió/NC ./FF
+Si/CS s/NC escriu/VM la/DA identitat/NC en/SP l/NC altre/DI sentit/NC ,/FF llavors/RG se/P0 n/NC diu/VM treure/VM el/DA factor/NC comú/AQ :/FF ;/FF Aquí/NP s/NC ha/VA tret/VM el/DA factor/NC comú/AQ a/SP ./FF
+Exemple/NC numèric/AQ :/FF Vegeu/VM també/RG ./FF
+Propietat/NC commutativa/AQ ;/FF Propietat/NP associativa/AQ ;/FF
+Poppó/NP o/CC Poppó_de_Caríntia/NP (/FF italià/AQ :/FF Poppone/NP di/VM Carinzia/NP )/FF ,/FF de/SP nom/NC secular/AQ Wolfgang/NP von/VM Treffen/NP (/FF ?/FF 1042/ZZ )/FF fou/VS un/DI bisbe/NC alemany/AQ ,/FF que/PR fou/VS patriarca/NC d'/SP Aquileia/NP de/SP el/DA 1019/ZZ a/SP el/DA 1045/ZZ ./FF
+El/DA va/VA nomenar/VM l'/DA emperador/NC Enric_II/NP i/CC va/VA substituir/VM a/SP Joan_IV_de_Ravenna/NP ;/FF va/VA acompanyar/VM s/NC l'/DA emperador/NC durant/SP l'/DA expedició/NC imperial/AQ a/SP Itàlia/NP el/DA 1022/ZZ ./FF
+Era/VS probablement/RG nebot/NC de/SP l'/DA emperador/NC Conrat_II/NP que/PR li/PP va/VA concedir/VM un/DI extens/AQ domini/NC de/SP el/DA riu/NC Isonzo/NP a/SP el/DA riu/NC Livenza/NP ,/FF verdader/AQ origen/NC de/SP el/DA poder/NC temporal/AQ de/SP el/DA patriarcat/NC ;/FF va/VA obtenir/VM també/RG de/SP l'/DA emperador/NC el/DA dret/NC de/SP recaptar/VM les/DA taxes/NC i/CC de/SP fer/VM moneda/NC (/FF unes/DI monedes/NC de/SP plata/NC de/SP el/DA mateix/DI valor/NC que/PR la/DA lira/NC veronesa/AQ )/FF ./FF
+Va/VA provar/VM de/SP sotmetre/VM a/SP el/DA patriarca/NC de/SP Grado/NP ,/FF assaltant/NC ,/FF a/SP el/DA front/NC de/SP el/DA seu/PX exèrcit/NC ,/FF l'/DA illa/NC de/SP Grado/NP (/FF 1024/ZZ )/FF que/PR va/VA conquerir/VM i/CC saquejar/VM ,/FF pero/NC finalment/RG Venècia/NP va/VA exercir/VM pressions/NC sobre/SP l'/DA emperador/NC Conrat/NP i/CC va/VA aconseguir/VM la/DA seva/PX retirada/NC ,/FF però/CC el/DA Papa_Joan_XIX/NP li/PP va/VA concedir/VM la/DA dependència/NC de/SP Grado/NP de/SP el/DA seu/PX patriarcat/NC ./FF
+Va/VA fer/VM grans/AQ construccions/NC i/CC va/VA encoratjar/VM el/DA comerç/NC ./FF
+Va/VA expandir/VM el/DA sistema/NC feudal/AQ a/SP el/DA Friul/NP cedint/VM castells/NC i/CC terres/NC ,/FF i/CC va/VA donar_suport/VM a/SP la/DA reconstrucció/NC d'/SP esglésies/NC i/CC monestirs/NC ./FF
+Va/VA reconstruir/VM la/DA basílica/NC d'/SP Aquileia/NP el/DA 1031/ZZ ./FF
+El/DA 1044/ZZ el/DA papa/NC Benet_IX/NP li/PP va/VA retirar/VM la/DA supremacia/NC sobre/SP el/DA patriarcat/NC de/SP Grado/NP ./FF
+Llavors_Poppone/NP va/VA atacar/VM altre/DI cop/NC Grado/NP ,/FF va/VA incendiar/VM cases/NC i/CC esglésies/NC i/CC va/VA assolar/VM el/DA país/NC ./FF
+Poppone/NP va/VA tenir/VM presoner/AQ a/SP el/DA arquebisbe/NC de/SP Milà/NP ,/FF Aribert/NP ,/FF per/SP orde/NC de/SP l'/DA emperador/NC Conrat_II/NP ./FF
+Va/VA morir/VM el/DA 1045/ZZ i/CC el/DA va/VA succeir/VM Eberard/NP o/CC Eberhard_ENDOFARTICLE/NP ./FF
+Eugenio_Trías_Sagnier/NP ,/FF (/FF Barcelona/NP ,/FF 31_d'_agost_de_1942/WW )/FF és/VS un/DI filòsof/NC català/AQ ,/FF fill/NC de/SP Carlos_Trías_Beltran/NP i/CC germà/NC de/SP Carlos_Trías_Sagnier/NP i/CC Jorge_Trías_Sagnier/NP ./FF
+Pertany/VM a/SP l'/DA alta/AQ burgesia/NC catalana/AQ ./FF
+Llicenciat/NP en/SP Filosofia_per_la_Universitat_de_Barcelona/NP el/DA 1964/ZZ ,/FF va/VA prosseguir/VM els/DA seus/PX estudis/NC a/SP Pamplona/NP ,/FF Madrid/NP ,/FF Bonn/NP i/CC Colònia/NP ./FF
+Des_de/SP 1965/ZZ és/VS professor/NC ajudant/AQ i/CC després/RG professor/NC adjunt/AQ de/SP Filosofia/NP en/SP les/DA Universitats_Central/NP i/CC Autònoma_de_Barcelona/NP ./FF
+En/SP el/DA curs/NC acadèmic/AQ 1972-73/ZZ es/P0 desplaça/VM a/SP Brasil/NP i/CC Argentina/NP ,/FF en/SP les/DA universitats/NC de/SP el/DA qual/PR imparteix/VM cursos/NC i/CC conferències/NC ./FF
+En/SP 1976/ZZ accedeix/VM a/SP el/DA lloc/NC de/SP professor/NC adjunt/AQ d'/SP Estètica/NP i/CC Composició/NP en/SP l'/DA Escola_Tècnica_Superior_d'_Arquitectura_de_Barcelona/NP ./FF
+En/SP 1986/ZZ obté/VM la/DA Càtedra/NP en/SP aquesta/DD facultat/NC ,/FF en/SP la/DA qual/PR romandrà/VM fins/RG a/SP 1992/ZZ ./FF
+Aquest/DD any/NC és/VS nomenat/VM professor/NC de/SP Filosofia/NP en/SP la/DA Facultat_d'_Humanitats/NP de/SP la/DA nova/AQ Universitat_Pompeu_Fabra_de_Barcelona/NP ,/FF on/PR continua/VM actualment/RG ./FF
+Pensament/NP ./FF
+Enfront/NP de/SP el/DA racionalisme/NC de/SP els/DA positivistes/NC lògics/AQ ,/FF filòsofs/NC analítics/AQ o/CC marxistes/AQ ,/FF Trías/NP proposa/VM obrir/VM la/DA raó/NC a/SP altres/DI espais/NC que/PR alhora/RG puguin/VM fecundar/VM -la/PP ./FF
+Així/RG parlarà/VM de/SP la/DA "/FF sinrazón/NC "/FF o/CC la/DA "/FF bogeria/NC "/FF ,/FF el/DA "/FF pensament/NC mític/AQ i/CC màgic/AQ "/FF ,/FF el/DA domini/NC passional/AQ o/CC l'/DA amor-passió/NC ./FF
+Per/SP a/SP això/PD aborda/VM categories/NC com/CS "/FF el/DA bell/AQ "/FF ,/FF "/FF el/DA sinistre/NC "/FF i/CC "/FF el/DA sublim/NC "/FF ./FF
+Cap/PI a/SP 1980/ZZ perfila/VM el/DA concepte/NC sobre/SP el/DA qual/PR centrarà/VM la/DA seva/PX obra/NC :/FF el/DA concepte/NC de/SP límit/NC (/FF entre/SP la/DA raó/NC i/CC les/DA seves/PX ombres/NC ,/FF des/SP d'/SP una/DI perspectiva/NC kantiana/AQ i/CC en_contacte/RG dialògic/AQ amb/SP Ludwig_Wittgenstein/NP o/CC Martin_Heidegger/NP ./FF
+Per/SP a/SP molts/PI ,/FF la/DA seva/PX obra/NC és/VS una/DI "/FF exègesi/NC "/FF wittgensteiniana/AQ ,/FF en/SP la/DA qual/PR "/FF el/DA subjecte/NC "/FF és/VS el/DA "/FF límit/NC de/SP el/DA món/NC "/FF ./FF
+Des/SP d'/SP un/DI logotip/NC simbòlic/AQ ,/FF els/DA seus/PX llibres/NC van/VM establint/VM la/DA naturalesa/NC de/SP la/DA raó/NC que/PR correspon/VM a/SP el/DA nou/AQ ésser/NC de/SP el/DA límit/NC ./FF
+Pot/VM ser/VS que/CS el/DA seu/PX llibre/NC més/RG reeixit/VM sigui/VS La/NP edad/NC de/SP el/DA espíritu/NC ,/FF en/SP el/DA qual/PR l'/DA ésser/NC de/SP el/DA límit/NC i/CC la/DA raó/NC simbòlica/AQ són/VS perseguits/VM a_través_de/SP set/ZZ categories/NC ./FF
+Obres/NC i/CC assaigs/NC ./FF
+La/DA filosofía/AQ y/NC su/VM sombra/NC (/FF 1969/ZZ )/FF ;/FF Filosofía/NP y/NC carnaval/NC (/FF 1970/ZZ )/FF ;/FF Teoría/NP de/SP las/NC ideologías/NC (/FF 1970/ZZ )/FF ;/FF La/NP dispersión/NC (/FF 1971/ZZ )/FF ;/FF Metodología/NP de/SP el/DA pensamiento/NC mágico/NC (/FF 1971/ZZ )/FF ;/FF Drama/NP e/NC identidad/AQ (/FF 1973/ZZ )/FF ;/FF El/NP artista/NC y/NC la/DA ciudad/NC (/FF 1975/ZZ )/FF ;/FF Meditación/NP sobre/SP el/DA poder/NC (/FF 1976/ZZ )/FF ;/FF La/NP memoria/NC perdida/NC de/SP las/NC cosas/NC (/FF 1977/ZZ )/FF ;/FF Tratado/NP de/SP la/DA pasión/NC (/FF 1978/ZZ )/FF ;/FF El/NP lenguaje/VM de/SP el/DA perdón/NC (/FF Un/DI ensayo/NC sobre/SP Hegel/NP )/FF (/FF 1979/ZZ )/FF ;/FF Lo/NP bello/NC y/NC lo/NC siniestro/NC (/FF 1981/ZZ )/FF ;/FF Filosofía/NP de/SP el/DA futuro/NC (/FF 1984/ZZ )/FF ;/FF Los/NP límites/NC de/SP el/DA mundo/VM (/FF 1985/ZZ )/FF ;/FF La/NP aventura/NC filosófica/AQ (/FF 1987/ZZ )/FF ;/FF Lógica/NP de/SP el/DA límite/NC (/FF 1991/ZZ )/FF ;/FF El/NP cansancio/NC de/SP occidente/NC (/FF conversació/NC amb/SP Rafael_Argullol/NP )/FF (/FF 1992/ZZ )/FF ;/FF La/NP edad/NC de/SP el/DA espíritu/NC (/FF 1994/ZZ )/FF ;/FF Pensar/NP la/DA religión/NC (/FF 1997/ZZ )/FF ;/FF Vértigo/NP y/NC pasión/NC (/FF 1998/ZZ )/FF ;/FF La/NP razón/NC fronteriza/VM (/FF 1999/ZZ )/FF ;/FF Ética/NP y/NC condición/NC humana/AQ (/FF 2000/ZZ )/FF ;/FF Ciudad/NP sobre/SP ciudad/NC ./FF
+Arte/NP ,/FF religión/NC y/NC ética/AQ en/SP el/DA cambio/NC de/SP milenio/NC (/FF 2002/ZZ )/FF ;/FF El/NP canto/VM de/SP las/AQ sirenas/NC :/FF argumentos/NC musicales/NC (/FF 2007/ZZ )/FF ;/FF Premis/NP i/CC distincions/NC ./FF
+En/SP 1974/ZZ ,/FF el/DA seu/PX llibre/NC Drama/NP e/NC identidad/AQ rep/VM el/DA premi/NC '/FF Nova_Crítica/NP '/FF ./FF
+En/SP 1975/ZZ ,/FF el/DA nou/AQ Premi_Anagrama_d'_Assaig/NP aposta/NC per/SP El/NP artista/NC y/NC la/DA ciudad/NC ./FF
+En/SP 1983/ZZ va/VA rebre/VM el/DA Premi_Nacional/NP d'/SP assaig/NC de/SP les/DA Lletres_Espanyoles/NP per/SP el/DA seu/PX llibre/NC Lo/NP bello/NC y/NC lo/NC siniestro/NC ./FF
+En/SP 1995/ZZ ,/FF el/DA Premi_Ciutat_de_Barcelona/NP ,/FF per/SP La/NP edad/NC de/SP el/DA espíritu/NC i/CC en/SP el/DA mateix/DI any/NC se/P0 li/PP concedeix/VM el/DA XIII_Premi_Internacional_Friedrich_Nietzsche/NP ,/FF per/SP la/DA seva/PX labor/NC filosòfica/AQ ./FF
+a/SP el/DA juny_de_2000/WW ,/FF la/DA Universitat_Autònoma_de_Santo_Domingo/NP (/FF República_Dominicana/NP )/FF ,/FF li/PP va/VA concedir/VM el/DA Doctorat_Honoris/NP causa/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Eugenio_Trías_Sagnier/NP ,/FF Curriculum_Vitae/NP ;/FF
+Meteoropatia/NP (/FF de/SP el/DA grec/NC "/FF meteoros/NC "/FF ,/FF alt/AQ en/SP el/DA cel/NC ,/FF i/CC "/FF pathos/AQ "/FF ,/FF malaltia/NC )/FF ,/FF és/VS un/DI terme/NC que/PR s'/P0 utilitza/VM per/SP referir/VM -se/P0 a/SP qualsevol/DI patologia/NC relacionada/VM amb/SP unes/DI condicions/NC meteorològiques/AQ concretes/AQ ./FF
+Les/DA alteracions/NC de/SP la/DA llum/NC ,/FF per_exemple/RG ,/FF uns/DI quants/DI dies/NC ennuvolats/VM ,/FF afecta/VM a/SP l'/DA estat/NC d'/SP ànim/NC ./FF
+El/DA vent/NC fort/AQ durant/SP dies/NC i/CC els/DA canvis/NC bruscs/AQ de/SP el/DA temps/NC causen/VM maldecaps/NC ,/FF irritabilitat/NC ,/FF ansietat/NC ,/FF etc./FF Fins_i_tot/RG s'/P0 ha/VA comprovat/VM que/CS a/SP les/DA escoles/NC ,/FF hores/NC abans/RG que/CS plogui/VM ,/FF els/DA nens/NC estan/VM més/RG nerviosos/AQ ./FF
+Bibliografia/NP ./FF
+Balsamo_V/NP ,/FF Sirtori_PG/NP ,/FF Miani_A_Jr/NP ,/FF Di_Francesco_A/NP ,/FF Franceschini_R/NP ,/FF Mauro_F/NP ,/FF Alberti_G/NP ,/FF Grassi_G._Meteoropathy/NP :/FF a/SP syndrome/NC continuously/NC on/PR the/VM increase/NC Clin_Ter/NP ./FF 1992/ZZ Jul/NP ;/FF 141/ZZ (/FF 7/ZZ )/FF :/FF 3-8/ZZ ./FF
+PMID/NP 1505175/ZZ ;/FF López_de_el_Val_LJ/NP ,/FF Rubio_E/NP ,/FF Calatayud_V/NP ,/FF López_de_el_Val_JA/NP ,/FF Sánchez_E._Effect/NP of/NC atmospheric/AQ factors/NC on/PR the/RG presentation/VM of/NC cerebrovascular/AQ accidents/NC Neurologia/NP ./FF 1991/ZZ Feb/NP ;/FF 6/ZZ (/FF 2/ZZ )/FF :/FF 52-5/ZZ ./FF
+PMID/NP 1863464/ZZ ;/FF Palao_Sánchez_A/NP ,/FF Gracia_Fleta_F/NP ,/FF Leiva_Santana_C._Ischemic/NP cerebrovascular/AQ accident/NC and/AQ climatologic/AQ factors/NC Arch_Neurobiol/NP (/FF Madr/NP )/FF ./FF 1989/ZZ May-Jun/NP ;/FF 52/ZZ (/FF 3/ZZ )/FF :/FF 161-5/ZZ ./FF
+PMID/NP 2774806/ZZ ;/FF
+Mesier/NP 9/ZZ (/FF M9/ZZ ,/FF NGC/NP 6333/ZZ )/FF és/VS un/DI cúmul/NC globular/AQ visible/AQ a/SP la/DA constel·lació/NC de/SP el/DA Serpentari/NP ./FF
+Va/VA ser/VS descobert/VM per/SP Charles_Messier/NP en/SP 1764/ZZ ./FF
+Es/P0 troba/VM a/SP 5.500/ZZ anys/NC llum/NC de/SP el/DA centre/NC de/SP la/DA Via_Làctia/NP i/CC a/SP 25.800/ZZ anys/NC llum/NC de/SP la/DA Terra/NP ./FF
+La/DA seva/PX magnitud/NC conjunta/AQ en/SP banda/NC B/NP (/FF filtre/NC blau/NC )/FF és/VS igual/AQ a/SP 9,36/ZZ ,/FF la/DA seva/PX magnitud/NC en/SP banda/NC V/NP (/FF filtre/NC verd/AQ )/FF és/VS igual/AQ a/SP 8,42/ZZ ;/FF el/DA seu/PX tipus/NC espectral/AQ és/VS Ne/NP ./FF
+Fotogràficament/RG s'/P0 aprecia/VM de/SP color/NC groguenc/AQ a_causa_de/SP la/DA gran/AQ quantitat/NC d'/SP estrelles/NC gegants/AQ vermelles/AQ (/FF de/SP color/NC groguenc/AQ o/CC daurat/NC )/FF que/PR conté/VM ./FF
+De/SP la/DA seva/PX velocitat/NC radial/AQ respecte/NC a/SP el/DA Sol/NP ,/FF 229,1_km_/_s/ZZ ,/FF es/P0 dedueix/VM que/CS s'/P0 allunya/VM de/SP el/DA Sistema_Solar/NP a/SP més/RG 824.460_km_/_h/ZZ ./FF
+És/VS tracta/VM d'/SP un/DI cúmul/NC visible/AQ amb/SP binoculars/NC amb/SP molt/DI bones/AQ condicions/NC atmosfèriques/AQ ./FF
+Amb/SP un/DI telescopi/NC de/SP 200_mm/ZZ de/SP diàmetre/NC es/P0 poden/VM resoldre/VM algunes/PI de/SP les/DA seves/PX estrelles/NC ./FF
+En/SP el/DA seu/PX interior/NC s'/P0 han/VA descobert/VM 19/ZZ estrelles/NC variables/AQ ./FF
+Bibliografia/NP ./FF
+Harris/NP ,/FF W._I./NP «/FF A/NP catalog/VM of/NC parameters/NC for/NC globular/AQ clusters/NC on/PR the/VM Milky_Way/NP »/FF ,/FF Astron/NP ./FF
+J./NP ,/FF 112/ZZ (/FF 1996/ZZ )/FF ,/FF 1487/ZZ ./FF ;/FF Enllaços/NP externs/AQ ./FF
+Messier/NP 9/ZZ ,/FF SEDS_Messier/NP p

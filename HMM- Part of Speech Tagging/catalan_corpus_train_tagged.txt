@@ -15559,4 +15559,86 @@ a/SP el/DA mateix/DI temps/NC ,/FF afebleix/VM el/DA camp/NC magnètic/AQ a/SP e
 En/SP una/DI tempesta/NC magnètica/AQ ,/FF s'/P0 afegeix/VM plasma/NC a/SP el/DA corrent/NC d'/SP anell/NC ,/FF fent/VM -lo/PP temporalment/RG més/RG fort/AQ ./FF
 I/CC el/DA camp/NC s'/P0 observa/VM des_de/SP la/DA Terra/NP afeblit/VM fins/RG a/SP 1-2_%/ZZ ./FF
 La/DA deformació/NC de/SP el/DA camp/NC magnètic/AQ ,/FF i/CC el/DA seu/PX flux/NC de/SP corrent/NC elèctric/AQ ,/FF es/P0 troben/VM íntimament/RG lligats/NC ,/FF fent/VM moltes/DI vegades/NC difícil/AQ saber/VM quin/DT és/VS la/DA causa/NC i/CC quin/DT l'/DA efecte/NC ./FF
-Freqüentment/RG (/FF de_la_mateixa_manera/RG que/CS en/SP la/DA magnetopausa/NC i/CC la/DA magnetocua/NC )/FF és/VS intuïtivament/RG més/RG útil/AQ observar/VM la/DA distribució/NC i/CC flux/NC de/SP el/DA plasma/NC com/CS a/SP efecte/NC primari/AQ ,/FF que/PR produeix/VM l'/DA estructura/NC magnètica/AQ observada/VM ,/FF amb/SP els/DA corrents/NC elèctrics/AQ associats/NC 
+Freqüentment/RG (/FF de_la_mateixa_manera/RG que/CS en/SP la/DA magnetopausa/NC i/CC la/DA magnetocua/NC )/FF és/VS intuïtivament/RG més/RG útil/AQ observar/VM la/DA distribució/NC i/CC flux/NC de/SP el/DA plasma/NC com/CS a/SP efecte/NC primari/AQ ,/FF que/PR produeix/VM l'/DA estructura/NC magnètica/AQ observada/VM ,/FF amb/SP els/DA corrents/NC elèctrics/AQ associats/NC com/CS a/SP característica/NC d'/SP aquestes/DD estructures/NC ,/FF més/RG una/DI exigència/NC de/SP coherència/NC de/SP l'/DA estructura/NC magnètica/AQ ./FF
+Com/CS abans/RG s'/P0 ha/VA mencionat/VM ,/FF existeix/VM a/SP el/DA menys/SP una/DI excepció/NC ,/FF un/DI cas/NC on/PR el/DA voltatge/NC condueix/VM els/DA corrents/NC ./FF
+Això/PD succeeix/VM amb/SP el/DA corrent/NC de/SP Birkeland/NP ,/FF que/PR flueix/VM des_de/SP l'/DA espai/NC distant/AQ a/SP la/DA ionosfera/NC prop/RG de/SP el/DA pol/NC ,/FF continua/VM a/SP el/DA menys/SP una/DI distància/NC en/SP la/DA ionosfera/NC ,/FF i/CC després/RG torna/VM a/SP l'/DA espai/NC ./FF (/FF Part/NC de/SP el/DA corrent/NC llavors/RG es/P0 desvia/VM i/CC abandona/VM la/DA Terra/NP una/DI altra/DI vegada/NC a/SP el/DA llarg/AQ de/SP les/DA línies/NC de/SP camp/NC en/SP la/DA cara/NC de/SP matí/NC ,/FF el/DA flux/NC travessa/VM la/DA mitjanit/WW com/CS a/SP part/NC de/SP el/DA corrent/NC d'/SP anell/NC ,/FF llavors/RG torna/VM a/SP la/DA ionosfera/NC a/SP el/DA llarg/AQ de/SP les/DA línies/NC de/SP camp/NC a/SP la/DA cara/NC de/SP el/DA vespre/NC i/CC es/P0 torna/VM a/SP ajuntar/VM )/FF ./FF
+El/DA circuit/NC complet/AQ d'/SP aquests/DD corrents/NC ,/FF sota/SP diverses/DI condicions/NC ,/FF encara/RG no/RN està/VM aclarit/NC ./FF
+Degut/VM a/SP que/CS la/DA ionosfera/NC és/VS un/DI tipus/NC de/SP conductor/NC ohmic/AQ ,/FF aquests/DD flux/NC l'/DA escalfaran/VM ./FF
+I/CC també/RG donaran/VM lloc/NC a/SP corrents/NC Hall/NP secundaris/AQ ,/FF i/CC acceleraran/VM les/DA partículers/NC magnetosfèriques/AQ els/DA electrons/NC de/SP els/DA arcs/NC de/SP les/DA aurores/NC polars/AQ ,/FF i/CC ions/NC d'/SP oxigen/NC ionitzats/VM (/FF o/CC +/FF )/FF que/PR contribueixen/VM a/SP el/DA corrent/NC d'/SP anell/NC ./FF
+Enllaços/NC externs/AQ ./FF
+USGS_Programa_Geomagnètic/NP ;/FF NOAA_Centre/NP de/SP dades/NC geofísiques/AQ ;/FF
+William_Adolphe_Bouguereau/NP (/FF La/DA Rochelle/NP 30_de_novembre_de_1825/WW -/FF 19_d'_agost_de_1905/WW )/FF va/VA ser/VS un/DI pintor/NC acadèmic/AQ francès/AQ ./FF
+Entre/SP les/DA personalitats/NC de/SP l'/DA època/NC que/PR confessaren/VM admiració/NC per/SP la/DA seua/PX obra/NC cal/VM destacar/VM el/DA pianista/NC i/CC compositor/NC romàntic/AQ Chopin/NP ./FF
+Estudiant/VM a/SP l'/DA Académie_Julian/NP a/SP París/NP ,/FF les/DA seues/PX pintures/NC realistes/AQ i/CC de/SP temes/NC mitològics/AQ marcaren/VM les/DA seues/PX obres/NC ./FF
+Bouguerau/NP va/VA estar/VM casat/NC amb/SP una/DI altra/DI artista/NC ,/FF Elizabeth_Jane_Gardner/NP ./FF
+Gràcies_a/SP la/DA seua/PX influència/NC ,/FF moltes/DI institucions/NC d'/SP art/NC s'/P0 obriren/VM per/SP primera/AO vegada/NC a/SP les/DA dones/NC ,/FF fins_i_tot/RG l'/DA Acadèmia/NP francesa/AQ de/SP Belles_Arts._Pintures/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Art_Renewal_Center/NP ;/FF William_Adolphe_Bouguereau/NP en/SP el/DA Web_Museum/NP ;/FF
+Zabaldu/NP és/VS un/DI lloc/NC web/NC en/SP euskera/NC on/PR els/DA usuaris/NC registrats/VM són/VS qui/PT envien/VM notícies/NC o/CC històries/NC (/FF extretes/VM de/SP blocs/NC o/CC pàgines/NC web/NC )/FF i/CC amb/SP els/DA vots/NC de/SP la/DA resta/NC d'/SP usuaris/NC (/FF registrats/VM o/CC no/RN )/FF trien/VM quines/PT arriben/VM a/SP sortir/VM a/SP la/DA portada/NC ./FF
+És/VS un/DI homòleg/AQ o/CC clon/NC de/SP el/DA Menéame/NP en/SP castellà/NC i/CC en_definitiva/RG de/SP el/DA Digg/NP en/SP anglès/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP web/NC de/SP Zabaldu/NP ;/FF
+NH_Hoteles_SA/NP (/FF Navarra_Hoteles/NP )/FF ,/FF )/FF és/VS una/DI de/SP les/DA més/RG grans/AQ cadenes/NC hoteleres/AQ espanyoles/AQ i/CC la/DA tercera/AO d'/SP Europa/NP a/SP la/DA categoria/NC d'/SP hotels/NC urbans/AQ de/SP negoci/NC ,/FF després/RG de/SP la/DA compra/NC de/SP la/DA cadena/NC holandesa/AQ Krasnapolsky/NP ,/FF el/DA juliol_de_2000/WW ,/FF la/DA cadena/NC mexicana/AQ Krystal/NP el/DA juny_de_2001/WW ,/FF l'/DA alemana/VM Astron/NP el/DA 25_de_febrer_de_2002/WW ,/FF i/CC la/DA italiana/AQ Jolly_Hotels/NP el/DA 2007/ZZ ./FF
+Creada/VM en/SP la/DA dècada/NC de/SP els/DA vuitanta/ZZ per/SP Antonio_Catalán/NP ,/FF NH/NP posseeix/VM actualment/RG 357/ZZ hotels/NC amb/SP més/RG de/SP 50.000/ZZ habitacions/NC a/SP 22/ZZ països/NC d'/SP Europa/NP ,/FF Llatinoamèrica/NP i/CC Àfrica/NP ./FF
+Compta/VM amb/SP una/DI plantilla/NC de/SP 22.000/ZZ empleats/NC ./FF
+NH_Hoteles/NP cotitza/VM a/SP la/DA Borsa_de_Madrid/NP ./FF
+Chuza/NP és/VS un/DI lloc/NC web/NC en/SP gallec/NC on/PR els/DA usuaris/NC registrats/VM són/VS qui/PT envien/VM notícies/NC o/CC històries/NC (/FF extretes/VM de/SP blocs/NC o/CC pàgines/NC web/NC )/FF i/CC amb/SP els/DA vots/NC de/SP la/DA resta/NC d'/SP usuaris/NC (/FF registrats/VM o/CC no/RN )/FF trien/VM quines/PT arriben/VM a/SP sortir/VM a/SP la/DA portada/NC ./FF
+És/VS un/DI homòleg/AQ o/CC clon/NC de/SP el/DA Menéame/NP en/SP castellà/NC i/CC en_definitiva/RG de/SP el/DA Digg/NP en/SP anglès/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP web/NC de/SP Chuza/NP ;/FF
+Digg/NP és/VS un/DI lloc/NC web/NC en/SP anglès/NC on/PR els/DA usuaris/NC registrats/VM són/VS qui/PT envien/VM notícies/NC o/CC històries/NC (/FF extretes/VM de/SP blocs/NC o/CC pàgines/NC web/NC )/FF i/CC amb/SP els/DA vots/NC de/SP la/DA resta/NC d'/SP usuaris/NC (/FF registrats/VM o/CC no/RN )/FF trien/VM quines/PT arriben/VM a/SP sortir/VM a/SP la/DA portada/NC ./FF
+Est/NP +/FF a/SP en/SP actiu/NC des_de/SP el/DA 2004/ZZ ./FF
+Llocs/NP web/NC similars/AQ ./FF
+Menéame/NP en/SP castellà/NC ;/FF La_Tafanera/NP en/SP català/NC ./FF
+Zabaldu/NP en/SP euskera/NC ./FF
+Chuza/NP en/SP gallec/NC ./FF
+Yahoo/NP !/FF
+Buzz/NP ,/FF la/DA resposta/NC de/SP Yahoo/NP !/FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP web/NC de/SP Digg/NP ;/FF
+Una/DI xarxa/NC social/AQ és/VS una/DI estructura/NC social/AQ que/PR es/P0 pot/VM representar/VM en/SP forma/NC d'/SP un/DI o/CC diversos/DI grafs/NC en/SP el/DA qual/PR els/DA nodes/NC representen/VM individus/NC (/FF de/SP vegades/NC denominats/VM actors/NC )/FF i/CC les/DA arestes/NC relacions/NC entre/SP ells/PP ./FF
+Les/DA relacions/NC poden/VM ser/VS de/SP diferent/AQ tipus/NC ,/FF com/CS intercanvis/NC financers/AQ ,/FF amistat/NC ,/FF relacions/NC sexuals/AQ ,/FF o/CC rutes/NC aèries/AQ ./FF
+Teòricament/RG no/RN hi/PP ha/VA límit/NC per/SP a/SP els/DA nodes/NC que/PR poden/VM compondre/VM una/DI xarxa/NC però/CC el/DA nombre/NC de/SP Dunbar/NP limita/VM les/DA connexions/NC estables/AQ a/SP 150/ZZ membres/NC ,/FF a/SP partir/VM d'/SP aquí/RG les/DA relacions/NC serien/VS fràgils/AQ i/CC canviants/AQ ./FF
+Alguns/PI de/SP els/DA estudiosos/NC més/RG destacats/VM de/SP les/DA xarxes/NC socials/AQ són/VS Georg_Simmel/NP ,/FF Harrison_White/NP ,/FF Barry_Wellman/NP o/CC David_de_Ugarte/NP ./FF
+Estructura/NC de/SP la/DA xarxa/NC ./FF
+La/DA xarxa/NC pot/VM tenir/VM un_sol/ZZ centre/NC ,/FF diversos/AQ o/CC caracteritzar/VM -se/P0 per/SP la/DA tendència/NC a/SP agrupar/VM diverses/DI subxarxes/NC sense/SP centre/NC reconegut/VM ,/FF com/CS podria/VM ser/VS la/DA blocosfera/AQ ./FF
+Aquestes/DD xarxes/NC s'/P0 anomenen/VM distribuïdes/VM ./FF
+Alexander_Bard/NP encunyà/VM el/DA terme/NC de/SP netocràcia/NC per/SP explicar/VM el/DA repartiment/NC de/SP poder/NC o/CC prestigi/NC en/SP aquestes/DD xarxes/NC ./FF
+També/RG es/P0 pot/VM analitzar/VM l'/DA estructura/NC de/SP la/DA xarxa/NC segons/SP la/DA connectivitat/NC de/SP els/DA seus/PX membres/NC ,/FF és/VS a/SP dir/VM ,/FF si/CS es/P0 relacionen/VM només/RG amb/SP un/DI subgrup/NC ,/FF quants/DI intermediaris/NC hi/PP ha/VA entre/SP cada/DI persona/NC ,/FF si/CS els/DA nexes/NC són/VS múltiples/AQ i/CC per/SP tant/RG la/DA xarxa/NC està/VM cohesionada/VM o/CC si/CS per_contra/RG cada/DI individu/AQ forma/NC un/DI node/NC més_o_menys/RG independent/AQ connectat/VM a/SP uns/DI quants/DI nodes/NC més/RG ./FF
+Les/DA relacions/NC entre/SP els/DA membres/NC poden/VM ser/VS recíproques/AQ o/CC no/RN i/CC valorar/VM -se/P0 segons/CS siguin/VS diàdiques/AQ (/FF es/P0 dóna/VM o/CC no/RN el/DA contacte/NC )/FF o/CC quantitatives/AQ (/FF importa/VM el/DA nombre/NC de/SP trobades/NC ,/FF com/CS missatges/NC en/SP un/DI fòrum/NC i/CC grau/NC d'/SP activitat/NC ,/FF per_exemple/RG )/FF ./FF
+Vegeu/VM també/RG ./FF
+Facebook/NP ;/FF
+Murat/VM I/NP (/FF turc/NC otomà/AQ :/FF ,/FF Turc/NP :/FF I._Murat_Hüdavendigâr/NP )/FF (/FF ?/FF 1389/ZZ )/FF va/VA ser/VS el/DA soldà/NC de/SP l'/DA Imperi_Otomà/NP ./FF
+Era/VS el/DA fill/NC d'/SP Orhan_I/NP i/CC de/SP la/DA princesa/NC bizantina/AQ Helena/NP ,/FF i/CC va/VA governar/VM l'/DA Imperi/NP des_de/SP la/DA mort/NC de/SP el/DA seu/PX pare/NC el/DA 1359/ZZ fins/SP la/DA seva/PX mort/NC ./FF
+Va/VA ser/VS el/DA responsable/NC de/SP convertir/VM la/DA tribu/NC Osmanli/NP en/SP un/DI imperi/NC ,/FF i/CC rebè/NC el/DA sobrenom/NC de/SP Hüdavendigâr/NP :/FF "/FF el/DA semblant/NC a/SP Déu/NP "/FF ./FF
+Política/AQ interior/NC :/FF establiment/NC de/SP l'/DA Imperi/NP ./FF
+Va/VA assentar/VM l'/DA Imperi/NP donant/VM forma/NC a/SP la/DA societat/NC i/CC a/SP el/DA govern/NC a/SP la/DA recentment/RG conquerida/VM ciutat/NC d'/SP Adrianòpolis/NP (/FF Edirne/NP en/SP turc/NC )/FF i/CC expandint/VM el/DA reialme/NC cap/NC a/SP Europa/NP ,/FF absorbint/VM la/DA major/AQ part/NC de/SP els/DA Balcans/NP sota/SP el/DA poder/NC otomà/AQ i/CC obligant/AQ a/SP l'/DA emperador/NC bizantí/AQ a/SP pagar/VM -li/PP tribut/VM ./FF
+El/DA 1383/ZZ va/VA establir/VM el/DA títol/NC de/SP soldà/NC (/FF o/CC sultà/NC )/FF i/CC va/VA formar/VM el/DA cos/NC de/SP els/DA geníssers/NC i/CC el/DA sistema/NC de/SP recultament/NC Dev/NP irme/NC ./FF
+També/RG va/VA ser/VS el/DA responsable/NC de/SP l'/DA organització/NC de/SP el/DA govern/NC de/SP el/DA Divan/NP ,/FF els/DA jutges/NC militars/AQ (/FF kazasker/NC )/FF ,/FF i/CC la/DA divisió/NC de/SP l'/DA Imperi/NP en/SP les/DA províncies/NC d'/SP Anadolu/NP (/FF Anatòlia/NP )/FF i/CC Rumeli/NP (/FF Europa/NP )/FF ./FF
+Política/NC exterior/AQ :/FF expansió/NC militar/AQ ./FF
+Murat/VM va/VA lluitar/VM a/SP Anatòlia/NP contra/SP el/DA poderós/AQ emirat/NC de/SP Karamanid/NP i/CC a/SP Europa/NP contra/SP els/DA serbis/NC ,/FF els/DA búlgars/NC i/CC els/DA hongaresos/NC ./FF
+Va/VA accedir/VM a/SP els/DA balcans/NC després/RG de/SP la/DA seva/PX victòria/NC a/SP la/DA Batalla_de_Maritsa/NP ,/FF el/DA 26/ZZ de/SP serembre/NC de/SP 1371/ZZ ,/FF contra/SP una/DI coalició/NC cristiana/AQ dirigida/VM per/SP el/DA rei/NC d'/SP Hongria/NP ./FF
+El/DA 1366/ZZ el/DA rei/NC serbi/AQ va/VA veure/VM 's/P0 obligat/VM a/SP pagar/VM tribut/NC a/SP el/DA soldà/NC i/CC el/DA 1385/ZZ la/DA ciutat/NC de/SP Sofia/NP va/VA caure/VM en/SP poder/VM de/SP els/DA otomans/NC ./FF
+Murat/VM es/P0 va/VA tornar/VM a/SP enfrontar/VM amb/SP l'/DA exèrcit/NC serbi/AQ el/DA 1389/ZZ a/SP la/DA Batalla_de_Kosovo/NP ./FF
+Durant/SP la/DA batalla/NC ,/FF Murat/NP va/VA morir/VM a/SP mans/NC de/SP Milo¨_Obili/NP ,/FF un/DI noble/NC serbi/AQ que/PR havia/VA jurat/VM que/CS la/DA seva/PX espasa/NC seria/VS la/DA que/PR mataria/VM Murat/NP ./FF
+El/DA fill/NC i/CC hereu/NC de/SP Murat/NP ,/FF Baiazet_I/NP ,/FF va/VA prendre/VM les/DA regnes/NC de/SP la/DA batalla/NC que/PR va/VA acabar/VM amb/SP victòria/NC otomana/AQ ./FF
+La/DA tomba/NC de/SP Murat/NP encara/RG es/P0 troba/VM a/SP el/DA camp_de_batalla/NC ,/FF a/SP el/DA nord-oest/NC de/SP Pri¨tina/NP ./FF
+Com/CS podem/VM llegir/VM a/SP la/DA pàgina/NC principal/AQ ,/FF MySpace/NP o/CC MySpace/NP ./FF com/CS és/VS un/DI lloc/NC web/NC d'/SP interacció/NC social/AQ format/NC per/SP perfils/NC personals/AQ d'/SP usuaris/NC que/PR inclou/VM xarxes/NC d'/SP amics/NC ,/FF grups/NC ,/FF blogs/NC ,/FF fotos/NC ,/FF vídeos/NC i/CC música/NC ,/FF a/SP més/RG d'/SP una/DI xarxa/NC interna/AQ de/SP missatgeria/NC que/PR permet/VM comunicar/VM uns/DI usuaris/NC amb/SP uns/DI altres/PI i/CC un/DI cercador/NC intern/AQ ./FF
+Es/P0 tracta/VM ,/FF per/SP tant/RG ,/FF d/RG un/DI portal/NC que/PR permet/VM posar_en_contacte/VM gent/NC d/AQ arreu/RG de/SP el/DA món/NC a/SP través/NC d/AQ internet/NC i/CC així/RG compartir/VM interessos/NC ./FF
+Usos_de_MySpace/NP ./FF
+L'/DA ús/NC que/PR més/RG ha/VA donat/VM a/SP conèixer/VM MySpace/NP és/VS el/DA musical/AQ ./FF
+Molts/DI músics/NC fan_servir/VM aquesta/DD comunitat/NC per/SP donar/VM a/SP conèixer/VM els/DA seus/PX treballs/NC ./FF
+En/SP un/DI principi/NC es/P0 tractava/VM d'/SP artistes/NC desconeguts/VM o/CC d'/SP aficcionats/VM ,/FF però/CC els/DA darrers/AO anys/NC ha/VA augmentat/VM significativament/RG el/DA nombre/NC d'/SP artistes/NC professionals/AQ ,/FF i/CC fins_i_tot/RG de/SP discogràfiques/AQ ,/FF que/PR fan_servir/VM aquest/DD portal/NC com/CS a/SP canal/NC de/SP comunicació/NC amb/SP el/DA públic/NC potencial/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Lloc/NP web/NC de/SP MySpace/NP ;/FF
+Technorati/NP és/VS un/DI motor/NC de/SP cerca/NC d'/SP Internet/NP per/SP a/SP buscar/VM blogs/NC ,/FF que/PR competeix/VM amb/SP Google/NP ,/FF Yahoo/NP !/FF ,/FF PubSub/NP i/CC IceRocket/NP ./FF
+A/SP l'/DA abril_de_2006/WW ,/FF l'/DA índex/NC de/SP Technorati/NP supera/VM els/DA 34,5_milions/ZZ de/SP blogs/NC ./FF
+A/SP l'/DA abril_de_2007/WW es/P0 comptabilitzen/VM uns/DI 71_milions/ZZ de/SP blogs/NC ./FF
+Wladimir_Copic/NP (/FF Vladimir/NP opi/NC )/FF fou/VS comandant/NC de/SP la/DA XV_Brigada_Internacional/NP durant/SP la/DA Guerra_Civil_Espanyola/NP ,/FF entre/SP el/DA 15_de_febrer/WW i/CC el/DA 10_de_juliol_del_1937/WW en/SP que/PR fou/VS ferit/VM ,/FF de/SP el/DA 5_d'_agost_del_1937_al_7/WW de/SP març_del_1938/WW i/CC de/SP l/NC '/FF 1_d'_abril/WW fins/SP el/DA maig_del_1938/WW ./FF
+Era/VS d'/SP origen/NC croat/AQ ./FF
+De_la_mateixa_manera/RG que/CS Janos_Galicz/NP ,/FF es/P0 va/VA allistar/VM a/SP l'/DA exèrcit/NC austro-hongarès/NC durant/SP la/DA Gran_Guerra/NP i/CC posteriorment/RG fou/VS capturat/VM per/SP els/DA russos/NC ./FF
+Ex-president_de_el_Partit_Comunista_de_Iugoslàvia/NP a/SP el/DA Komintern/NP ,/FF fou/VS executat/VM en/SP tornar/VM a/SP l'/DA URSS/NP el/DA 1938/ZZ ./FF
+El/DA seu/PX germà/NC ,/FF Milan_Copic/NP ,/FF controlà/VM la/DA presó/NC de/SP les/DA Brigades_Internacionals_de_Camp_Lucász/NP ./FF
+Referències/NP ./FF
+L'/DA Evangeli_de_Marció/NP es/P0 un/DI escrit/NC apòcrif/AQ que/PR recopila/VM l'/DA Evangeli/NP segons/SP Lluc/NP ,/FF però/CC mutilat/VM ,/FF junt/RG a/SP les/DA deu/NC primeres/AO Epístoles_de_Pau/NP ./FF
+Contingut/NP ./

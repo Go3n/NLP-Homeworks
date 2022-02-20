@@ -15929,4 +15929,81 @@ Paniasis_d'_Halicarnàs/NP (/FF Panyasis/NP ,/FF )/FF fou/VS un/DI poeta/NC èpi
 El/DA seu/PX nom/NC apareix/VM també/RG com/CS que/CS són/VS formes/NC incorrectes/AQ ./FF
 Era/VS fill/NC de/SP Poliarc_d'_Halicarnàs/NP ./FF
 Duris/VM de/SP Samos/NP diu/VM que/CS va/VA néixer/VM a/SP Samos/NP i/CC el/DA seu/PX pare/NC es/P0 deia/VM Diocles/NP ,/FF però/CC a/SP Suides/NP s'/P0 indica/VM que/CS era/VS fill/NC de/SP Poliarc/NP i/CC va/VA néixer/VM a/SP Halicarnàs/NP i/CC a/SP el/DA menys/SP el/DA lloc/NC de_naixement/RG el/PP confirmen/VM Pausànies/NP i/CC Climent_d'_Alexandria/NP ./FF
-La/DA seva/PX família/NC ,/FF una/PI de/SP les/DA més/RG destaca
+La/DA seva/PX família/NC ,/FF una/PI de/SP les/DA més/RG destacades/VM de/SP la/DA ciutat/NC ,/FF estava/VM emparentada/VM amb/SP Heròdot/NP ,/FF segons/SP una/DI versió/NC perquè/CS aquest/PD era/VS fill/NC de/SP Lixes/NP ,/FF germà/NC de/SP Poliarc/NP (/FF per/SP tant/RG eren/VS cosins_germans/NC )/FF i/CC segons/SP un/DI altre/PI perquè/CS Heròdot/NP era/VS fill/NC de/SP Reo/NP o/CC Drio/NP (/FF Rhoeo/NP o/CC Dryo/NP )/FF germana/NC de/SP Paniasis/NP (/FF per/SP tant/RG eren/VS oncle/NC i/CC nebot/NC )/FF ./FF
+Va/VA florir/VM entre/SP el/DA 489/ZZ aC/NC i/CC el/DA 467/ZZ aC/NC ./FF
+Va/VA ser/VS executat/VM per/SP el/DA tirà/NC Ligdamis_I_de_Cària/NP (/FF que/PR tenia/VM Halicarnàs/NP de/SP capital/NC )/FF probablement/RG quan/CS Heròdot/NP va/VA abandonar/VM la/DA seva/PX ciutat/NC natal/AQ el/DA 457/ZZ aC/NC ./FF
+Va/VA escriure/VM dos/ZZ poemes/NC :/FF Heracleia/NP o/CC Heracleias/NP (/FF )/FF en/SP 14/ZZ llibre/NC i/CC 900/ZZ versos/NC ./FF
+Ionica/NP (/FF )/FF ,/FF poema/NC de/SP 700/ZZ versos/NC ;/FF
+Paniasis_d'_Halicarnàs/NP (/FF Panyasis/NP ,/FF )/FF ,/FF fill/NC de/SP Diodes/NP ,/FF fou/VS un/DI filòsof/NC grec/AQ ./FF
+Va/VA escriure/VM dos/ZZ llibres/NC ,/FF tots/DI dos/ZZ sobre/SP els/DA somnis/NC ./FF
+Podria/VM ser/VS nét/NC de/SP el/DA poeta/NC de/SP el/DA mateix/DI nom/NC (/FF Paniasis/NP )/FF ./FF
+a/SP el/DA Suides/NP s'/P0 esmenta/VM a/SP el/DA poeta/NC de/SP el/DA mateix/DI nom/NC amb/SP el/DA renom/NC que/PR probablement/RG és/VS un/DI error/NC ja_que/CS seria/VS el/DA renom/NC de/SP el/DA filòsof/NC ./FF
+Pàpia/NP fou/VS una/DI gens/NC romana/AQ ,/FF d'/SP origen/NC samnita/AQ ./FF
+A/SP les/DA guerres/NC samnites/AQ és/VS esmentat/VM un/DI Papi_Brútul/NP (/FF Papius_Brutulus/NP )/FF que/PR va/VA convèncer/VM a/SP els/DA seus/PX conciutadans/NC de/SP renovar/VM la/DA guerra/NC contra/SP els/DA romans/NC (/FF 322/ZZ aC/NC )/FF ./FF
+Un/DI Papi_Mutil/NP (/FF Papius_Mutilus/NP )/FF apareix/VM a/SP la/DA guerra/NC social/AQ com/CS un/DI de/SP els/DA caps/NC samnites/AQ ./FF
+Després/RG de/SP la/DA guerra/NC alguns/PI Papis/NP es/P0 van/VA establir/VM a/SP Roma/NP i/CC un/PI d'/SP ells/PP finalment/RG va/VA obtenir/VM el/DA consolat/NC l'/DA any/NC 9/ZZ ./FF
+Els/DA Papis/NP romans/AQ estaven/VM dividits/NC en/SP les/DA gens/NC Pàpia_Cels/NP i/CC Pàpia_Mutil/NP ./FF
+Personatges/NP destacats/VM de/SP la/DA família/NC foren/VS :/FF Gai_Papi/NP ,/FF tribú/NC de/SP la/DA plebs/NC el/DA 65/ZZ aC/NC ;/FF Marc_Papi_Mutil/NP ,/FF cònsol/NC l'/DA any/NC 9/ZZ ;/FF
+Onomàstica/NP :/FF Pàpies/NP (/FF militar/NC )/FF ,/FF un/PI de/SP els/DA principals/AQ oficials/NC de/SP Sext_Pompeu/NP ;/FF Sant_Pàpies/NP ,/FF escriptor/NC cristià/AQ considerat/VM sant/NC ;/FF
+Pàpies/NP (/FF Papias/NP )/FF fou/VS un/DI de/SP els/DA principals/AQ oficials/NC de/SP Sext_Pompeu/NP ./FF
+Fou/VS un/DI de/SP els/DA comandants/NC de/SP la/DA flota/NC de/SP Sext_Pompeu/NP a/SP la/DA batalla/NC de/SP Miles/NP o/CC Mylae/NP contra/SP Marc_Vipsani_Agripa/NP l'/DA any/NC 36/ZZ aC/NC ./FF
+Els/DA historiadors/NC Dió_Cassi/NP i/CC Suetoni/NP esmenten/VM a/SP un/DI comandant/NC de/SP nom/NC Demòcares/NP que/PR podria/VM ser/VS el/DA mateix/DI personatge/NC ./FF
+Pàpies/NP (/FF Papias/NP ,/FF )/FF fou/VS un/DI escriptor/NC cristià/AQ nascut/VM a/SP els/DA voltants/NC de/SP l'/DA any/NC 70/ZZ i/CC mort/NC 155/ZZ ./FF
+L'/DA esmenta/VM Sant_Ireneu/NP que/CS a/SP el/DA seu/PX torn/NC és/VS esmentat/VM per/SP Sant_Jeroni/NP com/CS deixeble/NC de/SP Pàpies/NP ./FF
+Ireneu/NP el/PP descriu/VM com/CS un/DI home/NC vell/AQ ./FF
+Jerònim/NP descriu/VM a/SP Pàpies/NP com/CS a/SP deixeble/NC de/SP el/DA evangelista/NC Joan/NP ,/FF probablement/RG Joan_el_Vell/NP un/DI eminent/AQ cristià/NC d'/SP Efes/NP a/SP el/DA que/PR s'/P0 atribuí/VM el/DA llibre/NC de/SP la/DA revelació/NC encara/RG que/CS de/SP la/DA informació/NC sembla/VM referir/VM -se/P0 més/RG aviat/RG a/SP l'/DA apòstol/NC Joan/NP ./FF
+En/SP aquest/DD temps/NC Policarp/NP era/VS bisbe/NC d'/SP Efes/NP ./FF
+Pàpies/NP fou/VS nomenat/VM bisbe/NC d'/SP Hieràpolis/NP a/SP Frígia/NP on/PR es/P0 va/VA relacionar/VM amb/SP les/DA filles/NC de/SP l'/DA apòstol/NC Felip/NP ,/FF que/PR havia/VA viscut/VM en/SP aquesta/DD ciutat/NC però/CC ja/RG havia/VA mort/VM ./FF
+Eusebi/NP el/PP considerava/VM una/DI persona/NC de/SP poc/DI coneixement/NC ./FF
+Pàpies/NP encara/RG vivia/VM quan/CS Ireneu/NP va/VA escriure/VM el/DA llibre/NC Adversus_Haereses/NP ;/FF la/DA crònica/NC d'/SP Alexandria/NP o/CC Crònica_Pasqual/NP diu/VM que/CS Pàpies/NP va/VA patir/VM martiri/NC a/SP Pèrgam/NP amb/SP altres/DI persones/NC el/DA 163/ZZ ,/FF el/DA mateix/DI any/NC que/PR Policarp/NP va/VA patir/VM martiri/NC a/SP Esmirna/NP ./FF
+Aquestes/DD dates/NC ferien/VM impossible/AQ cronològicament/RG la/DA seva/PX coincidència/NC en/SP el/DA temps/NC amb/SP cap/NC de/SP els/DA apòstols/NC ./FF
+És/VS considerat/VM sant/NC i/CC la/DA seva/PX memòria/NC es/P0 commemora/VM el/DA 22_de_febrer/WW ./FF
+És/VS considerat/VM el/DA pare/NC de/SP la/DA doctrina/NC mil·lenarista/AQ que/PR deia/VM que/CS a/SP el/DA cap/NC de/SP mil/ZZ anys/NC els/DA morts/NC ressuscitarien/VM i/CC Crist/NP establiria/VM el/DA seu/PX regne/NC a/SP la/DA terra/NC ./FF
+Per/SP això/PD el/DA mil·lenaristes/AQ foren/VS anomenat/VM també/RG Papianistes_Obra/NP ./FF
+Va/VA escriure/VM una/DI obra/NC en/SP cinc/ZZ llibres/NC anomenada/NC ,/FF Explanationum_Sermonum_Domini_Libri_V._Només/NP se/P0 'n/PP conserven/VM alguns/DI fragments/NC ./FF
+Entre/SP els/DA fragments/NC que/CS Eusebi/NP ens/PP ha/VA transmès/VM de/SP l'/DA obra/NC de/SP Pàpies/NP es/P0 troben/VM dues/ZZ observacions/NC sobre/SP els/DA dos/ZZ primers/AO evangelis/NC ./FF
+Respecta/VM l'/DA Evangeli/NP segons/SP Marc/NP ,/FF Pàpies/NP ens/PP diu/VM :/FF L'/DA ancià/NC deia/VM també/RG el/DA següent/AQ :/FF Marc/NP ,/FF que/PR fou/VS el/DA intèrpret/NC de/SP Pere/NP ,/FF posà/VM puntualment/RG per/SP escrit/NC ,/FF malgrat/SP sense/SP ordre/NC ,/FF quantes/DT coses/NC recordà/VM referents/AQ a/SP les/DA dites/NC i/CC fets/NC de/SP el/DA Senyor/NP ./FF
+Perquè/CS ni/CC havia/VA sentit/VM a/SP el/DA Senyor/NP ,/FF ni/CC l'/PP havia/VA seguit/VM ,/FF sinó/CC que/PR més/RG tard/VM ,/FF com/CS vaig/VA dir/VM ,/FF seguí/VM a/SP Pere/NP ,/FF qui/PR donava/VM les/DA seves/PX instruccions/NC segons/SP les/DA seves/PX necessitats/NC ,/FF però/CC no/RN com/CS qui/PR compon/VM una/DI ordenació/NC de/SP les/DA sentencies/VM de/SP el/DA Senyor/NP ./FF
+Per/SP sort/NC que/PR en/SP res/PI faltà/VM Marc/NP ,/FF posant/VM per/SP escrit/NC algunes/PI de/SP aquelles/DD coses/NC ,/FF tal/PD com/PR les/PP recordava/VM ./FF
+Perquè/CS en/SP una_sola/ZZ cosa/NC posà/VM cure/VM :/FF en/SP no/RN ometre/VM res/PI de/SP el/DA que/PR havia/VA sentit/VM i/CC en/SP no/RN mentir/VM absolutament/RG en/SP res/PI Referent/NP a/SP l'/DA evangeli/NC de/SP Mateu/NP ,/FF Eusebi/NP cita/VM unes/DI paraules/NC de/SP Pàpies/NP :/FF «/FF Mateu/NP ordenà/VM en/SP llengua/NC hebrea/AQ les/DA dites/NC de/SP el/DA Senyor/NP i/CC cada/DI un/DI les/DA interpretà/VM conforme/AQ a/SP la/DA seva/PX capacitat/NC »/FF ./FF
+Aquesta/DD afirmació/NC proba/AQ que/PR en/SP temps/NC de/SP Pàpies/NP l'/DA obra/NC original/AQ de/SP Mateu/NP ja/RG havia/VA conegut/VM algunes/DI traduccions/NC ,/FF entre/SP elles/PP ,/FF se/P0 suposa/VM ,/FF la/DA grega/NC ./FF
+Referències/NP ./FF
+Emili_Papinià/NP (/FF Aemilius_Papinianus/NP )/FF (/FF 140-212/ZZ )/FF fou/VS un/DI jurista/NC romà/AQ ./FF
+Una/DI inscripció/NC diu/VM que/CS era/VS fill/NC de/SP Papinià_Hostilis/NP i/CC Eugènia_Gracilis/NP ,/FF els/DA quals/PR van/VA tenir/VM un/DI fill/NC de/SP nom/NC Emili_Paul·le_Papinià/NP que/PR va/VA morir/VM a/SP el/DA 37/ZZ anys/NC però/CC probablement/RG no/RN esta/VM referida/VM a/SP el/DA mateix/DI Papinià/NP ./FF
+També/RG es/P0 diu/VM que/CS fou/VS deixeble/NC de/SP Quint_Cervidi_Escevola/NP però/CC probablement/RG és/VS una/DI confusió/NC ./FF
+Va/VA succeir/VM a/SP Septimi_Sever/NP ,/FF que/PR més/RG tard/VM fou/VS emperador/NC ,/FF com/CS Advocat/NP de/SP el/DA fisc/NC (/FF advocatus/NC fisci/NC )/FF una/DI mica/NC abans/RG de/SP el/DA 180/ZZ ./FF
+Se/P0 'l/PP va/VA relacionar/VM amb/SP Júlia_Domna/NP ,/FF la/DA segona/AO de/SP Sever/NP (/FF que/PR va/VA esdevenir/VM emperador/NC el/DA 192/ZZ )/FF ./FF
+Sever/NP el/PP va/VA nomenar/VM Libellorum/NP magister/NC i/CC després/RG praefectus/NC praetorio/NC ./FF
+Lampridi/NP esmenta/VM a/SP els/DA deixebles/NC de/SP Papinià/NP :/FF Ulpià/NP ,/FF Pau/NP ,/FF Sext_Pomponi/NP ,/FF Africà/NP ,/FF Florentí/NP i/CC Modestí/NP ./FF
+Sever/NP va/VA morir/VM a/SP Britània/NP el/DA 211/ZZ i/CC probablement/RG Papinià/NP era/VS a/SP el/DA seu/PX costat/NC i/CC li/PP va/VA encarregar/VM buscar/VM l'/DA enteniment/NC entre/SP els/DA seus/PX fills/NC Caracal·la/NP i/CC Geta/NP ./FF
+Caracal·la/NP el/PP va/VA destituir/VM de/SP el/DA seu/PX càrrec/NC i/CC poc/RG després/RG de/SP matar/VM a/SP Geta/NP ,/FF el/PP va/VA fer/VM va/VA matar/VM el/DA 212/ZZ ./FF
+Fou/VS decapitat/VM en/SP presencia/VM de/SP l'/DA emperador/NC i/CC el/DA seu/PX fill/NC ,/FF qüestor/NC ,/FF va/VA morir/VM a/SP el/DA mateix/DI temps/NC ./FF
+Les/DA seves/PX principals/AQ obres/NC apareixen/VM a/SP el/DA Digest/NP ,/FF a/SP Quaestiones/NP (/FF 37/ZZ llibres/NC )/FF ./FF
+Altres/DI referències/NC seves/PX son/NC a/SP els/DA 19/ZZ llibres/NC de/SP Responsa/NP ,/FF dos/ZZ de/SP Definitiones/NP ,/FF tres/ZZ a/SP de/SP De_Adulteriis/NP ,/FF i/CC un/DI treball/NC en/SP grec/NC probablement/RG sobre/SP l'/DA ofici/NC d'/SP edil/NC ./FF
+Fou/VS el/DA jurista/NC romà/AQ de/SP més/RG alta/AQ reputació/NC ./FF
+Espartià/NP l'/PP anomena/VM "/FF juris/VM asylum/NC et/PP doctrine/AQ legalis/NC thesaurus/AQ "/FF ;/FF també/RG se/P0 'l/PP qualifica/VM de/SP "/FF prudentissimus/NC ,/FF "/FF "/FF consultissimus/AQ ,/FF "/FF "/FF disertissimus/AQ ,/FF "/FF i/CC altres/PI ./FF
+a/SP el/DA codi/NC Teodosià/NP es/P0 va/VA declarar/VM l'/DA autoritat/NC de/SP els/DA seus/PX escrits/NC per/SP els/DA jutges/NC encarregats/NC ,/FF es/P0 a/SP dir/VM que/CS els/DA seus/PX escrits/NC van/VA passar/VM a/SP ser/VS llei/NC ./FF
+Sext/AO Papini_Al·liè/NP (/FF Sextus_Papinius_Allienus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS cònsol/NC l'/DA any/NC 36/ZZ juntament/NC amb/SP Quint_Plauci/NP ./FF
+Plini_el_Vell/NP diu/VM que/CS fou/VS la/DA primera/AO persona/NC que/PR va/VA introduir/VM les/DA tubaes/NC (/FF una/DI mena/NC de/SP pomes/NC )/FF a/SP Itàlia/NP ./FF
+Fou/VS el/DA pare/NC probablement/RG de/SP Sext_Papini/NP ,/FF que/PR es/P0 va/VA suïcidar/VM l'/DA any/NC 37/ZZ ./FF
+Papíria/NP (/FF Papiria/NP )/FF fou/VS una/DI gens/DI romana/NC plebea/AQ ./FF
+Ciceró/NP diu/VM que/CS el/DA seu/PX nom/NC original/AQ fou/VS Papisia/NP (/FF els/DA Papisii/NP )/FF i/CC que/CS la/DA primera/AO persona/NC que/PR va/VA adoptar/VM la/DA forma/NC Papiri/NP en_lloc_de/SP Papisi/NP fou/VS Luci_Papiri_Cras_IV/NP ,/FF cònsol/NC el/DA 336/ZZ aC/NC ./FF
+Ciceró/NP parla/VM d'/SP una/DI branca/NC patrícia/AQ a/SP la/DA que/PR considera/VM entre/SP les/DA minores/VM gentes/NC ,/FF i/CC dividits/NC en/SP diverses/DI famílies/NC :/FF Cras/NP ,/FF Cursor/NP ,/FF Masó/NP i/CC Mugil·là/NP ;/FF i/CC una/DI branca/NC plebea/AQ amb/SP les/DA famílies/NC de/SP els/DA Carbó/NP ,/FF Pet/NP i/CC Turde/NP ./FF
+El/DA primer/AO que/PR va/VA obtenir/VM el/DA consolat/NC fou/VS Luci_Papiri_Mugil·là_I/NP (/FF 444/ZZ aC/NC )/FF encara/RG que/CS la/DA família/NC ja/RG existia/VM a/SP l'/DA època/NC monàrquica/AQ on/PR un_M/ZZ '/FF ./FF
+Papiri/NP fou/VS el/DA primer/AO rex/NC sacrificulus/AQ nomenat/VM després/RG de/SP la/DA proclamació/NC de/SP la/DA República/NP romana/AQ ./FF
+Gai_Papiri/NP o/CC Sext_Papiri/NP van/VA reunir/VM les/DA leges/NC regiae/AQ ./FF
+Gai_Papiri/NP o/CC Sext_Papiri/NP (/FF Caius_Papirius/NP o/CC Sextus_Papirius/NP )/FF fou/VS el/DA suposat/VM redactor/AQ de/SP les/DA anomenades/NC Leges_Regiae/NP ,/FF o/CC Jus_Papirianum/NP ,/FF o/CC Jus_Civile_Papirianum/NP ./FF
+Dionís_d'_Halicarnàs/NP diu/VM que/CS el/DA Pontífex_Màxim_Gai_Papiri/NP va/VA recollir/VM les/DA ordenances/NC religioses/AQ de/SP Numa_Pompili/NP quan/CS el/DA darrer/AO rei/NC fou/VS expulsat/VM ,/FF que/PR havien/VA estat/VS gravades/VM a/SP tauletes/NC de/SP fusta/NC per/SP orde/NC de/SP Anc_Marci/NP ./FF
+Pomponi/NP l'/PP esmenta/VM com/CS Sext_Papiri/NP i/CC diu/VM que/CS va/VA recollir/VM les/DA lleis/NC en/SP temps/NC de/SP Tarquini_el_Superb/NP fill/NC de/SP Demerat/NP (/FF Tarquini/NP no/RN era/VS fill/NC de/SP Demerat/NP )/FF ./FF
+D'/SP aquestes/DD lleis/NC es/P0 coneixen/VM molt/RG poques/DI normes/NC i/CC sembla/VM que/CS algunes/PI podrien/VM haver/VA estat/VS afegides/VM més/RG tard/VM encara/RG que/PR tenien/VM la/DA consideració/NC de/SP normes/NC fixades/VM per/SP els/DA reis/NC ./FF
+Luci_Papiri/NP fou/VS un/DI orador/NC romà/AQ de/SP Fregellae/NP ,/FF de/SP el/DA temps/NC de/SP Tiberi_Grac/NP (/FF fou/VS cònsol/NC per/SP segona/AO vegada/NC el/DA 163/ZZ aC/NC )/FF ,/FF pare/NC de/SP els/DA tribuns/AQ coneguts/NC com/CS els/DA Gracs/NP ./FF
+Fou/VS considerat/VM un/DI de/SP els/DA més/RG eloqüents/AQ oradors/NC de/SP el/DA seu/PX temps/NC ./FF
+Quan/CS Fregellae/NP es/P0 va/VA revoltar/VM vers/SP el/DA 125/ZZ aC/NC ,/FF Papiri/NP que/PR ja/RG era/VS vell/AQ ,/FF va/VA fer/VM un/DI discurs/NC en/SP defensa/NC de/SP la/DA ciutat/NC ./FF
+Onomàstica/NP :/FF Gai_Papiri/NP o/CC Sext_Papiri/NP ,/FF compilador/NC romà/AQ d'/SP antigues/AQ lleis/NC ;/FF Luci_Papiri/NP ,/FF orador/NC romà/AQ ./FF
+Onomàstica/NP :/FF Gai_Papi/NP ,/FF tribú/NC de/SP la/DA plebs/NC el/DA 65/ZZ aC/NC ;/FF Marc_Papi_Mutil/NP ,/FF cònsol/NC l'/DA any/NC 9/ZZ ;/FF
+Gai_Papi/NP (/FF Caius_Papius/NP )/FF fou/VS tribú/NC de/SP la/DA plebs/NC el/DA 65/ZZ aC/NC i/CC fou/VS l'/DA autor/NC d'/SP una/DI llei/NC per/SP la/DA que/PR tots/DI els/DA peregrins/AQ eren/VS expulsats/VM de/SP Roma/NP ,/FF i/CC que/PR renovava/VM una/DI llei/NC similar/AQ proposada/VM per/SP Marc_Juni_Penne/NP el/DA 126/ZZ aC/NC ./FF
+També/RG castigava/VM a/SP els/DA que/PR havien/VA assolit/VM la/DA ciutadania/NC romana/AQ sense/SP dret/NC ./FF
+Marc_Papi_Mutil/NP (/FF Marcus_Papius_Mutilus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS cònsol/NC l'/DA any/NC 9/ZZ juntament/NC amb/SP Quint_Poppeu_Segon/NP ./FF
+Van/VA donar/VM el/DA seus/PX noms/N

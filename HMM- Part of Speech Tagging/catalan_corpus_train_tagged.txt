@@ -16006,4 +16006,80 @@ Gai_Papi/NP (/FF Caius_Papius/NP )/FF fou/VS tribú/NC de/SP la/DA plebs/NC el/D
 També/RG castigava/VM a/SP els/DA que/PR havien/VA assolit/VM la/DA ciutadania/NC romana/AQ sense/SP dret/NC ./FF
 Marc_Papi_Mutil/NP (/FF Marcus_Papius_Mutilus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
 Fou/VS cònsol/NC l'/DA any/NC 9/ZZ juntament/NC amb/SP Quint_Poppeu_Segon/NP ./FF
-Van/VA donar/VM el/DA seus/PX noms/N
+Van/VA donar/VM el/DA seus/PX noms/NC a/SP la/DA llei/NC Pàpia-Popea/NP que/PR complementava/VM la/DA llei/NC Júlia_de_Maritandis_Ordinibus/NP i/CC que/PR en_endavant/RG fou/VS coneguda/VM com/CS lex/NC Julia/NP et/PP Papia_Poppaea/NP ./FF
+Fou/VS un/DI adulador/NC a/SP el/DA senat/NC de/SP l'/DA emperador/NC Tiberi/NP (/FF any/NC 16/ZZ )/FF ./FF
+Nicolas_Rodney_Drake/NP (/FF 1948-1974/ZZ )/FF ,/FF més/RG conegut/VM com/CS a/SP Nick_Drake/NP ,/FF és/VS un/DI cantautor/NC de/SP folk/NC anglès/AQ nascut/VM a/SP Birmània/NP ./FF
+El/DA seu/PX treball/NC és/VS molt/RG apreciat/VM actualment/RG per/SP la/DA crítica/NC musical/AQ ,/FF tot_i_que/CS gairebé/RG no/RN va/VA vendre/VM discs/NC durant/SP la/DA seva/PX vida/NC ./FF
+Biografia/NP ./FF
+Va/VA néixer/VM a/SP Rangun/NP (/FF Birmània/NP )/FF el/DA 1948/ZZ ,/FF fill/NC d'/SP un/DI important/AQ comerciant/NC ./FF
+Durant/SP la/DA seva/PX infància/NC es/P0 va/VA procurar/VM que/CS tingués/VM una/DI bona/AQ educació/NC ,/FF va/VA anar/VM a/SP els/DA millors/AQ col·legis/NC i/CC se/P0 li/PP va/VA inculcar/VM el/DA gust/NC per/SP la/DA poesia/NC ,/FF la/DA pintura/NC i/CC la/DA música/NC ./FF
+Estudià/VM Literatura_Anglesa/NP a/SP la/DA Universitat_de_Cambridge/NP ,/FF però/CC ho/PP va/VA deixar/VM 9_mesos/ZZ abans/RG d'/SP acabar/VM per/SP dedicar/VM -se/P0 a/SP la/DA seva/PX carrera/NC musical/AQ ./FF
+Sensible/NP i/CC tímid/AQ ,/FF realitzà/VM molt/RG poques/DI actuacions/NC ,/FF la/DA qual/DR cosa/NC va/VA dificultar/VM la/DA difusió/NC de/SP la/DA seva/PX música/NC ./FF
+Nick_Drake/NP publicà/VM 3/ZZ àlbums/NC durant/SP la/DA seva/PX vida/NC :/FF Five_Leaves_Left/NP (/FF 1969/ZZ )/FF ,/FF Bryter_Layter/NP (/FF 1970/ZZ )/FF i/CC Pink_Moon/NP (/FF 1972/ZZ )/FF ./FF
+A/SP més/RG de/SP la/DA seva/PX veu/NC ,/FF utilitzava/VM una/DI guitarra/NC acústica/AQ amb/SP alguns/DI arranjaments/NC de/SP piano/RG ,/FF cordes/NC i/CC teclats/NC ./FF
+Va/VA morir/VM el/DA 1974/ZZ a/SP els/DA 26/ZZ anys/NC ,/FF a/SP causa/NC d'/SP una/DI sobredosi/NC d'/SP antidepressius/NC ./FF
+Pap/NP (/FF Pappus/NP ,/FF )/FF fou/VS un/DI geòmetra/NC grec/AQ d'/SP Alexandria/NP de/SP l'/DA historia/VM personal/AQ de/SP el/DA qual/PR no/RN se/P0 sap/VM gairebé/RG res/PI ./FF
+Va/VA viure/VM segons/SP Suides/NP sota/SP Teodosi_el_Gran/NP (/FF 379-395/ZZ )/FF però/CC no/RN apareix/VM cap/DI més/RG Pap/NP després/RG de/SP el/DA segle_II/WW i/CC això/PD ha/VA fet/VM pensar/VM en/SP un/DI error/NC de/SP Suides/NP ./FF
+Va/VA escriure/VM un/DI comentari/NC sobre/SP el/DA llibre/NC de/SP Ptolemeu/NP anomenat/VM Syntaxis/NP i/CC això/PD el/PP situaria/VM més/RG aviat/RG vers/SP el/DA segle_II/WW ./FF
+Se/P0 li/PP atribueixen/VM les/DA següents/AQ obres/NC :/FF 1/ZZ ./FF ,/FF Col·leccions_Matemàtiques/NP en/SP sis/ZZ llibres/NC ,/FF obra/NC cabdal/AQ de/SP la/DA geometria/NC grega/AQ ;/FF 2/ZZ ./FF ;/FF
+Pap/NP (/FF Papus/NP )/FF fou/VS el/DA nom/NC d'/SP una/DI família/NC patrícia/AQ romana/AQ de/SP la/DA gens/NC Emília_Personatges/NP destacats/VM de/SP la/DA família/NC foren/VS :/FF Marc_Emili_Pap/NP ,/FF dictador/NC el/DA 321/ZZ aC/NC ;/FF Quint_Emili_Pap/NP ,/FF dues/ZZ vegades/NC cònsol/NC el/DA 282/ZZ aC/NC i/CC el/DA 278/ZZ aC/NC ;/FF Luci_Emili_Pap/NP (/FF cònsol/NC )/FF ,/FF cònsol/NC el/DA 225/ZZ aC/NC ;/FF Luci_Emili_Pap/NP (/FF pretor/NC )/FF ,/FF pretor/NC el/DA 205/ZZ aC/NC ;/FF
+Marc_Emili_Pap/NP (/FF Marcus_Aemilius_Papus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS dictador/AQ el/DA 321/ZZ aC/NC ,/FF quan/PR es/P0 va/VA conèixer/VM la/DA greu/AQ derrota/NC romana/AQ patida/VM davant/SP els/DA samnites/NC a/SP les/DA anomenades/NC Forques_Caudines/NP ,/FF prop/RG de/SP Caudium/NP ./FF
+La/DA seva/PX dictadura/NC no/RN obstant/VM fou/VS breu/AQ i/CC després/RG es/P0 van/VA elegir/VM altre/DI cop/NC cònsols/NC ./FF
+Quint/VM Emili_Pap/NP (/FF Quintus_Aemilius_Papus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS dues/ZZ vegades/NC cònsol/NC el/DA 282/ZZ aC/NC i/CC el/DA 278/ZZ aC/NC ,/FF i/CC després/RG fou/VS censor/NC el/DA 275/ZZ aC/NC ./FF
+En/SP els/DA dos/ZZ consolats/NC i/CC en/SP la/DA censura/NC va/VA tenir/VM com/CS a/SP col·lega/NC a/SP Gai_Fabrici_Luscí/NP ./FF
+El/DA 282/ZZ aC/NC va/VA lluitar/VM contra/SP etruscs/NC i/CC bois/NC a/SP el/DA que/PR va/VA derrotar/VM i/CC especialment/RG els/DA bois/NC van/VA patir/VM tant/RG severament/RG que/CS la/DA Gàl·lia_Cisalpina/NP va/VA romandre/VM tranqui/NC -la/PP durant/SP 50/ZZ anys/NC ./FF
+El/DA 280/ZZ aC/NC ,/FF mentre/CS Pirros_de_l'_Epir/NP era/VS a/SP la/DA rodalia/NC de/SP Roma/NP ,/FF el/DA govern/NC de/SP la/DA república/NC va/VA enviar/VM una/DI ambaixada/NC a/SP el/DA rei/NC encapçalada/VM per/SP Gai_Fabrici_Luscí/NP ,/FF Marc_Emili_Pap/NP ,/FF i/CC un/DI tercer/AO ambaixador/NC ,/FF per/SP negociar/VM el/DA intercanvi/NC de/SP presoners/NC ./FF
+Pirros/NP va/VA rebre/VM amb/SP grans/AQ honors/NC a/SP els/DA ambaixadors/NC i/CC els/PP va/VA oferir/VM tota/DI mena/NC de/SP regals/NC amb/SP la/DA intenció/NC de/SP guanyar/VM -los/PP per/SP el/DA seu/PX servei/NC ,/FF però/CC els/DA romans/NC van/VA rebutjar/VM tots/DI els/DA oferiments/NC ./FF
+La/DA guerra/NC es/P0 va/VA reprendre/VM el/DA 279/ZZ aC/NC ./FF
+El/DA 278/ZZ aC/NC Pap/NP fou/VS elegit/NC cònsol/NC per/SP segona/AO vegada/NC amb/SP Fabrici/NP ./FF
+Un/DI traïdor/NC va/VA oferir/VM enverinar/VM a/SP el/DA rei/NC epirota/AQ ,/FF però/CC Quint_Emili_Pap/NP i/CC Gai_Fabrici_Luscí/NP el/PP van/VA detenir/VM i/CC el/PP van/VA enviar/VM a/SP Pirros/NP ,/FF i/CC aquest/DD fet/NC fou/VS el/DA pretext/NC per/SP obrir/VM negociacions/NC ja_que/CS els/DA romans/NC volien/VM recuperar/VM ràpidament/RG el/DA territori/NC i/CC el/DA control/NC de/SP els/DA aliats/NC i/CC Pirros/NP no/RN podia/VM arriscar/VM un/DI altra/DI batalla/NC amb/SP els/DA romans/NC ./FF
+Cinees/NP fou/VS enviat/VM a/SP Roma/NP com/CS ambaixador/NC de/SP el/DA rei/NC i/CC es/P0 va/VA concertar/VM una/DI treva/NC ,/FF i/CC Pirros/NP va/VA sortir/VM cap/NC a/SP Sicília/NP ,/FF abandonant/VM a/SP els/DA seus/PX aliats/NC italians/AQ ./FF
+En/SP la/DA seva/PX censura/NC va/VA combatre/VM el/DA luxe/NC i/CC va/VA expulsar/VM de/SP el/DA senat/NC a/SP Publi_Corneli_Rufí/NP ,/FF l'/DA antic/AQ cònsol/NC ,/FF en/SP raó/NC de/SP la/DA seva/PX riquesa/NC ./FF
+Luci_Emili_Pap/NP (/FF Lucius_Aemilius_Q._F._CN/NP ./FF
+N._Papus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ,/FF nét/NC de/SP Quintus_Aemilius_Papus/NP ./FF
+Fou/VS cònsol/NC el/DA 225/ZZ aC/NC junt/AQ amb/SP Gai_Atili_Règul/NP ./FF
+En/SP aquest/DD any/NC es/P0 va/VA lliurar/VM la/DA gran/AQ guerra/NC a/SP la/DA Gàl·lia_Cisalpina/NP ,/FF que/PR a/SP els/DA darrers/AO anys/NC començava/VM a/SP mostrar/VM símptomes/NC d'/SP hostilitat/NC i/CC havia/VA rebut/VM ajut/NC de/SP l'/DA altra/DI costat/NC de/SP els/DA Alps/NP ./FF
+La/DA conducció/NC de/SP la/DA guerra/NC fou/VS assignada/VM a/SP Pap/NP i/CC el/DA seu/PX col·lega/NC Règul/NP fou/VS enviat/VM a/SP Sardenya/NP on/PR també/RG havia/VA esclatat/VM la/DA revolta/NC ./FF
+Pap/NP es/P0 va/VA estacionar/VM a/SP Ariminium/NP mentre/CS un_segon/ZZ exèrcit/NC era/VS estacionat/VM a/SP Etrúria/NP sota/SP comandament/NC d'/SP un/DI pretor/NC ./FF
+Els/DA gals/NC van/VA avançar/VM entre/SP els/DA dos/ZZ exèrcits/NC cap/NC a/SP Etrúria/NP i/CC van/VA derrotar/VM el/DA pretor/NC romà/AQ que/PR es/P0 va/VA lliurar/VM de/SP l'/DA aniquilació/NC per/SP l'/DA arribada/NC de/SP Pap/NP ./FF
+Els/DA gals/NC es/P0 van/VA haver/VA de/SP retirar/VM cap/NC a/SP el/DA seu/PX territori/NC ,/FF i/CC van/VA avançar/VM cap/DI a/SP la/DA costa/NC de/SP Ligúria/NP ,/FF però/CC allí/RG foren/VS atacats/NC per/SP Règul/NP ,/FF a/SP el/DA que/PR s'/P0 havia/VA cridat/VM i/CC que/PR tornava/VM de/SP Sardenya/NP ,/FF i/CC havia/VA desembarcat/VM prop/RG de/SP Pisae/NP ./FF
+Els/DA gals/NC ,/FF entre/SP els/DA dos/ZZ exèrcits/NC ,/FF van/VA haver/VA de/SP lluitar/VM i/CC la/DA batalla/NC fou/VS ferotge/AQ ;/FF Règul/NP va/VA morir/VM però/CC finalment/RG els/DA gals/NC foren/VS derrotats/VM ;/FF quaranta_mil/ZZ gals/NC haurien/VA mort/VM a/SP aquesta/DD batalla/NC i/CC deu_mil/ZZ haurien/VA estat/VS presoners/AQ ,/FF entre/SP els/DA quals/PR el/DA rei/NC gal/AQ Concolitanus/NP ./FF
+Emili_Pap/NP va/VA avançar/VM cap/DI a/SP el/DA país/NC de/SP els/DA bois/NC i/CC el/PP va/VA devastar/VM ,/FF però/CC a/SP el/DA cap/NC de/SP pocs/DI dies/NC va/VA retornar/VM a/SP Roma/NP ;/FF allí/RG va/VA celebrar/VM un/DI triomf/NC ./FF
+El/DA 220/ZZ aC/NC fou/VS censor/NC amb/SP Gai_Flamini/NP i/CC va/VA fer/VM el/DA cens/NC que/PR donava/VM 270.213/ZZ ciutadans/NC ./FF
+El/DA 216/ZZ aC/NC fou/VS un/PI de/SP els/DA triumvirs/NC nomenats/VM per/SP la/DA qüestió/NC monetària/AQ ./FF
+Luci_Emili_Pap/NP (/FF Lucius_Aemilius_Q._F._CN/NP ./FF
+N._Papus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS pretor/NC el/DA 205/ZZ aC/NC i/CC va/VA obtenir/VM Sicília/NP com/CS a/SP província/NC ./FF
+Sota/SP les/DA seves/PX ordes/NC va/VA servir/VM Gai_Octavi/NP (/FF tribú/NC militar/AQ )/FF ,/FF el/DA besavi/NC de/SP el/DA futur/NC emperador/NC August/NP ./FF
+El/DA 171/ZZ aC/NC apareix/VM un/DI personatge/NC de/SP el/DA mateix/DI nom/NC que/PR era/VS decemvir/NC sacrorum/NC ,/FF i/CC va/VA morir/VM aquest/DD any/NC ,/FF i/CC probablement/RG és/VS la/DA mateixa/DI persona/NC ./FF
+Clarence_Walter/NP (/FF Jud/NP )/FF Larson/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 21_de_gener_del_1923/WW a/SP Grand_Prairie/NP ,/FF Texas/NP ./FF
+Larson/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1956-1959/ZZ i/CC 1964-1965/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1958/ZZ i/CC 1959/ZZ ./FF
+Jud_Larson/NP va/VA morir/VM a/SP Reading/NP ,/FF Pennsylvania/NP el/DA 11_de_juny_del_1966/WW ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Jud_Larson/NP va/VA participar/VM a/SP 2/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1958/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 2/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 0/ZZ ;/FF
+Chuck_Weyant/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 3_d'_abril_del_1923/WW a/SP St._Mary/NP 's/P0 ,/FF Ohio/NP ./FF
+Weyant/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1952-1959/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1955/ZZ i/CC 1957-1959/ZZ ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Chuck_Weyant/NP va/VA participar/VM a/SP 4/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1955/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 4/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 0/ZZ ;/FF
+Manuel_González_Martí/NP ,/FF València/NP (/FF 1877-1972/ZZ )/FF era/VS un/DI dibuixant/NC ,/FF historiador/NC i/CC erudit/NC valencià/AQ ,/FF fundador/AQ de/SP el/DA Museu_de_Ceràmica_de_València/NP el/DA 1954/ZZ i/CC director/NC de/SP 1954/ZZ a/SP 1972/ZZ i/CC director/NC durant/SP els/DA anys/NC 1940/ZZ de/SP el/DA Museu_de_Belles_Arts/NP de/SP la/DA mateixa/DI ciutat/NC ./FF
+Encara/RG que/CS va/VA estudiar/VM dret/NC a/SP la/DA Universitat_de_València/NP ,/FF va/VA destacar/VM com/CS a/SP dibuixant/NC i/CC caricaturista/NC ,/FF activitat/NC a/SP què/PR es/P0 dedicà/VM en/SP estudiar/VM dibuix/NC a/SP la/DA Reial_Acadèmia_de_Belles_Arts_de_Sant_Carles/NP ./FF
+Com/CS a/SP caricaturista/NC va/VA utilitzar/VM el/DA pseudònim/NC Folchi/NP i/CC va/VA ser/VS guardonat/VM amb/SP la/DA Medalla_d'_Or_de_l'_Exposició_Regional_de_València/NP (/FF 1909/ZZ )/FF ,/FF i/CC amb/SP la/DA Medalla_de_Plata/NP en/SP l'/DA Exposició_de_Barcelona/NP (/FF 1911/ZZ )/FF ./FF
+Va/VA fundar/VM el/DA setmanari/NC Cascarràbies/NP (/FF 1897/ZZ )/FF ,/FF la/DA revista/NC Arte_Moderno/NP (/FF 1900/ZZ )/FF ,/FF Valencia_Artística/NP (/FF 1903/ZZ )/FF ,/FF i/CC Impresiones/NP (/FF 1908/ZZ )/FF ./FF
+El/DA 1911/ZZ va/VA ser/VS encarregat/VM de/SP la/DA restauració/NC de/SP la/DA taulelleria/NC de/SP les/DA estances/NC Borja_de_el_Vaticà/NP ,/FF moment/NC a_partir_de/SP el/DA qual/PR la/DA ceràmica/NC esdevingué/VM la/DA seua/PX principal/AQ preocupació/NC ./FF
+El/DA 1923/ZZ va/VA fundar/VM l'/DA Escola_de_Ceràmica_de_Manises/NP i/CC ,/FF el/DA 1924/ZZ ,/FF fou/VS anomenat/VM delegat/NC regi/AQ de/SP Belles_Arts._Des_de/NP la/DA direcció/NC de/SP el/DA Museu_de_Belles_Arts/NP ,/FF lloc/NC on/PR va/VA accedir/VM el/DA 1940/ZZ ,/FF va/VA promoure/VM la/DA creació/NC de/SP el/DA Museu_de_Ceràmica_de_València/NP ,/FF la/DA qual/DR cosa/NC va/VA aconseguir/VM el/DA 1954/ZZ ./FF
+Va/VA ser/VS director/NC d'/SP aquest/DD museu/NC ,/FF ubicat/VM a/SP el/DA palau/NC de/SP el/DA marqués/VM de/SP Dosaigües/NP ,/FF fins/SP a/SP la/DA seua/PX mort/NC ,/FF el/DA 1972/ZZ ./FF
+Per/SP a/SP la/DA fundació/NC de/SP el/DA Museu_de_Ceràmica_Manuel_González_Martí/NP i/CC la/DA seua/PX dona/NC Amèlia_Cunyat/NP van/VA donar/VM la/DA seua/PX col·lecció/NC a/SP l'/DA estat/NC ./FF
+Aquest/DD fet/NC era/VS la/DA culminació/NC a/SP una/DI dilatada/VM vida/NC d'/SP investigació/NC ,/FF en/SP la/DA que/PR va/VA desenrotllar/VM estudis/NC fonamentals/AQ per/SP a/SP el/DA coneixement/NC de/SP la/DA història/NC de/SP la/DA ceràmica/NC valenciana/AQ ./FF
+El/DA museu/NC es/P0 v

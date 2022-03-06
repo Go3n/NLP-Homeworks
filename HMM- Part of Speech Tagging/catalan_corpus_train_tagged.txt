@@ -16372,4 +16372,105 @@ Un/DI cop/NC a/SP casa/NC ,/FF Kyle/NP comença/VM a/SP aprendre/VM com/PT es/P0
 A/SP això/PD se/P0 li/PP uneix/VM un/DI halo/NC de/SP misticisme/NC i/CC investigació/NC que/PR en/SP Kyle/NP haurà/VA de/SP conèixer/VM si/CS vol/VM saber/VM qui/PT és/VS i/CC perquè/CS és/VS com/PT és/VS ./FF
 Personatges/NP ./FF
 Principals/AQ ./FF
-Matt_Dallas
+Matt_Dallas/NP -/FF Kyle_Trager/NP ;/FF Marguerite_MacIntyre/NP -/FF Nicole_Trager/NP ;/FF Bruce_Thomas/NP -/FF Stephen_Trager/NP ;/FF Jean-Luc_Bilodeau/NP -/FF Josh_Trager/NP ;/FF April_Matson/NP -/FF Lori_Trager/NP ;/FF Chris_Olivero/NP -/FF Declan_McDunaugh/NP ;/FF Kirsten_Prout/NP -/FF Amanda_Bloom/NP ;/FF Jaimie_Alexander/NP -/FF Jessi_XX/NP (/FF 2a/ZZ temporada/NC )/FF ;/FF Magda_Apanowicz/NP -/FF Andy_Jensen/NP (/FF 2a/ZZ temporada/NC )/FF ;/FF Usuals/NP ./FF
+Nicholas_Lea/NP -/FF Tom_Foss/NP ;/FF J._Eddie_Peck/NP -/FF Adam_Baylin/NP ;/FF Cory_Monteith/NP -/FF Charlie_Tanner/NP ;/FF Chelan_Simmons/NP -/FF Hillary/NP ;/FF Kurt_Max_Runte/NP -/FF Detectiue_Jason_Breen/NP (/FF 1ª/ZZ Temporada/NP )/FF ;/FF Teryl_Rothery/NP -/FF Carol_Bloom/NP ;/FF Sarah-Jane_Redmond/NP -/FF Rebecca_Thatcher/NP ;/FF Andrew_Jackson/NP (/FF actor/NC )/FF -/FF Cyrus_Reynolds/NP ;/FF Bill_Dow/NP -/FF Profesor_William_Kern/NP ;/FF Martin_Cummins/NP -/FF Brian_Taylor/NP (/FF 2a/ZZ temporada/NC )/FF ;/FF Leah_Cairns/NP -/FF Emily_Hollander/NP (/FF 2a/ZZ temporada/NC )/FF ;/FF Conrad_Coates/NP -/FF Julian_Ballantine/NP (/FF 2a/ZZ temporada/NC )/FF ;/FF Llistat/NP d'/SP episodis/NC ./FF
+Primera/AO temporada/NC ./FF
+1/ZZ ./FF
+Pilot/NP (/FF Pilot/NP )/FF ;/FF 2/ZZ ./FF
+Sleepless/NP in/VM Seattle/NP (/FF (/FF espertant/AQ a/SP Seattle/NP )/FF ./FF
+3/ZZ ./FF
+The/NP lies/AQ that/NC bind/AQ (/FF Mentides/NC que/PR uneixen/VM )/FF ./FF
+4/ZZ ./FF
+Diving_In/NP (/FF Submergint/VM -se/P0 )/FF ./FF
+5/ZZ ./FF
+This/NP is/NC not/VM a/SP test/NC (/FF Això/PD no/RN és/VS una/DI prova/NC )/FF ./FF
+6/ZZ ./FF
+Blame/NP it/VM on/PR the/RG rain/VM (/FF És/VS culpa/NC de/SP la/DA pluja/NC )/FF ./FF
+7/ZZ ./FF
+Kyle/NP got/AQ game/VM (/FF Kyle/NP té/VM joc/NC )/FF ./FF
+8/ZZ ./FF
+Memory/NP serves/VM (/FF La/DA memòria/NC està/VM servida/VM )/FF ./FF
+9/ZZ ./FF
+Overheard/NP (/FF Espiant/VM )/FF ./FF
+10/ZZ ./FF
+Endgame/NP (/FF Fi/NC de/SP el/DA joc/NC )/FF ./FF
+Segona/AO temporada/NC ./FF
+1/ZZ ./FF
+The_Prophet/NP (/FF El/DA profeta/NC )/FF ;/FF 2/ZZ ./FF
+The_Homecoming/NP (/FF La/DA tornada/NC a/SP casa/NC )/FF ./FF ;/FF 3/ZZ ./FF
+The_List/NP is/NC Life/NP (/FF La/DA llista/NC és/VS la/DA vida/NC )/FF ./FF
+Fa_referència/VM a/SP una/DI de/SP les/DA frases/NC més/RG famoses/AQ de/SP la/DA pel·lícula/NC La/NP llista/NC de/SP Schindler_de_Steven_Spielberg/NP ./FF
+4/ZZ ./FF
+Balancing/NP act/RG (/FF Mantenir/VM l'/DA equilibri/NC )/FF ./FF
+5/ZZ ./FF
+Come/VM to/NC your/AQ senses/AQ (/FF Amb/SP els/DA cinc/ZZ sentits/NC )/FF ./FF ;/FF 6/ZZ ./FF
+Does_Kyle/NP dream/NC of/NC electric/AQ fish/NC ?/FF (/FF Somnia/VM en/SP Kyle/NP amb/SP peixos/NC elèctrics/AQ ?/FF )/FF ./FF ;/FF 7/ZZ ./FF
+Free/NP to/NC be/NC you/AQ and/AQ me/P0 (/FF Llibertat/NC per/SP nosaltres/PP )/FF ./FF ;/FF 8/ZZ ./FF
+What/NP s/NC the/AQ frequency/NC ,/FF Kyle/NP ?/FF (/FF Quina/DT és/VS la/DA freqüència/NC ,/FF Kyle/NP ?/FF )/FF ./FF
+Fa_referència/VM a/SP el/DA tema/NC What/NP 's/P0 the/VM frequency/RG Kenneth_de_REM/NP ./FF ;/FF 9/ZZ ./FF
+The_Ghost/NP in/VM the/RG machine/AQ (/FF El/DA fantasma/NC dins/SP la/DA màquina/NC )/FF ./FF ;/FF 10/ZZ ./FF
+House/NP of/NC Cards/NP (/FF Castell/NP de/SP cartes/NC )/FF ./FF ;/FF 11/ZZ ./FF
+Hands/NP on/PR a/SP Hybrid/NP (/FF A/SP tocar/VM l'/DA híbrid/NC )/FF ./FF
+12/ZZ ./FF
+Lockdown/NP (/FF Tancats/NP )/FF ./FF ;/FF 13/ZZ ./FF
+Leap/NP of/NC faith/NC (/FF Salt/NC de/SP fe/NC )/FF ./FF ;/FF 14/ZZ ./FF
+To_C.I.R./NP with/NC love/NC (/FF Per/SP a/SP C.I.R./NP amb/SP apreci/NC )/FF ./FF
+15/ZZ ./FF
+The_Future/NP s/NC So_Bright/NP ,/FF I_Gotta_Wear_Shades/NP (/FF El/DA futur/NC és/VS molt/RG brillant/AQ ,/FF hauré/VA de/SP portar/VM ulleres_de_sol/NC )/FF ;/FF Música/NP ./FF
+La/DA Banda_sonora/NP de/SP la/DA primera/AO temporada/NC de/SP Kyle_XY/NP va/VA sortir/VM a/SP la/DA venta/VM el/DA 22_de_maig_de_2007/WW a/SP els/DA Estats_Units/NP ./FF
+La/DA llista/NC de/SP cançons/NC és/VS la/DA següent/AQ :/FF Hide_Another_Mistake/NP -/FF The/NP 88/ZZ ;/FF Nevermind/NP the/AQ Phonecalls/NP -/FF Earlimart/NP ;/FF Surround/NP -/FF In-Flight_Safety/NP ;/FF I'll_Write/NP the/VM Song/NP ,/FF You_Sing_For_Me/NP -/FF Irving/NP ;/FF Wonderful_Day/NP -/FF O.A.R./NP ;/FF Bug_Bear/NP -/FF Climber/NP ;/FF Honestly/NP -/FF Cary_Brothers/NP ;/FF So_Many_Ways/NP -/FF Mates/NC of/NC State/NP ;/FF Middle_Of/NP the/AQ Night/NP -/FF Sherwood/NP ;/FF Alibis/NP -/FF Marianas_Trench/NP ;/FF It/NP 's/P0 Only_Life/NP -/FF Kate_Voegele/NP ;/FF 3_A.M./WW -/FF Sean_Hayes/NP ;/FF Born_On/NP the/AQ Cusp/NP -/FF American_Analog/NP Set/NC ;/FF Will_You_Remember_Me/NP (/FF Lori/NP 's/P0 Song/NP )/FF -/FF April_Matson/NP ;/FF El/NP compositor/NC Michael_Suby/NP és/VS l'/DA autor/NC d'/SP alguns/PI de/SP els/DA temes/NC que/PR apareixen/VM diverses/DI vegades/NC a/SP el/DA llarg/AQ de/SP la/DA sèrie/NC ,/FF com/CS Welcome/NP to/NC the/AQ Family/NP ,/FF tot_i_que/CS aquests/PD no/RN van/VA ser/VS inclosos/VM a/SP l'/DA àlbum/NC de/SP la/DA banda_sonora/NC ./FF
+Curiositats/NP ./FF
+L'/DA argument/NC és/VS similar/AQ a/SP la/DA pel·lícula/NC D.A.R.Y.L./NP en/SP la/DA que/PR un/DI nen-robot/NC ,/FF creat/VM artificialment/RG degut/VM a/SP un/DI experiment/NC que/PR els/DA científics/NC van/VA considerar/VM fracassat/VM ,/FF és/VS alliberat/VM per/SP un/DI de/SP els/DA científics/NC i/CC acollit/VM per/SP una/DI família/NC ./FF
+La/DA premisa/NC de/SP Kyle_XY/NP també/RG recorda/VM a/SP la/DA sèrie/NC John_Doe/NP ./FF
+Quan/CS Kyle/NP arriba/VM a/SP el/DA centre/NC d'/SP internament/NC de/SP menors/NC se/P0 l'/PP hi/PP assigna/VM el/DA nom/NC de/SP John_Doe/NP ,/FF ja_que/CS aquest/PD és/VS el/DA nom/NC que/PR s'/P0 usa/VM a/SP els/DA Estats_Units/NP per/SP identificar/VM a/SP els/DA homes/NC que/PR tenen/VM una/DI identitat/NC desconeguda/VM ./FF
+Quan/CS en/SP Kyle/NP parla/VM per/SP primera/AO vegada/NC ,/FF el/DA Josh/NP diu/VM "/FF És/VS com/CS aquest/DD indi/NC de/SP el/DA Niu_de_el_Cuc/NP !/FF "/FF ,/FF fa_referència/VM a/SP el/DA cap/NC Bromden/NP de/SP la/DA novel·la/NC de/SP el/DA 1962/ZZ One_Flew_Over/NP the/AQ Cuckoo/NP 's/P0 Nest/NP (/FF Algú/PI va/VA volar/VM sobre/SP el/DA niu/NC de/SP el/DA cucut/NC )/FF ./FF
+Tot_i_que/CS la/DA sèrie/NC transcorre/VM a/SP Seattle/NP ,/FF es/P0 va/VA filmar/VM a/SP Vancouver/NP ./FF
+En/SP molts/DI episodis/NC es/P0 veuen/VM caramels/NC Sour_Patch_Kids/NP ./FF
+Resulta/VM que/CS aquesta/DD marca/NC de/SP gominoles/NC és/VS la/DA principal/AQ patrocinadora/NC per/SP la/DA sèrie/NC ./FF
+El/DA nom/NC de/SP el/DA sisè/AO capítol/NC de/SP la/DA segona/AO temporada/NC és/VS una/DI clara/AQ referència/NC a/SP la/DA novel·la/NC de/SP Philip_K._Dick/NP escrita/VM el/DA 1968/ZZ ,/FF Do_Androids_Dream/NP of/NC Electric_Sheep/NP ?/FF (/FF Somnien/VM els/DA androides/NC amb/SP ovelles/NC elèctriques/AQ ?/FF )/FF ./FF
+La/DA pel·lícula/NC Blade_Runner/NP està/VM basada/VM en/SP aquesta/DD mateixa/DI novel·la/NC ./FF
+El/DA nom/NC de/SP el/DA vuitè/AO episodi/NC de/SP la/DA segona/AO temporada/NC What/NP 's/P0 the/VM frequency/NC ,/FF Kyle/NP ?/FF és/VS una/DI referència/NC a/SP la/DA cançó/NC de/SP el/DA grup/NC R.E.M._Whats/NP the/VM frequency/RG ,/FF Kenneth/NP ?/FF ./FF
+A/SP la/DA sèrie/NC Kyle_XY/NP la/DA melodia/NC Canon/NP en/SP D/NP major/AQ de/SP Pachelbel/NP sona/VM diverses/DI ocasions/NC per/SP acondicionar/VM la/DA història/NC d'/SP amor/NC entre/SP Kyle/NP i/CC Amanda/NP ./FF
+Secció/NP d'/SP hoquei/NC sobre/SP patins/NC de/SP el/DA Centre_d'_Esports_Arenys_de_Munt/NP ./FF
+Història/NP ./FF
+Els/DA primers/AO partits/NC oficials/AQ de/SP l'/DA entitat/NC van/VA ser/VS entre/SP els/DA anys/NC 1961-62/ZZ sota/SP la/DA presidència/NC de/SP Julio_Calderero/NP ./FF
+A_partir_de/SP l'/DA any/NC 1967/ZZ ,/FF amb/SP l'/DA arribada/NC a/SP la/DA presidència/NC d'/SP Antoni_Soler/NP ,/FF l'/DA equip/NC masculí/AQ entra/VM a/SP jugar/VM a/SP la/DA màxima/AQ categoria/NC i/CC va/VA situant/VM -se/P0 entre/SP els/DA millors/AQ equips/NC ./FF
+El/DA moment/NC culminant/AQ va/VA ser/VS la/DA temporada/NC 1976/77/ZZ en/SP la/DA que/PR es/P0 va/VA aconseguir/VM el/DA subcampionat/NC a/SP la/DA Recopa_d'_Europa/NP davant/SP l'/DA AD_Oeiras/NP ./FF
+A_partir_de/SP els/DA anys/NC 80/ZZ perd/VM la/DA categoria/NC ,/FF recuperant/VM -la/PP alguna/DI vegada/NC més/RG fins/SP a/SP situar/VM -se/P0 a/SP la/DA Primera/NP divisió/NC nacional/AQ catalana/AQ ./FF
+La/DA secció/NC femenina/AQ és/VS la/DA que/PR més/RG èxits/NC ha/VA aconseguit/VM amb/SP el/DA subcampionat/NC a/SP la/DA Copa_d'_Europa/NP ,/FF a/SP més/RG de/SP diversos/DI campionats/NC de/SP Catalunya/NP (/FF 1998/99/ZZ i/CC 2001/02/ZZ )/FF i/CC estatals/AQ (/FF 1998/99/ZZ )/FF ./FF
+Algunes/PI de/SP les/DA seves/PX jugadores/NC han/VA competit/VM a/SP nivell/NC de/SP seleccions/NC ,/FF aassolit/VM uns/DI magnífics/AQ resultats/NC ,/FF tant/RG amb/SP la/DA selecció/NC estatal/AQ com/CS amb/SP la/DA selecció/NC catalana/AQ ./FF
+Palmarès/NP ./FF
+Equip/NC femení/AQ 2/ZZ Campionats_d'_Espanya/NP (/FF 1999/ZZ ,/FF 2004/ZZ )/FF ;/FF 2/ZZ Campionats_de_Catalunya/NP (/FF 1998-99/ZZ ,/FF 2001-02/ZZ )/FF ;/FF Sotscampionat_de_la_Copa_d'_Europa/NP (/FF 2006-07/ZZ )/FF ;/FF Equip/NP masculí/AQ Sotscampionat_de_la_Recopa_d'_Europa/NP (/FF 1976-77/ZZ )/FF ;/FF Plantilla/NP masculina/AQ 2007-08/ZZ ./FF
+Entrenador/NP :/FF Jordi_Roca_Preparador/NP físic/AQ :/FF Gerard_Artigas_Enllaços/NP externs/AQ ./FF
+Secció/NP d'/SP hoquei/NC sobre/SP patins/NC de/SP el/DA CE_Arenys_de_Munt/NP ;/FF
+La/DA mitologia/NC hopi/AQ és/VS la/DA pròpia/AQ de/SP els/DA hopi/AQ ,/FF un/DI poble/NC nadiu/AQ nord-americà/AQ ./FF
+No/RN constitueix/VM un/DI corpus/NC de/SP creences/NC tan/RG arrelat/VM com/CS altres/DI cultures/NC però/CC es/P0 poden/VM detectar/VM una/DI sèrie/NC de/SP narracions/NC i/CC concepcions/NC de/SP el/DA món/NC que/PR la/PP conformen/VM ./FF
+A_més_a_més/RG ,/FF la/DA barreja/NC amb/SP missioners/NC cristians/AQ va/VA fer/VM -los/PP adoptar/VM figures/NC religioses/AQ europees/AQ ./FF
+Déus/NC principals/AQ ./FF
+El/DA déu/NC suprem/AQ és/VS Tawa/NP ,/FF un/DI Déu_de_el_Sol/NP que/PR va/VA crear/VM el/DA Primer_Món/NP a_partir_de/SP l'/DA espai/NC infinit/AQ ./FF
+Altres/DI versions/NC indiquen/VM que/CS va/VA crear/VM Sotuknang/NP i/CC aquest/DD va/VA crear/VM l'/DA Àvia_Aranya/NP ,/FF deessa/NC que/PR donà/VM origen/NC a/SP l'/DA Univers/NP ./FF
+Una/DI altra/DI divinitat/NC important/AQ és/VS Masauwu/NP ,/FF déu/NC de/SP la/DA mort/NC ,/FF que/PR va/VA permetre/VM el/DA pas/NC cap/NC a/SP el/DA Quart_Món/NP (/FF el/DA present/AQ )/FF ./FF
+El/DA panteó/NC principal/AQ el/PP completen/VM Coyote/NP ,/FF déu/NC o/CC geni/NC enganyador/AQ ,/FF els/DA bessons/NC de/SP la/DA guerra/NC o/CC kachinas/NC i/CC el/DA déu/NC de/SP el/DA blat_de_moro/NC ./FF
+Els/DA móns/NC ./FF
+Els/DA humans/AQ habitaven/VM en/SP un/DI món/NC primigeni/AQ ,/FF però/CC van/VA pecar/VM contra/SP els/DA déus/NC ,/FF entregant/VM -se/P0 a/SP la/DA promisucuitat/NC sexual/AQ i/CC l'/DA agressivitat/NC ./FF
+Per/SP això/PD l'/DA Àvia_Aranya/NP va/VA conduir/VM els/DA elegits/NC cap/NC a/SP un_segon/ZZ món/NC i/CC va/VA destruir/VM el/DA primer/AO ./FF
+La/DA natura/NC perversa/AQ de/SP l'/DA home/NC va/VA provocar/VM que/CS el/DA procés/NC es/P0 repetís/VM ,/FF fins/SP arribar/VM a/SP el/DA quart/AO món/NC o/CC món/NC present/AQ ./FF
+Aquest/DD quart/AO món/NC podria/VM haver/VA sigut/VM la/DA resta/NC d'/SP un/DI gran/AQ Diluvi/NP universal/AQ o/CC estar/VM per/SP sobre/SP de/SP el/DA tercer/AO ./FF
+Els/DA humans/AQ haurien/VA escalat/VM un/DI bambú/NC gegant/AQ situat/VM a/SP el/DA Gran_Canó_de_el_Colorado/NP per/SP fugir/VM de/SP la/DA destrucció/NC anunciada/VM ./FF
+En/SP aquesta/DD migració/NC un/DI déu/NC ,/FF Pahana/NP ,/FF va/VA marxar/VM cap/DI a/SP l'/DA est/NC i/CC ha/VA de/SP tornar/VM passats/NC uns/DI segles/NC (/FF en/SP un/DI mite/NC anàleg/AQ a/SP l'/DA asteca/NC )/FF ./FF
+Diverses/DI llegendes/NC i/CC símbols/NC han/VA passat/VM de/SP generació/NC en/SP generació/NC hopi/AQ per/SP reconèixer/VM Pahana/NP quan/CS torni/VM ./FF
+Bibliografia/NP ./FF
+Courlander/NP ,/FF Harold/NP ;/FF The_Fourth_World/NP of/NC the/AQ Hopis/NP :/FF The_Epic_Story/NP of/NC the/AQ Hopi_Indians/NP as/NC Preserved/NP in/VM Their_Legends/NP and/AQ Traditions/NP (/FF University/NP of/NC New_Mexico_Press/NP ,/FF 1987/ZZ )/FF ./FF ;/FF McLeod/NP ,/FF Roxie/NP ;/FF Dreams/NP and/AQ rumors/NC :/FF a/SP history/NC of/NC "/FF Book/NP of/NC the/AQ Hopi/NP "/FF Thesis/NP (/FF M.A./NP )/FF (/FF University/NP of/NC Colorado/NP ,/FF 1994/ZZ )/FF ./FF
+MLA/NP ./FF
+El/DA Patí_Hoquei_Club_Sant_Cugat/NP és/VS un/DI club/NC d'/SP hoquei/NC sobre/SP patins/NC de/SP Sant_Cugat_de_el_Vallès/NP ./FF
+Història/NP ./FF
+Els/DA inicis/NC de/SP el/DA PHC_Sant_Cugat/NP com/CS a/SP club/NC d'/SP hoquei/NC són/VS l'/DA any/NC 1967/ZZ ,/FF amb/SP diversos/DI entrenaments/NC ,/FF i/CC el/DA seu/PX primer/AO partit/NC es/P0 va/VA disputar/VM el/DA 8_de_desembre_de_1969/WW amb/SP el/DA Cerdanyola/NP ./FF
+Diverses/DI de/SP les/DA seves/PX jugadores/NC han/VA participat/VM també/RG en/SP competicions/NC internacionals/AQ a/SP nivell/NC de/SP seleccions/NC ,/FF tant/RG amb/SP la/DA selecció/NC estatal/AQ com/CS amb/SP la/DA selecció/NC catalana/AQ ./FF
+Plantilla/NC masculina/AQ 2007-08/ZZ ./FF
+Entrenador/NP :/FF Xavi_Gimeno_Plantilla/NP femenina/AQ 2007-08/ZZ ./FF
+Entrenador/NP :/FF Santi_Roca_Enllaços/NP externs/AQ ./FF
+Lloc/NP web/NC oficial/AQ ;/FF
+Grup/NP armat/NC o/CC terrorista/NC ,/FF segons/SP les/DA fonts/NC ,/FF de/SP caire/NC independentista/AQ català/AQ ,/FF vegeu/VM Terra_Lliure/NP ;/FF Un/DI butlletí/NC interior/AQ de/SP els/DA catalans/NC llibertaris/AQ a/SP l'/DA exili/NC durant/SP el/DA franquisme/NC ,/FF vegeu/VM Terra_Lliure/NP (/FF butlletí/NC )/FF ;/FF
+El/DA tudó/NC (/FF Columba/NP palumbus/NC )/FF és/VS un/DI columbiforme/NC molt/RG extés/VM per/SP Europa/NP ,/FF el/DA nord/NC d'/SP Àfrica/NP i/CC l'/DA Orient/NP mitjà/AQ ./FF
+És/VS el/DA tipus/NC de/SP colom/NC més/RG gran/AQ de/SP la/DA Península_Ibèrica/NP ,/FF robust/AQ i/CC amb/SP un/DI cap/NC molt/RG petit/AQ en_relació_amb/SP el/DA cos/NC ,/FF presentant/VM unes/DI inconfusibles/AQ taques/NC blanques/AQ a/SP els/DA dos/ZZ costats/NC de/SP el/DA coll/NC i/CC a/SP la/DA part/NC superior/AQ de/SP les/DA ales/NC ./FF
+Té/VM un/DI plumatge/NC gris/AQ tirant/VM a/SP blau/NC a/SP el/DA dors/NC i/CC una/DI mica/NC mes/NC clar/AQ a/SP la/DA part/NC inferior/AQ de/SP el/DA cos/NC ,/FF amb/SP pit/NC de/SP tints/NC vinosos/AQ i/CC la/DA cua/NC acabada/VM amb/SP una/DI banda/NC negra/AQ

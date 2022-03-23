@@ -17028,4 +17028,77 @@ Onomàstica/NP :/FF Parmenió/NP ,/FF destacat/VM general/AQ de/SP Filip_II_de_M
 A/SP la/DA biologia/NC marina/AQ ,/FF el/DA terme/NC de/SP fauna/NC abissal/AQ bentònica/AQ ,/FF que/PR es/P0 la/DA fauna/NC que/PR es/P0 presenta/VM lligada/NC a/SP el/DA fons/NC oceànic/AQ és/VS presenta/VM escassa/AQ i/CC amb/SP trets/NC particulars/AQ ./FF
 Dins/RG d'/SP aquesta/DD disciplina/NC el/DA terme/NC de/SP fauna/NC abissopelàgica/AQ fa_referència/VM a/SP la/DA descripció/NC d'/SP una/DI mena/NC determinada/VM d'/SP ambient/NC o/CC hàbitat/NC natural/AQ ,/FF amb/SP certes/DI especies/VM d'/SP animals/NC marins/AQ ./FF
 La/DA paraula/NC abissal/AQ provinent/AQ de/SP l'/DA abisme/NC ,/FF es/P0 a/SP dir/VM ,/FF un/DI lloc/NC fosc/AQ i/CC a/SP el/DA fons/NC ./FF
-Regió/NP de/SP temperatures/NC fredes/AQ ,/FF pressió/NC hidrostàtica/AQ extremadament/RG elevada/VM ,/FF falta/NC de/SP nutrients/NC i/CC 
+Regió/NP de/SP temperatures/NC fredes/AQ ,/FF pressió/NC hidrostàtica/AQ extremadament/RG elevada/VM ,/FF falta/NC de/SP nutrients/NC i/CC absència/NC total/AQ de/SP llum/NC ./FF
+Una/DI cau/NC abissal/AQ és/VS forma/NC quan/CS la/DA placa/NC oceànica/AQ subdueix/VM spta/VM la/DA placa/NC continental/AQ fet/NC que/PR produeix/VM el/DA trencament/NC de/SP la/DA litosfera/NC i/CC la/DA formació/NC d'/SP una/DI fosa/NC ./FF
+La/DA fauna/NC abissal/AQ està/VM formada/VM per/SP peixos/NC estranys/AQ com/CS lArgyropelecus/NC ,/FF Idiacanthus/NP ,/FF Melanocetus/NP ,/FF Saccopharynx/NP ,/FF Chauliodus/NP o/CC Cryptosaras/NP entre/SP altres/PI ./FF
+a/SP el/DA fons/NC de/SP l'/DA oceà/NC no/RN hi/PP existeix/VM vegetació/NC que/PR aplique/VM la/DA fotosíntesi/NC ,/FF es/P0 a/SP dir/VM ,/FF no/RN hi/PP ha/VA algues/NC verdes/AQ ./FF
+La/DA zona/NC depèn/VM en/SP gran/AQ part/NC de/SP les/DA partícules/NC de/SP detrits/NC que/PR cau/VM des_de/SP la/DA superfície/NC ,/FF excepte/SP en/SP les/DA zones/NC on/PR es/P0 presenten/VM les/DA xemeneies/NC hidrotermals/AQ ,/FF que/PR depenen/VM de/SP l'/DA energia/NC volcànica/AQ ,/FF a_on/RG la/DA producció/NC primària/AQ ,/FF depèn/VM de/SP la/DA quimiosíntesi/NC que/PR es/P0 desenvolupa/VM per/SP especies/VM bacterianes/AQ ,/FF presents/AQ damunt/SP el/DA substrat/NC o/CC els/DA organismes/NC presents/AQ (/FF com/CS a/SP el/DA cas/NC de/SP les/DA brànquies/NC de/SP els/DA pogonòfors/NC )/FF ./FF
+Segons/SP els/DA biòlegs/NC aquesta/DD zona/NC morfològica/AQ de/SP la/DA geografia/NC de/SP el/DA fons/NC marí/AQ ocupa/VM aproximadament/RG més/RG de/SP el/DA 70_%/ZZ de/SP l'/DA àrea/NC total/AQ de/SP els/DA oceans/NC ./FF
+Vegeu/VM també/RG ./FF
+Ecosistemes/NC marins/AQ ;/FF
+Parmenió/NP (/FF Parmenion/NP ,/FF )/FF fou/VS un/DI poeta/NC epigramàtic/AQ grec/NC natural/AQ de/SP Macedònia/NP ,/FF els/DA versos/NC de/SP el/DA qual/PR estan/VM inclosos/VM en/SP la/DA col·lecció/NC de/SP Filip_de_Tessalònica/NP ,/FF i/CC que/PR probablement/RG va/VA viure/VM a/SP el/DA final/NC de/SP el/DA segle/NC I/NP aC/NC ./FF
+Alguns/PI de/SP els/DA seus/PX epigrames/NC han/VA estat/VS reproduïts/VM a/SP lAnalecta/AQ de/SP Brunck/NP i/CC a/SP Lectiones_de_Jacobs/NP ./FF
+Es/P0 caracteritzen/VM per/SP la/DA seva/PX brevetat/NC de/SP la/DA que/PR el/DA mateix/DI autor/NC fa/VM elogi/NC ./FF
+Parmenió/NP (/FF Parmenion/NP ,/FF fou/VS un/DI arquitecte/NC grec/AQ a/SP el/DA servei/NC d'/SP Alexandre_el_Gran/NP ./FF
+El/DA rei/NC macedoni/AQ li/PP va/VA donar/VM la/DA superintendència/NC de/SP els/DA treballs/NC d'/SP escultura/NC especialment/RG a/SP el/DA temple/NC de/SP Serapis/NP ,/FF que/PR de/SP el/DA nom/NC de/SP l'/DA arquitecte/NC fou/VS anomenat/VM Parmenionis/NP ./FF
+Climent_d'_Alexandria/NP li/PP atribueix/VM la/DA gran/AQ estàtua/NC de/SP Serapis/NP a/SP Briaxis/NP ./FF
+Onomàstica/NP :/FF Parmenisc_de_Metapontum/NP ,/FF filòsof/NC pitagòric/AQ grec/NC ;/FF Parmenisc/NP (/FF gramàtic/NC )/FF ,/FF gramàtic/NC i/CC comentarista/NC grec/AQ ./FF
+Parmenisc_de_Metapontum/NP (/FF Parmeniscus/NP ,/FF )/FF fou/VS un/DI filòsof/NC pitagòric/AQ grec/NC nadiu/AQ de/SP Metapontum/NP que/PR va/VA viure/VM a/SP el/DA la/DA meitat/NC de/SP el/DA segle_V/WW aC/NC ./FF
+Iàmblic/NP l'/PP anomena/VM i/CC diu/VM que/CS era/VS ric/AQ i/CC de_bona_família/RG ./FF
+L'/DA esmenta/VM també/RG Diògenes_Laerci/NP ./FF
+Parmenisc/NP (/FF Parmeniscus/NP ,/FF )/FF fou/VS un/DI gramàtic/NC i/CC comentarista/NC grec/AQ ./FF
+S'/P0 han/VA conservat/VM alguns/DI fragments/NC i/CC noticies/VM de/SP la/DA seva/PX obra/NC ,/FF especialment/RG mercès/NC a/SP Esteve_Bizantí/NP ./FF
+Marc_Terenci_Varró/NP diu/VM que/CS fou/VS el/DA que/PR va/VA establir/VM el/DA caràcter/NC distintiu/AQ d'/SP algunes/DI paraules/NC ./FF
+Parmenó/NP (/FF Parmenon/NP ,/FF )/FF fou/VS un/DI poeta/NC coriàmbic/AQ grec/NC nadiu/AQ de/SP Bizanci/NP ./FF
+Alguns/PI de/SP els/DA seus/PX versos/NC son/VM esmentats/VM per/SP Ateneu_de_Naucratis/NP ,/FF per/SP l'/DA escolàstica/NC de/SP Píndar/NP ,/FF per/SP Nicandre/NP i/CC per/SP Esteve_Bizantí/NP ,/FF i/CC en/SP conjunt/NC han/VA estat/VS col·leccionats/VM en/SP una_sola/ZZ obra/NC per/SP Meineke/NP (/FF Choliambica_Poesis_Graecorum/NP ,/FF Berol/NP ./FF 1845/ZZ )/FF ./FF
+Treblinka_II/NP fou/VS un/DI camp/NC d'/SP extermini/NC nazi/AQ a/SP la/DA Polònia/NP ocupada/VM durant/SP la/DA Segona_Guerra_Mundial/NP ./FF
+a/SP el/DA voltant/NC de/SP 750.000/ZZ jueus/NC i/CC d'/SP altres/DI víctimes/NC de/SP l'/DA holocaust/NC ,/FF com/CS ara/RG uns/DI 2.000/ZZ gitanos/NC ,/FF hi/PP foren/VS assassinats/NC entre/SP el/DA juliol_del_1942/WW i/CC l'/DA octubre_del_1943/WW ./FF
+Les/DA instal·lacions/NC properes/AQ de/SP Treblinka_I/NP eren/VS un/DI camp/NC de/SP treballs/NC forçats/NC i/CC un/DI complex/NC administratiu/AQ de/SP suport/NC a/SP el/DA camp/NC d'/SP extermini/NC principal/AQ ./FF
+Referències/NP ./FF
+Parrasi/NP (/FF Parrhasius/NP ,/FF )/FF fou/VS un/DI destacat/VM pintor/NC grec/AQ nadiu/AQ d'/SP Efes/NP ,/FF fill/NC i/CC deixeble/NC d'/SP Evenor/NP ./FF
+Pertanyé/VM a/SP l'/DA escola/NC jònica/AQ i/CC va/VA exercir/VM el/DA seu/PX art/NC principalment/RG a/SP Atenes/NP d'/SP eon/NC va/VA obtenir/VM la/DA ciutadania/NC ./FF
+Va/VA florir/VM vers/SP el/DA 400/ZZ aC/NC (/FF algunes/DI versions/NC donen/VM entre/SP el/DA 440/ZZ aC/NC i/CC el/DA 347/ZZ aC/NC )/FF ./FF
+Sembla/VM que/CS ja/RG tenia/VM un/DI gran/AQ reputació/NC abans/RG de/SP la/DA mort/NC de/SP Sòcrates/NP el/DA 399/ZZ aC/NC ./FF
+Plini_el_Vell/NP diu/VM que/CS el/DA seu/PX mèrit/NC era/VS la/DA cura/NC de/SP les/DA seves/PX pintures/NC en/SP tots/DI els/DA seus/PX elements/NC essencials/AQ ,/FF proporcions/NC ,/FF i/CC expressivitat/NC ./FF
+Va/VA pintar/VM herois/NC i/CC deus/NC ./FF
+El/DA seu/PX caràcter/NC era/VS arrogant/AQ (/FF "/FF Quo/NP nemo/VM insolentius/AQ sit/NC usus/AQ gloria/VM artis/NC "/FF diu/VM Plini/NP )/FF i/CC reclamava/VM un/DI origen/NC diví/AQ ,/FF descendent/AQ d'/SP Apol·lo/NP ./FF
+De/SP les/DA seves/PX obres/NC esmentades/VM per/SP Plini/NP la/DA més/RG famosa/AQ fou/VS una/DI pintura/NC de/SP el/DA poble/NC atenenc/AQ (/FF "/FF debebat/NC namque/RG varium/NC ,/FF iracundum/NC ,/FF injustum/NC ,/FF inconstantem/VM ,/FF eundem/NC exorabilem/VM ,/FF clementem/VM ,/FF misericordem/VM ,/FF gloriosum/NC ,/FF excelsum/NC ,/FF humilem/VM ,/FF ferocem/NC ,/FF fugacemque/RG ,/FF et/P0 omnia/VM pariter/NC ostendere/RG "/FF )/FF el/DA contingut/NC de/SP la/DA qual/PR no/RN es/P0 coneix/VM ;/FF un/DI altre/PI destacada/VM fou/VS un/DI Teseu/NP conservat/VM a/SP el/DA Capitoli/NP ./FF
+També/RG va/VA crear/VM pintures/NC eròtiques/AQ com/CS l'/DA Aquigal/NP ,/FF i/CC Meleagre/NP amb/SP Atlanta/NP ./FF
+Plini/NP esmenta/VM els/DA títols/NC d'/SP altres/DI pintures/NC de/SP caràcter/NC mitològic/AQ ./FF
+Les/DA ales/NC són/VS extremitats/NC de/SP el/DA cos/NC que/PR tenen/VM tres/ZZ grups/NC d'/SP animals/NC :/FF els/DA ocells/NC ,/FF els/DA insectes/NC i/CC els/DA quiròpters/NC tot_i_que/CS també/RG en/PP tingueren/VM els/DA ja/RG extingits/VM pterosaures/NC ./FF
+Són/VS usades/VM habitualment/RG per/SP a/SP volar/VM ,/FF encara/RG que/CS no/RN tots/DI els/DA animals/NC que/PR les/PP posseeixen/VM són/VS capaços/AQ de/SP mantenir/VM -se/P0 a/SP l'/DA aire/NC ,/FF com/CS és/VS el/DA cas/NC de/SP els/DA estruços/NC o/CC de/SP els/DA pingüins/NC ./FF
+Alguns/DI animals/NC tenen/VM membranes/NC entre/SP les/DA potes/NC i/CC el/DA cos/NC (/FF com/CS els/DA dermòpters/NC )/FF ,/FF entre/SP els/DA dits/NC ,/FF o/CC entre/SP costelles/NC mòbils/AQ (/FF el/DA rèptil/NC Draco/NP volans/NC )/FF ,/FF però/CC no/RN són/VS suficients/AQ per/SP a/SP poder/VM volar/VM i/CC no/RN s'/P0 anomenen/VM ales/NC ./FF
+Quiròpters/NP ./FF
+En/SP els/DA mamífers/NC quiròpters/NC (/FF ratapinyades/NC )/FF les/DA extremitats/NC anteriors/AQ i/CC els/DA dits/NC creen/VM un/DI suport/NC per/SP la/DA membrana/NC que/PR els/PP permet/VM el/DA vol./NC Ocells/NP ./FF
+Llegenda/NP a/SP :/FF ales/NC b/AQ :/FF unions/NC c/NC :/FF músculs/NC dorsoventrals/NC d/AQ :/FF músculs/NC longitudinals/AQ ]/FF ]/FF En/NP els/DA ocells/NC les/DA extremitats/NC anteriors/AQ són/VS les/DA que/PR permeten/VM el/DA vol/NC i/CC porten/VM les/DA plomes/NC que/PR formen/VM la/DA superfície/NC sustentadora/AQ ./FF
+Insectes/NP ./FF
+En/SP els/DA insectes/NC les/DA ales/NC (/FF un/ZZ o/CC dos/ZZ parells/NC )/FF són/VS expansions/NC de/SP el/DA tòrax/NC ./FF
+No/RN s'/P0 han/VA de/SP confondre/VM amb/SP les/DA èlitres/NC que/PR tenen/VM alguns/DI insectes/NC (/FF coleòpters/NC )/FF ,/FF que/PR serveixen/VM justament/RG per/SP protegir/VM les/DA ales/NC ,/FF ni/CC els/DA halteris/NC presents/AQ a/SP els/DA dípters/NC ./FF
+Ambdues/DI estructures/NC deriven/VM de/SP segments/NC corporals/AQ que/CS en/SP altres/DI classes/NC d'/SP insectes/NC generen/VM ales/NC funcionals/AQ ./FF
+Onomàstica/NP :/FF Parteni/NP (/FF camarlenc/NC )/FF ,/FF cap/NC de/SP camarlencs/NC de/SP Domicià/NP ;/FF Parteni_de_Nicea/NP ,/FF gramàtic/NC grec/AQ ;/FF Parteni/NP (/FF gramàtic/NC )/FF ,/FF gramàtic/NC grec/AQ ;/FF Parteni_de_Focea/NP ,/FF poeta/NC grec/AQ ;/FF Societat/NP :/FF Parteni/NP (/FF classe/NC )/FF ,/FF fill/NC de/SP mare/NC soltera/AQ a/SP l'/DA antiga/AQ Grècia/NP ;/FF
+Parteni/NP (/FF Parthenius/NP ,/FF )/FF fou/VS el/DA cap/NC de/SP camarlencs/NC (/FF cubiculo/NC praepositus/NC )/FF de/SP Domicià/NP ./FF
+Va/VA prendre_part/VM activa/AQ a/SP la/DA conspiració/NC que/PR va/VA acabar/VM amb/SP la/DA vida/NC de/SP l'/DA emperador/NC (/FF any/NC 96/ZZ )/FF i/CC després/RG va/VA persuadir/VM a/SP Nerva/NP d'/SP acceptar/VM la/DA corona/NC ,/FF però/CC a/SP el/DA cap/NC de/SP poc/RG fou/VS executat/VM junt/RG amb/SP altres/DI conspiradors/NC ,/FF per/SP soldats/NC partidaris/AQ de/SP Domicià/NP ,/FF sense/SP que/CS Nerva/NP pogués/VM o/CC volés/VM fer/VM res/PI per/SP evitar/VM -ho/PP ./FF
+Els/DA soldats/NC li/PP van/VA tallar/VM els/DA genitals/NC i/CC després/RG el/PP van/VA matar/VM ./FF
+Parteni_de_Nicea/NP (/FF Parthenius/NP ,/FF )/FF fou/VS un/DI gramàtic/NC grec/AQ nadiu/AQ de/SP Nicea_de_Bitínia/NP (/FF algunes/DI fonts/NC el/DA fan/VM nadiu/AQ de/SP Mirlea/NP o/CC Myrlea/NP ,/FF però/CC tant/RG Esteve_Bizantí/NP com/CS a/SP Suides/NP es/P0 diu/VM clarament/RG que/CS era/VS de/SP Nicea/NP )/FF ./FF
+Era/VS fill/NC d'/SP Heràclides/NP i/CC Eudoranor/NP (/FF o/CC Teta/NP )/FF ./FF
+Fou/VS fet/NC presoner/AQ per/SP Cinna/NP a/SP la/DA guerra/NC contra/SP Mitridates_VI_Eupator/NP i/CC convertit/VM en/SP esclau/NC ,/FF però/CC va/VA rebre/VM la/DA manumissió/NC per/SP els/DA seus/PX coneixements/NC ;/FF hauria/VA viscut/VM fins/RG a/SP el/DA regnat/NC de/SP Tiberi/NP ,/FF el/DA que/PR sembla/VM molt/RG de/SP temps/NC (/FF 77/ZZ anys/NC entre/SP la/DA mort/NC de/SP Mitridates/NP i/CC la/DA pujada/NC a/SP el/DA tron/NC de/SP Tiberi/NP ,/FF el/DA que/PR vol/VM dir/VM que/CS hauria/VA d'/SP haver/VA estat/VS fet/VM presoner/NC sent/VM un/DI infant/NC ,/FF i/CC hauria/VA mort/VM molt/RG vell/AQ )/FF ./FF
+Va/VA florir/VM en/SP el/DA regnat/NC d'/SP August/NP a/SP el/DA final/NC de/SP el/DA segle/NC I/NP aC/NC ./FF
+Suides/NP l'/PP anomena/VM com/CS un/DI poeta/NC elegíac/AQ i/CC autor/NC de/SP versos/NC de/SP diverses/DI mesures/NC (/FF )/FF ;/FF només/RG es/P0 conserva/VM una/DI obra/NC seva/PX ,/FF en/SP prosa/NC ,/FF i/CC els/DA títols/NC d'/SP altres/DI obres/NC que/PR són/VS :/FF 1/ZZ ./FF ,/FF en/SP prosa/NC ,/FF l'/DA única/AQ obra/NC conservada/VM ,/FF amb/SP 36/ZZ breus/NC histories/VM d'/SP amor/NC que/PR acaben/VM malament/RG ./FF
+Parteni/NP (/FF Parthenius/NP ,/FF )/FF fou/VS un/DI gramàtic/NC grec/AQ ,/FF deixeble/NC de/SP el/DA gramàtic/NC alexandrí/AQ Dionís/NP ,/FF que/PR va/VA viure/VM a/SP el/DA segle/NC I/NP aC/NC ./FF
+L'/DA esmenta/VM Ateneu_de_Naucratis/NP que/CS dona/NC el/DA títol/NC d'/SP una/DI de/SP les/DA seves/PX obres/NC :/FF (/FF Athenaeus/NP ,/FF XI/NP ,/FF p/NC ./FF 467/ZZ ,/FF c/NC ./FF p/NC ./FF 501/ZZ ,/FF a/SP ./FF
+XV/NP p/NC ./FF 680/ZZ ,/FF d/NC ./FF e/NC ./FF )/FF ./FF
+També/RG l'/PP esmenta/VM Eustaci_d'_Epifania/NP (/FF ad/SP Il/NP ./FF
+XXIII/NP ./FF p/NC ./FF 1412/ZZ ,/FF ad/SP Od/NP ./FF
+XV/NP ./FF p/NC ./FF 567/ZZ )/FF ./FF
+Parteni_de_Focea/NP (/FF Parthenius/NP ,/FF )/FF fou/VS un/DI poeta/NC grec/AQ ,/FF esmentat/VM sovint/RG per/SP Esteve_Bizantí/NP ./FF
+Segons/SP Esteve_Bizantí/NP caldria/VM situar/VM -lo/PP després/RG de/SP què/PT Magnenci/NP matés/VM a/SP Flavi_Juli_Constant/NP el/DA 350/ZZ ./FF
+A/SP l'/DA antologia/NC grega/AQ consta/VM un/DI epigrama/NC d'/SP Erici_de_Cízic/NP que/PR està/VM dirigit/VM a/SP Parteni/NP ,/FF però/CC encara/RG que/CS hi/PP ha/VA opinions/NC a/SP favor/NC ,/FF no/RN sembla/VM que/CS estigui/VM dirigit/VM a/SP el/DA poeta/NC ./FF
+Onomàstica/NP :/FF Parisatis_de_Pèrsia/NP ,/FF filla/NC d'/SP Artaxerxes_I_de_Pèrsia_Longimà/NP i/CC esposa/NC de/SP Darios_II_de_Pèrsia_Ocus/NP ;/FF Parisatis/NP ,/FF princesa/NC ,/FF princesa/NC persa/AQ filla/NC d'/SP Artaxerxes_III_de_Pèrsia_Ocus/NP ;/FF
+Parisatis/NP (/FF Parysatis/NP )/FF fou/VS filla/NC d'/SP Artaxerxes_III_de_Pèrsia_Ocus/NP ./FF
+Segons/SP Flavi_Arrìa/NP ,/FF el/DA rei/NC Alexandre_el_Gran/NP s'/P0 hi/PP va/VA casar/VM a/SP Susa/NP el/DA 325/ZZ aC/NC a/SP el/DA mateix/DI temps/NC que/PR es/P0 casava/VM també/RG amb/SP Barsine/NP o/CC Estàtira/NP ,/FF la/DA filla/NC de/SP Darios_III_de_Pèrsia/NP ./FF
+Arrià/NP esmenta/VM a/SP Aristòbul_de_Cassandria/NP com/CS la/DA seva/PX font/NC però/CC aquest/DD segon/AO matrimoni/NC no/RN és/VS esmentat/VM per/SP cap/DI més/RG autor/NC ./FF
+Parisatis/NP (/FF Parysatis/NP )/FF fou/VS filla/NC d'/SP Artaxerxes_I_de_Pèrsia_Longimà/NP ,/FF i/CC després/RG reina/NC de/SP la/DA Pèrsia_Aquemènida/NP ./FF
+El/DA seu/PX pare/NC la/PP va/VA donar/VM en/SP matrimoni/NC a/SP el/DA seu/PX germà/NC (/FF oncle/NC de/SP Parisatis/NP )/FF Darios_II_de_Pèrsia_Ocus/NP ,/FF que/PR després/RG fou/VS rei/NC el/DA 424/ZZ aC/NC succeint/VM a/SP Xerxes_II_de_Pèrsia/NP ./FF
+Darios_II/NP tenia/VM un/DI caràcter/NC dèbil/AQ i/CC Parisatis/NP va/VA governar/VM de/SP fet/VM l'/DA Imperi/NP ./FF
+La/DA seva/PX administració/NC foren/VS una/DI seria/VS d'/SP assassinats/NC :/FF els/DA germans/NC de/SP Darios/NP ,/FF Sogdià/NP i/CC Arsites/NP foren/VS executats/VM ,/FF així/RG com/CS els/DA ministres/NC Artufi/NP i/CC Artoxares/NP ./FF
+La/DA família/NC d'/SP Estàtira/NP ,/FF la/DA dona/NC de/SP el/DA seu/PX fill/NC Artaxerxes/NP (/FF futur/NC Artaxerxes_II_de_Pèrsia/NP )/FF ,/FF fou/VS també/RG sacrificada/VM i/CC només/RG es/P0 va/VA salvar/VM la/DA mateixa/DI Estàtira/NP ./FF

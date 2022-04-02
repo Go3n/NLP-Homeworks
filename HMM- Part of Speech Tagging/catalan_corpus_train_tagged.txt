@@ -17600,4 +17600,108 @@ The_Struggle_For_Modernity/NP :/FF Nationalism/NP ,/FF Futurism/NP and/AQ Fascis
 Westport/NP ,/FF CT/NP :/FF Praeger/NP ./FF
 Glenny/NP ,/FF Misha/NP ./FF
 Balkans/NP :/FF Nationalism/NP ,/FF War/NP and/AQ the/AQ Great_Powers/NP ,/FF 1804-1999/ZZ ./FF
-New
+New_York/NP ,/FF USA/NP :/FF Penguin_Books/NP ,/FF 2001/ZZ ./FF
+Mussolini/NP ,/FF Benito/NP ./FF 1935/ZZ ./FF
+Fascism/NP :/FF Doctrine/NP and/AQ Institutions/NP ./FF
+Rome/NP :/FF Ardita_Publishers/NP ./FF
+Pauley/NP ,/FF Bruce_F./NP 2003/ZZ ./FF
+Hitler/NP ,/FF Stalin/NP ,/FF and/AQ Mussolini/NP :/FF Totalitarianism/NP in/VM the/RG Twentieth_Century/NP ./FF
+Wheeling/NP :/FF Harlan_Davidson/NP ,/FF Inc._Pollard/NP ,/FF John_F./NP 1985/ZZ ./FF
+The_Vatican/NP and/AQ Italian_Fascism/NP ,/FF 1929-32/ZZ ./FF
+Cambridge/NP ,/FF USA/NP :/FF Cambridge_University_Press/NP ./FF
+Sarti/NP ,/FF Roland/NP ./FF 1974/ZZ ./FF
+The_Ax_Within/NP :/FF Italian_Fascism/NP in/VM Action/NP ./FF
+New_York/NP :/FF New_Viewpoints/NP ./FF
+Smith/NP ,/FF Dennis_Mack/NP ./FF 1997/ZZ ./FF
+Modern_Italy/NP ;/FF A_Political_History/NP ./FF
+Ann_Arbor/NP :/FF The_University/NP of/NC Michigan_Press/NP ./FF
+Seton-Watson/NP ,/FF Christopher/NP ./FF 1967/ZZ ./FF
+Italy/NP from/NC Liberalism/NP to/NC Fascism/NP :/FF 1870/ZZ to/NC 1925/ZZ ./FF
+London/NP :/FF Methuen_&_Co._Ltd._Thayer/NP ,/FF John_A./NP 1964/ZZ ./FF
+Italy/NP and/AQ the/AQ Great_War/NP ./FF
+Madison/NP and/AQ Milwaukee/NP :/FF University/NP of/NC Wisconsin_Press/NP ./FF
+Pasies/NP (/FF Pasias/NP ,/FF )/FF fou/VS un/DI destacat/VM pintor/NC grec/AQ ,/FF germà/NC d'/SP un/DI modelador/NC de/SP certa/DI fama/NC de/SP nom/NC Egineta/NP ,/FF i/CC deixeble/NC d'/SP Erigò/NP ./FF
+Inicialment/RG fou/VS l'/DA encarregat/NC de/SP donar/VM color/NC a/SP les/DA pintures/NC de/SP Nealces/NP (/FF Plinius/NP ,/FF H._N._XXXV/NP 11/ZZ ./FF s./NC 40/ZZ ./FF §/FF 41/ZZ )/FF i/CC més/RG tard/RG va/VA pintar/VM completament/RG per/SP el/DA seu/PX compte/NC ./FF
+Pertanyé/VM a/SP l'/DA escola/NC de/SP Sició/NP i/CC va/VA florir/VM vers/SP l'/DA any/NC 220/ZZ aC/NC ./FF
+Onomàstica/NP :/FF Pasícrates_de_Soli/NP ,/FF príncep/NC o/CC rei/NC de/SP Soli/NP a/SP Xipre/NP ;/FF Pasícrates_d'_Esmirna/NP ,/FF metge/NC grec/AQ ;/FF
+La/DA Cala_de_Deià/NP o/CC Cala_Deià/NP és/VS la/DA major/AQ cala/NC de/SP el/DA municipi/NC de/SP Deià/NP ,/FF a/SP Mallorca/NP ,/FF i/CC una/DI de/SP les/DA principals/AQ de/SP la/DA Serra_de_Tramuntana/NP (/FF tan/RG característica/AQ per/SP els/DA seus/PX penyals/NC segats/VM en/SP sa/DA vessant/NC marítima/AQ )/FF ./FF
+Els/DA deianencs/AQ l'/PP anomenen/VM simplement/RG "/FF Sa/DA Cala/NP "/FF ./FF
+Està/VM situada/VM entre/SP les/DA puntes/NC de/SP Deià/NP i/CC Son_Beltran/NP ,/FF i/CC serveix/VM de/SP desembocadura/NC per/SP a/SP el/DA torrent/NC Major_de_Deià/NP ./FF
+És/VS bàsicament/RG una/DI cala/NC de/SP còdols/NC ,/FF però/CC hi/PP ha/VA qualcuns/DI trossos/NC d'/SP arena/NC i/CC ,/FF segons/SP quines/DT èpoques/NC ,/FF d'/SP algues/NC ./FF
+Apareix/VM documentada/VM per/SP primera/AO vegada/NC en/SP el/DA mapa/NC de/SP el/DA Cardenal_Despuig/NP (/FF 1785/ZZ )/FF ./FF
+Va/VA servir/VM tradicionalment/RG d'/SP abric/NC per/SP a/SP les/DA barques/NC de/SP pesca/NC ;/FF de/SP fet/NC hi/PP ha/VA unes/DI característiques/AQ cases/NC de/SP pescadors/NC (/FF avui/RG sense/SP habitar/VM )/FF i/CC tota/DI una/DI estructura/NC d'/SP escars/NC ./FF
+Els/DA pescadors/NC que/PR hi/PP visqueren/VM també/RG cultivaren/VM la/DA vinya/NC i/CC les/DA hortalisses/NC a/SP les/DA marjades/NC de/SP els/DA voltants/NC ,/FF així/RG com/CS la/DA ramaderia/NC ovina/AQ i/CC caprina/NC ./FF
+Actualment/RG els/DA escars/NC encara/RG són/VS emprats/VM per/SP els/DA pescadors/NC amateurs/AQ ,/FF tot_i_que/CS una/DI tempesta/NC en/SP va/VA malmetre/VM uns/DI quants/PI que/PR esperen/VM ser/VS reparats/VM ./FF
+Hi/PP ha/VA dos/ZZ restaurants/NC on/PR es/P0 pot/VM gaudir/VM de/SP bona/AQ cuina/NC a_la_vora_de/SP la/DA mar/NC :/FF Ca/RG 's/P0 Patró_March/NP (/FF a/SP càrrec/NC de/SP descendents/NC d'/SP una/DI de/SP les/DA famílies/NC de/SP pescadors/NC )/FF i/CC Ca/NP 'n/PP Lluc/NP ./FF
+Anècdotes/NP ./FF
+A/SP Cala_Deià/NP es/P0 varen/VM gravar/VM unes/DI escenes/NC de/SP la/DA pel·lícula/NC Evil/NP under/NC the/AQ Sun_de_Guy_Hamilton/NP ;/FF en/SP ella/PP hi/PP actuaven/VM actors/NC de/SP la/DA talla/NC d'/SP en/SP Peter_Ustinov/NP (/FF com/CS a/SP Hèrcules_Poirot/NP )/FF ,/FF i/CC va/VA comptar/VM amb/SP la/DA participació/NC de/SP nombrosos/AQ extres/NC deianencs/AQ ./FF ;/FF
+Pasícrates_de_Soli/NP (/FF Pasicrates/NP ,/FF )/FF fou/VS un/DI príncep/NC o/CC rei/NC de/SP Soli/NP a/SP Xipre/NP ,/FF un/PI de/SP els/DA que/PR es/P0 van/VA sotmetre/VM a/SP Alexandre_el_Gran/NP i/CC que/PR va/VA anar/VM en/SP persona/NC a/SP trobar/VM a/SP el/DA rei/NC macedoni/AQ a/SP Tir/NP el/DA 331/ZZ aC/NC ./FF
+En/SP aquest/DD encontre/NC va/VA prendre_part/VM a/SP els/DA festivals/NC que/PR es/P0 van/VA celebrar/VM amb/SP gran/AQ magnificència/NC ./FF
+El/DA seu/PX fill/NC Nicocles/NP va/VA acompanyar/VM a/SP el/DA rei/NC en/SP la/DA seva/PX campanya/NC asiàtica/AQ ./FF
+El/DA va/VA succeir/VM Eunost/NP probablement/RG abans/RG de/SP el/DA 315/ZZ aC/NC ./FF
+Pasícrates/NP (/FF Pasicrates/NP ,/FF )/FF ,/FF fill/NC de/SP Caprió/NP i/CC nét/NC de/SP Pasícrates/NP ,/FF fou/VS un/DI metge/NC grec/AQ destacat/VM per/SP l'/DA acurada/AQ preparació/NC que/PR feia/VM de/SP els/DA aparells/NC quirúrgics/AQ ./FF
+Era/VS nadiu/AQ d'/SP Esmirna/NP i/CC seguidor/NC d'/SP Erasístrat/NP ./FF
+L'/DA esmenta/VM repetidament/RG Oribasi/NP ./FF
+Fou/VS el/DA pare/NC d'/SP Aristió/NP i/CC va/VA viure/VM probablement/RG després/RG de/SP Nimfòdor/NP i/CC abans/RG d'/SP Heliodor/NP ,/FF i/CC per/SP tant/RG hauria/VA viscut/VM a/SP el/DA segle_II/WW aC/NC o/CC a/SP el/DA segle/NC I/NP aC/NC ./FF
+Probablement/RG es/P0 el/DA Pasícrates/NP esmentat/VM per/SP Asclepíades_Farmació/NP ./FF
+Va/VA deixar/VM un/DI fill/NC de/SP nom/NC Metròdor/NP ./FF
+El/DA dia/NC de/SP la/DA Mare_de_Déu/NP d'/SP agost/WW és/VS com/CS s'/P0 anomena/VM popularment/RG el/DA 15_d'_agost/WW ./FF
+L'/DA Església_Catòlica/NP va/VA fixar/VM aquesta/DD data/NC per/SP a/SP celebrar/VM una/DI de/SP les/DA quatre/ZZ festes/NC més/RG solemnes/AQ dedicades/VM a/SP la/DA Mare_de_Déu/NP ,/FF l'/DA Assumpció/NP ,/FF en/SP què/PR es/P0 recorda/VM la/DA mort/NC i/CC la/DA pujada/NC en_cos_i_ànima/RG de/SP Maria_de_Natzaret/NP ./FF
+Aprofitant/VM que/CS la/DA data/NC cau/NC enmig_de/SP l'/DA estiu/NC són/VS molts/DI els/DA pobles/NC de/SP els/DA Països_Catalans/NP que/PR aprofiten/VM per/SP fer/VM unes/DI festes/NC atraients/AQ per/SP a/SP estiuejants/NC i/CC turistes/NC ./FF
+A/SP més/RG ,/FF molts/PI de/SP pobles/NC celebren/VM també/RG ses/DA festes/NC patronals/AQ aquest/DD dia/NC ,/FF tal_vegada/RG perquè/CS antigament/RG era/VS el/DA moment/NC en/SP què/PR s'/P0 acabava/VM la/DA sega/NC de/SP els/DA camps/NC ./FF
+Joan_Cornudella/NP i/CC Feixa/NP és/VS un/DI advocat/NC i/CC polític/NC català/AQ ,/FF fill/NC de/SP Joan_Cornudella/NP i/CC Barberà/NP ./FF
+De/SP ben/RG jove/NC va/VA militar/VM en/SP el/DA Front_Nacional_de_Catalunya/NP ,/FF com/CS el/DA seu/PX pare/NC ./FF
+Treballà/VM com/CS a/SP tècnic/NC publicitari/AQ i/CC fou/VS multat/VM per/SP participar/VM en/SP la/DA Diada_Nacional_de_Catalunya/NP de/SP 1964/ZZ ./FF
+Es/P0 presentà/VM a/SP les/DA eleccions/NC generals/AQ espanyoles/AQ de/SP 1977/ZZ per/SP el/DA Pacte_Democràtic_per_Catalunya/NP ,/FF però/CC no/RN fou/VS escollit/VM ./FF
+Ha/VA estat/VM membre/NC de/SP la/DA Societat_Catalana_d'_Economia/NP i/CC és/VS membre/NC de/SP el/DA Col·legi_d'_Advocats_de_Barcelona/NP i/CC de/SP la/DA Fundació_Rafael_Campalans/NP ./FF
+Nathan_Hines/NP és/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP ,/FF nascut/VM el/DA 29_de_novembre_de_1976/WW a/SP Wagga_Wagga/NP (/FF Austràlia/NP )/FF ,/FF que/PR juga/VM en/SP la/DA posició/NC de/SP segona/AO Línia/NP ./FF
+Des_de/SP l'/DA any/NC 2005/ZZ juga/VM a/SP l'/DA USAP_de_Perpinyà/NP ./FF
+En/SP competicions/NC internacionals/AQ de/SP seleccions/NC forma_part/VM de/SP la/DA selecció/NC escocesa/AQ ./FF
+Carrera/NP ./FF
+En/SP club/NC ./FF
+Edinburgh/NP fins/RG a/SP 2005/ZZ ./FF
+USAP/NP des_de/SP 2005/ZZ ./FF
+A/SP l'/DA equip/NC nacional/AQ ./FF
+El/DA seu/PX debut/NC internacional/AQ amb/SP la/DA selecció/NC escocesa/AQ va/VA ser/VS l/NC '/FF 1_de_juliol_de_2000/WW contra/SP els/DA All_Blacks/NP ./FF
+Palmarès/NP ./FF
+A/SP l'/DA equip/NC nacional/AQ ./FF
+(/FF a/SP data/NC 01.01.2007/ZZ )/FF 38/ZZ partits/NC ;/FF 1/ZZ assaig/NC (/FF 5/ZZ punts/NC )/FF ;/FF Seleccions/NP per/SP any/NC :/FF 1/ZZ el/DA 2000/ZZ ,/FF 5/ZZ el/DA 2002/ZZ ,/FF 12/ZZ el/DA 2003/ZZ ,/FF 8/ZZ el/DA 2004/ZZ ,/FF 5/ZZ el/DA 2005/ZZ ,/FF 7/ZZ el/DA 2006/ZZ ./FF
+Copa/NP de/SP el/DA món/NC ./FF
+2007/ZZ :/FF 4/ZZ partits/NC ;/FF 2003/ZZ :/FF 4/ZZ partits/NC (/FF Estats_Units/NP ,/FF França/NP ,/FF Fiji/NP ,/FF Austràlia/NP )/FF ./FF
+Enllaços/NC externs/AQ ./FF
+Estadístiques/NC a/SP itsrugby/NC ./FF fr/NC ;/FF Estadítiques/NP a/SP Scrum/NP ./FF com/CS ;/FF Fitxa/NP a/SP l'/DA USAP/NP ;/FF Fitxa/NP ;/FF
+Aurelio_de_Santos_Otero/NP ,/FF filòleg/NC ,/FF orientalista/NC i/CC teòleg/NC espanyol/AQ ./FF
+Nascut/VM a/SP Muñoveros/NP ,/FF Segovia/NP ,/FF l'/DA any/NC 1927/ZZ ./FF
+Cursà/VM estudis/NC humanístics/AQ a/SP Salamanca/NP ,/FF teològics/AQ a/SP Roma/NP i/CC filològics/AQ a/SP Munich/NP ./FF
+Ha/VA desenvolupat/VM la/DA major/AQ part/NC de/SP la/DA seva/PX activitat/NC acadèmica/AQ a/SP Bonn/NP ./FF
+Obra/NC ./FF
+Autor/NP de/SP el/DA llibre/NC de/SP llengua/NC castellana/AQ Los_Evangelios_Apócrifos/NP ,/FF editat/VM l'/DA any/NC 1996/ZZ ./FF
+La/DA Universitat_de_Salamanca/NP li/PP encarregà/VM l'/DA edició/NC crítica/AQ bilingüe/AQ de/SP els/DA Evangelis/NP apòcrifs/AQ en/SP espanyol/AQ ,/FF tasca/NC que/PR va/VA culminar/VM publicant/VM -los/PP en/SP la/DA Editorial_Catòlica/NP ,/FF dins/SP la/DA col·lecció/NC Biblioteca_de_Autores_Cristianos/NP ./FF
+Primer/RG va/VA reunir/VM tot/DI lo/NC existent/AQ en/SP el/DA camp/NC de/SP els/DA textos/NC apòcrifs/AQ ,/FF superant/VM les/DA incompletes/AQ col·leccions/NC anteriors/AQ de/SP Tischendorf/NP ,/FF Peeter/NP ,/FF E._Amann/NP i/CC G._Bonaccorsi/NP ./FF
+Realitzà/VM la/DA traducció/NC directa/AQ de/SP els/DA originals/NC ,/FF el/DA que/PR ,/FF per/SP aquelles/DD llengües/NC que/CS no/RN dominava/VM ,/FF va/VA recorre/VM a/SP les/DA millors/AQ versions/NC que/PR va/VA trobar/VM :/FF l'/DA alemanya/NC de/SP E._Hennecke/NP ,/FF l'/DA anglesa/NC de/SP Montague_Rodhes_James/NP i/CC la/DA francesa/AQ de/SP F._Amiot/NP ./FF
+En/SP llengua/NC castellana/AQ usà/VM la/DA de/SP Edmundo_González-Blanco/NP ,/FF la/DA millor/AQ i/CC quasi/RG única/AQ en/SP espanyol/AQ fins/SP el/DA moment/NC ,/FF però/CC polèmica/NC perquè/CS a/SP vegades/NC sembla/VM beure/VM de/SP traduccions/NC franceses/AQ i/CC considera/VM evangelis/NC apòcrifs/AQ texts/NC que/CS els/DA erudits/NC han/VA desestimat/VM ./FF
+En/SP els/DA texts/NC àrabs/AQ i/CC coptes/AQ li/PP fou/VS particularment/RG difícil/AQ trobar/VM bones/AQ traduccions/NC ./FF
+Cada/DI evangeli/NC va/VA acompanyat/VM de/SP orientacions/NC exegètiques/AQ de/SP diferents/DI tipus/NC per/SP el/DA lector/NC i/CC de/SP una/DI introducció/NC amb/SP els/DA problemes/NC anecdòtics/AQ i/CC textuals/AQ que/PR ofereix/VM el/DA text/NC ,/FF així/RG com/CS de/SP la/DA bibliografia/NC existent/AQ a/SP el/DA respecta/VM ;/FF A/NP més/RG segueix/VM un/DI estudi/NC filològic/AQ que/PR també/RG indaga/VM el/DA influx/NC de/SP aquests/DD texts/NC en/SP l'/DA arqueologia/NC i/CC la/DA iconografia/NC ./FF
+Bibliografia/NP ./FF
+Los_Evangelios_Apócrifos_de_Aurelio_de_Santos_Otero/NP ,/FF 1996/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Crítica/NP de/SP el/DA seu/PX llibre/NC ;/FF
+Abdul_Mati_Klarwein/NP (/FF nat/VM a/SP Hamburg/NP el/DA 9_d'_abril_de_1932/WW i/CC mort/NC a/SP Deià/NP el/DA 7_de_març_del_2002/WW )/FF va/VA ser/VS un/DI pintor/NC conegut/VM sobretot/RG per/SP treballs/NC emprats/VM a/SP cobertes/NC d'/SP àlbums/NC musicals/AQ ./FF
+Es/P0 va/VA emmarcar/VM dins/SP el/DA surrealisme/NC ,/FF el/DA realisme/NC fantàstic/AQ ,/FF l'/DA art/NC visionari/AQ i/CC l'/DA art/NC psicodèlic/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+La/DA llista/NC d'/SP Artists/NP ./FF org/NC ;/FF http://www.matiklarweinart.com;/RG http://www.matiklarwein.de;/RG http://art-bin.com/art/aklarwein.html;/RG
+Robert_Surroca/NP i/CC Tallaferro/NP (/FF Barcelona/NP ,/FF 1934/ZZ )/FF és/VS un/DI escriptor/NC català/AQ ./FF
+A/SP finals/NC de/SP els/DA anys/NC 1950/ZZ va/VA ingressar/VM en/SP el/DA Front_Nacional_de_Catalunya/NP ,/FF sent/VM designat/VM responsable/NC de/SP l'/DA aparell/NC clandestí/AQ de/SP el/DA grup/NC ./FF
+Destacà/VM per/SP ser/VS membre/NC de/SP l'/DA escamot/NC que/PR organitzà/VM la/DA Diada_Nacional_de_Catalunya/NP de/SP 1971/ZZ ./FF
+Col·labora/VM en/SP la/DA redacció/NC de/SP la/DA biografia/NC de/SP el/DA president/NC Francesc_Macià/NP editada/VM per/SP els/DA exiliats/NC de/SP el/DA FNC/NP a/SP França/NP i/CC introduïda/VM clandestinament/RG a/SP Catalunya/NP el/DA 1968/ZZ ./FF
+També/RG s'/P0 encarregà/VM de/SP l'/DA edició/NC de/SP els/DA opuscles/NC dominicals/AQ Històries/NP de/SP la/DA clandestinitat/NC ,/FF publicats/VM per/SP El_Correo_Catalán/NP ./FF
+És/VS cofundador/AQ de/SP el/DA Grup/NP per/SP a/SP l'/DA Anul·lació_de_el_Procés/NP a/SP el/DA President_Lluís_Companys/NP ./FF
+Ha/VA organitzat/VM ,/FF participat/VM i/CC col·laborat/VM en/SP diverses/DI exposicions/NC de/SP caràcter/NC històric/AQ i/CC ha/VA publicat/VM articles/NC a/SP El_Maresme/NP ,/FF Diari_de_Barcelona/NP ,/FF Avui/NP ,/FF El_Llamp/NP ,/FF El_Temps/NP i/CC L'_Avenç/NP ./FF
+Fou/VS candidat/NC per/SP Catalunya_Lliure/NP a/SP les/DA eleccions/NC a/SP el/DA Parlament/NP europeu/AQ de/SP 1989/ZZ ./FF
+Obres/NC ./FF
+Catalunya/NP a/SP Companys/NP (/FF 1990/ZZ )/FF ,/FF recopilació/NC de/SP totes/DI els/DA poemes/NC dedicats/VM a/SP Lluís_Companys/NP ./FF
+La/DA Catalunya/NP resistent/AQ ;/FF Premsa/NP catalana/AQ de/SP l'/DA exili/NC i/CC l'/DA emigració/NC (/FF 1861-1976/ZZ )/FF (/FF 2004/ZZ )/FF ;/FF Joan_Ballester/NP i/CC Canals/NP (/FF 1913-1980/ZZ )/FF (/FF 2007/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Biografia/NP ;/FF
+James/NP "/FF Sawyer/NP "/FF Ford/NP ,/FF personatge/NC de/SP la/DA sèrie/NC nord-americana/AQ Lost/NP interpretat/VM per/SP l'/DA actor/NC Josh_Holloway/NP ./FF
+Estafador/NP i/CC de/SP "/FF bona/AQ vida/NC "/FF ,/FF ha/VA dedicat/VM la/DA seva/PX vida/NC a/SP buscar/VM a/SP l'/DA home/NC que/PR va/VA arruïnar/VM la/DA seva/PX família/NC ./FF
+Torna_d'_Austràlia/NP després/RG d'/SP assassinar/VM a/SP un/DI home/NC que/PR suposadament/RG era/VS qui/PR ell/PP buscava/VM ./FF
+El/DA nom/NC veritable/AQ d'/SP aquest/DD personatge/NC no/RN és/VS Sawyer/NP sinó/CC James_Ford/NP ,/FF però

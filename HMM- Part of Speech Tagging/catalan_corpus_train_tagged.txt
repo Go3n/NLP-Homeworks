@@ -18653,4 +18653,88 @@ El/DA 12_de_desembre/WW ,/FF la/DA Divisió/NP va/VA ser/VS desplegada/VM a/SP B
 El/DA 21_de_desembre/WW ,/FF algunes/DI unitats/NC de/SP la/DA Divisió/NP van/VA participar/VM en/SP la/DA presa/NC en/SP Sankt_Vith/NP ,/FF en/SP el/DA marc/NC de/SP la/DA batalla/NC de/SP les/DA Ardenas/NP ;/FF en/SP aquesta/DD lluita/NC els/DA primers/AO objectius/NC ,/FF els/DA pobles/NC de/SP Recht/NP i/CC Vielsalm/NP ,/FF van/VA ser/VS conquistats/VM amb/SP facilitat/NC ,/FF però/CC la/DA creixent/AQ activitat/NC aèria/AQ nord-americà/AQ davant/SP la/DA millora/NC de/SP les/DA condicions/NC climatològiques/AQ ,/FF va/VA assolir/VM paralitzar/VM l'/DA atac/NC alemany/AQ ,/FF obligant/VM a/SP el/DA comandament/NC divisionari/AQ a/SP suspendre/VM l'/DA atac/NC i/CC retirar/VM la/DA unitat/NC a/SP la/DA zona/NC de/SP Bra/NP i/CC Vaux-Chavanne/NP ./FF
 El/DA 31_de_desembre/WW ,/FF la/DA Divisió/NP va/VA ser/VS enviada/VM cap/NC a/SP el/DA sud/NC ,/FF per/SP a/SP intentar/VM la/DA conquesta/NC de/SP Bastoña/NP juntament/RG amb/SP la/DA 12a/AO Divisió_d'_Infanteria/NP ./FF
 Va/VA seguir/VM insistint/VM en/SP la/DA lluita/NC els/DA dies/NC 3/ZZ i/CC 4_de_gener/WW però/CC la/DA supremacia/NC aèria/AQ de/SP els/DA Aliats/NP va/VA impedir/VM les/DA activitats/NC alemanyes/AQ ,/FF amb/SP el/DA que/PR finalment/RG el/DA 7_de_gener/WW Hitler/NP va/VA ordenar/VM la/DA retirada/NC després/RG de/SP la/DA línia/NC Dochamps-Longchamps/NP i/CC la/DA defensa/NC d'/SP aquestes/DD posicions/NC costés/VM el/DA que/PR costés/VM ./FF
-No/RN obstant/VM això/PD ,/FF les/DA posicions/NC designades/VM per/SP el/DA comandament/NC eren/VS insostenibles/AQ ,/FF amb/SP el/DA que/PR el/DA 17/ZZ i/CC 18_de_gener/WW les/DA tropes/NC alemanyes
+No/RN obstant/VM això/PD ,/FF les/DA posicions/NC designades/VM per/SP el/DA comandament/NC eren/VS insostenibles/AQ ,/FF amb/SP el/DA que/PR el/DA 17/ZZ i/CC 18_de_gener/WW les/DA tropes/NC alemanyes/AQ es/P0 van/VA veure/VM obligades/VM a/SP regressar/VM a/SP els/DA seus/PX punts/NC de/SP partida/NC ./FF
+Durant/SP aquesta/DD retirada/NC ,/FF una/DI vegada/NC més/RG ,/FF la/DA 9a/AO Divisió_Panzer_SS_Hohenstaufen/NP va/VA actuar/VM com/CS força/RG de/SP reraguarda/NC ,/FF protegint/VM la/DA retirada/NC d'/SP altres/DI unitats/NC alemanyes/AQ ./FF
+Front_Oriental/NP ,/FF de/SP nou/AQ ./FF
+A/SP la/DA fi/NC de/SP gener/WW ,/FF la/DA Divisió/NP va/VA ser/VS desplegada/VM en/SP el/DA sector/NC de/SP Kaufenheim-Mayen/NP per/SP a/SP un/DI període/NC de/SP descans/NC ./FF
+No/RN obstant/VM això/PD ,/FF el/DA col·lapse/NC produït/VM en/SP el/DA Front_Oriental/NP va/VA obligar/VM a/SP l'/DA OKW/NP a/SP destinar/VM un/DI cert/AQ nombre/NC d'/SP unitats/NC a/SP enfrontar/VM -se/P0 amb/SP l'/DA aclaparadora/AQ superioritat/NC de/SP l'/DA Exèrcit_Roig/NP ,/FF amb/SP el/DA que/PR la/DA Divisió/NP va/VA ser/VS enviada/VM a/SP Hongria/NP per/SP a/SP assolir/VM l'/DA alliberament/NC de/SP les/DA tropes/NC alemanyes/AQ que/PR havien/VA quedat/VM envoltades/VM a/SP Budapest/NP (/FF Ofensiva_de_el_Llac_Balatón/NP )/FF ./FF
+A/SP la/DA fi/NC de/SP febrer/WW ,/FF les/DA primeres/AO avançades/NC havien/VA arribat/VM a/SP Falubattyan/NP ,/FF ja/RG a/SP Hongria/NP ,/FF però/CC no/RN va/VA ser/VS possible/AQ llançar/VM un/DI atac/NC abans/RG de/SP el/DA 6_de_març/WW ./FF
+Les/DA pèssimes/AQ condicions/NC meteorològiques/AQ ,/FF així/RG com/CS la/DA tenaç/AQ resistència/NC soviètica/AQ ,/FF van/VA provocar/VM el/DA fracàs/NC d'/SP aquesta/DD última/AO operació/NC ofensiva/AQ de/SP les/DA tropes/NC de/SP el/DA Tercer_Reich/NP ,/FF amb/SP el/DA que/PR les/DA restes/NC de/SP la/DA "/FF Hohenstaufen/NP "/FF van/VA iniciar/VM la/DA seva/PX retirada/NC ,/FF passant/VM per/SP Jena/NP ,/FF Berhida/NP ,/FF Liter/NP ,/FF Nemesvámos/NP ,/FF Hidekut/NP i/CC ,/FF finalment/RG ,/FF Mencseli/NP ./FF
+Durant/SP aquesta/DD retirada/NC la/DA Divisió/NP va/VA participar/VM en/SP duríssimes/AQ lluites/NC de/SP reraguarda/NC per/SP a/SP intentar/VM mantenir/VM oberta/VM una/DI via/NC d'/SP escapada/NC per/SP a/SP la/DA resta/NC de/SP divisions/NC ,/FF les/DA 5a/AO SS-Panzer-Division/NP "/FF Wiking/NP "/FF ,/FF 1a/AO Divisió_Panzer/NP ,/FF 3a/AO Divisió_Panzer/NP ,/FF així/RG com/CS per/SP a/SP les/DA restes/NC de/SP la/DA 44a/ZZ Divisió_d'_Infanteria/NP ,/FF la/DA 44a/ZZ Divisió_d'_Infanteria_Reichs-Grenadier-Division_Hoch/NP und/AQ Deutschmeister/NP ./FF
+L'/DA última/AO ofensiva/NC soviètica/AQ va/VA conduir/VM a/SP l'/DA acostament/NC de/SP la/DA Divisió/NP a/SP el/DA Reichsschutzstellung/NP ;/FF només/RG el/DA 6_d'_abril/WW ,/FF després/RG de/SP duríssims/AQ combats/NC ,/FF el/DA que/PR quedava/VM de/SP la/DA "/FF Hohenstaufen/NP "/FF va/VA assolir/VM alliberar/VM -se/PP ./FF
+Rendició/NP ./FF
+El/DA final/NC de/SP la/DA guerra/NC per/SP a/SP els/DA homes/NC de/SP la/DA "/FF Hohenstaufen/NP "/FF va/VA tenir_lloc/VM el/DA 26_d'_abril_de_1945/WW ,/FF quan/CS la/DA Divisió/NP va/VA rebre/VM l'/DA ordre/NC d'/SP interceptar/VM les/DA tropes/NC nord-americanes/AQ a/SP la/DA ciutat/NC austríaca/AQ d'/SP Enns-Steyr-Amstetten/NP i/CC de/SP bloquejar/VM el/DA seu/PX avanç/NC fins/SP a/SP la/DA conclusió/NC de/SP les/DA negociacions/NC que/PR es/P0 començaven/VM a/SP portar_a_terme/VM per/SP a/SP la/DA rendició/NC de/SP Alemanya/NP ./FF
+El/DA 8_de_maig_de_1945/WW ,/FF el/DA que/PR quedava/VM de/SP la/DA 9a/AO Divisió_Panzer_SS_Hohenstaufen/NP es/P0 va/VA rendir/VM a/SP el/DA Exèrcit_de_els_Estats_Units/NP ./FF
+Teatres/NP d'/SP operacions/NC ./FF
+França/NP (/FF formació/NC i/CC entrenament/NC )/FF ,/FF entre/SP gener_de_1943/WW i/CC març_de_1944/WW ;/FF Front_Oriental/NP ,/FF entre/SP abril/WW i/CC juny_de_1944/WW ;/FF Front_Occidental/NP ,/FF entre/SP juliol_de_1944/WW i/CC gener_de_1945/WW ;/FF Front_Oriental/NP ,/FF entre/SP febrer/WW i/CC abril_de_1945/WW ;/FF Condecorats/NP amb/SP la/DA Creu_de_Cavaller/NP ./FF
+En/SP total/NC van/VA ser/VS 12/ZZ els/DA components/NC de/SP la/DA Divisió/NP condecorats/VM amb/SP la/DA Creu_de_Cavaller_de_la_Creu_de_Ferro/NP ./FF
+Comandants/NP ./FF
+SS-Obergruppenführer_Wilhelm_Bittrich/NP (/FF 15_de_febrer_de_1943/WW 29_de_juny_de_1944/WW )/FF ;/FF SS-Oberführer_Thomas_Müller/NP (/FF 29_de_juny_de_1944/WW 10_de_juliol_de_1944/WW )/FF ;/FF SS-Brigadeführer_Sylvester_Stadler/NP (/FF 10_de_juliol_de_1944/WW 31_de_juliol_de_1944/WW )/FF ;/FF SS-Oberführer_Friedrich-Wilhelm_Bock/NP (/FF 31_de_juliol_de_1944/WW 29_d'_agost_de_1944/WW )/FF ;/FF SS-Standartenführer_Walter_Harzer/NP (/FF 29_d'_agost_de_1944/WW 10_d'_octubre_de_1944/WW )/FF ;/FF SS-Brigadeführer_Sylvester_Stadler/NP (/FF 10_d'_octubre_de_1944/WW 8_de_maig_de_1945/WW )/FF ;/FF
+Louise/NP és/VS una/DI òpera/NC en/SP quatre/ZZ actes/NC ,/FF composta/NC per/SP Gustave_Charpentier/NP ,/FF amb/SP llibret/NC francès/AQ de/SP el/DA propi/AQ compositor/NC ,/FF tot_i_que/CS s'/P0 ha/VA indicat/VM la/DA possibilitat/NC que/PR contribuïra/VM el/DA poeta/NC Saint-Pol_Roux/NP ./FF
+Es/P0 va/VA estrenar/VM el/DA 2_de_febrer_de_1900/WW en/SP l'/DA Opéra-Comique/NP ./FF
+L'/DA òpera/NC intenta/VM representar/VM la/DA vida/NC de/SP la/DA classe/NC treballadora/AQ parisenca/AQ ,/FF i/CC a/SP vegades/NC se/P0 la/PP considera/VM un/DI primerenc/AQ exemple/NC d'/SP òpera/NC verista/AQ ./FF
+La/DA vertadera/AQ estrella/NC és/VS la/DA pròpia/AQ ciutat/NC ,/FF a/SP la/DA qual/PR s'/P0 hi/PP dediquen/VM diferents/DI pàgines/NC per/SP descriure/VM 'n/PP l'/DA atmosfera/NC ./FF
+Narra/VM la/DA història/NC de/SP el/DA dissortat/AQ amor/NC entre/SP Louise/NP ,/FF una/DI costurera/NC que/PR viu/VM amb/SP els/DA seus/PX pares/NC a/SP París/NP ,/FF i/CC Julien/NP ,/FF un/DI jove/NC artista/AQ ./FF
+Qualificada/VM de/SP «/FF novel·la/NC musical/AQ »/FF per/SP el/DA seu/PX caràcter/NC narratiu/AQ ,/FF és/VS l'/DA autèntica/AQ obra_mestra/NC de/SP el/DA seu/PX autor/NC ,/FF i/CC l'/DA única/AQ que/PR va/VA entrar/VM a/SP formar_part/VM de/SP el/DA repertori/NC ./FF
+Des_de/SP la/DA seua/PX estrena/NC ,/FF l'/DA òpera/NC va/VA gaudir/VM de/SP bastant/DI èxit/NC ,/FF llançant/VM la/DA carrera/NC de/SP la/DA soprano/NC escocesa/AQ Mary_Garden/NP ,/FF que/PR va/VA assumir/VM el/DA paper/NC protagonista/NC en/SP una/DI de/SP les/DA primeres/AO representacions/NC ,/FF quan/CS la/DA soprano/NC titular/AQ va/VA caure/VM malalta/AQ ./FF
+Se/P0 'n/PP va/VA fer/VM una/DI pel·lícula/NC l'/DA any/NC 1939/ZZ ,/FF amb/SP Grace_Moore/NP en/SP el/DA paper/NC protagonista/NC ./FF
+N'/PP hi/PP ha/VA diversos/DI enregistraments/NC ,/FF i/CC avui/RG en/SP dia/NC es/P0 continua/VM representant/VM ocasionalment/RG ./FF
+L'/DA ària/NC "/FF Depuis/NP le/AQ jour/NC "/FF és/VS una/DI peça/NC interpretada/VM ben/RG sovint/RG en/SP els/DA recitals/NC ./FF
+Personatges/NP ./FF
+Hi/PP intervenen/VM fins/RG a/SP 35/ZZ personatges/NC ,/FF sent/VM una/DI de/SP les/DA òperes/NC de/SP el/DA repertori/NC que/PR més/RG intèrprets/NC necessita/VM ,/FF i/CC que/PR menys/RG permet/VM un/DI lluïment/NC individual/AQ excepte/SP l'/DA ària/NC ja/RG esmentada/VM ./FF
+No/RN obstant/VM això/PD ,/FF poden/VM distingir/VM -se/PP ,/FF com/CS a/SP personatges/NC principals/AQ Julien/NP (/FF tenor/NC )/FF ;/FF Louise/NP (/FF soprano/NC )/FF ;/FF Mare/NP (/FF mezzosoprano/NC )/FF ;/FF Pare/NP (/FF baríton/NC )/FF ;/FF El_Noctàmbul/NP (/FF tenor/NC )/FF ;/FF Sinopsi/NP ./FF
+Acte_I._Casa/NP parisenca/AQ de/SP els/DA pares/NC de/SP Louise/NP ;/FF Louise/NP s'/P0 ha/VA enamorat/VM de/SP el/DA seu/PX veí/NC Julien/NP ./FF
+a/SP el/DA principi/NC de/SP l'/DA òpera/NC ,/FF recorden/VM com/CS es/P0 van/VA conèixer/VM ./FF
+La/DA mare/NC de/SP Louise/NP els/PP interromp/VM i/CC expressa/VM la/DA seua/PX desaprovació/NC per/SP Julien/NP ./FF
+L'/DA esgotat/VM pare/VM arriba/VM de/SP treballar/VM i/CC la/DA seua/PX esposa/NC i/CC filla/NC li/PP preguen/VM que/CS abandone/VM aquest/DD treball/NC tan/RG exigent/AQ ./FF
+No/RN obstant/VM això/PD ,/FF ell/PP creu/VM que/CS és/VS la/DA seua/PX responsabilitat/NC mantenir/VM la/DA família/NC ./FF
+En/SP el/DA sopar/NC ,/FF llegeix/VM una/DI carta/NC que/PR Julien/NP va/VA deixar/VM proposant/VM casar/VM -se/P0 amb/SP Louise/NP ./FF
+A/SP ell/PP li/PP resulta/VM indiferent/AQ ,/FF però/CC la/DA mare/NC el/PP rebutja/VM i/CC quan/PR Louise/NP defensa/VM Julien/NP ,/FF la/DA mare/NC li/PP dóna/VM un/DI bufetada/NC ./FF
+El/DA pacífic/AQ pare/NC demana/VM a/SP la/DA seua/PX filla/NC que/CS sega/VM a/SP llegir/VM el/DA periòdic/NC amb/SP ell/PP ./FF
+Mentre/CS llegeix/VM sobre/SP la/DA primavera/NC a/SP París/NP ,/FF esclata/VM en/SP plors/NC ./FF
+Acte_II/NP ./FF
+Escena_I/NP Un/DI carrer/NC de/SP París/NP ;/FF Un/DI preludi/NC suggereix/VM l'/DA alba/NC a/SP París/NP ./FF
+S'/P0 alça/VM el/DA teló/NC per/SP a/SP mostrar/VM una/DI escena/NC agitada/VM en/SP què/PT tot/DI el/DA món/NC segueix/VM les/DA seues/PX rutines/NC diàries/AQ i/CC parlen/VM de/SP la/DA vida/NC en_general/RG ./FF
+Apareix/VM el/DA noctàmbul/NC ,/FF es/P0 qualifica/VM a/SP si/CS mateix/DI l'/DA esperit/NC de/SP el/DA Plaer_de_París/NP i/CC després/RG se/P0 'n/PP va/VA amb/SP la/DA filla/NC d'/SP un/DI robaveller/NC ./FF
+Apareix/VM Julien/NP amb/SP un/DI grup/NC d'/SP amics/NC ,/FF bohemis/AQ com/CS ell/PP ,/FF per/SP a/SP ensenyar/VM -los/PP on/PR treballa/VM Louise/NP ./FF
+Els/DA diu/VM que/CS si/CS els/DA seus/PX pares/NC no/RN la/PP deixen/VM casar/VM -se/P0 amb/SP ell/PP ,/FF la/DA raptarà/VM ./FF
+Julien/NP canta/VM a/SP la/DA barreja/NC de/SP sons/NC que/PR l'/PP envolten/VM ,/FF dient/VM que/CS és/VS la/DA veu/NC de/SP el/DA propi/AQ París/NP ./FF
+Louise/NP i/CC sa/DA mare/NC arriben/VM a/SP el/DA taller/NC de/SP costura/NC on/PR treballa/VM Louise/NP ,/FF on/PR sa/DA mare/NC la/DA porta/NC a/SP treballar/VM tots/DI els/DA dies/NC ./FF
+Quan/CS la/DA mare/NC se/P0 'n/PP va/VA ,/FF Julien/NP torna/VM ./FF
+Louise/NP li/PP diu/VM que/CS l'/DA estima/NC ,/FF però/CC que/PR també/RG estima/VM molt/RG els/DA seus/PX pares/NC com/CS per/SP a/SP abandonar/VM -los/PP ./FF
+Julien/NP intenta/VM persuadir/VM -la/PP que/PR fugisca/VM amb/SP ell/PP ,/FF i/CC finalment/RG la/PP convenç/VM que/CS han/VA de/SP fer/VM -ho/PP aviat/RG ./FF
+Escena_II/NP a/SP el/DA taller/NC de/SP Louise/NP ;/FF Les/NP costureres/NC bromegen/VM amb/SP Louise/NP ,/FF per/SP estar/VM enamorada/NC ./FF
+Se/P0 sent/VM fora/RG una/DI banda/NC i/CC Julien/NP canta/VM una/DI serenata/NC ./FF
+Les/DA xiques/NC li/PP admiren/VM per/SP el/DA seu/PX aspecte/NC i/CC la/DA seua/PX veu/NC ./FF
+Louise/NP sigil·losament/RG se/P0 'n/PP va/VA ,/FF per/SP a/SP fugir/VM amb/SP Julien/NP ./FF
+Acte_III/NP ./FF
+Una/DI caseta/NC prop/RG de/SP París/NP ;/FF L'/NP acte/NC s'/P0 obri/VM amb/SP l'/DA ària/NC més/RG coneguda/NC ,/FF "/FF Depuis/NP le/AQ jour/NC "/FF ;/FF els/DA amants/NC s'/P0 han/VA traslladat/VM a/SP un/DI caseta/NC des_de/SP la/DA que/PR es/P0 veu/VM París/NP i/CC en/SP l'/DA ària/NC ella/PP canta/VM la/DA felicitat/NC de/SP la/DA seua/PX nova/AQ existència/NC i/CC el/DA seu/PX amant/NC ./FF
+Després/RG canten/VM un/DI llarg/AQ duo/NC d'/SP amor/NC ./FF
+Entren/VM molts/DI bohemis/NC i/CC coronen/VM Louise/NP com/CS la/DA Reina_de_Montmartre/NP ./FF
+El/DA Noctàmbul/NP presideix/VM com/CS a/SP Rei_de_els_Ximples/NP ./FF
+Apareix/VM la/DA mare/NC de/SP Louise/NP i/CC acaba/VM la/DA festa/NC ./FF
+Li/PP parla/VM a/SP Louise/NP de/SP la/DA malaltia/NC de/SP son/NC pare/NC i/CC que/PR sol/VM anar/VM a/SP l'/DA habitació/NC de/SP Louise/NP en/SP meitat/NC de/SP la/DA nit/NC ,/FF encara/RG que/CS han/VA acordat/VM tenir/VM -la/PP per/SP morta/NC ./FF
+Fins_i_tot/RG Julien/NP es/P0 commou/VM ,/FF i/CC deixa/VM que/CS Louise/NP el/PP deixe/VM ,/FF amb/SP la/DA promesa/NC que/PR tornarà/VM quan/CS ell/PP ho/PP desitge/VM ./FF
+Acte_IV/NP ./FF
+La/DA casa/NC parisenca/AQ de/SP els/DA pares/NC de/SP Louise/NP ;/FF El/NP pare/NC ha/VA recuperat/VM la/DA salut/NC ./FF
+De/SP nou/AQ treballa/VM ,/FF però/CC ha/VA acabat/VM acceptant/VM filosòficament/RG la/DA pobresa/NC ./FF
+La/DA seua/PX recuperació/NC pot/VM atribuir/VM -se/P0 a/SP la/DA tornada/NC de/SP Louise/NP ,/FF a/SP qui/PR pren/VM en/SP els/DA seus/PX braços/NC ,/FF tot/DI cantant/NC -li/PP una/DI cançó/NC de/SP bressol/NC ./FF
+No/RN aconsegueix/VM animar/VM -la/PP ,/FF perquè/CS ella/PP enyora/VM Julien/NP ./FF
+Se/P0 sent/VM un/DI alegre/AQ vals/NC fora/RG ,/FF i/CC ella/PP canta/VM bojament/RG ,/FF a/SP l'/DA amor/NC i/CC la/DA llibertat/NC ./FF
+Els/DA seus/PX pares/NC queden/VM sorpresos/VM ,/FF i/CC el/DA pare/NC va/VA enutjant/VM -se/P0 per/SP moments/NC ./FF
+Escridassa/VM Louise/NP i/CC li/PP demana/VM que/CS se/P0 'n/PP vaja/VM ;/FF si/CS això/PD és/VS el/DA que/PR ella/PP vol/VM .../FF que/PR se/P0 'n/PP vaja/VM a/SP dansar/VM i/CC riure/VM ./FF
+Ell/PP comença/VM a/SP atacar/VM -la/PP ,/FF però/CC la/DA mare/NC s'/P0 interposa/VM ./FF
+Louise/NP se/P0 'n/PP va/VA corrents/NC de/SP casa/NC per/SP a/SP viure/VM de/SP nou/AQ amb/SP Julien/NP ./FF
+Aleshores/RG ,/FF el/DA pare/NC s'/P0 adona/VM de/SP el/DA que/PR ha/VA fet/VM ./FF
+La/DA crida/NC :/FF "/FF Louise/NP ,/FF Louise/NP !/FF "/FF ./FF
+Ella/PP se/P0 n'/PP ha/VA anat/VM i/CC ,/FF desesperat/VM ,/FF ell/PP mostra/VM el/DA puny/NC a/SP la/DA ciutat/NC que/PR li/PP ha/VA robat/VM a/SP la/DA seua/PX filla/NC :/FF "/FF París/VM !/FF "/FF ,/FF diu/VM ,/FF i/CC així/RG acaba/VM l'/DA òpera/NC ./FF
+Àries/NP destacades/VM ./FF
+"/FF Depuis/NP le/AQ jour/NC "/FF (/FF Louise/NP )/FF ;/FF "/FF Cançó/NC de/SP bressol/NC "/FF (/FF Pare/NP )/FF ;/FF Vegeu/NP també/RG ./FF
+Llista/NC d'/SP òperes/NC més/RG importants/AQ ;/FF
+Tracta/VM de/SP els/DA castells/NC Europeus/NP ./FF ;/FF Una/DI masmorra/NC és/VS una/DI presó/NC subterrània/AQ on/PR els/DA condemnats/NC hi/PP estan/VM tancats/NC ./FF
+Etimologia/NP ./FF
+En/SP anglès/NC ,/FF la/DA paraula/NC masmorra/NC (/FF dungeon/NC )/FF deriva/VM de/SP el/DA francès/NC antic/AQ donjon/NC ,/FF que/PR procedeix/VM de/SP el/DA Llatí/NP dominus/AQ ,/FF "/FF Senyor/NP "/FF ./FF
+Tanmateix/RG ,/FF en/SP francès/AQ ,/FF la/DA paraula/NC donjon/AQ significa/VM "/FF mantenir/VM "/FF (/FF un/DI tipus/NC de/SP torre/NC )/FF ,/FF i/CC la/DA paraula/NC oubliette/NC o/CC cachot/NC (/FF un/DI tipus/NC de/SP presó/NC )/FF és/VS una/DI traducció/NC més/RG apropiada/VM de/SP la/DA paraula/NC catalana/AQ "/FF masmorra/NC "/FF ./FF
+Aquesta/DD paraula/NC és/VS un/DI fals/AQ amic/NC ./FF
+Història/NP ./FF
+En/SP el/DA seu/PX ús/NC medieval/AQ original/AQ ,/FF la/DA masmorra/NC era/VS la/DA principal/AQ torre/NC d'/SP un/DI castell/

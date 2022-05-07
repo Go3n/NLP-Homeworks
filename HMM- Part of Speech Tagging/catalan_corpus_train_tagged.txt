@@ -18801,4 +18801,85 @@ Jaume_Soler/NP i/CC Pastells/NP és/VS un/DI polític/AQ independentista/NC cata
 Havia/VA estat/VM militant/NC d'/SP ERC/NP ,/FF però/CC com/CS a/SP membre/NC de/SP la/DA Candidatura_d'_Unitat_Popular/NP (/FF CUP/NP )/FF ha/VA estat/VM alcalde/NC d'/SP Arbúcies/NP des_de/SP les/DA eleccions/NC municipals/AQ de/SP 1979/ZZ fins/SP el/DA 2003/ZZ ./FF
 Ha/VA dedicat/VM gran/AQ part/NC de/SP la/DA seva/PX vida/NC a/SP la/DA solidaritat/NC internacional/AQ ,/FF i/CC ha/VA estat/VM ,/FF secretari/NC de/SP el/DA Fons_Català_de_Cooperació/NP a/SP el/DA Desenvolupament/NP ./FF
 També/RG ha/VA defensat/VM la/DA creació/NC de/SP Conselleries_de_Solidaritat/NP i/CC cooperació/NC i/CC de/SP Consells_Municipals_de_Solidaritat/NP ,/FF que/PR impliquin/VM tan/RG els/DA ajuntaments/NC com/CS els/DA ciutadans/NC ./FF
-Fou/VS un/DI de/SP els/DA impulsors/NC de/SP l'/DA Assemblea_Unitària_per_l'_Autodeterminació/NP (/FF AUA/NP )/FF el/DA 1991-1993/ZZ 
+Fou/VS un/DI de/SP els/DA impulsors/NC de/SP l'/DA Assemblea_Unitària_per_l'_Autodeterminació/NP (/FF AUA/NP )/FF el/DA 1991-1993/ZZ ./FF
+Águas_de_São_Pedro/NP és/VS un/DI municipi/NC brasiler/AQ de/SP l'/DA Estat_de_São_Paulo/NP ,/FF és/VS el/DA segon/AO municipi/NC brasiler/AQ amb/SP menor/AQ extensió/NC territorial/AQ amb/SP una/DI superfície/NC de/SP 3,64/ZZ km²/NC ./FF
+És/VS una/DI estança/NC hidromineral/AQ ,/FF una/PI de/SP les/DA 11/ZZ existents/AQ a/SP l'/DA Estat_de_São_Paulo/NP ./FF
+Teresa_Alabèrnia/NP i/CC Domènech/NP és/VS tècnica/AQ de/SP Serveis_Personals_de_el_Districte_de_Sant_Martí/NP (/FF Barcelona/NP )/FF ./FF
+Militant/NP històrica/AQ de/SP el/DA PSAN/NP ,/FF és/VS mare/NC de/SP Núria_Cadenas/NP i/CC Alabèrnia/NP ,/FF militant/VM de/SP Maulets/NP que/PR fou/VS empresonada/VM sota/SP l'/DA acusació/NC pertànyer/VM a/SP Terra_Lliure/NP ./FF
+Fou/VS una/DI de/SP les/DA fundadores/NC de/SP l'/DA Assemblea_Unitària_per_l'_Autodeterminació/NP i/CC actualment/RG és/VS membre/NC de/SP el/DA Consell_Escolar_Municipal_de_Barcelona/NP en_representació_de/SP l'/DA Ajuntament/NP ./FF
+També/RG és/VS afiliada/NC a/SP la/DA Lliga_per_la_Laïcitat/NP ./FF
+Un/DI objecte/NC astronòmic/AQ és/VS una/DI entitat/NC física/AQ significativa/AQ ,/FF una/DI associació/NC o/CC estructura/NC que/CS la/DA ciència/NC ha/VA confirmat/VM que/CS existeix/VM a/SP l'/DA Univers/NP ./FF
+Això/PD no/RN significa/VM necessàriament/RG que/CS la/DA ciència/NC actual/AQ no/RN en/PP refuti/VM la/DA seva/PX existència/NC ./FF
+Alguns/DI objectes/NC astronòmics/AQ ,/FF com/CS Themis/NP o/CC Neith/NP ,/FF a/SP la/DA llum/NC d'/SP estudis/NC més/RG recents/AQ ,/FF s'/P0 han/VA considerat/VM que/CS no/RN existeixen/VM ./FF
+Altres/PI ,/FF com/CS Plutó/NP o/CC Ceres/NP ,/FF s'/P0 ha/VA demostrat/VM que/CS són/VS d'/SP una/DI naturalesa/NC totalment/RG diferent/AQ de/SP el/DA que/PR s'/P0 havia/VA suposat/VM ./FF
+En/SP aquests/DD casos/NC ,/FF la/DA comunitat/NC científica/AQ ha/VA d'/SP arribar/VM a/SP un/DI consens/NC per/SP el/DA que/PR fa/VM a/SP la/DA classificació/NC d'/SP aquests/DD objectes/NC ./FF
+L'/DA existència/NC d'/SP objectes/NC astronòmics/AQ que/PR es/P0 basa/VM en/SP proves/NC científiques/AQ indirectes/AQ són/VS considerades/VM hipòtesis/NC ./FF
+Un/DI objecte/NC astronòmic/AQ es/P0 pot/VM confondre/VM fàcilment/RG amb/SP un/DI cos/NC celeste/AQ ./FF
+El/DA terme/NC "/FF cos/NC "/FF indica/VM un/DI objecte/NC simple/AQ ,/FF com/CS un/DI planeta/NC ,/FF i/CC en_canvi/RG ,/FF podem/VM considerar/VM que/CS el/DA cinturó/NC d'/SP asteroides/NC és/VS un/DI objecte/NC astronòmic/AQ ./FF
+Finalment/RG ,/FF cal/VM tenir/VM present/AQ que/CS la/DA Terra/NP no/RN és/VS un/DI objecte/NC o/CC cos/NC celeste/AQ ,/FF però/CC sí/RG que/CS és/VS un/DI objecte/NC o/CC cos/NC astronòmic/AQ ./FF
+Taula/NP d'/SP objectes/NC astronòmics/AQ ./FF
+A/SP continuació/NC es/P0 presenta/VM una/DI taula/NC amb/SP llistes/NC de/SP les/DA categories/NC generals/AQ d'/SP objectes/NC astronòmics/AQ ,/FF i/CC a/SP el/DA costat/NC es/P0 mostra/VM la/DA seva/PX localització/NC o/CC estructura/NC ./FF
+RedLibre/NP és/VS una/DI comunitat/NC interessada/VM en/SP el/DA desenvolupament/NC de/SP xarxes/NC de/SP telecomunicacions/NC lliures/AQ ./FF
+Principalment/RG RedLibre/NP ha/VA estat/VS vinculada/VM amb/SP les/DA comunitats/NC wireless/AQ on/PR ha/VA estat/VS el/DA nexe/NC d'/SP unió/NC d'/SP aquestes/DD comunitats/NC ./FF
+Història/NP ./FF
+El/DA projecte/NC RedLibre/NP va/VA ser/VS creat/VM el/DA Setembre_de_2001/WW per/SP Jaime_Robles/NP basat/VM en/SP la/DA filosofia/NC de/SP els/DA projectes/NC de/SP codi/NC obert/VM ./FF
+Va/VA ser/VS el/DA primer/AO projecte/NC de/SP xarxes/NC lliures/AQ a/SP l'/DA Estat_Espanyol/NP inspirat/VM per/SP moviments/NC similars/AQ a/SP els/DA Estats_Units/NP com/CS New_York_Wireless/NP i/CC Seattle_Wireless/NP ./FF
+RedLibre/NP va/VA néixer/VM com/CS a/SP tal/PD perquè/CS es/P0 va/VA considerar/VM que/CS un/DI projecte/NC d'/SP aquest/DD tipus/NC necesitava/VM molta/DI gent/NC (/FF Massa/RG crítica/AQ )/FF per/SP poder/VM arribar/VM a/SP quelcom/PI amb/SP cara/NC i/CC ulls/NC i/CC en_comptes_de/SP generar/VM un/DI projecte/NC local/AQ l'/DA objectiu/NC va/VA ser/VS generar/VM un/DI projecte/NC gran/AQ on/PR totes/DI les/DA persones/NC castellanoparlants/AQ puguessin/VM reunir/VM -se/PP i/CC posar/VM en/SP comú/AQ les/DA seves/PX idees/NC i/CC projectes/NC ./FF
+Temps/NP més/RG tard/VM ,/FF va/VA néixer/VM ANURI/NP (/FF Asociación_Nacional_de_Usuarios_de_Redes_Inalámbricas/NP )/FF amb/SP l'/DA objectiu/NC d'/SP oferir/VM un/DI suport/NC legal/AQ a/SP els/DA usuaris/NC d'/SP aquest/DD tipus/NC de/SP xarxes/NC ./FF
+A_partir_de/SP el/DA naixement/NC de/SP RedLibre/NP ,/FF (/FF 2001-2002/ZZ )/FF van/VA aparèixer/VM centenars/NC de/SP comunitats/NC wireless/AQ a/SP tot/DI el/DA món/NC ,/FF on/PR tots/DI registraven/VM dominis/NC i/CC creaven/VM pègines/NC Web/NP amb/SP el_seu_poblewireless/AQ o/CC la_seva_ciutatwireless/AQ ;/FF era/VS un/DI moment/NC de/SP noves/AQ expectatives/NC ./FF
+Conflictes/NP ./FF
+Moltes/PI d'/SP aquestes/DD comunitats/NC wireless/AQ i/CC en/SP contra/SP de/SP la/DA seva/PX pròpia/AQ filosofia/NC ,/FF van/VA veure/VM a/SP RedLibre/NP com/CS una/DI amenaça/NC i/CC en/SP comptes/NC d'/SP unir/VM -se/P0 per/SP generar/VM una/DI xarxa/NC comuna/AQ i/CC tenir/VM a/SP RedLibre/NP com/CS a_punt_de/SP trobada/NC van/VA veure/VM que/CS era/VS un/DI projecte/NC que/PR ntentava/VM fer/VM -se/P0 amb/SP el/DA control/NC de/SP les/DA xarxes/NC lliures/AQ a/SP l'/DA Estat_Espanyol/NP i/CC no/RN s'/P0 hi/PP van/VA sumar/VM ./FF
+Aquests/DD problemes/NC van/VA frenar/VM el/DA creixement/NC i/CC desenvolupament/NC de/SP les/DA xarxes/NC lliures/AQ a/SP l'/DA Estat_Espanyol/NP ,/FF que/PR van/VA optar/VM per/SP treballant/VM independentment/RG en/SP petits/AQ grups/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Redlibre/NP ;/FF Jaime_Robles/NP ,/FF fundador/AQ de/SP Redlibre/NP ;/FF
+San_Carlo/NP alle/AQ Quattro_Fontane/NP (/FF també/RG anomenada/NC San_Carlino/NP )/FF és/VS una/DI església/NC construïda/VM entre/SP 1638/ZZ i/CC 1641/ZZ a/SP la/DA ciutat/NC de/SP Roma/NP ./FF
+Dissenyada/VM per/SP Francesco_Borromini/NP (/FF 1599-1677/ZZ )/FF ,/FF és/VS una/PI de/SP les/DA peces/NC mestres/AQ de/SP l'/DA arquitectura/NC Barroca/NP ./FF
+Van/VA Gogh/NP pintant/VM gira-sols/NC (/FF en/SP francès/NC Van_Gogh/NP peignant/VM des/SP tournesols/RG )/FF és/VS un/DI quadre/NC de/SP Paul_Gauguin/NP ,/FF fet/NC el/DA 1888/ZZ a/SP Arle/NP ,/FF on/PR retrata/VM a/SP Vincent/NP van/VA Gogh/NP ./FF
+Es/P0 conserva/VM a/SP el/DA Museu/NP van/VA Gogh_d'_Amsterdam/NP ./FF
+L'/DA escena/NC està/VM captada/NC des_de/SP dalt/NC ./FF
+L'/DA enquadrament/NC retalla/VM els/DA components/NC essencials/AQ :/FF el/DA pintor/NC ,/FF la/DA paleta/NC ,/FF el/DA cavallet/NC i/CC la/DA taula/NC amb/SP el/DA gerro/NC de/SP gira-sols/NC ./FF
+El/DA centre/NC de/SP el/DA quadre/NC queda/VM bastant/RG buit/AQ ./FF
+La/DA tela/NC és/VS de/SP canemàs/NC amb/SP una/DI superfície/NC granular/VM ./FF
+Gauguin/NP aplicava/VM pintura/NC relativament/RG seca/AQ en/SP una/DI capa/NC fina/AQ ./FF
+Els/DA gira-sols/NC ,/FF un/PI de/SP els/DA temes/NC preferits/VM de/SP van/VM Gogh/NP ,/FF s'/P0 han/VA convertit/VM en/SP un/DI símbol/NC de/SP la/DA relació/NC entre/SP els/DA dos/ZZ pintors/NC ./FF
+Quan/CS es/P0 van/VA conèixer/VM a/SP París/NP ,/FF el/DA 1887/ZZ ,/FF Gauguin/NP li/PP va/VA demanar/VM intercanviar/VM el/DA quadre/NC Dos/ZZ gira-sols/NC per/SP un/DI de/SP els/DA seus/PX ./FF
+El/DA 1888/ZZ van/VA conviure/VM durant/SP dos_mesos/ZZ a/SP Arle/NP ,/FF a/SP l'/DA anomenada/NC Casa/NP groga/AQ ./FF
+Van/VA Gogh/NP ,/FF tot/DI esperant/NC Gauguin/NP ,/FF va/VA decorar/VM la/DA seva/PX habitació/NC amb/SP quadres/NC de/SP gira-sols/NC ./FF
+Gauguin/NP la/PP descriu/VM d'/SP aquesta/DD forma/NC :/FF «/FF En/NP la/DA meva/PX habitació/NC groga/AQ hi/PP havia/VA gira-sols/NC d'/SP ulls/NC porpra/NC sobre/SP un/DI fons/NC groc/AQ ./FF
+Estaven/VM en/SP un/DI gerro/NC groc/AQ sobre/SP una/DI taula/NC groga/AQ ./FF
+En/SP un/DI cantó/NC de/SP el/DA quadre/NC hi/PP havia/VA la/DA signatura/NC de/SP el/DA pintor/NC :/FF Vincent/NP ./FF
+El/DA sol/NC groc/AQ que/PR brillava/VM a_través_de/SP les/DA cortines/NC grogues/AQ de/SP l'/DA habitació/NC inundava/VM d'/SP or/NC tota/DI aquesta/DD magnífica/AQ florida/NC Oh/NP ,/FF sí/RG ,/FF el/DA diví/AQ Vincent/NP estimava/VM el/DA groc/NC jo/PP adorava/VM el/DA vermell/NC ./FF »/FF La/NP relació/NC entre/SP els/DA dos/ZZ artistes/NC va/VA ser/VS intensa/AQ ./FF
+S'/P0 admiraven/VM mútuament/RG i/CC alhora/RG rivalitzaven/VM i/CC discutien/VM fins/RG que/CS la/DA relació/NC va/VA acabar/VM sobtadament/RG de/SP forma/NC tràgica/AQ ./FF
+Van/VA Gogh/NP treballava/VM de/SP forma/NC ràpida/AQ i/CC impulsiva/AQ ./FF
+Gauguin/NP preferia/VM uns/DI treballs/NC més/RG elaborats/VM ,/FF amb/SP diferents/DI estudis/NC preliminars/AQ ./FF
+Gauguin/NP ho/PP resumeix/VM en/SP una/DI anècdota/NC :/FF «/FF Vincent/NP va/VA voler/VM preparar/VM una/DI sopa/NC ,/FF però/CC no/RN sé/VM com/CS va/VA barrejar/VM els/DA ingredients/NC ;/FF indubtablement/RG com/CS barrejava/VM els/DA colors/NC en/SP els/DA seus/PX quadres/NC ./FF
+El/DA cas/NC és/VS que/CS no/RN ens/PP la/PP vam/VA poder/VM menjar/NC ./FF »/FF ;/FF El/NP retrat/VM de/SP van/VM Gogh/NP pintant/VM gira-sols/NC reflecteix/VM la/DA tensió/NC entre/SP els/DA dos/ZZ pintors/NC ./FF
+La/DA mirada/NC és/VS trastornada/VM ,/FF estén/VM el/DA braç/NC i/CC maneja/VM el/DA pinzell/NC de/SP forma/NC forçada/NC com/CS un/DI autòmat/NC ./FF
+La/DA posició/NC tensa/AQ és/VS una/DI mostra/NC de/SP la/DA seva/PX inestabilitat/NC ./FF
+El/DA contrast/NC de/SP el/DA fons/NC ,/FF amb/SP línies/NC de/SP color/NC horitzontal/AQ sense/SP contingut/NC ,/FF ressalten/VM l'/DA ànim/NC de/SP el/DA pintor/NC ./FF
+Van/VA Gogh/NP reconeix/VM el/DA seu/PX estat/NC :/FF «/FF Era/NP jo/PP realment/RG ,/FF tal/VM com/CS era/VS llavors/RG ,/FF extremadament/RG cansat/VM i/CC carregat/VM de/SP tensió/NC ./FF »/FF Segons_Gauguin/NP ,/FF l'/DA apreciació/NC de/SP van/VM Gogh/NP va/VA ser/VS :/FF «/FF Sóc/NP jo/PP realment/RG ,/FF però/CC embogit/VM »/FF ./FF
+El/DA quadre/NC va/VA ser/VS pintar/VM a/SP principi/NC de/SP desembre/WW ,/FF quan/CS els/DA gira-sols/NC no/RN estan/VM florits/NC ./FF
+És/VS possible/AQ que/PR van/VM Gogh/NP estigués/VM pintant/VM alguna/DI còpia/NC de/SP les/DA múltiples/AQ variacions/NC que/PR va/VA fer/VM de/SP els/DA gira-sols/NC ./FF
+Amb/SP això/PD Gauguin/NP posa_de_relleu/VM una/DI altra/PI de/SP les/DA diferències/NC que/PR tenien/VM ./FF
+Mentre/CS ell/PP preferia/VM pintar/VM de/SP memòria/NC ,/FF combinant/VM diferents/DI elements/NC ,/FF van/VA Gogh/NP advocava/VM per/SP pintar/VM els/DA models/NC trets/NC de/SP l'/DA observació/NC directa/AQ de/SP la/DA natura/NC ./FF
+Anys/NP després/RG ,/FF quan/CS Gauguin/NP ja/RG es/P0 trobava/VM a/SP la/DA Polinèsia/NP ,/FF va/VA pintar/VM uns/DI gira-sols/NC sobre/SP una/DI cadira/NC a/SP el/DA costat/NC d'/SP una/DI finestra/NC amb/SP una/DI dona/NC tahitiana/AQ ./FF
+És/VS un/DI tribut/NC i/CC un/DI record/NC a/SP el/DA seu/PX company/NC ./FF
+Referències/NP ./FF
+El/DA Galó/NP d/AQ Entrenament_de_la_Força_Aèria/NP (/FF anglès/NC :/FF Air_Force_Training_Ribbon/NP )/FF és/VS la/DA distinció/NC més/RG baixa/AQ de/SP la/DA Força_Aèria_de_els_Estats_Units/NP ,/FF situant/VM -se/PP només/RG per/SP sobre/SP de/SP les/DA condecoracions/NC estrangeres/AQ ./FF
+Va/VA ser/VS autoritzat/VM per/SP el/DA Cap_de_l'_Estat_Major_de_l'_Aire/NP el/DA 12_d'_octubre_de_1980/WW ./FF
+Es/P0 atorgat/VM a/SP tots/DI els/DA membres/NC en/SP servei/NC a/SP la/DA USAF/NP a/SP el/DA completar/VM l'/DA entrenament/NC inicial/AQ d'/SP accés/NC després/RG de/SP el/DA 14_d'_agost_de_1974/WW ./FF
+a/SP el/DA desembre_de_1986/WW el/DA criteri/NC s'/P0 amplià/VM i/CC s'/P0 autoritzà/VM la/DA seva/PX concessió/NC a/SP tots/DI aquells/PD que/PR estiguessin/VM en/SP servei/NC actiu/AQ a/SP el/DA desembre_de_1986/WW ,/FF sense/SP tenir_en_compte/VM si/CS havien/VA completat/VM l'/DA entrenament/NC inicial/AQ ./FF
+No/RN és/VS atorgada/VM per/SP completar/VM l'/DA entrenament/NC tècnic/AQ ,/FF els/DA cursos/NC de/SP desenvolupament/NC de/SP carrera/NC i/CC altres/DI ./FF
+a/SP el/DA completar/VM entrenaments/NC posteriors/AQ (/FF l'/DA Entrenament_Militar_Bàsic/NP (/FF BMT/NP )/FF per/SP optar/VM a/SP promocionar/VM ;/FF l'/DA entrenament/NC per/SP l'/DA Escola_de_Candidats/NP a/SP Oficial/NP (/FF OCS/NP )/FF ,/FF etc./FF )/FF ,/FF atorguen/VM un/DI nou/AQ galó/NC senyalat/VM per/SP una/DI fulla/NC de/SP roure/NC ./FF
+La/DA Marina_de_els_Estats_Units/NP i/CC els/DA Guardacostes/NP no/RN tenen/VM una/DI distinció/NC equivalent/AQ ./FF
+El/DA galó/NC està/VM prohibit/VM sobre/SP tots/DI els/DA uniformes/NC de/SP servei/NC naval/AQ ;/FF i/CC els/DA Marines/NP tampoc/RG no/RN tenen/VM cap/DI equivalent/AQ ,/FF però/CC reben/VM la/DA seva/PX insígnia/NC (/FF l'/DA àliga/NC amb/SP el/DA Globus/NP i/CC l'/DA Àncora/NP )/FF a/SP el/DA finalitzar/VM el/DA seu/PX entrenament/NC bàsic/AQ ./FF
+L'/DA Exèrcit/NP té/VM el/DA Galó_de_el_Servei/NP a/SP l'/DA Exèrcit/NP ./FF
+Va/VA ser/VS dissenyat/VM per/SP l'/DA Institut_d'_Heràldica/NP ./FF
+Està/VM format/NC per/SP una/DI franja/NC central/AQ vermella/AQ ,/FF flanquejada/VM per/SP una/DI blava/NC ,/FF una/DI groga/AQ i/CC una/DI blau/NC fosc/AQ ./FF
+Axel_Rudi_Pell/NP (/FF nascut/VM el/DA 27_de_juny_de_1960/WW )/FF és/VS un/DI guitarrista/NC alemany/AQ de/SP heavy/NC metal/VM ./FF
+Començà/VM la/DA carrera/NC amb/SP la/DA banda/NC Steeler/NP (/FF 1984-1988/ZZ )/FF ,/FF i/CC a_partir_de/SP 1989/ZZ endegà/VM el/DA seu/PX projecte/NC personal/AQ ,/FF anomenat/VM simplement/RG Axel_Rudi_Pell/NP ./FF
+En/SP aquest/DD projecte/NC hi/PP haun/VM tocat/VM músics/NC de/SP primer/AO nivell/NC com/CS els/DA bateries/NC Jörg_Michael/NP i/CC Mike_Terrana/NP ,/FF o/CC els/DA cantants/NC Rob_Rock/NP ,/FF Jeff_Scott_Soto/NP i/CC Johnny_Gioeli/NP ./FF
+Axel_Rudi_Pell/NP hi/PP practica/VM un/DI heavy/NC metal/VM d'/SP estil/NC molt/RG clàssic/AQ i/CC melòdic/AQ ,/FF sempre/RG amb/SP un/DI gran/AQ espai/NC per/SP a/SP el/DA lluïment/NC de/SP la/DA guitarra/NC solista/AQ i/CC un/DI considerable/AQ èmfasi/NC en/SP les/DA bal·lades/NC (/FF tal/RG com/CS ho/PP mostren/VM les/DA tres/ZZ recopilacions/NC de/SP bal·lades/NC que/PR ha/VA publicat/VM )/FF ./FF
+Membres/NC de/SP la/DA banda/NC ./FF
+Membres/NC actuals/AQ ./FF
+Axel_Rudi_Pell/NP (/FF guitarra/NC rítmica/AQ i/CC solista/NC )/FF ;/FF Johnny_Gioeli/NP (/FF veu/NC )/FF ;/FF Mike_Terrana/NP (/FF bateria/NC )/FF ;/FF Ferdy_Doernberg/NP (/FF teclats/NC 

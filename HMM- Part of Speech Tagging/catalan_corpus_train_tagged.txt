@@ -18882,4 +18882,94 @@ En/SP aquest/DD projecte/NC hi/PP haun/VM tocat/VM músics/NC de/SP primer/AO ni
 Axel_Rudi_Pell/NP hi/PP practica/VM un/DI heavy/NC metal/VM d'/SP estil/NC molt/RG clàssic/AQ i/CC melòdic/AQ ,/FF sempre/RG amb/SP un/DI gran/AQ espai/NC per/SP a/SP el/DA lluïment/NC de/SP la/DA guitarra/NC solista/AQ i/CC un/DI considerable/AQ èmfasi/NC en/SP les/DA bal·lades/NC (/FF tal/RG com/CS ho/PP mostren/VM les/DA tres/ZZ recopilacions/NC de/SP bal·lades/NC que/PR ha/VA publicat/VM )/FF ./FF
 Membres/NC de/SP la/DA banda/NC ./FF
 Membres/NC actuals/AQ ./FF
-Axel_Rudi_Pell/NP (/FF guitarra/NC rítmica/AQ i/CC solista/NC )/FF ;/FF Johnny_Gioeli/NP (/FF veu/NC )/FF ;/FF Mike_Terrana/NP (/FF bateria/NC )/FF ;/FF Ferdy_Doernberg/NP (/FF teclats/NC 
+Axel_Rudi_Pell/NP (/FF guitarra/NC rítmica/AQ i/CC solista/NC )/FF ;/FF Johnny_Gioeli/NP (/FF veu/NC )/FF ;/FF Mike_Terrana/NP (/FF bateria/NC )/FF ;/FF Ferdy_Doernberg/NP (/FF teclats/NC )/FF ;/FF Volker_Krawczak/NP (/FF baix/NC )/FF ;/FF Membres/NP anteriors/AQ ./FF
+Veu/NP ./FF
+Charlie_Huhn/NP (/FF 1989/ZZ )/FF ;/FF Rob_Rock/NP (/FF 1991/ZZ )/FF ;/FF Jeff_Scott_Soto/NP (/FF 1992-1997/ZZ )/FF ;/FF Baix/NP ./FF
+Jörg_Deisinger/NP (/FF 1989/ZZ )/FF ;/FF Thomas_Smuszynski/NP (/FF 1989/ZZ )/FF ;/FF Bateria/NP ./FF
+Jörg_Michael/NP (/FF 1989-1998/ZZ )/FF ;/FF Teclats/NP ./FF
+Georg_Hahn/NP (/FF 1989/ZZ )/FF ;/FF Rüdiger_König/NP (/FF 1989/ZZ )/FF ;/FF Kai_Raglewski/NP (/FF 1991-1992/ZZ )/FF ;/FF Julie_Greaux/NP (/FF 1993-1996/ZZ )/FF ;/FF Christian_Wolff/NP (/FF 1997/ZZ )/FF ;/FF Discografia/NP ./FF
+Amb/SP Steeler/NP ./FF
+Steeler/NP (/FF 1984/ZZ )/FF ;/FF Rulin/NP '/FF the/RG Earth/NP (/FF 1985/ZZ )/FF ;/FF Strike_Back/NP (/FF 1986/ZZ )/FF ;/FF Undercover_Animal/NP (/FF 1988/ZZ )/FF ;/FF Amb_Axel_Rudi_Pell/NP (/FF en/SP solitari/NC )/FF ./FF
+Discos/NP d'/SP estudi/NC ./FF
+Wild_Obsession/NP (/FF 1989/ZZ )/FF ;/FF Nasty_Reputation/NP (/FF 1991/ZZ )/FF ;/FF Eternal_Prisoner/NP (/FF 1992/ZZ )/FF ;/FF Between/NP the/VM Walls/NP (/FF 1994/ZZ )/FF ;/FF Black_Moon_Pyramid/NP (/FF 1996/ZZ )/FF ;/FF Magic/NP (/FF 1997/ZZ )/FF ;/FF Oceans/NP of/NC Time/NP (/FF 1998/ZZ )/FF ;/FF The_Masquerade_Ball/NP (/FF 2000/ZZ )/FF ;/FF Shadow_Zone/NP (/FF 2002/ZZ )/FF ;/FF Kings/NP and/AQ Queens/NP (/FF 2004/ZZ )/FF ;/FF Mystica/NP (/FF 2006/ZZ )/FF ;/FF Diamonds_Unlocked/NP (/FF 2007/ZZ )/FF ;/FF Recopilatoris/NP ./FF
+The_Ballads/NP (/FF 1993/ZZ )/FF ;/FF The_Ballads_II/NP (/FF 1999/ZZ )/FF ;/FF The_Wizard/NP 's/PP Chosen_Few/NP (/FF 2000/ZZ )/FF ;/FF The_Ballads_III/NP (/FF 2004/ZZ )/FF ;/FF Discos/NP en/SP directe/RG ./FF
+Made/NP in/VM Germany/NP (/FF 1995/ZZ )/FF ;/FF Knights_Live/NP (/FF 2002/ZZ )/FF ;/FF DVDs/NP ./FF
+Knight_Treasures/NP (/FF Live/NP and/AQ More/NP )/FF (/FF 2002/ZZ )/FF ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NC oficial/AQ ;/FF Axel_Rudi_Pell/NP a/SP l'/DA Encyclopaedia_Metallum/NP ;/FF Axel_Rudi_Pell/NP a/SP Metal_Storm/NP ;/FF
+Portomaggiore/NP és/VS un/DI municipi/NC italià/AQ ,/FF situat/VM a/SP la/DA regió/NC d'/SP Emília-Romanya/NP i/CC a/SP la/DA província/NC de/SP Ferrara/NP ./FF
+L'/DA any/NC 2004/ZZ tenia/VM 12.128/ZZ habitants/NC ./FF
+Federico_Martin_Aramburu/NP ,/FF nascut/VM el/DA 20_de_gener_de_1980/WW a/SP La_Plata/NP (/FF Argentina/NP )/FF ,/FF és/VS un/DI jugador/NC de/SP rugbi/NC argentí/AQ ,/FF evolucionant/VM a/SP el/DA lloc/NC de/SP centre/NC (/FF rugbi/NC )/FF (/FF 1,82_m/ZZ i/CC 86_kg/ZZ )/FF ./FF
+El/DA Campionat_de_el_Món_de_Futsal_de_l'_AMF/NP és/VS la/DA competició/NC de/SP seleccions/NC nacionals/AQ mundials/AQ de/SP futbol/NC sala/NC organitzada/VM per/SP l'/DA Associació_Mundial_de_Futsal/NP (/FF AMF/NP )/FF ./FF
+Entre/SP 1982/ZZ i/CC 2000/ZZ la/DA competició/NC fou/VS organtizada/VM per/SP la/DA FIFUSA/NP ,/FF organització/NC predecessora/AQ de/SP les/DA actuals/AQ UEFS/NP i/CC AMF/NP ./FF
+Historial/NP ./FF
+Vegeu/VM també/RG ./FF
+Associació_Mundial_de_Futsal/NP ;/FF Selecció_Catalana_de_Futbol_Sala/NP ;/FF Enllaços/NP externs/AQ ./FF
+Associació_Mundial_de_Futsal/NP ;/FF
+Carlos_Carbonell_Pascual/NP ,/FF originari/AQ d'/SP Alcoi/NP (/FF Alacant/NP )/FF ,/FF és/VS l'/DA actual/AQ seleccionador/NC nacional/AQ absolut/AQ de/SP l'/DA equip/NC de/SP judo/NC de/SP Malta/NP ./FF
+a/SP els/DA 30/ZZ anys/NC s'/P0 ha/VA convertit/VM en/SP el/DA primer/AO entrenador/NC espanyol/AQ de/SP judo/NC que/PR es/P0 fa_càrrec/VM d'/SP un/DI equip/NC d'/SP una/DI altra/DI nació/NC ,/FF Malta/NP ./FF
+Biografia/NP ./FF
+Va/VA nàixer/VM a/SP Alcoi/NP (/FF Alacant/NP )/FF el/DA 14_de_desembre_de_1976/WW ./FF
+Fill_de_José_Carbonell_Carbonell/NP i/CC de/SP Milagros_Pascual_Doménech/NP ./FF
+Va/VA començar/VM a/SP practicar/VM el/DA judo/NC en/SP el/DA Colegio_San_Roque/NP y/NC San_Sebastián/NP en/SP 1984/ZZ ,/FF abans/RG de/SP fer/VM els/DA 8/ZZ anys/NC ./FF
+En/SP 1987/ZZ ,/FF continua/VM practicant/VM judo/NC en/SP el/DA Club_de_Judo_Alcoi/NP ,/FF per/SP millorar/VM en/SP la/DA pràctica/NC d'/SP aquest/DD esport/NC ./FF
+a/SP els/DA 22/ZZ anys/NC ,/FF en/SP 1998/ZZ ,/FF va/VA decidir/VM anar/VM a/SP estudiar/VM el/DA TAFAD/NP (/FF Técnico_Superior/NP en/SP Animación_de_Actividades_Físicas/NP y/NC Deportivas/NP )/FF a/SP Elx/NP i/CC va/VA començar/VM a/SP entrenar/VM el/DA club/NC de/SP judo/NC de/SP la/DA campiona/NC olímpica/AQ Miriam_Blasco/NP ,/FF club/NC a/SP el/DA qual/PR va/VA representar/VM durant/SP 3/ZZ anys/NC a/SP la/DA primera/AO divisió/NC de/SP la/DA lliga/NC espanyola/AQ ./FF
+El/DA 2000/ZZ ,/FF va/VA rebre/VM el/DA diploma/NC oficial/AQ com/CS a/SP instructor/NC de/SP judo/NC de/SP la/DA Reial_Federació_Espanyola_de_Judo/NP ./FF
+El/DA 2002/ZZ ,/FF va/VA decidir/VM marxar/VM a/SP el/DA Regne_Unit/NP perquè/CS a/SP el/DA club/NC de/SP judo/NC de/SP Miriam_Blasco/NP l'/PP havien/VA informat/VM que/CS a/SP Bath/NP hi/PP podria/VM compaginar/VM els/DA estudis/NC universitaris/AQ amb/SP el/DA judo/NC ./FF
+A/SP finals/NC de/SP el/DA 2006/ZZ ,/FF el/DA secretari/NC general/AQ de/SP la/DA Unió_Europea_de_Judo/NP (/FF EJU/NP )/FF volia/VM un/DI entrenador/NC per/SP a/SP la/DA seva/PX selecció/NC de/SP el/DA seu/PX país/NC (/FF Malta/NP )/FF i/CC a/SP la/DA Universitat_de_Bath/NP van/VA considerar/VM que/CS Carlos_Carbonell/NP era/VS el/DA candidat/NC que/PR complia/VM millor/AQ els/DA requisits/NC per/SP fer/VM -se/P0 càrrec/NC de/SP l'/DA equip/NC ./FF
+Premis/NP ./FF
+Centre_d'_Esports/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web_de_Carlos_Carbonell/NP ./FF
+El/DA Campionat_de_el_Món_de_Futsal_de_la_FIFA/NP és/VS la/DA competició/NC de/SP seleccions/NC nacionals/AQ mundials/AQ de/SP futbol/NC sala/NC organitzada/VM per/SP la/DA FIFA/NP ./FF
+Campionat_de_el_Món_de_Futsal_FIFA/NP ./FF
+Medaller/NP ./FF
+Vegeu/VM també/RG ./FF
+FIFA/NP ;/FF Enllaços/NP externs/AQ ./FF
+FIFA/NP ;/FF
+Estèvia/NP rebaudiana/AQ és/VS una/DI espècie/NC pertanyent/AQ a/SP el/DA gènere/NC Estèvia/NP ./FF
+Aquest/DD gènere/NC recull/VM unes/DI 150/ZZ espècies/NC d'/SP herba/NC i/CC arbusts/NC de/SP la/DA família/NC de/SP els/DA girasols/RG (/FF Asteraceae/NP )/FF ,/FF nativa/AQ a/SP l'/DA Amèrica_de_el_Sud/NP i/CC a/SP l'/DA Amèrica_Central/NP subtropical/AQ i/CC tropical/AQ ./FF
+Stevia/NP rebaudiana/AQ és/VS anomenada/VM comunament/RG com/CS a/SP fulla/NC dolça/AQ ,/FF fulla/NC de/SP sucre/NC ,/FF o/CC simplement/RG estèvia/AQ ,/FF i/CC és/VS àmpliament/RG coneguda/VM per/SP les/DA seves/PX fulles/NC dolces/AQ ./FF
+Com/CS a/SP substitut/NC de/SP el/DA sucre/NC ,/FF el/DA gust/NC de/SP l'/DA stevia/NC és/VS més/RG suau/AQ i/CC dura/VM menys/RG que/CS el/DA sucre/NC ,/FF tot_i_amb_això/RG el/DA seu/PX extracte/NC pot/VM arribar/VM a/SP tenir/VM un/DI gust/NC amarg/AQ o/CC fins_i_tot/RG deixar/VM un/DI regust/NC de/SP regalèssia/NC en/SP concentracions/NC altes/AQ ./FF
+Nomenclatura/NP ./FF
+Nom/NC científic/AQ complet/AQ :/FF Stevia_Rebaudiana_Bertoni/NP ;/FF Família/NP :/FF Asteraceae/NP ;/FF Sinonímia/NP :/FF ka/RG a/SP he/VA e/NC ,/FF hierba/VM dulce/NC ,/FF estevia/NC ,/FF azúcar/VM verde/NC ./FF
+Noms/NC populars/AQ (/FF català/NC )/FF :/FF Estèvia/NP ;/FF Etimologia/NP :/FF La/DA forma/NC catalana/AQ de/SP el/DA nom/NC d/AQ aquesta/DD planta/NC és/VS l/NC adaptació/NC de/SP el/DA nom/NC científic/AQ de/SP el/DA gènere/NC ,/FF accentuant/VM gràficament/RG la/DA e/NC afegida/VM davant/SP de/SP la/DA s/NC inicial/AQ ./FF
+Aquesta/DD adaptació/NC es/P0 veu/VM reforçada/VM per/SP el/DA fet/NC que/CS la/DA forma/NC llatinitzada/VM Stevia/NP prové/VM de/SP el/DA nom/NC de/SP el/DA botànic/NC valencià/AQ de/SP el/DA segle_XVI/WW P.J._Esteve/NP ./FF
+Ecologia/NP ./FF
+Distribució/NC mundial/AQ :/FF La/DA Stevia/NP rebaudiana/AQ és/VS originaria/VM de/SP la/DA flora/NC sudamericana/AQ i/CC es/P0 cria/VM espontàniament/RG en/SP l/NC hàbitat/NC semiàrid/AQ de/SP les/DA zones/NC muntanyoses/AQ de/SP Amambay/NP a/SP Paraguai/NP i/CC a/SP les/DA zones/NC adjacents/AQ de/SP el/DA Brasil/NP ./FF
+La/DA Stevia/NP rebaudiana/AQ ha/VA passat/VM a/SP cultivar/VM -se/P0 a/SP extenses/AQ àrees/NC de/SP tot/DI el/DA món/NC i/CC de/SP manera/NC més/RG extensiva/AQ en/SP països/NC com/CS Xina/NP ,/FF Japó/NP ,/FF Corea/NP ,/FF Tailàndia/NP ,/FF Taiwan/NP ,/FF Israel/NP ,/FF etc./FF Distribució/NC a/SP el/DA Principat/NP :/FF No/RN es/P0 coneix/VM cap/DI plantació/NC a/SP Catalunya/NP ,/FF ja_que/CS el/DA seu/PX ús/NC no/RN està/VM gaire/DI estès/NC a/SP Europa/NP ./FF
+Hàbitat/NP :/FF Habita/VM en/SP regions/NC semiàrides/AQ ./FF
+En/SP estat/NC silvestre/AQ creix/NC en/SP terrenys/NC arenosos/AQ ,/FF poc/RG fèrtils/AQ però/CC amb/SP un/DI bon/AQ drenatge/NC ./FF
+Requereix/VM dies/NC llargs/AQ ,/FF i/CC molt/RG de/SP sol/NC ./FF ;/FF Descripció/NP ./FF
+La/DA Stevia/NP rebaudiana/AQ és/VS un/DI arbust/NC arriba/VM a/SP els/DA 90_cm/ZZ d/NC altura/NC i/CC es/P0 caracteritza/VM per/SP tenir/VM les/DA fulles/NC de/SP color/NC verd/AQ brillant/NC ,/FF simples/AQ ,/FF pubescents/AQ ,/FF el·líptiques/AQ ,/FF dentades/NC i/CC alternes/AQ ,/FF les/DA quals/PR mesuren/VM entre/SP 3/ZZ i/CC 5_cm/ZZ de/SP llarg/AQ per/SP 1,5/ZZ a/SP 2_cm/ZZ d/AQ amplada/NC ./FF
+Les/DA tiges/NC són/VS herbàcies/AQ ,/FF epigees/AQ ,/FF pubescents/AQ i/CC rectes/AQ ;/FF tendeixen/VM a/SP ramificar/VM -se/P0 després/RG de/SP el/DA primer/AO cicle/NC vegetatiu/AQ i/CC tenen/VM tendència/NC a/SP inclinar/VM -se/PP ./FF
+Les/DA arrels/NC filiformes/AQ són/VS essencialment/RG superficials/AQ i/CC tenen/VM suficient/AQ força/NC vital/AQ per/SP facilitar/VM el/DA rebrot/NC de/SP la/DA planta/NC ./FF
+Una/DI secció/NC engruixida/VM de/SP l/NC arrel/NC s/NC enfonsa/VM a/SP més/RG profunditat/NC ./FF
+Són/VS fibroses/AQ i/CC perennes/AQ ,/FF i/CC és/VS l/NC única/AQ part/NC de/SP la/DA planta/NC on/PR no/RN hi/PP ha/VA esteviòsids/AQ ./FF
+És/VS una/DI planta/NC dioica/AQ que/PR presenta/VM inflorescència/NC racemosa/AQ amb/SP flors/NC petites/AQ ,/FF tubulars/AQ i/CC de/SP color/NC blanc/AQ ,/FF sense/SP fragància/NC perceptible/AQ ./FF
+S/NP agrupen/VM en/SP pannícules/NC corimboides/AQ formades/VM per/SP petits/AQ capituls/NC axilars/AQ que/PR van/VM creixent/VM poc/RG a/SP poc/RG ./FF
+Les/DA seves/PX flors/NC les/PP pol·linitzen/VM les/DA abelles/NC ./FF
+El/DA periant/NC està/VM constituït/VM per/SP un/DI calze/NC dialisèpal/AQ i/CC per/SP una/DI corol·la/NC dialipètala/AQ ./FF
+En/SP les/DA nostres/PX latituds/NC no/RN és/VS habitual/AQ que/CS doni/VM fruits/NC fèrtils/AQ ./FF
+Els/DA fruits/NC són/VS aquenis/NC dotats/VM d/RG un/DI vil·là/NC que/PR el/DA vent/NC transporta/VM amb/SP facilitat/NC ./FF
+La/DA Stevia/NP rebaudiana/AQ pertany/VM a/SP una/DI espècie/NC alògama/NC (/FF de/SP fecundació/NC creuada/VM )/FF ,/FF una/DI propietat/NC molt/RG important/AQ des_de/SP punt/NC de/SP vista/NC comercial/AQ ja_que/CS en/SP la/DA zona/NC d/AQ origen/NC existeixen/VM altres/DI 150/ZZ espècies/NC de/SP Stevia/NP que/PR la/PP poden/VM fecundar/VM ./FF
+Farmacologia/NP ./FF
+Part/NC utilitzada/VM (/FF droga/NC )/FF :/FF En/SP les/DA fulles/NC es/P0 troben/VM els/DA principis/NC actius/AQ ./FF
+Composició/NC química/AQ :/FF ;/FF Heteròsids/NP diterpènics/AQ :/FF esteviòsids/NC (/FF 6_%/ZZ )/FF ,/FF dulcòsids/NC ,/FF rebaudiòsids/AQ A/NP ,/FF B/NP ,/FF C/NP ,/FF D/NP i/CC E._Els/NP esteviòsids/AQ fan/VM que/CS les/DA fulles/NC siguin/VS de/SP 10/ZZ a/SP 30/ZZ vegades/NC més/RG dolces/AQ que/CS el/DA sucre/NC ./FF
+El/DA gust/NC dolç/AQ és/VS degut/VM a/SP els/DA glicòsids/NC d/RG esteviol/AQ ,/FF principalment/RG a/SP l'/DA esteoviòsid/NC i/CC a/SP el/DA rebaudiòsid/NC A._L/NP esteviòsid/NC és/VS una/DI pols/NC blanca/AQ cristal·lina/AQ ,/FF inodora/AQ ,/FF no/RN higroscòpica/AQ ,/FF no/RN fermentable/AQ ,/FF de/SP gust/NC dolç/AQ fins_i_tot/RG en/SP solucions/NC molt/RG diluïdes/VM i/CC molt/RG soluble/AQ en/SP aigua/NC ./FF
+L/NC esteviòsid/AQ és/VS un/DI edulcorant/NC natural/AQ no/RN nitrogenat/VM extremadament/RG dolç/AQ ./FF
+En/SP estat/NC pur/AQ és/VS 300/ZZ vegades/NC més/RG dolç/AQ que/CS la/DA sacarosa/NC ./FF
+Entre/SP les/DA propietats/NC fisicoquímiques/AQ desitjables/AQ per/SP a/SP l/NC elaboració/NC d/AQ aliments/NC podem/VM destacar/VM la/DA resistència/NC a/SP la/DA calor/NC ,/FF l/NC alta/AQ solubilitat/NC en/SP aigua/NC i/CC en/SP solucions/NC hidroalcohòliques/AQ ,/FF la/DA resistència/NC a/SP pH/NC i/CC el/DA fet/NC que/PR no/RN aporta/VM calories/NC ./FF
+Usos/NC medicinals/AQ :/FF ;/FF La_Stevia/NP rebaudiana/AQ és/VS una/DI planta/NC que/PR regula/VM el/DA sucre/NC de/SP la/DA sang/NC ,/FF redueix/VM la/DA pressió/NC arterial/AQ i/CC regula/VM l/NC aparell_digestiu/NC en_general/RG ./FF
+També/RG actua/VM favorablement/RG en/SP moltes/DI persones/NC amb/SP ansietat/NC ,/FF redueix/VM greix/NC i/CC és/VS diürètica/AQ ./FF
+Una/DI altra/PI aplicació/NC de/SP la/DA Stevia/NP són/VS les/DA gàrgares/NC bucals/AQ amb/SP una/DI infusió/NC de/SP la/DA mateixa/NC ./FF
+S/NP ha/VA observat/VM un/DI efecte/NC similar/AQ a/SP altres/DI antisèptics/NC químics/AQ com/CS la/DA clorhexidina/NC ,/FF que/PR actua/VM com/CS a/SP preventiu/AQ de/SP les/DA caries/VM bucals/AQ ./FF
+Destaquen/VM els/DA efectes/NC que/PR té/VM per/SP a/SP la/DA qualitat/NC de/SP vida/NC de/SP els/DA diabètics/NC ,/FF els/DA quals/PR es/P0 poden/VM beneficiar/VM de/SP les/DA propietats/NC reguladores/AQ de/SP els/DA nivells/NC de/SP sucre/NC a/SP la/DA sang/NC que/PR aporta/VM la/DA ingestió/NC de/SP fulles/NC tendres/AQ de/SP la/DA Stevia/NP ./FF
+Els/DA estudis/NC mèdics/AQ constaten/VM que/CS el/DA principi/NC actiu/AQ de/SP la/DA planta/NC indueix/VM a/SP les/DA cèl·lules/NC beta/NC de/SP el/DA pàncrees/NC a/SP produir/VM per/SP elles/PP mateixes/DI quantitats/NC importants/AQ d'/SP insulina/NC ,/FF el/DA qual/PR contribueix/VM a/SP reduir/VM la/DA glucosa/NC en/SP sang/NC que/PR és/VS la/DA causa/NC de/SP la/DA diabetis/NC mellitus/NC 2/ZZ ./FF
+Accions/NC farmacològiques/AQ :/FF Intensament/NC edulcorant/NC (/FF l/NC esteoviòsid/AQ és/VS entre/SP 200/ZZ i/CC 300/ZZ vegades/NC més/RG dolç/AQ que/CS la/DA sacarosa/NC )/FF ./FF
+Laxant/NP osmòtic/AQ d/RG acció/NC suau/AQ ./FF
+Lleugerament/RG hipoglucemiant/NC i/CC hipertensor/NC ,/FF antibacterià/AQ ./FF
+Indicat/VM per/SP l/NC estrenyiment/NC ./FF
+Succedani/NP de/SP el/DA sucre/NC per/SP els/DA diabètics/NC ./FF
+Toxicitat/NP :/FF Després/RG de/SP molts/DI estudis/NC ,/FF no/RN s/NC ha/VA observat/VM toxicitat/NC ./FF
+Observacions/NP ./FF
+Un/PI de/SP els/DA seus/PX principis/NC actius/AQ

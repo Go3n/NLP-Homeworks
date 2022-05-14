@@ -19161,4 +19161,89 @@ La/DA Bambusa/NP arnhemica/AQ en/SP la/DA GrassBase/NP ;/FF
 L'/DA Institut_IES-SEP_Montilivi/NP està/VM situat/VM a/SP Girona/NP ,/FF a/SP el/DA Montilivi/NP ./FF
 S'/P0 hi/PP cursen/VM estudis/NC complets/AQ d'/SP ESO/NP ,/FF FP/NP i/CC Batxillerat/NP ./FF
 L'/DA església/NC de/SP la/DA Madeleine/NP és/VS a/SP la/DA plaça/NC de/SP la/DA Madeleine/NP a/SP el/DA 8è/AO districte/NC de/SP París/NP ./FF
-Constitueix/VM un/DI de/SP els/DA millor
+Constitueix/VM un/DI de/SP els/DA millors/AQ exemples/NC de/SP l'/DA estil/NC neoclàssic/AQ en/SP arquitectura/NC ./FF
+La/DA seva/PX construcció/NC es/P0 va/VA prolongar/VM durant/SP 85/ZZ anys/NC a_causa_de/SP els/DA trastorns/NC polítics/AQ de/SP França/NP a/SP el/DA final/NC de/SP el/DA segle_XVIII/WW i/CC a/SP el/DA començament/NC de/SP el/DA segle_XIX/WW ./FF
+Els/DA canvis/NC polítics/AQ de/SP l'/DA època/NC en/SP van/VA fer/VM modificar/VM moltes/DI vegades/NC la/DA destinació/NC i/CC els/DA plans/NC ./FF
+La/DA ruta/NC 1/ZZ és/VS la/DA primera/AO ruta/NC de/SP Pokémon/NP ./FF
+Pokémon/NP ./FF
+Generació_I._Generació_II/NP ./FF
+Generació_III/NP ./FF
+La/DA Bambusa/NP balcooa/AQ o/CC Bambú_Balcooa/NP és/VS una/DI espècie/NC de/SP bambú/NC de/SP el/DA gènere/NC Bambusa/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+D'/SP origen/NC hindú/AQ ,/FF és/VS molt/RG popular/AQ a/SP el/DA Vietnam/NP com/CS a/SP aliment/NC ./FF
+Es/P0 pot/VM utilitzar/VM per/SP bastir/VM construccions/NC temporals/AQ ./FF
+De/SP creixement/NC molt/RG ràpid/AQ ,/FF pot/VM escapar/VM -se/P0 de/SP les/DA mans/NC si/CS no/RN se/P0 'n/PP té/VM cura/NC ./FF
+Pot/VM assolir/VM una/DI alçada/NC de/SP 25_metres/ZZ ,/FF amb/SP un/DI gruix/NC de/SP 15/ZZ cm./NC Enllaços/NP ./FF
+La/DA Bambusa/NP balcooa/RG a/SP la/DA plana/NC Bamboo_Australia/NP ;/FF
+La/DA Bambusa/NP tulda/NC (/FF en/SP anglès/NC Índian_Timber_Bamboo/NP )/FF és/VS una/DI espècie/NC de/SP bambú/NC de/SP el/DA gènere/NC Bambusa/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Està/VM considerada/VM una/DI de/SP les/DA espècies/NC de/SP bambú/NC més/RG útils/AQ ;/FF a/SP l'/DA Índia/NP se/P0 l'/DA us/P0 en/SP grans/AQ quantitats/NC per/SP a/SP la/DA fabricació/NC de/SP pasta/NC de/SP paper/NC ./FF
+Pot/VM assolir/VM una/DI alçada/NC de/SP 15_metres/ZZ ,/FF i/CC un/DI gruix/NC de/SP 8_centímetres/ZZ ./FF
+Enllaços/NP ./FF
+La/DA Bambusa/NP tulda/NC a/SP la/DA plana/NC Bamboo_Australia/NP ;/FF
+Antoon/NP van/VA Schendel/NP (/FF Lage_Zwaluwe/NP ,/FF 9_de_maig_de_1910/WW -/FF Muret/NP ,/FF França/NP ,/FF 6_d'_agost_de_1990/WW )/FF va/VA ser/VS un/DI ciclista/NC neerlandès/AQ que/CS fou/VS professional/AQ entre/SP 1935/ZZ i/CC 1947/ZZ ,/FF aconseguint/VM 6/ZZ victòries/NC ,/FF entre/SP elles/PP dues/ZZ etapes/NC a/SP el/DA Tour_de_França/NP ./FF
+Palmarès/NP ./FF
+1937/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Circuit_de_l'_Oest/NP ;/FF 1938/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Tour_de_França/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA París-Niça/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Tour_de_el_Sud-oest/NP ;/FF 1939/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Tour_de_França/NP ;/FF 1941/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Circuit_de_Midi/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1936/ZZ ./FF 32è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1937/ZZ ./FF 33è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1938/ZZ ./FF 50è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1939/ZZ ./FF 38è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_d'_Antoon/NP van/VA Schendel/NP ;/FF Palmarès_d'_Antoon/NP van/VA Schendel/NP ;/FF
+José_Manuel_Pinto_Colorado/NP (/FF Puerto_de_Santa_María/NP ,/FF Cadis/NP ,/FF Espanya/NP ,/FF 8_de_novembre_del_1975/WW )/FF és/VS un/DI futbolista/NC espanyol/AQ ./FF
+Juga/VM de/SP porter/NC i/CC pertany/VM a/SP el/DA FC_Barcelona/NP ,/FF equip/NC per/SP el/DA que/PR va/VA fitxar/VM després/RG d'/SP una/DI cesió/NC de/SP 6_mesos/ZZ ./FF
+Trajectòria/NP ./FF
+Com/CS futbolista/NC ./FF
+Pinto/VM es/P0 va/VA formar/VM en/SP el/DA CD_Safa_San_Luis/NP de/SP la/DA seva/PX localitat/NC natal/AQ ,/FF fins/SP els/DA 18/ZZ anys/NC que/PR va/VA fitxar/VM per/SP el/DA Real_Betis/NP ./FF
+En/SP els/DA seus/PX primers/AO anys/NC a/SP Sevilla/NP va/VA defensar/VM la/DA porteria/NC de/SP el/DA filial/NC bètic/AQ a/SP Segona_Divisió_B._La/NP baixa/AQ de/SP Valerio/NP ,/FF a/SP mitjan/VM la/DA temporada/NC 1997/98/ZZ ,/FF li/PP va/VA permetre/VM donar/VM el/DA salt/NC a/SP el/DA primer/AO equip/NC com/CS porter/NC suplent/AQ ,/FF encara/RG que/CS aquesta/DD mateixa/DI campanya/NC va/VA arribar/VM fins_i_tot/RG a/SP debutar/VM a/SP Primera_Divisió/NP ,/FF el/DA 10_de_maig_del_1998/WW ,/FF substituint/VM a/SP el/DA lesionat/VM Toni_Prats/NP ./FF
+L'/DA estiu/NC de/SP 1998/ZZ es/P0 va/VA incorporar/VM a/SP el/DA Celta_de_Vigo/NP ./FF
+Durant/SP diversos/DI anys/NC va/VA alternar/VM la/DA titularitat/NC i/CC la/DA banqueta/NC amb/SP el/DA francès/AQ Richard_Dutruel/NP primer/RG i/CC posteriorment/RG amb/SP Óscar_Cavallero/NP ./FF
+Amb/SP el/DA club/NC vigués/VM va/VA participar/VM en/SP dues/ZZ ocasions/NC en/SP la/DA Copa_de_la_UEFA/NP i/CC una/DI en/SP la/DA Lliga_de_Campions_de_la_UEFA/NP ./FF
+A/SP més/RG ,/FF va/VA ser/VS campió/NC de/SP la/DA Copa_Intertoto/NP l'/DA any/NC 2000/ZZ (/FF jugant/VM com/CS titular/NC els/DA dos/ZZ partits/NC de/SP la/DA final/NC davant/SP el/DA Zenit_Sant_Petersburg/NP )/FF i/CC subcampió/AQ de/SP la/DA Copa_de_el_Rei/NP en/SP 2001/ZZ ./FF
+El/DA descens/NC a/SP Segona_Divisió_de_el_Celta/NP ,/FF la/DA temporada/NC 2003/04/ZZ ,/FF va/VA suposar/VM l'/DA arribada/NC a/SP la/DA banqueta/NC de/SP Fernando_Vázquez/NP ,/FF qui/PR va/VA confiar/VM a/SP Pinto/NP la/DA titularitat/NC ./FF
+La/DA següent/AQ temporada/NC ,/FF novament/RG a/SP Primera/NP ,/FF Pinto/NP continuà/VM com/CS a/SP titular/NC indiscutible/AQ i/CC va/VA conquistar/VM el/DA Trofeu_Zamora/NP com/CS porter/NC menys/RG golejat/VM de/SP el/DA campionat/NC ./FF
+No/RN obstant/VM això/PD ,/FF un/DI any/NC més/RG tard/RG ,/FF el/DA seu/PX equip/NC va/VA perdre/VM novament/RG la/DA categoria/NC ./FF
+Jugant/VM a/SP Segona_Divisió/NP ,/FF el/DA 18_de_gener_del_2008/WW es/P0 va/VA anunciar/VM oficialment/RG la/DA seva/PX incorporació/NC ,/FF en_qualitat_de/SP cedit/VM ,/FF a/SP el/DA FC_Barcelona/NP ,/FF que/PR buscava/VM un/DI porter/NC per/SP suplir/VM a/SP el/DA seu/PX segon/AO guardamenta/VM ,/FF Albert_Jorquera/NP ,/FF lesionat/VM en/SP un/DI partit/NC a/SP la/DA fi/NC de/SP desembre_de_2007/WW per/SP a/SP la/DA resta/NC de/SP la/DA temporada/NC ./FF
+Els/DA blaugranes/AQ van/VA desemborsar/VM 500.000_euros/ZZ per/SP la/DA cessió/NC de/SP sis_mesos/ZZ ,/FF reservant/VM -se/PP una/DI opció/NC de/SP compra/NC sense/SP cost/NC addicional/AQ ./FF ./FF
+Finalment/RG ,/FF quan/CS van/VA terminar/VM els/DA mesos/NC de/SP la/DA cesió/NC ,/FF el/DA Barça/NP va/VA fitxar/VM a/SP el/DA Pinto/NP ,/FF que/PR serà/VS una/DI temporada/NC més/RG a/SP el/DA Camp/NP Nou/AQ ./FF
+Referències/NP ./FF
+La/DA Chusquea/NP delicatula/VM és/VS una/DI espècie/NC de/SP bambú/NC ,/FF de/SP el/DA gènere/NC Chusquea/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Creix/NP a/SP Sud-Amèrica/NP ,/FF en/SP els/DA Andes_de_el_Perú/NP ,/FF incloent/VM -hi/PP la/DA zona/NC de/SP el/DA Machu_Picchu/NP ./FF
+Es/P0 tracta/VM d'/SP un/DI bambú/NC molt/RG vincladís/AQ ,/FF ja_que/CS el/DA seu/PX tall/NC recorda/VM a/SP el/DA de/SP la/DA parra/NC ,/FF i/CC l'/DA extrem/NC superior/AQ de/SP la/DA planta/NC sovint/RG arriba/VM a/SP tocar/VM el/DA terra/NC ./FF
+Les/DA branques/NC ,/FF de/SP fulles/NC petites/AQ ,/FF creixen/VM en/SP totes/DI direccions/NC formant/VM un/DI dibuix/NC d'/SP estrella/NC ./FF
+La/DA planta/NC adulta/AQ acostuma/VM a/SP tenir/VM uns/DI tres_metres/ZZ de/SP llargada/NC ,/FF però/CC pot/VM arribar/VM a/SP els/DA quatre/ZZ ./FF
+Enllaços/NP ./FF
+Brevíssima/AQ descripció/NC ;/FF La_Chusquea/NP delicatula/VM a/SP la/DA GrassBase/NP ;/FF
+Onomàstica/NP :/FF Filisc_d'_Abidos/NP ,/FF polític/AQ grec/NC a/SP el/DA servei/NC de/SP Pèrsia/NP i/CC governant/NC de/SP ciutats/NC gregues/AQ ./FF
+Filisc_d'_Atenes/NP ,/FF poeta/VM còmic/NC atenenc/AQ ;/FF Filisc_de_Milet/NP ,/FF orador/NC i/CC retòric/NC grec/AQ ;/FF Filisc_d'_Egina/NP ,/FF filòsof/NC cínic/AQ gec/NC ;/FF Filisc_de_Còrcira/NP ,/FF poeta/NC tràgic/AQ grec/NC ;/FF Filisc_de_Rodes/NP ,/FF escultor/NC grec/AQ ;/FF
+Georges_Decaux/NP (/FF Gamaches/NP ,/FF 14_d'_abril_de_1930/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/CS fou/VS professional/AQ entre/SP 1952/ZZ i/CC 1956/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC professional/AQ aconseguí/VM 4/ZZ victòries/NC ,/FF destacant/VM una/DI etapa/NC a/SP el/DA Tour_de_França/NP ./FF
+Palmarès/NP ./FF
+1952/ZZ ;/FF 1r/AO de/SP el/DA Circuit_de_la_Vall_de_el_Loira/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Tour_de_França/NP ;/FF 1953/ZZ ;/FF 1r/AO a/SP el/DA Gran_Premi_de_Sant_Raphael/NP ;/FF 1954/ZZ ;/FF 1r/AO de/SP el/DA Circuit_de_la_Vall_de_el_Loira/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1952/ZZ ./FF 36è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Georges_Decaux/NP ;/FF
+Filisc/NP (/FF Philiscus/NP ,/FF )/FF fou/VS un/DI polític/AQ grec/NC ,/FF ciutadà/AQ d'/SP Abidos/NP ,/FF que/PR fou/VS enviat/VM a/SP Grècia/NP el/DA 368/ZZ aC/NC per/SP el/DA sàtrapa/NC Ariobarzanes/NP ,/FF per/SP aconseguir/VM la/DA reconciliació/NC entre/SP tebans/NC i/CC espartans/NC ;/FF anava/VM proveït/VM amb/SP força/RG diners/NC i/CC autoritzat/VM per/SP el/DA rei/NC persa/AQ ./FF
+Va/VA fer/VM celebrar/VM un/DI congres/NC a/SP Delfos/NP ,/FF però/CC no/RN va/VA aconseguir/VM el/DA seu/PX objectiu/NC principal/AQ ja_que/CS els/DA tebans/NC van/VA refusar/VM renunciar/VM a/SP la/DA sobirania/NC sobre/SP Beòcia/NP i/CC Esparta/NP no/RN va/VA voler/VM reconèixer/VM la/DA independència/NC de/SP Messènia/NP ./FF
+Després/RG d'/SP això/PD Filisc/NP va/VA deixar/VM un/DI cos/NC de/SP dos_mil/ZZ mercenaris/NC per/SP el/DA servei/NC d'/SP Esparta/NP ,/FF va/VA tornar/VM a/SP Àsia/NP ./FF
+Havia/VA obtingut/VM ,/FF igual/RG que/CS Ariobarzanes/NP ,/FF la/DA ciutadania/NC atenenca/AQ ./FF
+Tot/DI seguit/NC es/P0 va/VA apoderar/VM de/SP el/DA govern/NC d'/SP algunes/DI ciutats/NC gregues/AQ ,/FF amb/SP la/DA suposada/VM protecció/NC de/SP el/DA sàtrapa/NC ./FF
+Va/VA governar/VM tirànicament/RG i/CC finalment/RG fou/VS assassinat/NC per/SP Tersàgores/NP i/CC Execest/NP a/SP Làmpsac/NP ./FF
+Filisc_d'_Atenes/NP (/FF Philiscus/NP ,/FF )/FF fou/VS un/DI poeta/NC còmic/AQ atenenc/AQ de/SP la/DA comèdia/NC mitjana/AQ ,/FF de/SP la/DA vida/NC de/SP el/DA qual/PR gairebé/RG no/RN se/P0 'n/PP sap/VM res/PI ./FF
+Va/VA florir/VM vers/SP el/DA 400/ZZ aC/NC o/CC poc/RG més/RG tard/RG ,/FF ja_que/CS el/DA seu/PX rostre/NC fou/VS pintat/NC per/SP Parrasi/NP (/FF pintura/NC que/PR esmenta/VM Plini_el_Vell/NP )/FF ./FF
+Suides/NP l'/PP esmenta/VM i/CC dona/NC els/DA títols/NC d'/SP algunes/PI de/SP les/DA seves/PX comèdies/NC :/FF ;/FF per/SP els/DA títols/NC es/P0 pot/VM veure/VM que/CS els/DA seus/PX temes/NC eren/VS principalment/RG mitològics/AQ ./FF
+Estobeu/NP en/PP va/VA preservar/VM algun/DI fragments/NC ./FF
+Filisc_de_Milet/NP (/FF Philiscus/NP ,/FF )/FF fou/VS un/DI orador/NC i/CC retòric/NC grec/AQ nadiu/AQ de/SP Milet/NP ,/FF deixeble/NC d'/SP Isòcrates_d'_Atenes/NP ./FF
+Va/VA escriure/VM una/DI vida/NC de/SP l'/DA orador/NC Licurg/NP i/CC un/DI epitafi/NC de/SP Lísies/NP que/PR es/P0 conserva/VM a/SP l'/DA antologia/NC grega/AQ ./FF
+Probablement/RG fou/VS l'/DA autor/NC de/SP que/PR Suides/NP atribueix/VM potser/RG per/SP error/NC a/SP Filist_de_Siracusa/NP ./FF
+Va/VA tenir/VM com/CS deixebles/NC a/SP Timeu/NP i/CC a/SP Neantes_de_Cízic/NP ./FF
+La/DA Chusquea/NP quila/NC (/FF en/SP castellà/NC ,/FF Quila/NP )/FF és/VS una/DI espècie/NC de/SP bambú/NC ,/FF de/SP el/DA gènere/NC Chusquea/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Creix/NP a/SP Sud-Amèrica/NP ,/FF en/SP boscos/NC humits/AQ i/CC temperats/VM de/SP Xile/NP i/CC Argentina/NP (/FF entre/SP nivell/NC de/SP el/DA mar/NC i/CC els/DA 900_metres/ZZ )/FF ./FF
+Es/P0 tracta/VM d'/SP un/DI bambú/NC perenne/AQ que/PR creix/VM en/SP grups/NC densos/AQ ./FF
+A/SP diferència/NC d'/SP altres/DI bambús/NC ,/FF el/DA seu/PX tronc/NC no/RN és/VS buit/AQ ./FF
+La/DA planta/NC adulta/AQ pot/VM arribar/VM a/SP els/DA cinc_metres/ZZ d'/SP alçada/NC ,/FF amb/SP un/DI gruix/NC de/SP 2,5_centímetres/ZZ ./FF
+Enllaços/NP ./FF
+Brevíssima/AQ descripció/NC ;/FF
+Filisc/NP (/FF Philiscus/NP ,/FF )/FF ,/FF fill/NC d'/SP Onesícrit/NP ,/FF fou/VS un/DI filòsof/NC cínic/AQ grec/NC nadiu/AQ de/SP l'/DA illa/NC d'/SP Egina/NP ./FF
+És/VS possible/AQ que/CS sota/SP el/DA mateix/DI nom/NC es/P0 tracti/VM de/SP dos/ZZ filòsofs/NC ,/FF com/CS es/P0 diu/VM a/SP el/DA Suides/NP ,/FF mentre/CS altres/PI pensen/VM que/CS ambdós/PI són/VS el/DA mateix/PI ./FF
+Suides/NP diu/VM d'/SP un/DI ,/FF que/PR fou/VS deixeble/NC de/SP Diògenes_el_Cínic/NP a/SP el/DA que/PR va/VA anar/VM a/SP escoltar/VM a/SP Atenes/NP ./FF
+De/SP l'/DA altra/PI ,/FF fent_referència/VM a/SP l'/DA autoritat/NC d'/SP Hermip_d'_Esmirna/NP ,/FF diu/VM que/CS fou/VS deixeble/NC d'/SP Estilpó/NP i/CC mestre/NC d'/SP Alexandre/NP (/FF suposadament/RG el/DA Gran/NP )/FF ,/FF i/CC que/PR va/VA escriure/VM uns/DI diàlegs/NC anomenats/VM ./FF
+Diògenes_Laerci/NP esmenta/VM només/RG un/DI filòsof/NC amb/SP aquest/DD nom/NC ,/FF però/CC les/DA diferencies/VM cronològiques/AQ fan/VM pensar/VM en/SP la/DA possibilitat/NC de/SP dos/ZZ ./FF
+Estats/NC sobirans/AQ ./FF
+A._Regne_de_l'_Afganistan/NP ;/FF República_d'_Albània/NP ;/FF Imperi_Alemany/NP ;/FF Principat_d'_Andorra/NP ;/FF República_d'_Argentina/NP ;/FF Commonwealth_d'_Austràlia/NP ;/FF República_d'_Àustria/NP ;/FF B._Regne_de_Bèlgica/NP ;/FF República_de_Bolívia/NP ;/FF República_de_els_Estats_Units_de_el_Brasil/NP ;/FF Regne_de_Bulgària/NP ;/FF C._Domini_de_el_Canadà/NP ;/FF República_de_Colòmbia/NP ;/FF República_de_Costa_Rica/NP ;/FF República_de_Cuba/NP ;/FF D._Ciutat_Lliure_de_Danzig/NP ;/FF Regne_de_Dinamarca/NP ;/FF ;/FF E._Regne_d'_Egipte/NP ;/FF República_de_l'_Equador/NP ;/FF Eslovàquia_República_Eslovaca/NP ;/FF Regne_d'_Espanya/NP ;/FF Estats_Units_d'_Amèrica/NP ;/FF -/FF República_d'_Estònia/NP ;/FF Im

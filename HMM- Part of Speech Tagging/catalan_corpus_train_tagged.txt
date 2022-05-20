@@ -19445,4 +19445,75 @@ Catalunya_Romànica/NP ,/FF vol./NC IX/NP l/NC Empordà_II/NP ./FF
 Enciclopèdia_Catalana/NP ,/FF 1990/ZZ ./FF
 ISBN/NP 84-85194-56-X/ZZ Enllaços/NP externs/AQ ./FF
 Inventari_de_el_Patrimoni_Arquitectònic_de_Catalunya/NP :/FF Església_de_Santa_Helena_de_Rodes/NP ;/FF
-El/DA despoblat/NC de/SP Santa_Creu_de_Rodes/NP es/P0 troba/VM situat/VM prop/RG de/SP el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ,/FF a/SP el/DA 
+El/DA despoblat/NC de/SP Santa_Creu_de_Rodes/NP es/P0 troba/VM situat/VM prop/RG de/SP el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ,/FF a/SP el/DA municipi/NC de/SP Port_de_la_Selva/NP (/FF Alt_Empordà/NP )/FF ./FF
+Es/P0 tracta/VM d'/SP un/DI nucli/NC de/SP població/NC abandonat/VM i/CC que/CS es/P0 troba/VM en/SP ruïna/NC ./FF
+D'/SP aquest/DD lloc/NC es/P0 tenen/VM notícies/NC gràcies_a/SP la/DA seva/PX església/NC parroquial/AQ de/SP Santa_Helena_de_Rodes/NP ,/FF de/SP la/DA que/PR es/P0 tenen/VM notícies/NC des_de/SP el/DA 974/ZZ ./FF
+El/DA pogressiu/AQ abandó/NC degué/VM començar/VM degut/VM a/SP el/DA greu/AQ episodi/NC de/SP pesta/NC negra/AQ que/PR es/P0 va/VA patir/VM el/DA 1345/ZZ i/CC que/PR també/RG va/VA afectar/VM el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ./FF
+Tradicionalment/RG s'/P0 admet/VM que/CS ja/RG a/SP el/DA segle_XIII/WW va/VA patir/VM un/DI important/AQ despoblament/NC arran_de/SP la/DA participació/NC d'/SP una/DI bona/AQ part/NC de/SP la/DA població/NC en/SP la/DA conquesta/NC de/SP Mallorca/NP ,/FF s'/P0 hi/PP van/VA quedar/VM ./FF
+El/DA 1572/ZZ l'/DA església/NC de/SP Santa_Creu_de_Rodes/NP (/FF que/PR ja/RG en/SP aquella/DD època/NC havia/VA canviat/VM el/DA com/CS per/SP el/DA de/SP Santa_Helena/NP )/FF va/VA perdre/VM la/DA condició/NC de/SP parroquial/AQ ,/FF el/DA que/PR indica/VM que/CS el/DA lloc/NC havia/VA d'/SP estar/VM pràcticament/RG deshabitat/VM ./FF
+A/SP més/RG de/SP la/DA coneguda/NC església/NC de/SP Santa_Creu_de_Rodes/NP ,/FF que/PR és/VS l'/DA únic/AQ edifici/NC que/PR es/P0 conserva/VM en/SP relatiu/NC bon/AQ estat/NC ,/FF l'/DA interès/NC de/SP el/DA lloc/NC rau/VM en/SP el/DA fet/NC que/PR era/VS tancat/VM per/SP un/DI mur/NC ,/FF de/SP el/DA que/PR encara/RG es/P0 conserven/VM alguns/DI vestigis/NC ,/FF sobretot/RG per/SP el/DA que/PR fa/VM a/SP dos/ZZ portals/NC :/FF el/DA de/SP tramuntana/NC i/CC el/DA de/SP migdia/WW ./FF
+La/DA resta/NC de/SP construccions/NC es/P0 limita/VM a/SP murs/NC de/SP pedra/NC entre/SP la/DA vegetació/NC ./FF
+Bibliografia/NP ./FF
+Jordi_Bolós/NP :/FF Catalunya_Romànica/NP ,/FF vol./NC IX_l'_Empordà_II/NP ./FF
+Enciclopèdia_Catalana/NP ,/FF 1990/ZZ ./FF
+ISBN/NP 84-85194-56-X/ZZ ;/FF
+L/NP '/FF Hockey_Club_Liceo_de_La_Coruña/NP és/VS un/DI equip/NC d'/SP hoquei/NC sobre/SP patins/NC de/SP La_Corunya/NP ,/FF Galícia/NP ./FF
+Història/NP ./FF
+El/DA CD_Liceo_La_Paz/NP es/P0 va/VA fundar/VM l'/DA any/NC 1972/ZZ ,/FF impulsat/VM per/SP Augusto_César_Lendoiro/NP ,/FF Javier_Chaver/NP ,/FF Antonio_Pintor/NP ,/FF Carlos_Pérez_Roca/NP i/CC Felipe_Marcos_Nieto/NP ./FF
+Els/DA seus/PX majors/AQ èxits/NC van/VA ser/VS durant/SP la/DA dècada/NC de/SP els/DA anys/NC 1980/ZZ i/CC l'/DA inici/NC de/SP els/DA 90/ZZ ./FF
+Posteriorment/RG s'/P0 ha/VA mantingut/VM a/SP l'/DA elit/NC europea/AQ sense/SP igualar/VM l'/DA anterior/AQ època/NC daurada/NC ./FF
+Palmarès/NP ./FF
+4/ZZ Copes_d'_Europa/NP (/FF 1987/ZZ ,/FF 1988/ZZ ,/FF 1992/ZZ ,/FF 2003/ZZ )/FF ;/FF 2/ZZ Recopes_d'_Europa/NP (/FF 1989/ZZ ,/FF 1996/ZZ )/FF ;/FF 2/ZZ Copes_de_la_CERS/NP (/FF 1982/ZZ ,/FF 1999/ZZ )/FF ;/FF 5/ZZ Copes_Continentals/NP (/FF 1987/ZZ ,/FF 1988/ZZ ,/FF 1989/ZZ ,/FF 1992/ZZ ,/FF 2003/ZZ )/FF ;/FF 4/ZZ Copes_Intercontinentals/NP (/FF 1987/ZZ ,/FF 1989/ZZ ,/FF 1993/ZZ ,/FF 2004/ZZ )/FF ;/FF 6/ZZ OK_Lligues/NP (/FF 1982-83/ZZ ,/FF 1985-86/ZZ ,/FF 1986-87/ZZ ,/FF 1989-90/ZZ ,/FF 1990-91/ZZ ,/FF 1992-93/ZZ )/FF ;/FF 9/ZZ Copes_de_el_Rei/NP (/FF 1982/ZZ ,/FF 1984/ZZ ,/FF 1988/ZZ ,/FF 1989/ZZ ,/FF 1991/ZZ ,/FF 1995/ZZ ,/FF 1996/ZZ ,/FF 1997/ZZ ,/FF 2004/ZZ )/FF ;/FF Plantilla/NP 2008-09/ZZ ./FF
+Altes/NP ./FF
+Jordi_Bargalló/NP (/FF de/SP l'/DA Igualada_HC/NP )/FF ;/FF Baixes/NP ./FF
+Temporades/NP ./FF
+2007-2008/ZZ ;/FF Enllaços/NP externs/AQ ./FF
+Lloc/NP web/NC oficial/AQ ;/FF
+El/DA Club_Hoquei_Sant_Feliu/NP és/VS un/DI club/NC d'/SP hoquei/NC sobre/SP patins/NC de/SP Sant_Feliu_de_Codines/NP ,/FF a/SP el/DA Vallès_Oriental/NP ./FF
+La/DA temporada/NC 2007-08/ZZ es/P0 troba/VM a/SP la/DA Primera/NP divisió/NC estatal/AQ ./FF
+Plantilla/NP 2007-08/ZZ ./FF
+São_José/NP dos/VM Campos/NP és/VS un/DI municipi/NC brasiler/AQ de/SP l/NC Estat_de_São_Paulo/NP localitzat/VM a/SP la/DA Vall_de_Paraíba/NP ./FF
+Elm_Point/NP ,/FF Minnesota/NP ,/FF pertany/VM a/SP el/DA Lake/NP of/NC the/AQ Woods_County/NP ,/FF és/VS un/DI petit/AQ cap/NC ,/FF i/CC un/PI exclavament/RG a/SP el/DA sud-oest/NC de/SP el/DA Northwest_Angle/NP ,/FF un/DI periclavament/RG nord-americà/AQ ./FF
+Te/NP frontera/NC amb/SP el/DA Canadà/NP a/SP el/DA paral·lel/AQ 49/ZZ i/CC es/P0 troba/VM separat/VM per/SP terra/NC i/CC per/SP aigua/NC de/SP el/DA territori/NC de/SP els/DA EUA/NP ,/FF a_diferència_de/SP el/DA Northwest_Angle/NP -/FF per/SP això/PD es/P0 un/DI periclavament/RG -/FF que/PR sí/RG manté/VM la/DA comunicació/NC amb/SP el/DA territori/NC nord-americà/AQ via/SP les/DA aigües/NC territorials/AQ de/SP el/DA Lake/NP of/NC the/AQ Woods/NP ./FF
+Un/DI (/FF literalment/RG "/FF home/NC onada/NC "/FF un/DI home/NC errant/AQ com/CS una/DI onada/NC en/SP el/DA mar/NC )/FF era/VS un/DI samurai/NC sense/SP amo/NC durant/SP el/DA període/NC feudal/AQ a/SP Japó/NP ,/FF entre/SP 1185/ZZ i/CC 1868/ZZ ./FF
+Un/DI samurai/NC podia/VM no/RN tenir/VM amo/NC degut/VM a/SP la/DA ruïna/NC o/CC mort/NC d'/SP aquest/DD ./FF
+La/DA manera/NC més/RG senzilla/AQ que/PR havia/VM per/SP què/PT un/DI samurai/NC acabes/VM sent/VS un/DI r/AQ nin/NC era/VS a_través_de/SP el/DA naixement/NC ./FF
+El/DA fill/NC o/CC filla/NC d'/SP un/DI r/AQ nin/NC també/RG era/VS un/DI r/AQ nin/NC ,/FF sempre/RG que/CS no/RN renuncies/VM a/SP el/DA seu/PX estatus/NC ./FF
+De_tant_en_tant/RG de_naixement/RG somiaven/VM en/SP demostrar/VM la/DA seva/PX vàlua/NC per/SP poder/VM jurar/VM lleialtat/NC a/SP un/DI clan/NC ,/FF convertint/VM -se/PP així/RG en/SP un/DI autèntic/AQ samurai/NC ./FF
+Tot_i_que/CS això/PD passes/VM de_tant_en_tant/RG ,/FF era/VS bastant/RG infreqüent/AQ ,/FF reservat/NC a/SP els/DA que/PR tenien/VM més/RG talent/NC ,/FF pocs/DI dàimios/NC estaven/VM disposats/VM a/SP acceptar/VM un/DI r/AQ nin/NC per/SP què/PR entrés/VM en/SP el/DA seu/PX clan/NC ./FF
+El/DA que/PR es/P0 trobava/VM normalment/RG era/VS que/CS els/PP enviessin/VM en/SP alguna/DI missió/NC per/SP poder/VM entrar/VM a/SP el/DA clan/NC i/CC després/RG se/P0 'ls/PP negava/VM amb/SP alguna/DI mena/NC de/SP tecnicisme/NC ./FF
+Un/PI de/SP els/DA r/AQ nins/NC més/RG famosos/AQ va/VA ser/VS Miyamoto_Musashi/NP ,/FF l'/DA espadatxí/NC afamat/VM ./FF
+En/SP l'/DA actualitat/NC ./FF
+Actualment/RG ,/FF un/DI r/AQ nin/NC és/VS un/DI estudiant/NC que/PR ha/VA suspès/VM l'/DA examen/NC d'/SP accés/NC a/SP la/DA universitat/NC ./FF
+Aquest/DD significat/NC és/VS actualment/RG metafòric/AQ :/FF de_la_mateixa_manera/RG que/CS un/DI ronin/VM a/SP la/DA història/NC no/RN tenia/VM amo/NC a/SP qui/PR servir/VM ,/FF un/DI estudiant/NC ronin/VM és/VS el/DA que/PR no/RN té/VM escola/NC on/PR estudiar/VM ./FF
+Existeix/VM de_la_mateixa_manera/RG un/DI sentiment/NC de/SP vergonya/NC i/CC deshonra/NC en/SP haver/VA suspès/VM l'/DA examen/NC ./FF
+Referències/NP ./FF
+Messier/NP 12/ZZ (/FF M12/ZZ o/CC NGC/NP 6218/ZZ )/FF és/VS un/DI cúmul/NC globular/AQ de/SP la/DA constel·lació/NC de/SP serpentari/NC ./FF
+Va_Ser/NP descobert/NC per/SP Charles_Messier/NP el/DA 1764/ZZ ./FF
+Situat/VM aproximadament/RG a/SP 3º/ZZ de/SP el/DA cúmul/NC M10/ZZ ,/FF es/P0 troba/VM a/SP una/DI distància/NC de/SP 16.000/ZZ anys/NC llum/NC i/CC té/VM un/DI diàmetre/NC espacial/AQ de/SP ~/FF 75/ZZ anys/NC llum/NC ./FF
+La/DA seva/PX magnitud/NC conjunta/AQ en/SP banda/NC B/NP (/FF filtre/NC blau/NC )/FF és/VS igual/AQ a/SP la/DA 8.52/ZZ ,/FF la/DA seva/PX magnitud/NC en/SP banda/NC V/NP (/FF filtre/NC verd/AQ )/FF és/VS igual/AQ a/SP la/DA 7.68/ZZ ;/FF el/DA seu/PX tipus/NC espectral/AQ és/VS F8/ZZ :/FF fotogràficament/RG s'/P0 aprecia/VM de/SP color/NC groguenc/AQ a_causa_de/SP la/DA gran/AQ quantitat/NC d'/SP estrelles/NC gegants/AQ vermelles/AQ (/FF de/SP color/NC groguenc/AQ o/CC daurat/NC )/FF que/PR conté/VM ./FF
+De/SP la/DA seva/PX velocitat/NC radial/AQ ,/FF -43.5_km_/_s/ZZ ,/FF es/P0 dedueix/VM que/CS s'/P0 apropa/VM a/SP la/DA Terra/NP a/SP més/RG 156/ZZ 600_km_/_h/ZZ :/FF aquesta/DD velocitat/NC està/VM originada/VM per/SP la/DA combinació/NC de/SP la/DA seva/PX velocitat/NC orbital/AQ a/SP el/DA voltant/NC de/SP el/DA nucli/NC de/SP la/DA Via_Làctia/NP ,/FF a/SP més/RG de/SP la/DA velocitat/NC pròpia/AQ de/SP el/DA Sol/NP i/CC de/SP la/DA Terra/NP ./FF
+És/VS un/DI cúmul/NC globular/AQ molt/RG pobre/AQ en/SP estrelles/NC variables/AQ :/FF fins/SP a/SP el/DA moment/NC actual/AQ (/FF any/NC 2006/ZZ )/FF només/RG s'/P0 ha/VA descobert/VM una/DI :/FF es/P0 tracta/VM d'/SP una/DI estrella/NC variable/AQ Cefeida/NP (/FF de/SP el/DA tipus/NC W_Virginis/NP )/FF amb/SP un/DI període/NC igual/AQ a/SP 15.527/ZZ dies/NC ;/FF en/SP la/DA seva/PX lluentor/NC màxima/AQ arriba/VM a/SP la/DA magnitud/NC 11.91/ZZ (/FF en/SP banda/NC V/NP )/FF ./FF
+Un/DI estudi/NC publicat/VM en/SP 2006/ZZ va/VA concloure/VM que/CS el/DA cúmul/NC va/VA perdre/VM sobre/SP un_milió/ZZ d'/SP estrelles/NC de/SP massa/NC baixa/AQ ,/FF és/VS per/SP això/PD que/PR hi/PP ha/VA poca/DI quantitat/NC d'/SP aquest/DD tipus/NC d'/SP estrelles/NC en/SP el/DA cúmul/NC ./FF
+Els/DA autors/NC suposen/VM que/CS van/VA ser/VS arrencades/VM de/SP el/DA cúmul/NC per/SP influència/NC de/SP la/DA força/NC gravitacionals/AQ de/SP la/DA Via_làctia/NP ./FF ./FF
+Enllaços/NC externs/AQ ./FF
+Messier/NP 12/ZZ -/FF SEDS_Messier/NP ;/FF Dades/NP astronòmiques/AQ SIMBAD/NP ;/FF
+La/DA Batalla_de_Brunete/NP fou/VS el/DA conjunt/NC d'/SP operacions/NC desenvolupades/VM entre/SP el/DA 6/ZZ i/CC el/DA 25_de_juliol_del_1937/WW ,/FF en/SP la/DA població/NC que/PR porta/VM el/DA mateix/DI nom/NC i/CC d'/SP altres/DI properes/AQ ,/FF a/SP l'/DA oest/NC de/SP Madrid/NP ,/FF durant/SP la/DA Guerra_Civil_Espanyola/NP ./FF
+L'/DA ofensiva/AQ llançada/NC per/SP l'/DA exèrcit/NC de/SP la/DA República/NP tenia/VM com/CS a/SP objectiu/NC disminuir/VM la/DA pressió/NC exercida/VM per/SP les/DA forces/NC revoltades/VM sobre/SP Madrid/NP i/CC ,/FF a/SP el/DA mateix/DI temps/NC ,/FF alleugerir/VM la/DA situació/NC en/SP el/DA front/NC nord/AQ ./FF
+Situació/NC inicial/AQ ./FF
+El/DA 17_de_maig_del_1937/WW cau/VM el/DA govern/NC de/SP Largo_Caballero/NP i/CC Negrín/NP accedeix/VM a/SP la/DA presidència/NC de/SP el/DA govern/NC republicà/AQ ./FF
+En/SP aquestes/DD dates/NC ,/FF els/DA nacionals/AQ estan/VM dedicats/VM plenament/RG a/SP la/DA reducció/NC de/SP el/DA front/NC nord/AQ ./FF
+Bilbao/NP ha/VA caigut/VM el/DA 19_de_juny/WW ,/FF després/RG de/SP el/DA trencament/NC de/SP el/DA Cinturó_de_Ferro/NP ,/FF per/SP la/DA qual/DR cosa/NC els/DA esforços/NC es/P0 dirigeixen/VM ara/RG ,/FF amb/SP gran/AQ intensitat/NC ,/FF cap/NC a/SP Cantàbria/NP i/CC el/DA Astúries/NP ./FF
+Per/SP això/PD ,/FF l'/DA Estat_Major/NP republicà/AQ pren/VM la/DA decisió/NC d'/SP obrir/VM una/DI ofensiva/NC en/SP la/DA zona/NC Centre/NP ,/FF el/DA qual/PR està/VM prenent/VM una/DI situació/NC molt/RG delicada/AQ per/SP a/SP les/DA tropes/NC lleials/AQ a/SP la/DA República/NP ,/FF i/CC a/SP el/DA mateix/DI temps/NC millorar/VM la/DA situació/NC de/SP Madrid/NP ,/FF que/PR es/P0 troba/VM gairebé/RG en/SP una/DI borsa/NC ./FF
+La/DA decisió/NC de/SP presentar/VM la/DA batalla/NC ,/FF a/SP part/NC de/SP els/DA motius/NC estratègics/AQ ,/FF també/RG en/PP tenia/VM de/SP polítics/NC :/FF demostrar/VM a/SP els/DA consellers/NC russos/AQ que/CS la/DA República/NP també/RG tenia/VM iniciativa/NC militar/AQ ./FF
+La/DA demostració/NC de/SP força/NC ,/FF si/CS tenia/VM èxit/NC ,/FF havia/VA d'/SP enfortir/VM a/SP més/RG la/DA imatge/NC de/SP el/DA govern/NC republicà/AQ davant/SP França/NP ,/FF contribuint/VM a/SP la/DA reobertura/NC de/SP la/DA frontera/NC ,/FF cosa/NC que/PR permetria/VM el/DA trasllat/NC de/SP el/DA material/NC emmagatzemat/VM i/CC retingut/VM en/SP el/DA territori/NC francès/AQ a_causa_de/SP la/DA política/NC de/SP no-intervenció/NC ./FF
+L'/DA operació/NC ,/FF a/SP pesar/VM d'/SP algunes/DI afirmacions/NC de/SP el/DA mariscal/NC rus/AQ Malinovsky/NP en/SP les/DA seves/PX memòries/NC ,/FF en/SP el/DA sentit/NC de/SP què/PT havia/VA estat/VS planejada/VM i/CC dirigida/VM per/SP els/DA soviètics/NC ,/FF fou/VS dissenyada/VM íntegrament/RG per/SP els/DA coronels/NC d'/SP Estat_Major_Rojo/NP i/CC Matallana/NP ,/FF amb/SP l'/DA anuència/NC de/SP consellers/NC russos/AQ ./FF
+Una/DI operació/NC d'/SP aquest/DD tipus/NC havia/VA estat/VS ja/RG considerada/VM en/SP temps/NC de/SP el/DA govern/NC Largo_Caballero/NP ,/FF però/CC no/RN hi/PP hagué/VA unanimitat/NC respecte/NC a/SP el/DA lloc/NC on/PR s'/P0 havia/VA de/SP dur_a_terme/VM ./FF
+En/SP un/DI principi/NC es/P0 va/VA pensar/VM en/SP Extremadura/NP ,/FF però/CC els/DA consellers/NC militars/AQ russos/NC no/RN la/PP veien/VM viable/AQ ,/FF per/SP la/DA necessitat/NC de/SP desplaçar/VM un/DI gran/AQ contingent/NC de/SP tropes/NC a/SP un/DI indret/NC tan/RG allunyat/VM ./FF
+Per/SP aquest/DD motiu/NC ,/FF la/DA zona/NC de/SP Brunete/NP ,/FF per/SP la/DA seva/PX proximitat/NC a/SP Madrid/NP ,/FF permetia/VM aquest/DD desplaçament/NC amb/SP menys/RG riscos/NC per/SP a/SP l'/DA objectiu/NC vital/AQ de/SP la/DA defensa/NC de/SP la/DA capital/NC ./FF
+Pla/NC d'/SP operacions/NC ./FF
+El/DA pla/NC dissenyat/VM per/SP l'/DA Estat_Major_de_Miaja/NP consistia/VM en/SP llançar/VM un/DI atac/NC des_de/SP el/DA sector/NC situat/VM a/SP el/DA nord/NC de/SP la/DA carretera/NC de/SP Majadahonda/NP ,/FF Villanueva_de_el_Pardillo/NP ,/FF Valdemorillo/NP i/CC El_Escorial/NP i/CC tot/DI seguit/NC avançar/VM cap/DI el/DA sud/NC fins/SP arribar/VM a/SP Móstoles/NP i/CC Navalcarnero/NP ./FF
+Aquesta/DD part/NC de/SP el/DA pla/NC correria/VM a/SP càrrec/NC de/SP els/DA cossos/NC d'/SP exèrcit/NC V/NP i/CC XVIII/NP ./FF
+Un_segon/ZZ atac/NC es/P0 realitzaria/VM en/SP direcció/NC contrària/AQ ,/FF sortint/VM de/SP Carabanchel/NP i/CC Usera/NP i/CC a/SP càrrec/NC de/SP forces/NC de/SP el/DA II_Cos_d'_Exèrcit/NP ,/FF les/DA quals/PR ,/FF d'/SP acord/NC amb/SP el/DA pla/NC ,/FF convergirien/VM amb/SP les/DA de/SP el/DA XVIII_Cos_d'_Exèrcit/NP a/SP Alcorcón/NP ./FF
+Amb/SP aquesta/DD operació/NC ,/FF les/DA forces/NC franquistes/AQ que/PR assetjaven/VM Madrid/NP havien/VA de/SP quedar/VM en/SP situació/NC d'/SP aïllament/NC ./FF
+Prèviament/RG a/SP aquests/DD atacs/NC s'/P0 havia/VA de/SP dur_a_terme/V

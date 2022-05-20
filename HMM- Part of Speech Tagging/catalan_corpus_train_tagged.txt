@@ -19372,4 +19372,77 @@ Participacions/NP :/FF 4/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF
 Point_Roberts/NP és/VS una/DI comunitat/NC no-incorporada/NC de/SP el/DA comtat/NC de/SP Whatcom/NP (/FF és/VS a/SP dir/VM administrada/NC directament/RG per/SP el/DA comtat/NC )/FF ,/FF a/SP l'/DA Estat_de_Washington/NP a/SP els/DA Estats_Units/NP ./FF
 Va/VA ser/VS fundada/VM a/SP el/DA segle_XIX/WW per/SP pescadors/NC islandesos/AQ ./FF
 Durant/SP els/DA temps/NC de/SP la/DA Llei/NP seca/AQ ,/FF va/VA ser/VS un/DI sanctuari/NC de/SP gangsters/NC i/CC contrabandistes/NC ./FF
-Situat/VM a/SP la/DA punta/NC sud/AQ de/SP la/DA península/NC de/SP Tsawwassen/NP ,/FF Point_Roberts/NP és/VS un/DI periclavament/RG nord-americà/AQ :/FF la/DA comunitat/NC és/VS envoltada
+Situat/VM a/SP la/DA punta/NC sud/AQ de/SP la/DA península/NC de/SP Tsawwassen/NP ,/FF Point_Roberts/NP és/VS un/DI periclavament/RG nord-americà/AQ :/FF la/DA comunitat/NC és/VS envoltada/VM a/SP el/DA nord/NC per/SP la/DA Columbia-Britanica/NP canadenca/AQ i/CC per/SP els/DA altres/DI costats/NC per/SP les/DA aigües/NC territorials/AQ nordamericanes/AQ ;/FF és/VS doncs/RG impossible/AQ unir/VM -la/PP per/SP via/NC terrestre/AQ des_de/SP els/DA Estats_Units/NP sense/SP passar/VM per/SP el/DA Canadà/NP ./FF
+Aquesta/DD situació/NC ve/VM de/SP el/DA fet/NC que/PR en/SP aquest/DD indret/NC ,/FF el/DA paral·lel/NC 49/ZZ serveix/VM de/SP frontera/NC entre/SP els/DA dos/ZZ països/NC ./FF
+No/RN es/P0 tracta/VM d'/SP altra/DI banda/NC d'/SP una/DI excepció/NC ,/FF diverses/DI zones/NC similars/AQ existint/VM a/SP el/DA voltant/NC de/SP el/DA Lake/NP of/NC the/AQ Woods/NP a/SP Minnesota/NP ,/FF essent/VS -ne/PP la/DA més/RG gran/AQ el/DA Northwest_Angle/NP ./FF
+Enllaços/NC externs/AQ ./FF
+article/NC de/SP el/DA Washington_Post/NP sobre/SP Point_Roberts/NP ;/FF article/NC de/SP el/DA National_Geographic/NP sobre/SP Point_Roberts/NP ;/FF
+El/DA Paintball/NP (/FF traducció/NC literal/AQ a/SP el/DA català/NC és/VS bola/NC de/SP pintura/NC )/FF és/VS un/DI esport/NC en/SP què/PT els/DA participants/NC utilitzen/VM pistoles_d'_aire_comprimit/NC anomenades/NC marcadores/AQ (/FF markers/NC )/FF per/SP disparar/VM petites/AQ boles/NC de/SP pintura/NC a/SP contra/SP els/DA altres/DI jugadors/NC ./FF
+En_essència/RG és/VS un/DI joc/NC de/SP persecució/NC complex/AQ ,/FF ja_que/CS els/DA jugadors/NC tocats/VM per/SP boles/NC de/SP pintura/NC durant/SP el/DA joc/NC són/VS eliminats/VM ./FF
+Normalment/RG en/SP una/DI partida/NC de/SP paintball/NC s'/P0 enfronten/VM dos/ZZ equips/NC amb/SP el/DA fi/NC de/SP eliminar/VM a/SP tots/DI els/DA jugadors/NC de/SP l'/DA equip/NC contrari/AQ o/CC complementar/VM l'/DA objectiu/NC (/FF com/CS capturar/VM la/DA bandera/NC o/CC eliminar/VM a/SP un/DI jugador/NC en_concret/RG )/FF ./FF
+Un/DI joc/NC de/SP paintball/NC típic/AQ no/RN professional/AQ so/NC tardar/VM d'/SP uns/DI cinc/ZZ minuts/NC a/SP mitha/AQ hora/NC ./FF
+L'/DA equip/NC bàsic/AQ necessari/AQ per/SP practicar/VM el/DA paintball/NC no/RN es/P0 excessivament/RG car/AQ (/FF encara/RG que/CS si/CS ho/PP poden/VM ser/VS les/DA marcadores/NC i/CC demés/RG d'/SP alta/AQ gama/VM )/FF ./FF el/DA número/NC de/SP boles/NC de/SP pintura/NC disparades/NC durant/SP una/DI partida/NC varia/VM d'/SP un/DI jugador/NC a/SP un/DI altre/PI :/FF alguns/DI disparen/VM 100/ZZ ,/FF altres/DI unes/DI poques/DI i/CC inclús/RG n'/PP hi/PP han/VA que/CS no/RN arriben/VM a/SP disparar/VM en/SP tota/DI la/DA partida/NC ./FF
+Desde/NP el/DA seu/PX naixament/NC ,/FF el/DA paintball/NC ha/VA enganxat/VM a/SP una/DI multitud/NC de/SP jugadors/NC ocasionals/AQ o/CC permanents/AQ ./FF
+La/DA Sporting_Goods_Manufacturer/NP 's/P0 Association/NP estima/VM que/CS aproximadament/RG 10_milions/ZZ de/SP estatunidencs/AQ jugen/VM anualment/RG a/SP el/DA paintball/NC ./FF
+Les/DA estadístiques/NC de/SP les/DA asseguradores/AQ indican/NC que/CS el/DA paintball/NC es/P0 un/DI de/SP els/DA esports/NC mes/NC segurs/AQ ,/FF inclús/RG mes/NC que/CS el/DA golf/NC ./FF
+Les/DA partides/NC de/SP paintball/NC poden/VM jugar/VM -se/P0 sote/NC sostre/NC o/CC a/SP l'/DA aire/NC lliure/AQ i/CC adoptar/VM diferentes/NC formes/NC ,/FF com/CS el/DA woodsball/NC i/CC el/DA torneig/NC o/CC speedball/NC ./FF
+Les/DA regles/NC varien/VM àmpliamnet/AQ d'/SP una/DI forma/NC o/CC altre/DI ,/FF dissenya/VM 'n/PP -les/PP de_manera_que/CS la/DA majoria/NC de/SP participants/NC disfrutin/VM de/SP el/DA joc/NC en/SP un/DI entorn/NC segur/AQ ./FF
+Luci_Veturi_Filó/NP (/FF Lucius_Veturius_L._F._Postumus_N._Philo/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS cònsol/NC el/DA 220/ZZ aC/NC amb/SP Gai_Lutaci_Catul/NP ./FF
+Els/DA dos/ZZ cònsols/NC van/VA avançar/VM cap/DI a/SP els/DA i/CC van/VA sotmetre/VM molts/DI pobles/NC i/CC ciutats/NC sense/SP lluita/NC ,/FF però/CC els/DA detalls/NC de/SP l'/DA expedició/NC no/RN són/VS coneguts/NC ./FF
+El/DA 217/ZZ aC/NC fou/VS nomenat/VM dictador/NC per/SP dirigir/VM els/DA comicis/NC ./FF
+El/DA 210/ZZ aC/NC fou/VS censor/NC amb/SP Publi_Licini_Cras_Dives_I/NP i/CC va/VA morir/VM mentre/CS exercia/VM el/DA càrrec/NC
+Una/DI suspensió/NC és/VS una/DI mescla/NC heterogènia/AQ ,/FF on/PR en/SP un/DI líquid/NC hi/PP ha/VA partícules/NC no/RN solubles/AQ (/FF fase/NC dispersa/AQ )/FF en/SP un/DI medi/NC líquid/AQ (/FF dispersant/AQ o/CC dispersor/AQ )/FF ./FF
+Quan/CS un/PI de/SP els/DA components/NC és/VS aigua/NC i/CC els/DA altres/PI són/VS sòlids/AQ suspesos/NC en/SP la/DA barreja/NC són/VS conegudes/VM com/CS suspensions/NC mecàniques/AQ sòlides/AQ suspeses/NC ,/FF que/PR no/RN es/P0 poden/VM dissoldre/VM ./FF
+Amb/SP la/DA decantació/NC ,/FF les/DA partícules/NC precipiten/VM a/SP el/DA fons/NC de/SP el/DA recipient/NC ./FF
+Un/DI exemple/NC de/SP suspensió/NC és/VS el/DA café/RG ,/FF perquè/CS quan/CS s'/P0 acaba/VM de/SP beure/VM es/P0 queda/VM el/DA pòsit/NC a/SP el/DA fons/NC de/SP la/DA tassa/NC que/PR el/PP contenia/VM ./FF
+Característiques/NP ./FF
+Les/DA seves/PX partícules/NC són/VS majors/AQ que/CS les/DA de/SP les/DA dissolucions/NC i/CC els/DA coloides/AQ ,/FF el/DA que/PR permet/VM observar/VM -les/PP a/SP simple/AQ vista/NC ./FF
+Les/DA seves/PX partícules/NC sedimenten/VM si/CS la/DA suspensió/NC es/P0 deixa/VM en/SP repòs/NC ./FF
+Els/DA components/NC de/SP la/DA suspensió/NC poden/VM separar/VM -se/P0 per/SP mètodes/NC d'/SP aïllament/NC com/CS ara/RG la/DA centrifugació/NC ,/FF la/DA decantació/NC ,/FF la/DA filtració/NC i/CC //FF o/CC l'/DA evaporació/NC ./FF
+Exemples/NP de/SP suspensions/NC són/VS :/FF Alguns/DI medicaments/NC ;/FF La/NP sorra/VM barrejada/NC amb/SP el/DA ciment/NC ./FF ;/FF Les/NP aigües/NC fresques/AQ elaborades/VM amb/SP fruites/NC naturals/AQ ./FF ;/FF Algunes/NP pintures/NC viníliques/AQ ./FF
+Luci_Veturi_Filó/NP (/FF Lucius_Veturius_L._F._L._N._Philo/NP )/FF fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS edil/NC curul/AQ el/DA 210/ZZ aC/NC ,/FF i/CC pretor/NC el/DA 209/ZZ aC/NC amb/SP la/DA jurisdicció/NC peregrina/AQ i/CC va/VA tenir/VM la/DA Gàl·lia_Cisalpina/NP com/CS a/SP província/NC exercint/VM com/CS a/SP propretor/NC l'/DA any/NC següent/AQ (/FF 208/ZZ aC/NC )/FF L'/NP altre/DI any/NC (/FF 207/ZZ aC/NC )/FF va/VA servir/VM sota/SP Claudi_Neró/NP i/CC Livi_Salinator/NP i/CC fou/VS enviat/VM a/SP Roma/NP ,/FF junt/AQ amb/SP Quint_Cecili_Metel/NP ,/FF per/SP portar/VM la/DA noticia/VM de/SP la/DA mort/NC d'/SP Àsdrubal_Barca/NP ./FF
+a/SP els/DA comicis/NC fou/VS elegit/NC cònsol/NC junt/AQ amb/SP Quint_Cecili_Metel/NP ,/FF i/CC van/VA rebre/VM el/DA Bruttium/NP com/CS a/SP província/NC amb/SP l'/DA encàrrec/NC de/SP seguir/VM la/DA guerra/NC contra/SP Anníbal/NP ;/FF el/DA seu/PX període/NC d'/SP un/DI any/NC va/VA passar/VM sense/SP cap/DI fet/NC rellevant/AQ i/CC Filó/NP va/VA tornar/VM a/SP Roma/NP per/SP celebrar/VM comicis/NC mentre/CS el/DA seu/PX col·lega/NC va/VA romandre/VM a/SP el/DA Bruttium/NP ./FF
+El/DA 205/ZZ aC/NC fou/VS magister/NC equitum/NC de/SP el/DA dictador/NC Quint_Cecili_Metel/NP ,/FF nomenat/VM per/SP celebrar/VM els/DA comicis/NC ./FF
+Després/RG va/VA anar/VM a/SP Àfrica/NP amb/SP Escipió/NP i/CC després/RG de/SP la/DA batalla/NC de/SP Zama/NP (/FF 202/ZZ aC/NC )/FF va/VA anar/VM a/SP Roma/NP a/SP portar/VM notícies/NC de/SP la/DA victòria/NC ./FF
+Filòcares/NP (/FF Philocares/NP )/FF fou/VS un/DI destacat/VM pintor/NC grec/AQ ,/FF esmentat/VM per/SP Plini_el_Vell/NP que/PR diu/VM que/CS fou/VS l'/DA autor/NC d'/SP una/DI de/SP les/DA dues/ZZ pintures/NC que/PR August/NP va/VA posar/VM a/SP les/DA muralles/NC de/SP la/DA Cúria/NP (/FF l'/DA altre/DI era/NC de/SP Nícies/NP )/FF que/PR presentava/VM a/SP un/DI pare/NC i/CC el/DA seu/PX fill/NC amb/SP ,/FF però/RG sobre/SP ,/FF un/DI àguila/NC portant/VM una/DI serp/NC ./FF
+Portava/VM la/DA inscripció/NC "/FF Philochares/NP hoc/NC suum/NC opus/NC esse/NC testatus/NC est/NC "/FF ./FF
+Alguns/DI autors/NC pensen/VM que/CS es/P0 tracta/VM de/SP el/DA germà/NC d'/SP Èsquines_d'_Atenes/NP ,/FF que/PR Ulpià/NP situa/VM entre/SP els/DA pintors/NC més/RG distingits/VM ;/FF si/CS així/RG fos/VM Filòcares/NP hauria/VA viscut/VM a_la_meitat_de/SP el/DA segle_IV/WW aC/NC ./FF
+Hans_Dekkers/NP (/FF Eindhoven/NP ,/FF 16_de_juny_de_1928/WW -/FF 30_d'_agost_de_1984/WW )/FF va/VA ser/VS un/DI ciclista/NC neerlandès/AQ que/CS fou/VS professional/AQ entre/SP 1951/ZZ i/CC 1955/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC professional/AQ aconseguí/VM 6/ZZ victòries/NC ,/FF entre/SP elles/PP dos/VM campionats/NC de/SP els/DA Països_Baixos/NP i/CC una/DI etapa/NC a/SP el/DA Tour_de_França/NP ./FF
+Palmarès/NP ./FF
+1949/ZZ ;/FF 1r/AO a/SP el/DA Circuit_de_Kempen/NP ;/FF 1951/ZZ ;/FF Campió_d'_Holanda/NP en/SP ruta/NC ;/FF 1r/AO a/SP la/DA Ronde/NP van/VA Noord-Holland/NP ;/FF 1952/ZZ ;/FF Campió_d'_Holanda/NP en/SP ruta/NC ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Tour_de_França/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP els/DA Països_Baixos/NP ;/FF 1953/ZZ ;/FF 1r/AO a/SP el/DA Gran_Premi_de_l'_Escaut/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1952/ZZ ./FF 60è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Hans_Dekkers/NP ;/FF
+L/NP antiga/AQ església/NC de/SP Santa_Creu_de_Rodes/NP ,/FF ara/RG coneguda/VM amb/SP el/DA nom/NC de/SP Santa_Helena/NP ,/FF es/P0 troba/VM situada/VM a/SP el/DA despoblat/NC de/SP Santa_Creu_de_Rodes/NP ,/FF molt/RG proper/AQ a/SP el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ,/FF a/SP el/DA municipi/NC de/SP Port_de_la_Selva/NP (/FF Alt_Empordà/NP )/FF ./FF
+Història/NP ./FF
+Aquesta/DD església/NC té/VM un/DI origen/NC molt/RG antic/AQ com/CS ho/PP demostra/VM que/CS el/DA 2007_s/ZZ hi/PP va/VA trobar/VM a/SP el/DA seu/PX costat/NC i/CC sota/SP una/DI casa/NC de/SP el/DA poble/NC abandonat/VM ,/FF un/DI cementiri/NC que/PR s/NC hauria/VA de/SP situar/VM cronològicament/RG entre/SP els/DA segles/NC VIII/NP i/CC IX/NP ./FF
+La/DA primera/AO data/NC documentada/VM que/CS fa/VM esment/NC a/SP l/NC església/NC és/VS de/SP el/DA 974/ZZ ,/FF es/P0 tracta/VM d/RG una/DI butlla/NC de/SP el/DA papa/NC Benet_VI/NP on/PR hi/PP figura/VM una/DI confirmació/NC de/SP béns/NC de/SP el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ./FF
+Aquest/DD lligam/NC amb/SP el/DA cenobi/NC benedictí/AQ es/P0 va/VM mantenint/VM en/SP el/DA temps/NC ./FF
+Més/RG endavant/RG ,/FF entre/SP el/DA 1116/ZZ i/CC 1118/ZZ ,/FF hom/PI troba/VM el/DA que/PR s/NC ha/VA interpretat/VM com/CS un/DI acta/NC de/SP consagració/NC de/SP l/NC església/NC ,/FF molt/RG probablement/RG es/P0 tracti/VM només/RG de/SP la/DA conversió/NC de/SP l/NC església/NC en/SP parròquia/NC ,/FF continuant/VM ,/FF però/RG ,/FF lligada/NC a/SP el/DA monestir/NC ./FF
+Quan/CS el/DA poble/NC de/SP Santa_Creu/NP va/VA perdre/VM progressivament/RG la/DA seva/PX població/NC i/CC va/VA quedar/VM finalment/RG abandonat/VM ,/FF la/DA parròquia/NC també/RG va/VA anar/VM perdent/VM importància/NC ./FF
+Aquest/DD procés/NC possiblement/RG es/P0 va/VA desenvolupar/VM entre/SP els/DA segles/NC XIV/NP i/CC XV/NP ./FF
+El/DA 1455/ZZ encara/RG tenia/VM tres/ZZ sacerdots/NC ./FF
+El/DA 1517_s/ZZ esmenta/VM per/SP primer/AO cop/NC amb/SP el/DA nom/NC de/SP Santa_Helena/NP (/FF personatge/NC lligat/VM a/SP la/DA Llegenda_de_la_Creu/NP )/FF ,/FF més/RG endavant/RG ,/FF el/DA 1572/ZZ ja/RG havia/VA perdut/VM la/DA categoria/NC de/SP parròquia/NC ./FF
+Des_de/SP el/DA monestir/NC es/P0 va/VA intentar/VM mantenir/VM la/DA seva/PX funció/NC de/SP forma/NC artificial/AQ i/CC encara/RG el/DA 1820/ZZ serví/VM de/SP lloc/NC d/AQ enterrament/NC d/AQ un/DI abat/NC ,/FF quan/CS la/DA comunitat/NC ja/RG havia/VA abandonat/VM el/DA monestir/NC i/CC s/NC havia/VA traslladat/VM a/SP Figueres/NP ./FF
+Poc/RG després/RG i/CC a_causa_de/SP la/DA deixadesa/NC ,/FF el/DA lloc/NC fou/VS saquejat/VM i/CC va/VA quedar/VM abandonat/VM molts/DI anys/NC ./FF
+S/NP hi/PP han/VA fet/VM diverses/DI campanyes/NC de/SP restauració/NC ./FF
+L/NP edifici/NC ./FF
+Es/P0 tracta/VM d/RG una/DI interessant/AQ i/CC antiga/AQ construcció/NC ,/FF amb/SP parts/NC força/RG antigues/AQ i/CC moltes/DI modificacions/NC ./FF
+Originalment/RG es/P0 tractava/VM d/RG un/DI edifici/NC amb/SP una/DI nau/NC única/AQ ,/FF coberta/NC amb/SP volta/NC de/SP canó/NC i/CC capçada/NC amb/SP tres/ZZ absis/NC trapezoïdals/AQ disposats/VM en/SP forma/NC de/SP creu/NC ./FF
+Amb/SP el/DA temps/NC els/DA absis/NC laterals/AQ van/VA perdre/VM els/DA murs/NC de/SP ponent/NC ,/FF obrint/VM -los/PP a/SP través/NC d/AQ uns/DI arcs/NC que/PR comuniquen/VM amb/SP unes/DI naus/NC laterals/AQ que/PR es/P0 van/VA aixecar/VM de_bell_nou/RG i/CC que/PR alhora/RG també/RG donen/VM a/SP l/NC antiga/AQ nau/NC central/AQ a/SP través/NC uns/DI amplis/AQ arcs/NC oberts/VM a/SP els/DA murs/NC laterals/AQ d/AQ aquesta/DD i/CC que/PR suporten/VM la/DA volta/NC primitiva/AQ ./FF
+Amb/SP aquesta/DD modificació/NC la/DA primitiva/AQ església/NC pre-romànica/AQ es/P0 va/VA convertir/VM es/P0 una/DI curiosa/AQ església/NC de/SP tres/ZZ naus/NC amb/SP un/DI absis/NC ,/FF amb/SP arcs/NC entre/SP les/DA naus/NC ./FF
+Encara/RG es/P0 van/VA fer/VM més/RG modificacions/NC a/SP l/NC edifici/NC ,/FF com/CS ara/RG l'/DA afegit/VM un/DI atri/NC i/CC d'/SP una/DI sagristia/NC ./FF
+Sobre/SP el/DA creuer/NC ,/FF entre/SP els/DA tres/ZZ antics/AQ absis/NC ,/FF s/NC aixeca/VM una/DI pesada/NC torre/NC ,/FF rematada/NC amb/SP una/DI espadanya/NC de/SP dos/ZZ ulls/NC ./FF
+per/SP el/DA que/PR fa/VM a/SP la/DA seva/PX datació/NC ,/FF aquesta/PD és/VS motiu/NC de/SP controvèrsia/NC ,/FF tot_i_que/CS hom/PI pensa/VM que/CS l/NC església/NC primitiva/AQ ,/FF pre-romànica/AQ ,/FF sigui/VS de/SP el/DA segle_X/WW o/CC anterior/AQ ./FF
+Les/DA importants/AQ obres/NC d/AQ ampliació/NC són/VS molt/RG posteriors/AQ ,/FF fins_i_tot/RG podrien/VM situar/VM -se/P0 a/SP el/DA segle_XVI/WW ./FF
+La/DA portada/NC principal/AQ ,/FF d/AQ aquesta/DD última/AO època/NC ,/FF fou/VS espoliada/VM a/SP començament/NC de/SP el/DA segle_XX/WW i/CC traslladada/VM a/SP la/DA Selva_de_Mar/NP ./FF
+Bibliografia/NP ./FF
+Joan_Badia/NP i/CC Homs/NP ,/FF Joan-Albert_Adell/NP ./FF
+Catalunya_Romànica/NP ,/FF vol./NC IX/NP l/NC Empordà_II/NP ./FF
+Enciclopèdia_Catalana/NP ,/FF 1990/ZZ ./FF
+ISBN/NP 84-85194-56-X/ZZ Enllaços/NP externs/AQ ./FF
+Inventari_de_el_Patrimoni_Arquitectònic_de_Catalunya/NP :/FF Església_de_Santa_Helena_de_Rodes/NP ;/FF
+El/DA despoblat/NC de/SP Santa_Creu_de_Rodes/NP es/P0 troba/VM situat/VM prop/RG de/SP el/DA monestir/NC de/SP Sant_Pere_de_Rodes/NP ,/FF a/SP el/DA 

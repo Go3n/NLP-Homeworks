@@ -19579,4 +19579,92 @@ Capítols/NP "/FF ad_hoc/RG "/FF de/SP l'/DA obra/NC ./FF
 Brunete/NP ./FF
 Rafael_Casas_de_la_Vega/NP ./FF
 Madrid/NP ,/FF 1967/ZZ (/FF Uriarte/NP ,/FF DL_M./NP 21.047.1967/ZZ )/FF Recull/NP de/SP relats/NC sobre/SP la/DA batalla/NC ./FF
-Descripció/NP de/SP la/DA batalla/NC ;/FF El/NP lector/AQ interessat/VM que/CS no/RN desitgi/VM desplaçar/VM -
+Descripció/NP de/SP la/DA batalla/NC ;/FF El/NP lector/AQ interessat/VM que/CS no/RN desitgi/VM desplaçar/VM -se/P0 fins/RG a/SP l'/DA Arxiu/NP ,/FF pot/VM consultar/VM un/DI gran/AQ nombre/NC de/SP documents/NC a/SP través/NC d'/SP internet/NC ,/FF a/SP la/DA pàgina/NC de/SP el/DA Ministeri_de_Cultura/NP ;/FF Fons_de_l'_Arxiu_General_Militar_de_Madrid/NP (/FF IHCM/NP )/FF de/SP el/DA Ministeri_de_Defensa/NP ,/FF encara/RG que/CS té/VM un/DI accés/NC restringit/VM ;/FF Notes/NP ./FF
+En/SP la/DA tradició/NC japonesa/AQ ,/FF el/DA bushid/NC (/FF )/FF és/VS un/DI terme/NC traduït/VM com/CS "/FF el/DA camí/NC de/SP el/DA guerrer/NC "/FF ./FF
+És/VS un/DI codi/NC ètic/AQ estricte/AQ i/CC particular/AQ on/PR molt/RG samurais/NC entregaven/VM les/DA seves/PX vides/NC ,/FF que/PR exigia/VM lleialtat/NC i/CC honor/NC fins/SP a/SP la/DA mort/NC ./FF
+Si/CS un/DI samurai/NC fallava/VM en/SP mantenir/VM el/DA seu/PX honor/NC podia/VM recobrar/VM -lo/PP practicant/VM el/DA seppuku/NC (/FF suïcidi/NC )/FF ./FF
+Es/P0 diu/VM que/CS des_de_petit/RG ,/FF el/DA bushido/NC era/VS inculcats/VM a/SP els/DA japonesos/NC de/SP classe/NC dirigent/NC fins_i_tot/RG abans/RG de/SP deixar/VM el/DA pit/NC de/SP la/DA mare/NC ./FF
+Fonts/NP ./FF
+Aquest/DD codi/NC moral/AQ té/VM dos/ZZ fons/NC principals/AQ :/FF Budisme/NP ./FF
+El/DA Budisme/NP atorgava/VM a/SP el/DA guerrer/NC un/DI estoïcisme/NC ple/AQ i/CC fort/AQ que/PR acompanyava/VM a/SP el/DA samurai/NC fins/SP els/DA últims/AO dies/NC de/SP la/DA seva/PX vida/NC ./FF el/DA Bushi/NP és/VS amic/NC de/SP la/DA mort/VM i/CC confiat/VM amb/SP el/DA destí/NC ,/FF ofereix/VM en/SP el/DA seu/PX caràcter/NC un/DI total/NC despreci/VM aquells/DD samurais/NC que/PR careixien/VM de/SP valor/NC a/SP l'/DA hora/NC de/SP morir/VM ./FF
+En/SP paraules/NC de/SP el/DA Príncep_de_Mito/NP ,/FF "/FF Qualsevol/DI por/NC introduir/VM -se/P0 en/SP el/DA més/RG igualat/VM de/SP la/DA batalla/NC i/CC morir/VM ./FF
+És/VS fàcil/AQ per/SP un/DI poca/DI cosa/NC ,/FF però/CC per/SP un/DI samurai/NC és/VS verdaderament/RG decisiu/AQ en/SP la/DA justa/AQ equanimitat/NC i/CC verdader/AQ valor/VM saber/VM viure/VM quan/CS ha/VA de/SP viure/VM ,/FF i/CC morir/VM quan/CS ha/VA de/SP morir/VM "/FF ./FF
+El/DA budisme/NC ofereix/VM a/SP el/DA Bushido/NP un/DI mètode/NC de/SP contemplació/NC subjacent/AQ a/SP un/DI fenomen/NC que/PR posava/VM a/SP el/DA guerrer/NC en/SP harmonia/NC amb/SP l'/DA absolut/AQ ./FF
+Xintoisme/NP ./FF
+Per/SP l'/DA altre/DI banda/NC el/DA Xintoisme/NP atorga/VM a/SP el/DA bushido/NC valors/NC ètics/AQ d'/SP afinitat/NC i/CC amor/NC per/SP totes/DI les/DA coses/NC vives/AQ ,/FF i/CC una/DI profunda/AQ ensenyança/NC de/SP la/DA lleialtat/NC per/SP un/DI sobirà/NC en/SP el/DA seu/PX aspecte/NC més/RG tradicional/AQ ./FF
+El/DA Xintoisme/NP creia/VM que/CS en/SP la/DA puresa/NC de/SP l'/DA innat/AQ amb/SP el/DA que/PR no/RN cabia/VM en/SP ell/PP ,/FF cabia/VM en/SP el/DA pecat/NC original/AQ ./FF
+Les/DA obres/NC de/SP Mencio/NP i/CC Confuci/NP eren/VS les/DA principals/AQ ensenyances/NC per/SP els/DA joves/NC samurais/NC i/CC una/DI interessant/AQ pauta/NC de/SP resolució/NC per/SP assumptes/NC majors/AQ ./FF
+Set/ZZ virtuts/NC ./FF
+En/SP la/DA seva/PX forma/NC original/AQ ,/FF es/P0 reconeix/VM el/DA bushido/NC amb/SP set/ZZ virtuts/NC associades/NC :/FF -/FF Gi/NP -/FF Rectitud/NP (/FF decisions/NC correctes/AQ )/FF ;/FF Sigues/NP honrat/VM en/SP els/DA teus/PX actes/NC amb/SP tothom/PI ./FF
+Creu/VM en/SP la/DA justícia/NC ,/FF però/CC no/RN en/SP la/DA que/PR diuen/VM els/DA altres/PI sinó/CC la/DA teva/PX pròpia/AQ ./FF
+Per/SP un/DI autèntic/AQ samurai/NC no/RN existeixen/VM tons/NC entre/SP bé/NC i/CC mal/NC ,/FF només/RG existeix/VM el/DA correcte/AQ i/CC l'/DA incorrecte/AQ ./FF
+-/FF Yuu/NP -/FF Coratge/NP ;/FF Aixeca/NP 't/P0 sobre/SP la/DA massa/NC de/SP gent/NC amb/SP por/NC d'/SP actuar/VM ./FF
+Ocultar/VM -se/P0 com/PT una/DI tortuga/NC sota/SP la/DA closca/NC no/RN és/VS viure/VM ./FF
+Un/DI samurai/NC ha/VA de/SP tenir/VM el/DA valor/NC heroic/AQ ./FF
+És/VS absolutament/RG perillós/AQ ,/FF és/VS viure/VM plenament/RG ,/FF completa/AQ i/CC meravellosa/AQ ./FF
+El/DA coratge/NC heroic/AQ no/RN és/VS cec/AQ ./FF
+És/VS intel·ligent/AQ i/CC fort/AQ ./FF
+Canvia/VM la/DA por/NC per/SP el/DA respecte/NC i/CC la/DA prudència/NC ./FF
+-/FF Jin/NP -/FF Benevolència/NP ;/FF Mitjançant/NP l'/DA entrenament/NC intens/AQ el/DA samurai/NC es/P0 converteix/VM en/SP ràpid/AQ i/CC fort/AQ ./FF
+No/RN és/VS com/CS la/DA resta/NC d'/SP homes/NC ./FF
+Ha/VA de/SP desenvolupar/VM un/DI poder/NC que/PR ha/VA de/SP ser/VS usat/VM per/SP el/DA bé/NC de/SP tots/PI ./FF
+Ha/VA de/SP tenir/VM compassió/NC ./FF
+Ajudar/VM a/SP els/DA seus/PX companys/NC sempre/RG que/CS es/P0 pugui/VM ./FF
+-/FF Rei/NP -/FF Respecte/NP ;/FF Els/NP samurais/NC no/RN tenen/VM motius/NC per/SP ser/VS cruels/AQ ./FF
+No/RN necessiten/VM demostrar/VM la/DA seva/PX força/NC ./FF
+Un/DI samurai/NC és/VS cortès/AQ fins_i_tot/RG amb/SP els/DA seus/PX enemics/NC ./FF
+Sense/SP aquesta/DD mostra/NC directa/AQ de/SP respecte/NC ,/FF seriem/VM igual/AQ que/CS els/DA altres/DI animals/NC ./FF
+Un/DI samurai/NC és/VS respectat/VM no/RN només/RG per/SP la/DA seva/PX força/NC a/SP el/DA camp_de_batalla/NC ,/FF sinó/CC també/RG per/SP la/DA seva/PX manera/NC de/SP tractar/VM els/DA altres/PI ./FF
+L'/DA autèntica/AQ força/NC interior/AQ de/SP el/DA samurai/NC es/P0 fa/VM evident/AQ en/SP moments/NC de/SP necessitat/NC ./FF
+-/FF Makoto/NP -/FF Honestedat/NP ,/FF Sinceritat/NP absoluta/AQ ;/FF Quan/NP un/DI samurai/NC diu/VM que/CS farà/VM alguna/DI cosa/NC ,/FF és/VS com/CS si/CS ja/RG l'/PP hagués/VM fet/VM ./FF
+Res/PI a/SP el/DA món/NC podrà/VM aturar/VM -lo/PP de/SP fer/VM allò/PD que/PR ha/VA dit/VM que/CS faria/VM ./FF
+No/RN ha/VA de/SP donar/VM "/FF la/DA seva/PX paraula/NC "/FF ni/CC ha/VA de/SP "/FF prometre/VM "/FF ,/FF el/DA simple/AQ fet/NC de/SP dir/VM -ho/PP és/VS suficient/AQ ./FF
+Parlar/NP i/CC fer/VM és/VS el/DA mateix/PI ./FF
+-/FF Meiyo/NP -/FF Honor/NP ;/FF L'/NP autèntic/AQ samurai/NC només/RG té/VM un/DI jutge/NC i/CC és/VS ell/PP mateix/PI ./FF
+Les/DA decisions/NC preses/NC i/CC com/CS són/VS dutes_a_terme/VM reflecteixen/VM qui/PT és/VS vertaderament/RG ./FF
+Ningú/PI pot/VM ocultar/VM -se/P0 d'/SP ell/PP mateix/PI ./FF
+-/FF Chuu/NP -/FF Lleialtat/NP ;/FF Haver/NP fet/VM o/CC dit/VM alguna/DI cosa/NC significa/VM que/CS aquesta/DD cosa/NC li/PP pertany/VM ./FF
+És/VS responsable/NC d'/SP això/PD i/CC de/SP totes/DI les/DA conseqüències/NC que/PR en/PP segueixin/VM ./FF
+Un/DI samurai/NC es/P0 intensament/NC lleial/AQ amb/SP aquells/PD que/PR té/VM sota/SP manament/NC ./FF
+Per/SP aquells/DD de/SP els/DA que/PR són/VS responsable/AQ ,/FF perdurant/VM fidelment/RG ./FF
+Les/DA paraules/NC d'/SP un/DI home/NC són/VS com/CS les/DA seves/PX empremtes/NC ,/FF el/DA segueixen/VM sempre/RG ./FF
+Una/DI heder/NC (/FF també/RG heider/NC ,/FF en/SP hebreu/AQ habitació/NC "/FF és/VS una/DI escola/NC tradicional/AQ que/PR ensenya/VM les/DA bases/NC de/SP el/DA judaisme/NC i/CC de/SP l'/DA hebreu/NC ./FF
+Història/NP ./FF
+Les/DA heders/NC estaven/VM àmpliament/RG esteses/NC a/SP Europa/NP abans/RG de/SP el/DA segle_XVIII/WW ./FF
+Les/DA lliçons/NC tenien_lloc/VM a/SP casa/NC de/SP el/DA professor/NC ,/FF que/PR era/VS contractat/VM per/SP la/DA comunitat/NC jueva/AQ o/CC per/SP un/DI grup/NC de/SP pares/NC ./FF
+Normalment/RG ,/FF només/RG els/DA nois/NC anaven/VM a/SP classes/NC ,/FF mentre/CS les/DA noies/NC eren/VS educades/VM per/SP les/DA mares/NC a/SP casa/NC seva/PX ./FF
+Nois/NP de/SP diferents/DI edats/NC podien/VM rebre/VM la/DA classe/NC en/SP un/DI únic/AQ grup/NC ./FF
+Els/DA nois/NC entraven/VM a/SP l'/DA escola/NC a/SP els/DA 5/ZZ anys/NC aproximadament/RG ./FF
+Desprès/VM d'/SP aprendre/VM l'/DA alfabet/NC hebreu/AQ i/CC com/CS llegir/VM en/SP hebreu/NC (/FF l'/DA idioma/NC usual/AQ de/SP la/DA comunitat/NC jueva/AQ nordeuropea/AQ des_de/SP l'/DA Edat_Mitjana/NP era/VS el/DA yiddish/NC ,/FF començaven/VM a/SP estudiar/VM la/DA Torà/NP ,/FF on/PR començaven/VM primer/RG amb/SP el/DA Levític/NP i/CC el/DA Talmud/NP (/FF Misnà/NP ,/FF Gemarà/NP i/CC altres/DI comentaris/NC addicionals/AQ )/FF ./FF
+Llegien/VM en/SP veu/NC alta/AQ juntament/RG i/CC se/P0 l'/PP aprenien/VM de/SP memòria/NC com/CS a/SP mètode/NC d'/SP estudi/NC ./FF
+a/SP els/DA 13/ZZ o/CC 14/ZZ anys/NC ,/FF el/DA final/NC de/SP l'/DA educació/NC d'/SP un/DI noi/NC jueu/AQ se/P0 celebrava/VM amb/SP el/DA Bar_Mitzvà/NP ./FF
+Els/DA que/PR volguessin/VM continuar/VM per/SP fer/VM -se/PP rabins/NC o/CC escrivans/NC havien/VA de/SP continuar/VM els/DA seus/PX estudis/NC a/SP una/DI yeshivot/NC (/FF universitat/NC de/SP el/DA Talmud/NP )/FF ./FF
+Escoles/NP yeshivot/NC famoses/AQ a/SP Europa/NP es/P0 trobaven/VM a/SP Worms/NP (/FF Alemanya/NP )/FF ,/FF Fürth/NP i/CC Praga/NP ,/FF considerades/VM les/DA millors/AQ ./FF
+Desprès/VM que/CS molts/DI jueus/NC haguessin/VA marxat/VM cap/NC a/SP Europa/NP de/SP l'/DA est/NC per/SP escapar/VM de/SP les/DA pogroms/NC de/SP l'/DA era/NC medieval/AQ relacionades/VM amb/SP les/DA croades/NC de/SP l'/DA època/NC el/DA nucli/NC intel·lectual/AQ d'/SP el/DA Judaisme/NP europeu/AQ va/VA marxar/VM amb/SP ells/PP i/CC hi/PP va/VA restar/VM durant/SP segles/NC ./FF
+Cap/PI a/SP el/DA final/NC de/SP el/DA segle_XVIII/WW ,/FF el/DA sistema/NC de/SP les/DA heders/NC es/P0 va/VA tornar/VM com/CS a/SP centre/NC de/SP crítiques/NC de/SP membres/NC de/SP l'/DA ortodòxia/NC jueva/AQ així/RG com/CS de/SP membres/NC de/SP la/DA corrent/NC liberal/AQ d'/SP haskala/NC ./FF
+Les/DA crítiques/NC ortodoxes/AQ es/P0 queixaven/VM de/SP què/PT els/DA professors/NC no/RN estiguessin/VM suficientment/RG qualificats/VM ./FF
+En/SP aquella/DD època/NC ,/FF aquests/DD professors/NC estaven/VM tant/RG malpagats/VM que/CS aquells/PD que/PR vivien/VM en/SP pobles/NC petits/AQ sovint/RG es/P0 guanyaven/VM la/DA vida/NC com/CS a/SP carnicers/AQ ,/FF cantants/AQ o/CC excavadors/AQ ja_que/CS treballar/VM de/SP professor/NC era/VS sovint/RG només/RG una/DI feina/NC vocacional/AQ ./FF
+Sovint/RG ,/FF els/DA professors/NC avançaven/VM els/DA seus/PX alumnes/NC de/SP nivell/NC més/RG ràpid/AQ de/SP el/DA convenient/AQ ja_que/CS els/DA alumnes/NC de/SP nivells/NC posteriors/AQ havien/VA de/SP pagar/VM més/RG diners/NC per/SP les/DA lliçons/NC ./FF
+Les/DA crítiques/NC d'/SP Haskala/NP ,/FF compromeses/VM a/SP els/DA ideals/NC de/SP l'/DA Il·lustració/NP ,/FF criticaven/VM el/DA sistema/NC en/SP si/CS ,/FF proclamant/VM que/CS creava/VM una/DI marginació/NC lingüística/AQ i/CC espacial/AQ i/CC per/SP tant/RG prevenien/VM els/DA jueus/NC de/SP la/DA seva/PX integració/NC i/CC emancipació/NC ./FF
+Proposaven/VM lliçons/NC addicionals/AQ en/SP els/DA idiomes/NC de/SP el/DA país/NC i/CC una/DI educació/NC més/RG vocacional/AQ i/CC secular/AQ ./FF
+Aquestes/DD idees/NC van/VA ser/VS posades/NC en/SP pràctica/NC des_de/SP finals/NC de/SP el/DA segle_XVIII/WW per/SP els/DA jueus/NC alemanys/AQ ,/FF que/PR van/VA fundar/VM les/DA escoles/NC reformades/NC o/CC Freischulen/NP (/FF "/FF escoles/NC lliures/AQ "/FF )/FF ./FF
+Això/PD i/CC la/DA introducció/NC de/SP una/DI educació/NC obligatòria/AQ van/VA portar/VM a/SP la/DA dissolució/NC de/SP el/DA sistema/NC heder/AQ ,/FF almenys/RG a/SP els/DA països/NC germanòfons/NC ,/FF encara/RG que/CS va/VA continuar/VM existint/VM a/SP l'/DA Europa/NP de/SP l'/DA est/NC fins/SP a/SP l'/DA Holocaust/NP ./FF
+Actualment/RG ./FF
+a/SP els/DA països/NC occidentals/AQ ,/FF els/DA joves/NC atenen/VM les/DA lliçons/NC de/SP les/DA heders/NC fora/RG l'/DA escola/NC normal/AQ mentre_que/CC els/DA jueus/NC ortodoxos/AQ van/VM a/SP escoles/NC full-time/AQ ./FF
+A/SP Israel/NP ,/FF operen/VM com/CS a/SP escoles/NC full-time/AQ ./FF
+La/DA Batalla_de_Montblanc/NP de/SP 1649/ZZ fou/VS un/PI de/SP els/DA episodis/NC de/SP la/DA Guerra_de_els_Segadors/NP ./FF
+Es/P0 van/VA enfrontar/VM tropes/NC franceses/AQ i/CC castellanes/AQ a/SP Montblanc/NP (/FF Conca_de_Barberà/NP )/FF ./FF
+Antecedents/NP ./FF
+El/DA 1649/ZZ ,/FF amb/SP els/DA castellans/NC guanyant/VM posicions/NC a/SP el/DA Principat/NP ,/FF surt/VM de/SP Lleida/NP una/DI columna/NC formada/VM per/SP 7.000/ZZ soldats/NC d'/SP infanteria/NC i/CC 3.000/ZZ cavallers/NC comandats/VM per/SP Juan_de_Garay/NP ./FF
+Aquest/DD exèrcit/NC ocupa/VM les/DA poblacions/NC de/SP Vimbodí/NP ,/FF el/DA Monestir_de_Poblet/NP ,/FF Montblanc/NP ,/FF Cabra_de_el_Camp/NP ,/FF Valls/NP ,/FF Constantí/NP ,/FF Tarragona/NP ,/FF Torredembarra/NP ,/FF Vilanova/NP i/CC la/DA Geltrú/NP i/CC Sitges/NP ./FF
+Poc/RG després/RG ,/FF va/VA tenir_lloc/VM la/DA Batalla_de_Vilafranca/NP el/DA 17_d'_octubre/WW ./FF
+La/DA batalla/NC ./FF
+La/DA matinada/NC de/SP el/DA 14_de_novembre_de_1649/WW l'/DA exèrcit/NC castellà/AQ entra/VM a/SP la/DA Conca_de_Barberà/NP ./FF
+Arriben/VM notícies/NC que/CS tropes/NC franceses/AQ s'/P0 havien/VA fortificat/VM a/SP l/NC església/NC de/SP Santa_Maria_de_Montblanc/NP ./FF
+L'/DA exèrcit/NC de/SP Juan_de_Garay/NP entra/VM a/SP la/DA vila/NC ducal/AQ i/CC assetja/VM l'/DA església/NC convertida/VM en/SP plaça/NC forta/AQ per/SP els/DA francesos/NC ./FF
+L'/DA enfrontament/NC és/VS molt/RG violent/AQ ,/FF amb/SP intercanvi/NC constant/AQ de/SP trets/NC ./FF
+Finalment/RG ,/FF els/DA assaltants/NC aconsegueixen/VM tirar/VM la/DA porta/NC principal/AQ de/SP l'/DA església/NC i/CC entren/VM a/SP sang/NC i/CC foc/NC a/SP l'/DA edifici/NC ./FF
+Vegeu/VM també/RG ./FF
+La/DA General_Crema/NP ;/FF
+Fuero_de_el_Trabajo/NP (/FF 1938/ZZ )/FF és/VS una/DI de/SP les/DA vuit/ZZ Lleis_Fonamentals/NP de/SP el/DA franquisme/NC ,/FF elaborada/VM abans/RG de/SP la/DA fi/NC de/SP la/DA guerra/NC civil/AQ espanyola/AQ ,/FF si_bé/CS és/VS cert/AQ que/CS en/SP el/DA moment/NC de/SP la/DA seva/PX promulgació/NC els/DA nacionals/AQ duien/VM un/DI clar/AQ avantatge/NC en/SP la/DA contesa/NC ;/FF de/SP fet/NC va/VA anar/VM en/SP 1938/ZZ quan/CS Francisco_Franco/NP va/VA crear/VM el/DA Govern_de_la_Nació/NP ./FF
+Aquest/DD text/NC és/VS d'/SP ideologia/NC falangista/AQ ,/FF família/NC franquista/AQ que/PR va/VA tenir/VM especial/AQ influència/NC en/SP la/DA qüestió/NC laboral/AQ i/CC els/DA mitjans/NC durant/SP la/DA guerra/NC i/CC la/DA dictadura/NC ,/FF i/CC entre/SP els/DA

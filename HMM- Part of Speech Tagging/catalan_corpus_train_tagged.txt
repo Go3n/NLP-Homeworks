@@ -19739,4 +19739,76 @@ Durant/SP la/DA guerra/NC ,/FF s'/P0 hi/PP instal·len/VM diverses/DI vegades/NC
 El/DA 30_d'_agost_de_1642/WW ,/FF un/DI exèrcit/NC castellà/AQ de/SP 8.000/ZZ homes/NC es/P0 dirigeix/VM a/SP Tarragona/NP i/CC s'/P0 ajorna/VM a/SP Montblanc/NP ./FF
 Després/RG d'/SP instal·lar/VM -se/PP ,/FF comencen/VM els/DA conflictes/NC amb/SP els/DA vilatans/NC i/CC les/DA tropes/NC saquegen/VM la/DA població/NC ./FF
 La/DA Gran_Crema/NP ./FF
-El/DA 1649
+El/DA 1649/ZZ ,/FF amb/SP els/DA castellans/NC guanyant/VM posicions/NC a/SP el/DA Principat/NP ,/FF surt/VM de/SP Lleida/NP una/DI columna/NC formada/VM per/SP 7.000/ZZ soldats/NC d'/SP infanteris/NC i/CC 3.000/ZZ cavallers/NC comandats/VM per/SP Juan_de_Garay/NP ./FF
+Aquest/DD exèrcit/NC ocupa/VM les/DA poblacions/NC de/SP Lleida/NP ,/FF Vimbodí/NP ,/FF el/DA Monestir_de_Poblet/NP i/CC entra/VM a/SP Montblanc/NP ,/FF que/PR és/VS assaltada/VM i/CC saquejada/VM de/SP nou/AQ ./FF
+Aquest/DD cop/NC ,/FF els/DA militars/NC violenten/VM a/SP la/DA població/NC i/CC a/SP els/DA dirigents/NC municipals/AQ ;/FF s'/P0 apropien/VM l'/DA arxiu/NC de/SP la/DA vila/NC i/CC l'/DA arrasen/VM ,/FF s'/P0 instal·len/VM a/SP l'/DA església/NC de/SP Santa_Maria_la_Major/NP i/CC cremen/VM les/DA actes/NC de/SP la/DA parròquia/NC ./FF
+Una/DI guarnició/NC entra/VM a/SP l/NC Hospital_de_Sant_Bartomeu/NP i/CC Santa_Magdalena/NP ,/FF a/SP els/DA afores/NC de/SP la/DA vila/NC ,/FF i/CC fa/VM malvestats/NC a/SP l'/DA edifici/NC i/CC a/SP la/DA gent/NC de/SP els/DA voltants/NC ./FF
+No/RN contents/AQ amb/SP els/DA actes/NC vandàlics/AQ ,/FF comencen/VM un/DI acarnissament/NC amb/SP els/DA dirigents/NC i/CC símbols/NC de/SP Montblanc/NP ,/FF es/P0 cremen/VM diverses/DI cases/NC nobles/AQ i/CC imatges/NC pròpies/AQ de/SP les/DA festes/NC ,/FF com/CS els/DA populars/AQ Aligots/NP i/CC l'/DA antiquíssim/AQ Drac/NP ./FF
+Episodis/NC posteriors/AQ ./FF
+Després/RG de/SP el/DA saqueig/NC de/SP Montblanc/NP ,/FF les/DA tropes/NC castellanes/AQ de/SP Juan_de_Garay/NP continuen/VM el/DA seu/PX camí/NC de/SP terror/NC per/SP Cabra_de_el_Camp/NP ,/FF Valls/NP ,/FF Constantí/NP ,/FF Tarragona/NP ,/FF Torredembarra/NP ,/FF Vilanova/NP i/CC la/DA Geltrú/NP i/CC Sitges/NP ./FF
+Quan/CS es/P0 preparava/VM l'/DA atac/NC final/AQ a/SP Barcelona/NP ,/FF els/DA comandants/NC castellans/AQ decideixen/VM controlar/VM tot/DI el/DA Principat/NP ,/FF per/SP evitar/VM atacs/NC a/SP la/DA rereguàrdia/NC ;/FF així/RG ,/FF una/DI part/NC de/SP l'/DA exèrcit/NC torna/VM cap/NC a/SP l'/DA interior/NC per/SP combatre/VM la/DA cavalleria/NC francesa/AQ ./FF
+El/DA primer/AO acte/NC d'/SP aquest/DD enfrontament/NC es/P0 produeix/VM en/SP l'/DA anomenada/NC Batalla_de_Vilafranca/NP el/DA 17_d'_octubre/WW ./FF
+La/DA Batalla_de_Montblanc/NP ./FF
+La/DA matinada/NC de/SP el/DA 14_de_novembre_de_1649/WW l'/DA exèrcit/NC castellà/AQ entra/VM a/SP la/DA Conca_de_Barberà/NP ./FF
+Arriben/VM notícies/NC que/CS tropes/NC franceses/AQ de/SP cavalleria/NC s'/P0 havien/VA fortificat/VM a/SP l/NC església/NC de/SP Santa_Maria_de_Montblanc/NP ./FF
+L'/DA exèrcit/NC de/SP Juan_de_Garay/NP entra/VM a/SP la/DA vila/NC ducal/AQ i/CC assetja/VM l'/DA església/NC convertida/VM en/SP plaça/NC forta/AQ per/SP els/DA francesos/NC ./FF
+L'/DA enfrontament/NC és/VS molt/RG violent/AQ ,/FF amb/SP intercanvi/NC constant/AQ de/SP trets/NC ./FF
+Finalment/RG ,/FF els/DA assaltants/NC consegueixen/VM tirar/VM la/DA porta/NC principal/AQ de/SP l'/DA església/NC i/CC entren/VM a/SP sang/NC i/CC foc/NC a/SP l'/DA edifici/NC ./FF
+Setge_de_Montblanc/NP ./FF
+El/DA març_de_1651/WW ,/FF la/DA població/NC torna/VM a/SP ser/VS ocupada/VM per/SP tropes/NC de/SP Felip_IV_de_Castella/NP ./FF
+Aquest/DD cop/NC el/DA comandant/NC és/VS Juan_de_Pallaviccino/NP y/NC Ramírez_de_Haro/NP ,/FF militar/AQ toledà/NC d'/SP arrels/NC italianes/AQ que/PR esdevindria/VM governador/AQ de/SP Tarragona/NP ./FF
+S'/P0 imposa/VM un/DI control/NC implacable/AQ per/SP part/NC de/SP les/DA tropes/NC invasores/AQ ,/FF que/PR s'/P0 instal·len/VM de/SP forma/NC quasi/RG permanent/AQ fins/SP el/DA juliol/WW ./FF
+A/SP principis/NC d'/SP estiu/NC ,/FF els/DA arriba/VM l'/DA ordre/NC de/SP partida/NC per/SP anar/VM cap/NC a/SP assetjar/VM Barcelona/NP ./FF
+Uns/DI dies/NC abans/RG de/SP marxar/VM ,/FF els/DA soldats/NC comencen/VM un/DI espoli/NC i/CC saqueig/NC de/SP la/DA població/NC ./FF
+El/DA general/AQ Pallaviccino/NP ordena/VM bombardejar/VM la/DA façana/NC de/SP l'/DA església/NC de/SP Santa_Maria_la_Major/NP i/CC derrivar/VM diversos/DI trams/NC de/SP muralla/NC ,/FF torres/NC fortificades/VM i/CC portals/NC de/SP Montblanc/NP ./FF
+L'/DA objectiu/NC era/VS treure/VM el/DA qualificatiu/NC de/SP plaça/NC forta/AQ a/SP la/DA vila/NC ,/FF per/SP això/PD es/P0 van/VA enrunar/VM diversos/DI trams/NC de/SP el/DA recinte/NC emmurallat/VM i/CC es/P0 va/VA malmetre/VM l'/DA església/NC on/PR s'/P0 hi/PP havien/VA fet/VM forts/AQ més/RG d'/SP una/DI vegada/NC les/DA tropes/NC franceses/AQ de/SP de/SP La_Motte/NP ./FF
+Felip_IV_de_Castella/NP va/VA castigar/VM encara/RG el/DA 1658/ZZ la/DA vila/NC de/SP Montblanc/NP a/SP hostatjar/VM tropes/NC castellanes/AQ amb/SP pagament/NC de/SP les/DA despeses/NC per/SP part/NC de/SP els/DA veïns/NC ./FF
+Conseqüències/NP ./FF
+La/DA Gran_Crema/NP (/FF inclòs/VM també/RG l'/DA anomenat/VM Setge_de_Montblanc/NP )/FF es/P0 considera/VM que/CS fou/VS el/DA cop/NC de/SP gràcia/NC per/SP a/SP l'/DA abatiment/NC de/SP la/DA vila/NC ./FF
+Greument/RG afectada/VM durant/SP la/DA Guerra/NP civil/AQ catalana/AQ de/SP el/DA segle_XV/WW ,/FF estava/VM visquent/RG una/DI lleu/AQ revifalla/NC però/CC el/DA saqueig/NC implacable/AQ de/SP el/DA setembre_de_1642/WW fou/VS un/DI cop/NC duríssim/RG per/SP a/SP la/DA població/NC ,/FF que/PR va/VA perdre/VM ja/RG definitivament/RG el/DA seu/PX pes/NC polític/AQ i/CC també/RG econòmic/AQ ,/FF deixant/VM la/DA vila/NC ducal/AQ de/SP Montblanc/NP en/SP la/DA misèria/NC més/RG absoluta/AQ ./FF
+Bibliografia/NP ./FF
+Francesc_Badia/NP i/CC Batalla/NP ,/FF Guia_Turística_de_Montblanc/NP ,/FF Imp/NP ./FF
+Requesens/NP ,/FF Montblanc/NP ,/FF 1992/ZZ ;/FF Manel_Güell/NP ,/FF Francesc_de_Cabanyes/NP ,/FF el/DA primer/AO segador-almogàver/NC ,/FF Revista_A_Carn/NP !/FF
+Any_I/NP ,/FF Núm/NP ./FF 1/ZZ ,/FF Juny/WW 2006/ZZ ;/FF Vegeu/NP també/RG ./FF
+Guerra_de_els_Segadors/NP ;/FF Els_Segadors/NP ;/FF
+Daniel_Bejar/NP (/FF nascut/VM el/DA 1972/ZZ )/FF és/VS un/DI músic/NC i/CC compositor/NC independent/AQ de/SP Vancouver/NP conegut/NC per/SP les/DA seves/PX lletres/NC elaborades/VM i/CC sovint/RG críptiques/AQ i/CC per/SP les/DA veus/NC poc/RG ortodoxes/AQ d'/SP algunes/DI cançons/NC ./FF
+Bejar/NP ha/VA extès/VM la/DA seva/PX popularitat/NC gràcies_a/SP les/DA seves/PX col·laboracions/NC musicals/AQ amb/SP la/DA banda/NC d'/SP indie-rock/NC de/SP Vancouver_The_New_Pornographers/NP ,/FF però/CC ha/VA editat/VM molt/RG més/RG material/AQ com/CS a/SP líder/NC de/SP la/DA seva/PX banda/NC Destroyer/NP ./FF
+De/SP manera/NC més/RG recent/AQ ,/FF s'/P0 ha/VA ajuntat/VM amb/SP membres/NC de/SP Frog_Eyes/NP i/CC Wolf_Parade/NP per/SP crear/VM un/DI altre/DI supergrup/NC indie/NC anomenat/VM Swan_Lake/NP ./FF
+També/RG ha/VA col·laborat/VM amb/SP Bonaparte/NP ,/FF banda/NC de/SP la/DA seva/PX parella/NC actual/AQ Sydney_Vermont/NP ,/FF amb/SP qui/PR també/RG ha/VA format/VM la/DA banda/NC Hello/NP ,/FF Blue_Roses/NP ,/FF l'/DA àlbum/NC de/SP debut/NC de/SP la/DA qual/PR s'/P0 ha/VA editat/VM el/DA gener_de_2008/WW ./FF
+Destroyer/NP ./FF
+Bejar/NP va/VA crear/VM Destroyer/NP el/DA 1995/ZZ ,/FF produint/VM el/DA seu/PX àlbum/NC de/SP debut/NC ,/FF el/DA lo-fi/NC We'll_Build_Them/NP a/SP Golden_Bridge/NP ,/FF fet/NC a/SP el/DA seu/PX estudi/NC de/SP gravacions/NC de/SP Vancouver/NP ./FF
+Bejar/NP estava/VM guanyant/VM popularitat/NC ,/FF i/CC va/VA reclutar/VM John_Collins/NP per/SP a/SP City/NP of/NC Daughters/NP després/RG de/SP el/DA qual/PR varen/VM formar/VM una/DI banda/NC junts/AQ ./FF
+L'/DA any/NC 2000/ZZ el/DA grup/NC es/P0 va/VA dissoldre/VM i/CC Bejar/NP va/VA passar/VM unes/DI llargues/AQ vacances/NC a/SP Espanya/NP ./FF
+Després/RG d'/SP aquesta/DD pausa/NC ,/FF va/VA tornar/VM a/SP Vancouver/NP per/SP publicar/VM Thief/NP ,/FF un/DI altre/DI cop/NC amb/SP Destroyer/NP ,/FF l'/DA any/NC 2000/ZZ ./FF
+Interpretat/VM com/CS una/DI acusació/NC a/SP la/DA indústria/NC discogràfica/AQ per/SP molts/DI crítics/NC ,/FF el/DA disc/NC va/VA portar/VM Destroyer/NP a/SP un/DI reconeixement/NC significatiu/AQ ./FF
+Després/RG de/SP publicar/VM Thief/NP ,/FF Bejar/NP es/P0 va/VA centrar/VM més/RG en/SP la/DA seva/PX música/NC i/CC va/VA iniciar/VM les/DA seves/PX contribucions/NC músicals/AQ amb/SP The_New_Pornographers/NP ./FF
+Després/RG de/SP la/DA publicació/NC de/SP a/SP Misra_Records/NP l'/DA any/NC 2001/ZZ ,/FF Destroyer/NP va/VA començar/VM a/SP aixecar/VM un/DI cert/AQ seguiment/NC de/SP culte/NC ./FF
+Va/VA fer/VM uns/DI quants/DI concerts/NC amb/SP la/DA banda/NC Frog_Eyes/NP com/CS a/SP suport/NC ,/FF fet/NC que/PR va/VA inspirar/VM Notorious_Lightning_&_Other_Works/NP ,/FF una/DI relectura/NC de/SP sis/ZZ cançons/NC de/SP l'/DA àlbum/NC Your_Blues/NP amb/SP Frog_Eyes/NP un/DI altre/DI cop/NC com/CS a/SP banda/NC de/SP suport/NC ./FF
+Estil/NP ./FF
+Bejar/NP anomena/VM l'/DA estil/NC de/SP Destroyer/NP "/FF Blues_Europeu/NP "/FF ./FF
+Sovint/RG se/P0 'l/PP compara/VM amb/SP David_Bowie/NP ,/FF però/CC les/DA influències/NC que/PR ha/VA reconegut/VM són/VS Pavement/NP ,/FF Guided/NP by/NC Voices/NP i/CC altres/DI bandes/NC d'/SP indie/NC i/CC shoegaze/NC ./FF
+L'/DA estil/NC de/SP les/DA lletres/NC de/SP Bejar/NP és/VS significatiu/AQ per/SP la/DA seva/PX poesia/NC lírica/AQ ,/FF que/PR freqüentment/RG capfica/VM i/CC intriga/VM els/DA oients/NC ./FF
+Bejar/NP pren/VM frases/NC obertament/NC d'/SP altres/DI artistes/NC i/CC d'/SP una/DI varietat/NC de/SP fonts/NC (/FF i/CC de/SP cançons/NC )/FF ,/FF i/CC fins_i_tot/RG de/SP la/DA retòrica/NC política/AQ (/FF ex/NC :/FF Evil_Empire/NP de/SP "/FF Ronald_Reagan/NP "/FF )/FF ./FF
+Your_Blues/NP presentava/VM una/DI nova/AQ direcció/NC en/SP l'/DA estil/NC de/SP Destroyer/NP ,/FF mercè/NC a/SP la/DA introducció/NC d'/SP elements/NC orquestrals/AQ així/RG com/CS una/DI forta/AQ dependència/NC de/SP els/DA instruments/NC midi/VM ./FF
+Col·laboradors/NC musicals/AQ ./FF
+Durant/SP els/DA més/RG de/SP 10/ZZ anys/NC en/SP què/PR Bejar/NP ha/VA estat/VM tocant/AQ amb/SP Destroyer/NP ,/FF hi/PP ha/VA hagut/VM molts/DI canvis/NC de/SP formació/NC i/CC moltes/DI substitucions/NC entre/SP els/DA artistes/NC amb/SP què/PR toca/VM ./FF
+Aquest/DD reemplaçament/NC continu/AQ de/SP músics/NC ha/VA provocat/VM que/CS hom/PI considerés/VM Destroyer/NP com/CS un/DI projecte/NC en/SP solitari/NC ,/FF però/CC Bejar/NP sempre/RG ha/VA insistit/VM que/CS veu/VM Destroyer/NP com/CS una/DI banda/NC ,/FF amb/SP contribucions/NC completes/AQ de/SP els/DA seus/PX col·laboradors/NC ./FF
+Bejar/NP ha/VA dit/VM a/SP les/DA entrevistes/NC que/PR mai/RG ha/VA estat/VS especialment/RG hàbil/AQ amb/SP la/DA logística/NC de/SP mantenir/VM una/DI banda/NC unida/VM ./FF
+Bejar/NP ha/VA dit/VM que/CS la/DA formació/NC de/SP músics/NC de/SP les/DA sessions/NC de/SP gravació/NC de/SP Destroyer/NP 's/P0 Rubies/NP hauria/VA de/SP ser/VS la/DA formació/NC definitiva/AQ i/CC permanent/AQ de/SP la/DA banda/NC d'/SP ara/RG en_endavant/RG ./FF
+La/DA majoria/NC de/SP els/DA membres/NC actuals/AQ ja/RG havien/VA tocat/VM abans/RG amb/SP Bejar/NP d'_una_manera_o_d'_una_altra/RG ,/FF alguns/PI en/SP anteriors/AQ discos/NC de/SP Destroyer/NP ./FF
+Molts/DI tenen/VM en/SP comú/AQ el/DA fet/NC de/SP pertànyer/VM a/SP l'/DA equip/NC de/SP producció/NC de/SP JC/NP //FF DC/NP (/FF John_Collins/NP i/CC Dave_Carswell/NP )/FF ./FF
+Discografia/NP ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Destroyer/NP a/SP Merge_Records/NP ;/FF Destroyer/NP a/SP Misra_Records/NP ;/FF Billions_Corp/NP -/FF Tour_de_Destroyer/NP i/CC agència/NC de/SP contractació/NC ./FF
+Destroyer_Wiki/NP ;/FF Streethawk/NP :/FF El/DA diari/NC en/SP línia/NC de/SP la/DA comunitat/NC de/SP Destroyer/NP ;/FF Your_Blues/NP :/FF fòrum/NC de/SP Destroyer/NP ;/FF Sessió/NP d'/SP estudi/NC de/SP Just_Concerts/NP -/FF Gravat/NC per/SP a/SP la/DA CBC_Radio/NP 3/ZZ amb/SP Frog_Eyes/NP després/RG de/SP el/DA tour/NC Your_Blues/NP ./FF ;/FF Destroyer/NP -/FF Lletres_de_Destroyer/NP a/SP LyricWiki/NP ./FF
+Org/NP ;/FF Bejar-O-Matic/NP -/FF Dispensador/AQ de/SP lletres/NC de/SP Destroyer/NP ;/FF The_Bejar_Family_Circus/NP -/FF Vinyetes/NC aleatòries/AQ basades/VM en/SP Bejar-O-Matic/NP ;/FF The_Ratio/NP -/FF Publicació/NC especial/AQ de/SP Destroyer/NP ;/FF */FF sixeyes/NC Interview/NP -/FF Entrevista/NC a/SP Dan_Bejar/NP ;/FF L'/NP altra/DI banda/NC de/SP Bejar/NP ./FF
+Segment/RG emès/VM el/DA 18_de_març_de_2006/WW a/SP NPR/NP (/FF National_Public_Radio/NP )/FF ;/FF Destroyer/NP -/FF Historia/VM de/SP portada/NC sobre/SP Destroyer/NP a/SP la/DA revista/NC Exclaim/NP !/FF ;/FF Sessió_de_Destroyer/NP a/SP CBC_Radio/NP 3/ZZ ;/FF
+UCP4/ZZ (/FF proteïna/NC desacobladora/NC 4/ZZ )/FF és/VS una/DI proteïna/NC de/SP el/DA grup/NC de/SP proteïnes/NC desacobladores/AQ mitocondrials/AQ membres/NC de/SP la/DA família/NC de/SP transportadors/NC d'/SP anions/NC localitzats/VM a/SP la/DA membrana/NC mitocondrial/AQ interna/AQ com/CS també/RG ho/PP són/VS el/DA transportador/NC de/SP fosfat/NC inorgànic/AQ entre/SP altres/PI ./FF
+Totels_les_UCP/NP reben/VM el/DA seu/PX nom/NC degut/VM a/SP l'/DA elevada/VM homologia/NC d'/SP aquestes/DD proteïnes/NC amb/SP UCP1/ZZ (/FF o/CC termogenina/AQ )/FF ,/FF proteïna/NC que/PR genera/VM calor/NC mitjançant/SP el/DA desacoblament/NC de/SP la/DA fosforilació/NC oxidativa/AQ de/SP cadena/NC respiratòria/AQ ./FF
+Tot_i_que/CS UCP2/ZZ i/CC UCP3/ZZ estan/VM estretament/RG relacionades/VM a/SP UCP1/ZZ ,/FF UCP4/ZZ i/CC UCP5/ZZ divergeixen/VM molt/RG més/RG i/CC es/P0 troben/VM filogenèticament/RG més/RG allunyades/VM de/SP les/DA altres/DI proteïnes/NC desacoplants/NC relacionades/VM amb/SP altres/DI transportadors/NC com/CS el/DA d'/SP oxoglutarat/VM ./FF
+Funció/NP ./FF
+UCP4/ZZ és/VS específica/AQ de/SP cervell/NC i/CC la/DA seva/PX homologia/NC amb/SP UCP1/ZZ (/FF 29_%/ZZ )/FF és/VS més/RG baixa/AQ que/CS la/DA que/PR presenten/VM UCP2/ZZ i/CC UCP3/ZZ entre/VM si/CS i/CC respecte/NC UCP1/ZZ ./FF
+Tot_i_que/CS UCP4/ZZ ,/FF s'/P0 expressen/VM més/RG en/SP cervell/NC que/PR no/RN pas/NC UCP2/ZZ ,/FF la/DA funció/NC d'/SP aquesta/DD UCP/NP en/SP les/DA neurones/NC no/RN ha/VA estat/VS encara/RG establerta/VM ./FF
+S'/P0 ha/VA suggerit/VM ,/FF com/CS en/SP el/DA cas/NC d'/SP UCP5/ZZ ,/FF que/PR podria/VM modular/VM la/DA producció/NC d'/SP ATP/NP i/CC ROS/NP ,/FF com/CS suggereixen/VM alguns/DI resultats/NC d'/SP expressió/NC ectòpica/AQ d'/SP aquestes/DD proteïnes/NC en/SP diferents/DI línies/NC cel·lulars/AQ ./FF
+També/RG s'/P0 ha/VA postulat/VM la/DA 

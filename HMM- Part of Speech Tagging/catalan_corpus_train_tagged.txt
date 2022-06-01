@@ -19811,4 +19811,85 @@ Funció/NP ./FF
 UCP4/ZZ és/VS específica/AQ de/SP cervell/NC i/CC la/DA seva/PX homologia/NC amb/SP UCP1/ZZ (/FF 29_%/ZZ )/FF és/VS més/RG baixa/AQ que/CS la/DA que/PR presenten/VM UCP2/ZZ i/CC UCP3/ZZ entre/VM si/CS i/CC respecte/NC UCP1/ZZ ./FF
 Tot_i_que/CS UCP4/ZZ ,/FF s'/P0 expressen/VM més/RG en/SP cervell/NC que/PR no/RN pas/NC UCP2/ZZ ,/FF la/DA funció/NC d'/SP aquesta/DD UCP/NP en/SP les/DA neurones/NC no/RN ha/VA estat/VS encara/RG establerta/VM ./FF
 S'/P0 ha/VA suggerit/VM ,/FF com/CS en/SP el/DA cas/NC d'/SP UCP5/ZZ ,/FF que/PR podria/VM modular/VM la/DA producció/NC d'/SP ATP/NP i/CC ROS/NP ,/FF com/CS suggereixen/VM alguns/DI resultats/NC d'/SP expressió/NC ectòpica/AQ d'/SP aquestes/DD proteïnes/NC en/SP diferents/DI línies/NC cel·lulars/AQ ./FF
-També/RG s'/P0 ha/VA postulat/VM la/DA 
+També/RG s'/P0 ha/VA postulat/VM la/DA seva/PX funció/NC en/SP relació/NC a/SP funcions/NC neuronals/AQ com/CS a/SP neuromoduladores/NC a/SP traves/NC de/SP la/DA regulació/NC de/SP la/DA temperatura/NC ./FF
+Sembla/VM ser/VS que/CS la/DA proteïna/NC UCP4/ZZ humana/AQ (/FF hUCP4/ZZ )/FF podria/VM regular/VM l'/DA homeostasi/NC i/CC senyalització/NC de/SP el/DA calci/NC ,/FF suposadament/RG ,/FF reduint/VM el/DA potencial/NC de/SP membrana/NC mitocondrial/AQ i/CC segrestant/AQ calci/NC ./FF
+La/DA sobreexpressió/NC d'/SP UCP4/ZZ en/SP preadipòcits/NC inhibeix/VM la/DA diferenciació/NC de/SP els/DA preadipòcits/NC a/SP adipòcits/NC ,/FF estimulant/VM -ne/PP la/DA proliferació/NC ,/FF tot_i_així/RG ,/FF el/DA seu/PX paper/NC en/SP adipòcits/NC és/VS encara/RG menys/RG conegut/VM ./FF
+Referències/NP ./FF
+Jan_Nolten/NP (/FF Sittard/NP ,/FF 20_de_gener_de_1930/WW )/FF va/VA ser/VS un/DI ciclista/NC neerlandès/AQ que/PR va/VA ser/VS professional/AQ entre/SP 1952/ZZ i/CC 1959/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC professional/AQ aconseguí/VM 3/ZZ victòries/NC ,/FF dues/ZZ etapes/NC a/SP el/DA Tour_de_França/NP i/CC una/DI a/SP el/DA Giro_d'_Itàlia/NP ./FF
+Palmarès/NP ./FF
+1952/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Tour_de_França/NP ;/FF 1953/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Tour_de_França/NP ;/FF 1956/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Giro_d'_Itàlia/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1952/ZZ ./FF 15è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1953/ZZ ./FF 19è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1954/ZZ ./FF 14è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF 21è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1956/ZZ ./FF 28è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1956/ZZ ./FF
+Abandona/VM ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1957/ZZ ./FF 34è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Jan_Nolten/NP ;/FF
+El/DA pietisme/NC és/VS una/DI corrent/NC religiós/AQ de/SP caire/NC reformista/AQ que/PR sorgeix/VM durant/SP el/DA segle_XVIII/WW en/SP el/DA sí/NC de/SP el/DA luteranisme/NC ./FF
+Va/VA tenir/VM importància/NC a/SP les/DA zones/NC de/SP cultura/NC alemanya/AQ de/SP el/DA moment/NC influenciant/VM a/SP molt/RG pensadors/AQ ./FF
+El/DA pietisme/NC defensava/VM un/DI retorn/NC a/SP els/DA origens/NC de/SP el/DA protestantisme/NC ,/FF i/CC buscava/VM la/DA defensa/NC de/SP els/DA espais/NC privats/VM en/SP la/DA relació/NC amb/SP els/DA rituals/NC ,/FF la/DA Bíblia/NP ,/FF i/CC Déu/NP ./FF
+Veia/VM la/DA necessitat/NC de/SP demostrar/VM en/SP qualsevol/DI situació/NC la/DA fonamental/AQ pietat/NC cristiana/AQ i/CC la/DA tolerància/NC i/CC respecte/NC vers/SP la/DA pluralitat/NC i/CC diversitat/NC en/SP la/DA lectura/NC de/SP el/DA missatge/NC de/SP Déu/NP ./FF
+Antoni_Gelabert_Amengual/NP (/FF Santa_Maria_de_el_Camí/NP ,/FF 7_de_setembre_de_1921/WW -/FF Palma_de_Mallorca/NP ,/FF 13_de_desembre_de_1956/WW )/FF va/VA ser/VS un/DI ciclista/NC mallorquí/AQ que/CS fou/VS professional/AQ entre/SP 1946/ZZ i/CC 1956/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC professional/AQ aconseguí/VM 18/ZZ victòries/NC ,/FF entre/SP les/DA que/PR destaquen/VM dos/ZZ campionats/NC d'/SP Espanya/NP de/SP ciclisme/NC ,/FF una/DI Volta/NP a/SP Catalunya/NP i/CC 3/ZZ etapes/NC a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+Palmarès/NP ./FF
+1949/ZZ ;/FF 1r/AO a/SP el/DA Trofeu_Jaumendreu/NP ;/FF 1950/ZZ ;/FF Campió_d'_Espanya/NP en/SP ruta/NC ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Catalunya/NP i/CC vencedor/AQ de/SP 2/ZZ etapes/NC ;/FF Vencedor/NP de/SP 2/ZZ etapes/NC a/SP la/DA Volta/NP a/SP Espanya/NP ;/FF 1952/ZZ ;/FF 1r/AO de/SP la/DA Volta/NP a/SP Mallorca/NP ;/FF 1r/AO de/SP la/DA Volta/NP a/SP Castella/NP ;/FF 1r/AO de/SP la/DA Clásica/NP a/SP los/NC Puertos/NP ;/FF 1r/AO de/SP el/DA Gran_Premi_Pascuas/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Catalunya/NP ;/FF 1953/ZZ ;/FF 1r/AO a/SP la/DA Volta/NP a/SP Astúries/NP ;/FF 1954/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Llevant/NP ;/FF 1955/ZZ ;/FF Campió_d'_Espanya/NP en/SP ruta/NC ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Volta/NP a/SP Espanya/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP la/DA Bicicleta_Eibarresa/NP ;/FF 1956/ZZ ;/FF 1r/AO de/SP la/DA Volta/NP a/SP els/DA Pirineus/NP ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1948/ZZ ./FF 17è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1950/ZZ ./FF 9è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP de/SP 2/ZZ etapes/NC ;/FF 1955/ZZ ./FF 20è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1952/ZZ ./FF 10è/AO de/SP la/DA classificació/NC general/AQ ./FF 2n/AO de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1953/ZZ ./FF 48è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF
+Abandona/VM (/FF 17a/ZZ etapa/NC )/FF ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1955/ZZ ./FF 46è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_d'_Antoni_Gelabert_Amengual/NP ;/FF Palmarès_d'_Antoni_Gelabert_Amengual/NP ;/FF
+Classificació/NC general/AQ ./FF
+Llegenda/NP :/FF J-partits/NP jugats/NC ,/FF G-guanyats/NP ,/FF E-empatats/NP ,/FF P-perduts/NP ,/FF GF-gols/NP a/SP favor/NC ,/FF GC-gols/NP en/SP contra/SP ,/FF DG-diferència/NP de/SP gols/NC ,/FF PTS-punts_Promoció/NP ./FF
+Resultats/NC finals/AQ ./FF
+Campió/NP :/FF Sevilla/NP ./FF
+Descensos/NP :/FF CD_Alcoià/NP i/CC Hèrcules_CF/NP ./FF
+Ascensos/NP :/FF CE_Sabadell/NP i/CC Deportivo_de_La_Coruña/NP ./FF
+Màxim/AQ golejador/NC :/FF Zarra/NP (/FF Athletic_de_Bilbao/NP )/FF ./FF
+Porter/NP menys/RG golejat/VM :/FF José_Bañon/NP (/FF València_CF/NP )/FF ./FF
+Màxims/AQ golejadors/NC ./FF
+Porter/NP menys/RG golejat/VM ./FF
+Bill_Cheesbourg/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 12_de_juny_del_1927/WW a/SP Tucson/NP ,/FF Arizona/NP ./FF
+Cheesbourg/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1956-1962/ZZ i/CC 1964-1966/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1957-1959/ZZ ,/FF 1961/ZZ ,/FF 1964/ZZ i/CC 1965/ZZ ./FF
+Bill_Cheesbourg/NP va/VA morir/VM el/DA 6_de_novembre_del_1995/WW a/SP Tucson/NP ,/FF Arizona/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Bill_Cheesbourg/NP va/VA participar/VM a/SP 3/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1957/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 3/ZZ ;/FF Poles/NP :/FF 0/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 0/ZZ ;/FF Pòdiums/NP :/FF 0/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 0/ZZ ;/FF
+Sutton/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Sutton/NP va/VA competir/VM a/SP 1_sola/ZZ cursa/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ la/DA temporada/NC 1959/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+Elder/NP va/VA ser/VS un/DI constructor/NC nord-americà/AQ de/SP cotxes/NC de/SP competició/NC ./FF
+Elder/NP va/VA competir/VM a/SP 1_sola/ZZ cursa/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP la/DA Fórmula/NP 1/ZZ la/DA temporada/NC 1959/ZZ ./FF
+Va/VA disputar/VM només/RG la/DA cursa/NC de/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ ,/FF no/RN tornant/VM a/SP competir/VM a/SP el/DA món/NC de/SP la/DA F1/ZZ ./FF
+Resultats/NC a/SP la/DA F1/ZZ ./FF
+La/DA Batalla_de_Montmeló/NP de/SP 1642/ZZ fou/VS un/PI de/SP els/DA episodis/NC de/SP la/DA Guerra_de_els_Segadors_Antecedents/NP ./FF
+Poc/RG després/RG de/SP la/DA revolta/NC que/PR va/VA suposar/VM el/DA Corpus_de_Sang/NP ,/FF l'/DA exèrcit/NC de/SP Felip_IV_d'_Espanya/NP va/VA ocupar/VM Tortosa/NP i/CC Tarragona/NP ,/FF il/AQ 17_de_gener_de_1641/WW ,/FF davant/SP l/NC alarmant/AQ penetració/NC de/SP l'/DA exèrcit/NC castellà/AQ ,/FF Pau_Claris/NP a/SP el/DA capdavant/RG de/SP la/DA Generalitat_de_Catalunya/NP ,/FF proclamà/VM la/DA República_Catalana/NP acordant/AQ una/DI aliança/NC política/AQ i/CC militar/AQ amb/SP França/NP ,/FF posant/VM Catalunya/NP sota/SP l'/DA obediència/NC de/SP Lluís_XIII_de_França/NP ./FF
+Pocs/DI dies/NC després/RG ,/FF amb/SP l'/DA ajuda/NC de/SP l'/DA exèrcit/NC francès/AQ ,/FF la/DA Generalitat/NP obtingué/VM una/DI important/AQ victòria/NC militar/AQ en/SP la/DA batalla/NC de/SP Montjuïc/NP de/SP el/DA 26_de_gener_de_1641/WW ,/FF i/CC les/DA tropes/NC castellanes/AQ es/P0 retiraven/VM a/SP Tarragona/NP ./FF
+El/DA 4_de_maig_de_1641/WW l'/DA estol/NC francès/AQ d'/SP Henri_d'_Escoubleau_de_Sourdis/NP es/P0 presentà/VM davant/RG de/SP Tarragona/NP i/CC inicià/VM el/DA bloqueig/NC de/SP la/DA ciutat/NC amb/SP les/DA tropes/NC de/SP terra/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP ./FF
+Durant/SP els/DA mesos/NC de/SP maig/WW i/CC juny/WW es/P0 lluità/VM a/SP els/DA voltants/NC de/SP Tarragona/NP ;/FF el/DA fort/NC de/SP Salou/NP caigué/VM en/SP poder/VM de/SP els/DA francesos/NC el/DA 9_de_maig/WW i/CC batalla/NC de/SP Constantí/NP el/DA 13_de_maig/WW ./FF
+Després/RG de/SP ser/VS derrotats/VM de/SP el/DA 30_de_juny_al_4/WW de/SP juliol_de_1641/WW en/SP la/DA primera/AO batalla/NC naval/AQ de/SP Tarragona/NP ,/FF els/DA espanyols/NC van/VA bastir/VM un/DI nou/AQ estol/NC comandat/VM per/SP García_Álvarez_de_Toledo/NP y/NC Mendoza/NP que/PR va/VA aconseguir/VM lliurar/VM provisions/NC a/SP la/DA ciutat/NC i/CC fer/VM fugir/VM l'/DA estol/NC francès/AQ a/SP el/DA Rosselló/NP Una/DI columna/NC castellana/AQ de/SP 4.500/ZZ homes/NC dirigida/VM per/SP Gerolamo_Maria_Caracciolo/NP ,/FF el/DA marquès/NC de/SP Torrecuso/NP ,/FF va/VA sortir/VM de/SP Tarragona/NP el/DA 23_de_març_de_1642/WW per/SP socòrrer/NC Perpinyà/NP ,/FF que/PR havia/VA quedat/VM aïllada/VM a/SP el/DA nord/NC ./FF
+La/DA batalla/NC ./FF
+Per/SP ordre/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP ,/FF les/DA tropes/NC que/PR marxaven/VM cap/NC a/SP el/DA Rosselló/NP van/VA ser/VS interceptades/VM a/SP Montmeló/NP per/SP la/DA cavalleria/NC franco-catalana/AQ que/PR va/VA sortir/VM de/SP Barcelona/NP el/DA 28_de_març/WW ,/FF causant/VM mil/ZZ baixes/NC entre/SP els/DA castellans/NC ./FF
+Conseqüències/NP ./FF
+Els/DA supervivents/AQ van/VA retirar/VM -se/P0 en_direcció_a/SP Tarragona/NP ,/FF sent/VM encalçats/VM per/SP les/DA tropes/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP i/CC finalment/RG van/VA rendir/VM -se/P0 el/DA 31_de_març/WW a/SP la/DA batalla/NC de/SP la/DA Granada/NP ,/FF i/CC va/VA provocar/VM que/CS la/DA manca/NC de/SP reforços/NC fes/VM caure/VM Cotlliure/NP ,/FF Perpinyà/NP i/CC Salses/NP ./FF
+Les/DA tropes/NC catalanes/AQ i/CC franceses/AQ van/VA continuar/VM avançant/VM fins/SP conquerir/VM Montsó/NP i/CC intentar/VM -ho/PP sense/SP sort/NC amb/SP Tortosa/NP ./FF
+Anna_Bolena/NP (/FF en/SP anglès/NC :/FF Anne_Boleyn/NP )/FF va/VA nàixer/VM probablement/RG l'/DA any/NC 1507/ZZ ,/FF en/SP una/DI de/SP les/DA propietats/NC de/SP la/DA seua/PX família/NC ,/FF Blickling_Hall/NP ,/FF a/SP Norfolk/NP ,/FF o/CC en/SP el/DA castell/NC de/SP Hever/NP ,/FF a/SP Kent/NP ,/FF la/DA seua/PX residència/NC favorita/AQ ./FF
+Va/VA ser/VS la/DA segona/AO esposa/NC de/SP el/DA rei/NC Enric_VIII/NP ,/FF fins/SP que/PR va/VA ser/VS executada/VM el/DA 19_de_maig_de_1536/WW a/SP la/DA Torre_de_Londres/NP ./FF
+Vida/NP ./FF
+Segona/NP de/SP els/DA cinc/ZZ fills/NC -/FF dos/ZZ d'/SP ells/PP morts/NC en/SP la/DA infantesa/NC -/FF de/SP Tomàs_Bolena/NP ,/FF vescomte/NC de/SP Rochford/NP i/CC primer/AO comte/NC de/SP Wiltshire/NP i/CC d'/SP Ormonde/NP ,/FF i/CC d'/SP Isabel_Howard/NP ,/FF filla/NC de/SP el/DA segon/AO duc/NC de/SP Norfolk/NP ./FF
+La/DA relació/NC amb/SP son/NC pare/NC va/VA ser/VS difícil/AQ ,/FF però/CC malgrat/SP això/PD sempre/RG va/VA tenir/VM un/DI constant/AQ desig/NC de/SP complaure/VM 'l/PP ;/FF així/RG mateix/PI ,/FF tampoc/RG no/RN va/VA tenir/VM una/DI bona/AQ relació/NC amb/SP la/DA seua/PX germana/NC Maria/NP ,/FF a/SP la/DA qual/PR reprovava/VM el/DA seu/PX estil/NC de/SP vida/NC lleuger/AQ ./FF
+Però/RG ,/FF en_canvi/RG ,/FF tenia/VM molt/RG bona/AQ relació/NC amb/SP sa/DA mare/NC i/CC sobretot/RG amb/SP el/DA seu/PX germà/NC Jordi/NP ,/FF amb/SP qui/PR estava/VM molt/RG unida/VM ./FF
+Tot/PI i/CC la/DA llegenda/NC ,/FF actualment/RG es/P0 descarta/VM que/CS tinguera/VM polidactília/NC ja_que/CS ,/FF en_cas_de/SP ser/VS així/RG ,/FF no/RN haguera/VA pertangut/VM a/SP la/DA cort/NC de/SP el/DA rei/NC ,/FF perquè/CS aquesta/DD malformació/NC era/VS considerada/VM un/DI signe/NC de/SP el/DA diable/NC ./FF
+Va/VA viure/VM durant/SP la/DA primera/AO temporada/NC de/SP la/DA seua/PX vida/NC a/SP la/DA cort/NC francesa/AQ com/CS a/SP dama/NC de/SP companyia/NC ./FF
+En/SP tornar/VM a/SP Anglaterra/NP estava/VM totalment/RG enamorada/NC de/SP Henry_Percy/NP ,/FF fill/NC de/SP el/DA comte/NC de/SP Northumberland/NP ,/FF amb/SP el/DA qual/PR va/VA fer/VM una/DI promesa/NC matrimonial/AQ ,/FF però/CC el/DA cardenal/NC Wolsey/NP els/PP va/VA prohibir/VM casar/VM -se/PP ,/FF perquè/CS Anna/NP estava/VM mancada/VM de/SP la/DA noblesa/NC que/PR li/PP calia/VM ./FF
+No/RN obstant/VM això/PD ,/FF en/SP representar/VM una/DI obra/NC de/SP teatre/NC per/SP a/SP el/DA rei/NC Enric_VIII/NP ,/FF aquest/DD es/P0 va/VA quedar/VM admirat/VM de/SP la/DA bellesa/NC d'/SP Anna/NP i/CC va/VA començar/VM a/SP cortejar/VM -la/PP ./FF
+Però/RG Anna/NP tenia/VM ben/RG clar/AQ que/CS no/RN seria/VS amant/AQ de/SP el/DA rei/NC ;/FF la/DA seua/PX pròpia/AQ germana/NC Maria/NP ho/PP havia/VA sigut/VM ./FF
+Ella/PP aspirava/VM a/SP més/RG ,/FF era/VS més/RG intel·ligent/AQ ./FF
+Tenia/VM uns/DI ulls/NC bells/AQ ,/FF una/DI gràcia/NC única/AQ ;/FF la/DA seua/PX facilitat/NC per/SP a/SP tocar/VM instruments_musicals/NC ,/FF ballar/VM i/CC declamar/VM la/PP feien/VM una/DI dona/NC molt/R

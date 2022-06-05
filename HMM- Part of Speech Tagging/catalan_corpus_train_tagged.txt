@@ -20012,4 +20012,86 @@ La/DA cursa/NC per/SP etapes/NC australiana/AQ es/P0 va/VA convertir/VM en/SP la
 Modificacions/NP de/SP el/DA calendari/NC ./FF
 Situació/NC prèvia/AQ ./FF
 Els/DA organitzadors/NC de/SP les/DA tres/ZZ grans/AQ voltes/NC de/SP el/DA ciclisme/NC ,/FF RCS_Sport/NP ,/FF Amaury_Sport_Organisation/NP i/CC Unipublic/NP ,/FF ja/RG s'/P0 havien/VA queixat/VM des_de/SP el/DA principi/NC de/SP el/DA nou/AQ sistema/NC que/PR representava/VM l'/DA UCI_ProTour/NP ,/FF argumentant/VM que/PR amenaçava/VM els/DA seus/PX interessos/NC en/SP els/DA drets/NC de/SP televisió/NC i/CC altres/DI tipus/NC de/SP patrocini/NC ./FF
-La/DA situació/NC va/VA esdevenir/VM encara/RG més/RG tensa/AQ quan/CS ,/FF a/SP finals/NC de/SP el/DA 2006/ZZ ,/FF la/DA Unió_Ciclista_Intern
+La/DA situació/NC va/VA esdevenir/VM encara/RG més/RG tensa/AQ quan/CS ,/FF a/SP finals/NC de/SP el/DA 2006/ZZ ,/FF la/DA Unió_Ciclista_Internacional/NP va/VA concedir/VM llicències/NC ProTour/NP a/SP els/DA equips/NC Astana/NP i/CC Unibet/NP ./FF com/CS malgrat_que/CS els/DA organitzadors/NC havien/VA demanat/VM repetidament/RG que/CS es/P0 reduís/VM el/DA nombre/NC d'/SP equips/NC de/SP el/DA ProTour/NP per/SP poder/VM convidar/VM més/RG equips/NC wildcard/NC a/SP les/DA seves/PX curses/NC ./FF
+Després/RG de/SP moltes/DI negociacions/NC ,/FF acusacions/NC creuades/VM ,/FF intercanvis/NC d'/SP amenaces/NC i/CC fins_i_tot/RG una/DI petició/NC de/SP l'/DA UCI/NP de/SP boicotejar/VM la/DA París-Niça/NP (/FF organitzada/VM per/SP Amaury_Sport_Organisation/NP )/FF ,/FF la/DA situació/NC es/P0 va/VA resoldre/VM provisionalment/RG a/SP principis/NC de/SP març_del_2007/WW ./FF
+Els/DA organitzadors/NC van/VA acceptar/VM de/SP convidar/VM els/DA divuit/ZZ equips/NC que/PR ja/RG formaven_part/VM de/SP el/DA ProTour/NP a/SP principis/NC de/SP el/DA 2006/ZZ però/CC es/P0 van/VA negar/VM a/SP assegurar/VM un/DI lloc/NC a/SP les/DA seves/PX curses/NC a/SP Astana/NP i/CC Unibet/NP ./FF com/CS ./FF
+a/SP el/DA llarg/AQ de/SP la/DA temporada/NC ,/FF l'/DA equip/NC Astana/NP no/RN va/VA tenir/VM problemes/NC per/SP participar/VM a/SP les/DA curses/NC més/RG importants/AQ ,/FF probablement/RG gràcies_a/SP ciclistes/NC com/CS ara/RG Alexandre_Vinokúrov/NP ,/FF Andreas_Klöden/NP o/CC Paolo_Savoldelli/NP ,/FF però/CC l'/DA equip/NC Unibet/NP ./FF com/CS ,/FF que/CS no/RN comptava/VM amb/SP figures/NC per/SP atraure/VM els/DA organitzadors/NC ,/FF es/P0 va/VA perdre/VM moltes/DI curses/NC que/PR en_teoria/RG hauria/VA d'/SP haver/VA pogut/VM disputar/VM ,/FF entre/SP elles/PP les/DA tres/ZZ grans/AQ voltes/NC de/SP el/DA ciclisme/NC ./FF
+Amaury_Sport_Organisation/NP va/VA escudar/VM -se/P0 darrera/AO una/DI llei/NC francesa/AQ que/PR prohibeix/VM la/DA publicitat/NC d'/SP empreses/NC d'/SP apostes/NC però/CC semblava/VM evident/AQ que/CS en_realitat/RG ,/FF només/RG estava/VM utilitzant/VM l'/DA equip/NC suec/AQ com/CS un/DI peó/NC en/SP la/DA seva/PX partida/NC contra/SP l'/DA UCI/NP ./FF
+Després/RG de/SP diversos/DI judicis/NC i/CC recursos/NC amb/SP resultats/NC variats/VM ,/FF el/DA patrocinador/NC Unibet/NP va/VA decidir/VM abandonar/VM el/DA ciclisme/NC a/SP finals/NC de/SP la/DA temporada/NC 2007/ZZ ./FF
+Els/DA organitzadors/NC ,/FF encoratjats/VM per/SP aquest/DD èxit/NC a/SP l'/DA hora/NC d'/SP imposar/VM les/DA wildcards/NC sobre/SP els/DA equips/NC que/CS l'/DA UCI/NP els/PP exigia/VM que/CS convidessin/VM a/SP les/DA seves/PX curses/NC ,/FF van/VA fer/VM un/DI front/NC comú/AQ a/SP finals/NC de/SP el/DA 2007/ZZ i/CC van/VA anunciar/VM que/CS retiraven/VM les/DA seves/PX curses/NC de/SP la/DA competició/NC ./FF
+Globalització_de_el_ProTour/NP ./FF
+La/DA Unió_Ciclista_Internacional/NP sempre/RG havia/VA mostrat/VM el/DA seu/PX desig/NC d'/SP estendre/VM l'/DA UCI_ProTour/NP arreu/RG de/SP el/DA món/NC per/SP promoure/VM el/DA ciclisme/NC ./FF
+Així_doncs/RG ,/FF aquesta/DD ruptura/NC amb/SP els/DA organitzadors/NC ,/FF que/PR va/VA significar/VM la/DA pèrdua/NC d'/SP onze/ZZ curses/NC de/SP el/DA ProTour/NP ,/FF semblava/VM l'/DA oportunitat/NC perfecta/AQ per/SP encetar/VM l'/DA expansió/NC de/SP la/DA competició/NC a/SP altres/DI continents/NC ./FF
+El/DA Tour/NP of/NC California/NP (/FF Estats_Units/NP )/FF i/CC el/DA Tour_Down_Under/NP (/FF Austràlia/NP )/FF van/VA ser/VS els/DA noms/NC que/PR més/RG van/VA sonar/VM per/SP entrar/VM a/SP formar_part/VM de/SP el/DA ProTour/NP i/CC finalment/RG va/VA ser/VS la/DA cursa/NC australiana/AQ la/DA que/PR va/VA aconseguir/VM entrar/VM ./FF
+A/SP més/RG ,/FF el/DA calendari/NC ProTour/NP va/VA incloure/VM una/DI cursa/NC anomenada/NC La_Finale/NP per/SP acabar/VM la/DA temporada/NC ./FF
+Actualment/RG ,/FF només/RG se/P0 sap/VM que/CS es/P0 tracta/VM d'/SP una/DI cursa/NC d'/SP un/DI dia/NC però/CC no/RN se/P0 'n/PP coneixen/VM més/RG detalls/NC ./FF
+Si/CS el/DA ciclisme/NC roman/VM únicament/RG a/SP els/DA quatre/ZZ països/NC d'/SP Europa/NP occidental/AQ ,/FF que/PR és/VS el/DA que/PR les/DA Grans_Voltes/NP volen/VM que/CS fem/VM ,/FF l'/DA esport/NC mai/RG no/RN es/P0 desenvoluparà/VM ./FF
+Criteris/NP de/SP puntuació/NC ./FF
+Classificació/NC individual/AQ ./FF
+Els/DA ciclistes/NC obtenen/VM punts/NC ProTour/NP segons/SP els/DA llocs/NC que/PR obtinguin/VM a/SP les/DA etapes/NC i/CC a/SP les/DA classificacions/NC generals/AQ de/SP les/DA curses/NC per/SP etapes/NC ,/FF així/RG com/CS a/SP les/DA curses/NC d'/SP un/DI dia/NC ./FF
+Categoria/NP 1/ZZ :/FF Voltes/NC per/SP etapes/NC Tour_de_Flandes/NP ;/FF Categoria/NP 2/ZZ :/FF Altres/DI curses/NC d'/SP un/DI dia/NC ;/FF Classificacions/NP generals/AQ o/CC curses/NC d'/SP un/DI dia/NC ./FF
+Etapes/NP ./FF
+Els/DA punts/NC guanyats/VM durant/SP les/DA curses/NC per/SP etapes/NC són/VS otorgats/VM l'/DA últim/AO dia/NC de/SP la/DA cursa/NC ./FF
+Les/DA contrarellotges/NC per/SP equips/NC no/RN otorguen/VM punts/NC individuals/AQ ,/FF llevat/NC de/SP la/DA Contrarellotge/NP per/SP equips/NC d'/SP Eindhoven/NP ./FF
+En/SP aquest/DD cas/NC ,/FF tots/DI els/DA ciclistes/NC de/SP l'/DA equip/NC guanyador/AQ que/PR acabin/VM la/DA contrarellotge/NC reben/VM deu/ZZ punts/NC ;/FF els/DA de/SP el/DA segon/AO equip/NC nou/AQ ,/FF i/CC així/RG successivament/RG fins/SP a/SP els/DA ciclistes/NC de/SP el/DA desè/AO equip/NC que/PR en/SP reben/VM un/DI ./FF
+Els/DA punts/NC aconseguits/VM per/SP corredors/NC que/CS no/RN són/VS de/SP l'/DA UCI_ProTour/NP no/RN són/VS otorgats/NC ./FF
+En/SP cas/NC d'/SP empat/NC ,/FF es/P0 classifica/VM primer/RG el/DA ciclista/NC que/PR hagi/VA obtingut/VM més/RG primers/AO llocs/NC ./FF
+Si/CS l'/DA empat/NC persisteix/VM ,/FF es/P0 classifica/VM primer/RG el/DA que/PR hagi/VA obtingut/VM més/RG segons/SP llocs/NC ,/FF i/CC així/RG successivament/RG ./FF
+El/DA líder/NC de/SP la/DA classificació/NC de/SP el/DA ProTour/NP porta/VM un/DI maillot/NC blanc/AQ per/SP identificar/VM -lo/PP ./FF
+Classificació/NP per/SP equips/NC ./FF
+a/SP el/DA final/NC de/SP cada/DI cursa/NC ,/FF es/P0 reparteixen/VM els/DA punts/NC segons/SP la/DA classificació/NC per/SP equips/NC ./FF
+El/DA 1r/AO rep/VM 20/ZZ punts/NC ,/FF el/DA 2n/AO 19/ZZ ,/FF el/DA 3r/AO 18/ZZ ,/FF i/CC així/RG en/SP ordre/NC descendent/AQ fins/SP arribar/VM a/SP el/DA 17è/AO ,/FF que/PR en/SP rep/VM quatre/ZZ ./FF
+Els/DA punts/NC rebuts/NC per/SP equips/NC que/CS no/RN són/VS de/SP el/DA ProTour/NP no/RN són/VS otorgats/NC ./FF
+Classificació/NP per/SP països/NC ./FF
+La/DA classificació/NC per/SP països/NC s'/P0 obté/VM sumant/VM els/DA punts/NC de/SP els/DA cinc/ZZ millors/AQ ciclistes/AQ de/SP cada/DI país/NC a/SP la/DA classificació/NC individual/AQ de/SP el/DA ProTour/NP ./FF
+Curses/NP ./FF
+L'/DA edició/NC de/SP el/DA 2008/ZZ de/SP l'/DA UCI_ProTour/NP compta/VM amb/SP divuit/ZZ curses/NC diferents/AQ repartides/VM per/SP nou/AQ països/NC diferents/AQ ,/FF entre/SP les/DA quals/PR es/P0 poden/VM destacar/VM el/DA Tour_Down_Under/NP (/FF primera/AO aparició/NC a/SP el/DA ProTour/NP )/FF ,/FF la/DA Contrarellotge/NP per/SP equips/NC d'/SP Eindhoven/NP (/FF una/DI cursa/NC creada/VM especialment/RG per/SP el/DA ProTour/NP )/FF i/CC la/DA Volta/NP a/SP Catalunya/NP (/FF que/PR forma_part/VM de/SP la/DA competició/NC per/SP quart/AO any/NC consecutiu/AQ )/FF ./FF
+Les/DA curses/NC de/SP l'/DA UCI_ProTour/NP 2008/ZZ són/VS :/FF Resums/NP ./FF
+Tour_Down_Under/NP ./FF
+Guanyadors/NP de/SP les/DA etapes/NC :/FF ;/FF Mark_Renshaw/NP (/FF CRE/NP )/FF André_Greipel/NP (/FF THR/NP )/FF Allan_Davis/NP (/FF UNI/NP )/FF ;/FF André_Greipel/NP (/FF THR/NP )/FF André_Greipel/NP (/FF THR/NP )/FF André_Greipel/NP (/FF THR/NP )/FF ;/FF Després/NP de/SP guanyar/VM la/DA Tour_Down_Under_Classic/NP ,/FF l'/DA alemany/AQ André_Greipel/NP va/VA demostrar/VM que/CS era/VS l'/DA esprintador/NC en/SP millor/AQ forma/NC de/SP el/DA pilot/NC a/SP el/DA Tour_Down_Under/NP ./FF
+Emportant/VM -se/PP quatre/ZZ de/SP les/DA sis/ZZ etapes/NC ,/FF que/PR van/VA acabar/VM totes/DI a/SP l'/DA esprint/NC ,/FF Greipel/NP va/VA conquerir/VM un/DI maillot/NC de/SP líder/NC que/PR havia/VA pres/VM a/SP l'/DA australià/NC Mark_Renshaw/NP quan/CS aquest/DD es/P0 va/VA quedar/VM tallat/NC a/SP la/DA pujada/NC de/SP Willunga/NP ,/FF a/SP la/DA penúltima/AO etapa/NC ./FF
+Allan_Davis/NP també/RG va/VA tenir/VM una/DI actuació/NC destacada/VM ,/FF guanyant/VM una/DI etapa/NC i/CC quedant/VM segon/NC a/SP la/DA general/AQ participant/NC amb/SP l'/DA equip/NC UniSA-Australia/NP ,/FF un/DI combinat/NC de/SP ciclistes/NC australians/AQ creat/VM especialment/RG per/SP la/DA prova/NC ./FF
+Tanmateix/RG ,/FF no/RN li/PP va/VA servir/VM per/SP trobar/VM un/DI equip/NC que/PR el/PP contractés/VM ./FF
+Arrel/NP de/SP el/DA domini/NC de/SP els/DA esprintadors/NC en/SP aquesta/DD edició/NC de/SP la/DA cursa/NC ,/FF els/DA organitzadors/NC de/SP el/DA Tour_Down_Under/NP van/VA començar/VM a/SP considerar/VM endurir/VM el/DA recorregut/NC en/SP edicions/NC posteriors/AQ perquè/CS totes/DI les/DA etapes/NC no/RN acabessin/VM en/SP esprint/NC massiu/AQ ./FF
+Patrick_Jonker/NP i/CC Stuart_O'Grady/NP ,/FF antics/AQ guanyadors/NC de/SP la/DA cursa/NC ,/FF van/VA proposar/VM incloure/VM etapes/NC més/RG llargues/AQ o/CC alguna/DI etapa/NC amb/SP final/NC en/SP alt/AQ ./FF
+Tour_de_Flandes/NP ./FF
+L'/DA escapada/NC de/SP el/DA dia/NC no/RN es/P0 va/VA formar/VM fins/SP el/DA quilòmetre/NC 111/ZZ ,/FF i/CC estava/VM composta/NC per/SP Janek_Tombak/NP ,/FF Tom_Veelers/NP ,/FF Sven_Renders/NP i/CC Vincent_Jérôme/NP ./FF
+La/DA primera/AO part/NC de/SP la/DA cursa/NC es/P0 va/VA desenvolupar/VM amb/SP sol/NC ,/FF però/CC a_partir_de/SP la/DA tercera/AO hora/NC de/SP cursa/NC va/VA començar/VM a/SP ploure/VM i/CC a/SP nevar/VM lleugerament/RG ./FF
+La/DA fuga/NC no/RN va/VA comptar/VM mai/RG amb/SP més/RG de/SP 2/ZZ '/FF 20/ZZ "/FF d'/SP avantatge/NC i/CC fou/VS neutralitzada/VM per/SP el/DA pilot/NC a/SP el/DA quilòmetre/NC 185/ZZ ./FF
+Després/RG d'/SP uns/DI quans/AQ intents/NC d'/SP escapada/NC sense/SP èxit/NC ,/FF l'/DA ascens/NC a/SP el/DA Koppenberg/NP va/VA provocar/VM una/DI selecció/NC que/PR va/VA crear/VM un/DI grup/NC de/SP els/DA favorits/NC ./FF
+Poc/RG després/RG va/VA atacar/VM el/DA tricampió/NC mundial/AQ Óscar_Freire/NP ./FF
+Quan/CS l'/DA espanyol/AQ va/VA ser/VS neutralitzat/VM després/RG d'/SP uns/DI quants/DI quilòmetres/NC en/SP solitari/NC ,/FF es/P0 formà/VM un/DI nou/AQ grup/NC davanter/AQ ./FF
+Després/RG que/CS deixés/VM de/SP ploure/VM i/CC tornés/VM a/SP sortir/VM el/DA sol/NC ,/FF l'/DA ascens/NC a/SP el/DA Valkenberg/NP va/VA deixar/VM un/DI grup/NC de/SP cinc/ZZ ciclistes/NC a/SP el/DA capdavant/RG :/FF el/DA vigent/AQ campió/NC Alessandro_Ballan/NP ,/FF el/DA campió/NC belga/AQ Stijn_Devolder/NP ,/FF els/DA neerlandesos/NC Sebastian_Langeveld/NP i/CC Karsten_Kroon/NP i/CC l'/DA estatunidenc/AQ George_Hincapie/NP ./FF
+Protegint/VM els/DA interessos/NC de/SP el/DA seu/PX líder/NC ,/FF Devolder/NP no/RN va/VA donar/VM cap/DI relleu/NC a/SP el/DA grup/NC ,/FF i/CC quan/CS aquest/DD va/VA ser/VS neutralitzat/VM ,/FF Devolder/NP va/VA llançar/VM un/DI atac/NC a/SP 25_km/ZZ de/SP la/DA meta/NC ./FF
+Ràpidament/RG va/VA obrir/VM un/DI forat/NC de/SP trenta_segons/ZZ ./FF
+Els/DA primers/AO en/SP intentar/VM caçar/VM el/DA belga/NC foren/VS Thor_Hushovd/NP ,/FF Janek_Tombak/NP ,/FF Sylvain_Chavanel/NP i/CC Manuel_Quinziato/NP ,/FF però/CC van/VA ser/VS neutralitzats/VM a/SP el/DA Kapelmuur/NP ./FF
+A/SP l'/DA última/AO cota/NC de/SP la/DA cursa/NC ,/FF el/DA Bosberg/NP ,/FF Sebastian_Langeveld/NP va/VA atacar/VM de/SP nou/AQ i/CC va/VA estar/VM a/SP punt/NC d'/SP atrapar/VM Devolder/NP ,/FF però/CC el/DA belga/NC va/VA resistir/VM a/SP la/DA pujada/NC i/CC a/SP el/DA posterior/AQ descens/NC ./FF
+A/SP pocs/DI quilòmetres/NC de/SP el/DA final/NC ,/FF Langeveld/NP va/VA ser/VS atrapat/VM i/CC el/DA seu/PX company/NC d'/SP equip/NC Joan_Antoni_Flecha/NP va/VA contraatacar/VM ./FF
+Poc/RG després/RG es/P0 va/VA unir/VM a/SP ell/PP Nick_Nuyens/NP ,/FF però/CC no/RN van/VA ser/VS capaços/AQ d'/SP evitar/VM que/CS Devolder/NP s'/P0 endugués/VM la/DA victòria/NC a/SP Meerbeke/NP ./FF
+Gand-Wevelgem/NP ./FF
+Volta/NC a/SP el/DA País_Basc/NP ./FF
+Amstel_Gold_Race/NP ./FF
+Tour_de_Romandia/NP ./FF
+Volta/NP a/SP Catalunya/NP ./FF
+Critérium_de_el_Dauphiné_Libéré/NP ./FF
+Volta/NP a/SP Suïssa/NP ./FF
+Clàssica_de_Sant_Sebastià/NP ./FF
+Eneco_Tour/NP ./FF
+GP_Ouest_France-Plouay/NP ./FF
+Deutschland-Tour/NP ./FF
+Vattenfall_Cyclassics/NP ./FF
+Volta/NP a/SP Polònia/NP ./FF
+Equips/NP ./FF
+L'/DA edició/NC de/SP el/DA 2008/ZZ de/SP l'/DA UCI_ProTour/NP compta/VM amb/SP divuit/ZZ equips/NC ,/FF és/VS a/SP dir/VM ,/FF dos/VM menys/RG que/CS les/DA anteriors/AQ edicions/NC de/SP la/DA competició/NC ./FF
+L'/DA equip/NC Discovery_Channel/NP va/VA desaparèixer/VM a/SP finals/NC de/SP la/DA temporada/NC 2007/ZZ i/CC l'/DA equip/NC Unibet/NP ./FF com/CS va/VA desaparèixer/VM com/CS a/SP tal/RG i/CC es/P0 va/VA reencarnar/VM en/SP Cycle_Collstrop/NP ./FF
+Els/DA equips/NC de/SP l'/DA UCI_ProTour/NP 2008/ZZ són/VS :/FF Classificacions/NP ./FF
+Individual/NP ./FF
+Classificació/NC final/AQ ;/FF 153/ZZ ciclistes/NC han/VA puntuat/VM en/SP alguna/DI cursa/NC de/SP l'/DA UCI_ProTour/NP 2008/ZZ ;/FF Equips/NP ./FF
+Classificació/NP final/NC ;/FF Països/NP ./FF
+Classificació/NP final/NC ;/FF Ciclistes/NP de/SP 27/ZZ països/NC han/VA puntuat/VM en/SP alguna/DI cursa/NC de/SP l'/DA UCI_ProTour/NP 2008/ZZ ;/FF Vegeu/NP també/RG ./FF
+UCI_ProTour/NP ;/FF Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP l'/DA UCI_ProTour/NP ;/FF L'_UCI_ProTour/NP 2008/ZZ a/SP UCI_ProTour-Cycling/NP ;/FF
+El/DA Capricho/NP és/VS un/DI edifici/NC projectat/VM l'/DA any/NC 1883/ZZ per/SP l'/DA arquitecte/NC Antoni_Gaudí/NP i/CC construït/VM sota/SP l'/DA adreça/NC de/SP l'/DA arquitecte/NC Cascante_Colom/NP a/SP la/DA localitat/NC càntabra/AQ de/SP Comillas/NP ./FF
+El/DA seu/PX nom/NC real/AQ és/VS Villa_Quijano/NP ,/FF però/CC se/P0 li/PP va/VA aplicar/VM el/DA nom/NC de/SP Capricho/NP per/SP tractar/VM -se/P0 d'/SP un/DI encàrrec/NC de/SP Màxim_Díaz_de_Quijano/NP ,/FF cunyat/NC de/SP el/DA Marquès_de_Comillas/NP ,/FF que/PR desitjava/VM una/DI residència/NC d'/SP estiu/NC de/SP tipus/NC oriental/AQ ./FF
+Destaquen/VM a/SP la/DA seva/PX estructura/NC les/DA columnes/NC de/SP el/DA pòrtic/NC i/CC la/DA

@@ -20556,4 +20556,100 @@ El/DA 1836/ZZ -/FF a/SP instància/NC de/SP l'/DA Ajuntament_de_Sóller/NP -/FF 
 A/SP l'/DA any/NC següent/AQ ,/FF el/DA 9_de_maig_de_1837/WW -/FF data/NC de/SP la/DA definitiva/AQ separació/NC de/SP Fornalutx/NP de/SP el/DA municipi/NC de/SP Sóller/NP -/FF fins/SP la/DA seva/PX mort/NC el/DA 29_d'_agost_de_1860/WW ,/FF ocuparà/VM unes/DI quantes/DI vegades/NC la/DA batlia/NC constitucional/AQ de/SP el/DA seu/PX poble/NC ,/FF així/RG com/CS també/RG el/DA càrrec/NC de/SP jutge/NC municipal/AQ ./FF
 A/SP principis/NC de/SP el/DA seu/PX primer/AO mandat/NC ,/FF el/DA 15_de_maig_de_1837/WW ,/FF es/P0 constituí/VM una/DI junta/NC local/AQ de/SP beneficència/NC per/SP a/SP ajudar/VM els/DA necessitats/NC ./FF
 El/DA Setge_de_Cotlliure/NP de/SP 1642/ZZ fou/VS un/PI de/SP els/DA episodis/NC de/SP la/DA Guerra_de_els_Segadors_Antecedents/NP ./FF
-Poc/RG després/RG de/SP la/DA revolta/NC que/PR va/VA suposar/VM el/DA Corpus_de_Sang/NP ,/FF l'/DA exèrcit/NC de/SP Felip_IV_d'_Espanya/NP va/VA ocupar/VM Tortosa/NP i/CC Tarragona/NP ,/FF il/AQ 17_de_gener_de_1641/WW ,/FF davant/SP l/NC alarmant/AQ penetració/NC de/SP l'/DA exèrcit/NC castellà/AQ ,/FF Pau_Claris/NP a/SP el/DA capdavant/RG de/SP la/DA Generalitat_de_Catalunya/NP ,/FF proclamà/VM 
+Poc/RG després/RG de/SP la/DA revolta/NC que/PR va/VA suposar/VM el/DA Corpus_de_Sang/NP ,/FF l'/DA exèrcit/NC de/SP Felip_IV_d'_Espanya/NP va/VA ocupar/VM Tortosa/NP i/CC Tarragona/NP ,/FF il/AQ 17_de_gener_de_1641/WW ,/FF davant/SP l/NC alarmant/AQ penetració/NC de/SP l'/DA exèrcit/NC castellà/AQ ,/FF Pau_Claris/NP a/SP el/DA capdavant/RG de/SP la/DA Generalitat_de_Catalunya/NP ,/FF proclamà/VM la/DA República_Catalana/NP acordant/AQ una/DI aliança/NC política/AQ i/CC militar/AQ amb/SP França/NP ,/FF posant/VM Catalunya/NP sota/SP l'/DA obediència/NC de/SP Lluís_XIII_de_França/NP ./FF
+Pocs/DI dies/NC després/RG ,/FF amb/SP l'/DA ajuda/NC de/SP l'/DA exèrcit/NC francès/AQ ,/FF la/DA Generalitat/NP obtingué/VM una/DI important/AQ victòria/NC militar/AQ en/SP la/DA batalla/NC de/SP Montjuïc/NP de/SP el/DA 26_de_gener_de_1641/WW ,/FF i/CC les/DA tropes/NC castellanes/AQ es/P0 retiraven/VM a/SP Tarragona/NP ./FF
+El/DA 4_de_maig_de_1641/WW l'/DA estol/NC francès/AQ d'/SP Henri_d'_Escoubleau_de_Sourdis/NP es/P0 presentà/VM davant/RG de/SP Tarragona/NP i/CC inicià/VM el/DA bloqueig/NC de/SP la/DA ciutat/NC amb/SP les/DA tropes/NC de/SP terra/NC de/SP Philippe_de_La_Mothe-Houdancourt/NP ./FF
+Durant/SP els/DA mesos/NC de/SP maig/WW i/CC juny/WW es/P0 lluità/VM a/SP els/DA voltants/NC de/SP Tarragona/NP ;/FF el/DA fort/NC de/SP Salou/NP caigué/VM en/SP poder/VM de/SP els/DA francesos/NC el/DA 9_de_maig/WW i/CC batalla/NC de/SP Constantí/NP el/DA 13_de_maig/WW ./FF
+Després/RG de/SP ser/VS derrotats/VM de/SP el/DA 30_de_juny_al_4/WW de/SP juliol_de_1641/WW en/SP la/DA primera/AO batalla/NC naval/AQ de/SP Tarragona/NP ,/FF els/DA espanyols/NC van/VA bastir/VM un/DI nou/AQ estol/NC comandat/VM per/SP García_Álvarez_de_Toledo/NP y/NC Mendoza/NP que/PR va/VA aconseguir/VM lliurar/VM provisions/NC a/SP la/DA ciutat/NC i/CC fer/VM fugir/VM l'/DA estol/NC francès/AQ a/SP el/DA Rosselló/NP Una/DI columna/NC castellana/AQ de/SP 4.500/ZZ homes/NC va/VA sortir/VM de/SP Tarragona/NP el/DA 23_de_març_de_1642/WW per/SP socòrrer/NC Perpinyà/NP ,/FF que/PR havia/VA quedat/VM aïllada/VM a/SP el/DA nord/NC ./FF
+La/DA batalla/NC ./FF
+L'/DA any/NC 1642/ZZ ,/FF les/DA tropes/NC de/SP Lluís_XIII_de_França/NP ,/FF dirigides/VM per/SP Charles_de_La_Porte/NP assetgen/VM Cotlliure/NP i/CC el/DA Castell_Reial_de_Cotlliure/NP ./FF 10.000/ZZ homes/NC entre/SP els/DA quals/PR Turenne/NP ,/FF d'/SP Artagnan/NP i/CC els/DA mosqueters/NC de/SP el/DA rei/NC envesteixen/VM els/DA puigs/NC que/PR dominen/VM la/DA ciutat/NC mentre/CS la/DA flota/NC francesa/AQ bloqueja/VM el/DA port/NC ./FF
+Privats/NP d'/SP aigua/NC per/SP la/DA destrucció/NC de/SP el/DA pou/NC ,/FF amb/SP 3.000/ZZ baixes/NC entre/SP morts/NC i/CC ferits/NC i/CC sense/SP possibilitat/NC de/SP rebre/VM reforços/NC ,/FF i/CC doncs/RG les/DA tropes/NC de/SP Pedro_Antonio_Fernández_de_Córdoba/NP que/PR anaven/VM en/SP el/DA seu/PX socors/NC havien/VA estat/VS derrotades/VM a/SP la/DA batalla/NC de/SP Montmeló/NP ,/FF els/DA espanyols/NC s'/P0 han/VA de/SP rendir/VM el/DA 10_d'_abril/WW ./FF
+Conseqüències/NP ./FF
+La/DA pressió/NC sobre/SP Perpinyà/NP ,/FF i/CC Salses/NP ,/FF que/PR queden/VM completament/RG aïllades/VM ,/FF fa/VM que/CS es/P0 rendeixin/VM a/SP continuació/NC ./FF
+referències/NC ./FF
+L'/DA eritropesi/NC és/VS el/DA conjunt/NC de/SP processos/NC de/SP formació/NC ,/FF maduració/NC i/CC alliberament/NC a/SP el/DA torrent/NC sanguini/AQ de/SP els/DA eritròcits/NC ,/FF en/SP els/DA òrgans/NC hematopoètics/AQ ./FF
+Té_lloc/VM a/SP el/DA moll/NC de/SP l'/DA os/NC en/SP un/DI adult/NC ./FF
+En/SP el/DA fetus/NC és/VS una/DI mielopoesi/NC operativa/AQ ./FF
+La/DA diferenciació/NC cel·lular/AQ triga/NC en/SP aquest/DD cas/NC entre/SP 2-3/ZZ dies/NC en/SP produir/VM -se/PP ./FF
+Un/DI eritròcit/NC madur/AQ recorre/VM durant/SP la/DA seva/PX vida/NC fins/SP a/SP 600_km/ZZ i/CC passen/VM 120/ZZ dies/NC abans/RG d'/SP eliminar/VM -se/PP ./FF
+Proeritroblast/NP ./FF
+(/FF 14-19um/ZZ )/FF Nucli/NP ./FF o/CC gran/AQ ,/FF rodó/AQ amb/SP la/DA cromatina/NC laxa/AQ i/CC robusta/AQ ./FF
+Té/VM de/SP dos/ZZ a/SP tres/ZZ nuclèols/NC rodejats/VM de/SP cromatina/NC intensa/AQ ;/FF Citoplasma/NP :/FF escàs/AQ i/CC basòfil/AQ ./FF
+Produeix/VM ARNm/NP i/CC ARNr/NP ,/FF té/VM el/DA citoplasma/NC carregat/VM per/SP produir/VM hemoglobina/NC ./FF
+Eritroblast/NP basòfil/AQ ./FF
+(/FF 12-17_m/ZZ )/FF Nucli/NP :/FF gran/AQ ,/FF rodó/AQ ,/FF de/SP color/NC porpra/NC i/CC cèntrat/VM ./FF
+Cromatina/NP més/RG definida/VM ,/FF quasi/RG no/RN es/P0 veuen/VM nuclèols/NC (/FF que/PR eren/VS els/DA aparells/NC per/SP produir/VM ARN/NP )/FF ;/FF Citoplasma/NP intensament/RG basòfil/AQ i/CC no/RN té/VM granulacions/NC ./FF
+Comença/VM a/SP carregar/VM -se/P0 d'/SP orgànuls/NC i/CC grànuls/NC ./FF
+És/VS de/SP color/NC blau/AQ perque/RG el/PP tenyim/VM amb/SP H/NP //FF E/NP que/PR és/VS un/DI colorant/NC bàsic/AQ ./FF
+Policromatòfils/NP ./FF
+(/FF 12-15/ZZ um/NC )/FF Nucli/NP :/FF cèntric/AQ i/CC rodò/RG ,/FF de/SP cromatina/NC visible/AQ i/CC compacta/AQ ,/FF cada/DI vegada/NC s/NC utilitza/VM menys/RG la/DA comatina/NC ./FF
+Els/DA nucleols/NC desapareixen/VM ./FF ;/FF Citoplasma/NP :/FF lleugerament/RG gris/NC blavós/AQ ,/FF per/SP la/DA gran/AQ producció/NC d/AQ hemoglobina/NC ./FF
+Aquests/DD es/P0 tornaran/VM a/SP dividir/VM de/SP 4/ZZ a/SP 8/ZZ eritroblasts/NC policromatòfils/NC ./FF
+Ortocromàtics/NP o/CC normocromàtics/AQ ./FF
+(/FF 12-15um/ZZ )/FF Nucli/NP :/FF nucli/NC molt/RG petit/AQ ,/FF marginat/NC a_un_costat_de/SP el/DA citoplasma/NC Polisomers/NP desapareixen/VM Nucli/NP desvitalitzat/VM ./FF
+Incapaç/NP de/SP fer/VM ADN/NP i/CC molt/RG fosc/AQ ./FF
+Citoplasma/NP :/FF abundant/AQ amb/SP molta/DI hemoglobina/NC i/CC acidòfil/AQ ./FF ;/FF Eritròcit/NP ./FF
+Una/DI cèl·lula/NC mare/NC hematopoètica/AQ pot/VM arribar/VM a/SP produir/VM 16/ZZ eritròcits/NC ./FF
+La/DA seva/PX producció/NC la/DA fa/VM a/SP l/NC espai/NC interticular/AQ ./FF
+Com/CS que/CS la/DA presió/NC alta/AQ a/SP l/NC espai/NC inrereticular/AQ per/SP la/DA producció/NC de/SP cèl·lules_sanguínies/NC les/DA obliga/VM a/SP anar/VM a/SP un/DI lloc/NC amb/SP menys/RG pressió/NC que/CS en/SP aquest/DD cas/NC serà/VS l/NC interior/AQ de/SP el/DA vas/NC ,/FF els/DA eritròcits/NC han/VA de/SP passar/VM per/SP l/NC interstici/NC de/SP les/DA cèl·lules/NC endotelials/AQ i/CC en/SP aquest/DD moment/NC el/DA nucli/NC que/CS és/VS dur/AQ i/CC poc/RG mal·leable/AQ no/RN pot/VM passar/VM per/SP l/NC estret/NC forat/NC intesticial/AQ i/CC queda/VM sol/AQ a/SP el/DA interstici/NC reticular/AQ ./FF
+En/SP resultat/NC ,/FF l/NC eritròcit/NC es/P0 troba/VM dins/RG de/SP el/DA sinusoide/NC ,/FF sense/SP nucli/NC ,/FF la/DA membrana/NC es/P0 regenera/VM ,/FF i/CC el/DA nucli/NC està/VM a/SP el/DA espai/NC reticular/AQ ,/FF que/PR serà/VS eliminat/VM per/SP els/DA macròfags/NC ./FF
+Quan/CS som/VS fetus/NC ,/FF no/RN tenim/VM ossos/NC de/SP el/DA tot/DI format/NC ,/FF tenim/VM esbosos/AQ ,/FF i/CC la/DA pregunta/NC és/VS :/FF a_on/RG es/P0 formaran/VM les/DA cèl·lules_sanguínies/NC ?/FF
+Sabem/VM que/CS el/DA teixit/NC connectiu/AQ es/P0 forma/NC de/SP el/DA sac/NC vitelí/AQ i/CC el/DA sac/NC amniòtic/AQ ./FF
+Aquests/DD elements/NC estan/VM connectats/VM amb/SP l/NC embrió/NC ./FF
+És/VS el/DA mesènquima/NC extraembrionàri/AQ ./FF
+Es/P0 forma/NC a/SP el/DA mesènquima/NC embrionari/AQ ./FF
+Aquestes/DD cèl·lules/NC son/VM ,/FF a/SP el/DA principi/NC ,/FF estrellades/AQ i/CC estan/VM unides/VM per/SP prolongacions/NC llargues/AQ i/CC fines/AQ ./FF
+a/SP el/DA voltant/NC hi/PP tenen/VM material/NC tou/AQ ,/FF semblant/VM a/SP la/DA gelea/NC ./FF
+-/FF Les/DA cèl·lules/NC endontelials/AQ de/SP els/DA vasos_sanguinis/NC ,/FF que/PR primer/RG seran/VS tubs/NC d/AQ una_sola/ZZ capa/NC de/SP cèl·lules/NC ,/FF i/CC les/DA cèl·lules_sanguínies/NC ,/FF es/P0 formen/VM simultàniament/RG en/SP els/DA illots/NC hemàtics/AQ de/SP el/DA sac/NC amniòtic/AQ ./FF
+-/FF L/NC endoteli/NC embrionari/AQ a/SP vegades/NC també/RG pot/VM produir/VM cèl·lules_sanguínies/NC -/FF Els/DA vasos/NC sempre/RG van/VA acompanyats/VM de/SP cèl·lules/NC de/SP el/DA teixit/NC connectiu/AQ ,/FF i/CC aquestes/PD tenen/VM algunes/DI propietats/NC de/SP les/DA cèl·lules/NC mesenquimatoses/AQ -/FF Aquests/DD vasos/NC faran/VM anastomosis/NC amb/SP els/DA vasos/NC de/SP el/DA embrió/NC ./FF
+FASE_MESOBLÀSTICA_DE_LA_HEMOPOIESI_EMBRIONÀRIA/NP ./FF
+El/DA desenvolupament/NC comença/VM quan/CS l/NC embrió/NC no/RN té/VM més/RG de/SP pocs/DI milímetres/NC de/SP longirud/NC ,/FF en/SP el/DA pedicle/NC de/SP fixació/NC i/CC a/SP parts/NC de/SP el/DA sac/NC amniòtic/AQ ./FF
+1/ZZ ./FF
+Masses/NP de/SP cèl·lules/NC mesenquimatoses/AQ s/NC arrodoneixen/VM i/CC s/NC agrupen/VM per/SP formar/VM els/DA illots/NC hemàtics/AQ ./FF (/FF En/SP aquesta/DD fase/NC quasi/RG totes/DI les/DA cèl·lules/NC formades/VM son/VM eritròcits/NC nucleats/AQ ./FF )/FF 2/ZZ ./FF
+Les/DA cèl·lules/NC de/SP els/DA illots/NC es/P0 diferencien/VM en/SP eritròcits/NC madurs/AQ ,/FF que/PR comencen/VM a/SP sintetitzar/VM Hb/NP (/FF hemoglobina/NC )/FF ,/FF i/CC originen/VM eritròcits/NC característics/AQ de/SP els/DA embrions/NC ./FF
+Seran/VS eritròcits/NC policormatòfors/NC ./FF
+3/ZZ ./FF
+Quan/CS els/DA illots/NC s/NC han/VA establert/VM a/SP el/DA sac/NC amniòtic/AQ ,/FF comencen/VM a/SP apareixer/VM cèl·lules/NC basofiles/NC a/SP el/DA voltant/NC de/SP el/DA esbós/NC de/SP el/DA fetge/NC perquè/CS aquestes/DD han/VA entrat/VM dins/RG de/SP el/DA embrió/NC ,/FF així/RG comença/VM l/NC altre/DI fase/NC ./FF
+FASE_HEPATOESPLÈNICA_DE_LA_HEMOPOYESIS_EMBRIONÀRIA/NP :/FF ./FF
+1/ZZ ./FF
+Aquestes/DD cèl·lules/NC que/PR han/VA aparegut/VM a/SP el/DA voltant/NC de/SP el/DA fetge/NC són/VS idèntiques/AQ a/SP els/DA eritròcits/NC de/SP els/DA adults/NC ,/FF tindrem/VM ertiroblasts/NC definitius/AQ per/SP diferenciar/VM -los/PP de/SP els/DA primitius/NC de/SP el/DA principi/NC de/SP el/DA sac/NC amniòtic/AQ ./FF
+2/ZZ ./FF
+Els/DA definitius/AQ originen/VM eritròcits/NC anucleats/NC ./FF
+3/ZZ ./FF
+A/SP les/DA sinuostitats/NC de/SP el/DA fetge/NC comencen/VM a/SP aparèixer/VM també/RG leucòcits/NC granulars/AQ i/CC megacariòcits/AQ (/FF a/SP el/DA 2n_mes/ZZ )/FF ,/FF 4/ZZ ./FF més/RG tard/RG també/RG apareixeran/VM a/SP la/DA melsa/NC que/PR es/P0 convertirà/VM en/SP un/DI òrgan/NC hematopoyetic/AQ ./FF
+Aquestes/DD cèl·lules/NC sanguinies/AQ han/VA anat/VM a/SP parar/VM a/SP fetge/NC i/CC melsa/NC a/SP causa/NC d/AQ un/DI procés/NC de/SP recon/NC ;/FF eixement/NC a/SP el/DA llarg/AQ d/NC un/DI recorregut/NC per/SP el/DA cos/NC ./FF
+Com/CS que/CS a/SP el/DA fetge/NC i/CC melsa/NC hi/PP ha/VA unes/DI condicions/NC oportunes/AQ allà/RG es/P0 queden/VM i/CC proliferen/VM ./FF
+FASE_MIELOIDE_DE_LA_HEMOPOYESI/NP :/FF ./FF
+Comença/VM amb/SP l/NC aparició/NC de/SP centres/NC d/AQ ossificació/NC de/SP els/DA esbossos/NC de/SP els/DA ossos/NC ,/FF a/SP el/DA (/FF 4t/ZZ o/CC 5é_mes/ZZ )/FF ./FF
+1/ZZ ./FF
+Els/DA macròfags/NC lliures/AQ degraden/VM les/DA parets/NC de/SP els/DA cartílags/NC i/CC entren/VM dins/RG degradant/VM els/DA condròcits/NC ./FF
+2/ZZ ./FF
+a/SP el/DA fer/VM l/NC espai/NC i/CC moure/VM s/NC arroseguen/VM amb/SP ells/PP cèl·lules/NC mesenquimatoses/AQ ja/RG es/P0 es/PP mouen/VM a_partir_de/SP fer/VM més/RG vasos/NC ,/FF i/CC elles/PP allà/RG dins/RG proliferaran/VM ./FF
+3/ZZ ./FF
+Algunes/DI cèl·lules/NC es/P0 diferenciaran/VM en/SP cèl·lules/NC formadores/AQ de/SP os/NC 4/ZZ ./FF
+Altres/PI es/P0 diferenciaran/VM en/SP cèl·lules/NC reticulars/AQ primitives/AQ que/PR originaran/VM l/NC estroma/NC de/SP la/DA medul·la/NC òssia/AQ ./FF
+a/SP ./FF les/DA cèl·lules/NC reticulars/AQ també/RG es/P0 poden/VM diferenciar/VM en/SP adipocits/NC o/CC altres/DI cèl·lules/NC hístiques/AQ ./FF
+5/ZZ ./FF
+a/SP el/DA estabilitzar/VM -se/P0 la/DA medul·la/NC òssia/AQ ,/FF declina/VM la/DA hemopoyesis/NC en/SP fetge/NC i/CC melsa/NC i/CC comença/VM a/SP traslladar/VM -se/P0 a/SP el/DA os/NC ./FF
+Com/CS hem/VA vist/VM aquesta/DD és/VS una/DI HEMOPOYESI_EXTRAMEDULAR/NP fisiològica/AQ i/CC temporal/AQ ./FF
+Les/DA 1rs/ZZ setmanes/NC de/SP vida/NC hi/PP haurà/VA moltes/DI medul·les/NC òssies/AQ que/PR es/P0 desactivaran/VM i/CC la/DA hemopoyesi/NC es/P0 concentrarà/VM en/SP alguns/DI ossos/NC (/FF això/PD passa/VM perquè/CS les/DA cèl·lules/NC sanguinies/AQ de/SP l/NC esquelet/NC distal/AQ es/P0 troben/VM a/SP baixa/AQ temperatura/NC i/CC no/RN poden/VM proliferar/VM bé/RG ,/FF per/SP això/PD vana/VM buscar/VM un/DI ambient/NC més/RG càlid/AQ i/CC arriben/VM a/SP l/NC esquelet/NC axial/AQ ,/FF a/SP els/DA ossos/NC de/SP les/DA mans/NC no/RN tenim/VM produccio/NC de/SP sang/NC )/FF :/FF -/FF Com/CS son/VM els/DA llargs/NC i/CC els/DA caps/NC de/SP els/DA llarg/AQ ,/FF fèmur/NC ,/FF húmer/NC -/FF Sobretot/RG a/SP els/DA ossos/NC de/SP l/NC esquelet/NC axial/AQ (/FF columna_vertebral/NC ,/FF costelles/NC ,/FF esternon/NC ,/FF cap/NC de/SP l/NC húmer/NC i/CC fèmur/NC ,/FF i/CC crestes/NC ilíaques/AQ )/FF ./FF
+Els/DA ossos/NC que/PR deixin/VM de/SP ser/VS operatius/AQ per/SP la/DA sang/NC ,/FF s/NC ompliran/VM de/SP vasos/NC i/CC el/DA seu/PX teixit/NC conectiu/AQ serà/VS abundant/AQ en/SP teixit/NC adipòs/NC ,/FF per/SP disposar/VM d/RG energia/NC de/SP reserva/NC ./FF
+En/SP total/NC l/NC òrgan/NC hematopoetic/AQ pesa/VM com/CS un/DI fetge/NC ,/FF 2,5kg/ZZ (/FF 6%-7_%/ZZ )/FF de/SP el/DA pes/NC de/SP el/DA cos/NC
+La/DA trenta_vuitena/ZZ edició/NC de/SP la/DA Lliga/NP espanyola/AQ d'/SP hoquei/NC patins/NC masculina/AQ ,/FF denominada/VM en/SP el/DA seu/PX moment/NC OK_Lliga/NP ,/FF s'/P0 inicià/VM el/DA 9_de_setembre_de_2006/WW i/CC finalitzà/VM el/DA 13_de_maig_de_2007/WW ./FF
+Participants/NP ./FF
+FC_BARCELONA_Sorli_Discau/NP ;/FF Alnimar_REUS_DEPORTIU/NP ;/FF Grup_LLORET/NP ;/FF Enrile_PAS_ALCOI/NP ;/FF Astral_Pool_MAÇANET/NP ;/FF Grup_Clima_MATARÓ/NP ;/FF Cysugal_VIGO_STICK/NP ;/FF Cemex_TENERIFE/NP ;/FF Leche_Celta_VOLTREGÀ/NP ;/FF VILANOVA_L'_Ull_Blau/NP ;/FF Roncato_Patí_VIC/NP ;/FF LICEO_Vodafone/NP ;/FF NOIA_Freixenet/NP ;/FF Proinosa_IGUALADA/NP ;/FF Viva_Hàbitat_BLANES/NP ;/FF Grup_Castillo_LLEIDA/NP ;/FF Llegenda/NP ./FF
+Fase_Regular/NP ./FF
+Classificació/NP ./FF
+Resultats/NP ./FF
+Play-off/NP ./FF
+Quart/NC de/SP final/NC 1/ZZ ./FF
+Quart/NC de/SP final/NC 2/ZZ ./FF
+Quart/NC de/SP final/NC 3/ZZ ./FF
+Quart/NC de/SP final/NC 4/ZZ ./FF
+Semifinal/NP 1/ZZ ./FF
+Semifinal/NP 2/ZZ ./FF
+Final/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NP oficial/AQ de/SP la/DA Reial_Federació_Espanyola_de_Patinatge/NP ;/FF
+La/DA Pleioblastus/NP simoni/NC és/VS una/DI espècie/NC de/SP bambú/NC ,/FF de/SP el/DA gènere/NC Pleioblastus/NP de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC poals/NC ,/FF subclasse/NC Commelinidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Antigament/RG s'/P0 havien/VA classificat/VM en/SP el/DA gènere/NC Arundinaria/NP ,/FF per/SP el/DA que/PR encara/RG h

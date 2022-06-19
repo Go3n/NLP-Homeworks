@@ -20397,4 +20397,98 @@ La/DA reflexió/NC radar/NC de/SP el/DA gel/NC a/SP Mercuri/NP és/VS menor/AQ q
 Origen/NP de/SP el/DA gel/NC ./FF
 L'/DA existència/NC de/SP cràters/NC amb/SP ombra/NC permanent/AQ no/RN és/VS una/DI característica/NC única/AQ de/SP Mercuri/NP :/FF a/SP la/DA mateixa/DI Lluna/NP s'/P0 han/VA identificat/VM ,/FF a/SP el/DA seu/PX pol/NC nord/AQ ,/FF un/DI enorme/AQ cràter/NC -/FF conca/NC d'/SP Aitken/NP -/FF amb/SP la/DA possibilitat/NC que/PR existeixi/VM gel/NC ./FF
 Aquest/DD gel/NC a/SP la/DA Lluna/NP ,/FF com/CS a/SP Mercuri/NP ,/FF és/VS atribuït/VM a/SP fonts/NC externes/AQ ./FF
-En/SP el/DA cas/NC de/SP la/DA Lluna/NP es/P0 creu/VM que/CS va/VA ser/VS dipositat/VM per/SP cometes/NC ,/FF mentre_que/CC
+En/SP el/DA cas/NC de/SP la/DA Lluna/NP es/P0 creu/VM que/CS va/VA ser/VS dipositat/VM per/SP cometes/NC ,/FF mentre_que/CC a/SP Mercuri/NP s'/P0 atribueix/VM a/SP meteorits/NC ./FF
+Com/CS es/P0 considera/VM provada/VM l'/DA existència/NC d'/SP aigua/NC en/SP alguns/DI meteorits/NC ,/FF aquests/PD el/PP podrien/VM haver/VA dipositat/VM en/SP cràters/NC amb/SP ombra/NC permanent/AQ i/CC així/RG provocar/VM la/DA seua/PX conservació/NC per/SP milions/NC i/CC ,/FF fins_i_tot/RG ,/FF milers/NC de/SP milions/NC d'/SP anys/NC ./FF
+Una/DI altra/DI hipòtesi/NC ,/FF sense/SP ésser/VS confirmada/VM ,/FF és/VS que/CS a/SP Mercuri/NP es/P0 produiria/VM un/DI fluix/NC important/AQ d'/SP aigua/NC des_de/SP el/DA seu/PX interior/NC ./FF
+Tampoc/RG no/RN s'/P0 ha/VA comprovat/VM l'/DA existència/NC d'/SP algun/DI mecanisme/NC que/PR causi/VM la/DA pèrdua/NC de/SP gel/NC a/SP la/DA superfície/NC com/CS la/DA fotodissoació/NC ,/FF l'/DA erosió/NC deguda/VM a/SP el/DA vent/NC solar/AQ i/CC el/DA xoc/NC amb/SP micrometeorits/NC ./FF
+El/DA comportament/NC de/SP el/DA gel/NC en/SP altres/DI cossos/NC celestes/AQ té/VM les/DA seues/PX peculiaritats/NC ./FF
+En/SP primer/AO lloc/NC ,/FF les/DA elevades/VM temperatures/NC de/SP la/DA superfície/NC de/SP Mercuri/NP (/FF que/PR ronden/VM els/DA 420ºC/ZZ )/FF sumades/VM a/SP el/DA buit/NC de/SP l'/DA espai/NC exterior/AQ (/FF l'/DA atmosfera/NC de/SP Mercuri/NP és/VS gairebé/RG imperceptible/AQ )/FF i/CC els/DA raigs/NC solars/AQ contribuirien/VM a/SP què/PT el/DA gel/NC se/P0 sublimés/VM i/CC escapés/VM a/SP l'/DA espai/NC ./FF
+De_tota_manera/RG ,/FF això/PD no/RN es/P0 creu/VM que/CS succeeix/VM amb/SP el/DA gel/NC a/SP Mercuri/NP perquè/CS la/DA ubicació/NC de/SP el/DA gel/NC a/SP altes/AQ latituds/NC fa/VM que/CS la/DA temperatura/NC sigui/VS baixa/AQ :/FF dins/RG de/SP els/DA cràters/NC ,/FF on/PR no/RN arriba/VM la/DA llum/NC solar/AQ ,/FF les/DA temperatures/NC cauen/VM fins/SP a/SP els/DA -171ºC/ZZ i/CC a/SP les/DA planes/NC polars/AQ la/DA temperatura/NC no/RN ultrapassa/VM els/DA 106ºC/ZZ ./FF
+L'/DA existència/NC de/SP gel/NC a/SP Mercuri/NP no/RN ha/VA estat/VS corroborada/VM i/CC simplement/RG es/P0 tracta/VM d'/SP especulació/NC científica/AQ provocada/VM per/SP les/DA observacions/NC d'/SP alta/AQ reflectivitat/NC de/SP radar/NC i/CC la/DA coincidència/NC amb/SP la/DA ubicació/NC de/SP grans/AQ cràters/NC a/SP les/DA zones/NC polars/AQ ./FF
+Cal/VM dir/VM ,/FF però/CC ,/FF que/CS aquesta/DD reflexió/NC anòmala/AQ podria/VM deure/VM 's/P0 també/RG a/SP l'/DA existència/NC de/SP sulfats/NC metàl·lics/AQ o/CC d'/SP altres/DI materials/NC amb/SP la/DA mateixa/DI capacitat/NC de/SP reflexió/NC ./FF
+L'/DA atmosfera/NC de/SP Mercuri/NP ./FF
+L'/DA existència/NC d'/SP una/DI atmosfera/NC en/SP un/DI planeta/NC té/VM una/DI gran/AQ importància/NC per/SP a/SP la/DA geologia/NC ja_que/CS els/DA processos/NC erosius/AQ de/SP el/DA vent/NC ,/FF els/DA canvis/NC de/SP temperatura/NC ,/FF humitat/NC ,/FF etc./FF contribueixen/VM a/SP la/DA modificació/NC de/SP el/DA terreny/NC i/CC a/SP el/DA deteriorament/NC de/SP els/DA materials/NC ./FF
+L'/DA atmosfera/NC de/SP Mercuri/NP es/P0 va/VA dissipar/VM breument/RG després/RG de/SP la/DA seua/PX formació/NC fa/VM més/RG de/SP 4_mil_milions/ZZ d'/SP anys/NC ./FF
+A/SP més/RG de/SP la/DA seua/PX baixa/AQ gravetat/NC ,/FF la/DA causa/NC principal/AQ de/SP la/DA seua/PX desaparició/NC va/VA ésser/VS el/DA vent/NC solar/AQ ./FF
+Tanmateix/RG ,/FF encara/RG té/VM els/DA romanents/NC d'/SP una/DI molt/RG tènue/AQ atmosfera/NC de/SP 10-15/ZZ bar/NC (/FF gairebé/RG inexistent/AQ )/FF ./FF
+L'/DA existència/NC d'/SP una/DI atmosfera/NC permetria/VM mantindre/VM una/DI temperatura/NC més_o_menys/RG estable/AQ malgrat/SP les/DA variacions/NC de/SP lluminositat/NC entre/SP el/DA dia/NC i/CC la/DA nit/NC (/FF les/DA fluctuacions/NC a/SP els/DA cossos/NC sense/SP atmosferes/NC o/CC amb/SP atmosferes/NC molt/RG febles/AQ són/VS intenses/AQ )/FF ./FF
+Per_exemple/RG ,/FF a/SP Mercuri/NP la/DA temperatura/NC superficial/AQ durant/SP el/DA dia/NC és/VS de/SP 420ºC/ZZ mentre_que/CC durant/SP la/DA nit/NC cau/NC fins/SP a/SP els/DA -180ºC/ZZ ./FF
+A_causa_de/SP els/DA bruscos/AQ canvis/NC de/SP temperatura/NC ,/FF el/DA tipus/NC d'/SP interacció/NC sobre/SP la/DA superfície/NC estaria/VM relacionada/VM amb/SP l'/DA agitació/NC tèrmica/AQ produïda/VM sobre/SP els/DA materials/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Sonda_Mariner/NP 10/ZZ ;/FF Àmplia/NP informació/NC sobre/SP el/DA planeta/NC Mercuri/NP ./FF i/CC ;/FF Sonda_MESSENGER/NP ;/FF Web/NP sobre/SP el/DA planeta/NC Mercuri/NP ./FF ;/FF Referències/NP ./FF
+Earth_Sciences/NP ,/FF an/VM Introduction/NP to/NC Physical_Geology/NP ,/FF d'/SP Edward_J._Tarbuck/NP i/CC Frederick_K._Lutgens/NP ./FF
+Prentice_Hall/NP (/FF 1999/ZZ )/FF ./FF
+"/FF Ice/NP on/CS Mercury/NP "/FF ./FF
+El/DA Universo/NP ,/FF Enciclopedia_de_la_Astronomía/NP y/NC el/DA Espacio/NP (/FF "/FF The_Universe/NP ,/FF Encyclopedia/NP of/NC Astronomy/NP and/AQ the/AQ Space/NP "/FF )/FF ,/FF Editorial_Planeta_DeAgostini/NP ,/FF pp./NC 141-145/ZZ ./FF
+Volum/NP 5/ZZ ./FF (/FF 1997/ZZ )/FF ;/FF
+La/DA trombopoesi/NC és/VS la/DA formació/NC de/SP plaquetes/NC sanguínies/AQ i/CC d'/SP elements/NC necessaris/AQ per/SP a/SP la/DA producció/NC de/SP trombes/NC ./FF
+Línia/NP de/SP creixement/NC ./FF
+1/ZZ CFU-ML/NP ;/FF 1/ZZ CFU-GEMMk/NP ;/FF n/NC BFU-Mk_Últim/NP moment/NC de/SP proliferació/NC ;/FF 1/ZZ CFU-Mk/NP 48h/ZZ ;/FF 1/ZZ Megacarioblaste/NP 15-25/ZZ µm/NC )/FF creix/VM el/DA nucli/NC ,/FF té/VM poliploïdia/NC (/FF 4-5/ZZ )/FF ;/FF 1/ZZ Promegacariòcit/NP (/FF 50/ZZ µm/NC )/FF ;/FF 1/ZZ Megacariòcit/NP (/FF 70-100/ZZ µm/NC )/FF ;/FF 6/ZZ Protoplaquetes_No/NP hi/PP ha/VA proliferació/NC ,/FF sinó/CC diferenciació/NC ./FF
+2000-7000/ZZ Plaquetes/NP ;/FF Megacarioblast/NP ./FF
+Fa/VM 5/ZZ o/CC 6/ZZ divisions/NC que/PR no/RN acaba/VM de/SP realitzar/VM ,/FF sense/SP citocinesi/NC ,/FF sinó/CC que/PR duplica/VM l/NC ADN/NP i/CC crea/VM moltes/DI proteïnes/NC per/SP la/DA nova/AQ cèl·lula/NC ./FF
+Va/VA acumulant/VM material/NC per/SP les/DA plaquetes/NC ,/FF per/SP el/DA procés/NC de/SP coagulació/NC ,/FF factors/NC ,/FF es/P0 grànuls/NC citoplasmàtics/AQ ./FF
+Té/VM una/DI cromatina/NC puntejada/VM ./FF
+Promegacariòcit/NP ./FF
+Comença/VM a/SP acumular/VM grànuls/NC :/FF ,/FF (/FF inicialment/RG son/NC lisosomes/NC )/FF ;/FF (/FF són/VS lisosomes/NC convencionals/AQ ,/FF tenen/VM enzims/NC hidrolítics/AQ ,/FF proteases/NC i/CC lipases/NC ./FF
+Contribueixen/VM a/SP disernir/VM el/DA trombe/NC plaquetari/NC quan/CS les/DA cèl·lules/NC endotelials/AQ s/NC han/VA dividit/NC i/CC han/VA tapat/VM el/DA trombo/AQ plaquetari/NC ./FF
+Per/SP desfer/VM el/DA coàgul/NC des_de/SP fora/RG tenim/VM els/DA macròfags/NC ./FF
+Per/SP desfer/VM el/DA coagul/VM des_de/SP dins/RG de/SP el/DA trombe/NC tenim/VM les/DA plaquetes/NC ./FF
+Grànuls/NP ./FF
+Els/DA veiem/VM a/SP nivell/NC de/SP microscòpia/NC electrònica/AQ ./FF
+També/RG se/P0 ls/AQ anomena/VM grànuls/NC densos/AQ ./FF
+Els/DA electrons/NC reboten/VM i/CC no/RN il·luminen/VM la/DA pantalla/NC de/SP sota/NC ./FF
+Són/VS produïts/VM per/SP l/NC aparell/NC de/SP Golgi/NP ./FF
+Tenen/VM algunes/DI característiques/NC de/SP els/DA lisosomes/NC però/CC amb/SP altres/DI funcions/NC ./FF
+Acumulen/VM quantitats/NC importants/AQ de/SP calci/NC ja_que/CS a/SP les/DA membranes/NC tenen/VM un/DI sistema/NC per/SP captar/VM -lo/PP ./FF
+Aquests/DD grànuls/NC contenen/VM :/FF Calci/NC ./FF
+Intervé/VM en/SP la/DA neurosecreció/NC ,/FF la/DA neurotransmissió/NC i/CC la/DA secreció/NC d/AQ hormones/NC per/SP els/DA canvis/NC de/SP potencial/NC de/SP membrana/NC que/PR produeix/VM a/SP les/DA cèl·lules/NC ./FF
+Kuga/NP un/DI paper/NC fonamental/AQ en/SP la/DA coagulació/NC sanguínia/AQ i/CC sobretot/RG en/SP la/DA formació/NC de/SP la/DA fibrina/NC ./FF
+A/SP més/RG ,/FF el/DA calci/NC ,/FF és/VS el/DA responsable/NC que/CS la/DA sang/NC coaguli/VM ja_que/CS polimeritza/VM el/DA citosquelet/AQ de/SP les/DA plaquetes/NC i/CC fa/VM que/CS s/NC agreguin/VM ./FF
+ATP/NP //FF ADP/NP ./FF
+Provoquen/VM l/NC adhesió/NC de/SP noves/AQ plaquetes/NC ./FF
+Fa/VM que/CS les/DA plaquetes/NC es/P0 comuniquin/VM entre/SP elles/PP ./FF
+La/DA plaqueta/NC que/PR alliberi/VM ATP/NP atraurà/VM altres/DI plaquetes/NC ./FF
+Serotonina/NP ./FF
+Són/VS amines/NC des_de/SP el/DA punt/NC de/SP vista/NC bioquímic/AQ ./FF
+No/RN només/RG són/VS neurotransmissors/NC de/SP el/DA plaer/NC i/CC el/DA dolor/NC ,/FF sinó/CC que/PR actuen/VM com/CS mediadors/AQ ./FF
+No/RN és/VS una/DI proteïna/NC ,/FF i/CC actua/VM sobre/SP les/DA cèl·lules_musculars/NC llises/AQ (/FF de/SP la/DA activitat/NC involuntària/AQ de/SP la/DA paret/NC de/SP les/DA vísceres/NC )/FF ./FF
+Provoca/VM una/DI vasoconstricció/NC de/SP les/DA arterioles/NC ,/FF no/RN de/SP el/DA capil·lars/NC ,/FF i/CC fa/VM que/CS la/DA sang/NC vagi/VM més/RG lenta/AQ per_tal_de/SP que/CS el/DA fort/AQ corrent/NC no/RN arrossegui/VM el/DA petit/AQ coàgul/NC que/PR s/NC està/VM formant/VM ./FF
+Grànuls/NP ./FF
+Són/VS els/DA més/RG abundants/AQ i/CC cridaners/AQ ./FF
+Tenen/VM tres/ZZ grans/AQ grups/NC de/SP molècules/NC :/FF Enzims/NP ./FF
+Factors/NP de/SP coagulació/NC ./FF
+Factors/NC tròfics/AQ (/FF isoleucines/NC i/CC citocines/NC capaces/AQ d/RG estimular/VM la/DA proliferació/NC d/AQ n/NC grup/NC cel·lular/AQ ./FF
+Enzims/NP :/FF Antitripsina/NP (/FF -/FF 1/ZZ antitripsina/NC )/FF ./FF
+La/DA tripsina/NC és/VS un/DI enzim/NC digestiu/AQ sintetitzat/VM per/SP el/DA pàncrees/NC que/PR destrueix/VM proteïnes/NC en/SP el/DA procés/NC de/SP digestió/NC ./FF
+Per/SP tant/RG l/NC antitripsina/NC és/VS un/DI enzim/NC proteolític/AQ que/PR destrueix/VM a/SP un/DI altre/DI enzim/NC proteolític/AQ ./FF
+Hi/PP ha/VA altres/DI enzims/NC proteolítics/AQ que/PR també/RG son/VM identificats/VM per/SP l/NC antitripsina/NC com/CS és/VS el/DA cas/NC d/AQ alguns/DI enzims/NC destructius/AQ fets/NC per/SP els/DA macròfags/NC ./FF
+Per/SP tant/RG ,/FF l/NC antitripsina/NC controlarà/VM la/DA activitat/NC proteolítica/AQ de/SP els/DA macròfags/NC ./FF ;/FF Emfisema/NP pulmonar/AQ ,/FF ampolles/NC d'/SP aire/NC a/SP els/DA pulmons/NC :/FF en/SP els/DA pulmons/NC els/DA macròfags/NC surten/VM fora_de/SP el/DA cos/NC ./FF
+No/RN es/P0 queden/VM vora_de/SP el/DA capil·lar/NC sanguini/AQ com/CS passava/VM a/SP el/DA teixit/NC connectiu/AQ ./FF ;/FF a/SP els/DA pulmons/NC travessen/VM la/DA paret/NC de/SP l/NC arbre/NC respiratori/AQ i/CC van/VM a/SP els/DA alvèols/NC ./FF
+La/DA cavitat/NC aèria/AQ ,/FF és/VS quan/CS se/P0 ls/AQ anomena/VM macròfags/AQ alveolars/AQ (/FF canvien/VM el/DA metabolisme/NC d/RG anaeròbic/AQ i/CC aeròbic/AQ )/FF ./FF
+Allà/RG ,/FF fagociten/VM les/DA cèl·lules/NC que/PR es/P0 descamen/VM ./FF
+Quan/CS hi/PP ha/VA una/DI destrucció/NC important/AQ de/SP cèl·lules/NC com/CS pot/VM ser/VS per/SP el/DA fet/NC de/SP fumar/VM ,/FF les/DA cèl/AQ lules/NC s/NC irriten/VM i/CC els/DA macròfags/NC fan/VM més/RG activitat/NC ./FF
+Es/P0 poden/VM descontrolar/VM i/CC trencar/VM ,/FF alliberant/VM els/DA enzims/NC proteolítics/AQ ./FF
+Aquests/DD enzims/NC comencen/VM a/SP digerir/VM els/DA alvèols/NC ./FF
+Tendrem/VM alvèols/NC més/RG grans/AQ però/CC menys/RG número/NC ,/FF per/SP tant/RG menys/SP superfície/NC d/AQ intercanvi/NC ,/FF es/P0 formaran/VM AMPOLLES_D_AIRE_O_BULLES/NP ./FF
+Per/SP això/PD és/VS important/AQ tenir/VM correcte/AQ les/DA plaquetes/NC si/CS puguin/VM actuar/VM contra/SP aquests/DD enzims/NC ./FF ;/FF Factors/NP tròfics/AQ :/FF Neurotrofina/NP 4/ZZ (/FF NTF/NP -/FF 4/ZZ )/FF o/CC Platelet/NP derived/AQ grow/NC factor/NC (/FF PDGF/NP )/FF també/RG pot/VM ser/VS una/DI citoquina/AQ ./FF
+Estimula/VM la/DA proliferació/NC de/SP els/DA cèl/AQ lules/NC endotelials/AQ i/CC musculars/AQ ./FF
+ATEROMA/NP :/FF Acumulació/NP de/SP greixos/NC per/SP trastorns/NC de/SP les/DA cèl·lules/NC endotelials/AQ perquè/CS no/RN arriben/VM nutrients/AQ i/CC moren/VM ./FF
+Es/P0 descama/VM la/DA paret/NC i/CC van/VM les/DA plaquetes/NC on/PR alliveren/VM neurotrofina/NC per/SP fer/VM -les/PP creixer/VM ./FF
+Les/DA cèl/AQ lules/NC musulars/AQ també/RG creixen/NC per/SP defecte/NC i/CC acaben/VM engruixint/VM la/DA paret/NC de/SP el/DA vas/NC fins/SP que/PR aariben/VM a/SP tapar/VM la/DA llum/NC ARTERIOESCLEROSI/NP ./FF
+Megacariòcit/NP ./FF
+El/DA megacariòcit/NC també/RG acumularà/VM grànuls/NC però/CC aquest/DD a_més_a_més/RG li/PP apareixeran/VM canals/NC de/SP demarcació/NC plaquetària/AQ ./FF
+El/DA nucli/NC de/SP el/DA megacariòcit/NC serà/VS eliminat/VM per/SP els/DA macròfags/NC a/SP la/DA medul·la/NC òssia/AQ Si/NP el/DA nucli/NC ha/VA entrat/VM dins/RG de/SP el/DA vas_sanguini/NC serà/VS eliminat/VM per/SP els/DA macròfags/NC de/SP la/DA paret/NC ./FF
+Els/DA canals/NC de/SP demarcació/NC plaquetària/AQ :/FF Aquestes/DD serviran/VM per/SP fraccionar/VM el/DA megacariòcit/NC ./FF
+Son/VM cisternes/NC de/SP el/DA reticle/NC endoplasmàtic/AQ ./FF
+És/VS una/DI varietat/NC de/SP reticle/NC que/PR en/SP la/DA seva/PX membrana/NC va/VA acumulant/VM proteïnes/NC 1a/AO 2a/ZZ 3a/AO 1b/ZZ 2b/ZZ 3b/ZZ ,/FF etc./FF per/SP tant/RG acabaran/VM sent/VS les/DA membranes/NC de/SP les/DA plaquetes/NC ./FF
+Per/SP fraccionar/VM el/DA megacariòcit/NC ,/FF és/VS mes/NC efectiu/AQ fer/VM replegaments/NC de/SP la/DA membrana/NC plasmàtica/AQ que/CS els/DA canals/NC ,/FF però/CC els/DA dos/ZZ treballen/VM junts/AQ per/SP fer/VM les/DA plaquetes/NC ./FF
+Protoplaquetes/NP i/CC plaquetes/NC ./FF
+a/SP el/DA cap/NC de/SP 48/ZZ hores/NC ja/RG tenim/VM les/DA plaquetes/NC ./FF
+Les/DA trobarem/VM on/PR estaven/VM els/DA hemocitoblasts/NC de/SP el/DA moll/NC de/SP l/NC os/NC ./FF
+S/NP acabarà/VM disgregant/VM en/SP 2000-7000/ZZ plaquetes/NC ./FF
+La/DA mida/NC de/SP les/DA plaquetes/NC dependrà/VM de/SP el/DA de/SP el/DA megacariòcit/NC i/CC també/RG de/SP la/DA Il-11/ZZ -/FF Qui/PR estimula/VM a/SP les/DA cèl·lules/NC mare/NC per/SP fer/VM la/DA línia/NC eritrocítica/AQ o/CC altres/DI línies/NC ?/FF
+Se/P0 n/NC encarreguen/VM citocines/NC o/CC interelucines/NC (/FF pèptids/NC alliberats/VM per/SP leucòcits/NC que/PR activen/VM altres/DI leucòcits/NC )/FF són/VS hormonals/AQ ./FF
+Poden/VM anar/VM a/SP el/DA teixit/NC connectiu/AQ i/CC anar/VM lluny/RG ,/FF o/CC quedar/VM -se/P0 a/SP el/DA moll/NC de/SP l'/DA os/NC ./FF
+Són/VS citoquines/NC i/CC interleucines/NC classificades/VM per/SP números/NC ./FF
+Les/DA molècules/NC que/PR actuen/VM sobre/SP les/DA stem/VM cell/NC són/VS les/DA interleucines/NC ./FF
+Sobretot/RG per/SP la/DA via/NC de/SP les/DA pla

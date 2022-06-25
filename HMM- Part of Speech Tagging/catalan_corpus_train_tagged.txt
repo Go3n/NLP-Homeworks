@@ -20788,4 +20788,93 @@ Va/VA escriure/VM una/DI història/NC d'/SP Itàlia/NP en/SP forma/NC d'/SP anna
 L'/DA esmenten/VM com/CS a/SP font/NC Tit_Livi/NP ,/FF Polibi/NP ,/FF Dionís_d'_Halicarnàs/NP i/CC altres/DI ./FF
 Quint/VM Fabi_Pictor/NP (/FF Quint/VM Fabi_Pictor/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP el/DA historiador/NC Quint_Gabi_Pictor/NP (/FF Quintus_Fabius_Pictor/NP )/FF ./FF
 Fou/VS pretor/NC el/DA 189/ZZ aC/NC i/CC va/VA obtenir/VM Sardina/NP com/CS a/SP província/NC ,/FF però/CC com/CS que/CS l'/DA any/NC anterior/AQ havia/VA estat/VS consagrat/VM flamen/NC quirinalis/NC ,/FF el/DA Pontífex_Màxim/NP el/PP va/VA obligar/VM a/SP restar/VM a/SP Roma/NP ./FF
-El/DA senat/N
+El/DA senat/NC li/PP va/VA assignar/VM llavors/RG la/DA jurisdicció/NC peregrina/AQ i/CC li/PP va/VA impedir/VM renunciar/VM ./FF
+Va/VA morir/VM el/DA 167/ZZ aC/NC ./FF
+Servi/VM Fabi_Pictor/NP (/FF Servius_Fabius_Pictor/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP el/DA pretor/NC Quintus_Fabius_Pictor/NP ./FF
+Fou/VS cònsol/NC el/DA 51/ZZ aC/NC i/CC diu/VM que/CS era/VS expert/AQ en/SP lleis/NC ,/FF literatura/NC i/CC antiguitats/NC ./FF
+Probablement/RG és/VS el/DA mateix/DI personatge/NC esmentat/VM com/CS Fabi_Pictor/NP que/PR fou/VS l'/DA autor/NC de/SP l'/DA obra/NC De_Jure_Pontificio/NP ,/FF esmentada/VM per/SP Noni/NP ,/FF per/SP Aule_Gel·li/NP i/CC per/SP Macrobi/NP ./FF
+Probablement/RG va/VA escriure/VM també/RG annals/NC ./FF
+Onomàstica/NP :/FF Pigres_de_Peònia/NP ,/FF noble/AQ peoni/VM ;/FF Pigres_d'_Halicarnàs/NP ,/FF poeta/NC grec/AQ ;/FF
+Pigres_de_Peònia/NP (/FF )/FF fou/VS un/DI noble/NC peoni/VM que/CS amb/SP el/DA seu/PX germà/NC Mànties/NP i/CC la/DA seva/PX germana/NC va/VA anar/VM a/SP Sardes/NP ,/FF on/PR era/VS Darios_I_el_Gran/NP ,/FF esperant/VM que/CS amb/SP el/DA seu/PX suport/NC obtindria/VM la/DA tirania/NC sobre/SP Peònia/NP ./FF
+Però/CC Darios/NP va/VA observar/VM una/DI gran/AQ laboriositat/NC en/SP la/DA germana/NC ,/FF i/CC va/VA ordenar/VM a/SP Megabazos/NP de/SP transportar/VM a/SP tots/DI els/DA peonis/VM a/SP Àsia/NP per/SP aprofitar/VM aquesta/DD suposada/VM caracetrística/AQ (/FF Heròdot/NP v/NC ./FF 12/ZZ ,/FF &/FF c/NC ./FF )/FF
+Zattoo/NP és/VS un/DI sistema/NC propietari/NC de/SP televisió/NC peer-to-peer/AQ per/SP Internet/NP (/FF "/FF P2PTV/ZZ "/FF )/FF que/PR actualment/RG està/VM enfocat/VM a/SP canals/NC de/SP televisió/NC europeus/AQ ,/FF contingut/NC amb/SP llicència/NC ,/FF i/CC DRM/NP ./FF
+Els/DA desenvolupadors/NC d'/SP aquest/DD projecte/NC són/VS programadors/AQ i/CC investigadors/AQ amb/SP base/NC a/SP Ann_Arbor/NP (/FF Michigan/NP ,/FF EUA/NP )/FF ,/FF amb/SP oficines/NC corporatives/AQ a/SP San_Francisco/NP i/CC Zurich/NP ./FF
+Des_de/SP el/DA desembre_de_2006/WW ,/FF el/DA producte/NC és/VS públic/AQ en/SP versió/NC beta/NC ./FF
+El/DA reproductor/NC està/VM basat/VM en/SP H./NP 264/ZZ ,/FF i/CC és/VS compatible/AQ amb/SP Mac_OS_X/NP ,/FF Linux/NP ,/FF Windows/NP 2000/ZZ ,/FF Windows_XP/NP i/CC Windows_Vista/NP ./FF
+Necessita/VM un/DI mínim/NC de/SP 500_kbit/ZZ //FF s/NC d'/SP ample/NC de/SP banda/NC de/SP baixada/NC a/SP el/DA costat/NC de/SP el/DA client/NC ./FF
+Història/NP ./FF
+Zattoo/NP es/P0 va/VA provar/VM per/SP primera/AO vegada/NC amb/SP canals/NC free-to-air/VM de/SP Suïssa/NP coincidint/VM amb/SP la/DA Copa_de_el_Món_de_la_FIFA/NP 2006/ZZ ./FF
+Començant/VM amb/SP 4/ZZ canals/NC suïssos/AQ (/FF SF/NP 1/ZZ ,/FF SF/NP 2/ZZ ,/FF TSR/NP 1/ZZ and/AQ TSI/NP 1/ZZ )/FF ,/FF actualment/RG ofereix/VM 48/ZZ canals/NC de/SP televisió/NC free-to-air/VM o/CC free-to-view/NC en/SP aquell/DD país/NC ./FF
+Segons/SP la/DA plana/AQ web/NC de/SP el/DA producte/NC ,/FF s'/P0 afegiran/VM altres/DI canals/NC en/SP el/DA futur/NC ./FF
+El/DA 20_d'_abril_de_2007/WW ,/FF Zattoo/NP es/P0 llençà/VM a/SP Dinamarca/NP amb/SP 10/ZZ canals/NC i/CC va/VA començar/VM proves/NC pilot/NC a/SP el/DA Regne_Unit/NP ./FF
+El/DA 4_d'_octubre_de_2007/WW ,/FF Zattoo/NP havia/VA arribat/VM a/SP 1_milió/ZZ d'/SP usuaris/NC registrats/VM a/SP Europa/NP ./FF
+A_partir_de/SP el/DA 4_d'_agost_de_2008/WW ,/FF Zattoo/NP va/VA passar/VM a/SP ser/VS de/SP pagament/NC a/SP Espanya/NP ./FF
+Disponibilitat/NP ./FF
+El/DA servei/NC està/VM restringit/VM actualment/RG a/SP Suïssa/NP ,/FF Dinamarca/NP ,/FF Espanya/NP ,/FF Alemanya/NP ,/FF Noruega/NP ,/FF Regne_Unit/NP ,/FF Bèlgica/NP i/CC França/NP ,/FF però/CC s'/P0 espera/VM que/CS s'/P0 expandeixi/VM a/SP altres/DI països/NC europeus/AQ )/FF i/CC en/SP el/DA futur/NC a/SP Canadà/NP i/CC els/DA EUA/NP ./FF
+Zattoo/NP està/VM dissenyat/VM perquè/CS només/RG permeti/VM a/SP audiències/NC específiques/AQ l'/DA accés/NC a/SP els/DA canals/NC ,/FF gràcies_a/SP la/DA geolocalització/NC de/SP l'/DA adreça/NC IP/NP que/PR s'/P0 assigna/VM a/SP l'/DA ordinador/NC de/SP l'/DA usuari/NC ./FF
+Aquesta/DD restricció/NC prevé/VM ,/FF en_teoria/RG ,/FF que/CS els/DA usuaris/NC britànics/AQ puguin/VM veure/VM canals/NC francesos/AQ ,/FF per_exemple/RG ./FF
+Llista/NC de/SP canals/NC accessibles/AQ des_de/SP els/DA Països_Catalans/NP ./FF
+ABC_News_Now/NP ;/FF AutoMoto_TV/NP ;/FF Bloomberg/NP ;/FF Deutsche_Welle/NP ;/FF The_Poker_Channel/NP ;/FF SF_Info/NP ;/FF Països_Catalans/NP (/FF excepte/SP Catalunya_Nord/NP )/FF ./FF
+Antena/NP 3/ZZ ;/FF Aprende_Inglés_TV/NP ;/FF Aragón_Televisión/NP ;/FF Canal_Parlamento/NP ;/FF Cuatro/NP ;/FF ETB_Sat/NP ;/FF Extremadura_TV/NP ;/FF France/NP 24/ZZ ;/FF Galicia_TV/NP ;/FF Intereconomía_TV/NP ;/FF La_Sexta/NP ;/FF Libertad_Digital_TV/NP ;/FF Popular_TV/NP ;/FF Telecinco/NP ;/FF Tribunal_TV/NP ;/FF TVCi/NP ;/FF TVE1/ZZ ;/FF TVE2/ZZ ;/FF TVP_Polonia/NP ;/FF TVVi/NP ;/FF Veo/NP ;/FF Catalunya_Nord/NP ./FF
+a/SP el/DA Jazeera_English/NP ;/FF Arte/NP ;/FF Direct/NP 8/ZZ ;/FF EuroNews/NP ;/FF France/NP 2/ZZ ;/FF France/NP 3/ZZ ;/FF France/NP 4/ZZ ;/FF France/NP 5/ZZ ;/FF Gulli/NP ;/FF La_Chaîne_Parlementaire/NP ;/FF sumo/VM ./FF tv/NC ;/FF TV5/ZZ Monde/NP ;/FF TV8/ZZ Mont-Blanc/NP ;/FF Virgin17/ZZ ;/FF Vegeu/NP també/RG ./FF
+IPTV/NP ;/FF Internet_Television/NP ;/FF Jaman/NP ;/FF Joost/NP ;/FF Babelgum/NP ;/FF Notes/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF Blog_de_Zattoo/NP ;/FF Entrevista/NP :/FF co-fundadors/NC de/SP Zattoo/NP (/FF last100.com/ZZ )/FF ;/FF Presentació/NP a/SP SwiNOG/NP :/FF 30_de_maig_de_2007/WW ;/FF
+Pigres_d'_Halicarnàs/NP (/FF )/FF fou/VS un/DI poeta/NC cari/AQ (/FF però/CC que/PR escrivia/VM en/SP grec/NC )/FF nadiu/AQ d'/SP Halicarnàs/NP ,/FF germà/NC o/CC fill/NC d'/SP Artemísia_I_d'_Halicarnàs/NP ,/FF reina/NC de/SP Cària/NP ./FF
+Va/VA escriure/VM les/DA obres/NC Margites/NP ,/FF i/CC Batrachomyomachia/NP ./FF
+La/DA segona/AO fou/VS molt/RG probablement/RG obra/NC seva/PX ,/FF però/CC la/DA primera/AO potser/RG només/RG la/PP va/VA modificar/VM ./FF
+Fou/VS el/DA primer/AO poeta/NC que/PR va/VA introduir/VM el/DA trímetre/NC iàmbic/AQ ./FF
+Pília/NP (/FF Pilia/NP )/FF fou/VS una/DI dama/NC romana/AQ esposa/NC de/SP Tit_Pomponi_Àtic/NP ,/FF l'/DA amic/NC de/SP Ciceró/NP ./FF
+Es/P0 coneix/VM molt/RG poc/RG de/SP el/DA seu/PX origen/NC i/CC parents/NC ./FF
+Podria/VM ser/VS filla/NC de/SP Marc_Pili/NP (/FF Marcus_Pilius/NP )/FF que/PR apareix/VM esmentat/VM el/DA 45/ZZ aC/NC ./FF
+Quint/VM Pili_Celer/NP ,/FF que/PR acompanyava/VM a/SP Juli_Cèsar/NP a/SP la/DA Gàl·lia/NP el/DA 54/ZZ aC/NC ,/FF era/VS el/DA seu/PX germà/NC ./FF
+Es/P0 va/VA casar/VM amb/SP Àtic/NP el/DA 12_de_febrer_del_56/WW aC/NC i/CC a/SP l'/DA estiu/NC de/SP el/DA següent/AQ any/NC va/VA tenir/VM una/DI filla/NC que/PR fou/VS després/RG la/DA dona/NC de/SP Marc_Vipsani_Agripa/NP ,/FF i/CC que/CS es/P0 creu/VM que/CS fou/VS la/DA seva/PX única/AQ descendència/NC ./FF
+El/DA matrimoni/NC fou/VS feliç/AQ però/CC la/DA salut/NC de/SP Pília/NP era/VS dolenta/AQ ./FF
+Onomàstica/NP :/FF Gens/RG Pinària/NP ,/FF gens/DI patrícia/NC romana/AQ ;/FF Pinària/NP ,/FF fou/VS la/DA primera/AO dona/NC de/SP el/DA famós/AQ tribú/NC de/SP la/DA plebs/NC Publi_Clodi/NP ./FF
+La/DA gens/NC Pinària/NP fou/VS una/PI de/SP les/DA gens/NC patrícies/AQ més/RG antigues/AQ de/SP Roma/NP ,/FF que/PR situava/VM el/DA seu/PX origen/NC abans/RG de/SP la/DA fundació/NC de/SP la/DA ciutat/NC ,/FF quan/CS els/DA Potitii/NP i/CC els/DA Pinarii/NP ,/FF que/PR vivien/VM a/SP la/DA comarca/NC on/PR després/RG es/P0 va/VA fundar/VM Roma/NP ,/FF van/VA donar/VM hospitalitat/NC a/SP Hèrcules/NP ,/FF però/CC per/SP unes/DI qüestions/NC de/SP protocol/NC Hèrcules/NP els/PP va/VA posar/VM darrera/AO de/SP els/DA Potitii/NP ./FF
+Les/DA dues/ZZ famílies/NC foren/VS sacerdots/NC d'/SP Hèrcules/NP fins/SP a/SP la/DA censura/NC d'/SP Appi_Claudi/NP el/DA 312/ZZ aC/NC ,/FF que/PR va/VA comprar/VM a/SP els/DA Potitii/NP els/DA coneixements/NC de/SP els/DA ritus/NC sagrats/AQ i/CC els/PP va/VA degradar/VM ./FF
+Els/DA Pinarii/NP que/CS no/RN van/VA voler/VM vendre/VM ,/FF es/P0 van/VA lliurar/VM de/SP el/DA càstig/NC ,/FF i/CC la/DA família/NC va/VA subsistir/VM molts/DI segles/NC encara/RG ./FF
+Són/VS esmentats/VM durant/SP la/DA monarquia/NC i/CC van/VA arribar/VM a/SP el/DA consolat/NC molt/RG aviat/RG amb/SP la/DA república/NC (/FF Publi_Pinaria_Mamercí_Ruf/NP fou/VS el/DA primer/AO cònsol/NC de/SP la/DA família/NC el/DA 489/ZZ aC/NC )/FF ./FF
+Van/VA usar/VM els/DA cognoms/NC Mamercí/NP ,/FF Natta/NP ,/FF Posca/NP ,/FF Rusca/NP i/CC Escarp/NP ,/FF però/CC cap/NC d'/SP aquestes/DD branques/NC va/VA arribar/VM a/SP el/DA consolat/NC ./FF
+Màxim_V/NP (/FF Sinope/NP ,/FF 1897/ZZ )/FF ./FF -/FF Suïssa/NP ,/FF 1_de_gener_de_1972/WW )/FF ./FF
+Patriarca_de_Constantinoble/NP de/SP 1946/ZZ a/SP 1948/ZZ ./FF
+Nomenat/VM Patriarca_de_Constantinoble/NP el/DA 20_de_gener_de_1946/WW ,/FF segons/SP la/DA versió/NC oficial/AQ va/VA renunciar/VM a/SP el/DA càrrec/NC ,/FF per/SP motius/NC de/SP salut/NC ,/FF el/DA 18_d'_octubre_de_1948/WW ./FF
+La/DA versió/NC extraoficial/AQ manté/VM que/CS va/VA ser/VS obligat/VM a/SP dimitir/VM per/SP les/DA seves/PX idees/NC esquerranes/AQ que/PR li/PP van/VA portar/VM a/SP un/DI acostament/NC amb/SP el/DA Patriarca_de_Moscou/NP que/PR estava/VM totalment/RG controlat/VM per/SP el/DA Kremlin/NP ./FF
+Pinnes/NP ,/FF Pinneu/NP o/CC Pineu/NP fou/VS príncep/NC d'/SP Il·líria/NP ,/FF fill/NC d'/SP Agró/NP (/FF Agron/NP )/FF i/CC de/SP la/DA seva/PX dona/NC Triteuta/NP ./FF
+A/SP la/DA mort/NC de/SP el/DA seu/PX pare/NC (/FF 231/ZZ aC/NC )/FF Pinnes/NP era/VS un/DI infant/NC i/CC va/VA quedar/VM sota/SP la/DA regència/NC de/SP la/DA seva/PX madrastra/NC Teuta/NP ,/FF a/SP la/DA que/PR s'/P0 havia/VA casat/VM Agron/NP després/RG de/SP divorciar/VM -se/P0 de/SP Triteuta/NP ./FF
+Quan/CS Teuta/NP fou/VS derrotada/VM per/SP els/DA romans/NC ,/FF la/DA regència/NC principal/AQ va/VA passar/VM a/SP Demetri_de_Faros/NP ,/FF a/SP el/DA que/PR Roma/NP havia/VA concedit/VM l'/DA administració/NC de/SP part/NC de/SP els/DA dominis/NC il·liris/AQ i/CC que/PR es/P0 va/VA casar/VM amb/SP Triteuta/NP ./FF
+Quan/CS Demetri/NP es/P0 va/VA enfrontar/VM a/SP Roma/NP fou/VS derrotat/VM per/SP el/DA cònsol/NC Luci_Emili_Paule/NP el/DA 219/ZZ aC/NC i/CC es/P0 va/VA haver/VA de/SP refugiar/VM a/SP la/DA cort/NC de/SP Filip_V_de_Macedònia/NP ./FF
+Els/DA romans/NC van/VA col·locar/VM a/SP el/DA tron/NC a/SP Pinnes/NP ./FF
+El/DA 216/ZZ aC/NC s'/P0 esmenta/VM el/DA tribut/NC que/PR pagava/VM aquest/DD rei/NC ./FF
+El/DA 212/ZZ aC/NC el/PP va/VA succeir/VM Escerdílides_ENDOFARTICLE/NP ./FF
+Pinit/NP (/FF Pinytus/NP ,/FF )/FF fou/VS un/DI poeta/NC epigramàtic/AQ grec/AQ autor/NC d'/SP un/DI epitafi/NC sobre/SP Safo/NP ,/FF que/PR consta/VM a/SP l'/DA antologia/NC grega/AQ ./FF
+La/DA seva/PX personalitat/NC és/VS completament/RG desconeguda/VM ,/FF però/CC s'/P0 ha/VA suposat_que/CS podria/VM ser/VS un/DI gramàtic/NC nadiu/AQ de/SP Bitínia/NP que/PR fou/VS llibert/NC d'/SP Epafrodit/NP ,/FF favorit/AQ de/SP l'/DA emperador/NC Neró/NP ,/FF i/CC que/PR va/VA ensenyar/VM gramàtica/NC a/SP la/DA ciutat/NC de/SP Roma/NP ./FF
+El/DA Feldkircher_Lyrikpreis/NP és/VS un/DI premi/NC literari/AQ de/SP poesia/NC en/SP llengua/NC alemanya/AQ convocat/VM per/SP el/DA teatre/NC Theater/NP am/VM Saumarkt/NP a/SP Feldkirch/NP ,/FF Vorarlberg/NP //FF Àustria/NP ./FF
+Els/DA sponsors/NC són/VS el/DA govern/NC austríac/AQ ,/FF les/DA autoritats/NC de/SP Vorarlberg/NP i/CC banques/VM privades/VM ./FF
+El/DA 2003/ZZ ,/FF el/DA Premi_de_Poesia_de_Feldkirch/NP va/VA ser/VS convocat/VM per/SP la/DA primera/AO vegada/NC ./FF
+La/DA convocatòria/NC està/VM oberta/VM per/SP a/SP poemes/NC en/SP alemany/NC i/CC es/P0 dirigeix/VM a/SP autors/NC internacionals/AQ ./FF
+El/DA jurat/NC està/VM format/NC per/SP germanistes/NC i/CC autors/NC ./FF
+Cada/DI tardor/NC ,/FF els/DA laureats/NC es/P0 presenten/VM a/SP el/DA públic/NC ./FF
+Els/DA textos/NC de/SP els/DA guanyadors/NC estàn/AQ arquivats/AQ a/SP la/DA Biblioteca_de_Vorarlberg/NP ./FF
+Guanyadors/NP ./FF
+2007/ZZ ./FF
+Klaus_Händl/NP ;/FF Bernhard_Saupe/NP ;/FF Alexandra_Lavizzari/NP ;/FF Thomas_Steiner/NP ;/FF 2006/ZZ ./FF
+Adelheid_Dahimène/NP ;/FF Christine_Haidegger/NP ;/FF Ludwig_Laher/NP ;/FF Hans_Eichhorn/NP ;/FF 2005/ZZ ./FF
+Knut_Schaflinger/NP ;/FF Julia_Rhomberg/NP ;/FF Udo_Kawasser/NP ;/FF Klaus_Ebner/NP ;/FF 2004/ZZ ./FF
+Elsbeth_Maag/NP ;/FF Knut_Schaflinger/NP ;/FF Lisa_Mayer/NP ;/FF Gertrude_Pieber-Prem/NP ;/FF Sabine_Eschgfäller/NP ;/FF Udo_Kawasser/NP i/CC Walter_Pucher/NP ;/FF 2003/ZZ ./FF
+Elfriede_Kehrer/NP ;/FF Norbert_Mayer/NP ;/FF Walter_Pucher/NP ;/FF Mechthild_Podzeit-Lütjen/NP ;/FF Ulrike_Ulrich/NP ;/FF Enllaços/NP externs/AQ ./FF
+Theater/NP am/VM Saumarkt/NP ;/FF Article/NP de/SP la/DA televisió/NC austríaca/AQ sobre/SP el/DA 5e/ZZ Premi_de_Feldkirch/NP ;/FF Fonts/NP ./FF
+Diari/NC austríac/AQ Vorarlberger_Nachrichten/NP ;/FF
+Pipa/NP ,/FF objecte/NC per/SP fumar/VM ;/FF Pipa/NP (/FF bolet/NC )/FF ;/FF Pipara/NP o/CC Pipa/NP ,/FF filla/NC d'/SP Àtal/NP rei/NC de/SP els/DA marcomans/NC ;/FF
+Pipa/NP o/CC Pipara/NP fou/VS la/DA filla/NC d'/SP Àtal/NP ,/FF rei/NC de/SP els/DA marcomans/NC ./FF
+L'/DA emperador/NC romà/AQ Gal·liè/NP se/P0 'n/PP va/VA enamorar/VM apassionadament/RG ./FF
+Trebeli_Pol·lió/NP la/PP confon/VM amb/SP Salonina/NP ,/FF la/DA dona/NC de/SP l'/DA emperador/NC ,/FF i/CC Gibbons/NP cau/NC en/SP el/DA mateix/DI error/NC ./FF
+Benjamí_I/NP (/FF ¿/FF ?/FF ,/FF 1871/ZZ -/FF Istanbul/NP ,/FF 17_de_febrer_de_1946/WW )/FF ./FF
+Patriarca_de_Constantinoble/NP de/SP 1936/ZZ a/SP 1946/ZZ ./FF
+Nomenat/VM Patriarca_de_Constantinoble/NP el/DA 18_de_gener_de_1936/WW ,/FF va/VA ocupar/VM el/DA càrrec/NC fins/SP a/SP la/DA seva/PX mort/NC el/DA 17_de_febrer_de_1946/WW ./FF
+Copa_d'_Europa/NP d'/SP hoquei/NC patins/NC masculina/AQ ;/FF Copa_d'_Europa/NP d'/SP hoquei/NC patins/NC femenina/AQ ;/FF
+Basili_III/NP (/FF ¿/FF ?/FF ,/FF -/FF Istanbul/NP ,/FF 29_de_setembre_de_1929/WW )/FF ./FF
+Patriarca_de_Constantinoble/NP de/SP 1925/ZZ a/SP 1929/ZZ ./FF
+Patriarca_Ecumènic_de_Constantinoble/NP des_de/SP la/DA seva/PX elecció/NC el/DA 13_de_juliol_de_1925/WW fins/SP a/SP la/DA seva/PX mort/NC el/DA 29_de_setembre_de_1929/WW ./FF
+Calpurni_Pisó/NP fou/VS un/DI magistrat/NC romà/AQ ./FF
+Fou/VS fet/NC presoner/AQ a/SP la/DA batalla/NC de/SP Cannes/NP el/DA 216/

@@ -21013,4 +21013,84 @@ Terrassa/NP mNATEC/NC TartanaCatalana/NP ./FF
 JPG/NP |/FF 150px/ZZ |/FF right/VM |/FF Tartana/NP ]/FF Tartana/NP (/FF carruatge/NC )/FF ,/FF és/VS un/DI tipus/NC de/SP carruatge/NC xicotet/NC cobert/NC i/CC format/NC per/SP dues/ZZ rodes/NC ,/FF hi/PP és/VS un/DI carro/NC muntat/VM sobre/SP molls/NC de/SP ballesta/NC ./FF
 En/SP correctes/AQ condicions/NC a/SP el/DA davant/SP és/VS tanca/NC amb/SP un/DI tauler/NC generalment/RG amb/SP cristalls/NC per/SP a/SP la/DA llum/NC i/CC per/SP darrere/RG té/VM una/DI porteta/NC amb/SP cristall/NC ./FF
 Pat_Flaherty/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut/VM el/DA 6_de_gener_del_1926/WW a/SP Glendale/NP ,/FF Califòrnia/NP ./FF
-Flaherty/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1950/ZZ ,/FF 1953-1956/ZZ ,/FF 1958/ZZ i/CC 1963/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1950/ZZ ,/FF 1953-1956/ZZ i/CC 
+Flaherty/NP va/VA córrer/VM a/SP la/DA Champ_Car/NP a/SP les/DA temporades/NC 1950/ZZ ,/FF 1953-1956/ZZ ,/FF 1958/ZZ i/CC 1963/ZZ incloent/VM -hi/PP la/DA cursa/NC de/SP les/DA 500_milles/ZZ d'/SP Indianapolis/NP de/SP els/DA anys/NC 1950/ZZ ,/FF 1953-1956/ZZ i/CC 1959/ZZ ./FF
+Pat_Flaherty/NP va/VA morir/VM de/SP càncer/NC el/DA 9_d'_abril_del_2002/WW a/SP Oxnard/NP ,/FF Califòrnia/NP ./FF
+Resultats/NC a/SP la/DA Indy/NP 500/ZZ ./FF
+A/SP la/DA F1/ZZ ./FF
+El/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ va/VA formar_part/VM de/SP el/DA calendari/NC de/SP el/DA campionat/NC de/SP el/DA món/NC de/SP el/DA a/SP Fórmula/NP 1/ZZ entre/SP les/DA temporades/NC 1950/ZZ a/SP la/DA 1960/ZZ ./FF
+Els/DA pilots/NC que/PR competien/VM a/SP la/DA Indy/NP durant/SP aquests/DD anys/NC també/RG eren/VS comptabilitats/NC per/SP el/DA campionat/NC de/SP la/DA F1/ZZ ./FF
+Pat_Flaherty/NP va/VA participar/VM a/SP 6/ZZ curses/NC de/SP F1/ZZ ,/FF debutant/VM a/SP el/DA Gran_Premi_d'_Indianapolis/NP 500/ZZ de/SP el/DA 1950/ZZ ./FF
+Palmarès/NP a/SP la/DA F1/ZZ ./FF
+Participacions/NP :/FF 6/ZZ ;/FF Poles/NP :/FF 1/ZZ ;/FF Voltes_Ràpides/NP :/FF 0/ZZ ;/FF Victòries/NP :/FF 1/ZZ ;/FF Pòdiums/NP :/FF 1/ZZ ;/FF Punts/NP vàlids/AQ per/SP la/DA F1/ZZ :/FF 8/ZZ ;/FF
+Giancarlo_Astrua/NP (/FF Graglia/NP ,/FF 11_d'_agost_de_1927/WW )/FF va/VA ser/VS un/DI ciclista/NC italià/AQ que/CS fou/VS professional/AQ entre/SP 1948/ZZ i/CC 1958/ZZ ./FF
+Durant/SP aquests/DD anys/NC aconseguí/VM 12/ZZ victòries/NC ,/FF entre/SP elles/PP 3/ZZ etapes/NC de/SP el/DA Giro_d'_Itàlia/NP i/CC una/DI de/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+Palmarès/NP ./FF
+1949/ZZ ;/FF 1r/AO a/SP la/DA Copa_Ciutat_de_Busto_Arsizio/NP ;/FF 1r/AO a/SP Maggiora/NP ;/FF 1950/ZZ ;/FF 1r/AO a/SP Borgosesia/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF 1951/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF 1952/ZZ ;/FF 1r/AO a/SP el/DA Trofeu_Baracchi/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC de/SP el/DA Gran_Premi_de_el_Mediterraneo/NP i/CC 1r/ZZ de/SP el/DA Gran_Premi_de_la_Muntanya/NP ;/FF 1953/ZZ ;/FF 1r/AO a/SP el/DA Giro_de_Romanya/NP ;/FF 1954/ZZ ;/FF 1r/AO a/SP el/DA Gran_Premi_de_la_Indústria_Belmonte-Piceno/NP ;/FF 1955/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_d'_Itàlia/NP ;/FF 1956/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Espanya/NP ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1948/ZZ ./FF
+Abandona/VM (/FF 10a/ZZ etapa/NC )/FF ;/FF 1949/ZZ ./FF 5è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1950/ZZ ./FF 25è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1951/ZZ ./FF 5è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1952/ZZ ./FF 7è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1954/ZZ ./FF 5è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF 16è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1957/ZZ ./FF 15è/AO de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1953/ZZ ./FF 3r/AO de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF 7è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1957/ZZ ./FF
+Abandona/VM (/FF 11a/ZZ etapa/NC )/FF ;/FF Resultats/NP a/SP la/DA Volta/NP a/SP Espanya/NP ./FF
+1956/ZZ ./FF 12è/AO de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Biografia/NP i/CC palmarès/NC de/SP Giancarlo_Astrua/NP ;/FF Palmarès_de_Giancarlo_Astrua/NP ;/FF
+La/DA fosfamina/NC o/CC fosfina/NC (/FF PH3/ZZ )/FF és/VS un/DI gas/NC incolor/AQ ,/FF inflamable/AQ ,/FF que/PR explota/VM a/SP temperatura/NC ambient/AQ i/CC que/PR fa/VM olor/NC a/SP all/NC o/CC a/SP peix/NC podrit/NC ./FF
+Petites/AQ quantitats/NC ocorren/VM naturalment/RG provinents/AQ de/SP la/DA degradació/NC de/SP matèria/NC orgànica/AQ ./FF
+És/VS lleument/RG soluble/AQ en/SP aigua/NC ./FF
+La/DA fosfamina/NC es/P0 diu/VM també/RG fosfur/NC d'/SP hidrogen/NC o/CC hidrogen/NC fosforat/VM ,/FF és/VS usada/VM en/SP les/DA indústries/NC de/SP semiconductors/NC i/CC de/SP plàstics/NC ,/FF en/SP la/DA producció/NC d'/SP un/DI retardador/NC de/SP flames/NC i/CC com/CS a/SP insecticida/NC ./FF
+Propietats_Físiques/NP i/CC Químiques/NP ./FF
+És/VS un/DI gas/NC incolor/AQ ,/FF poc/RG soluble/AQ a/SP l'/DA aigua/NC ,/FF que/PR es/P0 reconeix/VM per/SP la/DA seva/PX olor/NC d'/SP all/NC i/CC la/DA seva/PX gran/AQ combustibilitat/NC ./FF
+A/SP l'/DA aire/NC crema/NC amb/SP flama/NC de/SP color/NC blanc/AQ i/CC molt/RG brillant/AQ ,/FF desprenent/VM vapors/NC de/SP àcid/NC fosfòric/AQ ,/FF segons/SP la/DA reacció/NC :/FF PH3/ZZ +/FF 2O2/ZZ H3PO4/ZZ És/NP un/DI poderós/AQ reductor/NC que/PR s'/P0 apropia/VM de/SP l'/DA oxigen/NC de/SP molts/DI cossos/NC per/SP a/SP transformar/VM -se/P0 en/SP àcid/NC fosfòric/AQ ./FF
+Per/SP aquesta/DD propietat/NC és/VS extremadament/RG verinós/AQ ,/FF car/CC deixa/VM a/SP el/DA cos/NC humà/AQ sense/SP l'/DA oxigen/NC necessari/AQ ./FF
+S'/P0 uneix/VM amb/SP els/DA hidràcids/NC per/SP a/SP formar/VM compostos/NC que/CS són/VS isomorfs/AQ amb/SP les/DA sals/NC amòniques/AQ ,/FF per_exemple/RG :/FF PH3/ZZ +/FF HCl/NP H4ClP/ZZ ./FF
+El/DA radical/NC PH4/ZZ +/FF monovalent/AQ s'/P0 anomena/VM fosfoni/NC i/CC es/P0 estructuralment/RG és/VS semblant/AQ a/SP l'/DA amoni/NC (/FF NH4/ZZ +/FF )/FF ./FF
+Característiques/NP ./FF
+Fórmula/NP :/FF PH3/ZZ ;/FF Pes/NP molecular/AQ :/FF 34/ZZ ./FF
+Solubilitat/NP a/SP 15ºC/ZZ :/FF 112/ZZ cm³/NC ./FF
+València_de_el_Fòsfor/NP :/FF -/FF 3/ZZ ./FF
+Estat/NP físic/AQ (/FF a/SP 20ºC/ZZ )/FF :/FF gas/NC incolor/AQ ./FF ;/FF Densitat/NP :/FF 1,18/ZZ ;/FF Toxicitat/NP ./FF
+La/DA ruta/NC més/RG probable/AQ d'/SP exposició/NC a/SP la/DA fosfamina/NC és/VS la/DA inhalació/NC ./FF
+Els/DA primers/AO símptomes/NC d'/SP exposició/NC aguda/AQ a/SP la/DA fosfina/NC inclouen/VM dolor/NC de/SP el/DA diafragma/NC ,/FF nàusea/NC ,/FF vòmits/NC ,/FF excitació/NC i/CC una/DI olor/NC a/SP fòsfor/NC en/SP l'/DA alè/NC ./FF
+L'/DA exposició/NC a/SP nivells/NC més/RG alts/AQ pot/VM produir/VM debilitat/NC ,/FF bronquitis/NC ,/FF edema/NC pulmonar/AQ ,/FF falta/NC d'/SP alè/NC ,/FF convulsions/NC i/CC la/DA mort/NC ./FF
+Alguns/DI efectes/NC ,/FF com/CS per_exemple/RG edema/NC pulmonar/AQ ,/FF convulsions/NC i/CC dany/NC de/SP el/DA fetge/NC poden/VM manifestar/VM -se/P0 o/CC àdhuc/RG estar/VM presents/AQ dies/NC després/RG de/SP l'/DA exposició/NC ./FF
+L'/DA exposició/NC perllongada/VM a/SP baixos/AQ nivells/NC de/SP fosfamina/NC pot/VM produir/VM anèmia/NC ,/FF bronquitis/NC ,/FF efectes/NC gastrointestinals/AQ i/CC problemes/NC motors/AQ ,/FF de/SP la/DA vista/NC i/CC de/SP la/DA parla/NC ./FF
+El/DA contacte/NC de/SP la/DA fosfamina/NC líquida/AQ amb/SP la/DA pell/NC pot/VM produir/VM congelació/NC ./FF
+La/DA ingestió/NC de/SP fosfur/NC metàl·lic/AQ pot/VM produir/VM l'/DA alliberament/NC de/SP fosfina/NC en/SP l'/DA estómac/NC el/DA que/PR pot/VM causar/VM nàusea/NC ,/FF vòmits/NC ,/FF dolor/NC abdominal/AQ i/CC diarrea/NC ./FF
+No/RN hi/PP ha/VA cap/DI informació/NC disponible/AQ sobre/SP els/DA possibles/AQ efectes/NC de/SP la/DA fosfamina/NC sobre/SP la/DA reproducció/NC en/SP éssers/NC humans/AQ ./FF
+No/RN s'/P0 ha/VA demostrat/VM que/CS la/DA fosfina/NC afecta/VM la/DA reproducció/NC en/SP animals/NC de/SP laboratori/NC ./FF
+Referències/NC externes/AQ ./FF
+ATSDR/NP en/SP Espanyol/NP -/FF ToxFAQs/NP :/FF fosfina/NC ;/FF Institut_Nacional_de_Seguretat/NP e/NC Higiene/NP en/SP el/DA Treball_d'_Espanya/NP :/FF Fitxa/NC internacional/AQ de/SP seguretat/NC química/AQ de/SP la/DA fosfina/NC ./FF
+Luci_Calpurni_Pisó_Cesoní/NP (/FF Lucius_Calpurnius_C._F._L._N._Piso_Caesoninus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP Luci_Calpurni_Pisó_Cesoní/NP (/FF cònsol/NC 112/ZZ aC/NC )/FF (/FF Lucius_Calpurnius_L._F._L._N._Piso_Caesoninus/NP )/FF i/CC net/AQ de/SP Luci_Calpurni_Pisó_Cesoní/NP (/FF cònsol/NC 148/ZZ aC/NC )/FF (/FF Lucius_Calpurnius_C._F._C._N._Piso_Caesoninus/NP )/FF ./FF
+Fou/VS el/DA sogre/NC de/SP Juli_Cèsar/NP ./FF
+Ciceró/NP el/PP descriu/VM de/SP manera/NC negativa/AQ en/SP alguns/PI de/SP els/DA seus/PX escrits/NC ,/FF però/CC ben/RG segur/AQ és/VS perquè/CS Pisó/NP era/VS enemic/NC polític/AQ i/CC personal/AQ de/SP l'/DA orador/NC ./FF
+Fou/VS pretor/NC vers/SP el/DA 57/ZZ aC/NC ,/FF però/CC només/RG apareix/VM esmentat/VM el/DA 59/ZZ aC/NC quan/PR fou/VS portat/VM a/SP judici/NC per/SP el/DA tribú/NC Publi_Clodi/NP per/SP extorsionar/VM a/SP una/DI província/NC que/PR havia/VA administrat/VM com/CS a/SP propretor/NC i/CC fou/VS absolt/VM amb/SP molts/DI problemes/NC ./FF
+a/SP el/DA mateix/DI any/NC la/DA seva/PX filla/NC Calpúrnia/NP es/P0 va/VA casar/VM amb/SP Juli_Cèsar/NP i/CC per/SP la/DA influència/NC d'/SP aquest/PD ,/FF Pisó/NP va/VA aconseguir/VM el/DA consolat/NC de/SP l'/DA any/NC 58/ZZ aC/NC junt/AQ amb/SP Aule_Gabini/NP ,/FF l'/DA home/NC de/SP Gneu_Pompeu/NP ./FF
+Clodi/NP ,/FF per/SP assegurar/VM -se/P0 el/DA suport/NC de/SP Pisó/NP contra/SP Ciceró/NP ,/FF li/PP va/VA prometre/VM la/DA província/NC de/SP Macedònia/NP i/CC a/SP Gabini_la_de_Síria/NP ,/FF donacions/NC que/PR es/P0 van/VA traduir/VM en/SP una/DI llei/NC ./FF
+Ciceró/NP fou/VS desterrat/VM poc/RG després/RG ./FF
+L'/DA any/NC 57/ZZ aC/NC Pisó/NP va/VA anar/VM a/SP la/DA seva/PX província/NC de/SP Macedònia/NP on/PR va/VA restar/VM dos/ZZ anys/NC (/FF 57/ZZ i/CC 56/ZZ aC/NC )/FF on/PR va/VA cometre/VM tota/DI mena/NC d'/SP exaccions/NC ./FF
+El/DA 56/ZZ aC/NC el/DA senat/NC romà/AQ va/VA decidir/VM nomenar/VM un/DI successor/NC i/CC Pisó/NP va/VA haver/VA de/SP renunciar/VM i/CC cedir/VM el/DA govern/NC a/SP Quint_Ancari/NP (/FF Quintus_Ancharius/NP )/FF ./FF
+Ciceró/NP va/VA aprofitar/VM aquesta/DD circumstancia/VM per/SP acusar/VM -lo/PP de/SP tota/DI mena/NC de/SP crims/NC de/SP els/DA que/CS a/SP la/DA seva/PX tornada/NC Pisó/NP es/P0 va/VA haver/VA de/SP defensar/VM ;/FF finalment/RG Ciceró/NP va/VA renunciar/VM a/SP portar/VM a/SP judici/NC a/SP Pisó/NP per/SP manca/NC de/SP proves/NC ./FF
+El/DA 50/ZZ aC/NC Pisó/NP fou/VS censor/NC junt/AQ amb/SP Appi_Claudi_Pulcre/NP ./FF
+El/DA 49/ZZ aC/NC quan/CS encara/RG era/VS censor/NC es/P0 va/VA oferir/VM per/SP negociar/VM amb/SP Cèsar/NP però/CC el/DA partit/NC aristocràtic/AQ no/RN el/PP va/VA voler/VM escoltar/VM ./FF
+Quan/CS Pompeu/NP va/VA fugir/VM de/SP Roma/NP ,/FF Pisó/NP el/PP va/VA acompanyar/VM però/RG tot/DI seguit/NC va/VA tornar/VM per/SP reunir/VM -se/P0 amb/SP Cèsar/NP ,/FF però/CC va/VA romandre/VM neutral/AQ a/SP la/DA guerra/NC civil/AQ que/PR va/VA seguir/VM ./FF
+Cèsar/NP ,/FF tot_i_així/RG ,/FF el/PP va/VA tractar/VM amb/SP respecte/NC ./FF
+Mort_Cèsar/NP el/DA 44/ZZ aC/NC va/VA demanar/VM que/CS les/DA institucions/NC i/CC lleis/NC de/SP el/DA seu/PX gendre/NC foren/VS conservades/VM i/CC es/P0 va/VA oposar/VM a/SP Marc_Antoni/NP ,/FF a/SP el/DA que/PR finalment/RG va/VA adherir/VM i/CC a/SP el/DA que/PR va/VA defensar/VM a/SP Roma/NP mentre/CS Antoni/NP era/VS a/SP la/DA Gàl·lia_Cisalpina/NP lluitant/VM contra/SP Dècim_Juni_Brut_Albí/NP ./FF
+El/DA 43/ZZ aC/NC fou/VS ambaixador/NC enviat/VM a/SP Mutina/NP ,/FF darrera/AO vegada/NC que/PR és/VS esmentat/VM ./FF
+Notes/NP ./FF
+Luci_Calpurni_Pisó_Cesoní/NP (/FF Lucius_Calpurnius_L._F._L._N._Piso_Caesoninus/NP )/FF fou/VS un/DI magistrat/NC romà/AQ fill/NC de/SP Luci_Calpurni_Pisó_Cesoní/NP (/FF cònsol/NC 58/ZZ aC/NC )/FF (/FF Lucius_Calpurnius_C._F._L._N._Piso_Caesoninus/NP )/FF ./FF
+Va/VA néixer/VM durant/SP la/DA guerra/NC civil/AQ (/FF vers/NC 48/ZZ aC/NC )/FF ./FF
+Fou/VS cònsol/NC el/DA 15/ZZ aC/NC junt/AQ amb/SP Marc_Livi_Drus_Libó/NP i/CC va/VA obtenir/VM la/DA província/NC de/SP Pamfília/NP que/PR va/VA governar/VM tres/ZZ anys/NC fins/SP que/CS August/NP el/PP va/VA cridar/VM el/DA 11/ZZ aC/NC i/CC el/PP va/VA enviar/VM a/SP fer/VM la/DA guerra/NC contra/SP els/DA tracis/NC ;/FF després/RG d'/SP una/DI guerra/NC de/SP tres/ZZ anys/NC va/VA sotmetre/VM diverses/DI tribus/NC tràcies/NC i/CC va/VA obtenir/VM els/DA honors/NC de/SP el/DA triomf/NC ./FF
+Tiberi/NP li/PP va/VA continuar/VM mostrant/VM el/DA mateix/DI favor/NC que/PR August/NP ,/FF i/CC el/PP va/VA fer/VM nomenar/VM praefectus/NC urbi/VM càrrec/NC que/PR es/P0 diu/VM (/FF Tàcit/NP )/FF que/PR va/VA exercir/VM 20/ZZ anys/NC ,/FF opinió/NC però/CC que/CS no/RN compateix/VM Sèneca/NP ./FF
+En_general/RG es/P0 va/VA caracteritzar/VM per/SP la/DA seva/PX justícia/NC i/CC integritat/NC i/CC és/VS elogiat/VM per/SP Vel·lei_Patercle/NP ./FF
+Va/VA morir/VM l'/DA any/NC 32/ZZ amb/SP uns/DI 80/ZZ anys/NC i/CC fou/VS honorat/VM amb/SP funeral/NC públic/AQ ./FF
+a/SP el/DA moment/NC de/SP la/DA seva/PX mort/NC era/VS pontífex/NC ./FF
+Se/P0 sap/VM que/CS va/VA deixar/VM un/DI fill/NC de/SP nom/NC Luci/NP que/CS no/RN s'/P0 ha/VA pogut/VM identificar/VM amb/SP cap/NC de/SP els/DA Pisons/NP coneguts/NC ./FF
+Els/DA set/ZZ turons/NC de/SP Roma/NP són/VS una/DI sèrie/NC de/SP promontoris/NC que/PR històricament/RG han/VA format/VM el/DA cor/NC de/SP la/DA ciutat/NC de/SP Roma/NP ./FF
+Situats/VM a/SP l'/DA est/NC de/SP el/DA riu/NC Tiber/NP ,/FF aquest/DD conjunt/NC geogràfic/AQ ha/VA protagonitzat/VM nombrosíssims/AQ passatges/NC literaris/AQ i/CC són/VS una/DI referència/NC reiterada/VM en/SP la/DA cultura/NC popular/AQ ./FF
+Els/DA set/ZZ turons/NC de/SP la/DA Roma/NP antiga/AQ eren/VS ,/FF en/SP el/DA sentit/NC de/SP les/DA agulles/NC de/SP el/DA rellotge/NC ,/FF el/DA Palatí/NP (/FF Mons/NC Palatinus/NP )/FF ,/FF el/DA Capitoli/NP (/FF Mons/NC Capitolinus/NP )/FF ,/FF el/DA Quirinal/NP (/FF Collis/VM Quirinalis/NP )/FF ,/FF el/DA Viminal/NP (/FF Collis/VM Viminalis/NP )/FF ,/FF l'/DA Esquilí/NP (/FF Mons/NC Esquilinus/NP )/FF ,/FF el/DA Celi/NP (/FF Mons/NC Caelius/NP )/FF i/CC l'/DA Aventí/NP (/FF Mons/NC Aventinus/NP )/FF ,/FF i/CC figuren/VM de/SP forma/NC prominent/AQ en/SP la/DA mitologia/NC romana/AQ ,/FF la/DA seva/PX religió/NC i/CC la/DA seva/PX política/NC ;/FF tradicionalment/RG ,/FF es/P0 pensa/VM que/CS la/DA ciutat/NC original/AQ va/VA ser/VS fundada/VM per/SP Ròmul/NP i/CC Rem/NP sobre/SP el/DA Palatí/NP ./FF
+Inicialment/RG els/DA set/ZZ turons/NC van/VA ser/VS ocupats/VM per/SP petits/AQ assentaments/NC que/PR es/P0 van/VA agrupar/VM i/CC van/VA formar/VM el/DA que/PR després/RG va/VA ser/VS conegut/VM com/CS la/DA ciutat/NC de/SP Roma/NP ./FF
+Altres/DI turons/NC ./FF
+a/SP el/DA Trastevere/NP s'/P0 hi/PP troben/VM els/DA turons/NC Vaticà/NP (/FF Collis/VM Vaticanus/NP )/FF i/CC Janícul/NP (/FF Ianiculum/NP )/FF ,/FF que/PR no/RN es/P0 compten/VM entre/SP els/DA set/ZZ turons/NC tradicionals/AQ ./FF
+També/RG hi/PP ha/VA el/DA Pi

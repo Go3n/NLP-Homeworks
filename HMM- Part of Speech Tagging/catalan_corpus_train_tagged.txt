@@ -21574,4 +21574,96 @@ Friedrich_Anton_Wilhelm_Miquel/NP (/FF Neuenhaus/NP ,/FF 24_d'_octubre_del_1811/
 Actualment/RG ,/FF en/SP botànica/NC se/P0 'l/PP cita/VM com/CS a/SP autoritat/NC taxonòmica/AQ amb/SP l'/DA abreviatura/NC Miq/NP ./FF ./FF
 Biografia/NP ./FF
 Es/P0 doctorà/VM en/SP medicina/NC a/SP la/DA universitat/NC de/SP Groningen/NP el/DA 1833/ZZ ,/FF i/CC durant/SP ./FF
-Dirigí/VM els/DA 
+Dirigí/VM els/DA jardins/NC botànics/AQ de/SP Rotterdam/NP (/FF 1835/ZZ 1846/ZZ )/FF ,/FF Amsterdam/NP (/FF 1846/ZZ 1859/ZZ )/FF i/CC Utrecht/NP (/FF 1859/ZZ 1871/ZZ )/FF ./FF
+a/SP el/DA 1846/ZZ començà/VM a/SP treballar/VM com/CS a/SP professor/NC de/SP botànica/NC a/SP la/DA universitat/NC d'/SP Amsterdam/NP ,/FF d'/SP on/PR el/DA 1859/ZZ passà/VM a/SP la/DA universitat/NC d'/SP Utrecht/NP ,/FF i/CC gestionà/VM el/DA Rijksherbarium_de_Leiden/NP a_partir_de/SP el/DA 1862/ZZ ./FF
+Es/P0 dedicà/VM a/SP la/DA taxonomia/NC vegetal/AQ ,/FF especialment/RG de/SP les/DA colònies/NC holandeses/AQ de/SP l'/DA època/NC ./FF
+Malgrat_que/CS mai/RG no/RN viatjà/VM a/SP ultramar/NC ,/FF acumulà/VM una/DI gran/AQ col·lecció/NC de/SP flora/NC australiana/AQ i/CC de/SP les/DA Índies_Holandeses_Orientals/NP gràcies_a/SP un/DI extens/AQ seguit/NC de/SP corresponsals/NC ./FF
+Fou/VS autor/NC de/SP les/DA descripcions/NC d'/SP un/DI gran/AQ nombre/NC de/SP famílies/NC de/SP plantes/NC australianes/AQ i/CC indonèsies/AQ ,/FF incloent/VM -hi/PP Casuarinaceae/NP ,/FF Myrtaceae/NP ,/FF Piperaceae/NP i/CC Polygonaceae/NP ,/FF amb/SP 7000/ZZ noms/NC nous/AQ ./FF
+Obres/NC ./FF
+Genera/VM Cactearum_Rotterdam/NP ,/FF 1839/ZZ ;/FF Monographia_Cycadearum_Utrecht/NP ,/FF 1842/ZZ ;/FF Systema_Piperacearum/NP Rotterdam,1843-1844/ZZ ;/FF Illustrationes_Piperacearum_Bonn/NP ,/FF 1847/ZZ ;/FF Cycadeae/NP quaedam/NC Americanae/NP ,/FF partim/VM novae/VM Amsterdam/NP ,/FF 1851/ZZ ;/FF Flora_Indiae/NP batavae/VM Amsterdam/NP ,/FF 1855-1859/ZZ ;/FF De_Palmis_Archipelagi_Indici/NP observationes/NC novae/AQ Amsterdam/NP ,/FF 1868/ZZ ;/FF
+La/DA batalla/NC de/SP Stallupönen/NP fou/VS la/DA primera/AO batalla/NC lliurada/VM a/SP el/DA front/NC oriental/AQ de/SP la/DA Primera_Guerra_Mundial/NP ,/FF que/PR tingué_lloc/VM el/DA 17_d'_agost_de_1914/WW entre/SP el/DA I/NP exèrcit/NC rus/AQ sota/SP el/DA comandament/NC de/SP Paul/NP von/VM Rennenkampf/NP i/CC el/DA 1r/AO cos/NC de/SP el/DA VIII/NP exèrcit/NC alemany/AQ ,/FF sota/SP el/DA comandament/NC de/SP Hermann/NP von/VM François/NP ./FF
+Situació/NC inicial/AQ ./FF
+A/SP mitjan/VM el/DA mes_d'_agost_de_1914/WW ,/FF molt/RG poc/RG després/RG de/SP desencadenar/VM -se/P0 les/DA hostilitats/NC entre/SP Rússia/NP i/CC Alemanya/NP ,/FF l'/DA exèrcit/NC rus/AQ havia/VA iniciat/VM la/DA invasió/NC de/SP els/DA territoris/NC alemanys/AQ de/SP la/DA Prússia_Oriental/NP ./FF
+El/DA pla/NC rus/AQ consistia/VM en/SP una/DI penetració/NC per/SP el/DA nord-est/NC de/SP el/DA I/NP exèrcit/NC de/SP Paul/NP von/VM Rennenkampf/NP ,/FF amb/SP l'/DA objectiu/NC de/SP capturar/VM la/DA ciutat/NC alemanya/AQ de/SP Königsberg/NP i/CC finalment/RG enllaçar/VM ,/FF en/SP un/DI moviment/NC de/SP pinça/NC ,/FF amb/SP el/DA II/NP exèrcit/NC sota/SP el/DA comandament/NC d'/SP Aleksandr_Samsónov/NP ,/FF que/PR havia/VA de/SP penetrar/VM per/SP el/DA sud-oest/NC ./FF
+Això/PD suposaria/VM l'/DA ocupació/NC completa/AQ de/SP tot/DI el/DA territori/NC prussià/AQ oriental/AQ ,/FF escurçant/VM notablement/RG el/DA front/NC en/SP benefici/NC de/SP Rússia/NP ,/FF que/PR veuria/VM alleugerida/VM qualsevol/DI possible/AQ pressió/NC de/SP les/DA potències/NC centrals/AQ cap/NC a/SP Polònia/NP i/CC Varsòvia/NP ./FF
+Tal/PD com/PR preveia/VM el/DA pla/NC Schlieffen/NP ,/FF els/DA alemanys/NC van/VA iniciar/VM la/DA guerra/NC establint/VM a/SP l'/DA est/NC únicament/RG un/DI feble/AQ cordó/NC defensiu/AQ ,/FF ja_que/CS la/DA major/AQ part/NC de/SP les/DA tropes/NC alemanyes/AQ havien/VA estat/VS desplegades/VM a/SP el/DA front/NC occidental/AQ ,/FF amb/SP la/DA intenció/NC de/SP derrotar/VM ràpidament/RG a/SP els/DA exèrcits/NC francesos/AQ ,/FF per/SP a/SP després/RG encaminar/VM -se/P0 cap/NC a/SP el/DA front/NC oriental/AQ i/CC acabar/VM amb/SP els/DA exèrcits/NC russos/AQ ./FF
+No/RN obstant/VM això/PD ,/FF el/DA general/AQ Hermann/NP von/VM François/NP ,/FF comandant/VM en/SP cap/NC de/SP el/DA 1r/AO cos/NC d'/SP eExèrcit/NC ,/FF pertanyent/VM a/SP el/DA VIII/NP exèrcit/NC alemany/AQ ,/FF estava/VM convençut/VM que/CS les/DA seves/PX tropes/NC ,/FF amb/SP un/DI millor/AQ entrenament/NC i/CC més/RG ben/RG equipades/VM que/CS les/DA tropes/NC russes/AQ ,/FF es/P0 trobaven/VM en/SP una/DI situació/NC idònia/AQ per/SP alentir/VM ,/FF o/CC fins_i_tot/RG paralitzar/VM definitivament/RG ,/FF l'/DA avenç/NC de/SP les/DA tropes/NC russes/AQ de/SP Rennenkampf/NP ./FF
+Desenvolupament/NP ./FF
+Així/RG ,/FF el/DA 17_d'_agost/WW ,/FF von/VM François/NP es/P0 va/VA enfrontar/VM a/SP els/DA russos/NC malgrat_que/CS això/PD contravenia/VM les/DA instruccions/NC que/PR havia/VA rebut/VM de/SP el/DA seu/PX superior/AQ ,/FF el/DA comandant/NC en/SP cap/NC de/SP el/DA VIII_Exèrcit/NP alemany/AQ ,/FF Maximilian/NP von/VM Prittwitz/NP ;/FF instruccions/NC que/PR consistien/VM a/SP iniciar/VM la/DA retirada/NC més/RG enllà/RG de/SP el/DA Vístula/NP si/CS els/DA russos/NC exercien/VM pressió/NC sobre/SP el/DA seu/PX front/NC de/SP batalla/NC ./FF
+Quan/CS Prittwitz/NP va/VA tenir/VM coneixement/NC que/PR von/VM François/NP havia/VA entaulat/VM combat/NC amb/SP les/DA tropes/NC russes/AQ ,/FF li/PP va/VA enviar/VM un/DI emissari/NC per/SP ordenar/VM -li/PP trencar/VM el/DA contacte/NC amb/SP Rennenkampf/NP i/CC procedir/VM a/SP la/DA retirada/NC cap/NC a/SP altres/DI posicions/NC a/SP la/DA rereguarda/NC alemanya/AQ ./FF
+En/SP aquell/DD moment/NC ,/FF les/DA tropes/NC de/SP von/NC François/NP estaven/VM massa/RG compromeses/VM en/SP la/DA lluita/NC com/CS per/SP efectuar/VM una/DI retirada/NC sense/SP córrer/VM el/DA risc/NC que/CS això/PD es/P0 traduís/VM en/SP una/DI desbandada/NC general/AQ i/CC ,/FF de_tota_manera/RG ,/FF von/VM François/NP tampoc/RG no/RN tenia/VM la/DA més/RG mínima/AQ intenció/NC de/SP respectar/VM les/DA ordres/NC rebudes/NC ./FF
+Quan/CS encara/RG el/DA resultat/NC de/SP la/DA batalla/NC era/VS incert/AQ ,/FF von/VM François/NP ,/FF amb/SP l'/DA estil/NC agressiu/AQ que/PR li/PP era/VS característic/AQ ,/FF va/VA llançar/VM una/DI ofensiva/NC de/SP gran/AQ envergadura/NC en/SP tota/DI la/DA línia/NC de/SP batalla/NC ,/FF que/PR aconseguí/VM trencar/VM les/DA línies/NC russes/AQ i/CC infligir/VM -los/PP una/DI greu/AQ derrota/NC ,/FF amb/SP unes/DI 5.000/ZZ baixes/NC i/CC 3.000/ZZ presoners/NC ./FF
+Mentre/CS les/DA tropes/NC russes/AQ retrocedien/VM cap/NC a/SP l'/DA altre/DI costat/NC de/SP la/DA frontera/NC per/SP reorganitzar/VM -se/PP ,/FF von/VM François/NP va/VA obeir/VM finalment/RG les/DA ordres/NC de/SP Prittwitz/NP i/CC es/P0 va/VA retirar/VM uns/DI 20_quilòmetres/ZZ cap/NC a/SP l'/DA oest/NC ,/FF prenent/VM posicions/NC a/SP els/DA voltants/NC de/SP Gumbinnen/NP ,/FF on/PR poc/RG després/RG es/P0 produiria/VM la/DA batalla/NC de/SP Gumbinnen/NP ./FF
+Referències/NP ./FF
+Stevenson/NP ,/FF D./NP 1914-1918/ZZ ./FF
+The_History/NP of/NC the/AQ First_World_War/NP (/FF Penguin/NP ,/FF 2004/ZZ )/FF ./FF
+Batalla_de_Stallupönen/NP a/SP FirstWorldWar/NP ./FF com/CS ./FF ;/FF
+Thomas_Aniès/NP és/VS un/DI jugador/NC de/SP rugbi/NC a/SP XV/NP nascut/VM a/SP Perpinyà/NP el/DA 27_de_març_de_1986/WW ,/FF que/PR ocupa/VM la/DA posició/NC de/SP centre/NC ./FF
+Forma_part/VM de/SP la/DA Unió_Esportiva_Arlequins_de_Perpinyà/NP ./FF
+Carrera/NC esportiva/AQ ./FF
+Club/NP ./FF
+USAP/NP ;/FF Equips/NP nacionals/AQ ./FF
+Internacional/AQ amb/SP la/DA selecció/NC de/SP França/NP sub21/ZZ la/DA temporada/NC 2005-2006/ZZ (/FF contra/SP l'/DA equip/NC d'/SP Irlanda_A/NP )/FF ;/FF Internacional/NP de/SP rugbi/NC a/SP 7/ZZ la/DA temporada/NC 2005-2006/ZZ ./FF
+Participació/NP en/SP els/DA tornejos/NC de/SP Dubai/NP i/CC George/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Fitxa/NP de/SP el/DA jugador/NC a/SP l'/DA USAP/NP ;/FF Estadístiques/NP a/SP itsrugby/NC ./FF fr/NC ;/FF
+Entre/SP el/DA 6/ZZ i/CC el/DA 12_d'_octubre_de_2002/WW es/P0 disputà/VM a/SP Paços_de_Ferreira/NP (/FF Portugal/NP )/FF el/DA 6è/AO Campionat_de_el_Món/NP d'/SP hoquei/NC patins/NC femení/AQ ./FF
+Participants/NP ./FF
+Fase_Regular/NP ./FF
+Els/DA horaris/NC corresponen/VM a/SP l'/DA hora/NC de/SP Portugal/NP (/FF zona/NC horària/AQ :/FF UTC/NP +/FF 1/ZZ )/FF ,/FF a/SP els/DA Països_Catalans/NP són/VS 1/ZZ hora/NC més/RG ./FF
+Llegenda/NP ./FF
+En/SP les/DA taules/NC següents/AQ :/FF Grup_A._Grup_B._Grup_C._Grup_D._Fase_Final/NP ./FF
+de/SP el/DA novè/AO a/SP el/DA setzè/AO lloc/NC ./FF
+Quarts/NP de/SP final/NC ./FF
+de/SP el/DA tretzè/AO a/SP el/DA setzè/AO lloc/NC ./FF
+de/SP el/DA novè/AO a/SP el/DA dotzè/AO lloc/NC ./FF
+de/SP el/DA cinquè/AO a/SP el/DA vuitè/AO lloc/NC ./FF
+Semifinals/NP ./FF
+Quinzè/AO i/CC setzè/AO lloc/NC ./FF
+Tretzè/NP i/CC catorzè/AO lloc/NC ./FF
+Onzè/AO i/CC dotzè/AO lloc/NC ./FF
+Novè/AO i/CC desè/AO lloc/NC ./FF
+Setè/AO i/CC vuitè/AO lloc/NC ./FF
+Cinquè/AO i/CC sisè/AO lloc/NC ./FF
+Tercer/AO i/CC quart/AO lloc/NC ./FF
+Final/NP ./FF
+Classificació/NC final/AQ ./FF
+Enllaços/NC externs/AQ ./FF
+Fotos/NP i/CC resultats/NC de/SP el/DA Campionat/NP ;/FF
+Un/DI Filtre/NP passaalt/AQ és/VS un/DI filtre/NC electrònic/AQ que/PR permet/VM el/DA pas/NC de/SP les/DA altes/AQ freqüències/NC amb/SP poques/DI dificultats/NC o/CC fins_i_tot/RG amplificant/VM el/DA senyal/NC (/FF en/SP els/DA filtres/NC actius/AQ ,/FF però/CC que/PR atenua/VM ,/FF és/VS a/SP dir/VM ,/FF redueix/VM l'/DA amplitud/NC ,/FF de/SP els/DA senyals/NC de/SP freqüències/NC més/RG baixes/AQ que/CS la/DA freqüència/NC de/SP tall/NC ,/FF definida/VM per/SP el/DA dissenyador/NC ./FF
+El/DA filtre/NC passaalt/AQ té/VM la/DA funció/NC contrària/AQ de/SP el/DA filtre/NC passabaix/AQ ,/FF i/CC la/DA combinació/NC de/SP els/DA dos/ZZ filtres/NC esmentats/VM dóna/VM com/CS a/SP resultat/NC un/DI filtre/NC passabanda/NC ./FF
+Filtre/NP passaalt/AQ de/SP primer/AO orde/NC ./FF
+El/DA filtre/NC passaalt/AQ passiu/AQ més/RG simple/AQ consisteix/VM en/SP un/DI condensador/NC en/SP sèrie/NC a/SP la/DA senyal/NC d'/SP entrada/NC i/CC amb/SP una/DI resistència/NC en_paral·lel/RG a/SP l'/DA entrada/NC d'/SP aquesta/DD senyal/NC ,/FF tal_i_com/CS es/P0 mostra/VM a/SP la/DA figura/NC ./FF
+Si/CS s'/P0 estudia/VM el/DA circuit/NC (/FF amb/SP components/NC ideals/AQ )/FF per/SP a/SP freqüències/NC molt/RG baixes/AQ que/PR tendeixen/VM a/SP la/DA continua/VM ,/FF veiem/VM que/CS el/DA condensador/NC es/P0 comporta/VM com/CS un/DI circuit/NC obert/VM ,/FF per/SP tant/RG no/RN deixarà/VM passar/VM el/DA corrent/NC a/SP la/DA resistència/NC ,/FF i/CC la/DA diferència/NC de/SP tensió/NC serà/VS zero/NC ./FF
+Per/SP a/SP freqüències/NC molt/RG altes/AQ ,/FF idealment/RG infinita/AQ ,/FF el/DA condensador/NC es/P0 comportarà/VM com/CS un/DI curtcircuit/NC ,/FF com/CS si/CS no/RN estigués/VM ,/FF per/SP tant/RG la/DA caiguda/NC de/SP tensió/NC en/SP la/DA resistència/NC serà/VS la/DA mateixa/DI que/CS la/DA tensió/NC d'/SP entrada/NC ,/FF el/DA que/PR significa/VM que/CS deixa/VM passar/VM tot/DI el/DA senyal/NC ./FF
+La/DA funció/NC de/SP transferència/NC de/SP el/DA filtre/NC és/VS :/FF El/DA producte/NC de/SP la/DA resistència/NC i/CC el/DA condensador/NC (/FF R×C/NP )/FF és/VS la/DA constant/NC de/SP temps/NC ,/FF el/DA recíproc/AQ de/SP el/DA qual/PR és/VS la/DA freqüència/NC de/SP ressonància/NC ,/FF on/PR el/DA mòdul/NC de/SP la/DA resposta/NC en/SP freqüència/NC baixa/AQ 3/ZZ dB/AQ respecte/NC el/DA ventall/NC de/SP freqüències/NC que/PR passen/VM :/FF On/PR f/NC es/P0 mesura/NC en/SP hertzs/NC ,/FF en/SP segons/SP ,/FF R/NP en/SP Ohms/NP i/CC C/NP en/SP Farads/NP ./FF
+El/DA circuit/NC produeix/VM un/DI desfasatge/NC en/SP el/DA senyal/NC ,/FF tal_i_com/CS es/P0 pot/VM veure/VM a/SP la/DA figura/NC ./FF
+Aquest/PD ,/FF depèn/VM de/SP la/DA freqüència/NC f/NC de/SP el/DA senyal/NC :/FF Filtre/NC passaalt/AQ sense/SP atenuació/NC total/AQ ./FF
+Aquest/DD filtre/NC consisteix/VM en/SP substituir/VM el/DA condensador/NC anterior/AQ per/SP un/DI sistema/NC d'/SP un/DI condensador/NC i/CC una/DI resistència/NC en_paral·lel/RG ./FF
+En/SP aquest/DD cas/NC ,/FF la/DA funció/NC de/SP transferència/NC queda/VM :/FF Funció/NC de/SP transferència/NC bipolar/AQ ./FF
+Quan/CS estem/VM treballant/VM amb/SP filtres/NC passaalt/AQ de/SP segon/AO orde/NC és/VS útil/AQ treballar/VM amb/SP la/DA funció/NC de/SP transferència/NC bipolar/AQ següent/AQ :/FF On/PR :/FF és/VS el/DA factor/NC d'/SP amortiment/NC ./FF
+0/ZZ és/VS la/DA freqüència/NC de/SP tall/NC (/FF rad/NC //FF s/NC )/FF ./FF
+Que/CS és/VS la/DA funció/NC de/SP transferència/NC de/SP els/DA passaalt/AQ de/SP segon/AO orde/NC ./FF
+Aplicacions/NP ./FF
+Una/DI possible/AQ aplicació/NC de/SP el/DA filtre/NC pot/VM ser/VS la/DA de/SP redirigir/VM les/DA altes/AQ freqüències/NC cap/NC a/SP un/DI altaveu/NC de/SP sons/NC aguts/AQ en/SP sistemes/NC de/SP so/NC ,/FF per/SP a/SP que/CS els/DA sons/NC greus/AQ (/FF amb/SP freqüències/NC baixes/NC )/FF no/RN afectin/VM la/DA qualitat/NC de/SP el/DA senyal/NC ./FF
+Utilitzant/VM un/DI filtre/NC passabaix/AQ és/VS pot/VM redirigir/VM aquest/DD so/NC greu/AQ cap/NC a/SP altaveus/NC preparats/NC per/SP a/SP reproduir/VM aquesta/DD mena/NC de/SP sons/NC ./FF
+Els/DA filtres/NC passaalt/AQ i/CC passabaix/AQ s'/P0 utilitzen/VM en/SP el/DA processat/VM digital/AQ d'/SP imatges/NC per/SP a/SP dur_a_terme/VM transformacions/NC en/SP l'/DA espai/NC de/SP freqüències/NC ./FF
+La/DA majoria/NC de/SP filtres/NC passaalt/AQ no/RN tenen/VM guany/NC en/SP corrent/NC continu/AQ ./FF
+Per/SP això/PD un/DI filtre/NC passaalt/AQ amb/SP una/DI molt/RG baixa/AQ freqüència/NC de/SP tall/NC poden/VM ser/VS usats/VM per/SP bloquejar/VM la/DA constant/NC continua/VM no/RN desitjada/VM d'/SP un/DI senyal/NC ,/FF mentre/CS permet/VM el/DA pas/NC a/SP la/DA resta/NC de/SP senyals/NC ./FF
+Vegeu/VM també/RG ./FF
+Filtre/NC passiu/AQ ./FF
+Filtre/NP actiu/NC ./FF
+Filtre/NP bandaeliminada/NC ./FF
+Filtre/NC passabaix/AQ ./FF
+Filtre/NP passabanda/NC ./FF
+Enllaços/NC externs/AQ ./FF
+Filtre/NC passaalt/AQ ;/FF
+Física/NP ./FF
+Bar/NP ,/FF tipus/NC d'/SP unitat/NC de/SP pressió/NC ./FF
+Geografia/NP ./FF
+El/DA comtat/NC i/CC des_de/SP el/DA 1354/ZZ el/DA ducat/NC de/SP Bar/NP :/FF un/DI antic/AQ feu/NC de/SP França/NP ;/FF Bar/NP :/FF poble/NC de/SP el/DA municipi/NC de/SP el/DA Pont_de_Bar/NP ,/FF a/SP l'/DA Alt_Urgell/NP ./FF
+Bar/NP :/FF riu/NC de/SP França/NP ./FF
+Economia/NP ./FF
+Bar/NP :/FF paraula/NC anglesa/AQ adoptada/VM a/SP el/DA català/NC ,/FF per/SP anomenar/VM l'/DA establiment/NC comercial/AQ on/PR se/P0 serveixen/VM i/CC consumeixen/VM begudes/NC alcohòliques/AQ i/CC també/RG aperitius/AQ ./FF
+Personatges/NP ./FF
+Teobald_de_Bar/NP :/FF príncep-bisbe/NC de/SP el/DA principat/NC de/SP Lieja/NP de/SP 1303

@@ -21733,4 +21733,90 @@ Aquesta/DD funció/NC té/VM la/DA particularitat/NC que/CS les/DA àrees/NC sot
 De/SP totes/DI formes/NC ,/FF per/SP a/SP la/DA distribució/NC normal/AQ estàndar/NC N/NP (/FF 0,1/ZZ )/FF existeix/VM una/DI taula/NC amb/SP els/DA valors/NC de/SP la/DA probabilitat/NC ja/RG calculats/VM ./FF
 Aquesta/DD taula/NC ens/PP proporciona/VM directament/RG la/DA probabilitat/NC per/SP a/SP valors/NC de/SP la/DA variable/NC aleatòria/AQ z/RG K/NP ,/FF éssent/AQ "/FF K/NP "/FF un/DI valor/NC donat/VM ./FF
 Quan/CS el/DA valor/NC de/SP probabilitat/NC que/PR busquem/VM no/RN és/VS z/RG K/NP ,/FF sinó/CC altres/DI valors/NC ,/FF o/CC valors/NC compresos/VM entre/SP altres/DI dos/ZZ ,/FF s/NC ha/VA de/SP mirar/VM a_partir_de/SP el/DA dibuix/NC quina/DT és/VS l/NC àrea/NC concreta/AQ a/SP calcular/VM i/CC reduir/VM el/DA seu/PX càlcul/NC a/SP un/PI que/PR figuri/VM a/SP la/DA taula/NC ./FF
-En/SP el/DA cas/NC que/CS la/DA pregunta/NC que/PR ens/PP plantegem/VM sigui/VS sobre/SP el/DA càlcul/NC de/SP probabilitats/NC dins/SP el/DA marc/NC d/AQ una/DI distibució/NC normal/AQ que/PR no/RN sigui/VS la/DA estàndar/NC ,/FF sinó/CC una/DI altra/PI N/NP (/FF ,/FF )/FF ,/FF llavors/RG per/SP poder/VM fer/VM els/DA càlculs/NC i/CC utilitzar/VM la/DA taula/NC de/SP la/DA N/NP (/FF 0,1/ZZ )/FF ,/FF hem/VA de/SP fer/VM prèviament/RG el/DA que/PR es/P0 diu/VM "/FF tipificar/VM la/DA variable/NC "/FF ,/FF que/PR consisteix/VM en/SP fer/VM el/DA canvi/NC mostrat
+En/SP el/DA cas/NC que/CS la/DA pregunta/NC que/PR ens/PP plantegem/VM sigui/VS sobre/SP el/DA càlcul/NC de/SP probabilitats/NC dins/SP el/DA marc/NC d/AQ una/DI distibució/NC normal/AQ que/PR no/RN sigui/VS la/DA estàndar/NC ,/FF sinó/CC una/DI altra/PI N/NP (/FF ,/FF )/FF ,/FF llavors/RG per/SP poder/VM fer/VM els/DA càlculs/NC i/CC utilitzar/VM la/DA taula/NC de/SP la/DA N/NP (/FF 0,1/ZZ )/FF ,/FF hem/VA de/SP fer/VM prèviament/RG el/DA que/PR es/P0 diu/VM "/FF tipificar/VM la/DA variable/NC "/FF ,/FF que/PR consisteix/VM en/SP fer/VM el/DA canvi/NC mostrat/VM per/SP la/DA fórmula/NC següent/AQ :/FF ;/FF a_on/RG x/RG representa/VM la/DA variable/NC aleatòria/AQ en/SP la/DA distribució/NC normal/AQ no/RN estàndar/VM ,/FF i/CC z/RG és/VS la/DA variable/NC ja/RG tipificada/VM ./FF
+Ajust/NP d/RG una/DI distribució/NC binomial/AQ per/SP una/DI normal/AQ ./FF
+En/SP molts/DI casos/NC pràctics/AQ ,/FF per/SP calcular/VM valors/NC de/SP probabilitat/NC que/PR responen/VM a/SP una/DI distribució/NC binomial/AQ B/NP (/FF n/NC ,/FF p/NC )/FF ,/FF pot/VM ser/VS interessant/AQ fer/VM -ho/PP realitzant/VM un/DI ajust/NC per/SP una/DI distribució/NC normal/AQ de/SP el/DA tipus/NC N/NP (/FF ,/FF 2/ZZ )/FF ,/FF éssent/VM la/DA mitjana/NC d/AQ aquesta/DD normal/AQ el/DA producte/NC np/NC ,/FF i/CC la/DA variància/NC el/DA producte/NC npq/AQ ./FF
+Això/PD simplifica/VM molt/RG els/DA càlculs/NC de/SP probabilitats/NC ,/FF i/CC evita/VM l/NC ús/NC de/SP la/DA fórmula/NC de/SP la/DA distribució/NC binomial/AQ ./FF
+Si/CS tenim_en_compte/VM que/CS la/DA distribució/NC binomial/AQ és/VS discreta/AQ (/FF amb/SP un/DI nombre/NC finit/VM de/SP valors/NC de/SP la/DA variable/NC aleatòria/AQ associada/NC )/FF ,/FF i/CC que/CS qualsevol/DI distribució/NC normal/AQ és/VS contínua/AQ (/FF amb/SP infinits/AQ valors/NC de/SP la/DA variable/NC aleatòria/AQ )/FF ,/FF per/SP poder/VM fer/VM l/NC ajust/NC anterior/AQ i/CC que/PR tenguin/VM sentit/NC els/DA resultats/NC ,/FF es/P0 requereix/VM que/CS el/DA nombre/NC de/SP valors/NC de/SP la/DA variable/AQ associada/NC a/SP la/DA distribució/NC binomial/AQ de/SP partida/NC sigui/VS prou/RG elevat/VM ./FF
+Aquest/DD cas/NC es/P0 produeix/VM quan/CS els/DA productes/NC np/NC i/CC nq/RG són/VS majors/AQ o/CC igual/AQ a/SP 5/ZZ ./FF
+En/SP aquest/DD cas/NC ,/FF doncs/RG ,/FF es/P0 fa/VM l/NC ajust/NC següent/AQ :/FF ;/FF i/CC així/RG podem/VM fer/VM els/DA càlculs/NC de/SP probabilitat/NC dins/SP l/NC ambit/NC d/AQ una/DI distribució/NC normal/AQ ,/FF caracteritzada/VM per/SP una/DI mitjana/NC i/CC una/DI variància/NC Referències/NP ./FF
+Messier/NP 14/ZZ (/FF M14/ZZ o/CC NGC/NP 6402/ZZ )/FF és/VS un/DI cúmul/NC globular/AQ situat/VM en/SP la/DA constel·lació/NC de/SP Serpentari/NP ./FF
+Va_Ser/NP descobert/NC per/SP Charles_Messier/NP en/SP 1764/ZZ ./FF
+A/SP una/DI distància/NC d'/SP uns/DI 30.000/ZZ anys/NC llum/NC ,/FF M14/ZZ conté/VM unes/DI 100.000/ZZ estrelles/NC ./FF
+Amb/SP una/DI magnitud/NC de/SP 7.6/ZZ ,/FF pot/VM observar/VM -se/P0 fàcilment/RG amb/SP binoculars/NC ./FF
+Amb/SP telescopis/NC de/SP grandària/NC mitja/AQ es/P0 poden/VM veure/VM algunes/PI de/SP les/DA seves/PX estrelles/NC individuals/AQ ,/FF la/DA més/RG brillant/AQ de/SP les/DA quals/PR és/VS de/SP magnitud/NC 14ª/ZZ ./FF
+La/DA lluminositat/NC total/AQ de/SP M14/ZZ és/VS de/SP l'/DA ordre/NC de/SP 400.000/ZZ vegades/NC la/DA de/SP el/DA Sol/NP ,/FF el/DA que/PR es/P0 correspon/VM amb/SP una/DI magnitud/NC absoluta/AQ de/SP -9.12/ZZ ./FF
+La/DA forma/NC de/SP el/DA cúmul/NC és/VS clarament/RG allargada/NC ./FF
+M14/ZZ amida/NC uns/DI 100/ZZ anys/NC llum/NC d'/SP un/DI extrem/NC a/SP un/DI altre/PI ./FF
+La/DA seva/PX magnitud/NC conjunta/AQ en/SP banda/NC B/NP (/FF filtre/NC blau/NC )/FF és/VS igual/AQ a/SP la/DA 9.55/ZZ ,/FF la/DA seva/PX magnitud/NC en/SP banda/NC V/NP (/FF filtre/NC verd/AQ )/FF és/VS igual/AQ a/SP la/DA 8.32/ZZ ;/FF el/DA seu/PX tipus/NC espectral/AQ és/VS F4/ZZ :/FF fotogràficament/RG s'/P0 aprecia/VM de/SP color/NC groguenc/AQ a_causa_de/SP la/DA gran/AQ quantitat/NC d'/SP estrelles/NC gegants/AQ vermelles/AQ (/FF de/SP color/NC groguenc/AQ o/CC daurat/NC )/FF que/PR conté/VM ./FF
+De/SP la/DA seva/PX velocitat/NC radial/AQ ,/FF -111.1_km_/_s/ZZ ,/FF es/P0 dedueix/VM que/CS s'/P0 aproxima/VM a/SP la/DA Terra/NP a/SP uns/DI 399/ZZ 960_km_/_h/ZZ :/FF aquesta/DD velocitat/NC està/VM originada/VM per/SP la/DA combinació/NC de/SP la/DA seva/PX velocitat/NC orbital/AQ a/SP el/DA voltant/NC de/SP el/DA nucli/NC de/SP la/DA Via_Làctia/NP ,/FF a/SP més/RG de/SP la/DA velocitat/NC pròpia/AQ de/SP el/DA Sol/NP i/CC de/SP la/DA Terra/NP ./FF
+Hi/PP ha/VA 90/ZZ estrelles/NC variables/AQ conegudes/NC en/SP M14/ZZ ,/FF la/DA majoria/NC de/SP el/DA tipus/NC W._Virginis/NP força/RG comuns/AQ en/SP els/DA cúmuls/NC globulars/AQ ./FF
+En/SP 1938/ZZ va/VA aparèixer/VM una/DI nova/AQ en/SP aquest/DD cúmul/NC ,/FF encara/RG que/CS no/RN va/VA ser/VS descoberta/NC fins/SP que/PR es/P0 van/VA revelar/VM plaques/NC fotogràfiques/AQ de/SP l'/DA època/NC en/SP 1964/ZZ ./FF
+Es/P0 calcula/VM que/CS la/DA nova/AQ va/VA arribar/VM la/DA seva/PX lluentor/NC màxima/AQ de/SP magnitud/NC +9.2/ZZ ,/FF més/RG de/SP 5/ZZ vegades/NC més/RG brillant/AQ que/CS qualsevol/DI altra/DI estrella/NC "/FF normal/AQ "/FF en/SP el/DA cúmul/NC ./FF
+Conté/VM també/RG algunes/DI variables/NC de/SP llarg/AQ període/NC ;/FF només/RG les/DA més/RG brillants/AQ són/VS assequibles/AQ per/SP a/SP els/DA afeccionats/NC a/SP condició/NC d'/SP utilitzar/VM una/DI càmera/NC CCD/NP per/SP a/SP capturar/VM -les/PP ./FF
+A/SP uns/DI 3°/ZZ a/SP el/DA sud-oest/NC de/SP M14/ZZ es/P0 troba/VM el/DA feble/AQ cúmul/NC globular/AQ NGC/NP 6366/ZZ ./FF
+Enllaços/NC externs/AQ ./FF
+Dades/NC astrònimques/AQ SIMBAD/NP ;/FF SEDS_Pàgines/NP sobre/SP M14/ZZ ;/FF
+Livio_Isotti/NP (/FF Pesaro/NP ,/FF 29_de_juny_de_1927/WW -/FF Hamilton/NP ,/FF Canadà/NP ,/FF 19_de_setembre_de_1999/WW )/FF va/VA ser/VS un/DI ciclista/NC italià/AQ que/CS fou/VS professional/AQ entre/SP 1950/ZZ i/CC 1955/ZZ ./FF
+Destacà/VM com/CS a/SP gregari/NC de/SP Fiorenzo_Magni/NP ,/FF aconseguint/VM 9/ZZ victòries/NC ,/FF entre/SP les/DA que/PR destaca/VM una/DI etapa/NC de/SP el/DA Tour_de_França/NP ./FF
+Palmarès/NP ./FF
+1949/ZZ ;/FF 1r/AO a/SP el/DA Giro_de_Puglia/NP i/CC Lucania/NP i/CC vencedor/AQ de/SP 2/ZZ etapes/NC ;/FF 1950/ZZ ;/FF 1r/AO a/SP el/DA Giro_de_Romanya/NP ;/FF 1952/ZZ ;/FF 1r/AO a/SP el/DA Gran_Premi_Ceramisti/NP -/FF Ponzano_Magra/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP la/DA Volta/NP a/SP Castella/NP ;/FF 1953/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Tour_de_França/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_de_Sicília/NP ;/FF 1954/ZZ ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Giro_de_Sicília/NP ;/FF Resultats/NP a/SP el/DA Giro_d'_Itàlia/NP ./FF
+1952/ZZ ./FF 20è/AO de/SP la/DA classificació/NC general/AQ ;/FF 1953/ZZ ./FF 40è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1953/ZZ ./FF 42è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès/NP i/CC biografia/NC de/SP Livio_Isotti/NP ;/FF Palmarès_de_Livio_Isotti/NP ;/FF
+El/DA Phyllostachys/NP bambusoides/AQ és/VS un/DI bambú/NC de/SP la/DA família/NC de/SP les/DA poàcies/NC ,/FF ordre/NC Poales/NP ,/FF subclasse/NC Liliidae/NP ,/FF classe/NC Liliopsida/NP ,/FF divisió/NC Magnoliophyta/NP ./FF
+Originari_de_la_Xina/NP i/CC la/DA Índia/NP ,/FF fou/VS introduït/VM a/SP el/DA Japó/NP en/SP temps/NC remots/AQ ./FF
+En/SP aquest/DD país/NC és/VS el/DA bambú/NC més/RG cultivat/VM per/SP la/DA seva/PX fusta/NC ,/FF molt/RG resistent/AQ i/CC elàstica/AQ ,/FF que/PR s'/P0 utilitza/VM en/SP l'/DA artesania/NC ./FF
+Els/DA brots/NC tendres/AQ són/VS molt/RG apreciats/VM en/SP la/DA gastronomia/NC ./FF
+Les/DA seves/PX fulles/NC s'/P0 usen/VM com/CS a/SP antipirètic/NC ./FF
+Característiques/NP ./FF
+Se/P0 'l/PP coneix/VM com/CS a/SP Madake/NP (/FF en/SP japonès/NC )/FF ,/FF Bambú/NP gegant/AQ o/CC Bambú/NP japonès/NC de/SP fusta/NC ./FF
+És/VS el/DA bambú/NC més/RG fort/AQ d'/SP entre/SP els/DA de/SP clima/NC temperat/VM ./FF
+Pot/VM assolir/VM els/DA 25_metres/ZZ d'/SP alçada/NC ,/FF encara/RG que/CS de/SP mitjana/NC només/RG en/SP fa/VM quinze/ZZ ,/FF i/CC el/DA seu/PX gruix/NC varia/VM entre/SP els/DA 10/ZZ i/CC 15_centímetres/ZZ ./FF
+Creix/NP molt/RG dret/NC ,/FF i/CC no/RN es/P0 vincla/VM en_direcció_a/SP el/DA sol/NC ./FF
+Suporta/VM una/DI temperatura/NC extrema/AQ de/SP -15ºC/ZZ ./FF
+De/SP tipus/NC perenne/AQ ,/FF les/DA seves/PX flors/NC són/VS hermafrodites/AQ i/CC és/VS pol·linitzat/VM per/SP el/DA vent/NC ./FF
+Floreix/VM rarament/RG ,/FF i/CC la/DA producció/NC de/SP llavors/RG deixa/VM la/DA planta/NC molt/RG afeblida/VM ./FF
+Vegeu/VM també/RG ./FF
+N'/PP hi/PP diverses/DI varietats/NC :/FF Phyllostachys/NP bambusoides/AQ "/FF Castillonis/NP "/FF ;/FF Phyllostachys/NP bambusoides/AQ "/FF Castillonis/NP inversa/AQ "/FF ;/FF Phyllostachys/NP bambusoides/AQ "/FF Holocrysa/NP "/FF ;/FF Phyllostachys/NP bambusoides/AQ "/FF Subvariegata/NP "/FF ;/FF Phyllostachys/NP bambusoides/AQ "/FF Tankate/NP "/FF ;/FF Enllaços/NP ./FF
+Descripció/NP i/CC usos/NC ;/FF
+Stanislas_Bober/NP (/FF Nanterre/NP ,/FF 12_de_març_de_1930/WW -/FF 8_de_juliol_de_1975/WW )/FF va/VA ser/VS un/DI ciclista/NC francès/AQ que/CS fou/VS professional/AQ entre/SP 1952/ZZ i/CC 1961/ZZ ./FF
+Durant/SP la/DA seva/PX carrera/NC esportiva/AQ aconseguí/VM 3/ZZ victòries/NC ,/FF sent/VM la/DA més/RG important/AQ una/DI etapa/NC a/SP el/DA Tour_de_França/NP de/SP 1953/ZZ ./FF
+Palmarès/NP ./FF
+1952/ZZ ;/FF 1r/AO a/SP la/DA París-Bourges/NP ;/FF 1953/ZZ ;/FF 1r/AO a/SP el/DA Circuit_de_l'_Indre/NP ;/FF Vencedor/NP d'/SP una/DI etapa/NC a/SP el/DA Tour_de_França/NP ;/FF Resultats/NP a/SP el/DA Tour_de_França/NP ./FF
+1953/ZZ ./FF 25è/ZZ de/SP la/DA classificació/NC general/AQ ./FF
+Vencedor/NP d'/SP una/DI etapa/NC ;/FF 1954/ZZ ./FF 51è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF 1955/ZZ ./FF
+Abandona/VM (/FF 6a/ZZ etapa/NC )/FF ;/FF 1956/ZZ ./FF
+Abandona/VM (/FF 14a/ZZ etapa/NC )/FF ;/FF 1957/ZZ ./FF
+Abandona/VM (/FF 16a/ZZ etapa/NC )/FF ;/FF 1958/ZZ ./FF 73è/ZZ de/SP la/DA classificació/NC general/AQ ;/FF Enllaços/NP externs/AQ ./FF
+Palmarès_de_Stanislas_Bober/NP ;/FF
+Ia_Orana_Maria/NP (/FF títol/NC original/AQ ,/FF en/SP tahitià/NC normalitzat/VM Ia/NP ora/VM na/DA Maria/NP )/FF ,/FF Ave_Maria/NP ,/FF és/VS un/DI quadre/NC de/SP Paul_Gauguin/NP fet/VM el/DA 1891/ZZ durant/SP la/DA seva/PX primera/AO estada/NC a/SP Tahití/NP ./FF
+Es/P0 conserva/VM a/SP el/DA Metropolitan_Museum/NP of/NC Art_de_Nova_York/NP ./FF
+Es/P0 coneix/VM per/SP la/DA referència/NC núm/NC ./FF 428/ZZ de/SP el/DA catàleg/NC de/SP Wildenstein/NP ./FF
+Representa/VM l'/DA escena/NC de/SP l'/DA Anunciació/NP amb/SP els/DA motius/NC traslladats/VM a/SP Tahití/NP ./FF
+El/DA títol/NC ,/FF destacat/VM en/SP majúscules/NC en/SP un/DI requadre/NC groc/AQ (/FF A/SP ORANA_MAR_A/NP )/FF ,/FF fa_referència/VM a/SP la/DA salutació/NC de/SP l'/DA àngel/NC Gabriel/NP a/SP la/DA Verge_Maria/NP ./FF
+Ia/NP ora/VM na/NC és/VS una/DI salutació/NC habitual/AQ en/SP tahitià/NC ,/FF i/CC Ia/NP ora/VM na/DA Maria/NP és/VS la/DA pregària/NC de/SP l'/DA Avemaria/NP ./FF
+Ara_bé/RG ,/FF la/DA presència/NC de/SP el/DA Nen_Jesús/NP podria/VM ser/VS una/DI evocació/NC de/SP l'/DA Adoració/NP de/SP els/DA pastors/NC ./FF
+Gauguin/NP ho/PP descriu/VM d'/SP aquesta/DD forma/NC :/FF Un/DI àngel/NC d'/SP ales/NC grogues/AQ indica/VM a/SP dues/ZZ dones/NC tahitianes/AQ a/SP Maria/NP i/CC Jesús/NP ,/FF tahitians/AQ també/RG ./FF
+Nus/NP vestits/NC amb/SP pareo/NC ,/FF espècie/NC de/SP cotonada/NC amb/SP flors/NC que/PR es/P0 lliga/VM com/CS es/P0 vol/VM a/SP la/DA cintura/NC ./FF
+Fons/NC de/SP muntanya/NC molt/RG obaga/AQ i/CC arbres/NC en/SP flors/NC ./FF
+Camí/NP violeta/NC fosc/AQ i/CC primer/AO pla/NC verd/AQ maragda/NC ;/FF a/SP l'/DA esquerra/NC uns/DI plàtans/NC ./FF
+N'/PP estic/VM bastant/RG satisfet/VM ./FF
+Els/DA habitants/NC de/SP el/DA districte/NC de/SP Mataeia/NP ,/FF on/PR s'/P0 havia/VA instal·lat/VM Gauguin/NP ,/FF eren/VS catòlics/AQ mentre_que/CC a/SP la/DA resta/NC de/SP l'/DA illa/NC eren/VS majoritàriament/RG protestants/AQ ./FF
+Gauguin/NP s'/P0 havia/VA interessat/VM per/SP el/DA sincretisme/NC entre/SP la/DA religió/NC tradicional/AQ i/CC la/DA cristiana/AQ ,/FF i/CC ho/PP representa/VM a/SP la/DA seva/PX forma/NC ./FF
+Dues/ZZ dones/NC tahitianes/AQ en/SP actitud/NC d'/SP oració/NC observen/VM a/SP Maria/NP i/CC el/DA Nen_Jesús/NP coronats/NC amb/SP aurèola/NC ./FF
+Darrera/AO ,/FF un/DI àngel/NC amb/SP ales/NC ./FF
+La/DA figura/NC de/SP Maria/NP destaca/VM per/SP ser/VS més/RG gran/AQ i/CC de/SP color/NC vermell/AQ ./FF
+Els/DA peus/NC grans/AQ i/CC els/DA rostres/NC amb/SP trets/NC molt/RG marcats/VM ,/FF ressalta/VM el/DA primitivisme/NC de/SP les/DA figures/NC ./FF
+El/DA paisatge/NC és/VS exuberant/AQ i/CC ric/AQ en/SP color/NC ./FF
+La/DA presència/NC de/SP els/DA fruits/NC exòtics/AQ en/SP primer/AO pla/NC són/VS més/RG una/DI ofrena/NC pagana/AQ que/CS cristiana/AQ ./FF
+La/DA posició/NC de/SP el/DA nen/NC a_collibè/RG sobre/SP una/DI espatlla/NC de/SP la/DA mare/NC resulta/VM estranya/AQ i/CC improbable/AQ ./FF
+Les/DA dues/ZZ figures/NC de/SP l'/DA esquerra/NC estan/VM copiades/VM d'/SP una/DI fotografia/NC de/SP els/DA relleus/NC de/SP el/DA temple/NC Borobudur/NP ,/FF de/SP Java/NP ,/FF que/PR representa/VM La/NP trobada/NC de/SP Buda/NP i/CC els/DA tres/ZZ Monjos/NP en/SP el/DA camí/NC de/SP Benares/NP ./FF
+La/DA figura/NC amb/SP el/DA pareo/NC blau/AQ la/PP va/VA tornar/VM a/SP reproduir/VM en/SP primer/AO pla/NC a/SP Parau_Parau/NP (/FF 1892/ZZ )/FF i/CC a/SP Haere_Pape/NP (/FF 1892/ZZ )/FF ./FF
+El/DA quadre/NC va/VA ser/VS venut/VM en/SP l'/DA exposició/NC de/SP el/DA famós/AQ marxant/NC Paul_Durant-Ruel/NP de/SP el/DA 1893/ZZ ./FF
+Des_de/SP el/DA 1951/ZZ és/VS a/SP el/DA Metropolitan_Museum/NP of/NC Art/NP llegat/NC per/SP l'/DA últim/AO propietari/NC ./FF
+Referències/NP ./FF
+El/DA Mixxx/NP és/VS un/DI programa/NC lliure/AQ per/SP a/SP fer/VM mescles/NC musicals/AQ en/SP temps/NC real/AQ ./FF
+Aquesta/DD mena/NC de/SP programes/NC són/VS utilitzats/VM sovint/RG per/SP els/DA Punxa_Discs/NP ,/FF en/SP anglès/NC Dj._El/NP projecte/NC va/VA començar/VM l'/DA any/NC 2001/ZZ per/SP part/NC d'/SP un/DI grup/NC de/SP punxa/NC discs/NC que/PR es/P0 van/VA veure/VM amb/SP la/DA necessitat/NC de/SP crear/VM un/DI programa/NC que/PR aprofités/VM l'/DA emmagatzemament/NC digital/AQ per/SP a/SP les/DA seves/PX actuacions/NC ,/FF i/CC dotar/VM de/SP l'/DA acció/NC de/SP punxar/VM d'/SP una/DI interficie/NC gràfica/AQ el/DA més/RG propera/AQ possible/AQ a/SP la/DA realitat/NC ./FF
+Avui/RG ,/FF el/DA projecte/NC és/VS mantingut/VM en/SP bona/AQ part/NC ,/FF per/

@@ -21952,4 +21952,81 @@ Secretariado_de_Publicaciones/NP e/NC Intercambio_Editorial/NP ,/FF 2002/ZZ ./FF
 (/FF ISBN/NP 84-8306-437-5/ZZ )/FF Abderramán_III/NP y/NC el/DA Califato_de_Córdoba_Editorial_Debate/NP ,/FF 2001/ZZ ./FF
 (/FF ISBN/NP 84-8448-043-7/ZZ )/FF Judíos/NP y/NC conversos/AQ en/SP la/DA Castilla/NP medieval/AQ Universidad_de_Valladolid/NP ./FF
 Secretariado_de_Publicaciones/NP e/NC Intercambio_Editorial/NP ,/FF 2000/ZZ ./FF
-(/FF ISBN/NP 84-8165-643-7/ZZ )/FF El_Camino_de_Santiago/NP en/SP coche/VM (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Anaya-Touring_Club/NP ,/FF
+(/FF ISBN/NP 84-8165-643-7/ZZ )/FF El_Camino_de_Santiago/NP en/SP coche/VM (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Anaya-Touring_Club/NP ,/FF 1999/ZZ ./FF ;/FF (/FF ISBN/NP 84-207-3814-X/ZZ )/FF La_Baja_Edad_Media_Grupo_Anaya/NP ,/FF S.A./NP ,/FF 1998/ZZ ./FF
+(/FF ISBN/NP 84-8165-554-6/ZZ )/FF El_Camino_de_Santiago/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Anaya-Touring_Club/NP ,/FF 1998/ZZ ./FF
+(/FF ISBN/NP 84-8173-051-3/ZZ )/FF Enrique_II_Diputación_Provincial_de_Palencia/NP ,/FF 1996/ZZ ./FF
+(/FF ISBN/NP 84-7679-288-3/ZZ )/FF La/NP apertura/NC de/SP Castilla/NP a/SP el/DA Atlántico/NP :/FF de/SP Alfonso_X/NP a/SP los/NC Reyes_Católicos_Historia/NP 16/ZZ ./FF
+Historia/VM Viva/NP ,/FF 1995/ZZ ./FF de/SP obra/NC completa/AQ :/FF T./NP 10/ZZ ;/FF (/FF ISBN/NP 84-8183-007-0/ZZ )/FF Judíos/NP ,/FF sefarditas/NC ,/FF conversos/AQ :/FF la/DA expulsión/NC de/SP 1492/ZZ y/NC sus/AQ consecuencias/NC (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1995/ZZ ./FF
+(/FF ISBN/NP 84-86770-95-5/ZZ )/FF Historia_de_Castilla/NP y/NC León_Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1993/ZZ ./FF
+(/FF ISBN/NP 84-7679-220-4/ZZ )/FF El/NP feudalismo/NC Historia/NP 16/ZZ ./FF
+Historia/VM Viva/NP ,/FF 1992/ZZ ./FF
+(/FF ISBN/NP 84-7662-039-X/ZZ )/FF Edad_Media/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ediciones_Universitarias_Nájera/NP ,/FF 1990/ZZ ./FF
+(/FF ISBN/NP 84-87119-05-0/ZZ )/FF Lugares/NP de/SP celebración/NC de/SP Cortes_de_Castilla/NP y/NC León_Castilla/NP y/NC León/NP ./FF
+Cortes/NP ,/FF 1990/ZZ ./FF
+(/FF ISBN/NP 84-7525-482-9/ZZ )/FF La/NP alta/AQ edad/RG media/VM Ediciones_Generales_Anaya/NP ,/FF S.A./NP ,/FF 1988/ZZ ./FF
+(/FF ISBN/NP 84-7525-444-6/ZZ )/FF La/NP baja/RG edad/RG media/VM Ediciones_Generales_Anaya/NP ,/FF S.A./NP ,/FF 1988/ZZ ./FF
+(/FF ISBN/NP 84-86770-14-9/ZZ )/FF En/NP defensa/VM de/SP la/DA historia/VM Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1988/ZZ ./FF
+(/FF ISBN/NP 84-7461-666-2/ZZ )/FF Plenitud_de_el_Medievo/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF S.A._de_Promoción/NP y/NC Ediciones/NP ,/FF 1986/ZZ ./FF de/SP obra/NC completa/AQ :/FF T./NP 12/ZZ ;/FF (/FF ISBN/NP 84-7461-667-0/ZZ )/FF Declive_de_de_la_Edad_Media_S.A._de_Promoción/NP y/NC Ediciones/NP ,/FF 1986/ZZ ./FF de/SP obra/NC completa/AQ :/FF T./NP 13/ZZ ;/FF (/FF ISBN/NP 84-7662-013-6/ZZ )/FF Gran_Historia_Universal/NP ./FF 13/ZZ ./FF
+Declive_de_la_Edad_Media/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ediciones_Universitarias_Nájera/NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-7662-011-X/ZZ )/FF La_Gran_Historia_Universal/NP ./FF 11/ZZ ./FF
+Principios_de_la_Edad_Media/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ediciones_Universitarias_Nájera/NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-7662-012-8/ZZ )/FF La_Gran_Historia_Universal/NP ./FF 12/ZZ ./FF
+Plenitud/NP de/SP el/DA medievo/NC (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ediciones_Universitarias_Nájera/NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-505-3366-X/ZZ )/FF Alfonso_X_el_Sabio_Castilla/NP y/NC León/NP ./FF
+Consejería_de_Educación/NP y/NC Cultura/NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-323-0188-4/ZZ )/FF Conflictos/NP sociales/NC en/SP el/DA reino/NC de/SP Castilla/NP en/SP los/NC siglos/NC XIV/NP y/NC XV_Siglo_XXI_de_España_Editores/NP ,/FF S.A./NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-86047-65-X/ZZ )/FF Historia_de_Castilla/NP y/NC León/NP ./FF 5/ZZ :/FF Crisis/NC y/NC recuperación/NC :/FF s./NC XIV-XV_Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-86047-67-6/ZZ )/FF La/NP época/NC de/SP el/DA auge/NC ./FF (/FF ss/AQ ./FF
+XIV-XVI/NP )/FF (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1986/ZZ ./FF
+(/FF ISBN/NP 84-86047-44-7/ZZ )/FF Historia_de_Castilla/NP y/NC León_Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1985/ZZ ./FF
+(/FF ISBN/NP 84-86047-54-4/ZZ )/FF Crisis/NP y/NC recuperación/NC (/FF siglos/NC XIV-XV/NP )/FF Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1985/ZZ ./FF de/SP obra/NC completa/AQ :/FF T./NP 5/ZZ ;/FF (/FF ISBN/NP 84-86047-00-5/ZZ )/FF Aproximación/NP histórica/AQ a/SP Castilla/NP y/NC León_Ámbito_Ediciones/NP ,/FF S.A./NP ,/FF 1985/ZZ ./FF
+(/FF ISBN/NP 84-85432-69-X/ZZ )/FF Historia/NP general/AQ de/SP la/DA Baja_Edad_Media_Ediciones_Universitarias_Nájera/NP ,/FF 1984/ZZ ./FF
+(/FF ISBN/NP 84-500-9692-8/ZZ )/FF Burgos/NP en/SP la/DA Edad_Media/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Castilla/NP y/NC León/NP ./FF
+Consejería_de_Educación/NP y/NC Cultura/NP ,/FF 1983/ZZ ./FF
+(/FF ISBN/NP 84-7465-046-1/ZZ )/FF Iniciación/NP a/SP la/DA historia/VM de/SP Castilla/NP y/NC León/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Nuestra_Cultura_Editorial/NP ,/FF 1982/ZZ ./FF
+(/FF ISBN/NP 84-300-3064-6/ZZ )/FF Iniciación/NP a/SP la/DA historia/VM de/SP Castilla-León_Colegio_Oficial_de_Doctores/NP y/NC Licenciados/NP en/SP Filosofía/NP y/NC Letras/NP y/NC en/SP Ciencias_de_Burgos/NP ,/FF 1980/ZZ ./FF
+(/FF ISBN/NP 84-7105-007-2/ZZ )/FF Historia/NP general/AQ de/SP la/DA Edad_Media/NP (/FF Siglos_XI/NP a/SP el/DA XV/NP )/FF Mayfe/NP ,/FF S.A./NP ,/FF 1971/ZZ ./FF
+(/FF ISBN/NP 84-00-02380-3/ZZ )/FF Los/NP judíos/AQ de/SP Castilla/NP y/NC la/DA revolución/NC Trastámara_Consejo_Superior_de_Investigaciones_Científicas/NP ,/FF 1968/ZZ ./FF
+(/FF ISBN/NP 84-7113-056-4/ZZ )/FF El_Reino_de_Castilla/NP en/SP la/DA Edad_Media_International_Book_Creation/NP ,/FF 1968/ZZ ./FF
+(/FF ISBN/NP 84-335-9424-9/ZZ )/FF Feudalismo/NP y/NC consolidación/NC de/SP los/NC publos/NC hispánicos/NC (/FF siglos/NC XI-XV/NP )/FF (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Editorial_Labor/NP ,/FF S.A./NP de/SP obra/NC completa/AQ :/FF T./NP 4/ZZ ;/FF (/FF ISBN/NP 84-239-8904-6/ZZ )/FF La_Baja_Edad_Media/NP peninsular/AQ ,/FF siglos/NC XIII/NP a/SP el/DA XV/NP (/FF Et/PP ./FF a/SP el/DA ./FF )/FF Espasa-Calpe/NP ,/FF S.A./NP de/SP obra/NC completa/AQ :/FF T./NP 12/ZZ ;/FF (/FF ISBN/NP 84-8183-136-0/ZZ )/FF Las/NP raíces/AQ medievales/NC de/SP Castilla/NP y/NC León_Ámbito_Edicionsa/NP ,/FF S.A./NP ,/FF 2004/ZZ ./FF
+El/DA Brasil/NP està/VM dividit/NC política/AQ i/CC administrativament/RG en/SP 27/ZZ unitats/NC federatives/AQ (/FF 26/ZZ Estats/NP i/CC un/DI districte/NC federal/AQ )/FF :/FF
+Màrius_García_Bonafé/NP (/FF Alcoi/NP ,/FF 1941/ZZ )/FF és/VS un/DI economista/NC valencià/AQ ./FF
+El/DA 1962/ZZ milità/VM a/SP el/DA PCE/NP i/CC fou/VS detingut/VM per/SP la/DA policia/NC per/SP repartir/VM octavetes/NC ./FF
+També/RG formà_part/VM de/SP el/DA cercle/NC de/SP Joan_Fuster/NP i/CC formà_part/VM de/SP el/DA grup/NC de/SP valencians/NC que/PR viatjà/VM a/SP Catalunya/NP el/DA 1962/ZZ amb/SP Lluís_Vicent_Aracil/NP i/CC Eliseu_Climent/NP ./FF
+Tot/RG i/CC mantenir/VM la/DA militància/NC amb/SP el/DA PCE/NP ,/FF es/P0 va/VA mantenir/VM proper/AQ a/SP el/DA Partit_Socialista_Valencià/NP i/CC fou/VS un/PI de/SP els/DA fundadors/NC de/SP els/DA Grups_d'_Acció/NP i/CC Reflexió_Socialista/NP el/DA 1973/ZZ i/CC de/SP el/DA PSPV/NP el/DA 1974/ZZ amb/SP Joan_Josep_Pérez_Benlloch/NP i/CC Vicent_Ventura/NP i/CC Beltran/NP ./FF
+El/DA 1976/ZZ va/VA obtenir/VM el/DA Premi_Joan_Fuster/NP d'/SP assaig/NC per/SP l'/DA obra/NC col·lectiva/AQ Raons/NP d'/SP identitat/NC de/SP el/DA País_Valencià/NP ./FF
+Pèls/NP i/CC senyals/NC ,/FF amb/SP Dolors_Bramon/NP ,/FF Teresa_Carnero/NP ,/FF J.A._Martínez-Serrano/NP i/CC Vicent_Soler/NP ./FF
+Ha/VA col·laborat/VM en/SP la/DA Universitat_Catalana_d'_Estiu/NP i/CC ha/VA publicat/VM articles/NC a/SP l'/DA Avenç/NP ./FF
+El/DA 1979/ZZ fou/VS responsable/NC de/SP publicacions/NC de/SP la/DA Institució_Alfons_el_Magnànim/NP i/CC actualment/RG és/VS professor/NC a/SP la/DA Universitat_d'_Alacant/NP ./FF
+També/RG fou/VS director/NC de/SP la/DA Institució_Valenciana_d'_Estudis/NP e/NC Investigació/NP ./FF
+Obres/NC ./FF
+Procés/NP industrial/AQ d'/SP Alcoi/NP (/FF 1974/ZZ )/FF ;/FF La/NP industrialización/NC valenciana/AQ :/FF historia/VM y/NC problemas/NC (/FF 1978/ZZ )/FF ;/FF La/NP pintura/NC està/VM plena/AQ de/SP coses/NC temibles/AQ (/FF 2000/ZZ )/FF a/SP L'_Espill/NP ;/FF La/NP protoindustrialització/NC i/CC la/DA indústria/NC rural/AQ espanyola/AQ a/SP el/DA segle_XVIII/WW (/FF 1983/ZZ )/FF ;/FF Història/NP de/SP l'/DA economia/NC valenciana/AQ (/FF 1983/ZZ )/FF ;/FF
+La/DA panspèrmia/NC és/VS la/DA teoria/NC segons/SP la/DA qual/PR l'/DA aparició/NC de/SP la/DA vida/NC a/SP la/DA Terra/NP és/VS d'/SP origen/NC extraterrestre/AQ ./FF
+Suggereix/VM que/CS les/DA "/FF llavors/NC "/FF o/CC l'/DA essència/NC de/SP la/DA vida/NC prevalen/VM disseminades/VM per/SP tot/DI l'/DA univers/NC i/CC que/CS la/DA vida/NC va/VA començar/VM a/SP la/DA Terra/NP gràcies_a/SP l'/DA arribada/NC de/SP tals/DD llavors/NC a/SP el/DA nostre/PX planeta/NC ./FF
+Aquestes/DD idees/NC tenen/VM el/DA seu/PX origen/NC en/SP algunes/PI de/SP les/DA consideracions/NC de/SP el/DA filòsof/NC grec/AQ Anaxàgores/NP ./FF
+El/DA terme/NC proposat/VM el/DA 1865/ZZ per/SP el/DA biòleg/NC alemany/AQ Hermann_Ritcher/NP deriva/VM de/SP el/DA grec/NC antic/AQ (/FF pan/AQ ,/FF que/PR vol/VM dir/VM "/FF tot/RG "/FF )/FF i/CC (/FF sperma/NC o/CC "/FF llavor/NC "/FF )/FF ./FF
+Va/VA ser/VS el/DA 1908/ZZ quan/CS el/DA químic/NC suec/AQ Svante_August_Arrhenius/NP va/VA usar/VM la/DA paraula/NC panspèrmia/NC per/SP explicar/VM el/DA començament/NC de/SP la/DA vida/NC a/SP la/DA terra/NC ./FF
+L'/DA astrònom/NC Fred_Hoyle/NP també/RG va/VA recolzar/VM aquesta/DD teoria/NC ./FF
+Pros/NP i/CC contres/NC de/SP la/DA teoria/NC ./FF
+Existeixen/VM evidències/NC de/SP bacteris/NC que/PR poden/VM sobreviure/VM llargs/AQ períodes/NC de/SP temps/NC fins_i_tot/RG a/SP l'/DA espai/NC exterior/AQ ,/FF la/DA qual/DR cosa/NC recolzaria/VM el/DA mecanisme/NC subjacent/AQ d'/SP aquest/DD procés/NC ./FF
+Estudis/NP recents/AQ a/SP l'/DA Índia/NP recolzen/VM la/DA hipòtesi/NC ./FF
+D'/SP altres/DI han/VA trobat/VM bacteris/NC en/SP l'/DA atmosfera/NC a/SP altituds/NC de/SP més/RG de/SP 40_km/ZZ on/PR ,/FF encara/RG que/CS no/RN s'/P0 espera/VM que/CS es/P0 produeixin/VM mescles/NC amb/SP capes/NC inferiors/AQ ,/FF poden/VM haver/VA arribat/VM des/SP d'/SP aquestes/DD ./FF
+Bacteris/NP de/SP l'/DA espècie/NC Streptococcus/NP mitis/NC que/PR el/DA 1967/ZZ van/VA anar/VM a/SP parar/VM accidentalment/RG a/SP la/DA Lluna/NP en/SP la/DA nau/NC Surveyor/NP 3/ZZ ,/FF van/VA poder/VM ser/VS reviscuts/VM ,/FF sense/SP dificultat/NC ,/FF tres/ZZ anys/NC després/RG ,/FF quan/CS van/VA ser/VS traslladats/VM a/SP la/DA Terra/NP ./FF
+Una/DI possible/AQ conseqüència/NC de/SP la/DA panspèrmia/NC seria/VS que/CS la/DA vida/NC tindria/VM una/DI base/NC bioquímica/AQ similar/AQ a/SP tot/DI l'/DA Univers/NP ,/FF llevat_que/CS hi/PP hagués/VM més/RG d'/SP una/DI font/NC original/AQ de/SP vida/NC ./FF
+El/DA major/AQ inconvenient/NC d'/SP aquesta/DD teoria/NC és/VS que/CS no/RN resol/VM el/DA problema/NC inicial/AQ de/SP com/CS va/VA sorgir/VM la/DA vida/NC ,/FF si/CS no/RN que/PR es/P0 limita/VM a/SP moure/VM la/DA responsabilitat/NC de/SP l'/DA origen/NC a/SP un/DI altre/DI lloc/NC ./FF
+Una/DI altra/PI objecció/NC a/SP la/DA panspèrmia/NC és/VS que/CS els/DA bacteris/NC no/RN sobreviurien/VM a/SP les/DA altíssimes/AQ temperatures/NC i/CC les/DA forces/NC involucrades/VM en/SP un/DI impacte/NC contra/SP la/DA Terra/NP ,/FF encara/RG que/CS no/RN s'/P0 ha/VA arribat/VM encara/RG a/SP posicions/NC concloents/AQ en/SP aquest/DD punt/NC ,/FF ni/CC a/SP favor/NC ni/CC en/SP contra/NC ,/FF ja_que/CS es/P0 coneixen/VM algunes/DI espècies/NC de/SP bacteris/NC capaços/AQ de/SP suportar/VM condicions/NC de/SP radiació/NC ,/FF temperatura/NC i/CC pressió/NC extremes/AQ que/PR fan/VM pensar/VM que/CS la/DA vida/NC pugui/VM adquirir/VM formes/NC insospitadament/RG resistents/AQ ./FF
+L'/DA anàlisi/NC de/SP el/DA meteorit/NC Yekina/NP ,/FF generalment/RG considerat/VM com/CS originat/VM a/SP el/DA planeta/NC Mart/NP ,/FF suggereix/VM que/CS conté/VM estructures/NC que/PR podrien/VM haver/VA estat/VS causades/VM per/SP formes/NC de/SP vida/NC microscòpica/AQ ./FF
+Aquesta/DD és/VS fins/RG a/SP la/DA data/NC l'/DA única/AQ indicació/NC de/SP vida/NC extraterrestre/AQ i/CC encara/RG és/VS motiu/NC de/SP controvèrsia/NC ./FF
+La/DA pluja/NC vermella/AQ sobre/SP Kerala/NP ./FF
+Un/DI altre/DI fet/NC que/PR es/P0 vincula/VM amb/SP la/DA panspèrmia/NC és/VS l'/DA estranya/AQ pluja/NC que/PR va/VA caure/VM sobre/SP la/DA província/NC de/SP Kerala/NP ,/FF a/SP l'/DA Índia/NP ,/FF entre/SP juliol/WW i/CC setembre/WW de/SP l'/DA any/NC 2001/ZZ ./FF
+L'/DA esmentada/VM pluja/NC ,/FF de/SP color/NC vermell/AQ ,/FF que/PR en/SP alguns/DI casos/NC semblava/VM sang/NC ,/FF contenia/VM cèl·lules/NC aparentment/RG sense/SP ADN/NP ,/FF amb/SP un/DI aspecte/NC molt/RG similar/AQ a/SP els/DA eritròcits/NC de/SP la/DA sang/NC humana/AQ ./FF
+Godfrey_Louis/NP ,/FF ajudat/VM per/SP els/DA seus/PX estudiants/NC ,/FF van/VA recollir/VM mostres/NC de/SP l'/DA esmentada/VM pluja/NC i/CC van/VA concloure/VM que/CS les/DA cèl·lules/NC van/VA provenir/VM de/SP l'/DA espai/NC exterior/AQ a/SP través/NC d'/SP un/DI cometa/NC ,/FF la/DA qual/DR cosa/NC ,/FF en_síntesi/RG ,/FF significa/VM que/CS la/DA pluja/NC vermella/AQ de/SP Kerala/NP seria/VS una/DI prova/NC de/SP la/DA panspèrmia/NC ./FF
+A/SP ell/PP es/P0 va/VA afegir/VM Chandra_Wickramasinghe/NP ,/FF company/NC de/SP Fred_Hoyle/NP ,/FF que/PR va/VA recolzar/VM la/DA teoria/NC de/SP la/DA panspèrmia/NC ./FF
+Ell/PP mateix/DI afirma/VM haver/VA trobat/VM l'/DA ADN/NP a/SP les/DA cèl·lules/NC de/SP l'/DA esmentada/VM pluja/NC ./FF
+Això/PD és/VS negat/NC per/SP el/DA microbiòleg/NC Milton_Wainwrigh/NP ,/FF que/PR no/RN va/VA trobar/VM rastres/NC de/SP l'/DA ADN/NP i/CC que/PR afirma/VM que/CS la/DA pluja/NC vermella/AQ va/VA provenir/VM d'/SP algues/NC des_de/SP el/DA terra/NC ./FF
+Tanmateix/RG ,/FF l'/DA esmentada/VM hipòtesi/NC no/RN és/VS sustentable/AQ per/SP la/DA massa/NC de/SP la/DA pluja/NC ,/FF que/PR es/P0 calcula/VM en/SP unes/DI 50_tones/ZZ ./FF
+El/DA govern/NC indi/AQ va/VA concloure/VM ,/FF en/SP un/DI informe/NC ,/FF que/CS la/DA pluja/NC va/VA ser/VS causada/VM per/SP espores/NC d'/SP algues/NC o/CC fongs/NC que/PR d'/SP alguna/DI manera/NC van/VA ser/VS aixecades/NC de/SP el/DA terra/NC i/CC després/RG van/VA caure/VM amb/SP la/DA pluja/NC ./FF
+Però/RG s'/P0 ha/VA d'/SP observar/VM que/CS les/DA cèl·lules/NC de/SP les/DA algues/NC i/CC fongs/NC tenen/VM ADN/NP ./FF
+La/DA controvèrsia/NC continua/VM ./FF
+Investigacions/NP ./FF
+Els/DA últims/AO estudis/NC indiquen/VM que/CS els/DA núvols/NC de/SP pols/NC interespacial/AQ ,/FF ubicats/VM a/SP l'/DA espai/NC exterior/AQ ,/FF poden/VM autoorganitzar/VM -se/PP ,/FF de_manera_que/CS poden/VM 

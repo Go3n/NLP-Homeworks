@@ -22290,4 +22290,93 @@ En/SP morir/VM va/VA ser/VS enterrat/VM a/SP Hinganghat/NP a/SP el/DA districte/
 El/DA va/VA succeir/VM el/DA seu/PX ajudant/NC George_Everest/NP ./FF
 Fill/NP d'/SP un/DI pagès/NC ,/FF la/DA seva/PX destresa/NC en/SP matemàtiques/NC li/PP serviren/VM per/SP entrar/VM a/SP l'/DA Exèrcit_Britànic/NP el/DA 1781/ZZ ,/FF a/SP el/DA "/FF 33/ZZ Regiment/NP of/NC Foot/NP "/FF ./FF
 Amb/SP el/DA seu/PX regiment/NC va/VA prendre_part/VM en/SP la/DA Guerra_d'_Independència_de_els_Estats_Units/NP i/CC va/VA ser/VS fet/VM presoner/AQ a/SP Yorktown/NP ./FF
-Després/RG de/SP el/DA seu/PX alliberament/NC va/VA ser/VS portat/VM a/SP Nova_Brunsvic/NP i/CC es/P0 va/VA involucrar/VM en/SP de/SP la/DA delimitació/NC de/SP la/DA frontera/NC 
+Després/RG de/SP el/DA seu/PX alliberament/NC va/VA ser/VS portat/VM a/SP Nova_Brunsvic/NP i/CC es/P0 va/VA involucrar/VM en/SP de/SP la/DA delimitació/NC de/SP la/DA frontera/NC entre/SP el/DA Canadà/NP i/CC els/DA Estats_Units/NP ./FF
+El/DA 1796/ZZ fou/VS ascendit/VM a/SP tinent/NC i/CC enviat/VM amb/SP el/DA seu/PX regiment/NC a/SP l'/DA Índia/NP ,/FF sota/SP el/DA comandament/NC d'/SP Arthur_Wellesley/NP ,/FF primer/AO duc/NC de/SP Wellington/NP ./FF
+Va/VA prendre_part/VM en/SP la/DA Quarta_Guerra/NP anglo-Mysore/RG ,/FF el/DA 1799/ZZ ./FF
+Després/RG de/SP la/DA captura/NC de/SP Mysore/NP ,/FF Lambton/NP va/VA proposar/VM que/CS el/DA territori/NC fos/VS cartografiat/VM ,/FF usant/VM les/DA noves/AQ tècniques/NC de/SP geodèsia/NC emprades/VM per/SP William_Roy/NP a/SP la/DA Gran_Bretanya/NP ./FF
+La/DA seva/PX proposta/NC fou/VS aprovada/VM i/CC es/P0 començà/VM a/SP treballar/VM mesurant/VM la/DA base/NC de/SP la/DA muntanya/NC Sant_Tomàs_de_Madràs/NP ./FF
+Des/SP d'/SP allà/RG va/VA continuar/VM ,/FF mitjançant/SP triangulació/NC ,/FF a_través_de/SP tota/DI la/DA península/NC índia/AQ fins/SP a/SP arribar/VM a/SP Mangalore/NP ./FF
+El/DA 1806/ZZ va/VA començar/VM els/DA mesuraments/NC de/SP latitud/NC a/SP unes/DI 100_milles/ZZ a/SP el/DA nord/NC de/SP Bangalore/NP ,/FF on/PR acabava/VM el/DA territori/NC britànic/AQ ./FF
+Llavors/RG va/VA continuar/VM cap/DI a/SP el/DA sud/NC fins/SP arribar/VM a/SP el/DA Cap_Comorin/NP ./FF
+Lambton/NP va/VA reprendre/VM la/DA seva/PX exploració/NC en/SP direcció/NC nord/AQ fins/SP a/SP la/DA seva/PX mort/NC ./FF
+Lambton/NP va/VA ser/VS fet/VM Membre_de_la_Royal_Society/NP el/DA 9_de_gener_de_1817/WW i/CC membre/NC de/SP l'/DA Acadèmia_Francesa_de_les_Ciències/NP el/DA 1817/ZZ ./FF
+Notes/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Biografia_de_William_Lambton/NP ;/FF
+Wellen/NP (/FF en/SP limburguès/VM Wuèlle/NP of/NC Wille/NP )/FF és/VS una/DI municipi/NC de/SP Bèlgica/NP que/PR compta/VM amb/SP aproximadament/RG 7.000/ZZ habitants/NC ./FF
+Es/P0 situa/VM a/SP la/DA província/NC de/SP Limburg/NP ,/FF que/PR forma_part/VM de/SP la/DA regió/NC flamenca/AQ ./FF
+Històricament/RG ,/FF el/DA poble/NC formava_part/VM de/SP el/DA comtat/NC de/SP Loon/NP i/CC ,/FF entre/SP 1366/ZZ i/CC 1794/ZZ ,/FF de/SP el/DA Principat_de_Lieja/NP ./FF
+Geografia/NP ./FF
+Wellen/NP és/VS troba/VM a/SP el/DA marge/NC de/SP el/DA riu/NC Herk/NP ./FF
+Des_de/SP la/DA fusió/NC de/SP els/DA municipis/NC de/SP el/DA 1976/ZZ compta/VM amb/SP cinq/VM nuclis/NC :/FF Wellen/NP ,/FF Berlingen/NP ,/FF Herten/NP ,/FF Vrolingen/NP i/CC Ulbeek/NP ./FF
+És/VS un/DI poble/NC rural/AQ ,/FF a/SP el/DA mig/NC d'/SP una/DI regió/NC de/SP fructicultura/NC ./FF
+Antigament/RG hi/PP havia/VA algunes/DI indústries/NC i/CC a/SP el/DA nucli/NC de/SP Vrolingen/NP encara/RG hi/PP ha/VA una/DI fàbrica/NC artesanal/AQ de/SP xarop/NC de/SP Lieja/NP ,/FF fet/NC de/SP pomes/NC i/CC de/SP peres/NC ,/FF una/DI antiga/AQ especialitat/NC de/SP les/DA regions/NC de/SP Haspengouw/NP ,/FF Lieja/NP i/CC el/DA país/NC de/SP Herve/NP ./FF
+Avui/RG ,/FF el/DA poble/NC esdevé/VM cada/DI dia/NC més/RG residencial/AQ i/CC moltes/DI terres/NC conreables/AQ s'/P0 urbanitzen/VM ./FF
+Història/NP ./FF
+Els/DA primers/AO vestigis/NC d'/SP habitació/NC trobats/NC a/SP el/DA territori/NC de/SP el/DA municipi/NC daten/VM de/SP l'/DA època/NC de/SP els/DA Francs/NP ,/FF a/SP els/DA segles/NC V/NP a/SP VII/NP ./FF
+Els/DA primers/AO esments/NC escrits/VM de/SP Wellene/NP o/CC Welnis/NP daten/VM de/SP la/DA segona/AO meitat/NC de/SP el/DA segle_XII/WW ./FF
+El/DA nom/NC significaria/VM "/FF pou/NC "/FF o/CC "/FF font/NC "/FF (/FF wel/NC ,/FF en/SP antic/AQ neerlandès/NC )/FF ./FF
+Una/DI altra/DI teoria/NC pretén/VM que/CS el/DA nom/NC prové/VM de/SP el/DA llatí/NC villa/NC (/FF mas/NC ,/FF petita/AQ colònia/NC )/FF ./FF
+El/DA poble/NC era/VS una/DI possessió/NC de/SP l'/DA abadia/NC de/SP Munsterbilzen/NP de/SP el/DA qual/PR l'/DA abadessa/NC era/VS també/RG princesa/NC sobirana/AQ ./FF
+L'/DA abadessa/NC tenia/VM el/DA poder/NC polític/AQ ,/FF jurídic/AQ i/CC religiós/AQ ./FF
+En/SP aquesta/DD època/NC el/DA principi/NC de/SP la/DA separació/NC de/SP els/DA poders/NC encara/RG no/RN existia/VM ./FF
+a/SP el/DA segle_XVII/WW a/SP el/DA poble/NC s'/P0 hi/PP va/VA organitzar/VM una/DI "/FF cacera/NC de/SP bruixes/NC "/FF en/SP la/DA lluita/NC que/PR mantenien/VM els/DA batlles/NC contra/SP la/DA banda/NC de/SP lladres/NC anomenats/VM els/DA bokkenrijders/NC ./FF
+Tot_i_que/CS l'/DA existència/NC d'/SP aquesta/DD banda/NC sembla/VM haver/VA estat/VM una/DI invenció/NC de/SP el/DA poder/NC jurídic/AQ ,/FF 31/ZZ suspectes/AQ ,/FF tots/DI habitants/NC de/SP Wellen/NP ,/FF van/VA ser/VS executats/VM ./FF
+Més/RG de/SP el/DA 40_%/ZZ de/SP la/DA població/NC mascle/AQ van/VA ser/VS suspectes/AQ durant/SP aquest/DD plet/NC ./FF
+El/DA malnom/NC de/SP els/DA habitants/NC de/SP el/DA poble/NC ,/FF bokkenrijders/NC (/FF cavalcadors/NC de/SP bocs/NC )/FF ,/FF data/NC d'/SP aquest/DD període/NC violent/AQ ./FF
+Monuments/NP ./FF
+L'/DA església/NC de/SP Joan_Baptista/NP ,/FF amb/SP elements/NC d'/SP estil/NC romànic/AQ (/FF el/DA campanar/NC )/FF ,/FF gòtic/AQ i/CC neogòtic/AQ ./FF
+El/DA molí/NC Wellenmolen/NP ,/FF llistat/NC com/CS patrimoni/NC industrial/AQ ./FF
+La/DA fàbrica/NC de/SP xarop/NC a/SP Vrolingen/NP ./FF
+L'/DA antiga/AQ fàbrica/NC de/SP cervesa/NC Hayen/NP ,/FF llistat/NC com/CS patrimoni/NC industrial/AQ ./FF
+La/DA plaça/NC major/AQ de/SP el/DA nucli/NC d'/SP Ulbeek/NP ,/FF que/PR va/VA inspirar/VM la/DA construcció/NC de/SP la/DA plaça/NC de/SP el/DA museu/NC a/SP cel/NC obert/VM de/SP Bokrijk/NP ./FF
+El/DA parc/NC natural/AQ Broekbeemd/NP ./FF
+Uns/DI masos/NC quadrats/NC típics/AQ ./FF
+El/DA castell/NC Trockaert/NP a/SP Ulbeek/NP ,/FF d'/SP estil/NC clàssic/AQ francès/AQ ./FF
+Charles_Le_Brun/NP (/FF 1619-1690/ZZ )/FF ,/FF fou/VS un/DI pintor/NC i/CC decorador/AQ francès/AQ de/SP el/DA segle_XVII/WW ,/FF conegut/VM especialment/RG per/SP la/DA decoració/NC de/SP el/DA Palau_de_Versalles/NP i/CC la/DA famosa/AQ galeria/NC de/SP els/DA miralls/NC ./FF
+Le_Brun/NP va/VA néixer/VM a/SP París/NP el/DA 24_de_febrer_de_1619/WW ./FF
+a/SP els/DA 11/ZZ anys/NC el/DA canceller/NC Pierre_Séguier/NP el/PP confia/VM a/SP el/DA taller/NC de/SP el/DA mestre/NC Simon_Vouet/NP ,/FF de/SP qui/PR aprendrà/VM l'/DA ofici/NC ajudat/VM per/SP François_Perrier/NP ./FF
+El/DA 1642/ZZ viatge/NC a/SP Itàlia/NP amb/SP Nicolas_Poussin/NP ,/FF on/PR passaran/VM 4/ZZ anys/NC gràcies_a/SP l'/DA ajuda/NC financera/AQ de/SP el/DA canceller/NC ./FF
+A/SP la/DA tornada/NC a/SP París/NP ,/FF el/DA superintendent/NC de/SP les/DA finances/NC de/SP el/DA rei/NC ,/FF Nicolas_Fouquet/NP li/PP demana/VM que/CS treballi/VM per/SP a/SP la/DA decoració/NC de/SP el/DA seu/PX castell/NC de/SP Vaux-le-Vicomte/NP ./FF
+El/DA 1648/ZZ ,/FF sota/SP la/DA regència/NC d/AQ Anna/NP d/AQ Àustria/NP ,/FF aconsegueix/VM la/DA fundació/NC de/SP l'/DA Académie/NP royale/AQ de/SP peinture/VM et/PP de/SP sculpture/VM ,/FF conjuntament/RG amb/SP el/DA també/RG pintor/NC Philippe_de_Champaigne/NP ./FF
+Després/RG de/SP la/DA mort/NC de/SP Mazzarino/NP i/CC la/DA caiguda/NC en/SP desgràcia/NC de/SP Fouquet/NP ,/FF Charles_Le_Brun/NP és/VS apropat/VM a/SP la/DA cort/NC de/SP el/DA rei/NC sol/AQ de/SP la/DA mà/NC de/SP Jean-Baptiste_Colbert/NP ./FF
+Les/DA pintures/NC que/PR va/VA fer/VM per/SP a/SP l/NC entrada/NC triomfal/AQ de/SP Lluís_XIV/NP a/SP París/NP el/DA 1660/ZZ van/VA servir/VM -li/PP per/SP atraure/VM l/NC atenció/NC de/SP el/DA monarca/NC fins/SP el/DA punt/NC d/AQ ennoblir/VM -lo/PP i/CC de/SP nomenar/VM -lo/PP el/DA 1663/ZZ Primer/NP pintor/NC de/SP el/DA Rei/NP amb/SP una/DI pensió/NC de/SP 12.000_lliures/ZZ ./FF
+Aquest/DD mateix/DI any/NC Colbert/NP el/PP nomena/VM director/NC de/SP lAcademie/NC Royale/NP amb/SP l/NC encarrec/NC de/SP reorganitzar/VM -la/PP ./FF
+El/DA 1666/ZZ ,/FF fundaran/VM conjuntament/RG l'/DA Acadèmia_de_França/NP a/SP Roma/NP ./FF
+Responsable/NC de/SP la/DA decoració/NC interior/AQ de/SP el/DA palau/NC de/SP Versalles/NP ,/FF té/VM sota/SP les/DA seves/PX ordres/NC diverses/DI desenes/AO d'/SP artistes/NC i/CC d'/SP artesans/NC ./FF
+Durant/SP tot/DI aquest/DD temps/NC treballa/VM també/RG per/SP a/SP altres/DI personalitats/NC ./FF
+A/SP la/DA mort/NC de/SP Colbert/NP ,/FF és/VS succeït/NC per/SP el/DA seu/PX enemic/NC ,/FF el/DA Marqués_de_Louvois/NP ,/FF que/PR no/RN va/VA mostrar/VM cap/DI mena/NC de/SP favor/NC cap/NC a/SP Le_Brun/NP ,/FF que/PR malgrat/SP el/DA continuat/VM recolzament/NC de/SP el/DA rei/NC va/VA sentir/VM un/DI canvi/NC amarg/AQ en/SP la/DA seva/PX posició/NC ./FF
+Això/PD va/VA contribuir/VM a/SP la/DA malaltia/NC que/PR va/VA determinar/VM la/DA seva/PX mort/NC el/DA 22_de_febrer_de_1690/WW a/SP la/DA seva/PX mansió/NC privada/VM de/SP París/NP ./FF
+Va/VA ser/VS inhumat/VM a/SP l'/DA església/NC Saint-Nicolas-du-Chardonnet/NP ./FF
+Víctor/NP és/VS un/DI nom/NC propi/AQ masculí/AQ d'/SP origen/NC llatí/AQ ,/FF amb/SP el/DA significat/NC de/SP vencedor/NC ./FF
+Diversos/DI papes/NC i/CC antipapes/NC ;/FF Víctor_I/NP ,/FF papa/NC ,/FF canonitzat/VM Sant_Víctor/NP ;/FF Víctor_II/NP ,/FF papa/NC ;/FF Víctor_III/NP ,/FF papa/NC ;/FF Víctor_IV/NP (/FF antipapa/NC )/FF ;/FF Reis/NP de/SP la/DA casa/NC de/SP Savoia/NP :/FF Víctor_Amadeu_I_de_Savoia/NP ./FF
+Víctor_Amadeu_II_de_Savoia/NP ./FF
+Víctor_Amadeu_III_de_Sardenya/NP ;/FF Víctor_Manuel_I_de_Sardenya/NP ./FF
+Víctor_Manuel_II/NP ,/FF primer/AO rei/NC d'/SP Itàlia/NP (/FF 1861/ZZ 1878/ZZ )/FF ;/FF Víctor_Manuel_III/NP ,/FF Rei_d'_Itàlia/NP ;/FF Lletra_V_de_l'_Alfabet/NP fonètic/AQ de/SP l'/DA OTAN/NP (/FF llegit/VM "/FF víctor/NC "/FF )/FF ./FF
+El/DA Víctor/NP ,/FF emblema/NC de/SP el/DA franquisme/NC ./FF
+Diverses/DI pel·licules/NC amb/SP el/DA nom/NC de/SP Víctor/NP o/CC Victoria/NP ./FF
+Claude_Perrin_Victor/NP ,/FF mariscal/NC de/SP França/NP ./FF
+Altres/DI personatges/NC importants/AQ :/FF Sext/AO Aureli_Víctor/NP ,/FF historiador/NC romà/AQ ;/FF Flavi_Víctor/NP ,/FF emperador/NC romà/AQ ,/FF fill/NC de/SP Magne_Màxim/NP ;/FF Publi_Víctor/NP ,/FF suposat/VM escriptor/NC romà/AQ de/SP el/DA segle/NC I/NP ;/FF Claudi_Víctor/NP ,/FF cap/DI batau/NC ,/FF nebot/NC de/SP Juli_Civilis/NP ./FF
+Olegario_Víctor_Andrade/NP ,/FF poeta/NC ,/FF periodista/NC i/CC polític/AQ argentí/NC ;/FF Víctor_Jara/NP ,/FF cantautor/NC xilè/AQ ;/FF Víctor_Erice/NP ,/FF director/NC de/SP cinema/NC ;/FF Víctor_García_de_la_Concha/NP ,/FF filòleg/NC i/CC escriptor/NC en/SP castellà/NC ;/FF Victor/NP ,/FF Guitarrista_de_N/NP bunb/AQ ./FF
+El/DA riu/NC de/SP Santa_Eulària/NP ,/FF que/PR recorre/VM bona/AQ part/NC de/SP el/DA nord/NC d'/SP Eivissa/NP ,/FF ha/VA estat/VM tradicionalment/RG l'/DA únic/AQ riu/NC de/SP les/DA Illes_Balears/NP ./FF
+Deu/VM el/DA seu/PX nom/NC a/SP què/PR desemboca/VM a/SP la/DA vila/NC de/SP Santa_Eulària/NP i/CC a/SP la/DA vegada/NC el/DA riu/NC completa/VM el/DA nom/NC de/SP la/DA vila/NC ,/FF que/PR s'/P0 anomena/VM Santa_Eulària/NP des/SP Riu/NP ./FF
+Fins/RG mitjan/VM segle_XX/WW el/DA riu/NC va/VA portar/VM aigua/NC tot/DI l'/DA any/NC ,/FF però/CC actualment/RG només/RG porta/VM aigua/NC després/RG de/SP pluges/NC ,/FF com/CS qualsevol/DI torrent/NC ./FF
+La/DA major/AQ part/NC de/SP l'/DA illa/NC d'/SP Eivissa/NP està/VM formada/VM per/SP muntanyes/NC no/RN molt/RG altes/AQ i/CC aquestes/DD muntanyes/NC ho/PP estan/VM bàsicament/RG per/SP roca/NC calcària/AQ ,/FF que/PR és/VS permeable/AQ ./FF
+Per/SP aquest/DD motiu/NC la/DA major/AQ part/NC de/SP l'/DA illa/NC és/VS un/DI gran/AQ aqüífer/NC ,/FF fins/SP a/SP el/DA punt/NC que/PR hi/PP ha/VA diversos/DI brolls/NC naturals/AQ d'/SP aigua/NC ./FF
+Així/RG ,/FF el/DA riu/NC de/SP Santa_Eulària/NP ,/FF que/PR en_principi/RG seria/VS un/DI torrent/NC ,/FF s'/P0 alimentava/VM durant/SP tot/DI l'/DA any/NC d'/SP aigües/NC subterrànies/AQ ,/FF complint/VM la/DA característica/NC bàsica/AQ de/SP qualsevol/DI riu/NC :/FF portar/VM aigua/NC de/SP forma/NC contínua/AQ ./FF
+A/SP mitjan/VM segle_XX/WW l'/DA explotació/NC de/SP els/DA aqüífers/NC s'/P0 intensifica/VM i/CC el/DA riu/NC s'/P0 asseca/VM ,/FF duent/VM aigua/NC només/RG després/RG de/SP les/DA precipitacions/NC ./FF
+Així/RG ,/FF avui/RG en/SP dia/NC és/VS discutible/AQ i/CC discutit/VM que/CS se/P0 'n/PP pugui/VM dir/VM riu/NC més/RG enllà/RG de/SP la/DA toponímia/NC ./FF
+Morfològicament/RG només/RG semblava/VM un/DI riu/NC a/SP la/DA zona/NC de/SP la/DA desembocadura/NC ./FF
+Diversos/DI torrents/NC van/VA a/SP parar/VM a/SP el/DA riu/NC de/SP Santa_Eulària/NP ./FF
+A/SP l'/DA interior/NC era/VS un/DI rierol/NC que/PR no/RN podia/VM modificar/VM morfològicament/RG el/DA seu/PX entorn/NC en/SP la/DA mesura/NC que/CS un/DI riu/NC ho/PP hauria/VA de/SP fer/VM ./FF
+Només/RG la/DA zona/NC anterior/AQ a/SP la/DA desembocadura/NC ,/FF vora/SP Santa_Eulària/NP ,/FF està/VM modificada/VM per/SP el/DA riu/NC ./FF
+A/SP sota/SP de/SP el/DA Puig_de_Missa_de_Santa_Eulària/NP hi/PP havia/VA hagut/VM regadius/NC i/CC fins_i_tot/RG molins/NC fariners/AQ impulsats/VM per/SP el/DA corrent/NC de/SP el/DA riu/NC ./FF
+per/SP els/DA que/PR defensen/VM que/CS se/P0 'l/PP segueixi/VM considerant/VM riu/NC ,/FF un/DI argument/NC és/VS que/CS actualment/RG encara/RG corre/VM de/SP forma/NC subterrània/AQ sota/SP el/DA seu/PX llit/NC ./FF
+En/SP hiverns/NC especialment/RG plujosos/AQ el/DA riu/NC encara/RG pot/VM portar/VM aigua/NC durant/SP mesos/NC ./FF
+Durant/SP bona/AQ part/NC de/SP l'/DA hivern/NC 2006-2007/ZZ el/DA riu/NC va/VA córrer/VM ,/FF cosa/NC que/PR no/RN es/P0 veia/VM des_de/SP feia/VM molts/DI anys/NC ,/FF potser/RG dècades/NC ./FF
+A/SP l'/DA interior/NC ,/FF el/DA riu/NC també/RG havia/VA estat/VS aprofitat/VM per/SP el/DA regadiu/NC ja/RG què/PR els/DA pagesos/NC que/PR tenien/VM terres/NC limitant/VM amb/SP ell/PP feien_servir/VM regadores/AQ per/SP canalitzar/VM aigua/NC de/SP el/DA riu/NC i/CC aprofitar/VM -la/PP per/SP regar/VM ./FF
+Això/PD implicava/VM necessàriament/RG que/CS els/DA veïns/NC que/PR empraven/VM el/DA riu/NC es/P0 posessin/VM d'/SP acord/NC ,/FF ja/RG què/PR aturaven/VM l'/DA aigua/NC de/SP la/DA regadora/NC per/SP complet/AQ durant/SP un/DI temps/NC el/DA dia/NC que/PR es/P0 volia/VM regar/VM ,/FF deixant/VM els/PP de/SP més/RG avall/RG sense/SP aigua/NC ./FF
+Amb/SP aquest/DD sistema/NC també/RG es/P0 feia/VM arribar/VM aigua/NC a/SP zones/NC una/DI mica/NC més/RG allunyades/VM ,/FF com/CS Es_Canar/NP ./FF
+La/DA desembocadura/NC de/SP el/DA riu/NC de/SP Santa_Eulària/NP està/VM envaïda/VM per/SP el/DA mar/NC uns/DI cinc-cents_metres/ZZ i/CC l'/DA ajuntament/NC de/SP Santa_Eulària/NP hi/PP ha/VA fet/VM un/DI passeig/NC ./FF
+A/SP dins/RG ,/FF llaüts/NC i/CC altres/DI petites/AQ embarcacions/NC la/DA fan_servir/VM de/SP moll/NC ./FF
+a/SP el/DA Keller/NP fou/VS un/DI pilot/NC nord-americà/AQ de/SP curses/NC automobilístiques/AQ nascut

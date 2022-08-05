@@ -22603,4 +22603,77 @@ Beiras/NP ,/FF juntament/RG amb/SP Xaime_Illa_Couto/NP ,/FF també/RG va/VA ser/
 En/SP l'/DA actualitat/NC és/VS columnista/NC dominical/AQ de/SP el/DA periòdic/NC en/SP gallec/NC "/FF Galícia_Hoxe/NP "/FF i/CC segueix/VM col·laborant/VM ,/FF de_tant_en_tant/RG ,/FF en/SP les/DA publicacions/NC "/FF Grial/NP "/FF i/CC "/FF A/SP Nosa_Terra/NP "/FF ./FF
 Les/DA tombes/NC marínides/AQ de/SP Fes/NP estan/VM situades/VM dalt/RG d'/SP un/DI pujol/NC de/SP la/DA medina/NC de/SP Fes/NP el-Bali/AQ ,/FF a/SP la/DA ciutat/NC de/SP Fes/NP ,/FF a/SP el/DA Marroc/NP ./FF
 Són/VS unes/DI ruïnes/NC de/SP l'/DA antic/AQ palau/NC i/CC necròpolis/NC benimerina/AQ ./FF
-Els/DA antics/AQ cronistes/NC recolliren/VM que/CS les/DA tombes/NC meravellaven/VM per/SP 
+Els/DA antics/AQ cronistes/NC recolliren/VM que/CS les/DA tombes/NC meravellaven/VM per/SP el/DA seu/PX magnífic/AQ marbre/NC i/CC l'/DA esplendor/NC de/SP els/DA seus/PX epitafis/NC acolorits/VM ./FF
+Actualment/RG les/DA tombes/NC estan/VM ja/RG molt/RG deteriorades/VM però/RG ofereix/VM una/DI magnífica/AQ vista/NC sobre/SP la/DA ciutat/NC ./FF
+El/DA tram/NC de/SP la/DA muralla/NC que/PR queda/VM a/SP els/DA seus/PX peus/NC és/VS el/DA més/RG antic/AQ de/SP les/DA defenses/NC de/SP la/DA medina/NC ./FF
+Alguns/DI segments/NC daten/VM de/SP el/DA segle_XII/WW ,/FF com/CS és/VS el/DA cas/NC de/SP Broj_Kaoukeb/NP ,/FF on/PR en/SP altres/DI temps/NC s'/P0 hi/PP situava/VM el/DA barri/NC de/SP els/DA leprosos/NC ./FF
+Les/DA tombes/NC dominen/VM un/DI cementiri/NC que/PR s'/P0 estén/VM fins/SP a/SP Bab_Guissa/NP ,/FF una/DI porta/NC almohade/AQ de/SP el/DA segle_XIII/WW ./FF
+El/DA Quadrat/NP d'/SP or/NC és/VS la/DA zona/NC de/SP l'/DA Eixample_de_Barcelona/NP situada/VM a/SP el/DA voltant/NC de/SP el/DA Passeig_de_Gràcia/NP i/CC delimitada/VM per/SP el/DA carrer/NC Aribau/NP a/SP l'/DA esquerra/NC i/CC Passeig_de_Sant_Juan/NP a/SP la/DA dreta/NC ,/FF limitat/VM per/SP la/DA Diagonal/NP en/SP la/DA part/NC superior/AQ la/DA qual/DR te/NC forma/NC de/SP quadrat/NC i/CC acull/VM un/DI ric/AQ patrimoni/NC arquitectonic/AQ ./FF
+Situat/VM en/SP el/DA context/NC de/SP la/DA riquesa/NC burgesa/AQ en/SP la/DA qual/PR cresqué/VM l'/DA Eixample_el_Quadrat_d'_Or/NP guarda/VM exponents/NC molt/RG importants/AQ de/SP l'/DA arquitectura/NC modernista/AQ catalana/AQ barcelonina/AQ de/SP començament/NC de/SP el/DA segle_XX/WW ./FF
+Així/RG podem/VM trobar/VM la/DA Casa_Batlló/NP ,/FF d'/SP Antoni_Gaudí/NP i/CC Cornet/NP ,/FF La_Casa_Amatller/NP ,/FF de/SP Josep_Puig/NP i/CC Cadafalch/NP ,/FF La_Casa_Lleó_Morera/NP ,/FF de/SP Lluís_Domènech/NP i/CC Montaner/NP ;/FF La_Casa_Milà/NP (/FF altrament/CS dita/NC La_Pedrera/NP )/FF obra/NC també/RG d'/SP Antoni_Gaudí/NP i/CC Cornet/NP ;/FF La_Casa_Terrades/NP (/FF coneguda/VM com/CS Casa_de_les_Punxes/NP )/FF obra/NC també/RG de/SP Josep_Puig/NP i/CC Cadafalch/NP ;/FF La_Casa_Macaya/NP ,/FF també/RG obra/NC de/SP Josep_Puig/NP i/CC Cadafalch/NP ;/FF o/CC també/RG la/DA Casa_Montaner/NP i/CC Simón/NP ,/FF de/SP Lluís_Domènech/NP i/CC Montaner/NP ,/FF actualment/RG i/CC després/RG d'/SP una/DI restauració/NC de/SP els/DA arquitectes/NC Roser_Amadó/NP i/CC Lluís_Domènech/NP i/CC Girbau/NP acull/VM des_de/SP juny_de_1990/WW la/DA Seu_de_la_Fundació_Antoni_Tàpies/NP ./FF
+Referències/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Turisme_de_Barcelona/NP ,/FF el/DA Quadrat_d'_Or/NP ;/FF Barceloca/NP ,/FF el/DA Quadrat_d'_Or/NP ;/FF Bibliografia/NP ./FF
+Albert_García_Espuche/NP ,/FF El_Quadrat_D'/NP or/NC ./FF
+Centre_De_La_Barcelona_Modernista/NP ,/FF Lunwerg_Editores/NP ,/FF S.A./NP (/FF 2002/ZZ )/FF ISBN/NP 84-7782-551-3/ZZ ;/FF
+Parlament_de_Galícia/NP és/VS la/DA institució/NC gallega/AQ en/SP la/DA qual/PR es/P0 troba/VM el/DA poder/NC legislatiu/AQ de/SP la/DA comunitat/NC autònoma/AQ ./FF
+Com/CS els/DA Parlaments_de_el_País_Basc/NP ,/FF Catalunya/NP i/CC Andalusia_el_Parlament_de_Galícia/NP va/VA ser/VS instaurat/VM ,/FF amb/SP anterioritat/NC a/SP les/DA primeres/AO eleccions/NC autonòmiques/AQ ,/FF a_partir_de/SP la/DA redacció/NC de/SP l'/DA Estatut_d'_Autonomia/NP per/SP el/DA procediment/NC marcat/VM en/SP l'/DA article/NC 151.2/ZZ de/SP la/DA Constitució/NP ,/FF per/SP els/DA diputats/NC de/SP les/DA Corts_Generals/NP escollits/VM en/SP les/DA províncies/NC corresponents/AQ en/SP la/DA primera/AO legislatura/NC de/SP la/DA monarquia/NC ,/FF presidida/VM per/SP Adolfo_Suárez/NP ./FF
+Funcions/NP ./FF
+Les/DA funcions/NC principals/AQ de/SP el/DA Parlament_de_Galícia/NP són/VS ,/FF Exercir/NP la/DA potestat/NC legislativa/AQ de/SP Galícia/NP ;/FF Controlar/NP l'/DA acció/NC executiva/AQ de/SP la/DA Junta_de_Galícia/NP ;/FF Aprovar/NP els/DA pressupostos/NC ;/FF Escollir/NP el/DA president/NC de/SP la/DA Junta_de_Galícia/NP ;/FF Seu/NP ./FF
+La/DA seu/NC de/SP el/DA Parlament_de_Galícia/NP s'/P0 assenta/VM en/SP la/DA capital/NC gallega/AQ ,/FF Santiago_de_Compostel·la/NP ./FF
+El/DA saló/NC de/SP sessions/NC és/VS el/DA lloc/NC habitual/AQ on/PR tenen_lloc/VM les/DA sessions/NC de/SP ple/NC ,/FF i/CC els/DA Diputats/NP prenen/VM els/DA seus/PX seients/NC amatents/AQ en/SP forma/NC d'/SP hemicicle/NC ,/FF davant/SP la/DA taula/NC presidencial/AQ ./FF
+El/DA President_de_la_Junta_de_Galícia/NP i/CC el/DA seu/PX govern/NC ocupen/VM la/DA primera/AO fila/NC d'/SP escons/NC ,/FF i/CC la/DA resta/NC de/SP Diputats/NP i/CC Diputades/NP ,/FF agrupats/VM per/SP grups/NC parlamentaris/AQ ocupen/VM la/DA resta/NC de/SP els/DA escons/NC ./FF
+Composició/NP ./FF
+El/DA Parlament_de_Galícia/NP està/VM format/NC per/SP 75/ZZ Diputats/NP ./FF
+Després/RG de/SP les/DA eleccions/NC de/SP el/DA 19_de_juny_de_2005/WW va/VA quedar/VM format/NC de/SP la/DA següent/AQ manera/NC :/FF Partit_Popular_de_Galícia/NP (/FF PPdeG/NP )/FF :/FF 37/ZZ diputats/NC ./FF ;/FF Partit_de_els_Socialistes_de_Galícia-PSOE/NP :/FF 25/ZZ diputats/NC ./FF ;/FF Bloc_Nacionalista_Gallec/NP (/FF BNG/NP )/FF :/FF 13/ZZ diputats/NC ./FF ;/FF El_PSdeG-PSOE/NP i/CC el/DA BNG/NP ,/FF ambdues/DI forces/NC de/SP cort/NC esquerrana/AQ ,/FF governen/VM a/SP Galícia/NP després/RG d'/SP arribar/VM a/SP un/DI pacte/NC de/SP coalició/NC poc/DI temps/NC després/RG de/SP els/DA resultats/NC electorals/AQ de/SP 2005/ZZ ./FF
+Vegeu/VM també/RG ./FF
+Parlament_Autonòmic/NP ;/FF Enllaços/NP externs/AQ ./FF
+Pàgina/NP web/NC de/SP el/DA Parlament_de_Galícia/NP ;/FF
+El/DA Partit_Popular_de_Galícia/NP és/VS l'/DA organització/NC gallega/AQ de/SP el/DA Partit_Popular/NP ,/FF que/PR funciona/VM de/SP manera/NC autònoma/AQ des_de/SP el/DA 1991/ZZ ./FF
+Compta/VM amb/SP 2.042/ZZ regidors/NC ,/FF 37/ZZ diputats/NC a/SP el/DA Parlament_de_Galícia/NP i/CC 12/ZZ en/SP el/DA Congrés_de_els_Diputats/NP ./FF
+El/DA seu/PX secretari/NC general/AQ fou/VS Manuel_Fraga/NP fins/SP el/DA 2005/ZZ ./FF
+L'/DA actual/AQ és/VS Alberto_Núñez_Feijoo/NP ./FF
+Enllaços/NC externs/AQ ./FF
+Web/NC oficial/AQ ;/FF
+La/DA Punta_de_la_Banya/NP és/VS una/DI petita/AQ península/NC formada/VM a/SP l'/DA extrem/NC meridional/AQ de/SP el/DA delta/NC de/SP l'/DA Ebre/NP ./FF
+S'/P0 estén/VM davant/RG de/SP la/DA costa/NC de/SP Sant_Carles_de_la_Ràpita/NP ,/FF municipi/NC a/SP el/DA qual/PR pertany/VM ./FF
+La/DA Punta_de_la_Banya/NP està/VM unida/VM a/SP el/DA delta/NC de/SP l'/DA Ebre/NP a_través_de/SP l'/DA istme/NC de/SP el/DA Trabucador/NP ./FF
+Tot/DI aquest/DD conjunt/NC delimita/VM l'/DA espai/NC marítim/AQ que/PR es/P0 coneix/VM com/CS a/SP badia/NC de/SP els/DA Alfacs/NP ./FF
+A/SP l'/DA espai/NC de/SP la/DA punta/NC de/SP la/DA Banya/NP s'/P0 hi/PP desenvolupa/VM una/DI important/AQ activitat/NC econòmica/AQ ,/FF com/CS és/VS l'/DA obtenció/NC de/SP sal/NC a_partir_de/SP l'/DA evaporació/NC d'/SP aigua/NC marina/AQ ./FF
+Què/PT ,/FF estàs/VM gelosa/AQ ?/FF (/FF títol/NC original/AQ Aha/NP oe/VM feii/RG ?/FF ,/FF en/SP tahitià/NC normalitzat/VM No/NP te/P0 aha/VM oe/VM fe/NC i/CC i/CC ?/FF )/FF és/VS un/DI quadre/NC de/SP Paul_Gauguin/NP fet/VM el/DA 1892/ZZ durant/SP la/DA seva/PX primera/AO estada/NC a/SP Tahití/NP ./FF
+Es/P0 conserva/VM a/SP el/DA Museu_Puixkin_de_Moscou/NP ./FF
+Es/P0 coneix/VM per/SP la/DA referència/NC núm/NC ./FF 461/ZZ de/SP el/DA catàleg/NC de/SP Wildenstein/NP ./FF
+El/DA títol/NC en/SP tahitia/NC vol/VM dir/VM literalment/RG «/FF per/SP què/PR tens/VM rancúnia/NC ?/FF »/FF ,/FF però/CC Gauguin/NP va/VA adoptar/VM l'/DA errada/NC de/SP el/DA diccionari/NC Jaussen/NP i/CC ho/PP va/VA traduir/VM en/SP el/DA catàleg/NC de/SP l'/DA exposició/NC Durand-Ruel/NP de/SP el/DA 1893/ZZ com/CS Et/NP quoi/VM !/FF
+Tu/PP es/P0 jalouse/NC ?/FF ./FF
+Dues/ZZ noies/NC tahitianes/AQ són/VS a/SP la/DA platja/NC ,/FF una/DI estirada/NC i/CC l'/DA altra/PI asseguda/VM ,/FF nues/AQ i/CC amb/SP un/DI pareo/NC estès/NC a/SP el/DA costat/NC ./FF
+La/DA sorra/NC de/SP la/DA platja/NC és/VS llisa/AQ ,/FF tractada/VM amb/SP un/DI color/NC pla/AQ ,/FF i/CC el/DA mar/NC és/VS sinuós/AQ amb/SP colors/NC arbitraris/AQ ./FF
+La/DA tensió/NC que/PR suggereix/VM el/DA títol/NC no/RN es/P0 reflecteix/VM en/SP el/DA quadre/NC ./FF
+Les/DA dues/ZZ noies/NC estan/VM representades/VM en/SP una/DI actitud/NC contemplativa/AQ ,/FF de/SP descans/NC ./FF
+Gauguin/NP explica/VM l'/DA escena/NC :/FF «/FF A_la_vora_de/NP la/DA mar/NC ,/FF malgrat/SP la/DA calor/NC ,/FF dues/ZZ germanes/NC ,/FF que/PR s'/P0 acaben/VM de/SP banyar/VM ,/FF s'/P0 estiren/VM en/SP gracioses/AQ actituds/NC animals/AQ de/SP descans/NC ,/FF i/CC parlen/VM amors/NC d'/SP ahir/RG ,/FF de/SP demà/RG ./FF
+Una/DI baralla/NC :/FF un/DI record/NC ./FF
+»/FF I/NP què/PR ?/FF estàs/VM gelosa/AQ ?/FF »/FF Per_Gauguin/NP les/DA noies/NC tahitianes/AQ són/VS «/FF daurades/NC i/CC bronzejades/VM ,/FF de/SP coloracions/NC a/SP la/DA vegada/NC obagues/AQ i/CC ardents/AQ ./FF
+El/DA sol/NC les/PP ha/VA cremat/NC ,/FF però/CC també/RG les/PP ha/VA penetrat/VM i/CC irradia/VM d'/SP elles/PP Són/NP amoroses/AQ ,/FF indolents/AQ i/CC alegres/AQ de/SP dia/NC ,/FF i/CC entristides/VM i/CC tremoloses/NC de/SP nit/NC ./FF »/FF La/NP posició/NC de/SP la/DA noia/NC asseguda/VM està/VM basada/VM en/SP una/DI fotografia/NC que/PR tenia/VM Gauguin/NP d'/SP un/DI fris/NC de/SP el/DA teatre/NC de/SP Dionís_d'_Atenes/NP ,/FF donant/VM una/DI sensació/NC escultural/AQ i/CC de/SP relleu/NC ./FF
+Aquesta/DD figura/NC la/PP va/VA tornar/VM a/SP reproduir/VM a/SP Nave/NP nave/VM moe/RG (/FF 1894/ZZ )/FF ,/FF El/NP gran/AQ Buda/NP (/FF 1899/ZZ )/FF i/CC a/SP I/NP l'/DA or/NC de/SP els/DA seus/PX cossos/NC (/FF 1901/ZZ )/FF ./FF
+Gauguin/NP es/P0 va/VA mostrar/VM molt/RG satisfet/VM de/SP la/DA seva/PX obra/NC ./FF
+La/DA va/VA enviar/VM a/SP la/DA seva/PX dona/NC a/SP Copenhaguen/NP per/SP vendre/VM -la/PP ,/FF però/CC no/RN va/VA ser/VS possible/AQ per/SP l'/DA alt/AQ preu/NC que/PR hi/PP va/VA posar/VM ./FF
+Un/DI cop/NC exposada/VM a/SP París/NP ,/FF va/VA ser/VS comprada/VM per/SP Edgar_Degas/NP ./FF
+Des_de/SP el/DA 1908/ZZ és/VS a/SP el/DA Museu_Puixkin/NP ./FF
+Referències/NP ./FF
+El/DA sistema/NC morfoclimàtic/AQ periglaciar/VM apareix/VM en/SP zones/NC on/PR les/DA temperatures/NC arriben/VM a/SP els/DA 0ºC/ZZ ,/FF durant/SP la/DA major/AQ part/NC de/SP el/DA any/NC i/CC són/VS positives/AQ ,/FF però/CC inferiors/AQ a/SP els/DA 10ºC/ZZ ,/FF durant/SP un/DI període/NC de/SP dos/ZZ a/SP quatre_mesos/ZZ anuals/AQ ./FF
+Les/DA zones/NC on/PR es/P0 produeixen/VM els/DA processos/NC periglaciars/AQ rodegen/VM a/SP les/DA que/PR que/CS corresponen/VM a/SP el/DA sistema/NC morfoclimàtic/AQ glaciar/VM ./FF
+També/RG apareix/VM el/DA periglaciarisme/NC en/SP algunes/DI serralades/NC en/SP les/DA que/PR no/RN es/P0 donen/VM les/DA condicions/NC suficients/AQ per/SP el/DA desenvolupament/NC de/SP glaceres/NC ./FF
+Els/DA climes/NC que/PR determinen/VM aquest/DD domini/NC són/VS el/DA continental/AQ subàrtic/NC ,/FF el/DA polar/AQ de/SP tundra/NC i/CC el/DA d'/SP alta/AQ muntanya/NC ./FF
+Els/DA processos/NC i/CC agents/NC que/PR intervenen/VM en/SP el/DA modelat/NC periglaciar/VM són/VS el/DA gel/NC ,/FF els/DA processos/NC fluviotorrencials/AQ i/CC els/DA fenòmens/NC de/SP vessant/NC ./FF
+Processos/NP i/CC agents/NC ./FF
+Encara/RG que/CS no/RN amb/SP tanta/DI exclusivitat/NC com/CS en/SP els/DA sistemes/NC glaciars/AQ ,/FF el/DA gel/NC segueix/VM sent/VS l'/DA agent/NC més/RG important/AQ de/SP el/DA modelat/NC de/SP el/DA sistema/NC periglaciar/VM ./FF
+Aquest/DD agent/NC es/P0 el/DA responsable/NC de/SP la/DA gelifracció/NC ,/FF que/PR és/VS el/DA fenomen/NC més/RG rellevant/AQ d'/SP aquest/DD sistema/NC ./FF
+Aquest/DD tipus/NC de/SP modelat/NC periglaciar/VM sorgeix/VM a/SP conseqüència/NC de/SP el/DA gel/NC que/PR es/P0 forma/NC a/SP l'/DA interior/NC de/SP les/DA esquerdes/NC rocoses/AQ de/SP els/DA vessants/NC de/SP la/DA muntanya/NC ,/FF que/PR produeixen/VM l'/DA augment/NC de/SP volum/NC i/CC la/DA disgregació/NC de/SP la/DA roca/NC ./FF
+Els/DA fragments/NC generats/VM cauen/VM i/CC s'/P0 acumulen/VM a/SP el/DA marge/NC de/SP les/DA muntanyes/NC en/SP les/DA formacions/NC anomenades/NC tarteres/NC ./FF
+Els/DA processos/NC fluviotorrencials/AQ produids/AQ per/SP l'/DA aigua/NC procedent/AQ de/SP la/DA fusió/NC de/SP el/DA gel/NC i/CC de/SP les/DA precipitacions/NC modelen/VM els/DA pendents/NC ./FF
+Els/DA fenomens/NC de/SP vessant/NC són/VS un/DI conjunt/NC de/SP mecanismes/NC que/PR tenen_lloc/VM a/SP els/DA vessants/NC de/SP les/DA muntanyes/NC com/CS resultat/NC de/SP el/DA procés/NC de/SP meteorització/NC i/CC el/DA efecte/NC de/SP la/DA força/NC de/SP la/DA gravetat/NC ,/FF que/PR provoquen/VM el/DA moviment/NC de/SP materials/NC a/SP zones/NC més/RG baixes/AQ ./FF
+En/SP el/DA sistema/NC periglaciar/VM són/VS importants/AQ tres/ZZ fenomens/NC de/SP vessant/NC :/FF Les/DA colades/NC de/SP fang/NC ,/FF que/PR consisteixen/VM en/SP el/DA desplaçament/NC de/SP el/DA material/NC provinent/AQ de/SP el/DA fang/NC que/PR es/P0 produeix/VM a/SP el/DA mullar/VM -se/PP el/DA sól/AQ ;/FF ;/FF La/NP reptació/NC ,/FF un/DI moviment/NC lent/AQ de/SP els/DA materials/NC de/SP el/DA sól/AQ a_favor_de/SP la/DA pendent/NC ;/FF ;/FF La/NP solifluxió/NC ,/FF petits/AQ fluxs/NC de/SP el/DA sól/AQ que/PR es/P0 produeixen/VM quan/CS hi/PP han/VA bassals/NC a/SP conseqüencia/VM de/SP el/DA desglaç/NC ./FF
+Formes/NC de/SP el/DA relleu/NC periglaciar/VM ./FF
+En/SP aquest/DD domini/NC són/VS típiques/AQ les/DA següents/AQ formes/NC de/SP relleu/NC :/FF En/SP zones/NC de/SP pendent/NC es/P0 poden/VM formar/VM sistemes/NC de/SP esglaons/NC ,/FF glaciars/NC rocosos/AQ ,/FF etc./FF En/SP zones/NC horitzontals/AQ es/P0 formen/VM escletxes/NC cobertes/NC de/SP gel/NC que/PR a/SP el/DA descongelar/VM -se/PP són/VS ocupades/VM per/SP fragments/NC de/SP roca/NC i/CC de/SP argila/NC ,/FF superfícies/NC amb/SP escletxes/NC amb/SP fragments/NC de/SP roca/NC que/PR adopten/VM formes/NC de/SP polígons/NC i/CC estructures/NC amb/SP forma/NC de/SP turó/NC coberts/VM de/SP gespa/NC i/CC molsa/NC ./FF
+Parlament_Autonòmic/NP és/VS la/DA denominació/NC que/PR té/VM a/SP Espanya/NP l'/DA articulació/NC de/SP el/DA poder/NC legislatiu/AQ a/SP cada/DI Comunitat_Autònoma/NP ./FF
+El/DA Títol_VIII_de_la_Constitució_Espanyola/NP de/SP 1978/ZZ regula/VM els/DA poders/NC executius/AQ ,/FF judicial/AQ i/CC legislatiu/AQ a/SP cada/DI regió/NC ./FF
+El/DA Parlament_Autonòmic/NP està/VM format/NC per/SP els/DA representants/NC triats/VM a/SP les/DA que/
